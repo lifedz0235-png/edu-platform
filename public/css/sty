@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  background: #111;
+  color: white;
+}
+
+.video-player {
+  flex: 3;
+  padding: 20px;
+}
+
+.video-list {
+  flex: 1;
+  background: #1c1c1c;
+  padding: 10px;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.video-item {
+  padding: 10px;
+  border-bottom: 1px solid #333;
+  cursor: pointer;
+}
+
+.video-item:hover {
+  background: #333;
+}
+
+.actions {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+.btn {
+  background: gold;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  color: black;
+}
