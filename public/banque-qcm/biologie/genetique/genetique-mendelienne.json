@@ -1,0 +1,3105 @@
+{
+  "category": "biologie",
+  "module": "genetique",
+  "courseId": 20,
+  "courseTitle": "Genetique Mendelienne",
+  "supportTitle": "genetique-mendelienne",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/GENETIQUE/genetique-mendelienne.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les notions de gène, mutation, allèle et locus, quelles propositions sont exactes ?",
+      "choices": [
+        "Un gène est une séquence d’acides nucléiques pouvant coder pour une protéine ou un ARN.",
+        "Une mutation correspond à une modification de séquence d’un gène.",
+        "Un allèle est le site physique où se situe un gène sur un chromosome.",
+        "Le locus correspond à une version variable d’un même gène."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le gène code pour une protéine ou un ARN et peut subir des mutations. L’allèle est une version variable d’un gène, tandis que le locus est son site physique chromosomique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des états allélique et des notions génotype/phénotype, quelles propositions sont exactes ?",
+      "choices": [
+        "Un individu homozygote possède deux allèles différents à un même locus.",
+        "Un individu hétérozygote possède deux allèles différents à un même locus.",
+        "Le génotype désigne la constitution génétique d’une cellule ou d’un individu.",
+        "Le phénotype désigne les caractères observés, pathologiques ou non pathologiques."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’hétérozygote possède deux allèles différents ; l’homozygote possède deux allèles identiques. Le génotype est la constitution génétique, le phénotype l’ensemble des caractères observés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les maladies congénitales et génétiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Une maladie congénitale est présente à la naissance.",
+        "Toute maladie congénitale est nécessairement génétique.",
+        "Certaines maladies génétiques ne s’expriment qu’au cours de la vie.",
+        "Une maladie génétique est toujours congénitale."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Une maladie congénitale est présente à la naissance, mais peut être génétique ou non. Inversement, certaines maladies génétiques ne sont pas congénitales et apparaissent plus tard."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la chromatine et de ses états de condensation, quelles propositions sont exactes ?",
+      "choices": [
+        "La chromatine associe ADN, ARN et protéines.",
+        "Un chromosome correspond à une structure condensée de chromatine.",
+        "L’euchromatine contient des régions moins condensées avec des gènes actifs.",
+        "L’hétérochromatine contient des régions plus condensées avec des gènes généralement non transcrits."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La chromatine est constituée d’ADN, d’ARN et de protéines. Le chromosome est une forme condensée. L’euchromatine est moins condensée et active, l’hétérochromatine est plus condensée et généralement non transcrite."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation structurale des chromosomes, quelles propositions sont exactes ?",
+      "choices": [
+        "Les chromosomes sont constitués de longues molécules d’ADN double brin associées à des protéines histones et non histones.",
+        "Les chromatides sœurs sont des formes répliquées d’un chromosome unies par le centromère.",
+        "L’ADN chromosomique est empaqueté autour de protéines histones.",
+        "Les chromatides sœurs correspondent à deux chromosomes homologues non répliqués."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chromosomes associent ADN double brin et protéines. Après réplication, les chromatides sœurs restent unies par le centromère. Elles ne correspondent pas à des chromosomes homologues non répliqués."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le caryotype humain normal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il comporte 46 chromosomes répartis en 23 paires.",
+        "Il comporte 22 paires d’autosomes.",
+        "Les autosomes sont identiques chez l’homme et chez la femme.",
+        "Les gonosomes sont XX chez l’homme et XY chez la femme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le caryotype humain normal comprend 46 chromosomes : 22 paires d’autosomes et une paire de gonosomes. Les gonosomes sont XX chez la femme et XY chez l’homme."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la cytogénétique et du caryotype, quelles propositions sont exactes ?",
+      "choices": [
+        "La cytogénétique étudie les chromosomes, leur structure et leur transmission.",
+        "Le caryotype permet d’établir la formule chromosomique d’un individu.",
+        "Le caryotype permet de détecter des anomalies de nombre ou de structure des chromosomes.",
+        "Le caryotype permet d’identifier directement toutes les mutations ponctuelles de l’ADN."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cytogénétique étudie les chromosomes. Le caryotype établit la formule chromosomique et détecte les anomalies chromosomiques de nombre ou de structure, mais le texte ne lui attribue pas la détection directe des mutations ponctuelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la localisation et la nature de l’ADN, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ADN est le matériel génétique des cellules vivantes.",
+        "Les gènes sont des segments d’ADN.",
+        "L’ADN est exclusivement contenu dans le noyau des cellules vivantes.",
+        "Chez les végétaux, il existe de l’ADN dans les chloroplastes."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’ADN est le support de l’information génétique et les gènes sont des segments d’ADN. Il est principalement nucléaire, mais une fraction est mitochondriale ; chez les végétaux, il existe aussi dans les chloroplastes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la structure de l’ADN, quelles propositions sont exactes ?",
+      "choices": [
+        "Chaque brin d’ADN est constitué de nucléotides comprenant un désoxyribose.",
+        "Les bases de l’ADN sont l’adénine, la guanine, la cytosine et la thymine.",
+        "Les deux brins d’ADN sont antiparallèles et complémentaires.",
+        "L’ADN est formé d’une seule chaîne nucléotidique contenant de l’uracile."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADN comporte deux brins complémentaires et antiparallèles, faits de nucléotides avec désoxyribose, phosphate et bases A, G, C, T. L’uracile appartient à l’ARN."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la complémentarité des bases de l’ADN, quelles propositions sont exactes ?",
+      "choices": [
+        "L’adénine s’apparie avec la thymine.",
+        "La guanine s’apparie avec la cytosine.",
+        "L’adénine est unie à la thymine par deux liaisons hydrogène.",
+        "La cytosine est unie à la guanine par deux liaisons hydrogène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’ADN, A s’apparie avec T par deux liaisons hydrogène, et C avec G par trois liaisons hydrogène."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ARN, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ARN est un polymère de ribonucléotides reliés par des liaisons phosphodiester.",
+        "L’ARN contient un ribose.",
+        "L’ARN contient les bases adénine, uracile, guanine et cytosine.",
+        "L’ARN est constitué de deux chaînes nucléotidiques complémentaires en double hélice."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ARN est un polymère de ribonucléotides avec ribose et bases A, U, G, C. Il est décrit dans le texte comme une seule chaîne nucléotidique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les principes généraux de la réplication de l’ADN, quelles propositions sont exactes ?",
+      "choices": [
+        "Avant la division cellulaire, l’ADN doit être répliqué.",
+        "Lors de la réplication, les deux brins de la double hélice sont séparés.",
+        "Chaque brin parental sert de matrice pour la synthèse d’un brin complémentaire.",
+        "La sélection du nucléotide incorporé est indépendante de la complémentarité des bases."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réplication précède la division cellulaire. Les deux brins sont séparés et chacun sert de matrice. La complémentarité des bases permet la sélection du nucléotide correct."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’asymétrie de synthèse au cours de la réplication, quelles propositions sont exactes ?",
+      "choices": [
+        "La réplication est continue sur le brin avancé.",
+        "La réplication est discontinue sur le brin retardé.",
+        "Le brin retardé est synthétisé sous forme de fragments d’Okazaki.",
+        "Les fragments d’Okazaki sont caractéristiques du brin avancé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le brin avancé est synthétisé de manière continue. Le brin retardé est synthétisé de façon discontinue en fragments d’Okazaki."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ADN polymérase au cours de la réplication, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle catalyse la formation des liaisons phosphodiester.",
+        "Elle synthétise l’ADN dans le sens 5’ vers 3’.",
+        "Elle possède une activité exonucléasique 3’ vers 5’.",
+        "Son activité d’édition améliore la fidélité de la réplication."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’ADN polymérase synthétise l’ADN en 5’ vers 3’, catalyse les liaisons phosphodiester et possède une activité exonucléasique 3’ vers 5’ de correction, augmentant la fidélité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme déroule la double hélice d’ADN au cours de la réplication ?",
+      "choices": [
+        "L’hélicase",
+        "L’ADN ligase",
+        "L’ARN polymérase II",
+        "La primase"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hélicase déroule la double hélice d’ADN pendant la réplication."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez les eucaryotes, où se déroule la transcription selon le texte ?",
+      "choices": [
+        "Dans le noyau",
+        "Exclusivement dans le cytoplasme",
+        "Exclusivement dans les mitochondries",
+        "Dans les ribosomes"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Chez les eucaryotes, la transcription se déroule dans le noyau."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez les eucaryotes, quelle ARN polymérase transcrit l’ADN en ARN pré-messager ?",
+      "choices": [
+        "ARN polymérase I",
+        "ARN polymérase II",
+        "ARN polymérase III",
+        "ADN polymérase"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’ARN polymérase II transcrit l’ADN en ARN pré-messager chez les eucaryotes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement le promoteur ?",
+      "choices": [
+        "Une région de l’ADN située en amont du gène, nécessaire à l’initiation de la transcription",
+        "Une séquence d’ARN reliant les fragments d’Okazaki",
+        "Une protéine histone responsable de la condensation chromosomique",
+        "Une enzyme catalysant la synthèse des amorces d’ARN"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le promoteur est une région d’ADN située en amont du gène, nécessaire à l’initiation de la transcription et servant de site de fixation initiale de l’ARN polymérase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le brin d’ADN utilisé comme matrice pour synthétiser l’ARN messager par complémentarité ?",
+      "choices": [
+        "Le brin transcrit",
+        "Le brin non transcrit",
+        "Le brin codant",
+        "Le brin avancé"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le brin transcrit est le brin matrice utilisé pour synthétiser l’ARN messager par complémentarité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel signal est cité comme intervenant dans la terminaison de la transcription ?",
+      "choices": [
+        "AAUAAA",
+        "AUG",
+        "TATA",
+        "CGCGCG"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La terminaison de la transcription se fait à partir de signaux spécifiques, notamment le signal de polyadénylation AAUAAA."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la maturation de l’ARN pré-messager, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comprend l’ajout d’une coiffe de 7-méthylguanosine à l’extrémité 5’.",
+        "Elle comprend l’ajout d’une queue poly-A à l’extrémité 5’.",
+        "Elle comprend l’excision des introns.",
+        "Elle comprend l’épissage des exons."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La maturation comporte une coiffe 7-méthylguanosine en 5’, une queue poly-A en 3’, l’excision des introns et l’épissage des exons."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la coiffe et de la queue poly-A de l’ARNm, quelles propositions sont exactes ?",
+      "choices": [
+        "La coiffe est ajoutée à l’extrémité 5’ de l’ARN pré-messager.",
+        "La queue poly-A est ajoutée à l’extrémité 3’ de l’ARN pré-messager.",
+        "Elles protègent l’ARNm contre la dégradation.",
+        "Elles empêchent l’exportation de l’ARNm vers le cytoplasme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La coiffe 5’ et la queue poly-A 3’ protègent l’ARNm et participent à sa reconnaissance par la machinerie de traduction ; l’ARNm mature est exporté vers le cytoplasme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les exons et les introns, quelles propositions sont exactes ?",
+      "choices": [
+        "Les exons sont des séquences codantes conservées dans l’ARNm mature.",
+        "Les introns sont des séquences non codantes excisées lors de l’épissage.",
+        "Les introns sont conservés dans l’ARNm mature après maturation.",
+        "L’épissage intervient dans la maturation de l’ARN pré-messager."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les exons sont conservés dans l’ARNm mature, tandis que les introns, non codants, sont excisés lors de l’épissage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’exportation de l’ARNm et la traduction chez les eucaryotes, quelles propositions sont exactes ?",
+      "choices": [
+        "Après maturation, l’ARNm est exporté vers le cytoplasme par les pores nucléaires.",
+        "La traduction correspond au passage d’une séquence nucléotidique de l’ARNm à une séquence d’acides aminés.",
+        "La synthèse protéique se déroule au niveau des ribosomes.",
+        "La traduction se déroule dans le noyau après excision des exons."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ARNm mature quitte le noyau par les pores nucléaires. La traduction a lieu sur les ribosomes et convertit l’information nucléotidique en séquence d’acides aminés."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du code génétique et des codons, quelles propositions sont exactes ?",
+      "choices": [
+        "Le code génétique implique les bases A, C, U et G.",
+        "Un codon est un triplet de nucléotides porté par l’ARNm.",
+        "Chaque codon correspond soit à un acide aminé, soit à un signal stop.",
+        "Le code génétique implique directement les bases A, C, T et G de l’ARNm."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’ARNm, les codons sont des triplets utilisant A, C, U et G ; ils codent un acide aminé ou un signal stop."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étapes de la traduction, quelles propositions sont exactes ?",
+      "choices": [
+        "L’initiation comporte la fixation de l’ARNm au ribosome.",
+        "L’initiation comporte la reconnaissance du codon initiateur.",
+        "L’élongation correspond à la lecture successive des codons et à l’ajout des acides aminés.",
+        "La terminaison correspond à l’excision des introns avant la libération du polypeptide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La traduction comprend initiation, élongation et terminaison. La terminaison survient au codon stop avec libération du polypeptide, sans excision d’introns."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les éléments nécessaires à la traduction, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ARNm porte l’information nécessaire à la traduction.",
+        "Les ribosomes assurent l’assemblage lors de la synthèse protéique.",
+        "Les ARNt transportent les acides aminés.",
+        "Les ARNt possèdent des codons identiques aux codons de l’ARNm."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La traduction nécessite un ARNm, des ribosomes, des acides aminés et des ARNt. Les ARNt portent des anticodons complémentaires aux codons, et non des codons identiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la structure primaire d’une protéine et sa synthèse, quelles propositions sont exactes ?",
+      "choices": [
+        "La structure primaire repose sur l’enchaînement des acides aminés.",
+        "Les acides aminés de la chaîne polypeptidique sont reliés par des liaisons peptidiques.",
+        "La structure primaire est déterminée par la succession des codons lus lors de la traduction.",
+        "La structure primaire repose sur l’enchaînement des nucléotides par des liaisons phosphodiester."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La traduction des codons aboutit à une chaîne d’acides aminés reliés par des liaisons peptidiques, correspondant à la structure primaire protéique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies chromosomiques constitutionnelles, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont présentes dès la conception ou apparaissent lors des premières divisions du zygote.",
+        "Elles sont classées en anomalies de nombre et anomalies de structure.",
+        "Les anomalies de structure résultent de cassures chromosomiques suivies de recollements anormaux.",
+        "Elles apparaissent exclusivement après la naissance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anomalies constitutionnelles sont précoces, dès la conception ou les premières divisions, et relèvent d’anomalies de nombre ou de structure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies chromosomiques de nombre, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent résulter d’une anomalie de la fécondation.",
+        "Elles peuvent résulter d’une mauvaise répartition des chromosomes lors d’une division cellulaire.",
+        "Elles peuvent être homogènes ou en mosaïque.",
+        "Elles résultent toujours de deux cassures sur un même chromosome."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anomalies de nombre sont liées à la fécondation ou à une mauvaise répartition chromosomique ; elles peuvent être homogènes ou mosaïques. Les cassures relèvent des anomalies de structure."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’aneuploïdie et de la non-disjonction, quelles propositions sont exactes ?",
+      "choices": [
+        "L’aneuploïdie correspond à une anomalie du nombre de chromosomes.",
+        "Une trisomie correspond à la présence d’un chromosome surnuméraire.",
+        "Une monosomie correspond à la perte d’un chromosome.",
+        "La non-disjonction correspond à une cassure chromosomique avec recollement inversé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’aneuploïdie regroupe notamment trisomie et monosomie. La non-disjonction correspond à la migration de deux chromosomes vers le même pôle en anaphase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la sélection naturelle et la fréquence des anomalies chromosomiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Une forte sélection naturelle existe entre la conception et la naissance.",
+        "La sélection naturelle est particulièrement marquée pour les anomalies autosomiques.",
+        "Les anomalies chromosomiques sont fréquentes dans les avortements du premier trimestre.",
+        "À la naissance, 10 à 20 % des enfants vivants sont porteurs d’une anomalie chromosomique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique une forte sélection naturelle, surtout pour les anomalies autosomiques, et une fréquence élevée dans les avortements du premier trimestre. À la naissance, la fréquence est d’environ 0,6 à 0,9 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies chromosomiques de structure, quelles propositions sont exactes ?",
+      "choices": [
+        "Une délétion terminale résulte d’une cassure avec perte du segment distal.",
+        "Une délétion intercalaire résulte de deux cassures sur un même bras avec perte du segment intermédiaire.",
+        "Un chromosome en anneau résulte de cassures aux deux extrémités suivies d’un recollement avec perte des segments distaux.",
+        "Un isochromosome est formé par duplication complète de deux chromosomes homologues."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les délétions terminales ou intercalaires et les chromosomes en anneau sont des anomalies de structure. L’isochromosome comporte deux bras longs ou deux bras courts d’un même chromosome, avec perte de l’autre bras."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les techniques d’exploration cytogénétique et moléculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le caryotype étudie les chromosomes en métaphase.",
+        "Le caryotype peut détecter des trisomies, des monosomies et des translocations.",
+        "La FISH utilise des sondes fluorescentes spécifiques.",
+        "La PCR permet d’amplifier spécifiquement une région d’ARN simple brin sans étape enzymatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le caryotype est une technique de cytogénétique conventionnelle en métaphase. La FISH utilise des sondes fluorescentes. La PCR amplifie une région d’ADN double brin par cycles enzymatiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez les eucaryotes, quel acide aminé est codé par le codon initiateur AUG selon le texte ?",
+      "choices": [
+        "Glycine",
+        "Méthionine",
+        "Leucine",
+        "Valine"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le codon initiateur est généralement AUG et, chez les eucaryotes, il code la méthionine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement la non-disjonction chromosomique ?",
+      "choices": [
+        "Migration de deux chromosomes vers le même pôle lors de l’anaphase.",
+        "Perte du segment distal après une cassure terminale.",
+        "Recollement d’un segment chromosomique après inversion.",
+        "Formation d’un chromosome avec deux bras longs ou deux bras courts."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La non-disjonction correspond à la migration de deux chromosomes vers le même pôle en anaphase au lieu d’une séparation vers deux cellules filles différentes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle définition correspond à une délétion intercalaire ?",
+      "choices": [
+        "Une cassure unique avec perte du segment distal.",
+        "Deux cassures sur un même bras avec perte du segment intermédiaire.",
+        "Deux cassures aux extrémités avec formation d’un anneau.",
+        "Deux cassures suivies d’un recollement après inversion du segment intermédiaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La délétion intercalaire correspond à deux cassures sur un même bras chromosomique avec perte du segment intermédiaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise une inversion péricentrique ?",
+      "choices": [
+        "Les deux cassures sont situées sur le même bras chromosomique.",
+        "Le centromère est compris dans le segment inversé.",
+        "Il existe une perte obligatoire des deux segments distaux.",
+        "Elle correspond à la formation de deux bras courts identiques."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans l’inversion péricentrique, le centromère est inclus dans le segment inversé. Si les deux cassures sont sur le même bras, il s’agit d’une inversion paracentrique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit le mieux la FISH ?",
+      "choices": [
+        "Technique de cytogénétique conventionnelle étudiant les chromosomes en métaphase uniquement.",
+        "Technique de cytogénétique moléculaire utilisant des sondes fluorescentes spécifiques.",
+        "Technique d’amplification d’une région d’ADN double brin par ADN polymérase thermostable.",
+        "Technique d’extraction exclusive de l’ADN mitochondrial."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La FISH est une technique de cytogénétique moléculaire utilisant des sondes fluorescentes spécifiques pour explorer des régions chromosomiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, quand un allèle A est-il dominant sur un allèle B ?",
+      "choices": [
+        "Lorsque les phénotypes AA et AB sont identiques.",
+        "Lorsque le phénotype AB est toujours intermédiaire entre AA et BB.",
+        "Lorsque le génotype AB n’exprime aucun phénotype.",
+        "Lorsque les deux allèles sont situés sur des chromosomes non homologues."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Un allèle A est dominant sur un allèle B si les phénotypes des génotypes AA et AB sont identiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hérédité autosomique dominante, quelles propositions sont exactes ?",
+      "choices": [
+        "Les gènes impliqués sont situés sur les autosomes.",
+        "L’allèle muté est dominant sur l’allèle normal.",
+        "La maladie ne s’exprime que chez les homozygotes.",
+        "Un sujet porteur d’un allèle morbide a un risque de 50 % de le transmettre à chaque enfant."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Dans l’hérédité autosomique dominante, le gène est autosomique, l’allèle muté est dominant et la maladie s’exprime chez l’hétérozygote. Le risque de transmission à chaque enfant est de 50 %."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la pénétrance incomplète d’un allèle morbide, quelles propositions sont exactes ?",
+      "choices": [
+        "Un individu porteur de la mutation peut ne présenter aucun signe clinique.",
+        "Elle peut expliquer un saut de génération apparent.",
+        "Elle interdit la transmission de la mutation à la descendance.",
+        "Elle peut varier selon l’âge, le sexe, des gènes modificateurs ou des facteurs environnementaux."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La pénétrance incomplète signifie qu’un porteur peut être cliniquement sain mais transmettre la mutation, ce qui peut donner un saut de génération. Elle peut varier selon plusieurs facteurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant une mutation de novo dans le cadre d’une maladie dominante, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut apparaître dans un gamète parental.",
+        "Elle peut apparaître au début du développement embryonnaire.",
+        "Elle impose que l’un des deux parents soit cliniquement atteint.",
+        "Elle peut expliquer la naissance d’un sujet atteint de parents sains non porteurs."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Une mutation de novo apparaît dans un gamète parental ou précocement après la fécondation. Elle permet la survenue d’une maladie chez un enfant dont les parents sont sains non porteurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les affections suivantes, lesquelles sont citées comme exemples de maladies autosomiques dominantes ?",
+      "choices": [
+        "Achondroplasie.",
+        "Maladie de Marfan.",
+        "Neurofibromatose de type 1.",
+        "Mucoviscidose."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’achondroplasie, la maladie de Marfan et la neurofibromatose de type 1 sont citées parmi les maladies autosomiques dominantes. La mucoviscidose est autosomique récessive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hypercholestérolémie familiale selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est caractérisée par une élévation du LDL-cholestérol dès la naissance.",
+        "Elle est due à une anomalie du gène du récepteur du LDL.",
+        "Elle expose à des complications cardiovasculaires précoces.",
+        "Elle est décrite comme une maladie autosomique récessive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypercholestérolémie familiale est une maladie autosomique dominante avec élévation précoce du LDL-cholestérol, liée au récepteur LDL, et exposant à des complications cardiovasculaires précoces."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’achondroplasie, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’un nanisme présent à la naissance.",
+        "Elle est due à une mutation du gène FGFR3.",
+        "Le gène impliqué est situé sur le chromosome 4.",
+        "La mutation survient toujours après la naissance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’achondroplasie est un nanisme congénital dû à une mutation du gène FGFR3 situé sur le chromosome 4. La mutation survient souvent lors de la gamétogenèse."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la maladie de Marfan, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est liée à une mutation du gène de la fibrilline.",
+        "La fibrilline est une protéine essentielle du tissu conjonctif.",
+        "Elle peut comporter une atteinte ophtalmologique, notamment une myopie.",
+        "Elle est uniquement responsable de manifestations hématologiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie de Marfan est liée à une anomalie de la fibrilline, protéine du tissu conjonctif. Elle peut associer des atteintes ophtalmologiques et cardiovasculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la chorée de Huntington, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une maladie autosomique dominante à pénétrance complète.",
+        "Le porteur de la mutation développe la maladie au cours de sa vie.",
+        "Elle peut associer mouvements involontaires, maladresse et troubles de l’équilibre.",
+        "Elle respecte constamment les fonctions psychiatriques et cognitives."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La chorée de Huntington est autosomique dominante à pénétrance complète. Elle associe des signes moteurs, mais aussi psychiatriques et cognitifs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ostéogenèse imparfaite et la neurofibromatose de type 1, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ostéogenèse imparfaite est caractérisée par une fragilité osseuse.",
+        "L’ostéogenèse imparfaite est due à des mutations de COL1A1 ou COL1A2.",
+        "La neurofibromatose de type 1 est liée à un gène suppresseur de tumeur situé sur le chromosome 17.",
+        "La neurofibromatose de type 1 est due à une mutation du gène CFTR."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ostéogenèse imparfaite touche le collagène de type I via COL1A1 ou COL1A2. La neurofibromatose de type 1 est liée au gène NF1, suppresseur de tumeur, situé sur le chromosome 17."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la dystrophie myotonique de Steinert, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est due à une expansion instable du triplet CTG.",
+        "Le gène DMPK impliqué est situé sur le chromosome 19.",
+        "Elle peut associer myotonie, cataracte et atteintes endocriniennes.",
+        "Elle ne comporte jamais de forme néonatale sévère."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La dystrophie myotonique de Steinert est due à une expansion CTG du gène DMPK sur le chromosome 19. Elle peut comporter une myotonie, une cataracte, des atteintes endocriniennes et des formes néonatales sévères."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hérédité autosomique récessive, quelles propositions sont exactes ?",
+      "choices": [
+        "Les gènes responsables sont situés sur les autosomes.",
+        "L’allèle muté est récessif.",
+        "Les hétérozygotes sont généralement sains.",
+        "La maladie s’exprime habituellement chez les hétérozygotes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’hérédité autosomique récessive, les hétérozygotes sont généralement sains et la maladie s’exprime chez les homozygotes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la consanguinité et du risque autosomique récessif, quelles propositions sont exactes ?",
+      "choices": [
+        "La consanguinité correspond à une union entre deux individus ayant au moins un ancêtre commun.",
+        "Elle augmente la probabilité que les deux parents transmettent le même allèle muté.",
+        "Elle augmente le risque de maladies autosomiques récessives.",
+        "Elle supprime le risque de transmission d’un allèle muté."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La consanguinité augmente la probabilité de partage d’un même allèle muté entre les parents, ce qui majore le risque de maladie autosomique récessive chez l’enfant."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les affections suivantes, lesquelles sont citées comme maladies autosomiques récessives ?",
+      "choices": [
+        "Phénylcétonurie.",
+        "Maladie de Wilson.",
+        "Drépanocytose.",
+        "Hypercholestérolémie familiale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phénylcétonurie, la maladie de Wilson et la drépanocytose sont citées parmi les maladies autosomiques récessives. L’hypercholestérolémie familiale est citée parmi les maladies autosomiques dominantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la mucoviscidose selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est aussi appelée fibrose kystique.",
+        "Elle est due à des mutations du gène CFTR situé sur le chromosome 7.",
+        "Elle affecte les épithéliums glandulaires de nombreux organes.",
+        "Elle entraîne une diminution de la viscosité du mucus."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mucoviscidose, ou fibrose kystique, est une maladie autosomique récessive due à CFTR sur le chromosome 7. Elle augmente la viscosité du mucus avec atteinte respiratoire et digestive."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans un couple où les deux parents sont hétérozygotes pour une maladie autosomique récessive, quel est le risque d’avoir un enfant atteint à chaque conception ?",
+      "choices": [
+        "0 %",
+        "25 %",
+        "50 %",
+        "100 %"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Pour deux parents hétérozygotes dans une maladie autosomique récessive, le risque d’enfant atteint est de 25 % à chaque conception."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association gène-chromosome est correcte pour la drépanocytose selon le texte ?",
+      "choices": [
+        "Gène CFTR sur le chromosome 7.",
+        "Gène de la chaîne bêta de l’hémoglobine sur le chromosome 11.",
+        "Gène FGFR3 sur le chromosome 4.",
+        "Gène NF1 sur le chromosome 17."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La drépanocytose est due à une mutation du gène codant la chaîne bêta de l’hémoglobine, situé sur le chromosome 11."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme est responsable des manifestations hématologiques de la drépanocytose selon le texte ?",
+      "choices": [
+        "Un déficit de synthèse de la fibrilline.",
+        "Une hémoglobine anormale responsable d’hématies en forme de faucille.",
+        "Une expansion instable du triplet CTG.",
+        "Une anomalie du récepteur du LDL."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans la drépanocytose, l’allèle S entraîne une hémoglobine anormale, donnant des hématies falciformes, moins élastiques et plus fragiles."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à une manifestation possible des formes sévères de thalassémie selon le texte ?",
+      "choices": [
+        "Hépatosplénomégalie.",
+        "Élévation du LDL-cholestérol dès la naissance.",
+        "Taches café au lait.",
+        "Myotonie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les formes sévères de thalassémie peuvent entraîner une anémie chronique avec déformations faciales, retard statural, hépatosplénomégalie et diminution majeure de l’espérance de vie sans traitement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formule définit la pénétrance d’un allèle morbide selon le texte ?",
+      "choices": [
+        "Nombre d’homozygotes sains divisé par le nombre total d’homozygotes.",
+        "Nombre d’hétérozygotes malades divisé par le nombre total d’hétérozygotes.",
+        "Nombre de sujets atteints divisé par le nombre total de sujets apparentés.",
+        "Nombre d’enfants atteints divisé par le nombre total de conceptions."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La pénétrance correspond au rapport entre le nombre d’hétérozygotes malades et le nombre total d’hétérozygotes."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation deux allèles sont-ils qualifiés de co-dominants selon le texte ?",
+      "choices": [
+        "Lorsque l’hétérozygote ne présente aucun signe clinique.",
+        "Lorsque l’individu présente simultanément les caractéristiques observées avec AA et BB.",
+        "Lorsque l’allèle muté empêche toute transmission à la descendance.",
+        "Lorsque la maladie ne touche qu’un seul sexe."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Deux allèles sont co-dominants lorsque le phénotype exprime simultanément les caractéristiques observées avec les deux états homozygotes AA et BB."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le trouble du métabolisme de la phénylalanine décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est dû à un déficit en phénylalanine hydroxylase.",
+        "La phénylalanine hydroxylase est une enzyme hépatique.",
+        "Le déficit enzymatique empêche la transformation de la phénylalanine en tyrosine.",
+        "En l’absence de traitement, l’évolution est dominée par des hémorragies articulaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit un déficit en phénylalanine hydroxylase, enzyme hépatique transformant la phénylalanine en tyrosine. Sans traitement, il entraîne une déficience intellectuelle progressive, et non des hémarthroses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hérédité récessive liée au chromosome X, quelles propositions sont exactes ?",
+      "choices": [
+        "L’allèle morbide se comporte comme un caractère récessif.",
+        "Les femmes hétérozygotes sont habituellement non atteintes mais conductrices.",
+        "La maladie se manifeste surtout chez les garçons hémizygotes.",
+        "La transmission père-fils est caractéristique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’hérédité récessive liée à l’X, les femmes hétérozygotes sont généralement conductrices non atteintes, les garçons hémizygotes sont surtout atteints, et il n’y a pas de transmission père-fils."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une famille avec maladie récessive liée à l’X, quels éléments orientent vers ce mode de transmission ?",
+      "choices": [
+        "Des sujets atteints presque toujours masculins.",
+        "Des hommes atteints retrouvés dans la lignée maternelle.",
+        "Une absence de transmission père-fils.",
+        "Une transmission obligatoire d’un père atteint à tous ses fils."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les maladies récessives liées à l’X touchent surtout les garçons, les hommes atteints se retrouvent dans la lignée maternelle, et la transmission père-fils est absente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le risque de transmission chez une femme conductrice d’une maladie récessive liée à l’X, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle transmet la mutation à la moitié de ses fils.",
+        "Les fils ayant reçu la mutation seront atteints.",
+        "Elle transmet la mutation à la moitié de ses filles.",
+        "Toutes ses filles seront obligatoirement atteintes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une femme conductrice transmet la mutation à 50 % de ses fils, qui seront atteints, et à 50 % de ses filles, qui seront conductrices. Les filles ne sont pas toutes obligatoirement atteintes."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les affections suivantes, lesquelles sont citées comme exemples de maladies récessives liées à l’X ?",
+      "choices": [
+        "Hémophilies A et B.",
+        "Myopathie de Duchenne.",
+        "Agammaglobulinémie de Bruton.",
+        "Rachitisme vitamino-résistant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite notamment les hémophilies A et B, la myopathie de Duchenne et l’agammaglobulinémie de Bruton comme maladies récessives liées à l’X. Le rachitisme vitamino-résistant est abordé séparément."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la dystrophie musculaire de Duchenne, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est due à une mutation du gène DMD situé sur le chromosome X.",
+        "Le gène impliqué code la dystrophine.",
+        "Le déficit en dystrophine entraîne une dégénérescence progressive des fibres musculaires.",
+        "Elle se manifeste classiquement par une confusion rouge-vert."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La dystrophie musculaire de Duchenne est liée à une mutation du gène DMD du chromosome X codant la dystrophine. Le déficit en dystrophine provoque une dégénérescence musculaire progressive. La confusion rouge-vert concerne le daltonisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’expression clinique de la dystrophie musculaire de Duchenne, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle apparaît chez les garçons vers l’âge de 3 à 4 ans.",
+        "Les difficultés à monter les escaliers peuvent être révélatrices.",
+        "Les difficultés à se relever font partie des manifestations initiales décrites.",
+        "La perte de la marche survient habituellement dès la naissance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie se manifeste chez les garçons vers 3 à 4 ans par des difficultés à monter les escaliers ou à se relever. La perte de la marche survient plus tard, souvent entre 9 et 12 ans."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le daltonisme décrit dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à une anomalie de la perception des couleurs.",
+        "Il est lié à un déficit d’un ou plusieurs types de cônes rétiniens.",
+        "La forme la plus fréquente entraîne une confusion entre le rouge et le vert.",
+        "Il correspond toujours à une absence complète de perception des couleurs."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le daltonisme est une anomalie de perception des couleurs due à un déficit de cônes rétiniens. La forme la plus fréquente concerne le rouge et le vert. L’absence complète de perception des couleurs est une forme plus rare."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hémophilie selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une anomalie constitutionnelle de la coagulation.",
+        "Elle est liée à un déficit en facteur de coagulation.",
+        "Elle peut entraîner des hémarthroses.",
+        "Elle entraîne exclusivement des hémorragies cutanées superficielles."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hémophilie est une anomalie constitutionnelle de la coagulation par déficit en facteur de coagulation. Les hémorragies peuvent toucher différents organes, notamment les articulations sous forme d’hémarthroses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bases moléculaires des hémophilies A et B, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hémophilie A est due à une mutation du gène F8.",
+        "Le gène F8 est situé sur le chromosome X.",
+        "L’hémophilie B est due à une mutation du gène F9 codant le facteur IX.",
+        "L’hémophilie A est due à une mutation du gène DMD."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hémophilie A est liée au gène F8 du chromosome X codant le facteur VIII. L’hémophilie B est liée au gène F9 du chromosome X codant le facteur IX. Le gène DMD concerne la dystrophie musculaire de Duchenne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hérédité dominante liée au chromosome X, quelles propositions sont exactes ?",
+      "choices": [
+        "L’allèle morbide se comporte comme un caractère dominant.",
+        "La maladie peut se manifester chez les garçons hémizygotes.",
+        "La maladie peut se manifester chez les filles hétérozygotes.",
+        "Les filles hétérozygotes sont toujours indemnes et seulement conductrices."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’hérédité dominante liée à l’X, l’allèle morbide est dominant. Les garçons hémizygotes et les filles hétérozygotes peuvent être atteints, souvent moins sévèrement chez ces dernières."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transmission dominante liée à l’X, quelles propositions sont exactes ?",
+      "choices": [
+        "Les deux sexes peuvent être atteints.",
+        "Une femme atteinte transmet la maladie à la moitié de ses enfants, filles ou garçons.",
+        "Un homme atteint transmet la mutation à toutes ses filles.",
+        "Un homme atteint transmet la mutation à tous ses fils."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans la transmission dominante liée à l’X, les deux sexes peuvent être atteints. Une femme atteinte transmet la maladie à 50 % de ses enfants. Un homme atteint transmet la mutation à toutes ses filles, mais il n’y a pas de transmission père-fils."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le syndrome de l’X fragile, quelles propositions sont exactes ?",
+      "choices": [
+        "Il constitue une cause héréditaire fréquente de déficience intellectuelle.",
+        "Il est dû à une mutation du gène FMR1 situé sur le chromosome X.",
+        "La mutation correspond à une expansion anormale de répétitions CGG.",
+        "Les sujets atteints présentent généralement moins de 20 répétitions CGG."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de l’X fragile est une cause héréditaire fréquente de déficience intellectuelle. Il est dû à une mutation du gène FMR1 sur le chromosome X, par expansion anormale de répétitions CGG. Les sujets atteints ont généralement plus de 200 répétitions."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rachitismes vitamino-résistants décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils ne sont pas corrigés par la vitamine D.",
+        "Ils correspondent à un défaut de minéralisation visible sur les radiographies.",
+        "Ils touchent le cartilage de croissance et l’os.",
+        "Ils se manifestent uniquement à l’âge adulte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les rachitismes vitamino-résistants ne sont pas corrigés par la vitamine D. Ils correspondent à un défaut de minéralisation radiologique touchant le cartilage de croissance et l’os, avec manifestations dès la petite enfance."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’hérédité récessive liée au chromosome X, quel profil est le plus typique pour les sujets atteints ?",
+      "choices": [
+        "Garçons hémizygotes.",
+        "Filles hétérozygotes toujours sévèrement atteintes.",
+        "Pères transmettant systématiquement la maladie à leurs fils.",
+        "Femmes conductrices toujours symptomatiques."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La maladie récessive liée à l’X se manifeste surtout chez les garçons hémizygotes. Les femmes hétérozygotes sont habituellement conductrices non atteintes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel produit génique est codé par le gène DMD impliqué dans la dystrophie musculaire de Duchenne ?",
+      "choices": [
+        "Le facteur VIII.",
+        "La dystrophine.",
+        "Le facteur IX.",
+        "La phénylalanine hydroxylase."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le gène DMD, situé sur le chromosome X, code la dystrophine."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la dystrophie musculaire de Duchenne, à quel âge survient souvent la perte de la marche selon le texte ?",
+      "choices": [
+        "Entre 1 et 2 ans.",
+        "Entre 3 et 4 ans.",
+        "Entre 9 et 12 ans.",
+        "Après 40 ans."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La dystrophie musculaire de Duchenne évolue vers une perte de la marche, souvent entre 9 et 12 ans."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie génétique correspond à l’hémophilie B selon le texte ?",
+      "choices": [
+        "Mutation du gène F8 codant le facteur VIII.",
+        "Mutation du gène F9 codant le facteur IX.",
+        "Mutation du gène FMR1 avec expansion CGG.",
+        "Mutation du gène DMD codant la dystrophine."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’hémophilie B est due à une mutation du gène F9 du chromosome X, codant le facteur IX de coagulation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel nombre de répétitions CGG est généralement observé chez les sujets atteints de syndrome de l’X fragile selon le texte ?",
+      "choices": [
+        "Moins de 10 répétitions.",
+        "Environ 30 répétitions.",
+        "Plus de 200 répétitions.",
+        "Exactement 46 répétitions."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans le syndrome de l’X fragile, les sujets atteints présentent généralement plus de 200 répétitions CGG."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise l’hérédité liée au chromosome Y ?",
+      "choices": [
+        "Transmission exclusivement de père en fils.",
+        "Transmission d’un père atteint à toutes ses filles.",
+        "Transmission par les femmes conductrices à la moitié de leurs fils.",
+        "Atteinte préférentielle des filles hétérozygotes."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hérédité liée au chromosome Y, ou holandrique, concerne les gènes portés par le chromosome Y et se transmet exclusivement de père en fils."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le type sauvage, le mutant et les mutations, quelles propositions sont exactes ?",
+      "choices": [
+        "Un organisme portant le gène normal est dit de type sauvage.",
+        "Un organisme portant un gène altéré est qualifié de mutant.",
+        "Une mutation correspond à une modification de séquence d’un gène.",
+        "Une mutation désigne exclusivement une anomalie du nombre des chromosomes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte définit le type sauvage comme porteur du gène normal, le mutant comme porteur d’un gène altéré, et la mutation comme une modification de séquence."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la nature et la transmission des gènes, quelles propositions sont exactes ?",
+      "choices": [
+        "Le gène est l’unité de l’information génétique.",
+        "Un gène est constitué d’une séquence d’acides nucléiques.",
+        "Un gène peut coder pour la synthèse d’une protéine ou d’un ARN.",
+        "Les gènes sont toujours instables et ne sont pas transmis à la descendance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le gène est une unité d’information génétique faite d’acides nucléiques, pouvant coder une protéine ou un ARN. Il est généralement stable et transmissible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la composition de la chromatine et des chromosomes, quelles propositions sont exactes ?",
+      "choices": [
+        "La chromatine associe de l’ADN, de l’ARN et des protéines.",
+        "Les chromosomes sont constitués de longues molécules d’ADN double brin associées à des protéines.",
+        "Les protéines associées aux chromosomes comprennent des histones et des protéines non histones.",
+        "Un chromosome correspond à une structure décondensée de chromatine active."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La chromatine associe ADN, ARN et protéines. Les chromosomes contiennent de l’ADN double brin avec histones et protéines non histones. Un chromosome est une structure condensée de chromatine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les chromatides sœurs et la condensation chromosomique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les chromatides sœurs correspondent aux formes répliquées d’un chromosome.",
+        "Les chromatides sœurs sont unies par le centromère.",
+        "L’ADN chromosomique est empaqueté autour des histones.",
+        "La condensation chromosomique résulte uniquement de l’appariement adénine-uracile."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chromatides sœurs sont les formes répliquées d’un chromosome et sont unies par le centromère. L’ADN chromosomique est empaqueté autour des histones."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les autosomes et les gonosomes dans le caryotype humain normal, quelles propositions sont exactes ?",
+      "choices": [
+        "Le caryotype humain normal comporte 22 paires d’autosomes.",
+        "Les autosomes sont identiques chez l’homme et la femme.",
+        "La femme possède normalement deux chromosomes X.",
+        "L’homme possède normalement deux chromosomes Y."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le caryotype humain normal comprend 22 paires d’autosomes et une paire de gonosomes : XX chez la femme et XY chez l’homme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la localisation cellulaire de l’ADN selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ADN est principalement contenu dans le noyau.",
+        "Une fraction de l’ADN est présente dans les mitochondries.",
+        "Chez les végétaux, il existe de l’ADN dans les chloroplastes.",
+        "Chez les cellules vivantes, l’ADN est exclusivement cytoplasmique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADN est surtout nucléaire, avec une fraction mitochondriale. Chez les végétaux, les chloroplastes contiennent aussi de l’ADN."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la constitution chimique d’un nucléotide d’ADN, quelles propositions sont exactes ?",
+      "choices": [
+        "Il comprend un désoxyribose.",
+        "Il comprend un groupement phosphate.",
+        "Il peut contenir une base azotée de type thymine.",
+        "Il contient obligatoirement de l’uracile à la place de la thymine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un nucléotide d’ADN comprend un désoxyribose, une base azotée parmi A, G, C ou T, et un groupement phosphate. L’uracile appartient à l’ARN."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les liaisons hydrogène entre bases de l’ADN, quelles propositions sont exactes ?",
+      "choices": [
+        "L’adénine s’apparie avec la thymine.",
+        "La cytosine s’apparie avec la guanine.",
+        "L’adénine est unie à la thymine par deux liaisons hydrogène.",
+        "La cytosine est unie à la guanine par deux liaisons hydrogène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’ADN, A s’apparie avec T par deux liaisons hydrogène, tandis que C s’apparie avec G par trois liaisons hydrogène."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques structurales comparées de l’ADN et de l’ARN, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ADN comporte deux brins complémentaires en double hélice.",
+        "L’ARN est constitué d’une seule chaîne nucléotidique.",
+        "L’ARN contient du ribose.",
+        "L’ADN contient de l’uracile comme base spécifique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADN est bicaténaire en double hélice, alors que l’ARN est une seule chaîne de ribonucléotides contenant du ribose et de l’uracile."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la finalité et le principe matriciel de la réplication de l’ADN, quelles propositions sont exactes ?",
+      "choices": [
+        "La réplication permet aux cellules filles d’hériter de la même information génétique que la cellule mère.",
+        "Chaque brin parental sert de matrice à la synthèse d’un brin complémentaire.",
+        "La complémentarité des bases participe au choix du nucléotide à incorporer.",
+        "La réplication consiste à transformer directement l’ADN en protéine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réplication précède la division cellulaire, utilise chaque brin comme matrice et repose sur la complémentarité des bases pour insérer le nucléotide correct."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les enzymes de la réplication de l’ADN, quelles associations sont exactes ?",
+      "choices": [
+        "Hélicase : déroulement de la double hélice.",
+        "Topoisomérases : diminution des contraintes de torsion.",
+        "Primase : synthèse d’amorces d’ARN.",
+        "ADN ligase : synthèse des amorces d’ARN."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hélicase déroule l’ADN, les topoisomérases diminuent les contraintes de torsion et la primase synthétise les amorces d’ARN. L’ADN ligase relie les fragments d’Okazaki."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la synthèse des brins au cours de la réplication, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ADN polymérase synthétise l’ADN dans le sens 5’ vers 3’.",
+        "La réplication est continue sur le brin avancé.",
+        "La réplication est discontinue sur le brin retardé.",
+        "Les fragments d’Okazaki sont reliés par la primase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADN polymérase synthétise en 5’ vers 3’. Le brin avancé est synthétisé de façon continue, le brin retardé de façon discontinue sous forme de fragments d’Okazaki reliés par l’ADN ligase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les brins d’ADN impliqués dans la transcription, quelles propositions sont exactes ?",
+      "choices": [
+        "Le brin transcrit sert de matrice pour synthétiser l’ARN messager.",
+        "Le brin non transcrit est le brin codant.",
+        "La séquence du brin codant correspond à celle de l’ARNm en remplaçant la thymine par l’uracile.",
+        "Le brin codant est utilisé comme matrice directe par complémentarité pour synthétiser l’ARNm."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le brin transcrit est le brin matrice. Le brin non transcrit est le brin codant, de séquence équivalente à l’ARNm avec U à la place de T."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les ARN polymérases eucaryotes, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ARN polymérase II transcrit l’ADN en ARN pré-messager.",
+        "L’ARN polymérase I synthétise l’ARN ribosomique.",
+        "L’ARN polymérase III synthétise notamment les ARN de transfert.",
+        "L’ARN polymérase II relie les fragments d’Okazaki."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez les eucaryotes, l’ARN polymérase II produit l’ARN pré-messager, la polymérase I produit l’ARN ribosomique, et la polymérase III produit des ARN courts dont les ARNt."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le mieux le rôle de la topoisomérase au cours de la réplication ?",
+      "choices": [
+        "Synthétiser les amorces d’ARN.",
+        "Diminuer les contraintes de torsion de l’ADN.",
+        "Relier les fragments d’Okazaki.",
+        "Corriger les erreurs d’incorporation par activité exonucléasique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les topoisomérases diminuent les contraintes de torsion générées lors de l’ouverture de la double hélice."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme synthétise les amorces d’ARN nécessaires à la réplication ?",
+      "choices": [
+        "La primase.",
+        "L’ADN ligase.",
+        "L’hélicase.",
+        "L’ARN polymérase I."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La primase est l’enzyme qui synthétise les amorces d’ARN au cours de la réplication."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle activité de l’ADN polymérase améliore la fidélité de la réplication ?",
+      "choices": [
+        "Une activité ligase 5’ vers 3’.",
+        "Une activité exonucléasique 3’ vers 5’.",
+        "Une activité de synthèse d’amorces d’ARN.",
+        "Une activité de déroulement de la double hélice."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’ADN polymérase possède une activité exonucléasique 3’ vers 5’ permettant la correction des erreurs d’incorporation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément de l’ADN constitue le site de fixation initiale de l’ARN polymérase pour initier la transcription ?",
+      "choices": [
+        "Le promoteur.",
+        "Le centromère.",
+        "Le fragment d’Okazaki.",
+        "Le groupement phosphate."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le promoteur est une région située en amont du gène, nécessaire à l’initiation de la transcription et correspondant au site de fixation initiale de l’ARN polymérase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel signal est cité parmi les signaux spécifiques de terminaison de la transcription ?",
+      "choices": [
+        "AUG.",
+        "AAUAAA.",
+        "TATA uniquement.",
+        "CGG."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte cite notamment le signal de polyadénylation AAUAAA comme intervenant dans la terminaison de la transcription."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’ARN, quelle base remplace la thymine présente dans l’ADN ?",
+      "choices": [
+        "La cytosine.",
+        "La guanine.",
+        "L’uracile.",
+        "L’adénine."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans l’ARN, l’uracile remplace la thymine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la PCR décrite dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet d’amplifier spécifiquement une région d’ADN double brin.",
+        "Elle comprend des cycles successifs répétés.",
+        "La dénaturation transforme l’ADN en simples brins.",
+        "L’élongation est assurée par une ARN polymérase II."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PCR amplifie une région d’ADN double brin par cycles successifs comportant dénaturation, hybridation des amorces et élongation par une ADN polymérase thermostable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étapes moléculaires de la PCR, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hybridation correspond à la fixation d’amorces complémentaires.",
+        "L’élongation nécessite une ADN polymérase thermostable.",
+        "La dénaturation correspond à l’excision des introns.",
+        "La PCR utilise des sondes fluorescentes spécifiques pour localiser un gène."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Dans la PCR, les amorces complémentaires s’hybrident aux brins d’ADN, puis une ADN polymérase thermostable réalise l’élongation. Les sondes fluorescentes relèvent de la FISH."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la FISH, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle utilise des sondes fluorescentes spécifiques.",
+        "Elle permet la localisation d’un gène.",
+        "Elle permet l’identification d’une région chromosomique spécifique.",
+        "Elle amplifie spécifiquement une région d’ADN double brin par cycles enzymatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La FISH est une technique de cytogénétique moléculaire utilisant des sondes fluorescentes spécifiques pour étudier des régions chromosomiques ou localiser des gènes. L’amplification cyclique de l’ADN correspond à la PCR."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les techniques d’étude du matériel génétique, quelles propositions sont exactes ?",
+      "choices": [
+        "La génétique moléculaire étudie l’ADN.",
+        "La génétique moléculaire permet la recherche de mutations dans des gènes.",
+        "Le caryotype étudie les chromosomes en métaphase.",
+        "La FISH est une technique de cytogénétique conventionnelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La génétique moléculaire étudie l’ADN et recherche les mutations géniques. Le caryotype est une technique conventionnelle réalisée sur chromosomes en métaphase. La FISH relève de la cytogénétique moléculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies chromosomiques constitutionnelles, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent être présentes dès la conception.",
+        "Elles peuvent apparaître lors des premières divisions du zygote.",
+        "Elles correspondent exclusivement à des anomalies de structure.",
+        "Elles sont classées en anomalies de nombre et anomalies de structure."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les anomalies chromosomiques constitutionnelles sont présentes dès la conception ou apparaissent précocement après celle-ci. Elles peuvent être des anomalies de nombre ou de structure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies chromosomiques de nombre, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent résulter d’une anomalie de la fécondation.",
+        "Elles peuvent résulter d’une mauvaise répartition des chromosomes lors d’une division cellulaire.",
+        "Elles peuvent être homogènes si elles sont présentes dans toutes les cellules.",
+        "Elles résultent toujours de cassures chromosomiques suivies de recollements anormaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anomalies de nombre peuvent être liées à la fécondation ou à une mauvaise répartition chromosomique. Elles peuvent être homogènes ou en mosaïque. Les cassures suivies de recollements anormaux caractérisent les anomalies de structure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies chromosomiques homogènes et la non-disjonction, quelles propositions sont exactes ?",
+      "choices": [
+        "Une anomalie homogène est présente dans toutes les cellules.",
+        "Une anomalie homogène résulte le plus souvent d’une non-disjonction méiotique.",
+        "Une anomalie en mosaïque est obligatoirement due à une anomalie de la fécondation.",
+        "La non-disjonction peut survenir lors d’une méiose maternelle ou paternelle."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Une anomalie homogène touche toutes les cellules et résulte le plus souvent d’une non-disjonction méiotique. Celle-ci peut être d’origine maternelle ou paternelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le mécanisme de non-disjonction chromosomique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à la migration de deux chromosomes vers le même pôle.",
+        "Il survient lors de l’anaphase.",
+        "Il correspond à une perte de matériel chromosomique distal après cassure terminale.",
+        "Il remplace la séparation normale des chromosomes vers deux cellules filles différentes."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La non-disjonction est une anomalie de ségrégation durant l’anaphase, avec migration de deux chromosomes vers le même pôle au lieu d’une séparation vers deux cellules filles différentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies chromosomiques de structure, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles résultent de cassures chromosomiques suivies de recollements anormaux.",
+        "Elles peuvent affecter un ou plusieurs chromosomes.",
+        "Elles affectent exclusivement des chromosomes homologues.",
+        "Elles peuvent affecter des chromosomes non homologues."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les anomalies de structure sont liées à des cassures puis recollements anormaux. Elles peuvent concerner un ou plusieurs chromosomes, homologues ou non homologues."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les délétions et les chromosomes en anneau, quelles propositions sont exactes ?",
+      "choices": [
+        "Une délétion terminale correspond à une cassure avec perte du segment distal.",
+        "Une délétion intercalaire implique deux cassures sur un même bras avec perte du segment intermédiaire.",
+        "Un chromosome en anneau résulte d’une cassure à chaque extrémité suivie d’un recollement.",
+        "Un chromosome en anneau se forme sans perte des segments distaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les délétions entraînent une perte de matériel chromosomique. Le chromosome en anneau résulte de cassures terminales avec perte des segments distaux puis recollement, assimilable à une double délétion."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les inversions chromosomiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont dues à deux cassures sur un même chromosome.",
+        "Elles comportent un recollement après inversion du segment intermédiaire.",
+        "Une inversion péricentrique inclut le centromère dans le segment inversé.",
+        "Une inversion paracentrique impose des cassures sur deux chromosomes différents."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les inversions résultent de deux cassures sur un même chromosome, suivies d’un recollement après inversion du segment. L’inversion péricentrique inclut le centromère ; dans l’inversion paracentrique, les cassures sont sur le même bras chromosomique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’isochromosome, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’un chromosome anormal.",
+        "Il est formé de deux bras longs ou de deux bras courts d’un même chromosome.",
+        "Il s’accompagne de la perte de l’autre bras.",
+        "Il correspond à deux cassures sur un même bras avec perte du segment intermédiaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un isochromosome est constitué de deux bras identiques, deux bras longs ou deux bras courts, avec perte de l’autre bras. La perte d’un segment intermédiaire définit une délétion intercalaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies détectables par le caryotype selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les trisomies.",
+        "Les duplications.",
+        "Les translocations.",
+        "Les mutations ponctuelles géniques après extraction d’ADN."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le caryotype permet notamment de détecter trisomies, monosomies, délétions, duplications, translocations et chromosomes en anneau. La recherche de mutations géniques relève de la génétique moléculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hérédité monogénique, multifactorielle et mitochondriale, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hérédité monogénique correspond à une maladie due à une mutation dans un seul gène.",
+        "L’hérédité monogénique peut être autosomique dominante ou autosomique récessive.",
+        "L’hérédité multifactorielle dépend de l’interaction entre plusieurs gènes et des facteurs environnementaux.",
+        "Les ADN mitochondriaux suivent l’hérédité mendélienne classique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hérédité monogénique implique un seul gène et peut suivre plusieurs modes mendéliens. L’hérédité multifactorielle associe plusieurs gènes et l’environnement. Les ADN mitochondriaux ne suivent pas l’hérédité mendélienne classique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle technique permet d’amplifier spécifiquement une région d’ADN double brin ?",
+      "choices": [
+        "Le caryotype standard.",
+        "La FISH.",
+        "La PCR.",
+        "L’épissage des exons."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La PCR est la technique qui permet l’amplification spécifique d’une région d’ADN double brin."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la PCR, quelle étape correspond à la fixation d’amorces complémentaires sur les brins d’ADN ?",
+      "choices": [
+        "La dénaturation.",
+        "L’hybridation.",
+        "L’élongation.",
+        "La terminaison traductionnelle."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’hybridation est l’étape durant laquelle les amorces complémentaires se fixent sur les brins d’ADN."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie chromosomique est assimilable à une double délétion selon le texte ?",
+      "choices": [
+        "L’isochromosome.",
+        "Le chromosome en anneau.",
+        "L’inversion paracentrique.",
+        "La trisomie homogène."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le chromosome en anneau résulte de cassures aux deux extrémités avec perte des segments distaux, ce qui le rend assimilable à une double délétion."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise correctement la trisomie 21 selon le texte ?",
+      "choices": [
+        "C’est une anomalie de structure due à une inversion péricentrique.",
+        "C’est une anomalie de nombre liée à une mauvaise ségrégation chromosomique, souvent méiotique.",
+        "C’est une délétion intercalaire du chromosome 21.",
+        "C’est une anomalie exclusivement liée à une cassure chromosomique terminale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La trisomie 21 est une anomalie chromosomique de nombre due à une mauvaise ségrégation chromosomique, souvent au cours de la méiose."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit la semi-dominance selon le texte ?",
+      "choices": [
+        "Le phénotype AB est identique au phénotype AA.",
+        "Le phénotype AB est identique au phénotype BB.",
+        "Le phénotype AB est intermédiaire entre ceux de AA et BB.",
+        "Le phénotype AB est toujours absent."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La semi-dominance est définie par un phénotype hétérozygote AB intermédiaire entre les phénotypes homozygotes AA et BB."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel matériel génétique ne suit pas l’hérédité mendélienne classique selon le texte ?",
+      "choices": [
+        "L’ADN mitochondrial.",
+        "Les autosomes.",
+        "Le chromosome X.",
+        "Le chromosome Y."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que les ADN mitochondriaux ne suivent pas l’hérédité mendélienne classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs pouvant faire varier la pénétrance d’un allèle morbide, quelles propositions sont exactes ?",
+      "choices": [
+        "L’âge peut influencer la pénétrance.",
+        "Le sexe peut influencer la pénétrance.",
+        "Des gènes modificateurs peuvent influencer la pénétrance.",
+        "Des facteurs environnementaux peuvent influencer la pénétrance."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que la pénétrance peut varier selon l’âge, le sexe, des gènes modificateurs ou des facteurs environnementaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les maladies citées, lesquelles sont explicitement associées à des complications cardiovasculaires ?",
+      "choices": [
+        "Hypercholestérolémie familiale",
+        "Maladie de Marfan",
+        "Chorée de Huntington",
+        "Mucoviscidose"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’hypercholestérolémie familiale expose à des complications cardiovasculaires précoces. La maladie de Marfan peut comporter des complications cardiovasculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les atteintes ophtalmologiques explicitement citées, quelles propositions sont exactes ?",
+      "choices": [
+        "La maladie de Marfan peut comporter une myopie.",
+        "La dystrophie myotonique de Steinert peut comporter une cataracte.",
+        "La drépanocytose est décrite comme responsable d’une cataracte.",
+        "L’achondroplasie est décrite comme responsable d’une myopie."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte cite la myopie dans la maladie de Marfan et la cataracte dans la dystrophie myotonique de Steinert."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les localisations chromosomiques de gènes citées dans le texte, quelles associations sont exactes ?",
+      "choices": [
+        "FGFR3 est situé sur le chromosome 4.",
+        "NF1 est situé sur le chromosome 17.",
+        "DMPK est situé sur le chromosome 19.",
+        "CFTR est situé sur le chromosome 7."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte associe FGFR3 au chromosome 4, NF1 au chromosome 17, DMPK au chromosome 19 et CFTR au chromosome 7."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la chorée de Huntington décrite dans le texte, quelles manifestations peuvent être observées ?",
+      "choices": [
+        "Mouvements involontaires et maladresse",
+        "Dépression, irritabilité ou modification de la personnalité",
+        "Troubles de la mémoire et perte de l’attention",
+        "Hépatosplénomégalie et retard statural"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La chorée de Huntington peut associer des troubles moteurs, psychiatriques et cognitifs. L’hépatosplénomégalie et le retard statural sont cités dans les formes sévères de thalassémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la neurofibromatose de type 1, quelles manifestations sont citées dans le texte ?",
+      "choices": [
+        "Taches café au lait",
+        "Retard des acquisitions",
+        "Neurofibromes",
+        "Signes osseux"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La neurofibromatose de type 1 peut associer taches café au lait, retard des acquisitions, neurofibromes et signes osseux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la dystrophie myotonique de Steinert, quelles manifestations sont rapportées ?",
+      "choices": [
+        "Hypotrophie musculaire",
+        "Myotonie",
+        "Atteintes endocriniennes",
+        "Difficultés décisionnelles"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La dystrophie myotonique de Steinert peut associer hypotrophie musculaire, relâchement musculaire, myotonie, cataracte, atteintes endocriniennes et formes néonatales sévères. Les difficultés décisionnelles sont citées dans la chorée de Huntington."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une maladie autosomique récessive, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "Les hétérozygotes sont généralement sains.",
+        "La maladie s’exprime chez les homozygotes.",
+        "Les deux sexes sont atteints avec la même fréquence.",
+        "Un hétérozygote malade transmet obligatoirement la maladie à tous ses enfants."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’hérédité autosomique récessive, les hétérozygotes sont généralement sains, les homozygotes sont malades et les deux sexes sont atteints avec la même fréquence."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le contexte d’un enfant atteint d’une affection autosomique récessive né de parents cliniquement sains, quelles propositions sont exactes ?",
+      "choices": [
+        "Les parents sont généralement hétérozygotes.",
+        "Si les deux parents sont hétérozygotes, le risque d’enfant atteint est de 25 % à chaque conception.",
+        "Une union entre apparentés augmente le risque de transmission du même allèle muté.",
+        "Ce mode de transmission implique nécessairement une atteinte exclusive des garçons."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les parents d’un sujet atteint sont généralement sains mais hétérozygotes. Le risque est de 25 % si les deux parents sont hétérozygotes. La consanguinité augmente le risque. Les deux sexes sont atteints avec la même fréquence."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la mucoviscidose selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle affecte les épithéliums glandulaires de nombreux organes.",
+        "Elle provoque une augmentation de la viscosité du mucus.",
+        "Le mucus peut s’accumuler dans les voies respiratoires et digestives.",
+        "Elle est décrite comme une maladie du collagène de type I."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mucoviscidose touche les épithéliums glandulaires et entraîne une augmentation de la viscosité du mucus avec accumulation respiratoire et digestive. Le collagène de type I concerne l’ostéogenèse imparfaite."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conséquences de la drépanocytose citées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Anémie hémolytique",
+        "Obstructions capillaires",
+        "Douleurs vaso-occlusives",
+        "Déformations faciales typiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La drépanocytose provoque une anémie hémolytique, des obstructions capillaires et des douleurs vaso-occlusives. Les déformations faciales sont citées pour les formes sévères de thalassémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les thalassémies décrites dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des anémies héréditaires.",
+        "Elles sont associées à une hémoglobinopathie par déficit de synthèse d’une ou plusieurs chaînes de l’hémoglobine.",
+        "Les formes sévères peuvent entraîner une hépatosplénomégalie.",
+        "Elles sont dues à une augmentation de la viscosité du mucus."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les thalassémies sont des anémies héréditaires liées à un déficit de synthèse de chaînes de l’hémoglobine. Les formes sévères peuvent entraîner une hépatosplénomégalie. L’augmentation de la viscosité du mucus concerne la mucoviscidose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le début ou la sévérité temporelle des maladies citées, quelles propositions sont exactes ?",
+      "choices": [
+        "L’élévation du LDL-cholestérol dans l’hypercholestérolémie familiale est présente dès la naissance.",
+        "L’achondroplasie est un nanisme présent à la naissance.",
+        "La mucoviscidose s’exprime souvent dès la petite enfance.",
+        "La dystrophie myotonique de Steinert peut comporter des formes néonatales sévères."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre éléments sont explicitement mentionnés dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les pièges d’interprétation d’un arbre généalogique en hérédité autosomique dominante, quelles propositions sont exactes ?",
+      "choices": [
+        "Une pénétrance incomplète peut entraîner un saut de génération.",
+        "Un individu porteur d’une mutation peut être cliniquement indemne.",
+        "Une mutation de novo peut expliquer un sujet atteint né de parents sains non porteurs.",
+        "Tout sujet apparemment sain ne peut jamais transmettre une mutation dominante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La pénétrance incomplète peut rendre un porteur asymptomatique et entraîner un saut de génération. Une mutation de novo peut expliquer un sujet atteint né de parents sains non porteurs."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’hypercholestérolémie familiale, quelle anomalie génétique est indiquée dans le texte ?",
+      "choices": [
+        "Mutation du gène de la fibrilline",
+        "Anomalie du gène du récepteur du LDL",
+        "Expansion instable du triplet CTG du gène DMPK",
+        "Mutation du gène CFTR"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’hypercholestérolémie familiale est due à une anomalie du gène du récepteur du LDL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle protéine essentielle du tissu conjonctif est impliquée dans la maladie de Marfan selon le texte ?",
+      "choices": [
+        "Neurofibromine",
+        "Fibrilline",
+        "CFTR",
+        "Récepteur du LDL"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La maladie de Marfan est liée à une mutation du gène de la fibrilline."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le mode d’expression clinique habituel de la chorée de Huntington chez un porteur de la mutation selon le texte ?",
+      "choices": [
+        "Le porteur reste toujours asymptomatique.",
+        "Le porteur développe la maladie au cours de sa vie.",
+        "La maladie ne s’exprime que chez les homozygotes.",
+        "La maladie s’exprime uniquement en période néonatale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La chorée de Huntington est décrite comme une maladie autosomique dominante à pénétrance complète : le porteur de la mutation développe la maladie au cours de sa vie."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la drépanocytose, quelle forme prennent les hématies sous l’effet de l’hémoglobine anormale ?",
+      "choices": [
+        "Forme de faucille",
+        "Forme sphérique",
+        "Forme en anneau",
+        "Forme ovalaire exclusivement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’allèle S entraîne une hémoglobine anormale responsable d’hématies en forme de faucille."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle mutation est responsable de la dystrophie myotonique de Steinert selon le texte ?",
+      "choices": [
+        "Expansion instable du triplet CTG du gène DMPK",
+        "Mutation du gène FGFR3",
+        "Mutation du gène CFTR",
+        "Mutation du gène codant la chaîne bêta de l’hémoglobine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La dystrophie myotonique de Steinert est due à une expansion instable du triplet CTG du gène DMPK."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’achondroplasie, quel type de protéine est codé par le gène FGFR3 selon le texte ?",
+      "choices": [
+        "Une chaîne du collagène de type I",
+        "Un récepteur du facteur de croissance des fibroblastes",
+        "Une protéine de transport épithélial CFTR",
+        "Une protéine suppresseur de tumeur appelée neurofibromine"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le gène FGFR3 code un récepteur du facteur de croissance des fibroblastes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse d’une affection liée au chromosome X, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans la forme récessive liée à l’X, les femmes hétérozygotes sont habituellement conductrices et non atteintes.",
+        "Dans la forme dominante liée à l’X, les filles hétérozygotes peuvent être atteintes, souvent moins sévèrement que les garçons.",
+        "La transmission père-fils est caractéristique des maladies liées à l’X.",
+        "Les garçons hémizygotes peuvent exprimer la maladie dans les formes récessives et dominantes liées à l’X."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les deux modes liés à l’X excluent la transmission père-fils. Les garçons hémizygotes expriment l’allèle morbide ; les filles hétérozygotes sont généralement conductrices en récessif et atteintes, souvent moins sévèrement, en dominant."
+    },
+    {
+      "type": "QCM",
+      "question": "Une femme conductrice d’une maladie récessive liée à l’X souhaite connaître le risque de transmission. Quelles propositions sont exactes ?",
+      "choices": [
+        "La moitié de ses fils risquent d’être atteints.",
+        "La moitié de ses filles risquent d’être conductrices.",
+        "Tous ses fils seront obligatoirement atteints.",
+        "Le père transmet la mutation à tous ses fils dans ce mode de transmission."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Une femme conductrice transmet la mutation à la moitié de ses fils, qui seront atteints, et à la moitié de ses filles, qui seront conductrices. Il n’existe pas de transmission père-fils liée à l’X."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un arbre généalogique évocateur d’une hérédité récessive liée à l’X, quels éléments sont attendus ?",
+      "choices": [
+        "Les sujets atteints sont presque toujours des garçons.",
+        "Les hommes atteints se retrouvent dans la lignée maternelle.",
+        "Il n’y a pas de transmission père-fils.",
+        "Les femmes et les hommes sont atteints avec la même fréquence et la même sévérité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transmission récessive liée à l’X touche surtout les garçons hémizygotes, avec une transmission passant par les femmes conductrices de la lignée maternelle et sans transmission père-fils."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la dystrophie musculaire de Duchenne, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est due à une mutation du gène DMD situé sur le chromosome X.",
+        "Le gène impliqué code la dystrophine.",
+        "Le déficit en dystrophine entraîne une dégénérescence progressive des fibres musculaires.",
+        "Elle est liée primitivement à un déficit en facteur IX de coagulation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La myopathie de Duchenne est liée à une mutation du gène DMD du chromosome X, codant la dystrophine. Le déficit en dystrophine provoque une dégénérescence musculaire progressive."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’expression clinique de la dystrophie musculaire de Duchenne, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle se manifeste chez les garçons vers l’âge de 3 à 4 ans.",
+        "Les difficultés à monter les escaliers peuvent être révélatrices.",
+        "Les difficultés à se relever peuvent faire partie du tableau initial.",
+        "La perte de la marche est habituellement évitée par l’administration de vitamine D."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La dystrophie musculaire de Duchenne débute souvent vers 3-4 ans par des difficultés motrices, notamment monter les escaliers ou se relever, puis évolue vers une perte de la marche."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le daltonisme tel qu’il est décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à une anomalie de la perception des couleurs.",
+        "Il est dû à un déficit d’un ou plusieurs types de cônes rétiniens.",
+        "La forme la plus fréquente entraîne une confusion entre le rouge et le vert.",
+        "Il correspond toujours à une absence complète de perception des couleurs."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le daltonisme est lié à un déficit de cônes rétiniens. La forme la plus fréquente concerne l’axe rouge-vert ; l’absence complète de perception des couleurs est une forme plus rare."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hémophilie, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une anomalie constitutionnelle de la coagulation.",
+        "Elle est liée à un déficit en facteur de coagulation.",
+        "Elle peut se manifester par des hémarthroses.",
+        "Elle correspond à un défaut de minéralisation du cartilage de croissance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hémophilie est une anomalie constitutionnelle de la coagulation due à un déficit en facteur de coagulation. Les hémorragies peuvent atteindre les articulations sous forme d’hémarthroses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bases moléculaires des hémophilies A et B, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hémophilie A est due à une mutation du gène F8 du chromosome X.",
+        "Le gène F8 code le facteur VIII de coagulation.",
+        "L’hémophilie B est due à une mutation du gène F9 du chromosome X.",
+        "Le gène F9 code le facteur VIII de coagulation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hémophilie A implique F8, codant le facteur VIII. L’hémophilie B implique F9, codant le facteur IX."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du syndrome de l’X fragile, quelles propositions sont exactes ?",
+      "choices": [
+        "Il constitue une cause héréditaire fréquente de déficience intellectuelle.",
+        "Il est dû à une mutation du gène FMR1 situé sur le chromosome X.",
+        "Il correspond à une expansion anormale de répétitions CGG.",
+        "Les sujets atteints présentent généralement moins de 20 répétitions CGG."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de l’X fragile est lié à une expansion anormale de répétitions CGG dans le gène FMR1 du chromosome X ; les sujets atteints présentent généralement plus de 200 répétitions."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rachitismes vitamino-résistants, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils ne sont pas corrigés par la vitamine D.",
+        "Ils correspondent à un défaut de minéralisation visible sur les radiographies.",
+        "Ils touchent le cartilage de croissance et l’os.",
+        "Ils peuvent se manifester dès la petite enfance par des déformations des membres inférieurs."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les rachitismes vitamino-résistants sont définis par l’absence de correction par la vitamine D, avec défaut de minéralisation radiologique touchant l’os et le cartilage de croissance, responsable de déformations précoces."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hérédité liée au chromosome Y, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle concerne les gènes portés par le chromosome Y.",
+        "Elle se transmet exclusivement de père en fils.",
+        "Le chromosome Y contient notamment le gène SRY.",
+        "Un père transmet ce mode d’hérédité à toutes ses filles."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hérédité liée au Y, ou holandrique, concerne les gènes du chromosome Y et se transmet exclusivement de père en fils. Le gène SRY est situé sur le chromosome Y."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations atteinte-tissu ou atteinte-organe sont exactes selon le texte ?",
+      "choices": [
+        "Dystrophie musculaire de Duchenne : dégénérescence progressive des fibres musculaires.",
+        "Hémophilie : hémorragies articulaires et musculaires possibles.",
+        "Rachitismes vitamino-résistants : atteinte du cartilage de croissance et de l’os.",
+        "Daltonisme : atteinte primitive des cellules bêta pancréatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte relie la Duchenne aux fibres musculaires, l’hémophilie aux hémorragies articulaires et musculaires, et les rachitismes vitamino-résistants au cartilage de croissance et à l’os."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le trouble du métabolisme de la phénylalanine décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est dû à un déficit en phénylalanine hydroxylase.",
+        "La phénylalanine hydroxylase est une enzyme hépatique.",
+        "Cette enzyme permet la transformation de la phénylalanine en tyrosine.",
+        "Le déficit enzymatique entraîne principalement une confusion rouge-vert."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le trouble décrit est lié à un déficit en phénylalanine hydroxylase, enzyme hépatique transformant la phénylalanine en tyrosine. La confusion rouge-vert relève du daltonisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations mécanisme-conséquence sont exactes selon le texte ?",
+      "choices": [
+        "Déficit en phénylalanine hydroxylase : défaut de transformation de la phénylalanine en tyrosine.",
+        "Déficit en dystrophine : dégénérescence progressive des fibres musculaires.",
+        "Déficit en facteur de coagulation : hémorragies possibles dans différents organes.",
+        "Déficit d’un ou plusieurs types de cônes : anomalie de la perception des couleurs."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre associations sont explicitement rapportées : métabolisme de la phénylalanine, Duchenne, hémophilie et daltonisme."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une hérédité dominante liée à l’X, quelle transmission est attendue chez un homme atteint ?",
+      "choices": [
+        "Transmission à tous ses fils et à aucune fille.",
+        "Transmission à toutes ses filles et absence de transmission père-fils.",
+        "Transmission à la moitié de ses fils uniquement.",
+        "Transmission exclusivement par la lignée maternelle."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans l’hérédité dominante liée à l’X, un homme atteint transmet la mutation à toutes ses filles et il n’existe pas de transmission père-fils."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme hépatique permet normalement la transformation de la phénylalanine en tyrosine ?",
+      "choices": [
+        "Phénylalanine hydroxylase.",
+        "Dystrophine.",
+        "Facteur VIII.",
+        "FMR1."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La phénylalanine hydroxylase est l’enzyme hépatique qui transforme la phénylalanine en tyrosine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affection correspond à une anomalie constitutionnelle de la coagulation pouvant donner des hémarthroses et des hématomes ?",
+      "choices": [
+        "Daltonisme.",
+        "Hémophilie.",
+        "Rachitisme vitamino-résistant.",
+        "Syndrome de l’X fragile."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’hémophilie est une anomalie constitutionnelle de la coagulation responsable d’hémorragies, notamment articulaires et musculaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel diagnostic est évoqué par un rachitisme non corrigé par la vitamine D avec défaut de minéralisation visible sur les radiographies ?",
+      "choices": [
+        "Rachitisme vitamino-résistant.",
+        "Myopathie de Duchenne.",
+        "Hémophilie A.",
+        "Daltonisme rouge-vert."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les rachitismes vitamino-résistants sont définis comme des rachitismes non corrigés par la vitamine D, avec défaut de minéralisation radiologique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément cellulaire est directement impliqué dans le daltonisme décrit ?",
+      "choices": [
+        "Les cônes rétiniens.",
+        "Les fibres musculaires striées.",
+        "Le cartilage de croissance.",
+        "Les facteurs plasmatiques de coagulation."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le daltonisme décrit est dû à un déficit d’un ou plusieurs types de cônes rétiniens."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel gène du chromosome Y est mentionné comme impliqué dans la détermination sexuelle masculine ?",
+      "choices": [
+        "FMR1.",
+        "DMD.",
+        "SRY.",
+        "F8."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le chromosome Y contient notamment le gène SRY, impliqué dans la détermination sexuelle masculine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les notions d’allèle, d’homozygotie et d’hétérozygotie, quelles propositions sont exactes ?",
+      "choices": [
+        "Un allèle correspond à une version variable d’un même gène.",
+        "Deux allèles identiques à un même locus définissent l’homozygotie.",
+        "Deux allèles différents à un même locus définissent l’hétérozygotie.",
+        "Deux allèles d’un même gène ont obligatoirement une séquence nucléotidique strictement identique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un allèle est une version variable d’un gène, distinguée par des variations de séquence. L’homozygotie correspond à deux allèles identiques, l’hétérozygotie à deux allèles différents."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant génotype, phénotype, type sauvage et mutant, quelles propositions sont exactes ?",
+      "choices": [
+        "Le génotype désigne la constitution génétique d’une cellule ou d’un individu.",
+        "Le phénotype correspond aux caractères observés, pathologiques ou non.",
+        "Un mutant porte un gène altéré.",
+        "Le type sauvage désigne un organisme porteur d’un gène obligatoirement pathologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le type sauvage porte le gène normal. Le mutant porte un gène altéré. Le génotype est la constitution génétique, tandis que le phénotype correspond aux caractères observables."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les maladies congénitales et génétiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Une maladie congénitale est présente à la naissance.",
+        "Une maladie congénitale peut être non génétique.",
+        "Certaines maladies génétiques ne s’expriment qu’au cours de la vie.",
+        "Toute maladie génétique est obligatoirement présente dès la naissance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue clairement maladie congénitale et maladie génétique : une maladie congénitale est présente à la naissance, mais elle peut être génétique ou non ; certaines maladies génétiques sont d’expression retardée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’euchromatine et l’hétérochromatine, quelles propositions sont exactes ?",
+      "choices": [
+        "L’euchromatine correspond à des régions moins condensées.",
+        "L’euchromatine contient des gènes actifs.",
+        "L’hétérochromatine est plus condensée.",
+        "L’hétérochromatine contient des gènes généralement très transcrits."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’euchromatine est moins condensée et contient des gènes actifs. L’hétérochromatine est plus condensée et contient des gènes généralement non transcrits."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les chromosomes, la chromatine et le caryotype, quelles propositions sont exactes ?",
+      "choices": [
+        "Un chromosome correspond à une structure condensée de chromatine.",
+        "Les chromosomes portent les gènes.",
+        "Le caryotype permet d’établir la formule chromosomique d’un individu.",
+        "Le caryotype permet de déterminer directement la séquence nucléotidique complète d’un gène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le caryotype analyse les chromosomes et permet de détecter des anomalies de nombre ou de structure, mais il ne détermine pas directement la séquence nucléotidique d’un gène."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le caryotype humain normal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il comporte 46 chromosomes.",
+        "Il comporte 23 paires de chromosomes.",
+        "Il comprend 22 paires d’autosomes.",
+        "Les gonosomes sont XX chez l’homme et XY chez la femme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le caryotype humain normal comprend 46 chromosomes répartis en 23 paires : 22 paires d’autosomes et une paire de gonosomes, XX chez la femme et XY chez l’homme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la localisation et le rôle de l’ADN, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ADN est le matériel génétique des cellules vivantes.",
+        "L’ADN est le support de l’information génétique héréditaire.",
+        "L’ADN est principalement contenu dans le noyau.",
+        "L’ADN est exclusivement nucléaire dans toutes les cellules vivantes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADN est principalement nucléaire, mais une fraction est présente dans les mitochondries ; chez les végétaux, il existe aussi de l’ADN chloroplastique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la constitution chimique d’un nucléotide d’ADN, quelles propositions sont exactes ?",
+      "choices": [
+        "Il contient un désoxyribose.",
+        "Il contient un groupement phosphate.",
+        "Il contient une base azotée pouvant être l’adénine, la guanine, la cytosine ou la thymine.",
+        "Il contient un ribose et une base uracile comme constituants constants."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un nucléotide d’ADN comprend un désoxyribose, un phosphate et une base azotée parmi A, G, C ou T. Le ribose et l’uracile caractérisent l’ARN."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ARN décrit dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est formé de ribonucléotides.",
+        "Ses nucléotides sont reliés par des liaisons phosphodiester.",
+        "Il contient de l’uracile.",
+        "Il est formé de deux brins complémentaires en double hélice."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ARN est un polymère de ribonucléotides reliés par des liaisons phosphodiester ; il contient notamment l’uracile et se présente comme une seule chaîne nucléotidique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le principe général de la réplication de l’ADN, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à la formation de nouveaux brins d’ADN à partir des deux brins initiaux.",
+        "Elle précède la division cellulaire afin de transmettre la même information génétique aux cellules filles.",
+        "Chaque brin initial sert de matrice pour la synthèse d’un brin complémentaire.",
+        "La sélection du nucléotide à incorporer est indépendante de la complémentarité des bases."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réplication repose sur la séparation des deux brins et l’utilisation de chacun comme matrice. La complémentarité des bases permet la sélection correcte des nucléotides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la synthèse des brins au cours de la réplication, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ADN polymérase synthétise l’ADN dans le sens 5’ vers 3’.",
+        "La réplication est continue sur le brin avancé.",
+        "Le brin retardé est synthétisé sous forme de fragments d’Okazaki.",
+        "Les fragments d’Okazaki sont reliés par l’hélicase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le brin avancé est synthétisé en continu, le brin retardé en fragments d’Okazaki, qui sont ensuite reliés par l’ADN ligase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fidélité de la réplication, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ADN polymérase possède une activité exonucléasique 3’ vers 5’.",
+        "Cette activité permet la correction des erreurs d’incorporation.",
+        "La fonction d’édition améliore la fidélité de la réplication.",
+        "L’activité exonucléasique impose une synthèse globale de l’ADN dans le sens 3’ vers 5’."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’activité exonucléasique 3’ vers 5’ de l’ADN polymérase corrige les erreurs d’incorporation, mais la synthèse de l’ADN reste orientée 5’ vers 3’."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transcription chez les eucaryotes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet de copier l’information d’un gène sous forme d’ARN.",
+        "Elle se déroule dans le noyau.",
+        "Elle est catalysée par une ARN polymérase.",
+        "Elle correspond à la synthèse d’un brin d’ADN complémentaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transcription est la copie de l’information d’un gène sous forme d’ARN. Chez les eucaryotes, elle se déroule dans le noyau et est catalysée par une ARN polymérase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étapes de la transcription et les éléments impliqués, quelles propositions sont exactes ?",
+      "choices": [
+        "L’initiation implique la fixation de l’ARN polymérase sur le promoteur.",
+        "L’élongation correspond à l’addition séquentielle des ribonucléotides.",
+        "La terminaison dépend de signaux spécifiques, dont le signal AAUAAA.",
+        "Le promoteur est situé en aval du gène et intervient uniquement dans la terminaison."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le promoteur est situé en amont du gène et intervient dans l’initiation. L’élongation ajoute les ribonucléotides, et la terminaison fait intervenir des signaux spécifiques comme AAUAAA."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement le locus ?",
+      "choices": [
+        "La séquence d’ARN issue de la transcription d’un gène.",
+        "Le site physique où se situe un gène sur un chromosome.",
+        "La forme condensée de la chromatine en métaphase.",
+        "L’ensemble des caractères observables d’un individu."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le locus est le site physique d’un gène sur un chromosome."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement le rapport entre maladie congénitale et maladie génétique ?",
+      "choices": [
+        "Toute maladie congénitale est nécessairement génétique.",
+        "Toute maladie génétique est nécessairement congénitale.",
+        "Une maladie congénitale est présente à la naissance mais peut être génétique ou non.",
+        "Une maladie génétique ne peut jamais s’exprimer au cours de la vie."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une maladie congénitale est définie par sa présence à la naissance ; elle peut être génétique ou non. Certaines maladies génétiques apparaissent plus tardivement."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez les eucaryotes, quelle ARN polymérase transcrit l’ADN en ARN pré-messager ?",
+      "choices": [
+        "ARN polymérase I.",
+        "ARN polymérase II.",
+        "ARN polymérase III.",
+        "ADN polymérase."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Chez les eucaryotes, l’ARN polymérase II transcrit l’ADN en ARN pré-messager."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme contribue à la condensation accrue du chromosome selon le texte ?",
+      "choices": [
+        "La disparition complète des histones.",
+        "Le surenroulement autour d’une armature protéique.",
+        "La transformation de l’ADN en ARN.",
+        "La rupture des deux chromatides sœurs."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le chromosome devient plus condensé grâce au surenroulement de l’ADN autour d’une armature protéique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle base azotée appartient à l’ARN et remplace la thymine lors de la correspondance avec l’ARNm ?",
+      "choices": [
+        "Adénine.",
+        "Guanine.",
+        "Uracile.",
+        "Cytosine."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans l’ARN, l’uracile remplace la thymine présente dans l’ADN."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme synthétise les amorces d’ARN nécessaires à la réplication ?",
+      "choices": [
+        "Primase.",
+        "ADN ligase.",
+        "Topoisomérase.",
+        "Hélicase."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La primase synthétise les amorces d’ARN qui permettent l’initiation de la synthèse d’ADN."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la maturation de l’ARN pré-messager, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comprend l’ajout d’une coiffe de 7-méthylguanosine à l’extrémité 5’.",
+        "Elle comprend l’ajout d’une queue poly-A à l’extrémité 3’.",
+        "Elle comprend l’excision des introns.",
+        "Elle comprend l’excision des exons codants."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maturation de l’ARN pré-messager associe coiffe 5’, queue poly-A 3’, excision des introns et épissage des exons. Les exons sont conservés dans l’ARNm mature."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la coiffe 5’ et la queue poly-A de l’ARNm, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles participent à la protection de l’ARNm contre la dégradation.",
+        "Elles interviennent dans la reconnaissance de l’ARNm par la machinerie de traduction.",
+        "Elles correspondent à des séquences introniques excisées.",
+        "Elles sont ajoutées respectivement aux extrémités 5’ et 3’."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La coiffe 5’ et la queue poly-A 3’ protègent l’ARNm et participent à sa reconnaissance par la machinerie de traduction. Elles ne sont pas des introns excisés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les exons et les introns au cours de la maturation de l’ARN pré-messager, quelles propositions sont exactes ?",
+      "choices": [
+        "Les exons sont des séquences codantes conservées dans l’ARNm mature.",
+        "Les introns sont des séquences non codantes excisées lors de l’épissage.",
+        "Les introns sont conservés dans l’ARNm mature pour être traduits.",
+        "L’épissage aboutit à la conservation des exons dans l’ARNm mature."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les exons codants sont conservés, tandis que les introns non codants sont excisés lors de l’épissage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le devenir de l’ARNm après maturation, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ARNm mature est exporté vers le cytoplasme.",
+        "L’export de l’ARNm mature se fait par les pores nucléaires.",
+        "L’ARNm mature est directement converti en ADN double brin.",
+        "L’ARNm mature peut être reconnu par la machinerie de traduction."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Après maturation, l’ARNm est exporté vers le cytoplasme par les pores nucléaires et peut être reconnu par la machinerie de traduction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la traduction, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond au passage d’une séquence de nucléotides de l’ARNm à une séquence d’acides aminés.",
+        "Elle se déroule au niveau des ribosomes.",
+        "Elle utilise le code génétique.",
+        "Elle correspond à l’excision des introns de l’ARN pré-messager."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La traduction convertit l’information portée par l’ARNm en séquence d’acides aminés selon le code génétique, au niveau des ribosomes. L’excision des introns relève de la maturation de l’ARN pré-messager."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le code génétique et les codons, quelles propositions sont exactes ?",
+      "choices": [
+        "Le code génétique implique les bases A, C, U et G.",
+        "Un codon est un triplet de nucléotides porté par l’ARNm.",
+        "Chaque codon correspond à un acide aminé ou à un signal stop.",
+        "Le code génétique implique directement la thymine dans l’ARNm."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le code génétique de l’ARNm utilise A, C, U et G. Un codon est un triplet de nucléotides correspondant à un acide aminé ou à un signal stop."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le codon initiateur de la traduction, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est généralement AUG.",
+        "Chez les eucaryotes, il code la méthionine.",
+        "Il constitue un signal de reconnaissance lors de l’initiation.",
+        "Il est toujours un codon stop."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le codon initiateur est généralement AUG ; chez les eucaryotes, il code la méthionine et est reconnu lors de l’initiation de la traduction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étapes de la traduction, quelles propositions sont exactes ?",
+      "choices": [
+        "L’initiation comporte la fixation de l’ARNm au ribosome.",
+        "L’initiation comporte la reconnaissance du codon initiateur.",
+        "L’élongation correspond à la lecture successive des codons avec ajout des acides aminés.",
+        "La terminaison correspond à l’ajout de la coiffe de 7-méthylguanosine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La traduction comprend l’initiation, l’élongation et la terminaison. La coiffe de 7-méthylguanosine appartient à la maturation de l’ARN pré-messager."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les éléments nécessaires à la traduction, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ARNm porte l’information à traduire.",
+        "Les ribosomes assurent l’assemblage de la chaîne polypeptidique.",
+        "Les ARNt transportent les acides aminés.",
+        "Les ARNt possèdent des anticodons complémentaires aux codons."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La traduction nécessite un ARNm, des ribosomes, des acides aminés et des ARNt porteurs d’anticodons complémentaires aux codons."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la terminaison de la traduction, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient au niveau d’un codon stop.",
+        "Elle entraîne l’arrêt de la synthèse protéique.",
+        "Elle s’accompagne de la libération du polypeptide.",
+        "Elle correspond à l’hybridation d’amorces complémentaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La terminaison de la traduction se fait au niveau d’un codon stop, avec arrêt de la synthèse et libération du polypeptide. L’hybridation d’amorces relève de la PCR."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la structure primaire d’une protéine, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle repose sur l’enchaînement des acides aminés.",
+        "Les acides aminés y sont reliés par des liaisons peptidiques.",
+        "Elle correspond à l’enchaînement des nucléotides de l’ARNm.",
+        "Elle est directement définie par l’excision des introns."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La structure primaire d’une protéine est l’enchaînement des acides aminés reliés par des liaisons peptidiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies chromosomiques constitutionnelles et leur fréquence, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent être présentes dès la conception.",
+        "Elles peuvent apparaître lors des premières divisions du zygote.",
+        "Elles sont fréquentes dans les avortements du premier trimestre.",
+        "À la naissance, elles concernent environ 10 % des enfants vivants."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anomalies chromosomiques constitutionnelles sont présentes dès la conception ou apparaissent lors des premières divisions du zygote. Elles sont fréquentes dans les avortements du premier trimestre. À la naissance, la fréquence indiquée est d’environ 0,6 à 0,9 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes des anomalies chromosomiques de nombre et de structure, quelles propositions sont exactes ?",
+      "choices": [
+        "Les anomalies de nombre peuvent résulter d’une anomalie de la fécondation.",
+        "Les anomalies de nombre peuvent résulter d’une mauvaise répartition des chromosomes lors d’une division cellulaire.",
+        "Les anomalies de structure résultent de cassures chromosomiques suivies de recollements anormaux.",
+        "Les anomalies de structure sont définies uniquement par la perte complète d’un chromosome."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anomalies de nombre relèvent d’anomalies de fécondation ou de ségrégation chromosomique. Les anomalies de structure sont dues à des cassures suivies de recollements anormaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies chromosomiques en mosaïque ou homogènes, quelles propositions sont exactes ?",
+      "choices": [
+        "Une anomalie homogène est présente dans toutes les cellules.",
+        "Une anomalie de nombre peut être en mosaïque.",
+        "Une anomalie homogène résulte le plus souvent d’une non-disjonction méiotique.",
+        "Une anomalie en mosaïque correspond obligatoirement à une translocation équilibrée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anomalies de nombre peuvent être homogènes ou en mosaïque. Une anomalie homogène est présente dans toutes les cellules et résulte le plus souvent d’une non-disjonction méiotique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel événement caractérise le mieux l’élongation lors de la traduction ?",
+      "choices": [
+        "Ajout d’une queue poly-A à l’extrémité 3’.",
+        "Lecture successive des codons avec ajout des acides aminés à la chaîne polypeptidique.",
+        "Excision des introns de l’ARN pré-messager.",
+        "Libération du polypeptide au niveau d’un codon stop."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’élongation correspond à la lecture successive des codons et à l’ajout progressif des acides aminés à la chaîne polypeptidique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le codon initiateur généralement reconnu lors de la traduction ?",
+      "choices": [
+        "AUG",
+        "UAA",
+        "CGA",
+        "UGG"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le codon initiateur est généralement AUG ; chez les eucaryotes, il code la méthionine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme définit la non-disjonction chromosomique ?",
+      "choices": [
+        "Migration de deux chromosomes vers le même pôle lors de l’anaphase.",
+        "Cassure à chaque extrémité d’un chromosome avec formation d’un anneau.",
+        "Deux cassures sur un même bras avec perte du segment intermédiaire.",
+        "Recollement après inversion d’un segment chromosomique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La non-disjonction correspond à la migration de deux chromosomes vers le même pôle à l’anaphase, au lieu d’une séparation vers deux cellules filles différentes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle définition correspond à une inversion péricentrique ?",
+      "choices": [
+        "Inversion dont le centromère est compris dans le segment inversé.",
+        "Inversion dont les deux cassures sont situées sur le même bras chromosomique.",
+        "Chromosome formé de deux bras longs ou de deux bras courts identiques.",
+        "Cassure terminale avec perte du segment distal."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une inversion péricentrique inclut le centromère dans le segment inversé. L’inversion paracentrique a ses deux cassures sur le même bras."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la PCR, quelle étape correspond à l’action de l’ADN polymérase thermostable ?",
+      "choices": [
+        "Dénaturation de l’ADN en simples brins.",
+        "Hybridation d’amorces complémentaires.",
+        "Élongation.",
+        "Ajout d’une coiffe de 7-méthylguanosine."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La PCR comprend la dénaturation, l’hybridation des amorces puis l’élongation par une ADN polymérase thermostable."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle technique utilise des sondes fluorescentes spécifiques pour identifier une région chromosomique ?",
+      "choices": [
+        "PCR",
+        "FISH",
+        "Caryotype conventionnel en métaphase sans sonde fluorescente",
+        "Traduction ribosomique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La FISH est une technique de cytogénétique moléculaire utilisant des sondes fluorescentes spécifiques pour localiser un gène ou identifier une région chromosomique."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T16:54:47.306Z"
+}

@@ -623,15 +623,14 @@ function toggleFavorite(courseId) {
 
   setFavoriteCourses(favorites);
 }
-
 function findCategory(categoryId) {
-  return platformData.categories.find((cat) => cat.id === categoryId);
+  return platformData.categories.find(cat => cat.id === categoryId);
 }
 
 function findModule(categoryId, moduleId) {
   const category = findCategory(categoryId);
   if (!category) return null;
-  return category.modules.find((mod) => mod.id === moduleId);
+  return category.modules.find(mod => mod.id === moduleId);
 }
 
 function getAllCoursesFlat() {
@@ -876,16 +875,38 @@ function loadDashboardPage() {
     })
     .join("");
 }
+async function getFreshData() {
+  const res = await fetch("/data/cours.json?v=" + Date.now());
+  return await res.json();
+}
 
-function loadPlayerPage() {
+function findModuleInFreshData(data, categoryId, moduleId) {
+  const category = data.find(c => c.category === categoryId);
+  if (!category) return null;
+  return category.modules.find(m => m.name === moduleId);
+}
+async function loadPlayerPage() {
   const categoryId = getCategoryFromUrl();
   const moduleId = getModuleFromUrl();
   const courseIndex = parseInt(getCourseFromUrl() || "0", 10);
+  let data = [];
+try {
+  const res = await fetch("/data/cours.json?v=" + Date.now());
+  data = await res.json();
+} catch (e) {
+  console.error("Impossible de charger cours.json", e);
+  return;
+}
 
-  const module = findModule(categoryId, moduleId);
-  if (!module || !module.courses[courseIndex]) return;
 
-  const currentCourse = module.courses[courseIndex];
+const categoryData = data.find(c => c.category === categoryId);
+const module = categoryData?.modules?.find(m => m.name === moduleId);
+
+if (!module || !module.courses[courseIndex]) return;
+
+const currentCourse = module.courses[courseIndex];
+
+  
   const video = document.getElementById("videoPlayer");
   const moduleName = document.getElementById("moduleName");
   const pdfLink = document.getElementById("pdfLink");
@@ -893,6 +914,8 @@ function loadPlayerPage() {
   const pdfSection = document.getElementById("pdfSection");
   const pdfViewer = document.getElementById("pdfViewer");
   const pdfUnavailable = document.getElementById("pdfUnavailable");
+  const supportsList = document.getElementById("supportsList");
+  const quickSupports = document.getElementById("quickSupports");
   const watchedBtn = document.getElementById("watchedBtn");
   const favoriteBtn = document.getElementById("favoriteBtn");
   const backToModules = document.getElementById("backToModules");
@@ -909,6 +932,41 @@ function loadPlayerPage() {
   let autoNextTimer = null;
   let countdownTimer = null;
   let pdfVisible = false;
+  function renderSupports() {
+  const supports = currentCourse.supports || [];
+
+  if (supportsList) {
+    supportsList.innerHTML = "";
+  }
+
+  if (!supports.length) {
+  if (supportsList) {
+    supportsList.innerHTML = `<div class="pdf-unavailable">Aucun support disponible.</div>`;
+  }
+  if (quickSupports) {
+    quickSupports.innerHTML = `<span class="pdf-unavailable">Aucun support</span>`;
+  }
+  return;
+}
+  supportsList.innerHTML = supports.map((s, index) => `
+  <a class="support-item btn btn-dark"
+     href="${s.url}"
+     target="_blank"
+     rel="noopener">
+    📎 Support ${index + 1} (${s.type.toUpperCase()})
+  </a>
+`).join("");
+if (quickSupports) {
+  quickSupports.innerHTML = supports.map((s, index) => `
+    <a class="btn btn-dark"
+       href="${s.url}"
+       target="_blank"
+       rel="noopener">
+      📎 Support ${index + 1}
+    </a>
+  `).join("");
+}
+}
 
   function clearAutoNextTimers() {
     if (autoNextTimer) {
@@ -966,7 +1024,7 @@ function loadPlayerPage() {
 
   async function checkPdfExists(url) {
     try {
-      const response = await fetch(url, { method: "HEAD" });
+      const response = await fetch(url, { method: "GET" });
       return response.ok;
     } catch {
       return false;
@@ -974,33 +1032,45 @@ function loadPlayerPage() {
   }
 
   async function showPdfPanel() {
-    if (!pdfSection || !pdfViewer || !pdfUnavailable || !togglePdfBtn) return;
+  if (!pdfSection || !pdfViewer || !pdfUnavailable || !togglePdfBtn) return;
 
-    pdfVisible = true;
-    pdfSection.classList.remove("hidden");
-    togglePdfBtn.textContent = "📕 Masquer PDF";
+  pdfVisible = true;
+  pdfSection.classList.remove("hidden");
+  togglePdfBtn.textContent = "📕 Masquer PDF";
 
-    if (!currentCourse.pdf) {
-      pdfViewer.classList.add("hidden");
-      pdfUnavailable.classList.remove("hidden");
-      return;
-    }
+  renderSupports();
 
-    const exists = await checkPdfExists(currentCourse.pdf);
+  const supports = currentCourse.supports || [];
 
-    if (!exists) {
-      pdfViewer.classList.add("hidden");
-      pdfUnavailable.classList.remove("hidden");
-      return;
-    }
-
-    pdfUnavailable.classList.add("hidden");
-    pdfViewer.classList.remove("hidden");
-    pdfViewer.src = currentCourse.pdf;
+  if (!supports.length) {
+    pdfViewer.classList.add("hidden");
+    pdfUnavailable.classList.remove("hidden");
+    return;
   }
+
+  pdfUnavailable.classList.add("hidden");
+
+  if (!currentCourse.pdf) {
+    pdfViewer.classList.add("hidden");
+    pdfViewer.src = "";
+    return;
+  }
+
+  const exists = await checkPdfExists(currentCourse.pdf);
+
+  if (!exists) {
+    pdfViewer.classList.add("hidden");
+    pdfViewer.src = "";
+    return;
+  }
+
+  pdfViewer.classList.remove("hidden");
+  pdfViewer.src = currentCourse.pdf;
+}
 
   moduleName.textContent = module.title;
   video.src = currentCourse.video;
+renderSupports();
   video.setAttribute("controlsList", "nodownload noremoteplayback");
   video.setAttribute("disablePictureInPicture", "");
   video.setAttribute("playsinline", "");
@@ -1026,21 +1096,19 @@ function loadPlayerPage() {
   };
 
   if (pdfLink) {
-    pdfLink.href = currentCourse.pdf || "#";
-    pdfLink.onclick = async (event) => {
-      if (!currentCourse.pdf) {
-        event.preventDefault();
-        alert("PDF indisponible pour ce cours.");
-        return;
-      }
+  const supports = currentCourse.supports || [];
+  const firstSupport = supports[0];
 
-      const exists = await checkPdfExists(currentCourse.pdf);
-      if (!exists) {
-        event.preventDefault();
-        alert("PDF indisponible pour ce cours.");
-      }
-    };
-  }
+  pdfLink.href = firstSupport ? firstSupport.url : "#";
+  pdfLink.textContent = firstSupport ? "📄 Ouvrir support" : "📄 Support indisponible";
+
+  pdfLink.onclick = (event) => {
+    if (!firstSupport) {
+      event.preventDefault();
+      alert("Aucun support disponible pour ce cours.");
+    }
+  };
+}
 
   if (togglePdfBtn) {
     hidePdfPanel();
@@ -1098,4 +1166,142 @@ function loadPlayerPage() {
 
     renderUpdatedSidebar(module, categoryId, moduleId, courseIndex);
   };
+}
+
+
+async function setupAutoNextAndModuleCelebration() {
+  const video = document.getElementById("videoPlayer");
+  if (!video) return;
+
+  const params = new URLSearchParams(window.location.search);
+  const category = params.get("category");
+  const moduleName = params.get("module");
+  const courseIndex = Number(params.get("course") || 0);
+
+  if (!category || !moduleName) return;
+
+  const res = await fetch("../../data/cours.json?v=" + Date.now());
+  const data = await res.json();
+
+  const cat = data.find(c => c.category === category);
+  if (!cat) return;
+
+  const mod = cat.modules.find(m => m.name === moduleName);
+  if (!mod) return;
+
+  const currentCourse = mod.courses[courseIndex];
+  if (!currentCourse) return;
+
+  video.addEventListener("ended", () => {
+    markCourseAsWatchedAuto(currentCourse.id);
+
+    const watched = getWatchedCoursesAuto();
+    const moduleDone = mod.courses.every(c => watched.includes(c.id));
+
+    if (moduleDone) {
+      showModuleCompletedCelebration(category);
+      return;
+    }
+
+    const nextIndex = courseIndex + 1;
+
+    if (nextIndex < mod.courses.length) {
+      setTimeout(() => {
+        window.location.href =
+          `player.html?category=${category}&module=${moduleName}&course=${nextIndex}`;
+      }, 1200);
+    }
+  });
+}
+
+function getWatchedCoursesAuto() {
+  try {
+    const a = JSON.parse(localStorage.getItem("watchedCourses") || "[]");
+    const b = JSON.parse(localStorage.getItem("watched_courses") || "[]");
+    return [...new Set([...a, ...b])];
+  } catch {
+    return [];
+  }
+}
+
+function markCourseAsWatchedAuto(courseId) {
+  const watched = getWatchedCoursesAuto();
+
+  if (!watched.includes(courseId)) {
+    watched.push(courseId);
+  }
+
+  localStorage.setItem("watchedCourses", JSON.stringify(watched));
+  localStorage.setItem("watched_courses", JSON.stringify(watched));
+}
+
+function showModuleCompletedCelebration(category) {
+  const overlay = document.createElement("div");
+  overlay.className = "module-complete-overlay";
+
+  overlay.innerHTML = `
+    <div class="module-complete-box">
+      <h1>🎉 Module terminé !</h1>
+      <p>Bravo, vous avez terminé ce module à 100%.</p>
+      <p>Retour vers la page des modules...</p>
+    </div>
+  `;
+
+  document.body.appendChild(overlay);
+
+  setTimeout(() => {
+    window.location.href = `../modules/modules.html?category=${category}`;
+  }, 3500);
+}
+
+setupAutoNextAndModuleCelebration();
+
+async function setupAutoNextAndModuleCelebration() {
+  const video = document.getElementById("videoPlayer");
+  if (!video) return;
+
+  const params = new URLSearchParams(window.location.search);
+  const category = params.get("category");
+  const moduleName = params.get("module");
+  const courseIndex = Number(params.get("course") || 0);
+
+  const res = await fetch("../../data/cours.json?v=" + Date.now());
+  const data = await res.json();
+
+  const cat = data.find(c => c.category === category);
+  const mod = cat?.modules.find(m => m.name === moduleName);
+  const currentCourse = mod?.courses[courseIndex];
+  if (!cat || !mod || !currentCourse) return;
+
+  let triggered = false;
+
+  video.addEventListener("timeupdate", () => {
+    if (triggered) return;
+    if (!video.duration) return;
+
+    const remaining = video.duration - video.currentTime;
+
+    if (remaining <= 5) {
+      triggered = true;
+
+      markCourseAsWatchedAuto(currentCourse.id);
+
+      const watched = getWatchedCoursesAuto();
+      const moduleDone = mod.courses.every(c => watched.includes(c.id));
+
+      if (moduleDone) {
+        showModuleCompletedCelebration(category);
+        return;
+      }
+
+      const nextIndex = courseIndex + 1;
+
+      if (nextIndex < mod.courses.length) {
+        setTimeout(() => {
+          window.location.href =
+            `player.html?category=${category}&module=${moduleName}&course=${nextIndex}`;
+        }, 5000);
+      }
+    }
+  });
 }

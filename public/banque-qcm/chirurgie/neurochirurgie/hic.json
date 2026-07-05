@@ -1,0 +1,3103 @@
+{
+  "category": "chirurgie",
+  "module": "neurochirurgie",
+  "courseId": null,
+  "courseTitle": null,
+  "supportTitle": "hic.pdf",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/hic.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la composition de la boîte intracrânienne normale, quelles propositions sont exactes ?",
+      "choices": [
+        "Le parenchyme cérébral représente environ 70 à 80 % du volume intracrânien.",
+        "Le liquide cérébrospinal représente environ 5 à 20 % du volume intracrânien.",
+        "Le compartiment vasculaire représente environ 50 à 60 % du volume intracrânien.",
+        "Le volume du LCR est d’environ 140 ml."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La boîte intracrânienne contient le parenchyme cérébral, le LCR et le compartiment vasculaire. Le parenchyme représente 70-80 %, le LCR 5-20 % avec environ 140 ml, et le compartiment vasculaire 5-15 %."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des valeurs physiologiques et hémodynamiques intracrâniennes, quelles propositions sont exactes ?",
+      "choices": [
+        "La pression intracrânienne normale est de 7 à 15 mmHg.",
+        "Une HTIC aiguë est généralement définie par une PIC supérieure à 20-25 mmHg.",
+        "Le débit sanguin cérébral représente environ 15 % du débit cardiaque.",
+        "La production de LCR est d’environ 50 ml par 24 heures."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PIC normale est de 7 à 15 mmHg. Une HTIC aiguë correspond généralement à une PIC > 20-25 mmHg. Le débit sanguin cérébral représente environ 15 % du débit cardiaque. La production du LCR est de 400-500 ml/24 h."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon le principe de Monro-Kellie appliqué à l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Toute augmentation de volume d’un compartiment intracrânien doit être compensée par une diminution d’un autre compartiment.",
+        "La boîte intracrânienne est considérée comme inextensible.",
+        "Lorsque les mécanismes de compensation sont dépassés, la pression intracrânienne augmente.",
+        "L’augmentation simultanée des trois compartiments intracrâniens se fait sans retentissement sur la PIC."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le principe de Monro-Kellie repose sur l’inextensibilité de la boîte intracrânienne. L’augmentation d’un compartiment impose une compensation par diminution d’un autre ; si cette compensation échoue, la PIC augmente."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes peuvent directement participer à une hypertension intracrânienne selon le texte ?",
+      "choices": [
+        "Augmentation du volume sanguin cérébral par hyperhémie ou hyperdébit.",
+        "Augmentation du volume du parenchyme cérébral par œdème diffus ou périlésionnel.",
+        "Augmentation du volume du LCR par hydrocéphalie.",
+        "Diminution du volume intracrânien par résorption complète du LCR."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les mécanismes principaux d’HTIC sont l’augmentation du volume sanguin cérébral, du volume parenchymateux par œdème, du volume du LCR par hydrocéphalie, ou l’ajout d’un volume intracrânien supplémentaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les types d’œdème cérébral, quelles associations sont exactes ?",
+      "choices": [
+        "Œdème vasogénique : rupture des jonctions endothéliales serrées de la barrière hémato-encéphalique.",
+        "Œdème cytotoxique : dysfonction de la pompe Na+/K+ ATPase avec gonflement des astrocytes.",
+        "Œdème interstitiel : entrée de LCR pauvre en protéines dans l’espace extracellulaire et la substance blanche.",
+        "Œdème osmotique : absence de gradient osmotique entre plasma, LCR et liquide extracellulaire cérébral."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’œdème vasogénique est lié à une fuite transvasculaire par rupture de la barrière hémato-encéphalique. L’œdème cytotoxique implique la pompe Na+/K+ ATPase. L’œdème interstitiel correspond à l’entrée de LCR pauvre en protéines. L’œdème osmotique dépend au contraire d’un gradient osmotique favorisant l’entrée d’eau dans le cerveau."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les causes suivantes, lesquelles sont classées comme expansives dans les étiologies d’HTIC du texte ?",
+      "choices": [
+        "Tumeur.",
+        "Hématome intracérébral.",
+        "Abcès.",
+        "Thrombophlébite avec blocage du drainage veineux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes expansives citées sont la tumeur, l’hématome intracérébral, l’hydrocéphalie et l’abcès. La thrombophlébite appartient aux causes lésionnelles ou non expansives."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes cliniques appartiennent au syndrome d’hypertension intracrânienne décrit ?",
+      "choices": [
+        "Céphalées fronto-orbitaires ou occipitales, souvent positionnelles.",
+        "Vomissements en jet, sans nausées.",
+        "Diplopie horizontale par paralysie du VIe nerf crânien.",
+        "Myosis douloureux isolé avec photophobie comme signe constant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les signes d’HTIC comprennent les céphalées souvent positionnelles, les vomissements en jet sans nausées, et les troubles visuels dont la diplopie horizontale par atteinte du VI. Le myosis douloureux isolé n’est pas cité."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les formes d’évolution lente d’une HTIC, quels signes peuvent être observés ?",
+      "choices": [
+        "Troubles psychiques.",
+        "Baisse des performances intellectuelles.",
+        "Atteintes endocriniennes.",
+        "Crises toniques postérieures comme signe spécifique de lenteur évolutive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les formes lentes peuvent se manifester par des troubles psychiques, une baisse des performances intellectuelles et des atteintes endocriniennes. Les crises toniques postérieures sont citées dans l’engagement des amygdales cérébelleuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments font partie des signes de gravité de l’HTIC selon le texte ?",
+      "choices": [
+        "Somnolence ou coma.",
+        "Mydriase.",
+        "Troubles respiratoires.",
+        "Bradycardie isolée excluant une HTIC grave."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les signes de gravité incluent somnolence, coma, mydriase, troubles respiratoires, hypertension artérielle, bradycardie, bradypnée et signes neurologiques de localisation. La bradycardie peut au contraire faire partie des signes de gravité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’engagement diencéphalique central, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut évoluer d’une somnolence vers la torpeur puis le coma.",
+        "Il peut s’accompagner d’un grattage de la région du nez ou de la région pubienne.",
+        "Les pupilles peuvent être de petite taille, parfois punctiformes.",
+        "Il se manifeste typiquement par une mydriase homolatérale isolée d’emblée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’engagement diencéphalique central associe troubles progressifs de vigilance, grattage de la région du nez ou pubienne, troubles du tonus, réactions de décortication puis décérébration, petites pupilles parfois punctiformes et troubles respiratoires. La mydriase homolatérale évoque plutôt l’engagement temporal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions décrivent correctement les engagements cérébraux cités ?",
+      "choices": [
+        "L’engagement temporal peut donner une mydriase homolatérale.",
+        "L’engagement temporal peut donner une hémiparésie ou une hémidécérébration controlatérale.",
+        "L’engagement des amygdales cérébelleuses peut s’accompagner d’opisthotonos.",
+        "L’engagement des amygdales cérébelleuses est défini dans le texte par une diplopie horizontale isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’engagement temporal associe mydriase homolatérale, déficit controlatéral et coma. L’engagement des amygdales cérébelleuses peut se manifester par crises toniques postérieures, opisthotonos et nystagmus."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments appartiennent à la triade de Cushing telle qu’énoncée dans le texte ?",
+      "choices": [
+        "Hypertension artérielle.",
+        "Bradycardie.",
+        "Bradypnée.",
+        "Hyperthermie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La triade de Cushing comprend hypertension artérielle, bradycardie et bradypnée. L’hyperthermie n’est pas citée dans cette triade."
+    },
+    {
+      "type": "QCM",
+      "question": "Au scanner cérébral réalisé dans le cadre d’une suspicion d’HTIC, quels éléments peuvent être recherchés ?",
+      "choices": [
+        "Lésions expansives.",
+        "Taille du système ventriculaire.",
+        "Effacement des sillons corticaux ou des citernes de la base.",
+        "Mesure directe et continue de la pression intracrânienne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le scanner recherche les lésions expansives, la taille du système ventriculaire, les signes indirects d’HTIC tels que l’œdème périlésionnel, l’effacement des sillons corticaux, l’effacement des citernes de la base et l’effet de masse. La mesure continue de la PIC relève du monitorage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le monitorage de la pression intracrânienne, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être indiqué en cas de suspicion clinique ou radiologique d’HTIC.",
+        "Il peut être indiqué chez un patient sédaté nécessitant une surveillance neurologique.",
+        "Il permet de mesurer la pression de perfusion cérébrale en continu.",
+        "Il ne permet pas d’analyser la relation entre les variations de PIC et de PAM."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mesure de la PIC est indiquée notamment en cas de suspicion d’HTIC, chez un patient sédaté nécessitant une surveillance neurologique, et permet entre autres de mesurer la PPC en continu et d’analyser la relation entre variations de PIC et de PAM."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formule définit la pression de perfusion cérébrale selon le texte ?",
+      "choices": [
+        "PPC = PAM - PIC.",
+        "PPC = PIC - PAM.",
+        "PPC = PAM + PIC.",
+        "PPC = débit sanguin cérébral - PIC."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La pression de perfusion cérébrale est définie par : PPC = PAM - PIC."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est présenté comme l’examen de première intention dans le diagnostic d’une HTIC ?",
+      "choices": [
+        "IRM cérébrale.",
+        "Scanner cérébral.",
+        "Doppler transcrânien.",
+        "Fond d’œil seul."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le scanner cérébral est l’examen de première intention. L’IRM est indiquée en cas de suspicion d’HTIC avec scanner normal ou non contributif."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel signe visuel est expliqué dans le texte par une paralysie uni- ou bilatérale du VIe nerf crânien ?",
+      "choices": [
+        "Éclipses visuelles intermittentes.",
+        "Œdème papillaire.",
+        "Diplopie horizontale.",
+        "Nystagmus."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La diplopie horizontale est attribuée à une paralysie uni- ou bilatérale du VIe nerf crânien."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation l’IRM cérébrale est-elle indiquée selon le texte ?",
+      "choices": [
+        "En première intention systématique avant tout scanner.",
+        "En cas de suspicion d’HTIC avec scanner cérébral normal ou non contributif.",
+        "Uniquement devant une triade de Cushing complète.",
+        "Uniquement après normalisation de la pression intracrânienne."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’IRM cérébrale est indiquée lorsqu’il existe une suspicion d’HTIC avec scanner cérébral normal ou non contributif."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un traumatisé crânien avec score de Glasgow ≤ 8, quelle lésion scannographique constitue une indication de monitorage de la PIC selon le texte ?",
+      "choices": [
+        "Déviation de la ligne médiane supérieure à 3 mm.",
+        "Déviation de la ligne médiane inférieure à 1 mm comme seul critère.",
+        "Système ventriculaire strictement normal sans autre lésion.",
+        "Scanner normal imposant systématiquement la mesure de PIC sans discussion."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas de traumatisme crânien avec Glasgow ≤ 8, les lésions scannographiques indiquant le monitorage comprennent notamment l’effacement ou écrasement des citernes, une déviation de la ligne médiane > 3 mm, ou une hémorragie méningée post-traumatique associée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la formule correcte de l’indice de pulsatilité de Gosling au Doppler transcrânien ?",
+      "choices": [
+        "IP = (V systolique - V diastolique) / V moyenne.",
+        "IP = V moyenne / (V systolique - V diastolique).",
+        "IP = (V systolique + V diastolique) / V moyenne.",
+        "IP = V diastolique / V systolique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’indice de pulsatilité de Gosling est défini par : IP = (V systolique - V diastolique) / V moyenne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évaluation de l’oxygénation cérébrale dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être réalisée par mesure directe de la PO2 tissulaire",
+        "Elle peut être réalisée par mesure de la saturation du sang veineux jugulaire en oxygène",
+        "Une saturation veineuse jugulaire en oxygène inférieure à 50 % fait suspecter une ischémie cérébrale",
+        "Elle repose uniquement sur la mesure de la pression artérielle moyenne"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite deux méthodes : PO2 tissulaire directe et saturation veineuse jugulaire en oxygène. Une valeur < 50 % fait suspecter une ischémie cérébrale."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’indice de pulsatilité au Doppler transcrânien, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Un IP supérieur à 1,5 peut traduire une HTIC",
+        "Un IP supérieur à 1,5 peut traduire une vasoconstriction des artérioles cérébrales d’aval",
+        "Un IP supérieur à 1,5 impose à lui seul une dérivation du LCR",
+        "Un IP supérieur à 1,5 peut s’intégrer dans l’évaluation hémodynamique cérébrale"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte indique qu’un IP > 1,5 peut traduire une vasoconstriction des artérioles cérébrales d’aval ou une HTIC. Il ne constitue pas à lui seul une indication obligatoire de dérivation du LCR."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments font partie des principes thérapeutiques généraux de l’HTIC cités dans le texte ?",
+      "choices": [
+        "Traitement chirurgical en cas d’hématome volumineux ou de contusion cérébrale",
+        "Dérivation du LCR",
+        "Prévention des agressions cérébrales secondaires d’origine systémique",
+        "Restriction hydrique systématique comme objectif principal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les principes thérapeutiques cités comprennent la chirurgie en cas de lésion expansive, la dérivation du LCR, la prévention des agressions cérébrales secondaires, les solutés hypertoniques et l’osmothérapie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les objectifs hémodynamiques dans le traitement de l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "La PPC doit être maintenue entre 50 et 70 mmHg",
+        "En l’absence de mesure de la PIC, l’objectif est une PAM supérieure à 90 mmHg",
+        "La noradrénaline est indiquée si la PPC est inférieure à 60-70 mmHg",
+        "L’objectif principal est de maintenir une PPC inférieure à 40 mmHg"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande une PPC entre 50 et 70 mmHg, une PAM > 90 mmHg si la PIC n’est pas mesurée, et la noradrénaline si la PPC est < 60-70 mmHg."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le remplissage et les solutés dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "L’expansion volémique peut se faire par sérum salé isotonique NaCl 0,9 %",
+        "Le Ringer lactate est contre-indiqué",
+        "Les solutés hypertoniques font partie des moyens thérapeutiques",
+        "Le remplissage recommandé repose préférentiellement sur le Ringer lactate"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande le NaCl 0,9 % pour l’expansion volémique, mentionne les solutés hypertoniques, et précise que le Ringer lactate est contre-indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’HTIC, quelles situations justifient la sédation, l’intubation et la ventilation mécanique selon le texte ?",
+      "choices": [
+        "Troubles de la conscience",
+        "Troubles de l’hématose",
+        "Nécessité d’adaptation au respirateur",
+        "HTIC asymptomatique avec conscience normale et hématose normale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sédation, l’intubation et la ventilation mécanique sont indiquées en cas de troubles de la conscience ou de l’hématose, avec notamment l’objectif d’adaptation au respirateur."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels médicaments ou classes médicamenteuses sont cités pour la sédation dans l’HTIC ?",
+      "choices": [
+        "Benzodiazépines",
+        "Propofol",
+        "Morphiniques si besoin",
+        "Antivitamines K en première intention"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les benzodiazépines ou le propofol, associés si besoin à des morphiniques. Les antivitamines K ne sont pas citées dans cette indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels objectifs sont recherchés par la sédation dans l’HTIC selon le texte ?",
+      "choices": [
+        "Diminution des stimuli nociceptifs",
+        "Contrôle de l’agitation",
+        "Prévention ou traitement des crises convulsives",
+        "Augmentation volontaire de l’hypertonie axiale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les objectifs cités incluent la diminution des stimuli nociceptifs, le contrôle de l’agitation, la prévention ou le traitement des crises convulsives, ainsi que la réduction de l’hypertonie axiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets de l’hypothermie dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle diminue le métabolisme cérébral",
+        "Elle réduit la libération de neuromédiateurs",
+        "Elle diminue la perméabilité vasculaire",
+        "Elle augmente volontairement la consommation cérébrale d’oxygène"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le contrôle de la température par hypothermie diminue le métabolisme cérébral, réduit la libération de neuromédiateurs et diminue la perméabilité vasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’osmothérapie dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Le mannitol fait partie des traitements utilisables",
+        "Le sérum salé hypertonique fait partie des traitements utilisables",
+        "Elle s’inscrit dans les mesures médicales de réduction de l’HTIC",
+        "Elle est remplacée systématiquement par le Ringer lactate"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’osmothérapie repose notamment sur le mannitol et le sérum salé hypertonique. Le Ringer lactate est au contraire contre-indiqué dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le drainage ventriculaire externe dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Il nécessite la mise en place d’un cathéter ventriculaire",
+        "Il est le traitement de première intention en cas d’HTIC liée à une hydrocéphalie aiguë",
+        "Il est très efficace pour réduire la pression intracrânienne",
+        "Il est contre-indiqué en cas d’hydrocéphalie aiguë"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le drainage ventriculaire externe consiste en la mise en place d’un cathéter ventriculaire ; il est indiqué en première intention en cas d’HTIC liée à une hydrocéphalie aiguë et réduit efficacement la PIC."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles indications chirurgicales sont citées dans le traitement de l’HTIC ?",
+      "choices": [
+        "Évacuation d’un hématome volumineux",
+        "Traitement chirurgical d’une contusion cérébrale",
+        "Lobectomie si la PIC n’est pas contrôlée par le traitement médical dans des conditions sélectionnées",
+        "Appendicectomie prophylactique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indications chirurgicales citées incluent l’évacuation d’un hématome volumineux, le traitement chirurgical d’une contusion, et la lobectomie si la PIC reste non contrôlée en l’absence de risque de séquelles sévères et définitives."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la chirurgie dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle doit être associée au traitement médical si nécessaire",
+        "Elle doit être réalisée le plus précocement possible en raison du risque d’engagement",
+        "La craniectomie bifrontale peut être envisagée dans des lésions diffuses sélectionnées",
+        "Elle doit toujours être différée jusqu’à disparition complète du risque d’engagement"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La chirurgie peut être associée au traitement médical, doit être précoce en raison du risque d’engagement, et la craniectomie bifrontale est citée pour certaines lésions diffuses sélectionnées."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments définissent une indication de craniotomie ou craniectomie décompressive en cas d’HTIC réfractaire selon le texte ?",
+      "choices": [
+        "PIC supérieure à 25 mmHg pendant plus de 30 minutes",
+        "PPC inférieure à 60 mmHg",
+        "Échec du traitement médical optimal",
+        "PPC maintenue spontanément au-dessus de 90 mmHg"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En HTIC réfractaire, les critères cités sont une PIC > 25 mmHg pendant plus de 30 minutes, une PPC < 60 mmHg et l’échec du traitement médical optimal."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’objectif de pression de perfusion cérébrale recommandé dans le traitement de l’HTIC ?",
+      "choices": [
+        "30 à 40 mmHg",
+        "50 à 70 mmHg",
+        "80 à 100 mmHg",
+        "Supérieure à 120 mmHg"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte recommande de maintenir une PPC entre 50 et 70 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "En l’absence de mesure de la pression intracrânienne, quel objectif de pression artérielle moyenne est recommandé ?",
+      "choices": [
+        "PAM supérieure à 60 mmHg",
+        "PAM supérieure à 70 mmHg",
+        "PAM supérieure à 90 mmHg",
+        "PAM inférieure à 50 mmHg"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "En l’absence de mesure de la PIC, l’objectif hémodynamique cité est une PAM > 90 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "À partir de quel seuil d’hémoglobine le texte indique-t-il une transfusion sanguine dans l’HTIC ?",
+      "choices": [
+        "Hb < 7 g/dl",
+        "Hb < 8 g/dl",
+        "Hb < 10 g/dl",
+        "Hb < 12 g/dl"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique une transfusion sanguine si l’hémoglobine est inférieure à 10 g/dl."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement est présenté comme la première intention en cas d’HTIC liée à une hydrocéphalie aiguë ?",
+      "choices": [
+        "Drainage ventriculaire externe",
+        "Craniectomie bifrontale systématique",
+        "Lobectomie d’emblée",
+        "Restriction hydrique isolée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le drainage ventriculaire externe est le traitement de première intention en cas d’HTIC liée à une hydrocéphalie aiguë."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel critère est en faveur d’une indication précoce de craniotomie ou craniectomie décompressive selon le texte ?",
+      "choices": [
+        "Âge supérieur à 70 ans",
+        "Glasgow initial inférieur ou égal à 3",
+        "Évolution inférieure à 12 heures",
+        "Atteinte du tronc cérébral"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les critères en faveur d’une indication précoce comprennent une évolution < 12 h, un âge < 50 ans, un Glasgow initial > 5 et l’absence d’atteinte du tronc cérébral."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de pression intracrânienne est cité comme critère d’HTIC réfractaire pouvant indiquer une craniotomie ou craniectomie décompressive ?",
+      "choices": [
+        "PIC > 15 mmHg pendant plus de 5 minutes",
+        "PIC > 20 mmHg pendant plus de 10 minutes",
+        "PIC > 25 mmHg pendant plus de 30 minutes",
+        "PIC > 40 mmHg pendant plus de 6 heures"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte retient comme critère une PIC > 25 mmHg pendant plus de 30 minutes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les céphalées et les vomissements dans le syndrome d’hypertension intracrânienne, quelles propositions sont exactes ?",
+      "choices": [
+        "Les céphalées peuvent être fronto-orbitaires.",
+        "Les céphalées peuvent être occipitales.",
+        "Les céphalées sont souvent positionnelles.",
+        "Les vomissements sont typiquement précédés de nausées prolongées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit des céphalées fronto-orbitaires ou occipitales, souvent positionnelles, et des vomissements en jet sans nausées."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des manifestations visuelles de l’HTIC décrites dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Une diplopie horizontale peut être observée.",
+        "La diplopie peut être liée à une paralysie du VIe nerf crânien.",
+        "Un œdème papillaire peut être retrouvé au fond d’œil.",
+        "Les troubles visuels sont toujours dus à une atteinte du IIIe nerf crânien."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les troubles visuels de l’HTIC incluent la diplopie horizontale par atteinte du VI et l’œdème papillaire. Ils ne sont pas toujours dus au IIIe nerf crânien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hydrocéphalie obstructive comme mécanisme d’HTIC, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle peut être liée à un hématome.",
+        "Elle peut être liée à un processus expansif.",
+        "Elle peut être liée à un engagement.",
+        "Elle est définie dans le texte par un blocage du drainage veineux par thrombophlébite."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’hématome, le processus expansif et l’engagement comme causes d’hydrocéphalie obstructive. La thrombophlébite relève du blocage du drainage veineux."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les étiologies suivantes d’HTIC, lesquelles appartiennent aux causes lésionnelles ou non expansives citées ?",
+      "choices": [
+        "Blocage du drainage veineux par thrombophlébite.",
+        "Hypertension veineuse.",
+        "Infection.",
+        "Abcès intracrânien."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes lésionnelles ou non expansives citées sont le blocage du drainage veineux par thrombophlébite, l’hypertension veineuse et l’infection. L’abcès est classé parmi les causes expansives."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes des différents œdèmes cérébraux, quelles propositions sont exactes ?",
+      "choices": [
+        "L’œdème vasogénique résulte d’une rupture des jonctions endothéliales serrées de la barrière hémato-encéphalique.",
+        "L’œdème cytotoxique implique une dysfonction de la pompe Na+/K+ ATPase.",
+        "L’œdème interstitiel correspond à une entrée de LCR pauvre en protéines dans l’espace extracellulaire et la substance blanche.",
+        "L’œdème osmotique est expliqué par une obstruction mécanique du système ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’œdème osmotique est lié à un gradient osmotique entre plasma, LCR et liquide extracellulaire cérébral, et non à une obstruction mécanique ventriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes sont cités dans le texte comme signes d’ischémie cérébrale ?",
+      "choices": [
+        "Coma.",
+        "Disparition des réflexes du tronc cérébral.",
+        "Hypertension artérielle.",
+        "Troubles respiratoires."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte énumère comme signes d’ischémie cérébrale : coma, disparition des réflexes du tronc cérébral, hypertension artérielle et troubles respiratoires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les indications générales de mesure de la pression intracrânienne, quelles propositions sont exactes ?",
+      "choices": [
+        "Suspicion clinique ou radiologique d’HTIC.",
+        "Patient sédaté nécessitant une surveillance neurologique.",
+        "Hydrocéphalie.",
+        "Patient conscient stable avec examen neurologique strictement normal, sans autre élément de suspicion."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la suspicion clinique ou radiologique d’HTIC, le patient sédaté nécessitant une surveillance neurologique et l’hydrocéphalie comme indications de mesure de la PIC."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un traumatisé crânien avec score de Glasgow ≤ 8 sans lésion scannographique, quelles propositions sont exactes concernant la mesure de la PIC ?",
+      "choices": [
+        "L’indication est à discuter.",
+        "L’indication est plus large en cas de lésions associées.",
+        "L’indication est plus large en cas de polytraumatisme ou de chirurgie prolongée.",
+        "L’absence de lésion scannographique exclut toujours la mesure de la PIC."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En l’absence de lésion scannographique, l’indication de mesure de la PIC est à discuter, avec une indication plus large en cas de lésions associées, polytraumatisme ou chirurgie prolongée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quel est l’intérêt de la mesure de la pression intracrânienne selon le texte ?",
+      "choices": [
+        "Estimer la gravité de l’agression cérébrale.",
+        "Mesurer la pression de perfusion cérébrale en continu.",
+        "Refléter les variations du volume sanguin cérébral.",
+        "Analyser la morphologie de la courbe de PIC."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Tous ces éléments sont cités parmi les intérêts de la mesure de la PIC."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le Doppler transcrânien dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Il mesure les vélocités systoliques des globules rouges dans les vaisseaux cérébraux.",
+        "Il mesure les vélocités moyennes et diastoliques des globules rouges.",
+        "Il constitue un reflet du débit sanguin cérébral.",
+        "Il mesure directement la pression intracrânienne en mmHg."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le Doppler transcrânien mesure les vélocités systoliques, moyennes et diastoliques des globules rouges et reflète le débit sanguin cérébral. Il ne mesure pas directement la PIC."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des valeurs usuelles au Doppler transcrânien mentionnées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La vélocité systolique usuelle est de 60 à 100 cm/s.",
+        "L’indice de pulsatilité normal est compris entre 0,5 et 1,4.",
+        "La vélocité moyenne usuelle est de 10 à 20 cm/s.",
+        "Un indice de pulsatilité normal est toujours supérieur à 2."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte indique une vélocité systolique usuelle de 60 à 100 cm/s et un IP normal de 0,5 à 1,4."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le scanner cérébral réalisé devant une suspicion d’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être réalisé sans et/ou avec injection selon le contexte.",
+        "Il permet d’évaluer la taille du système ventriculaire.",
+        "Il ne permet pas de rechercher de signes indirects d’HTIC.",
+        "Un scanner normal rend inutile toute autre exploration dans tous les cas."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le scanner peut être réalisé sans et/ou avec injection selon le contexte et évalue notamment le système ventriculaire. Il peut aussi rechercher des signes indirects d’HTIC ; si le scanner est normal ou non contributif, l’IRM peut être indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification étiologique de l’HTIC dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hydrocéphalie est classée parmi les causes expansives.",
+        "La thrombophlébite avec blocage du drainage veineux est classée parmi les causes lésionnelles ou non expansives.",
+        "L’infection est classée parmi les causes lésionnelles ou non expansives.",
+        "L’abcès est classé parmi les causes expansives."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte classe l’hydrocéphalie et l’abcès parmi les causes expansives, tandis que la thrombophlébite, l’hypertension veineuse et l’infection relèvent des causes lésionnelles ou non expansives."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles correspondent à un volume supplémentaire intracrânien pouvant participer à une HTIC ?",
+      "choices": [
+        "Hématome.",
+        "Abcès.",
+        "Processus tumoral.",
+        "Méningite isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’hématome, l’abcès et le processus tumoral comme volumes supplémentaires intracrâniens. La méningite est citée comme cause d’hydrocéphalie non obstructive ou comme infection."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cause est citée comme responsable d’une hypersécrétion exceptionnelle de LCR ?",
+      "choices": [
+        "Tumeur des plexus choroïdes.",
+        "Thrombophlébite cérébrale.",
+        "Hypertension veineuse.",
+        "Hématome sous-dural chronique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte mentionne la tumeur des plexus choroïdes comme cause exceptionnelle d’hypersécrétion de LCR."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle étiologie est citée comme cause d’hydrocéphalie non obstructive ?",
+      "choices": [
+        "Méningite.",
+        "Engagement temporal.",
+        "Processus expansif.",
+        "Hématome."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hydrocéphalie non obstructive est illustrée dans le texte par la méningite."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de score de Glasgow est cité comme indication de mesure de la pression intracrânienne ?",
+      "choices": [
+        "Score de Glasgow inférieur à 15.",
+        "Score de Glasgow inférieur à 13.",
+        "Score de Glasgow inférieur à 9.",
+        "Score de Glasgow égal à 3 uniquement."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte cite un score de Glasgow inférieur à 9 comme indication de mesure de la PIC."
+    },
+    {
+      "type": "QCS",
+      "question": "Au Doppler transcrânien, quel territoire artériel est le plus souvent exploré selon le texte ?",
+      "choices": [
+        "Artère cérébrale moyenne.",
+        "Artère cérébrale antérieure.",
+        "Artère basilaire.",
+        "Artère ophtalmique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le Doppler transcrânien explore le plus souvent l’artère cérébrale moyenne."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la valeur usuelle de la vélocité moyenne au Doppler transcrânien selon le texte ?",
+      "choices": [
+        "15 à 30 cm/s.",
+        "45 à 70 cm/s.",
+        "80 à 120 cm/s.",
+        "120 à 160 cm/s."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte donne une vélocité moyenne usuelle de 45 à 70 cm/s."
+    },
+    {
+      "type": "QCS",
+      "question": "Que peuvent traduire les éclipses visuelles intermittentes dans l’HTIC ?",
+      "choices": [
+        "Une menace d’ischémie du nerf optique.",
+        "Une rupture anévrismale certaine.",
+        "Une paralysie du nerf facial.",
+        "Une atteinte isolée du cervelet."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les éclipses visuelles intermittentes peuvent traduire une menace d’ischémie du nerf optique."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un indice de pulsatilité au Doppler transcrânien supérieur à 1,5, quelles interprétations sont conformes au texte ?",
+      "choices": [
+        "Une vasoconstriction des artérioles cérébrales d’aval peut être évoquée",
+        "Une hypertension intracrânienne peut être évoquée",
+        "Une ischémie par vasodilatation cérébrale maximale est la seule interprétation possible",
+        "Ce résultat permet à lui seul de calculer la pression de perfusion cérébrale"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Un IP > 1,5 peut traduire une vasoconstriction des artérioles cérébrales d’aval ou une HTIC. Le texte ne dit pas qu’il permet de calculer la PPC."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes de mesure de l’oxygénation cérébrale mentionnées, quelles propositions sont exactes ?",
+      "choices": [
+        "La mesure directe de la PO2 tissulaire en fait partie",
+        "La mesure de la saturation veineuse jugulaire en oxygène en fait partie",
+        "L’oxymétrie de pouls périphérique est citée comme méthode spécifique de mesure de l’oxygénation cérébrale",
+        "L’indice de pulsatilité de Gosling est une méthode directe de mesure de l’oxygénation cérébrale"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte cite deux méthodes : la PO2 tissulaire directe et la saturation du sang veineux jugulaire en oxygène."
+    },
+    {
+      "type": "QCM",
+      "question": "Une saturation veineuse jugulaire en oxygène inférieure à 50 % doit faire retenir quelles propositions ?",
+      "choices": [
+        "Elle fait suspecter une ischémie cérébrale",
+        "Elle concerne le sang veineux jugulaire",
+        "Elle élimine une hypertension intracrânienne",
+        "Elle constitue le seuil de transfusion sanguine"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Selon le texte, une saturation veineuse jugulaire en oxygène < 50 % fait suspecter une ischémie cérébrale. Le seuil transfusionnel cité est Hb < 10 g/dl."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la prise en charge globale de l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "L’HTIC est une urgence médicochirurgicale",
+        "Le traitement est exclusivement médical dans tous les cas",
+        "Un hématome volumineux peut relever d’un traitement chirurgical",
+        "La prévention des agressions cérébrales secondaires d’origine systémique fait partie des principes thérapeutiques"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte définit l’HTIC comme une urgence médicochirurgicale et cite le traitement chirurgical de certaines lésions, ainsi que la prévention des agressions cérébrales secondaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient avec HTIC et pression de perfusion cérébrale insuffisante, quelles mesures ou cibles sont conformes au texte ?",
+      "choices": [
+        "Maintenir la PPC entre 50 et 70 mmHg",
+        "Utiliser la noradrénaline si la PPC est inférieure à 60-70 mmHg",
+        "Réaliser une expansion volémique par sérum salé isotonique NaCl 0,9 %",
+        "Utiliser préférentiellement le Ringer lactate pour l’expansion volémique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’objectif est une PPC entre 50 et 70 mmHg. Le NaCl 0,9 % est utilisé pour l’expansion volémique et la noradrénaline est indiquée si la PPC est < 60-70 mmHg. Le Ringer lactate est contre-indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les produits ou stratégies suivants, lesquels sont cités dans le traitement de l’HTIC ?",
+      "choices": [
+        "Mannitol",
+        "Sérum salé hypertonique",
+        "Sérum salé isotonique NaCl 0,9 %",
+        "Ringer lactate"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le mannitol et le sérum salé hypertonique relèvent de l’osmothérapie. Le NaCl 0,9 % est utilisé pour l’expansion volémique. Le Ringer lactate est contre-indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’indication de l’intubation, de la sédation et de la ventilation mécanique dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont indiquées en cas de troubles de la conscience",
+        "Elles sont indiquées en cas de troubles de l’hématose",
+        "Elles sont indiquées uniquement sur le critère d’âge inférieur à 50 ans",
+        "Elles sont indiquées uniquement en présence d’une hémoglobine inférieure à 10 g/dl"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte indique la sédation, l’intubation et la ventilation mécanique en cas de troubles de la conscience ou de l’hématose."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles modalités médicamenteuses de sédation sont conformes au texte dans l’HTIC ?",
+      "choices": [
+        "Benzodiazépines",
+        "Propofol",
+        "Association possible à des morphiniques si besoin",
+        "Curarisation obligatoire d’emblée chez tous les patients"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les benzodiazépines ou le propofol peuvent être utilisés, associés si besoin à des morphiniques. Les curares sont possibles en cas d’HTIC réfractaire, non obligatoires d’emblée."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les objectifs suivants, lesquels sont attribués à la sédation dans l’HTIC ?",
+      "choices": [
+        "Adaptation au respirateur",
+        "Diminution des stimuli nociceptifs",
+        "Contrôle de l’agitation",
+        "Augmentation volontaire de la perméabilité vasculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sédation vise notamment l’adaptation au respirateur, la diminution des stimuli nociceptifs et le contrôle de l’agitation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels critères sont cités comme favorables à une indication précoce de craniotomie ou craniectomie décompressive ?",
+      "choices": [
+        "Évolution inférieure à 12 heures",
+        "Âge inférieur à 50 ans",
+        "Glasgow initial supérieur à 5",
+        "Absence d’atteinte du tronc cérébral"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les quatre éléments sont explicitement cités comme critères en faveur d’une indication précoce."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le contrôle de la température dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hypothermie diminue le métabolisme cérébral",
+        "L’hypothermie réduit la libération de neuromédiateurs",
+        "L’hypothermie diminue la perméabilité vasculaire",
+        "L’hypothermie augmente la libération de neuromédiateurs"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue à l’hypothermie une diminution du métabolisme cérébral, de la libération de neuromédiateurs et de la perméabilité vasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le drainage ventriculaire externe dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Il repose sur la mise en place d’un cathéter ventriculaire",
+        "Il est très efficace sur la réduction de la pression intracrânienne",
+        "Il est le traitement de première intention en cas d’HTIC liée à une hydrocéphalie aiguë",
+        "Il correspond au traitement chirurgical spécifique d’une contusion cérébrale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le drainage ventriculaire externe consiste en un cathéter ventriculaire, efficace sur la réduction de la PIC, et indiqué en première intention dans l’hydrocéphalie aiguë."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la place de la chirurgie dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être associée au traitement médical si nécessaire",
+        "Elle doit être réalisée le plus précocement possible en raison du risque d’engagement",
+        "Elle est systématiquement différée jusqu’à correction complète de l’hémoglobine",
+        "Elle est exclue lorsqu’un traitement médical a déjà été instauré"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La chirurgie peut être associée au traitement médical et doit être réalisée précocement en raison du risque d’engagement."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles interventions sont citées parmi les indications chirurgicales possibles dans l’HTIC ?",
+      "choices": [
+        "Drainage ventriculaire externe",
+        "Évacuation d’un hématome volumineux",
+        "Traitement chirurgical d’une contusion cérébrale",
+        "Administration de Ringer lactate"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indications chirurgicales citées comprennent le drainage ventriculaire externe, l’évacuation d’un hématome volumineux et le traitement chirurgical d’une contusion cérébrale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle intervention est spécifiquement citée en cas de lésions diffuses sélectionnées ?",
+      "choices": [
+        "Craniectomie bifrontale",
+        "Lobectomie temporale systématique",
+        "Évacuation ventriculaire sans cathéter",
+        "Traitement par Ringer lactate"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite la craniectomie bifrontale en cas de lésions diffuses sélectionnées."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les médicaments suivants, lequel est cité comme agent possible de sédation dans l’HTIC ?",
+      "choices": [
+        "Propofol",
+        "Halopéridol",
+        "Adrénaline",
+        "Ringer lactate"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le propofol est cité, au même titre que les benzodiazépines, comme médicament de sédation possible."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les indications de craniotomie ou craniectomie décompressive pour HTIC réfractaire, quelle durée minimale est associée à une PIC supérieure à 25 mmHg ?",
+      "choices": [
+        "Plus de 5 minutes",
+        "Plus de 15 minutes",
+        "Plus de 30 minutes",
+        "Plus de 2 heures"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte retient comme critère une PIC > 25 mmHg pendant plus de 30 minutes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel patient remplit le critère de pression de perfusion cérébrale cité dans l’HTIC réfractaire ?",
+      "choices": [
+        "Patient avec PPC à 75 mmHg",
+        "Patient avec PPC à 65 mmHg",
+        "Patient avec PPC à 60 mmHg strictement",
+        "Patient avec PPC à 55 mmHg"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Une PPC < 60 mmHg est citée comme critère d’HTIC réfractaire pouvant indiquer une craniotomie ou craniectomie décompressive."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient traité pour HTIC, quel seuil biologique impose une transfusion sanguine selon le texte ?",
+      "choices": [
+        "Hémoglobine < 14 g/dl",
+        "Hémoglobine < 12 g/dl",
+        "Hémoglobine < 10 g/dl",
+        "Hémoglobine < 7 g/dl"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le seuil transfusionnel indiqué dans le texte est Hb < 10 g/dl."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation correspond à la place de la craniotomie ou craniectomie décompressive dans le traumatisme crânien sévère ?",
+      "choices": [
+        "Elle peut être bénéfique chez certains patients, surtout si elle est réalisée précocement",
+        "Elle est toujours inutile si une osmothérapie a été administrée",
+        "Elle est réservée exclusivement aux patients avec âge supérieur à 50 ans",
+        "Elle est indiquée uniquement en l’absence totale de traitement médical"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la craniotomie ou craniectomie décompressive peut être bénéfique chez certains patients avec traumatisme crânien sévère, surtout si elle est précoce."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les ordres de grandeur des compartiments intracrâniens, quelles associations sont exactes ?",
+      "choices": [
+        "Le parenchyme cérébral représente environ 70 à 80 %, soit 1000 à 1200 ml.",
+        "Le liquide cérébrospinal représente environ 5 à 20 %, soit environ 140 ml.",
+        "Le compartiment vasculaire représente environ 5 à 15 %, soit 50 à 150 ml.",
+        "Le liquide cérébrospinal constitue le compartiment intracrânien majoritaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La boîte intracrânienne contient principalement le parenchyme cérébral. Le LCR et le compartiment vasculaire sont quantitativement moins importants."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des volumes et débits physiologiques mentionnés, quelles propositions sont exactes ?",
+      "choices": [
+        "La production de LCR est d’environ 400 à 500 ml par 24 heures.",
+        "Le volume total de LCR est d’environ 140 ml.",
+        "Le débit sanguin cérébral est d’environ 750 ml/min.",
+        "Le compartiment vasculaire intracrânien normal est d’environ 500 ml."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le LCR a un volume d’environ 140 ml et une production journalière de 400 à 500 ml. Le débit sanguin cérébral est d’environ 750 ml/min. Le compartiment vasculaire intracrânien est de 50 à 150 ml."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le raisonnement physiopathologique de l’HTIC, quelles propositions sont correctes ?",
+      "choices": [
+        "Une augmentation de volume d’un compartiment intracrânien doit être compensée par une diminution d’un autre compartiment.",
+        "Lorsque les mécanismes de compensation sont dépassés, la pression intracrânienne augmente.",
+        "L’hyperhémie et l’hyperdébit participent à l’augmentation du volume sanguin cérébral.",
+        "La méningite est citée comme mécanisme d’hydrocéphalie obstructive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le principe de Monro-Kellie repose sur la compensation volumique. L’hyperhémie et l’hyperdébit augmentent le volume sanguin cérébral. La méningite est citée comme cause d’hydrocéphalie non obstructive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes cellulaires ou barrières impliqués dans les œdèmes cérébraux, quelles propositions sont exactes ?",
+      "choices": [
+        "L’œdème vasogénique implique une rupture des jonctions endothéliales serrées de la barrière hémato-encéphalique.",
+        "L’œdème cytotoxique implique une dysfonction de la pompe Na+/K+ ATPase.",
+        "L’œdème interstitiel implique une entrée de LCR pauvre en protéines dans l’espace extracellulaire et la substance blanche.",
+        "L’œdème osmotique résulte d’une rupture de la barrière méningo-encéphalique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’œdème osmotique est lié à un gradient osmotique entre plasma, LCR et liquide extracellulaire cérébral. La rupture de la barrière méningo-encéphalique caractérise l’œdème interstitiel."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes d’augmentation du volume du LCR dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Un hématome peut être en cause dans une hydrocéphalie obstructive.",
+        "Un processus expansif peut être en cause dans une hydrocéphalie obstructive.",
+        "La méningite est citée comme cause d’hydrocéphalie non obstructive.",
+        "L’hypertension veineuse est citée comme cause d’hypersécrétion exceptionnelle de LCR."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hydrocéphalie obstructive peut être liée à un hématome, un processus expansif ou un engagement. La méningite est citée pour l’hydrocéphalie non obstructive. L’hypersécrétion exceptionnelle est liée aux tumeurs des plexus choroïdes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les manifestations visuelles de l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "La diplopie décrite est horizontale.",
+        "La diplopie peut être liée à une paralysie uni- ou bilatérale du VIe nerf crânien.",
+        "Les éclipses visuelles intermittentes peuvent traduire une menace d’ischémie du nerf optique.",
+        "L’œdème papillaire est expliqué par la paralysie du VIe nerf crânien."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La paralysie du VI explique la diplopie horizontale. L’œdème papillaire est constaté au fond d’œil, sans être attribué dans le texte à la paralysie du VI."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la répartition de certains signes dans les tableaux de gravité, d’engagement et d’ischémie cérébrale, quelles propositions sont exactes ?",
+      "choices": [
+        "Le coma est cité parmi les signes de gravité, dans l’engagement temporal et parmi les signes d’ischémie cérébrale.",
+        "L’hypertension artérielle est citée parmi les signes de gravité, les signes d’ischémie cérébrale et la triade de Cushing.",
+        "La bradycardie est citée parmi les signes d’ischémie cérébrale.",
+        "La disparition des réflexes du tronc cérébral est citée parmi les signes d’ischémie cérébrale."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La bradycardie appartient aux signes de gravité et à la triade de Cushing, mais elle n’est pas listée parmi les signes d’ischémie cérébrale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’engagement diencéphalique central, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut comporter un trouble de vigilance allant de la somnolence au coma.",
+        "Il peut comporter des réactions de décortication puis de décérébration à la stimulation douloureuse.",
+        "Il peut comporter des pupilles de petite taille, parfois punctiformes.",
+        "Il se caractérise typiquement par une mydriase homolatérale isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mydriase homolatérale est décrite dans l’engagement temporal, non comme signe typique de l’engagement diencéphalique central."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les engagements temporal et des amygdales cérébelleuses, quelles propositions sont exactes ?",
+      "choices": [
+        "L’engagement temporal peut associer une mydriase homolatérale.",
+        "L’engagement temporal peut associer une hémiparésie ou hémidécérébration controlatérale.",
+        "L’engagement des amygdales cérébelleuses peut comporter opisthotonos et nystagmus.",
+        "Le nystagmus est cité comme signe caractéristique de l’engagement temporal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le nystagmus est cité dans l’engagement des amygdales cérébelleuses, avec crises toniques postérieures et opisthotonos."
+    },
+    {
+      "type": "QCM",
+      "question": "Au scanner cérébral réalisé devant une suspicion d’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Il constitue l’examen de première intention.",
+        "Il peut être réalisé sans et/ou avec injection selon le contexte.",
+        "Il peut rechercher un effacement des sillons corticaux et des citernes de la base.",
+        "Il n’apporte pas d’information sur la taille du système ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le scanner recherche notamment les lésions expansives, la taille du système ventriculaire, les signes indirects d’HTIC, l’œdème périlésionnel et les effets de masse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les indications non spécifiquement traumatiques de mesure de la PIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Une suspicion clinique ou radiologique d’HTIC est une indication.",
+        "Un score de Glasgow inférieur à 9 est une indication.",
+        "Un patient sédaté nécessitant une surveillance neurologique est une indication.",
+        "Un score de Glasgow supérieur à 9 constitue à lui seul une indication systématique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indications citées comprennent la suspicion clinique ou radiologique d’HTIC, le Glasgow inférieur à 9, la sédation nécessitant une surveillance neurologique et l’hydrocéphalie."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un traumatisé crânien avec score de Glasgow ≤ 8, quelles situations sont conformes aux indications de monitorage de la PIC décrites ?",
+      "choices": [
+        "Effacement ou écrasement des citernes au scanner.",
+        "Déviation de la ligne médiane supérieure à 3 mm.",
+        "Hémorragie méningée post-traumatique associée.",
+        "Scanner sans lésion imposant toujours l’absence de monitorage."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En l’absence de lésion scannographique, l’indication est à discuter, surtout en cas de lésions associées, polytraumatisme ou chirurgie prolongée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’intérêt du monitorage de la pression intracrânienne, quelles propositions sont exactes ?",
+      "choices": [
+        "Il permet d’estimer la gravité de l’agression cérébrale.",
+        "Il permet de mesurer la pression de perfusion cérébrale en continu.",
+        "Il peut refléter les variations du volume sanguin cérébral.",
+        "Il remplace l’imagerie cérébrale de première intention."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le monitorage de la PIC a un intérêt pronostique et hémodynamique, mais il ne remplace pas le scanner cérébral de première intention."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le Doppler transcrânien dans l’évaluation de l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Il mesure les vélocités systoliques, moyennes et diastoliques des globules rouges.",
+        "L’artère cérébrale moyenne est le territoire le plus souvent exploré.",
+        "Il constitue un reflet du débit sanguin cérébral.",
+        "Il mesure directement la pression intracrânienne en mmHg."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le Doppler transcrânien explore les vélocités sanguines cérébrales et reflète le débit sanguin cérébral, mais ne mesure pas directement la PIC."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de pression intracrânienne définit généralement une HTIC aiguë selon le texte ?",
+      "choices": [
+        "PIC > 10 mmHg",
+        "PIC > 15 mmHg",
+        "PIC > 20-25 mmHg",
+        "PIC > 40-45 mmHg"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une HTIC aiguë est généralement définie par une PIC supérieure à 20-25 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la production quotidienne approximative de liquide cérébrospinal mentionnée ?",
+      "choices": [
+        "50 à 150 ml/24 h",
+        "140 ml/24 h",
+        "400 à 500 ml/24 h",
+        "750 ml/24 h"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La production de LCR est d’environ 400 à 500 ml par 24 heures."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient ayant une PAM à 90 mmHg et une PIC à 25 mmHg, quelle est la PPC calculée ?",
+      "choices": [
+        "55 mmHg",
+        "65 mmHg",
+        "75 mmHg",
+        "115 mmHg"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La PPC se calcule par PPC = PAM - PIC, soit 90 - 25 = 65 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Au Doppler transcrânien, pour une vélocité systolique à 90 cm/s, une vélocité diastolique à 30 cm/s et une vélocité moyenne à 60 cm/s, quel est l’indice de pulsatilité de Gosling ?",
+      "choices": [
+        "0,5",
+        "1,0",
+        "1,5",
+        "2,0"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "IP = (V systolique - V diastolique) / V moyenne = (90 - 30) / 60 = 1,0."
+    },
+    {
+      "type": "QCS",
+      "question": "L’association de crises toniques postérieures, opisthotonos et nystagmus correspond à quel type d’engagement ?",
+      "choices": [
+        "Engagement diencéphalique central",
+        "Engagement temporal",
+        "Engagement des amygdales cérébelleuses",
+        "Engagement lié à une paralysie du VIe nerf crânien"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Ces signes sont décrits dans l’engagement des amygdales cérébelleuses."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel signe clinique insolite est spécifiquement cité dans l’engagement diencéphalique central ?",
+      "choices": [
+        "Grattage de la région du nez ou de la région pubienne",
+        "Mydriase homolatérale",
+        "Nystagmus isolé",
+        "Vomissements en jet sans nausées"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le grattage de la région du nez ou de la région pubienne est mentionné parmi les signes d’engagement diencéphalique central."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient traité pour HTIC avec monitorage hémodynamique, quelles décisions sont conformes aux objectifs rapportés dans le texte ?",
+      "choices": [
+        "Maintenir une pression de perfusion cérébrale entre 50 et 70 mmHg",
+        "Utiliser le sérum salé isotonique NaCl 0,9 % pour l’expansion volémique",
+        "Introduire la noradrénaline si la PPC est inférieure à 60-70 mmHg",
+        "Utiliser le Ringer lactate comme soluté de remplissage recommandé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande une PPC entre 50 et 70 mmHg, une expansion volémique par NaCl 0,9 %, et la noradrénaline si la PPC est insuffisante. Le Ringer lactate est contre-indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les solutés et l’osmothérapie dans l’HTIC, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Les solutés hypertoniques font partie des principes thérapeutiques",
+        "Le mannitol est cité comme moyen d’osmothérapie",
+        "Le sérum salé hypertonique est cité comme moyen d’osmothérapie",
+        "Le Ringer lactate est recommandé en première intention"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’utilisation de solutés hypertoniques, le mannitol et le sérum salé hypertonique. Le Ringer lactate est explicitement contre-indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une HTIC associée à des troubles de la conscience ou de l’hématose, quelles attitudes sont conformes au texte ?",
+      "choices": [
+        "Intubation",
+        "Sédation",
+        "Ventilation mécanique",
+        "Abstention de ventilation mécanique si une osmothérapie est débutée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les troubles de la conscience ou de l’hématose indiquent l’intubation, la sédation et la ventilation mécanique. Le texte ne recommande pas l’abstention de ventilation mécanique dans ce contexte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels objectifs de la sédation dans l’HTIC sont explicitement mentionnés ?",
+      "choices": [
+        "Adaptation au respirateur",
+        "Diminution des stimuli nociceptifs",
+        "Prévention ou traitement des crises convulsives",
+        "Augmentation de l’hypertension artérielle liée au stress"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sédation vise notamment l’adaptation au respirateur, la réduction des stimuli nociceptifs et la prévention ou le traitement des crises convulsives. Elle doit réduire, et non augmenter, l’hypertension artérielle liée au stress."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le traitement de l’HTIC, quels autres objectifs sont attribués à la sédation par le texte ?",
+      "choices": [
+        "Contrôle de l’agitation",
+        "Réduction de l’hypertension artérielle liée au stress",
+        "Réduction de l’hypertonie axiale",
+        "Remplacement du traitement chirurgical lorsqu’il existe un hématome volumineux"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sédation vise le contrôle de l’agitation, la réduction de l’HTA liée au stress et la réduction de l’hypertonie axiale. Elle ne remplace pas une chirurgie indiquée devant un hématome volumineux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hypothermie dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle diminue le métabolisme cérébral",
+        "Elle réduit la libération de neuromédiateurs",
+        "Elle diminue la perméabilité vasculaire",
+        "Elle augmente la perméabilité vasculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Selon le texte, l’hypothermie diminue le métabolisme cérébral, réduit la libération de neuromédiateurs et diminue la perméabilité vasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le drainage ventriculaire externe dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Il repose sur la mise en place d’un cathéter ventriculaire",
+        "Il est un traitement de première intention en cas d’HTIC liée à une hydrocéphalie aiguë",
+        "Il est très efficace sur la réduction de la pression intracrânienne",
+        "Il contre-indique toute association à un traitement médical"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le drainage ventriculaire externe consiste en un cathéter ventriculaire, est indiqué en première intention dans l’hydrocéphalie aiguë et réduit efficacement la PIC. Le texte n’indique pas qu’il contre-indique le traitement médical."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles interventions font partie des indications chirurgicales citées dans la prise en charge de l’HTIC ?",
+      "choices": [
+        "Drainage ventriculaire externe",
+        "Évacuation d’un hématome volumineux",
+        "Traitement chirurgical d’une contusion cérébrale",
+        "Perfusion de Ringer lactate"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indications chirurgicales citées incluent le DVE, l’évacuation d’un hématome volumineux et le traitement chirurgical d’une contusion cérébrale. Le Ringer lactate n’est pas une intervention chirurgicale et il est contre-indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la lobectomie dans l’HTIC, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle peut être envisagée si la PIC n’est pas contrôlée par le traitement médical",
+        "Elle suppose l’absence de risque de séquelles sévères et définitives",
+        "Elle est indiquée systématiquement devant toute HTIC",
+        "Elle est proposée lorsque la PIC est contrôlée par le traitement médical"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La lobectomie est citée si la PIC n’est pas contrôlée par le traitement médical et en l’absence de risque de séquelles sévères et définitives. Elle n’est pas systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la craniotomie ou la craniectomie décompressive, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être bénéfique chez certains patients présentant un traumatisme crânien sévère",
+        "Son bénéfice est surtout évoqué lorsqu’elle est réalisée précocement",
+        "Elle peut être discutée après échec du traitement médical optimal dans une HTIC réfractaire",
+        "Elle est réservée aux patients ayant un Glasgow initial inférieur ou égal à 5"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise qu’elle peut être bénéfique chez certains traumatisés crâniens sévères, surtout précocement, et qu’elle est indiquée dans l’HTIC réfractaire après échec du traitement médical optimal. Un Glasgow initial supérieur à 5 est au contraire un critère favorable d’indication précoce."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’HTIC réfractaire, quels éléments appartiennent aux indications de craniotomie ou craniectomie décompressive ?",
+      "choices": [
+        "PIC supérieure à 25 mmHg pendant plus de 30 minutes",
+        "PPC inférieure à 60 mmHg",
+        "Échec du traitement médical optimal",
+        "Hémoglobine inférieure à 10 g/dl isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les critères cités sont une PIC > 25 mmHg pendant plus de 30 minutes, une PPC < 60 mmHg et l’échec du traitement médical optimal. L’Hb < 10 g/dl justifie une transfusion, mais ne définit pas à elle seule l’indication décompressive."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les profils suivants, lesquels satisfont intégralement les critères favorables à une indication précoce de décompression selon le texte ?",
+      "choices": [
+        "Patient de 35 ans, évolution depuis 6 heures, Glasgow initial à 7, sans atteinte du tronc cérébral",
+        "Patient de 49 ans, évolution depuis 11 heures, Glasgow initial à 6, sans atteinte du tronc cérébral",
+        "Patient de 51 ans, évolution depuis 8 heures, Glasgow initial à 8, sans atteinte du tronc cérébral",
+        "Patient de 40 ans, évolution depuis 10 heures, Glasgow initial à 5, sans atteinte du tronc cérébral"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les critères favorables sont : évolution < 12 h, âge < 50 ans, Glasgow initial > 5 et absence d’atteinte du tronc cérébral. Les deux premiers profils les remplissent tous."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évaluation de l’oxygénation cérébrale dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "La PO2 tissulaire peut être mesurée directement",
+        "La saturation du sang veineux jugulaire en oxygène peut être mesurée",
+        "Une saturation veineuse jugulaire en oxygène inférieure à 50 % fait suspecter une ischémie cérébrale",
+        "Une saturation veineuse jugulaire en oxygène inférieure à 50 % élimine une ischémie cérébrale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les méthodes citées sont la mesure directe de la PO2 tissulaire et la mesure de la saturation veineuse jugulaire en oxygène. Une valeur < 50 % fait suspecter une ischémie cérébrale."
+    },
+    {
+      "type": "QCM",
+      "question": "Au Doppler transcrânien, quelles interprétations sont compatibles avec un indice de pulsatilité supérieur à 1,5 selon le texte ?",
+      "choices": [
+        "Vasoconstriction des artérioles cérébrales d’aval",
+        "Hypertension intracrânienne",
+        "Exclusion formelle d’une HTIC",
+        "Mesure directe de la PO2 tissulaire"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Un IP > 1,5 peut traduire une vasoconstriction des artérioles cérébrales d’aval ou une HTIC. Il ne permet pas d’exclure l’HTIC et ne correspond pas à une mesure de PO2 tissulaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Lorsqu’une intervention chirurgicale est nécessaire dans l’HTIC, quelle raison justifie sa réalisation la plus précoce possible selon le texte ?",
+      "choices": [
+        "Le risque d’engagement",
+        "La nécessité d’éviter toute osmothérapie",
+        "La contre-indication du mannitol",
+        "L’impossibilité d’utiliser la noradrénaline"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la chirurgie doit être réalisée le plus précocement possible en raison du risque d’engagement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel soluté est explicitement contre-indiqué dans la stratégie hémodynamique de l’HTIC ?",
+      "choices": [
+        "Sérum salé isotonique NaCl 0,9 %",
+        "Ringer lactate",
+        "Sérum salé hypertonique",
+        "Mannitol"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le Ringer lactate est explicitement contre-indiqué. Le NaCl 0,9 % est utilisé pour l’expansion volémique, et le mannitol ainsi que le sérum salé hypertonique sont cités dans l’osmothérapie."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les médicaments suivants, lequel est cité comme agent possible de sédation dans l’HTIC ?",
+      "choices": [
+        "Propofol",
+        "Ringer lactate",
+        "Noradrénaline",
+        "Sérum salé hypertonique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les benzodiazépines ou le propofol sont cités comme médicaments de sédation, éventuellement associés à des morphiniques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle condition est nécessaire pour envisager une lobectomie dans l’HTIC selon le texte ?",
+      "choices": [
+        "Présence obligatoire d’une hydrocéphalie aiguë",
+        "Absence de risque de séquelles sévères et définitives",
+        "PPC toujours supérieure à 70 mmHg",
+        "Évolution supérieure à 12 heures"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La lobectomie est citée si la PIC n’est pas contrôlée par le traitement médical et en l’absence de risque de séquelles sévères et définitives."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle méthode correspond à une mesure directe de l’oxygénation cérébrale mentionnée dans le texte ?",
+      "choices": [
+        "Mesure de la PO2 tissulaire",
+        "Calcul de la PPC",
+        "Mesure de la PAM seule",
+        "Évaluation de l’hémoglobine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite la mesure directe de la PO2 tissulaire comme méthode d’évaluation de l’oxygénation cérébrale."
+    },
+    {
+      "type": "QCS",
+      "question": "Devant un hématome volumineux responsable d’HTIC, quelle option thérapeutique est citée dans le texte ?",
+      "choices": [
+        "Évacuation chirurgicale de l’hématome",
+        "Ringer lactate en remplissage",
+        "Abstention chirurgicale systématique",
+        "Curarisation isolée comme traitement définitif"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le traitement chirurgical est indiqué en cas d’hématome volumineux, avec évacuation de celui-ci. Le Ringer lactate est contre-indiqué et la curarisation isolée ne constitue pas un traitement définitif de l’hématome."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la physiopathologie de l’HTIC, quelles propositions classent correctement les mécanismes d’augmentation de volume intracrânien ?",
+      "choices": [
+        "L’hyperhémie correspond à une augmentation du volume sanguin cérébral.",
+        "L’hyperdébit correspond à une augmentation du volume sanguin cérébral.",
+        "L’œdème diffus correspond à une augmentation du volume du parenchyme cérébral.",
+        "L’hématome correspond à une augmentation du volume du parenchyme cérébral au même titre que l’œdème diffus."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hyperhémie et l’hyperdébit augmentent le volume sanguin cérébral. L’œdème diffus augmente le volume du parenchyme. L’hématome est classé comme volume supplémentaire intracrânien."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont citées comme mécanismes possibles d’hydrocéphalie obstructive dans l’HTIC ?",
+      "choices": [
+        "Un hématome.",
+        "Un processus expansif.",
+        "Un engagement cérébral.",
+        "Une méningite."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hydrocéphalie obstructive peut être liée à un hématome, un processus expansif ou un engagement. La méningite est citée comme cause d’hydrocéphalie non obstructive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes des œdèmes cérébraux décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "L’œdème vasogénique résulte d’une rupture des jonctions endothéliales serrées de la barrière hémato-encéphalique.",
+        "L’œdème cytotoxique implique une dysfonction de la pompe Na+/K+ ATPase.",
+        "L’œdème interstitiel correspond à l’entrée d’un LCR riche en protéines dans l’espace extracellulaire.",
+        "L’œdème osmotique est favorisé par un gradient osmotique entre plasma, LCR et liquide extracellulaire cérébral."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’œdème interstitiel implique un LCR pauvre en protéines, et non riche en protéines. Les autres propositions reprennent les mécanismes décrits."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la classification étiologique de l’HTIC, quelles associations sont correctes ?",
+      "choices": [
+        "Tumeur : cause expansive.",
+        "Thrombophlébite avec blocage du drainage veineux : cause lésionnelle ou non expansive.",
+        "Infection : cause lésionnelle ou non expansive.",
+        "HTIC sans lésion identifiable : forme bénigne."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte classe la tumeur parmi les causes expansives, la thrombophlébite et l’infection parmi les causes lésionnelles ou non expansives, et l’HTIC sans lésion identifiable parmi les formes bénignes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une HTIC d’évolution lente, quels éléments cliniques peuvent être observés selon le texte ?",
+      "choices": [
+        "Troubles psychiques.",
+        "Baisse des performances intellectuelles.",
+        "Atteintes endocriniennes.",
+        "Coma inaugural obligatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les formes lentes peuvent s’accompagner de troubles psychiques, d’une baisse des performances intellectuelles et d’atteintes endocriniennes. Le coma est un signe de gravité, non un élément obligatoire des formes lentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les signes suivants, lesquels sont des signes de gravité de l’HTIC sans appartenir à la triade de Cushing ?",
+      "choices": [
+        "Somnolence.",
+        "Mydriase.",
+        "Signes neurologiques de localisation.",
+        "Bradycardie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La somnolence, la mydriase et les signes neurologiques de localisation sont des signes de gravité. La bradycardie fait partie de la triade de Cushing."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’engagement diencéphalique central, quelles manifestations sont conformes au texte ?",
+      "choices": [
+        "Trouble de vigilance pouvant évoluer de la somnolence vers le coma.",
+        "Hypertonie dans les troubles du tonus musculaire.",
+        "Réactions de décortication puis de décérébration à la stimulation douloureuse.",
+        "Pupilles de petite taille, parfois punctiformes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces manifestations sont décrites dans l’engagement diencéphalique central."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un engagement temporal, quels signes sont attendus selon le texte ?",
+      "choices": [
+        "Mydriase homolatérale.",
+        "Hémiparésie ou hémidécérébration controlatérale.",
+        "Coma.",
+        "Nystagmus isolé caractéristique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’engagement temporal associe mydriase homolatérale, hémiparésie ou hémidécérébration controlatérale et coma. Le nystagmus est cité dans l’engagement des amygdales cérébelleuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes orientent vers un engagement des amygdales cérébelleuses ?",
+      "choices": [
+        "Crises toniques postérieures.",
+        "Opisthotonos.",
+        "Nystagmus.",
+        "Respiration de Cheyne-Stokes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’engagement des amygdales cérébelleuses associe crises toniques postérieures, opisthotonos et nystagmus. La respiration de Cheyne-Stokes est décrite dans l’engagement diencéphalique central."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les manifestations suivantes, lesquelles sont citées comme signes d’ischémie cérébrale dans l’HTIC ?",
+      "choices": [
+        "Coma.",
+        "Disparition des réflexes du tronc cérébral.",
+        "Hypertension artérielle.",
+        "Troubles respiratoires."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme signes d’ischémie cérébrale : coma, disparition des réflexes du tronc cérébral, hypertension artérielle et troubles respiratoires."
+    },
+    {
+      "type": "QCM",
+      "question": "Au scanner cérébral réalisé devant une suspicion d’HTIC, quelles données sont conformes au texte ?",
+      "choices": [
+        "Il peut être réalisé sans et/ou avec injection selon le contexte.",
+        "Il permet de rechercher des lésions expansives.",
+        "Il peut mettre en évidence un œdème périlésionnel.",
+        "Il peut rechercher un effacement des citernes de la base."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le scanner cérébral est l’examen de première intention ; selon le contexte, il peut être réalisé sans et/ou avec injection et recherche notamment lésions expansives, œdème périlésionnel et effacement des citernes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments scannographiques peuvent traduire un retentissement intracrânien d’une HTIC ?",
+      "choices": [
+        "Effacement des sillons corticaux.",
+        "Effet de masse sur le système ventriculaire.",
+        "Analyse de la taille du système ventriculaire.",
+        "Signes indirects d’HTIC."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le scanner recherche la taille du système ventriculaire, les signes indirects d’HTIC, l’effacement des sillons corticaux et l’effet de masse sur le système ventriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’intérêt du monitorage de la PIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Il permet de mesurer la pression de perfusion cérébrale en continu.",
+        "Il peut refléter les variations du volume sanguin cérébral.",
+        "Il permet d’analyser la morphologie de la courbe de PIC.",
+        "Il permet d’analyser la relation entre les variations de PIC et de PAM."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte attribue au monitorage de la PIC ces différents intérêts : suivi de la PPC, reflet des variations du volume sanguin cérébral, analyse de la courbe de PIC et de la relation PIC/PAM."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du Doppler transcrânien dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Il mesure les vélocités systoliques des globules rouges dans les vaisseaux cérébraux.",
+        "Il mesure les vélocités moyennes et diastoliques.",
+        "Il explore le plus souvent l’artère cérébrale moyenne.",
+        "Il constitue un reflet du débit sanguin cérébral."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le Doppler transcrânien mesure les vélocités systoliques, moyennes et diastoliques, le plus souvent dans l’artère cérébrale moyenne, et reflète le débit sanguin cérébral."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle valeur correspond à la pression intracrânienne normale selon le texte ?",
+      "choices": [
+        "0 à 5 mmHg.",
+        "7 à 15 mmHg.",
+        "20 à 25 mmHg.",
+        "30 à 40 mmHg."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La PIC normale est indiquée entre 7 et 15 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation correspond à une HTIC bénigne dans la classification étiologique décrite ?",
+      "choices": [
+        "HTIC par abcès cérébral.",
+        "HTIC par hématome intracérébral.",
+        "HTIC sans lésion identifiable.",
+        "HTIC par hydrocéphalie obstructive."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les formes bénignes sont définies dans le texte comme des HTIC sans lésion identifiable."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel type d’œdème cérébral est défini par une rupture de la barrière méningo-encéphalique avec entrée de LCR pauvre en protéines dans la substance blanche ?",
+      "choices": [
+        "Œdème vasogénique.",
+        "Œdème cytotoxique.",
+        "Œdème interstitiel.",
+        "Œdème osmotique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Cette définition correspond à l’œdème interstitiel."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement les modalités de réalisation du scanner cérébral dans la suspicion d’HTIC ?",
+      "choices": [
+        "Il est toujours réalisé uniquement sans injection.",
+        "Il est toujours réalisé uniquement avec injection.",
+        "Il est réalisé sans et/ou avec injection selon le contexte.",
+        "Il n’est indiqué qu’après une IRM cérébrale."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le scanner cérébral est réalisé sans et/ou avec injection selon le contexte et constitue l’examen de première intention."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle plage correspond aux valeurs normales de l’indice de pulsatilité de Gosling selon le texte ?",
+      "choices": [
+        "0,1 à 0,4.",
+        "0,5 à 1,4.",
+        "1,5 à 2,5.",
+        "3 à 5."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique que l’indice de pulsatilité normal est compris entre 0,5 et 1,4."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient présente une mydriase gauche associée à une hémiparésie droite et un coma. Quel type d’engagement est le plus compatible avec ces données ?",
+      "choices": [
+        "Engagement diencéphalique central.",
+        "Engagement temporal gauche.",
+        "Engagement des amygdales cérébelleuses.",
+        "HTIC bénigne sans engagement."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’engagement temporal associe une mydriase homolatérale et une hémiparésie ou hémidécérébration controlatérale, avec coma."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient présentant une HTIC en rapport avec une hydrocéphalie aiguë, quelles attitudes sont conformes au texte ?",
+      "choices": [
+        "Mettre en place un drainage ventriculaire externe en première intention",
+        "Utiliser le Ringer lactate comme soluté d’expansion volémique",
+        "Recourir au sérum salé isotonique NaCl 0,9 % si une expansion volémique est nécessaire",
+        "Différer la chirurgie car le risque d’engagement n’est pas un élément d’urgence"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le drainage ventriculaire externe est le traitement de première intention de l’HTIC liée à une hydrocéphalie aiguë. L’expansion volémique se fait par NaCl 0,9 %. Le Ringer lactate est contre-indiqué et la chirurgie doit être précoce en raison du risque d’engagement."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations seuil–conduite thérapeutique sont correctes dans la prise en charge hémodynamique de l’HTIC ?",
+      "choices": [
+        "Maintenir une PPC entre 50 et 70 mmHg",
+        "Introduire la noradrénaline si la PPC est inférieure à 60–70 mmHg",
+        "Transfuser si l’hémoglobine est inférieure à 10 g/dl",
+        "En l’absence de mesure de la PIC, viser une PAM supérieure à 90 mmHg"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise ces quatre objectifs : PPC 50–70 mmHg, noradrénaline si PPC < 60–70 mmHg, transfusion si Hb < 10 g/dl, et PAM > 90 mmHg si la PIC n’est pas mesurée."
+    },
+    {
+      "type": "QCM",
+      "question": "Un patient traité pour HTIC présente une PPC à 58 mmHg et une hémoglobine à 9,5 g/dl. Quelles décisions sont compatibles avec le texte ?",
+      "choices": [
+        "Recourir à la noradrénaline",
+        "Réaliser une transfusion sanguine",
+        "Remplacer l’expansion volémique par du Ringer lactate",
+        "Accepter cette PPC comme suffisante sans autre mesure"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Une PPC < 60–70 mmHg justifie la noradrénaline, et une Hb < 10 g/dl justifie la transfusion. Le Ringer lactate est contre-indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’HTIC, quels objectifs peuvent être recherchés par la sédation selon le texte ?",
+      "choices": [
+        "Améliorer l’adaptation au respirateur",
+        "Prévenir ou traiter les crises convulsives",
+        "Réduire l’hypertension artérielle liée au stress",
+        "Obtenir systématiquement une curarisation prolongée chez tout patient"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sédation vise notamment l’adaptation au respirateur, le contrôle des crises convulsives et la réduction de l’hypertension artérielle liée au stress. Les curares ne sont possibles qu’en cas d’HTIC réfractaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les moyens médicamenteux de sédation, d’analgésie ou de curarisation dans l’HTIC, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les benzodiazépines peuvent être utilisées",
+        "Le propofol peut être utilisé",
+        "Des morphiniques peuvent être associés si besoin",
+        "Les curares peuvent être envisagés en cas d’HTIC réfractaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les benzodiazépines ou le propofol, éventuellement associés à des morphiniques. Les curares sont possibles en cas d’HTIC réfractaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels effets attribués à l’hypothermie participent au contrôle de la température dans l’HTIC ?",
+      "choices": [
+        "Diminution du métabolisme cérébral",
+        "Réduction de la libération de neuromédiateurs",
+        "Diminution de la perméabilité vasculaire",
+        "Augmentation de la sécrétion du liquide cérébrospinal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypothermie diminue le métabolisme cérébral, réduit la libération de neuromédiateurs et diminue la perméabilité vasculaire. L’augmentation de la sécrétion de LCR n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les solutés ou produits suivants, lesquels correspondent à l’osmothérapie citée dans le texte ?",
+      "choices": [
+        "Mannitol",
+        "Sérum salé hypertonique",
+        "Sérum salé isotonique NaCl 0,9 %",
+        "Ringer lactate"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’osmothérapie repose sur le mannitol et le sérum salé hypertonique. Le NaCl 0,9 % est cité pour l’expansion volémique, et le Ringer lactate est contre-indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre geste chirurgical et situation clinique sont exactes selon le texte ?",
+      "choices": [
+        "Évacuation chirurgicale en cas d’hématome volumineux",
+        "Traitement chirurgical possible d’une contusion cérébrale",
+        "Lobectomie si la PIC n’est pas contrôlée par le traitement médical et en l’absence de risque de séquelles sévères et définitives",
+        "Craniectomie bifrontale en cas de lésions diffuses sélectionnées"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre indications chirurgicales sont explicitement citées : hématome volumineux, contusion cérébrale, lobectomie sous conditions et craniectomie bifrontale pour certaines lésions diffuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la craniotomie ou la craniectomie décompressive dans le traumatisme crânien sévère avec HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être bénéfique chez certains patients",
+        "Son bénéfice est surtout envisagé lorsqu’elle est réalisée précocement",
+        "Elle peut être discutée en cas de PIC > 25 mmHg pendant plus de 30 minutes",
+        "Elle nécessite obligatoirement une atteinte du tronc cérébral"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La craniotomie ou craniectomie décompressive peut être bénéfique chez certains traumatisés crâniens sévères, surtout précocement. Une atteinte du tronc cérébral n’est pas requise ; son absence est même un critère favorable d’indication précoce."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels profils réunissent les trois éléments cités pour discuter une craniotomie ou craniectomie décompressive en HTIC réfractaire ?",
+      "choices": [
+        "PIC à 28 mmHg pendant 45 minutes, PPC à 55 mmHg, échec du traitement médical optimal",
+        "PIC à 24 mmHg pendant 60 minutes, PPC à 58 mmHg, échec du traitement médical optimal",
+        "PIC à 30 mmHg pendant 20 minutes, PPC à 55 mmHg, échec du traitement médical optimal",
+        "PIC à 27 mmHg pendant 40 minutes, PPC à 59 mmHg, échec du traitement médical optimal"
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "explanation": "Les critères cités sont : PIC > 25 mmHg pendant plus de 30 minutes, PPC < 60 mmHg et échec du traitement médical optimal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels patients remplissent l’ensemble des critères en faveur d’une indication précoce de décompression selon le texte ?",
+      "choices": [
+        "Évolution depuis 8 heures, âge 45 ans, Glasgow initial à 6, absence d’atteinte du tronc cérébral",
+        "Évolution depuis 14 heures, âge 45 ans, Glasgow initial à 6, absence d’atteinte du tronc cérébral",
+        "Évolution depuis 8 heures, âge 55 ans, Glasgow initial à 6, absence d’atteinte du tronc cérébral",
+        "Évolution depuis 6 heures, âge 49 ans, Glasgow initial à 7, absence d’atteinte du tronc cérébral"
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "explanation": "Les critères favorables sont : évolution < 12 h, âge < 50 ans, Glasgow initial > 5 et absence d’atteinte du tronc cérébral."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’évaluation instrumentale de l’HTIC, quelles propositions sont correctes d’après le texte ?",
+      "choices": [
+        "La PO2 tissulaire peut être mesurée directement",
+        "La saturation du sang veineux jugulaire en oxygène peut être mesurée",
+        "Une saturation veineuse jugulaire en oxygène < 50 % fait suspecter une ischémie cérébrale",
+        "Un indice de pulsatilité > 1,5 exclut une HTIC"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’oxygénation cérébrale peut être évaluée par mesure directe de la PO2 tissulaire ou par saturation veineuse jugulaire. Une saturation < 50 % fait suspecter une ischémie. Un IP > 1,5 peut au contraire traduire une HTIC."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures appartiennent à la stratégie de prévention des agressions cérébrales secondaires ou de stabilisation systémique dans l’HTIC ?",
+      "choices": [
+        "Maintien d’une pression de perfusion cérébrale adéquate",
+        "Prévention des agressions cérébrales secondaires d’origine systémique",
+        "Réduction de l’hypertension artérielle liée au stress par la sédation",
+        "Utilisation préférentielle de solutés contre-indiqués"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement vise notamment la prévention des agressions cérébrales secondaires, le maintien de la PPC et la réduction de l’HTA liée au stress. Les solutés contre-indiqués ne doivent pas être utilisés."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations l’intubation, la sédation et la ventilation mécanique sont-elles indiquées selon le texte ?",
+      "choices": [
+        "Troubles de la conscience",
+        "Troubles de l’hématose",
+        "Réalisation systématique d’un Doppler transcrânien",
+        "Céphalée isolée sans trouble de la conscience ni de l’hématose"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte indique l’intubation, la sédation et la ventilation mécanique en cas de troubles de la conscience ou de l’hématose."
+    },
+    {
+      "type": "QCS",
+      "question": "En l’absence de mesure de la PIC chez un patient présentant une HTIC, quel objectif tensionnel est recommandé par le texte ?",
+      "choices": [
+        "PAM > 90 mmHg",
+        "PAM < 60 mmHg",
+        "PPC entre 30 et 40 mmHg",
+        "Hb > 7 g/dl comme seul objectif hémodynamique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Lorsqu’il n’y a pas de mesure de la PIC, l’objectif indiqué est une PAM > 90 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel appartient spécifiquement à l’osmothérapie citée dans le texte ?",
+      "choices": [
+        "Mannitol",
+        "Propofol",
+        "Noradrénaline",
+        "Morphinique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le mannitol est cité comme agent d’osmothérapie. Le propofol et les morphiniques relèvent de la sédation/analgésie, et la noradrénaline du support hémodynamique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation correspond à la condition de lobectomie décrite dans le texte ?",
+      "choices": [
+        "PIC non contrôlée par le traitement médical avec absence de risque de séquelles sévères et définitives",
+        "Hydrocéphalie aiguë isolée contrôlée par drainage ventriculaire externe",
+        "PPC normale sous traitement médical sans HTIC réfractaire",
+        "Atteinte du tronc cérébral imposant systématiquement une lobectomie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La lobectomie est envisagée si la PIC n’est pas contrôlée par le traitement médical et s’il n’existe pas de risque de séquelles sévères et définitives."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quel contexte les curares sont-ils possibles selon le texte ?",
+      "choices": [
+        "HTIC réfractaire",
+        "Toute HTIC dès le diagnostic",
+        "Simple prévention de l’agitation sans autre critère",
+        "Remplacement systématique de l’osmothérapie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les curares sont possibles en cas d’HTIC réfractaire, et non de façon systématique."
+    },
+    {
+      "type": "QCS",
+      "question": "Pourquoi la chirurgie doit-elle être réalisée le plus précocement possible lorsqu’elle est nécessaire dans l’HTIC ?",
+      "choices": [
+        "En raison du risque d’engagement",
+        "Pour éviter l’utilisation de sérum salé hypertonique",
+        "Parce que la PPC doit être maintenue sous 50 mmHg",
+        "Parce que le drainage ventriculaire externe est inefficace"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la chirurgie doit être réalisée le plus précocement possible en raison du risque d’engagement."
+    },
+    {
+      "type": "QCS",
+      "question": "Un monitorage jugulaire retrouve une saturation veineuse jugulaire en oxygène à 45 %. Quelle interprétation est conforme au texte ?",
+      "choices": [
+        "Suspecter une ischémie cérébrale",
+        "Conclure à une oxygénation cérébrale normale",
+        "Affirmer une indication isolée de Ringer lactate",
+        "Exclure une HTIC réfractaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une saturation veineuse jugulaire en oxygène < 50 % fait suspecter une ischémie cérébrale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le principe de Monro-Kellie appliqué à l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "La boîte intracrânienne est considérée comme inextensible.",
+        "L’augmentation de volume d’un compartiment doit être compensée par la diminution d’un autre compartiment.",
+        "Les mécanismes de compensation empêchent toujours l’élévation de la pression intracrânienne.",
+        "La pression intracrânienne augmente lorsque les mécanismes de compensation sont dépassés."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le principe de Monro-Kellie repose sur l’inextensibilité crânienne et la compensation entre compartiments. Lorsque ces compensations sont dépassées, la PIC augmente."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les mécanismes suivants, lesquels correspondent à une augmentation du volume du parenchyme cérébral ?",
+      "choices": [
+        "Œdème cérébral diffus.",
+        "Hyperdébit sanguin cérébral.",
+        "Œdème périlésionnel.",
+        "Hydrocéphalie obstructive."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "L’augmentation du volume parenchymateux est liée à l’œdème diffus ou périlésionnel. L’hyperdébit concerne le compartiment vasculaire et l’hydrocéphalie le LCR."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’augmentation du volume du LCR dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Une hydrocéphalie obstructive peut être liée à un processus expansif.",
+        "Une méningite est citée comme cause d’hydrocéphalie non obstructive.",
+        "Une tumeur des plexus choroïdes peut exceptionnellement entraîner une hypersécrétion de LCR.",
+        "Une thrombophlébite est citée comme mécanisme direct d’hypersécrétion de LCR."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue l’hydrocéphalie obstructive, l’hydrocéphalie non obstructive par méningite et l’hypersécrétion exceptionnelle par tumeur des plexus choroïdes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la classification étiologique de l’HTIC, quelles associations sont correctes ?",
+      "choices": [
+        "Tumeur — cause expansive.",
+        "Thrombophlébite — blocage du drainage veineux.",
+        "Infection — cause lésionnelle ou non expansive.",
+        "HTIC sans lésion identifiable — cause expansive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes expansives incluent notamment la tumeur. Les thrombophlébites et infections relèvent des causes lésionnelles ou non expansives. L’HTIC sans lésion identifiable est classée parmi les formes bénignes."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les signes suivants, lesquels sont classés comme signes de gravité de l’HTIC dans le texte ?",
+      "choices": [
+        "Somnolence.",
+        "Atteintes endocriniennes.",
+        "Mydriase.",
+        "Signes neurologiques de localisation."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La somnolence, la mydriase et les signes neurologiques de localisation sont des signes de gravité. Les atteintes endocriniennes sont citées dans les formes d’évolution lente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’engagement diencéphalique central, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut comporter un grattage de la région du nez ou de la région pubienne.",
+        "Les pupilles peuvent être de petite taille, parfois punctiformes.",
+        "Les réactions motrices peuvent évoluer de la décortication vers la décérébration.",
+        "La mydriase homolatérale est le signe principal décrit."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’engagement diencéphalique central associe troubles de vigilance, grattage, hypertonie, décortication puis décérébration, petites pupilles et troubles respiratoires. La mydriase homolatérale évoque plutôt l’engagement temporal."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un engagement temporal, quels éléments cliniques sont attendus selon le texte ?",
+      "choices": [
+        "Mydriase homolatérale.",
+        "Hémiparésie ou hémidécérébration controlatérale.",
+        "Opisthotonos.",
+        "Coma."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’engagement temporal associe mydriase homolatérale, déficit moteur controlatéral et coma. L’opisthotonos appartient à l’engagement des amygdales cérébelleuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’engagement des amygdales cérébelleuses, quelles manifestations sont citées ?",
+      "choices": [
+        "Crises toniques postérieures.",
+        "Hémiparésie controlatérale.",
+        "Opisthotonos.",
+        "Nystagmus."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’engagement des amygdales cérébelleuses se manifeste par des crises toniques postérieures, un opisthotonos et un nystagmus."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la stratégie diagnostique par imagerie devant une suspicion d’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Le scanner cérébral est l’examen de première intention.",
+        "Le scanner peut être réalisé sans et/ou avec injection selon le contexte.",
+        "Le scanner permet d’évaluer la taille du système ventriculaire.",
+        "L’IRM cérébrale est l’examen systématique de première intention avant tout scanner."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le scanner est l’examen initial, réalisé selon le contexte avec ou sans injection, et permet notamment d’étudier le système ventriculaire. L’IRM intervient si le scanner est normal ou non contributif."
+    },
+    {
+      "type": "QCM",
+      "question": "Au scanner cérébral d’une suspicion d’HTIC, quels éléments peuvent être recherchés selon le texte ?",
+      "choices": [
+        "Effacement des sillons corticaux.",
+        "Effacement des citernes de la base.",
+        "Œdème périlésionnel.",
+        "Paralysie du VIe nerf crânien."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le scanner recherche des signes indirects d’HTIC comme l’effacement des sillons, l’effacement des citernes, l’œdème périlésionnel et l’effet de masse. La paralysie du VI est un signe clinique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations constituent une indication de mesure de la pression intracrânienne selon le texte ?",
+      "choices": [
+        "Suspicion clinique ou radiologique d’HTIC.",
+        "Score de Glasgow égal à 10 isolé.",
+        "Patient sédaté nécessitant une surveillance neurologique.",
+        "Hydrocéphalie."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Les indications comprennent la suspicion clinique ou radiologique d’HTIC, un patient sédaté nécessitant une surveillance neurologique et l’hydrocéphalie. Le seuil de Glasgow cité est inférieur à 9."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’intérêt du monitorage de la PIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Il permet de mesurer la pression de perfusion cérébrale en continu.",
+        "Il peut refléter les variations du volume sanguin cérébral.",
+        "Il mesure directement la production quotidienne de LCR.",
+        "Il permet d’analyser la relation entre les variations de PIC et de PAM."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le monitorage de la PIC permet notamment de suivre la PPC, d’apprécier les variations du volume sanguin cérébral, la morphologie de la courbe et les relations PIC-PAM."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du Doppler transcrânien dans l’évaluation de l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Il mesure les vélocités systoliques, moyennes et diastoliques des globules rouges.",
+        "L’artère cérébrale moyenne est le territoire le plus souvent exploré.",
+        "Il constitue un reflet du débit sanguin cérébral.",
+        "Il mesure directement la pression intracrânienne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le Doppler transcrânien mesure les vélocités des globules rouges, le plus souvent dans l’artère cérébrale moyenne, et reflète le débit sanguin cérébral. Il ne mesure pas directement la PIC."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la pression de perfusion cérébrale, quelles propositions sont exactes ?",
+      "choices": [
+        "Pour une PAM à 85 mmHg et une PIC à 20 mmHg, la PPC est de 65 mmHg.",
+        "Pour une PAM à 70 mmHg et une PIC à 25 mmHg, la PPC est de 45 mmHg.",
+        "Pour une PAM à 90 mmHg et une PIC à 30 mmHg, la PPC est de 120 mmHg.",
+        "À PAM constante, une diminution de la PIC augmente la PPC."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La PPC se calcule par PPC = PAM - PIC. Ainsi 85 - 20 = 65, 70 - 25 = 45, et 90 - 30 = 60 et non 120."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement l’œdème cérébral osmotique selon le texte ?",
+      "choices": [
+        "Rupture des jonctions endothéliales serrées de la barrière hémato-encéphalique.",
+        "Dysfonction de la pompe Na+/K+ ATPase avec gonflement des astrocytes.",
+        "Différence de gradient osmotique favorisant l’entrée d’eau dans le cerveau.",
+        "Entrée de LCR pauvre en protéines dans la substance blanche par rupture de la barrière méningo-encéphalique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’œdème osmotique est lié à une différence de gradient osmotique entre plasma, LCR et liquide extracellulaire cérébral, favorisant l’entrée d’eau dans le cerveau."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas de suspicion d’HTIC avec scanner cérébral normal ou non contributif, quel examen est indiqué selon le texte ?",
+      "choices": [
+        "Électroencéphalogramme.",
+        "IRM cérébrale.",
+        "Radiographie du crâne.",
+        "Angiographie systématique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’IRM cérébrale est indiquée lorsque le scanner cérébral est normal ou non contributif malgré une suspicion d’HTIC."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la formule correcte de l’indice de pulsatilité de Gosling ?",
+      "choices": [
+        "IP = V moyenne / V systolique.",
+        "IP = (V systolique - V diastolique) / V moyenne.",
+        "IP = (V diastolique - V systolique) / V moyenne.",
+        "IP = PAM - PIC."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’indice de pulsatilité de Gosling se calcule par : IP = (V systolique - V diastolique) / V moyenne."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond au débit sanguin cérébral normal mentionné dans le texte ?",
+      "choices": [
+        "Environ 5 % du débit cardiaque, soit 150 ml/min.",
+        "Environ 15 % du débit cardiaque, soit environ 750 ml/min.",
+        "Environ 50 % du débit cardiaque, soit 2500 ml/min.",
+        "Environ 100 ml/min/100 g de tissu cérébral."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le débit sanguin cérébral représente environ 15 % du débit cardiaque, soit environ 750 ml/min ou 50-60 ml/min/100 g."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association correspond à la triade de Cushing décrite dans le texte ?",
+      "choices": [
+        "Hypotension artérielle, tachycardie, polypnée.",
+        "Hypertension artérielle, bradycardie, bradypnée.",
+        "Hypertension artérielle, tachycardie, fièvre.",
+        "Mydriase, coma, hémiparésie controlatérale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La triade de Cushing associe hypertension artérielle, bradycardie et bradypnée."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’engagement diencéphalique central, quel trouble respiratoire est cité comme évolution après pauses et soupirs profonds ?",
+      "choices": [
+        "Respiration de Cheyne-Stokes.",
+        "Respiration de Kussmaul.",
+        "Respiration apneustique isolée.",
+        "Polypnée sine materia."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte décrit des troubles respiratoires avec pauses, soupirs profonds puis respiration de Cheyne-Stokes dans l’engagement diencéphalique central."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge thérapeutique de l’HTIC, quels éléments traduisent le caractère médicochirurgical de l’urgence selon le texte ?",
+      "choices": [
+        "Un traitement chirurgical peut être indiqué en cas d’hématome volumineux",
+        "Une contusion cérébrale peut relever d’un traitement chirurgical",
+        "La chirurgie, lorsqu’elle est nécessaire, doit être différée jusqu’à disparition complète du risque d’engagement",
+        "Une dérivation du LCR fait partie des principes thérapeutiques cités"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’HTIC est une urgence médicochirurgicale. Le texte cite le traitement chirurgical des hématomes volumineux ou contusions, ainsi que la dérivation du LCR. La chirurgie doit être réalisée précocement en raison du risque d’engagement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la stratégie hémodynamique de l’HTIC lorsque la PIC est monitorée, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La PPC doit être maintenue entre 50 et 70 mmHg",
+        "Une expansion volémique par NaCl 0,9 % est citée",
+        "La noradrénaline est indiquée si la PPC est inférieure à 60–70 mmHg",
+        "L’objectif principal est de maintenir systématiquement une PPC supérieure à 90 mmHg"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande une PPC entre 50 et 70 mmHg, une expansion par sérum salé isotonique NaCl 0,9 %, et la noradrénaline si PPC < 60–70 mmHg. L’objectif de PAM > 90 mmHg concerne l’absence de mesure de la PIC."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le traitement hémodynamique de l’HTIC, quelles associations soluté–conduite sont exactes ?",
+      "choices": [
+        "NaCl 0,9 % : soluté d’expansion volémique cité",
+        "Ringer lactate : soluté contre-indiqué",
+        "Sérum salé hypertonique : soluté d’osmothérapie cité",
+        "Ringer lactate : soluté recommandé pour corriger une PPC basse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le NaCl 0,9 % est utilisé pour l’expansion volémique, le Ringer lactate est contre-indiqué, et le sérum salé hypertonique fait partie de l’osmothérapie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’évaluation de l’oxygénation cérébrale dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "La mesure directe de la PO2 tissulaire est une méthode citée",
+        "La saturation du sang veineux jugulaire en oxygène est une méthode citée",
+        "Une saturation veineuse jugulaire en oxygène inférieure à 50 % fait suspecter une ischémie cérébrale",
+        "Une saturation veineuse jugulaire inférieure à 50 % élimine une ischémie cérébrale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la PO2 tissulaire et la saturation veineuse jugulaire. Une SjO2 < 50 % fait suspecter une ischémie cérébrale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’intubation, la ventilation mécanique et la sédation dans l’HTIC, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elles sont indiquées en cas de troubles de la conscience",
+        "Elles sont indiquées en cas de troubles de l’hématose",
+        "Les benzodiazépines ou le propofol peuvent être utilisés",
+        "Les morphiniques peuvent être associés si besoin"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte indique l’intubation, la sédation et la ventilation mécanique en cas de troubles de la conscience ou de l’hématose. Les benzodiazépines ou le propofol peuvent être associés si besoin à des morphiniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels objectifs de la sédation dans l’HTIC relèvent du contrôle des stimulations et de l’adaptation ventilatoire ?",
+      "choices": [
+        "Adaptation au respirateur",
+        "Diminution des stimuli nociceptifs",
+        "Contrôle de l’agitation",
+        "Augmentation volontaire de l’hypertonie axiale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sédation vise notamment l’adaptation au respirateur, la diminution des stimuli nociceptifs et le contrôle de l’agitation. Elle vise au contraire la réduction de l’hypertonie axiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’HTIC, quels objectifs neurologiques ou neurovégétatifs de la sédation sont cités ?",
+      "choices": [
+        "Prévention ou traitement des crises convulsives",
+        "Réduction de l’hypertension artérielle liée au stress",
+        "Réduction de l’hypertonie axiale",
+        "Augmentation de la libération des neuromédiateurs"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sédation peut prévenir ou traiter les crises convulsives, réduire l’hypertension artérielle liée au stress et réduire l’hypertonie axiale. La diminution de la libération des neuromédiateurs est attribuée à l’hypothermie, non à une augmentation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le contrôle de la température par hypothermie dans l’HTIC, quels effets sont mentionnés ?",
+      "choices": [
+        "Diminution du métabolisme cérébral",
+        "Réduction de la libération de neuromédiateurs",
+        "Diminution de la perméabilité vasculaire",
+        "Augmentation de la perméabilité vasculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypothermie diminue le métabolisme cérébral, réduit la libération de neuromédiateurs et diminue la perméabilité vasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du drainage ventriculaire externe dans l’HTIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Il repose sur la mise en place d’un cathéter ventriculaire",
+        "Il est un traitement de première intention en cas d’HTIC liée à une hydrocéphalie aiguë",
+        "Il est très efficace pour réduire la pression intracrânienne",
+        "Il est contre-indiqué dans l’hydrocéphalie aiguë"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le drainage ventriculaire externe consiste en la mise en place d’un cathéter ventriculaire. Il est de première intention en cas d’hydrocéphalie aiguë et très efficace sur la réduction de la PIC."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations ou techniques appartiennent aux indications chirurgicales citées dans l’HTIC ?",
+      "choices": [
+        "Évacuation d’un hématome volumineux",
+        "Traitement chirurgical d’une contusion cérébrale",
+        "Drainage ventriculaire externe",
+        "Craniectomie bifrontale dans des lésions diffuses sélectionnées"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces quatre options parmi les indications chirurgicales possibles de l’HTIC."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la lobectomie dans l’HTIC, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle peut être envisagée si la PIC n’est pas contrôlée par le traitement médical",
+        "Elle suppose l’absence de risque de séquelles sévères et définitives",
+        "Elle est citée parmi les options chirurgicales",
+        "Elle est indiquée systématiquement dès le diagnostic d’HTIC"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lobectomie est citée si la PIC n’est pas contrôlée par le traitement médical et en l’absence de risque de séquelles sévères et définitives. Elle n’est pas systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’HTIC réfractaire, quels éléments définissent les indications de craniotomie ou craniectomie décompressive selon le texte ?",
+      "choices": [
+        "PIC supérieure à 25 mmHg pendant plus de 30 minutes",
+        "PPC inférieure à 60 mmHg",
+        "Échec du traitement médical optimal",
+        "Glasgow initial strictement inférieur à 5 comme critère favorable"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indications en HTIC réfractaire associent PIC > 25 mmHg pendant plus de 30 minutes, PPC < 60 mmHg et échec du traitement médical optimal. Le critère favorable précoce est au contraire un Glasgow initial > 5."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels critères sont en faveur d’une indication précoce de craniotomie ou craniectomie décompressive ?",
+      "choices": [
+        "Évolution inférieure à 12 heures",
+        "Âge inférieur à 50 ans",
+        "Glasgow initial supérieur à 5",
+        "Absence d’atteinte du tronc cérébral"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les quatre critères sont explicitement cités comme favorables à une indication précoce de décompression."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les profils suivants, lesquels réunissent les critères favorables à une indication précoce de décompression selon le texte ?",
+      "choices": [
+        "Patient de 35 ans, évolution depuis 8 heures, Glasgow initial à 6, sans atteinte du tronc cérébral",
+        "Patient de 49 ans, évolution depuis 11 heures, Glasgow initial à 7, sans atteinte du tronc cérébral",
+        "Patient de 51 ans, évolution depuis 6 heures, Glasgow initial à 8, sans atteinte du tronc cérébral",
+        "Patient de 40 ans, évolution depuis 14 heures, Glasgow initial à 9, sans atteinte du tronc cérébral"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les critères favorables sont : évolution < 12 h, âge < 50 ans, Glasgow initial > 5 et absence d’atteinte du tronc cérébral. Les deux premiers profils les réunissent tous."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel soluté est contre-indiqué dans la stratégie hémodynamique de l’HTIC selon le texte ?",
+      "choices": [
+        "NaCl 0,9 %",
+        "Ringer lactate",
+        "Sérum salé hypertonique",
+        "Mannitol"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le Ringer lactate est explicitement contre-indiqué. Le NaCl 0,9 % est utilisé pour l’expansion volémique, tandis que le mannitol et le sérum salé hypertonique relèvent de l’osmothérapie."
+    },
+    {
+      "type": "QCS",
+      "question": "En l’absence de mesure de la pression intracrânienne, quel objectif tensionnel est recommandé ?",
+      "choices": [
+        "PAM > 60 mmHg",
+        "PAM > 70 mmHg",
+        "PAM > 90 mmHg",
+        "PAM < 50 mmHg"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "En l’absence de mesure de la PIC, le texte recommande un objectif de pression artérielle moyenne supérieur à 90 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement est cité comme traitement de première intention de l’HTIC liée à une hydrocéphalie aiguë ?",
+      "choices": [
+        "Drainage ventriculaire externe",
+        "Lobectomie",
+        "Craniectomie bifrontale",
+        "Transfusion sanguine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le drainage ventriculaire externe est le traitement de première intention en cas d’HTIC liée à une hydrocéphalie aiguë."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil d’hémoglobine impose une transfusion sanguine dans la prise en charge de l’HTIC selon le texte ?",
+      "choices": [
+        "Hb < 7 g/dl",
+        "Hb < 8 g/dl",
+        "Hb < 10 g/dl",
+        "Hb < 12 g/dl"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique une transfusion sanguine si l’hémoglobine est inférieure à 10 g/dl."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quel contexte les curares peuvent-ils être utilisés selon le texte ?",
+      "choices": [
+        "HTIC réfractaire",
+        "HTIC contrôlée par simple surveillance",
+        "Absence de trouble de conscience avec hématose normale",
+        "Prévention systématique de toute HTIC débutante"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les curares sont possibles en cas d’HTIC réfractaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à l’indication spécifique de la craniectomie bifrontale citée dans le texte ?",
+      "choices": [
+        "Hydrocéphalie aiguë isolée",
+        "Lésions diffuses sélectionnées",
+        "Anémie inférieure à 10 g/dl",
+        "Trouble de l’hématose isolé"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La craniectomie bifrontale est citée en cas de lésions diffuses sélectionnées."
+    }
+  ],
+  "status": "done",
+  "error": "Connection error.",
+  "updatedAt": "2026-07-03T13:21:19.646Z"
+}

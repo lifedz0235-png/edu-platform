@@ -1,0 +1,3122 @@
+{
+  "category": "biologie",
+  "module": "biochimie",
+  "courseId": 8,
+  "courseTitle": "Metabolisme Des Glucides",
+  "supportTitle": "metabolisme-de-fer",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/BIOCHIMIE/metabolisme-de-fer.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la répartition du fer dans l’organisme adulte, quelles propositions sont exactes ?",
+      "choices": [
+        "Environ 70 % du fer corporel est contenu dans l’hémoglobine.",
+        "Environ 6 % du fer corporel est contenu dans la myoglobine.",
+        "La majorité du fer corporel circule librement dans le plasma.",
+        "Le reste du fer est notamment présent dans les enzymes, les cytochromes, la transferrine, la ferritine et l’hémosidérine."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise qu’environ 70 % du fer est dans l’hémoglobine, 6 % dans la myoglobine, et le reste dans divers complexes protéiques ou réserves. Le fer libre n’est pas la forme majoritaire et il est toxique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du bilan quotidien du fer chez l’adulte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les pertes physiologiques sont faibles, de l’ordre de 1 mg par jour.",
+        "Les apports alimentaires sont d’environ 15 mg par jour.",
+        "L’absorption digestive moyenne du fer alimentaire est d’environ 10 %.",
+        "Les pertes physiologiques sont principalement compensées par les transfusions sanguines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le métabolisme du fer fonctionne en circuit fermé : les apports compensent les pertes. Les pertes sont d’environ 1 mg/jour, les apports alimentaires d’environ 15 mg/jour, avec une absorption moyenne proche de 10 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les situations augmentant les besoins ou les apports en fer, quelles propositions sont exactes ?",
+      "choices": [
+        "La grossesse augmente les besoins en fer, estimés à environ 500 mg.",
+        "L’allaitement augmente les besoins d’environ 1 mg par jour.",
+        "Un litre de sang transfusé apporte environ 500 mg de fer.",
+        "Chez la femme non ménopausée, les pertes physiologiques sont diminuées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La grossesse, l’allaitement et les transfusions influencent fortement le bilan martial. Les pertes sont au contraire augmentées chez la femme non ménopausée, notamment par les règles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption intestinale du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est maximale au niveau du duodénum.",
+        "Elle est assurée par les entérocytes au pôle apical.",
+        "Le fer exporté vers le plasma traverse le pôle basolatéral de l’entérocyte.",
+        "Tout le fer absorbé reste définitivement stocké dans l’entérocyte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’absorption est maximale dans le duodénum, via les entérocytes au pôle apical, puis export vers le plasma au pôle basolatéral. Une partie seulement reste sous forme de ferritine dans l’entérocyte et sera éliminée lors de la desquamation."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du fer héminique et non héminique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fer héminique provient notamment de l’hémoglobine et de la myoglobine.",
+        "Le fer héminique est mieux absorbé que le fer non héminique.",
+        "Le fer héminique représente environ les deux tiers du fer absorbé.",
+        "Le fer héminique constitue environ les deux tiers des apports alimentaires totaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer héminique provient de l’hémoglobine et de la myoglobine, il est mieux absorbé et représente environ deux tiers du fer absorbé, alors qu’il ne constitue qu’environ un tiers des apports."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour l’absorption du fer alimentaire non héminique, quelles étapes ou conditions sont nécessaires selon le texte ?",
+      "choices": [
+        "Libération à partir des complexes alimentaires.",
+        "Ionisation du fer.",
+        "Réduction à l’état ferreux, facilitée notamment par la vitamine C.",
+        "Oxydation obligatoire en fer ferrique par les phosphoprotéines du jaune d’œuf."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer non héminique doit être libéré, ionisé, réduit à l’état ferreux puis pris en charge par certains transporteurs alimentaires. Les phosphoprotéines du jaune d’œuf sont citées comme inhibitrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs sont cités comme inhibiteurs de l’absorption du fer non héminique ?",
+      "choices": [
+        "Les phosphoprotéines du jaune d’œuf.",
+        "Les carbonates et les argiles.",
+        "Certains pansements digestifs et les tétracyclines.",
+        "La vitamine C et certains peptides cystéiniques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les phosphoprotéines du jaune d’œuf, les carbonates, les argiles, certains pansements digestifs et les tétracyclines inhibent l’absorption. La vitamine C facilite la réduction du fer non héminique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hepcidine, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle inhibe l’export du fer par les entérocytes et les macrophages.",
+        "Elle se fixe sur la ferroportine et provoque sa dégradation.",
+        "Sa production est augmentée par l’excès de fer.",
+        "Sa production est augmentée par l’anémie et l’hypoxie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hepcidine inhibe l’export du fer via la dégradation de la ferroportine. Elle est augmentée par l’excès de fer, mais diminuée par l’anémie et l’hypoxie."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours des infections et des états inflammatoires, quelles propositions décrivent correctement le rôle de l’hepcidine ?",
+      "choices": [
+        "L’hepcidine est fortement induite.",
+        "Elle entraîne une séquestration du fer dans les entérocytes et les macrophages.",
+        "Elle provoque une augmentation du fer plasmatique disponible.",
+        "La baisse du fer plasmatique contribue à l’anémie inflammatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’inflammation induit fortement l’hepcidine, qui bloque la sortie du fer des entérocytes et macrophages. Il en résulte une baisse du fer plasmatique contribuant à l’anémie inflammatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’origine du fer plasmatique et son transport, quelles propositions sont exactes ?",
+      "choices": [
+        "Environ 95 % du fer plasmatique provient de l’hémolyse macrophagique.",
+        "Environ 5 % du fer plasmatique provient de l’absorption intestinale.",
+        "Le fer plasmatique est transporté par la transferrine.",
+        "La transferrine est principalement synthétisée par les macrophages."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer plasmatique provient essentiellement du recyclage macrophagique et minoritairement de l’absorption intestinale. Il est transporté par la transferrine, synthétisée par l’hépatocyte."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la transferrine, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une glycoprotéine synthétisée par l’hépatocyte.",
+        "Sa concentration normale est d’environ 1 à 3 g/L.",
+        "Chaque molécule peut transporter deux atomes de fer ferrique.",
+        "En conditions physiologiques, elle est totalement saturée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transferrine est une glycoprotéine hépatocytaire, présente à environ 1 à 3 g/L, pouvant transporter deux atomes de fer ferrique. Elle est physiologiquement saturée environ au tiers."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’utilisation médullaire du fer transporté par la transferrine, quelles propositions sont exactes ?",
+      "choices": [
+        "Les précurseurs érythropoïétiques médullaires expriment de nombreux récepteurs de la transferrine.",
+        "La fixation de la transferrine sur son récepteur induit une endocytose.",
+        "La réduction du fer favorise sa dissociation de la transferrine.",
+        "La transferrine bloque l’utilisation du fer pour l’érythropoïèse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les précurseurs érythropoïétiques captent le fer via les récepteurs de la transferrine, suivis d’une endocytose. La réduction du fer permet sa dissociation et son utilisation pour l’érythropoïèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les réserves martiales, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont estimées à 30 à 40 mg/kg.",
+        "Elles sont constituées principalement de ferritine, environ 95 %.",
+        "L’hémosidérine est une forme dégradée de la ferritine.",
+        "Le fer de l’hémosidérine est plus facilement mobilisable que celui de la ferritine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les réserves sont de 30 à 40 mg/kg, surtout sous forme de ferritine. L’hémosidérine est une forme dégradée de la ferritine, moins facilement mobilisable que celle-ci."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont citées comme favorisant l’augmentation des réserves en fer ?",
+      "choices": [
+        "Les syndromes inflammatoires.",
+        "Les transfusions répétées responsables d’hémochromatoses secondaires.",
+        "Certaines thalassémies et l’éthylisme chronique.",
+        "Les règles abondantes isolées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les réserves augmentent dans les syndromes inflammatoires, les hémochromatoses secondaires notamment post-transfusionnelles, certaines thalassémies, l’éthylisme chronique et les hémochromatoses primitives. Les règles abondantes favorisent plutôt la carence martiale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le contenu total approximatif en fer chez l’homme adulte selon le texte ?",
+      "choices": [
+        "Environ 0,5 g.",
+        "Environ 1 g.",
+        "Environ 3 g.",
+        "Environ 10 g."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Chez l’adulte, le contenu total en fer est d’environ 3 g chez l’homme et 2,5 g chez la femme."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal site d’absorption intestinale maximale du fer ?",
+      "choices": [
+        "Estomac.",
+        "Duodénum.",
+        "Iléon terminal.",
+        "Côlon droit."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique que l’absorption intestinale du fer est maximale au niveau du duodénum."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le coefficient de saturation physiologique approximatif de la transferrine ?",
+      "choices": [
+        "Environ 5 %.",
+        "Environ 10 %.",
+        "Environ 33 %.",
+        "Environ 90 %."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "En conditions physiologiques, la transferrine est saturée environ au tiers, avec un coefficient proche de 33 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Combien d’atomes de fer une molécule de ferritine peut-elle contenir environ ?",
+      "choices": [
+        "45 atomes.",
+        "450 atomes.",
+        "4500 atomes.",
+        "45000 atomes."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La ferritine forme une coquille capable de contenir jusqu’à environ 4500 atomes de fer."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle succession d’anomalies apparaît lorsque les réserves en fer diminuent ?",
+      "choices": [
+        "Anémie macrocytaire, hyperchromie, puis régénération.",
+        "Microcytose, hypochromie, puis anémie hypochrome microcytaire arégénérative.",
+        "Hyperchromie, microcytose, puis polyglobulie.",
+        "Anémie régénérative, hypochromie, puis macrocytose."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que la diminution des réserves entraîne successivement une microcytose, une hypochromie, puis une anémie hypochrome microcytaire arégénérative."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle protéine permet l’export du fer hors des entérocytes et des macrophages ?",
+      "choices": [
+        "Ferritine.",
+        "HFE.",
+        "DMT1.",
+        "Ferroportine."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La ferroportine permet l’export du fer hors des entérocytes et des macrophages ; elle est inhibée par l’hepcidine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les réticulocytes dans le contexte décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Leur nombre est bas.",
+        "Leur diminution traduit une insuffisance de production médullaire.",
+        "Leur nombre élevé est l’élément caractéristique décrit.",
+        "Ils permettent d’apprécier indirectement la réponse de production érythroïde."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise que le nombre de réticulocytes est bas, traduisant une insuffisance de production médullaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la sidérémie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond au dosage du fer plasmatique.",
+        "Le prélèvement doit éviter l’hémolyse.",
+        "Elle correspond au dosage des réserves médullaires en fer.",
+        "Elle présente des variations nycthémérales importantes."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La sidérémie dose le fer plasmatique ; le prélèvement doit éviter l’hémolyse et ses variations nycthémérales sont importantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’interprétation d’une hyposidérémie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut s’observer dans une carence martiale.",
+        "Elle peut s’observer dans un syndrome inflammatoire.",
+        "Elle affirme à elle seule une surcharge en fer.",
+        "Elle ne permet pas, isolément, de distinguer toutes les causes citées."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte indique qu’une hyposidérémie s’observe dans les carences martiales et les syndromes inflammatoires, ce qui limite son caractère spécifique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le coefficient de saturation de la transferrine, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond au rapport entre la sidérémie et la capacité totale de fixation de la transferrine.",
+        "Il diminue dans les carences martiales.",
+        "Il correspond au rapport entre la ferritinémie et la sidérémie.",
+        "Il dépend de la sidérémie utilisée dans son calcul."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le coefficient de saturation est le rapport sidérémie/capacité totale de fixation de la transferrine ; il diminue dans les carences martiales."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la capacité totale de fixation de la transferrine, quelles propositions sont exactes ?",
+      "choices": [
+        "Ses valeurs usuelles sont environ de 45 à 75 µmol/L.",
+        "Elle peut être diminuée dans les états inflammatoires.",
+        "Elle est utilisée dans le calcul du coefficient de saturation de la transferrine.",
+        "Elle correspond directement à la coloration de Perls."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La capacité totale de fixation est d’environ 45 à 75 µmol/L, peut diminuer dans l’inflammation et intervient dans le calcul du coefficient de saturation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la ferritinémie basse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet de diagnostiquer une carence martiale.",
+        "Elle peut précéder l’apparition de l’anémie.",
+        "Elle est décrite comme un marqueur de surcharge en fer.",
+        "Elle renseigne sur les réserves martiales."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Une ferritinémie basse permet de diagnostiquer une carence martiale avant l’apparition de l’anémie et reflète les réserves en fer."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une ferritinémie élevée, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle peut orienter vers une surcharge en fer.",
+        "Elle peut augmenter au cours des syndromes inflammatoires.",
+        "Elle affirme toujours une surcharge en fer.",
+        "Son interprétation doit tenir compte du contexte inflammatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La ferritinémie élevée peut orienter vers une surcharge, mais elle peut aussi augmenter lors des syndromes inflammatoires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la coloration de Perls, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet d’évaluer les réserves médullaires en fer.",
+        "Elle permet de rechercher un trouble de l’incorporation du fer.",
+        "Elle correspond au dosage du fer plasmatique.",
+        "Elle peut être utile dans l’exploration de certains syndromes myélodysplasiques."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La coloration de Perls évalue les réserves médullaires et recherche un trouble de l’incorporation du fer, notamment dans certains syndromes myélodysplasiques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des troubles de l’incorporation du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être recherchés par la coloration de Perls.",
+        "Ils sont notamment évoqués dans certains syndromes myélodysplasiques.",
+        "Ils sont explorés par la seule mesure de la sidérémie selon le texte.",
+        "Ils concernent l’utilisation du fer au niveau médullaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte relie la coloration de Perls à la recherche d’un trouble de l’incorporation du fer, notamment dans certains syndromes myélodysplasiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cinétique du fer radioactif, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un examen spécialisé.",
+        "Elle est utilisée dans l’exploration d’anémies de mécanisme complexe.",
+        "Elle constitue l’examen de routine de choix des réserves martiales.",
+        "Elle peut comporter l’étude de la fixation osseuse du fer radioactif."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La cinétique du fer radioactif est un examen spécialisé, utilisé dans les anémies complexes, avec notamment mesure de la fixation osseuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fixation osseuse du fer radioactif, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est augmentée dans les états d’avidité en fer.",
+        "Elle est diminuée dans les aplasies.",
+        "Elle est augmentée dans les aplasies.",
+        "Elle fait partie des mesures possibles lors de la cinétique du fer radioactif."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La fixation osseuse du fer radioactif augmente dans les états d’avidité en fer et diminue dans les aplasies."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’apparition du fer radioactif dans les hématies nouvellement formées, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle reflète l’efficacité de l’érythropoïèse.",
+        "Elle concerne les hématies nouvellement formées.",
+        "Elle mesure directement la ferritinémie.",
+        "Elle appartient à l’exploration spécialisée par cinétique du fer radioactif."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’apparition du fer radioactif dans les hématies nouvellement formées reflète l’efficacité de l’érythropoïèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments du bilan du fer peuvent être modifiés au cours des syndromes inflammatoires selon le texte ?",
+      "choices": [
+        "La sidérémie peut être basse.",
+        "La capacité totale de fixation de la transferrine peut être diminuée.",
+        "La ferritinémie peut être élevée.",
+        "La coloration de Perls devient nécessairement normale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’inflammation, le texte cite l’hyposidérémie, la diminution possible de la capacité totale de fixation et l’élévation possible de la ferritinémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les pièges d’interprétation du bilan martial, quelles propositions sont exactes ?",
+      "choices": [
+        "Une sidérémie basse peut être observée dans deux situations différentes citées : carence martiale et inflammation.",
+        "Une ferritinémie élevée n’est pas synonyme obligatoire de surcharge en fer.",
+        "Les variations nycthémérales de la sidérémie sont importantes.",
+        "La capacité totale de fixation de la transferrine est toujours augmentée dans les états inflammatoires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sidérémie est variable et non spécifique ; la ferritinémie peut augmenter en contexte inflammatoire ; la capacité totale de fixation peut au contraire être diminuée dans l’inflammation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est présenté comme l’examen de choix pour évaluer les réserves martiales ?",
+      "choices": [
+        "La sidérémie",
+        "La ferritinémie",
+        "La capacité totale de fixation de la transferrine",
+        "La cinétique du fer radioactif"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La ferritinémie est l’examen de choix pour évaluer les réserves martiales."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelles sont les valeurs usuelles approximatives de la sidérémie selon le texte ?",
+      "choices": [
+        "3 à 12 µmol/L",
+        "13 à 32 µmol/L",
+        "45 à 75 µmol/L",
+        "30 à 300 µg/L"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les valeurs usuelles de la sidérémie sont environ de 13 à 32 µmol/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelles sont les valeurs usuelles approximatives de la ferritinémie selon le texte ?",
+      "choices": [
+        "13 à 32 µmol/L",
+        "45 à 75 µmol/L",
+        "30 à 300 µg/L",
+        "Environ 33 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les valeurs usuelles de la ferritinémie sont environ de 30 à 300 µg/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel paramètre est normalement d’environ 33 % selon le texte ?",
+      "choices": [
+        "La sidérémie",
+        "La ferritinémie",
+        "Le coefficient de saturation de la transferrine",
+        "La capacité totale de fixation de la transferrine"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le coefficient de saturation de la transferrine est normalement d’environ 33 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation la fixation osseuse du fer radioactif est-elle diminuée selon le texte ?",
+      "choices": [
+        "Les états d’avidité en fer",
+        "Les aplasies",
+        "Les syndromes inflammatoires",
+        "Les surcharges en fer"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La fixation osseuse du fer radioactif est diminuée dans les aplasies."
+    },
+    {
+      "type": "QCS",
+      "question": "Que reflète l’apparition du fer radioactif dans les hématies nouvellement formées ?",
+      "choices": [
+        "L’efficacité de l’érythropoïèse",
+        "La valeur de la capacité totale de fixation",
+        "La présence d’une hémolyse du prélèvement",
+        "La valeur des réserves plasmatiques de ferritine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’apparition du fer radioactif dans les hématies nouvellement formées reflète l’efficacité de l’érythropoïèse."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’importance biologique et pathologique du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fer est un élément central de l’hémoglobine et des protéines héminiques.",
+        "Le fer est indispensable à l’érythropoïèse physiologique.",
+        "La carence martiale est la cause la plus fréquente d’anémie.",
+        "La surcharge en fer est dépourvue de toxicité cellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer est indispensable aux protéines héminiques et à l’érythropoïèse. Sa carence est la cause la plus fréquente d’anémie. À l’inverse, la surcharge en fer est toxique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes du fer dans l’organisme, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fer peut exister sous forme ferreuse.",
+        "Le fer peut exister sous forme ferrique.",
+        "Le fer peut être inclus dans des complexes protéiques.",
+        "Le fer libre est considéré comme non toxique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer existe sous forme ferreuse ou ferrique, libre ou lié à des complexes protéiques. Le fer libre est toxique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les pertes physiologiques de fer chez l’adulte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont faibles, de l’ordre de 1 mg par jour.",
+        "Elles sont augmentées chez la femme non ménopausée.",
+        "Elles peuvent se faire par desquamation des cellules digestives, cutanées et des phanères.",
+        "Les sueurs et l’urine ne participent pas aux pertes de fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les pertes physiologiques sont faibles, augmentées chez la femme non ménopausée, et se font notamment par desquamation digestive et cutanée, phanères, règles, sueurs et urine."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels aliments sont cités comme riches en fer dans le texte ?",
+      "choices": [
+        "Le foie.",
+        "La viande.",
+        "Les lentilles.",
+        "Les œufs."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme aliments riches en fer le foie, la viande, les lentilles et les œufs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’apport martial lié aux transfusions, quelles propositions sont exactes ?",
+      "choices": [
+        "Un litre de sang transfusé apporte environ 500 mg de fer.",
+        "Les transfusions répétées peuvent favoriser une hémochromatose secondaire.",
+        "L’excès de fer transfusionnel est facilement éliminé car le métabolisme du fer est largement ouvert.",
+        "La surcharge en fer peut être toxique."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Un litre de sang transfusé apporte environ 500 mg de fer. Les transfusions répétées peuvent entraîner une surcharge, notamment une hémochromatose secondaire. Le métabolisme du fer fonctionne en circuit fermé avec des pertes faibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le devenir du fer dans l’entérocyte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fer absorbé entre par le pôle apical de l’entérocyte.",
+        "Le fer peut être dirigé vers le pôle basolatéral pour être exporté vers le plasma.",
+        "Une partie du fer reste dans l’entérocyte sous forme de ferritine.",
+        "Tout le fer entré dans l’entérocyte rejoint obligatoirement le plasma."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’absorption se fait au pôle apical, puis le fer peut être exporté au pôle basolatéral. Une partie reste sous forme de ferritine dans l’entérocyte et sera éliminée lors de la desquamation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les différences d’absorption selon la forme alimentaire du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fer héminique provient notamment de l’hémoglobine et de la myoglobine.",
+        "Le fer héminique est mieux absorbé que le fer non héminique.",
+        "Le fer héminique représente environ les deux tiers du fer absorbé.",
+        "Le fer non héminique est toujours mieux absorbé que le fer héminique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer héminique, issu de l’hémoglobine et de la myoglobine, est mieux absorbé et représente environ les deux tiers du fer absorbé malgré une moindre proportion dans les apports."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les protéines impliquées dans le contrôle et l’export du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "DMT1 participe au contrôle de l’absorption intestinale du fer.",
+        "HFE participe au contrôle de l’absorption intestinale du fer.",
+        "La ferroportine permet l’export du fer hors des entérocytes et des macrophages.",
+        "HFE est la principale protéine plasmatique de transport du fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "DMT1 et HFE participent au contrôle de l’absorption intestinale. La ferroportine exporte le fer hors des entérocytes et macrophages. La protéine plasmatique de transport est la transferrine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs facilitant ou inhibant l’absorption du fer non héminique, quelles propositions sont exactes ?",
+      "choices": [
+        "La vitamine C favorise la réduction du fer non héminique à l’état ferreux.",
+        "Certains peptides cystéiniques participent à la réduction du fer non héminique.",
+        "Les sécrétions intestinales, biliaires et pancréatiques facilitent l’absorption.",
+        "Les tétracyclines sont citées comme facilitant l’absorption du fer non héminique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine C, certains peptides cystéiniques et les sécrétions intestinales, biliaires et pancréatiques facilitent l’absorption. Les tétracyclines sont citées comme inhibiteurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont citées comme favorisant une carence martiale ?",
+      "choices": [
+        "Les hémorragies chroniques même minimes.",
+        "Les règles abondantes.",
+        "La grossesse et l’allaitement.",
+        "Des apports alimentaires insuffisants."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La carence martiale peut être favorisée par des pertes chroniques, les règles abondantes, la grossesse, l’allaitement et des apports insuffisants."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modifications de l’hémogramme au cours de la carence martiale, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hémogramme est modifié tardivement.",
+        "Les anomalies de l’hémogramme traduisent un déficit déjà important des réserves.",
+        "L’évolution peut aboutir à une anémie hypochrome microcytaire arégénérative.",
+        "Un hémogramme normal exclut formellement une carence martiale débutante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hémogramme est tardivement modifié dans la carence martiale. Les anomalies témoignent d’un déficit important et peuvent aboutir à une anémie hypochrome microcytaire arégénérative."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations les réserves en fer peuvent-elles augmenter selon le texte ?",
+      "choices": [
+        "Les syndromes inflammatoires.",
+        "Les hémochromatoses secondaires après transfusions répétées.",
+        "Certaines thalassémies et l’éthylisme chronique.",
+        "Les hémochromatoses primitives liées à des anomalies de régulation de l’absorption intestinale du fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les syndromes inflammatoires, les surcharges transfusionnelles, certaines thalassémies, l’éthylisme chronique et les hémochromatoses primitives."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la ferritine et l’hémosidérine, quelles propositions sont exactes ?",
+      "choices": [
+        "La ferritine constitue environ 95 % des réserves en fer.",
+        "L’hémosidérine est une forme dégradée de la ferritine.",
+        "Le fer de la ferritine est plus facilement mobilisable que celui de l’hémosidérine.",
+        "La ferritine est une protéine formant une coquille de stockage du fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les réserves sont surtout constituées de ferritine. L’hémosidérine est une forme dégradée, moins facilement mobilisable. La ferritine forme une coquille de stockage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la localisation des réserves martiales, quelles propositions sont exactes ?",
+      "choices": [
+        "Les réserves sont parenchymateuses.",
+        "Les réserves sont macrophagiques.",
+        "Le foie est le principal organe de stockage.",
+        "Le stockage hépatique concerne notamment les hépatocytes et les cellules de Kupffer."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les réserves martiales sont parenchymateuses et macrophagiques. Le foie est le principal organe de stockage, avec implication des hépatocytes et des cellules de Kupffer."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le contenu total approximatif en fer chez la femme adulte selon le texte ?",
+      "choices": [
+        "1 g.",
+        "2,5 g.",
+        "3 g.",
+        "6 g."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Chez la femme adulte, le contenu total en fer est d’environ 2,5 g."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la concentration normale approximative de la transferrine selon le texte ?",
+      "choices": [
+        "0,1 à 0,3 g/L.",
+        "1 à 3 g/L.",
+        "5 à 10 g/L.",
+        "45 à 75 g/L."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La transferrine est une glycoprotéine synthétisée par l’hépatocyte, avec une concentration normale d’environ 1 à 3 g/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel événement suit la fixation de la transferrine sur son récepteur au niveau des précurseurs érythropoïétiques ?",
+      "choices": [
+        "Une exocytose immédiate du fer.",
+        "Une endocytose.",
+        "Une destruction de la transferrine dans le plasma.",
+        "Une inhibition de l’érythropoïèse."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La fixation de la transferrine sur son récepteur induit une endocytose, permettant ensuite la dissociation et l’utilisation du fer."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la principale source quantitative du fer plasmatique ?",
+      "choices": [
+        "L’absorption intestinale quotidienne.",
+        "L’hémolyse macrophagique.",
+        "Les pertes urinaires compensatrices.",
+        "La desquamation cutanée."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le fer plasmatique provient essentiellement de l’hémolyse macrophagique, environ 95 %, contre environ 5 % pour l’absorption intestinale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’effet de l’excès de fer sur la production d’hepcidine ?",
+      "choices": [
+        "Il l’augmente.",
+        "Il la diminue.",
+        "Il la supprime totalement.",
+        "Il n’a aucun effet décrit."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La production d’hepcidine est augmentée par l’excès de fer."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme explique de nombreuses surcharges héréditaires en fer selon le texte ?",
+      "choices": [
+        "Un déficit primitif ou secondaire en hepcidine.",
+        "Une absence de transferrine alimentaire.",
+        "Une élimination excessive du fer par les phanères.",
+        "Une inhibition permanente de l’absorption duodénale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les déficits primitifs ou secondaires en hepcidine expliquent de nombreuses surcharges héréditaires en fer."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’interprétation d’une sidérémie isolée, quels éléments doivent être pris en compte selon le texte ?",
+      "choices": [
+        "Elle correspond au dosage du fer plasmatique",
+        "Le prélèvement doit éviter l’hémolyse",
+        "Elle présente des variations nycthémérales importantes",
+        "Une valeur basse peut s’observer au cours d’un syndrome inflammatoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La sidérémie mesure le fer plasmatique. Son interprétation est limitée par les variations nycthémérales, le risque d’hémolyse du prélèvement et le fait qu’une hyposidérémie existe aussi dans l’inflammation."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une anémie avec suspicion de mécanisme inflammatoire, quelles anomalies du bilan martial sont compatibles avec le texte ?",
+      "choices": [
+        "Une hyposidérémie",
+        "Une diminution de la capacité totale de fixation de la transferrine",
+        "Une augmentation possible de la ferritinémie",
+        "Une ferritinémie élevée excluant formellement une inflammation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les syndromes inflammatoires peuvent donner une hyposidérémie, diminuer la capacité totale de fixation de la transferrine et augmenter la ferritinémie. Une ferritinémie élevée n’exclut donc pas l’inflammation."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer une carence martiale d’un syndrome inflammatoire devant un fer plasmatique bas, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hyposidérémie seule n’est pas spécifique de la carence martiale",
+        "Une ferritinémie basse permet de diagnostiquer une carence martiale avant l’anémie",
+        "Une capacité totale de fixation diminuée peut s’observer dans les états inflammatoires",
+        "Une ferritinémie élevée peut orienter vers une surcharge mais aussi accompagner l’inflammation"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’hyposidérémie est commune à la carence et à l’inflammation. La ferritine basse est un argument précoce de carence, alors qu’une ferritine élevée peut traduire une surcharge ou une inflammation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les arguments biologiques d’une production médullaire insuffisante ou inefficace, quelles propositions sont exactes ?",
+      "choices": [
+        "Un nombre bas de réticulocytes traduit une insuffisance de production médullaire",
+        "L’apparition du fer radioactif dans les hématies nouvellement formées reflète l’efficacité de l’érythropoïèse",
+        "La coloration de Perls peut rechercher un trouble de l’incorporation du fer",
+        "Une fixation osseuse diminuée du fer radioactif est décrite dans les aplasies"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte relie les réticulocytes bas à une insuffisance de production, l’incorporation du fer radioactif aux hématies à l’efficacité de l’érythropoïèse, et la fixation osseuse diminuée aux aplasies."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’exploration médullaire du métabolisme du fer, quelles affirmations concernant la coloration de Perls sont exactes ?",
+      "choices": [
+        "Elle permet d’évaluer les réserves médullaires en fer",
+        "Elle peut rechercher un trouble de l’incorporation du fer",
+        "Elle est utile notamment dans certains syndromes myélodysplasiques",
+        "Elle mesure directement le fer plasmatique circulant"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La coloration de Perls évalue les réserves médullaires et recherche des troubles d’incorporation, notamment dans certains syndromes myélodysplasiques. La mesure du fer plasmatique relève de la sidérémie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la cinétique du fer radioactif, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un examen spécialisé",
+        "Elle est utilisée dans l’exploration d’anémies de mécanisme complexe",
+        "La fixation osseuse est augmentée dans les états d’avidité en fer",
+        "La fixation osseuse est diminuée dans les aplasies"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La cinétique du fer radioactif est un examen spécialisé des anémies complexes. La fixation osseuse augmente dans les états d’avidité en fer et diminue dans les aplasies."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre paramètres du bilan martial et définition ou valeur usuelle sont exactes ?",
+      "choices": [
+        "Coefficient de saturation de la transferrine : rapport sidérémie/capacité totale de fixation",
+        "Capacité totale de fixation de la transferrine : environ 45 à 75 µmol/L",
+        "Ferritinémie : valeurs usuelles d’environ 13 à 32 µmol/L",
+        "Sidérémie : valeurs usuelles d’environ 30 à 300 µg/L"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le coefficient de saturation est le rapport entre sidérémie et capacité totale de fixation. La capacité totale de fixation est d’environ 45 à 75 µmol/L. Les autres valeurs proposées inversent les paramètres."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une carence martiale, quelles anomalies biologiques citées dans le texte peuvent être observées ?",
+      "choices": [
+        "Une ferritinémie basse",
+        "Une diminution du coefficient de saturation de la transferrine",
+        "Une hyposidérémie",
+        "Un nombre bas de réticulocytes traduisant une insuffisance de production médullaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La carence martiale s’accompagne d’une ferritinémie basse, d’une baisse du coefficient de saturation et d’une hyposidérémie. Le texte mentionne aussi des réticulocytes bas traduisant une production médullaire insuffisante."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations imposent une interprétation prudente d’une ferritinémie élevée ?",
+      "choices": [
+        "Elle peut orienter vers une surcharge en fer",
+        "Elle peut augmenter au cours des syndromes inflammatoires",
+        "Elle ne permet pas à elle seule de conclure systématiquement à une surcharge",
+        "Elle signe obligatoirement une carence martiale précoce"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une ferritinémie élevée peut évoquer une surcharge en fer, mais elle peut aussi s’élever dans les syndromes inflammatoires. Elle ne signe pas une carence, qui est évoquée par une ferritinémie basse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les compartiments explorés par les examens du bilan martial, quelles propositions sont exactes ?",
+      "choices": [
+        "La sidérémie explore le fer plasmatique",
+        "La ferritinémie évalue les réserves martiales",
+        "La coloration de Perls évalue les réserves médullaires en fer",
+        "Le coefficient de saturation relie la sidérémie à la capacité totale de fixation de la transferrine"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue le fer plasmatique dosé par la sidérémie, les réserves évaluées par la ferritinémie, les réserves médullaires explorées par Perls, et le coefficient de saturation calculé à partir de la sidérémie et de la capacité totale de fixation."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une anémie de mécanisme complexe, quels renseignements peuvent être fournis par la cinétique du fer radioactif ?",
+      "choices": [
+        "La mise en évidence d’une avidité en fer par augmentation de la fixation osseuse",
+        "La mise en évidence d’une aplasie par diminution de la fixation osseuse",
+        "L’appréciation de l’efficacité de l’érythropoïèse par l’apparition du fer radioactif dans les hématies nouvellement formées",
+        "La mesure directe des valeurs usuelles de la ferritinémie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cinétique du fer radioactif renseigne sur la fixation osseuse et l’incorporation dans les hématies nouvellement formées. Elle n’est pas décrite comme une mesure directe de la ferritinémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’installation biologique d’une carence martiale avant et pendant l’anémie, quelles propositions sont exactes ?",
+      "choices": [
+        "Une ferritinémie basse peut diagnostiquer la carence avant l’apparition de l’anémie",
+        "La diminution de l’hémoglobine survient après des anomalies morphologiques citées dans le texte",
+        "Le coefficient de saturation de la transferrine diminue dans les carences martiales",
+        "Les réticulocytes bas traduisent une insuffisance de production médullaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte indique que la ferritinémie basse précède l’anémie, que l’hémoglobine diminue après les anomalies morphologiques mentionnées, que le coefficient de saturation baisse dans la carence et que les réticulocytes bas traduisent une production insuffisante."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles valeurs usuelles ou approximatives sont correctement rapportées ?",
+      "choices": [
+        "Sidérémie : environ 13 à 32 µmol/L",
+        "Ferritinémie : environ 30 à 300 µg/L",
+        "Capacité totale de fixation de la transferrine : environ 45 à 75 µmol/L",
+        "Coefficient de saturation de la transferrine : environ 75 %"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les valeurs usuelles indiquées sont : sidérémie 13 à 32 µmol/L, ferritinémie 30 à 300 µg/L, capacité totale de fixation 45 à 75 µmol/L. Le coefficient de saturation normal est d’environ 33 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions justifient de privilégier la ferritinémie pour apprécier les réserves martiales plutôt qu’une sidérémie isolée ?",
+      "choices": [
+        "La ferritinémie est l’examen de choix pour évaluer les réserves martiales",
+        "La sidérémie correspond au dosage du fer plasmatique",
+        "La sidérémie présente des variations nycthémérales importantes",
+        "La ferritinémie basse permet de diagnostiquer une carence martiale avant l’anémie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La ferritinémie reflète les réserves et permet un diagnostic précoce de carence. La sidérémie mesure seulement le fer plasmatique et varie de façon importante au cours du nycthémère."
+    },
+    {
+      "type": "QCS",
+      "question": "Devant une hyposidérémie chez un patient ayant un syndrome inflammatoire, quelle conclusion est la plus rigoureuse selon le texte ?",
+      "choices": [
+        "Elle affirme une carence martiale isolée",
+        "Elle peut être liée au syndrome inflammatoire",
+        "Elle affirme une surcharge en fer",
+        "Elle rend inutile toute interprétation de la ferritinémie"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Une hyposidérémie peut s’observer dans les carences martiales mais aussi dans les syndromes inflammatoires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel résultat permet de diagnostiquer une carence martiale avant l’apparition de l’anémie ?",
+      "choices": [
+        "Une ferritinémie élevée",
+        "Une ferritinémie basse",
+        "Une capacité totale de fixation diminuée dans un état inflammatoire",
+        "Une fixation osseuse diminuée du fer radioactif"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’une ferritinémie basse permet de diagnostiquer une carence martiale avant l’apparition de l’anémie."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la cinétique du fer radioactif, quelle anomalie est décrite dans les aplasies ?",
+      "choices": [
+        "Augmentation de la fixation osseuse",
+        "Diminution de la fixation osseuse",
+        "Augmentation obligatoire de la ferritinémie",
+        "Disparition des variations nycthémérales de la sidérémie"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La fixation osseuse du fer radioactif est diminuée dans les aplasies."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel paramètre du bilan martial a des valeurs usuelles d’environ 45 à 75 µmol/L ?",
+      "choices": [
+        "La sidérémie",
+        "La ferritinémie",
+        "La capacité totale de fixation de la transferrine",
+        "Le coefficient de saturation de la transferrine"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La capacité totale de fixation de la transferrine est d’environ 45 à 75 µmol/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Que traduit l’apparition du fer radioactif dans les hématies nouvellement formées ?",
+      "choices": [
+        "L’efficacité de l’érythropoïèse",
+        "La présence certaine d’un syndrome inflammatoire",
+        "La valeur de la capacité totale de fixation",
+        "La concentration plasmatique de ferritine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’apparition du fer radioactif dans les hématies nouvellement formées reflète l’efficacité de l’érythropoïèse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est indiqué par le texte pour rechercher un trouble de l’incorporation du fer dans certains syndromes myélodysplasiques ?",
+      "choices": [
+        "La coloration de Perls",
+        "La seule sidérémie",
+        "Le coefficient de saturation isolé",
+        "Le dosage isolé de la capacité totale de fixation"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La coloration de Perls permet d’évaluer les réserves médullaires et de rechercher un trouble de l’incorporation du fer, notamment dans certains syndromes myélodysplasiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un raisonnement sur le métabolisme du fer fonctionnant en circuit fermé, quelles propositions sont exactes ?",
+      "choices": [
+        "Les pertes physiologiques faibles doivent être compensées par les apports.",
+        "Lors de l’hémolyse physiologique, les macrophages récupèrent le fer.",
+        "Le fer plasmatique provient majoritairement de l’absorption intestinale quotidienne.",
+        "La desquamation digestive, cutanée et des phanères participe aux pertes physiologiques."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le métabolisme du fer est quasi fermé : les pertes faibles doivent être compensées. Le fer plasmatique provient surtout de l’hémolyse macrophagique, non de l’absorption intestinale."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient présentant un état inflammatoire avec baisse du fer plasmatique, quels mécanismes sont compatibles avec le texte ?",
+      "choices": [
+        "Une induction importante de l’hepcidine peut expliquer l’hyposidérémie.",
+        "La dégradation de la ferroportine limite l’export du fer.",
+        "Cette situation signe nécessairement une carence martiale vraie.",
+        "Le fer peut être séquestré dans les entérocytes et les macrophages."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’inflammation induit l’hepcidine, qui se fixe à la ferroportine et entraîne sa dégradation, avec séquestration du fer et baisse du fer plasmatique. Cela ne signifie pas obligatoirement une carence martiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la biodisponibilité digestive du fer alimentaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La vitamine C facilite l’absorption du fer non héminique en participant à sa réduction.",
+        "Les phosphoprotéines du jaune d’œuf peuvent inhiber l’absorption du fer non héminique.",
+        "Le fer des œufs est mieux absorbé que le fer héminique.",
+        "Les sécrétions intestinales, biliaires et pancréatiques facilitent l’absorption."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le fer non héminique doit notamment être réduit, ce que facilite la vitamine C. Le jaune d’œuf peut inhiber son absorption. Le fer héminique est mieux absorbé que celui des œufs."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la transferrine en situation physiologique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle transporte le fer sous forme ferrique.",
+        "Elle est synthétisée par l’hépatocyte.",
+        "Chaque molécule peut transporter deux atomes de fer.",
+        "Elle est normalement presque totalement saturée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transferrine est une glycoprotéine hépatocytaire transportant deux atomes de fer ferrique. Sa saturation physiologique est d’environ un tiers, et non presque totale."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles correspondent à des causes non primitives d’augmentation des réserves martiales citées dans le texte ?",
+      "choices": [
+        "Les transfusions répétées.",
+        "Certaines thalassémies.",
+        "L’éthylisme chronique.",
+        "Les anomalies primitives de la régulation de l’absorption intestinale du fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les transfusions répétées, certaines thalassémies et l’éthylisme chronique sont cités parmi les situations augmentant les réserves. Les anomalies primitives de régulation relèvent des hémochromatoses primitives."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles conséquences sont attendues d’une forte activité de l’hepcidine sur la ferroportine ?",
+      "choices": [
+        "Une diminution du passage du fer de l’entérocyte vers le plasma.",
+        "Une diminution de la libération du fer par les macrophages.",
+        "Une augmentation directe de la saturation de la transferrine.",
+        "Une contribution possible à l’anémie inflammatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’hepcidine dégrade la ferroportine, ce qui bloque l’export du fer par les entérocytes et macrophages, abaisse le fer plasmatique et contribue à l’anémie inflammatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’utilisation du fer par les précurseurs érythropoïétiques médullaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils expriment de nombreux récepteurs de la transferrine.",
+        "La fixation de la transferrine sur son récepteur induit une endocytose.",
+        "La réduction du fer favorise sa dissociation de la transferrine.",
+        "Le fer ainsi délivré est principalement destiné à la synthèse de myoglobine médullaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les précurseurs érythropoïétiques captent le fer via les récepteurs de la transferrine ; l’endocytose puis la réduction du fer permettent son utilisation pour l’érythropoïèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les réserves martiales, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont estimées à environ 30 à 40 mg/kg.",
+        "Elles sont constituées majoritairement de ferritine.",
+        "L’hémosidérine correspond à une forme dégradée de la ferritine.",
+        "Le fer de l’hémosidérine est plus facilement mobilisable que celui de la ferritine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les réserves sont de 30 à 40 mg/kg, composées surtout de ferritine. L’hémosidérine est une forme dégradée, moins facilement mobilisable que la ferritine."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’évolution biologique d’une carence martiale, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hémogramme est modifié tardivement.",
+        "Les anomalies hématologiques traduisent un déficit déjà important des réserves.",
+        "L’anémie terminale décrite est hypochrome microcytaire arégénérative.",
+        "L’anémie apparaît avant la microcytose érythrocytaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hémogramme est tardivement perturbé. La séquence décrite est microcytose, hypochromie, puis anémie hypochrome microcytaire arégénérative."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les différences physiologiques entre homme adulte et femme adulte, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Le contenu total en fer est d’environ 3 g chez l’homme.",
+        "Le contenu total en fer est d’environ 2,5 g chez la femme.",
+        "Les pertes en fer sont augmentées chez la femme non ménopausée.",
+        "La proportion du fer contenu dans l’hémoglobine est indiquée comme nulle chez la femme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte donne environ 3 g chez l’homme et 2,5 g chez la femme. Les pertes sont augmentées chez la femme non ménopausée. Environ 70 % du fer est contenu dans l’hémoglobine."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient recevant du fer oral non héminique, quels facteurs cités peuvent diminuer son absorption ?",
+      "choices": [
+        "Les tétracyclines.",
+        "Certains pansements digestifs.",
+        "Les argiles.",
+        "La vitamine C."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tétracyclines, certains pansements digestifs et les argiles inhibent l’absorption du fer non héminique. La vitamine C la facilite."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles peuvent favoriser une carence martiale selon le texte ?",
+      "choices": [
+        "Des hémorragies chroniques même minimes.",
+        "Des règles abondantes.",
+        "Des apports insuffisants.",
+        "Une hémochromatose primitive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La carence martiale est favorisée par les pertes chroniques, les règles abondantes et les apports insuffisants. L’hémochromatose primitive correspond à une surcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des formes et localisations fonctionnelles du fer dans l’organisme, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fer est l’élément central de l’hémoglobine.",
+        "Une fraction du fer est contenue dans la myoglobine.",
+        "Une partie du fer est présente dans les enzymes et les cytochromes.",
+        "La transferrine constitue la principale forme de réserve intracellulaire du fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer est central dans l’hémoglobine, présent dans la myoglobine, les enzymes et les cytochromes. Les réserves sont surtout ferritine et hémosidérine, non transferrine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation de l’hepcidine, quelles propositions sont exactes ?",
+      "choices": [
+        "L’excès de fer augmente sa production.",
+        "L’anémie diminue sa production.",
+        "L’hypoxie diminue sa production.",
+        "Les déficits en hepcidine protègent des surcharges héréditaires en fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hepcidine augmente en cas d’excès de fer et diminue en cas d’anémie ou d’hypoxie. Ses déficits expliquent au contraire de nombreuses surcharges héréditaires en fer."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient reçoit 2 litres de sang transfusé. Quelle quantité approximative de fer reçoit-il selon le texte ?",
+      "choices": [
+        "250 mg",
+        "500 mg",
+        "1000 mg",
+        "2000 mg"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Un litre de sang transfusé apporte environ 500 mg de fer ; 2 litres apportent donc environ 1000 mg."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association correspond au principal organe de stockage du fer et aux cellules hépatiques citées ?",
+      "choices": [
+        "Rate : lymphocytes et plasmocytes.",
+        "Foie : hépatocytes et cellules de Kupffer.",
+        "Moelle osseuse : mégacaryocytes et adipocytes.",
+        "Rein : podocytes et cellules tubulaires."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le foie est le principal organe de stockage, au niveau des hépatocytes et des cellules de Kupffer."
+    },
+    {
+      "type": "QCS",
+      "question": "Après endocytose du complexe transferrine-récepteur, quelle modification favorise la dissociation du fer de la transferrine ?",
+      "choices": [
+        "L’oxydation du fer.",
+        "La réduction du fer.",
+        "La glycosylation de la transferrine.",
+        "La polymérisation de la ferritine."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que la réduction du fer favorise sa dissociation de la transferrine et son utilisation pour l’érythropoïèse."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’anémie inflammatoire décrite, quel mécanisme explique directement la baisse du fer plasmatique ?",
+      "choices": [
+        "La séquestration du fer induite par l’hepcidine dans les entérocytes et les macrophages.",
+        "La destruction directe de la transferrine circulante.",
+        "L’augmentation massive de l’absorption duodénale du fer.",
+        "La transformation de toute la ferritine en hémoglobine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’inflammation induit fortement l’hepcidine, entraînant la séquestration du fer dans les entérocytes et macrophages, avec baisse du fer plasmatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Avec des apports alimentaires de 15 mg/jour et une absorption moyenne de 10 %, quelle quantité de fer est absorbée quotidiennement en moyenne ?",
+      "choices": [
+        "0,15 mg/jour",
+        "1,5 mg/jour",
+        "5 mg/jour",
+        "10 mg/jour"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "10 % de 15 mg correspondent à environ 1,5 mg de fer absorbé par jour."
+    },
+    {
+      "type": "QCS",
+      "question": "Laquelle des voies suivantes n’est pas citée comme voie de perte physiologique du fer dans le texte ?",
+      "choices": [
+        "Les urines.",
+        "Les sueurs.",
+        "Les phanères.",
+        "La bile."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Les pertes citées se font par desquamation digestive, cutanée et des phanères, règles, sueurs et urine. La bile est citée comme facilitant l’absorption, non comme voie de perte."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une prescription de sidérémie, quelles affirmations sont justes concernant les conditions et limites d’interprétation du dosage ?",
+      "choices": [
+        "La sidérémie correspond au dosage du fer plasmatique.",
+        "Un prélèvement hémolysé est acceptable pour interpréter correctement la sidérémie.",
+        "Les variations nycthémérales de la sidérémie sont importantes.",
+        "Une hyposidérémie peut s’observer aussi bien dans une carence martiale que dans un syndrome inflammatoire."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La sidérémie mesure le fer plasmatique. Le prélèvement doit éviter l’hémolyse et les variations nycthémérales sont importantes. Une hyposidérémie n’est pas spécifique de la carence martiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient sans diminution de l’hémoglobine, une ferritinémie basse permet quelles conclusions selon le texte ?",
+      "choices": [
+        "Elle permet de diagnostiquer une carence martiale avant l’apparition de l’anémie.",
+        "Elle traduit une diminution des réserves martiales.",
+        "Elle constitue un argument en faveur d’une surcharge en fer.",
+        "Elle correspond à l’examen de choix pour évaluer les réserves martiales."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La ferritinémie est l’examen de choix des réserves martiales. Lorsqu’elle est basse, elle permet le diagnostic de carence martiale, même avant l’anémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Un bilan martial montre une sidérémie basse, une capacité totale de fixation de la transferrine diminuée et une ferritinémie élevée. Quelles interprétations sont compatibles avec le texte ?",
+      "choices": [
+        "Ce profil peut s’intégrer dans un syndrome inflammatoire.",
+        "La sidérémie basse suffit à elle seule à affirmer une carence martiale.",
+        "La ferritinémie élevée peut être observée au cours d’un syndrome inflammatoire.",
+        "La diminution de la capacité totale de fixation de la transferrine peut accompagner un état inflammatoire."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le syndrome inflammatoire peut associer hyposidérémie, diminution de la capacité totale de fixation de la transferrine et élévation de la ferritinémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour une sidérémie à 16 µmol/L et une capacité totale de fixation de la transferrine à 48 µmol/L, quelles propositions sont exactes ?",
+      "choices": [
+        "Le coefficient de saturation se calcule par le rapport sidérémie/capacité totale de fixation.",
+        "Le coefficient de saturation est approximativement de 33 %.",
+        "La capacité totale de fixation rapportée est dans l’intervalle usuel indiqué par le texte.",
+        "Ce résultat impose, à lui seul, le diagnostic de carence martiale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le coefficient de saturation est le rapport sidérémie/CTF. Ici 16/48 ≈ 33 %, valeur physiologique approximative. La CTF usuelle est environ 45 à 75 µmol/L."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la coloration de Perls, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet d’évaluer les réserves médullaires en fer.",
+        "Elle peut rechercher un trouble de l’incorporation du fer.",
+        "Elle est notamment utile dans certains syndromes myélodysplasiques.",
+        "Elle sert à corriger les variations nycthémérales de la sidérémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La coloration de Perls évalue les réserves médullaires et recherche un trouble d’incorporation du fer, notamment dans certains syndromes myélodysplasiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’exploration par fer radioactif, quelles associations sont correctes ?",
+      "choices": [
+        "Fixation osseuse augmentée : état d’avidité en fer.",
+        "Fixation osseuse diminuée : aplasie.",
+        "Apparition dans les hématies nouvellement formées : efficacité de l’érythropoïèse.",
+        "Examen de routine de première intention pour toute baisse de ferritine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cinétique du fer radioactif est spécialisée. La fixation osseuse augmente dans les états d’avidité en fer, diminue dans les aplasies, et l’apparition dans les hématies reflète l’efficacité de l’érythropoïèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’installation biologique décrite d’une carence martiale, quelles propositions sont exactes ?",
+      "choices": [
+        "La microcytose précède l’hypochromie dans la succession décrite.",
+        "La diminution de l’hémoglobine survient après l’hypochromie.",
+        "Le nombre de réticulocytes est bas.",
+        "Le taux bas de réticulocytes traduit une hyperproduction médullaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La succession rapportée est microcytose, puis hypochromie, puis diminution de l’hémoglobine. Les réticulocytes sont bas, traduisant une insuffisance de production médullaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la capacité totale de fixation de la transferrine, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle intervient dans le calcul du coefficient de saturation de la transferrine.",
+        "Ses valeurs usuelles sont environ 45 à 75 µmol/L.",
+        "Elle peut être diminuée dans les états inflammatoires.",
+        "Elle correspond directement au dosage de la ferritinémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La capacité totale de fixation sert de dénominateur au coefficient de saturation, vaut environ 45 à 75 µmol/L et peut diminuer dans l’inflammation."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour choisir un examen du métabolisme du fer selon l’objectif clinique, quelles propositions sont exactes ?",
+      "choices": [
+        "Évaluer les réserves martiales : ferritinémie.",
+        "Explorer une anémie de mécanisme complexe : cinétique du fer radioactif.",
+        "Rechercher un trouble d’incorporation médullaire : coloration de Perls.",
+        "Évaluer les réserves médullaires : variations nycthémérales de la sidérémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La ferritinémie évalue les réserves, la cinétique du fer radioactif explore certaines anémies complexes, et Perls permet l’étude des réserves médullaires et de l’incorporation du fer."
+    },
+    {
+      "type": "QCM",
+      "question": "Face à une ferritinémie élevée, quelles attitudes ou interprétations sont conformes au texte ?",
+      "choices": [
+        "Elle peut orienter vers une surcharge en fer.",
+        "Elle peut aussi augmenter au cours d’un syndrome inflammatoire.",
+        "Elle affirme toujours une surcharge en fer sans autre contexte.",
+        "Elle ne doit pas être interprétée comme équivalente à une ferritinémie basse."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Une ferritinémie élevée oriente éventuellement vers une surcharge, mais elle peut aussi être liée à l’inflammation. Elle n’a pas la même signification qu’une ferritinémie basse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles correspondances entre paramètre biologique et information explorée sont exactes ?",
+      "choices": [
+        "Sidérémie : fer plasmatique.",
+        "Ferritinémie : réserves martiales.",
+        "Coloration de Perls : réserves médullaires en fer.",
+        "Réticulocytes bas : excès d’efficacité de l’érythropoïèse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sidérémie dose le fer plasmatique, la ferritinémie apprécie les réserves martiales, et Perls évalue les réserves médullaires. Des réticulocytes bas traduisent une insuffisance de production médullaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une hyposidérémie, quelles propositions évitent un piège diagnostique selon le texte ?",
+      "choices": [
+        "Elle peut être observée dans une carence martiale.",
+        "Elle peut être observée dans un syndrome inflammatoire.",
+        "Elle doit être interprétée avec les autres paramètres du bilan martial.",
+        "Elle suffit toujours à distinguer carence martiale et inflammation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hyposidérémie n’est pas spécifique : elle existe dans la carence martiale et l’inflammation. L’interprétation isolée est donc insuffisante."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles anomalies ou résultats sont compatibles avec une carence martiale selon le texte ?",
+      "choices": [
+        "Diminution du coefficient de saturation de la transferrine.",
+        "Ferritinémie basse.",
+        "Hyposidérémie.",
+        "Augmentation obligatoire de la capacité totale de fixation de la transferrine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans la carence martiale, le coefficient de saturation diminue, la ferritinémie peut être basse et une hyposidérémie peut être observée. Le texte ne mentionne pas d’augmentation obligatoire de la CTF."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations de valeurs usuelles ou approximatives sont exactes selon le texte ?",
+      "choices": [
+        "Sidérémie : environ 13 à 32 µmol/L.",
+        "Capacité totale de fixation de la transferrine : environ 45 à 75 µmol/L.",
+        "Ferritinémie : environ 30 à 300 µg/L.",
+        "Coefficient de saturation physiologique : environ 75 %."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les valeurs usuelles indiquées sont : sidérémie 13–32 µmol/L, CTF 45–75 µmol/L, ferritinémie 30–300 µg/L. Le coefficient de saturation normal est environ 33 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est présenté comme l’examen de choix pour évaluer les réserves martiales ?",
+      "choices": [
+        "La sidérémie isolée.",
+        "La ferritinémie.",
+        "La numération des réticulocytes.",
+        "La mesure des variations nycthémérales."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La ferritinémie est l’examen de choix pour apprécier les réserves martiales."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la valeur usuelle approximative de la sidérémie indiquée dans le texte ?",
+      "choices": [
+        "3 à 12 µmol/L.",
+        "13 à 32 µmol/L.",
+        "45 à 75 µmol/L.",
+        "30 à 300 µmol/L."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La sidérémie normale est indiquée comme étant environ 13 à 32 µmol/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les aplasies, que devient la fixation osseuse du fer radioactif selon le texte ?",
+      "choices": [
+        "Elle augmente.",
+        "Elle diminue.",
+        "Elle devient toujours nulle.",
+        "Elle reflète uniquement la ferritinémie."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La fixation osseuse du fer radioactif est diminuée dans les aplasies."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel rapport définit le coefficient de saturation de la transferrine ?",
+      "choices": [
+        "Ferritinémie/sidérémie.",
+        "Sidérémie/capacité totale de fixation de la transferrine.",
+        "Capacité totale de fixation/ferritinémie.",
+        "Réticulocytes/hémoglobine."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le coefficient de saturation correspond au rapport entre la sidérémie et la capacité totale de fixation de la transferrine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle signification a l’apparition du fer radioactif dans les hématies nouvellement formées ?",
+      "choices": [
+        "Elle reflète l’efficacité de l’érythropoïèse.",
+        "Elle affirme une surcharge en fer.",
+        "Elle mesure directement les réserves hépatiques.",
+        "Elle diagnostique une hémolyse du prélèvement."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’apparition du fer radioactif dans les hématies nouvellement formées reflète l’efficacité de l’érythropoïèse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle valeur usuelle approximative correspond à la ferritinémie selon le texte ?",
+      "choices": [
+        "1 à 5 µg/L.",
+        "13 à 32 µg/L.",
+        "30 à 300 µg/L.",
+        "450 à 750 µg/L."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les valeurs usuelles de la ferritinémie sont indiquées comme étant environ 30 à 300 µg/L."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fer héminique dans l’alimentation, quelles propositions sont exactes ?",
+      "choices": [
+        "Il provient notamment de l’hémoglobine et de la myoglobine.",
+        "Il est mieux absorbé que le fer non héminique.",
+        "Il représente environ les deux tiers des apports alimentaires en fer.",
+        "Il est moins bien absorbé que le fer des complexes organiques végétaux."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le fer héminique provient de l’hémoglobine et de la myoglobine, et il est mieux absorbé que le fer non héminique. Il représente environ un tiers des apports mais environ deux tiers du fer absorbé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le devenir entérocytaire du fer absorbé, quelles propositions sont exactes ?",
+      "choices": [
+        "L’absorption intestinale est maximale au niveau du duodénum.",
+        "Le fer est pris en charge au pôle apical des entérocytes puis dirigé vers le pôle basolatéral.",
+        "Une partie du fer reste sous forme de ferritine dans l’entérocyte.",
+        "Tout le fer absorbé par l’entérocyte est obligatoirement exporté vers le plasma."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’absorption est maximale dans le duodénum. Le fer entre par le pôle apical, peut être exporté au pôle basolatéral, mais une partie reste sous forme de ferritine et sera éliminée lors de la desquamation cellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours d’un état inflammatoire, quels mécanismes liés à l’hepcidine sont conformes au texte ?",
+      "choices": [
+        "L’hepcidine est fortement induite.",
+        "Elle se fixe sur la ferroportine.",
+        "Elle provoque la dégradation de la ferroportine.",
+        "Elle augmente directement l’export du fer vers le plasma."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’inflammation induit fortement l’hepcidine. Celle-ci se fixe à la ferroportine et entraîne sa dégradation, ce qui inhibe l’export du fer par les entérocytes et les macrophages."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles peuvent augmenter les réserves martiales selon le texte ?",
+      "choices": [
+        "Les transfusions répétées.",
+        "Certaines thalassémies.",
+        "L’éthylisme chronique.",
+        "Les règles abondantes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les réserves augmentent notamment dans les hémochromatoses secondaires après transfusions répétées, certaines thalassémies et l’éthylisme chronique. Les règles abondantes favorisent plutôt la carence martiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la ferritine et l’hémosidérine comme formes de réserve du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "La ferritine constitue environ 95 % des réserves en fer.",
+        "L’hémosidérine est une forme dégradée de la ferritine.",
+        "Le fer de la ferritine est plus facilement mobilisable que celui de l’hémosidérine.",
+        "L’hémosidérine assure le transport plasmatique du fer vers la moelle osseuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les réserves sont surtout sous forme de ferritine, l’hémosidérine étant une forme dégradée. Le fer ferritinique est plus mobilisable. Le transport plasmatique est assuré par la transferrine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’utilisation du fer par les précurseurs érythropoïétiques médullaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils expriment de nombreux récepteurs de la transferrine.",
+        "La fixation de la transferrine à son récepteur induit une endocytose.",
+        "La réduction du fer favorise sa dissociation de la transferrine.",
+        "Le complexe transferrine-récepteur est éliminé par desquamation cellulaire intestinale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les précurseurs érythropoïétiques médullaires captent le fer via les récepteurs de la transferrine. La fixation induit l’endocytose, puis la réduction du fer favorise sa dissociation et son utilisation pour l’érythropoïèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’origine du fer plasmatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il provient essentiellement de l’hémolyse macrophagique.",
+        "L’absorption intestinale en fournit une fraction minoritaire.",
+        "La transferrine le transporte vers la moelle osseuse ou vers les réserves.",
+        "Les macrophages ne participent pas à la récupération du fer lors de l’hémolyse physiologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Environ 95 % du fer plasmatique provient de l’hémolyse macrophagique et environ 5 % de l’absorption intestinale. Il est ensuite transporté par la transferrine."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations favorisent une carence martiale selon le texte ?",
+      "choices": [
+        "Des hémorragies chroniques même minimes.",
+        "Des règles abondantes.",
+        "La grossesse et l’allaitement.",
+        "Des transfusions répétées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hémorragies chroniques, les règles abondantes, la grossesse, l’allaitement et les apports insuffisants favorisent la carence martiale. Les transfusions répétées favorisent plutôt une surcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour l’absorption du fer alimentaire non héminique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il doit être libéré des complexes alimentaires.",
+        "Il doit être ionisé puis réduit à l’état ferreux.",
+        "La vitamine C et certains peptides cystéiniques peuvent participer à sa réduction.",
+        "Il doit être oxydé à l’état ferrique pour être absorbé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer non héminique doit être libéré, ionisé et réduit à l’état ferreux, notamment grâce à la vitamine C et à certains peptides cystéiniques. L’oxydation à l’état ferrique n’est pas la condition décrite."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont décrits comme inhibiteurs de l’absorption du fer non héminique ?",
+      "choices": [
+        "Les phosphoprotéines du jaune d’œuf.",
+        "Les carbonates et les argiles.",
+        "Les tétracyclines.",
+        "Les sécrétions biliaires et pancréatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les phosphoprotéines du jaune d’œuf, les carbonates, les argiles, certains pansements digestifs et les tétracyclines inhibent l’absorption. Les sécrétions intestinales, biliaires et pancréatiques la facilitent."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation de la production d’hepcidine, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle augmente en cas d’excès de fer.",
+        "Elle diminue en cas d’anémie.",
+        "Elle diminue en cas d’hypoxie.",
+        "Ses déficits primitifs ou secondaires protègent des surcharges héréditaires en fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La production d’hepcidine est augmentée par l’excès de fer et diminuée par l’anémie et l’hypoxie. Les déficits en hepcidine expliquent au contraire de nombreuses surcharges héréditaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le bilan quotidien simplifié du fer chez l’adulte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les pertes physiologiques sont d’environ 1 mg par jour.",
+        "Des apports de 15 mg/jour avec une absorption de 10 % correspondent à environ 1,5 mg absorbé par jour.",
+        "Les pertes sont augmentées chez la femme non ménopausée.",
+        "L’allaitement diminue les besoins en fer d’environ 1 mg/jour."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les pertes physiologiques sont faibles, environ 1 mg/jour, augmentées chez la femme non ménopausée. Avec 15 mg d’apport et 10 % d’absorption, environ 1,5 mg sont absorbés. L’allaitement augmente les besoins d’environ 1 mg/jour."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les apports martiaux particuliers, quelles propositions sont exactes ?",
+      "choices": [
+        "Un litre de sang transfusé apporte environ 500 mg de fer.",
+        "Trois litres de sang transfusé apportent environ 1500 mg de fer.",
+        "Les besoins liés à la grossesse sont estimés à environ 500 mg.",
+        "L’allaitement n’entraîne aucun besoin martial supplémentaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un litre de sang apporte environ 500 mg de fer, donc trois litres environ 1500 mg. La grossesse nécessite environ 500 mg supplémentaires et l’allaitement environ 1 mg/jour."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les protéines du métabolisme du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "La transferrine est une glycoprotéine synthétisée par l’hépatocyte.",
+        "Chaque molécule de transferrine peut transporter deux atomes de fer ferrique.",
+        "DMT1 et HFE participent au contrôle de l’absorption intestinale du fer.",
+        "La ferroportine est le principal transporteur plasmatique du fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transferrine, synthétisée par l’hépatocyte, transporte deux atomes de fer ferrique. DMT1 et HFE contrôlent l’absorption intestinale. La ferroportine permet l’export cellulaire du fer, tandis que le transport plasmatique est assuré par la transferrine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’autre nom de la transferrine selon le texte ?",
+      "choices": [
+        "Sidérophiline.",
+        "Hémosidérine.",
+        "Ferroportine.",
+        "Ferritine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La transferrine est aussi appelée sidérophiline."
+    },
+    {
+      "type": "QCS",
+      "question": "Sous quelle forme de valence le fer est-il transporté par la transferrine ?",
+      "choices": [
+        "Fer ferreux.",
+        "Fer ferrique.",
+        "Fer héminique uniquement.",
+        "Fer libre sans valence définie."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Chaque molécule de transferrine peut transporter deux atomes de fer ferrique."
+    },
+    {
+      "type": "QCS",
+      "question": "Au niveau hépatique, quelles cellules sont citées comme sites de stockage du fer ?",
+      "choices": [
+        "Les seuls hépatocytes.",
+        "Les seuls entérocytes.",
+        "Les hépatocytes et les cellules de Kupffer.",
+        "Les précurseurs érythropoïétiques uniquement."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le foie est le principal organe de stockage, au niveau des hépatocytes et des cellules de Kupffer."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’action directe de l’hepcidine sur la ferroportine ?",
+      "choices": [
+        "Elle se fixe sur la ferroportine et provoque sa dégradation.",
+        "Elle augmente sa synthèse par l’hépatocyte.",
+        "Elle transforme la ferroportine en transferrine.",
+        "Elle favorise l’export du fer par les macrophages."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hepcidine inhibe l’export du fer en se fixant à la ferroportine et en provoquant sa dégradation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle source correspond au fer héminique alimentaire ?",
+      "choices": [
+        "Les carbonates.",
+        "L’hémoglobine et la myoglobine.",
+        "Les argiles.",
+        "Les phosphoprotéines du jaune d’œuf."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le fer héminique provient de l’hémoglobine et de la myoglobine."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors de l’hémolyse physiologique, quelles cellules récupèrent le fer ?",
+      "choices": [
+        "Les macrophages.",
+        "Les entérocytes duodénaux uniquement.",
+        "Les cellules cutanées desquamées.",
+        "Les réticulocytes circulants."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Lors de l’hémolyse physiologique, les macrophages récupèrent le fer, qui est ensuite pris en charge dans le plasma par la transferrine."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la chronologie biologique décrite d’une carence martiale évolutive, quelles propositions sont exactes ?",
+      "choices": [
+        "La microcytose précède l’hypochromie.",
+        "L’hypochromie précède la diminution de l’hémoglobine.",
+        "Un nombre bas de réticulocytes traduit une insuffisance de production médullaire.",
+        "Une réticulocytose élevée est l’anomalie attendue dans ce mécanisme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une succession microcytose, puis hypochromie, puis baisse de l’hémoglobine. Les réticulocytes sont bas, témoignant d’une production médullaire insuffisante."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour interpréter correctement une sidérémie, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "Le prélèvement doit éviter l’hémolyse.",
+        "Il existe des variations nycthémérales importantes.",
+        "La sidérémie correspond au dosage du fer plasmatique.",
+        "Sa valeur usuelle est de 30 à 300 µg/L."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sidérémie dose le fer plasmatique, avec nécessité d’éviter l’hémolyse et de tenir compte des variations nycthémérales. Les valeurs 30 à 300 µg/L correspondent à la ferritinémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient non encore anémique, quelles conclusions sont possibles devant une ferritinémie basse selon le texte ?",
+      "choices": [
+        "Elle permet de diagnostiquer une carence martiale.",
+        "Elle traduit une diminution des réserves martiales.",
+        "Elle impose que l’hémoglobine soit déjà diminuée.",
+        "Elle rend inutile toute interprétation du contexte clinique."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Une ferritinémie basse permet le diagnostic de carence martiale avant même l’apparition de l’anémie, car elle explore les réserves martiales."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours d’un syndrome inflammatoire, quelles modifications du bilan martial sont compatibles avec le texte ?",
+      "choices": [
+        "Une hyposidérémie peut être observée.",
+        "La capacité totale de fixation de la transferrine peut être diminuée.",
+        "La ferritinémie peut être augmentée.",
+        "La ferritinémie élevée affirme toujours une surcharge en fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’inflammation peut entraîner une baisse de la sidérémie, une diminution de la capacité totale de fixation de la transferrine et une élévation de la ferritinémie. Une ferritinémie élevée n’est donc pas spécifique d’une surcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le coefficient de saturation de la transferrine, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est calculé à partir de la sidérémie et de la capacité totale de fixation de la transferrine.",
+        "Sa valeur normale approximative est de 33 %.",
+        "Il diminue dans les carences martiales.",
+        "Il correspond au rapport ferritinémie/sidérémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le coefficient de saturation correspond au rapport entre la sidérémie et la capacité totale de fixation de la transferrine. Il est normalement proche de 33 % et diminue dans les carences martiales."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour l’évaluation des réserves en fer, quelles propositions sont justes ?",
+      "choices": [
+        "La ferritinémie est l’examen de choix.",
+        "La coloration de Perls permet d’évaluer les réserves médullaires.",
+        "Une ferritinémie élevée peut orienter vers une surcharge en fer.",
+        "La sidérémie isolée est présentée comme l’examen de choix des réserves martiales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La ferritinémie est l’examen de choix pour les réserves martiales. La coloration de Perls apprécie les réserves médullaires. La sidérémie explore le fer plasmatique et n’est pas l’examen de choix des réserves."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la coloration de Perls, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle peut rechercher un trouble de l’incorporation du fer.",
+        "Elle permet d’évaluer les réserves médullaires en fer.",
+        "Elle est notamment utile dans certains syndromes myélodysplasiques.",
+        "Elle mesure les variations nycthémérales du fer plasmatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La coloration de Perls explore les réserves médullaires et les troubles de l’incorporation du fer, notamment dans certains syndromes myélodysplasiques. Les variations nycthémérales concernent la sidérémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cinétique du fer radioactif, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un examen spécialisé.",
+        "Elle est utilisée dans l’exploration d’anémies de mécanisme complexe.",
+        "La fixation osseuse est augmentée dans les états d’avidité en fer.",
+        "Elle remplace systématiquement la ferritinémie pour l’étude des réserves martiales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cinétique du fer radioactif est spécialisée et utile dans les anémies complexes. La fixation osseuse augmente en cas d’avidité en fer. Le texte ne la présente pas comme un substitut systématique à la ferritinémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’interprétation d’un examen au fer radioactif, quelles associations sont correctes ?",
+      "choices": [
+        "Fixation osseuse diminuée : aplasie.",
+        "Fixation osseuse augmentée : état d’avidité en fer.",
+        "Apparition dans les hématies nouvellement formées : efficacité de l’érythropoïèse.",
+        "Fixation osseuse diminuée : carence martiale certaine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte relie la baisse de fixation osseuse aux aplasies, son augmentation aux états d’avidité en fer, et l’apparition du fer radioactif dans les hématies à l’efficacité de l’érythropoïèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une hyposidérémie, quelles interprétations sont autorisées par le texte ?",
+      "choices": [
+        "Elle peut s’observer dans une carence martiale.",
+        "Elle peut s’observer dans un syndrome inflammatoire.",
+        "Elle ne permet pas, isolément, de trancher entre carence martiale et inflammation.",
+        "Elle affirme une surcharge en fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une hyposidérémie est décrite à la fois dans les carences martiales et les syndromes inflammatoires ; elle n’est donc pas spécifique. Elle n’affirme pas une surcharge en fer."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une exploration biologique du métabolisme du fer, quelles correspondances sont exactes ?",
+      "choices": [
+        "Sidérémie : fer plasmatique.",
+        "Ferritinémie : réserves martiales.",
+        "Capacité totale de fixation : élément du calcul du coefficient de saturation.",
+        "Réticulocytes bas : insuffisance de production médullaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte associe la sidérémie au fer plasmatique, la ferritinémie aux réserves, la capacité totale de fixation au calcul du coefficient de saturation, et les réticulocytes bas à une production médullaire insuffisante."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les valeurs suivantes, lesquelles sont cohérentes avec les intervalles usuels ou approximations du texte ?",
+      "choices": [
+        "Une sidérémie à 10 µmol/L est inférieure aux valeurs usuelles indiquées.",
+        "Une capacité totale de fixation de la transferrine à 60 µmol/L est dans l’intervalle usuel indiqué.",
+        "Une ferritinémie à 500 µg/L est supérieure aux valeurs usuelles indiquées.",
+        "Un coefficient de saturation de la transferrine d’environ 33 % correspond à la valeur normale approximative."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les valeurs usuelles indiquées sont : sidérémie 13 à 32 µmol/L, capacité totale de fixation 45 à 75 µmol/L, ferritinémie 30 à 300 µg/L, coefficient de saturation environ 33 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Face à une ferritinémie élevée, quelles propositions évitent un piège d’interprétation ?",
+      "choices": [
+        "Elle peut orienter vers une surcharge en fer.",
+        "Elle peut augmenter au cours d’un syndrome inflammatoire.",
+        "Elle ne doit pas être interprétée comme spécifique d’une surcharge.",
+        "Elle permet de diagnostiquer une carence martiale avant l’anémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une ferritinémie élevée peut évoquer une surcharge, mais elle peut aussi augmenter dans l’inflammation. La ferritinémie basse, et non élevée, permet le diagnostic précoce de carence martiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une anémie dont le mécanisme paraît complexe, quelles démarches ou interprétations sont compatibles avec le texte ?",
+      "choices": [
+        "La cinétique du fer radioactif peut être utilisée.",
+        "La coloration de Perls peut aider à rechercher un trouble de l’incorporation du fer.",
+        "Un nombre bas de réticulocytes oriente vers une insuffisance de production médullaire.",
+        "La sidérémie isolée suffit toujours à expliquer le mécanisme de l’anémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cinétique du fer radioactif est réservée aux anémies de mécanisme complexe. Perls explore notamment l’incorporation du fer. Les réticulocytes bas traduisent une production insuffisante. La sidérémie isolée ne suffit pas toujours."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la séquence biologique décrite, quelle anomalie précède immédiatement la diminution de l’hémoglobine ?",
+      "choices": [
+        "La microcytose",
+        "L’hypochromie",
+        "L’augmentation des réticulocytes",
+        "L’élévation de la ferritinémie"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La succession décrite est : microcytose, puis hypochromie, puis diminution de l’hémoglobine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément préanalytique est explicitement requis pour le dosage de la sidérémie ?",
+      "choices": [
+        "Éviter l’hémolyse du prélèvement",
+        "Réaliser systématiquement une ponction médullaire",
+        "Mesurer simultanément le fer radioactif",
+        "Corriger la ferritinémie avant le prélèvement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que le prélèvement destiné à la sidérémie doit éviter l’hémolyse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel paramètre peut être diminué dans les états inflammatoires selon le texte ?",
+      "choices": [
+        "La capacité totale de fixation de la transferrine",
+        "La fixation osseuse dans les états d’avidité en fer",
+        "L’apparition du fer radioactif dans les hématies nouvellement formées",
+        "La coloration de Perls"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que la capacité totale de fixation de la transferrine peut être diminuée dans les états inflammatoires."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une carence martiale, quel paramètre est explicitement décrit comme diminuant ?",
+      "choices": [
+        "La ferritinémie élevée",
+        "Le coefficient de saturation de la transferrine",
+        "La capacité totale de fixation dans l’inflammation",
+        "La fixation osseuse dans les aplasies"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le coefficient de saturation de la transferrine diminue dans les carences martiales."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les états d’avidité en fer, quelle modification est attendue lors de la cinétique du fer radioactif ?",
+      "choices": [
+        "Une diminution de la fixation osseuse",
+        "Une augmentation de la fixation osseuse",
+        "Une disparition des variations nycthémérales",
+        "Une élévation obligatoire de la ferritinémie"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La mesure de la fixation osseuse du fer radioactif est augmentée dans les états d’avidité en fer."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est cité pour rechercher un trouble de l’incorporation du fer dans certains syndromes myélodysplasiques ?",
+      "choices": [
+        "La sidérémie isolée",
+        "La capacité totale de fixation de la transferrine",
+        "La coloration de Perls",
+        "Le coefficient de saturation seul"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La coloration de Perls permet d’évaluer les réserves médullaires et de rechercher un trouble de l’incorporation du fer, notamment dans certains syndromes myélodysplasiques."
+    },
+    {
+      "type": "QCM",
+      "question": "À partir des données quantitatives du texte sur la répartition corporelle du fer, quelles estimations sont correctes ?",
+      "choices": [
+        "Chez l’homme adulte, la quantité de fer contenue dans l’hémoglobine est d’environ 2,1 g.",
+        "Chez la femme adulte, la quantité de fer contenue dans l’hémoglobine est d’environ 1,75 g.",
+        "Chez l’homme adulte, la quantité de fer contenue dans la myoglobine est d’environ 180 mg.",
+        "La transferrine représente à elle seule environ 24 % du fer total de l’organisme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique 3 g de fer chez l’homme, 2,5 g chez la femme, 70 % dans l’hémoglobine et 6 % dans la myoglobine. Le reste comprend plusieurs compartiments, et non la transferrine seule."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’équilibre martial quotidien physiologique et les besoins particuliers, quelles propositions sont exactes ?",
+      "choices": [
+        "Avec 15 mg d’apports alimentaires quotidiens et 10 % d’absorption, l’absorption moyenne est d’environ 1,5 mg/jour.",
+        "Les pertes physiologiques quotidiennes chez l’adulte sont faibles, proches de 1 mg/jour.",
+        "Les pertes physiologiques sont augmentées chez la femme non ménopausée.",
+        "L’allaitement augmente les besoins d’environ 1 mg/jour."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre éléments sont explicitement rapportés : apports de 15 mg/jour, absorption moyenne 10 %, pertes d’environ 1 mg/jour, majoration chez la femme non ménopausée et besoin supplémentaire lors de l’allaitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’origine et l’orientation du fer plasmatique, quelles propositions sont exactes ?",
+      "choices": [
+        "La majorité du fer plasmatique provient de l’hémolyse macrophagique.",
+        "L’absorption intestinale contribue minoritairement au fer plasmatique.",
+        "La transferrine oriente le fer vers les organes utilisateurs, surtout la moelle osseuse.",
+        "La transferrine peut aussi transporter le fer vers les réserves, principalement hépatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le fer plasmatique provient essentiellement de l’hémolyse macrophagique, environ 95 %, et seulement pour environ 5 % de l’absorption intestinale. Il est transporté par la transferrine vers la moelle ou les réserves hépatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le trajet entérocytaire du fer absorbé, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "L’absorption intestinale est maximale au niveau du duodénum.",
+        "Le fer absorbé au pôle apical est ensuite dirigé vers le pôle basolatéral.",
+        "La ferroportine permet l’export du fer hors de l’entérocyte vers le plasma.",
+        "L’hepcidine favorise l’export du fer en se fixant sur DMT1."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer est absorbé surtout au duodénum, entre par le pôle apical, chemine vers le pôle basolatéral et est exporté par la ferroportine. L’hepcidine se fixe sur la ferroportine et inhibe l’export."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption du fer non héminique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il doit être libéré des complexes alimentaires avant son absorption.",
+        "Il doit être réduit à l’état ferreux, notamment grâce à la vitamine C.",
+        "Les sécrétions intestinales, biliaires et pancréatiques facilitent son absorption.",
+        "Les phosphoprotéines du jaune d’œuf augmentent son absorption."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer non héminique doit être libéré, ionisé et réduit à l’état ferreux. Les sécrétions digestives facilitent l’absorption. Les phosphoprotéines du jaune d’œuf sont citées comme inhibitrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation de l’hepcidine, quelles propositions sont exactes ?",
+      "choices": [
+        "L’excès de fer augmente la production d’hepcidine.",
+        "L’anémie diminue la production d’hepcidine.",
+        "L’hypoxie diminue la production d’hepcidine.",
+        "Les déficits en hepcidine protègent des surcharges héréditaires en fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hepcidine augmente en cas d’excès de fer et diminue en cas d’anémie ou d’hypoxie. Ses déficits primitifs ou secondaires expliquent au contraire de nombreuses surcharges héréditaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours des infections et états inflammatoires, quels mécanismes sont décrits dans le texte ?",
+      "choices": [
+        "Une forte induction de la production d’hepcidine.",
+        "Une dégradation de la ferroportine après fixation de l’hepcidine.",
+        "Une séquestration du fer dans les entérocytes et les macrophages.",
+        "Une augmentation directe du fer plasmatique par libération macrophagique accrue."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’inflammation induit fortement l’hepcidine, qui provoque la dégradation de la ferroportine et séquestre le fer dans les entérocytes et macrophages, entraînant une baisse du fer plasmatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques de la transferrine, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une glycoprotéine synthétisée par l’hépatocyte.",
+        "Elle transporte le fer sous forme ferrique.",
+        "Chaque molécule peut transporter deux atomes de fer.",
+        "Elle est normalement saturée presque totalement en conditions physiologiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transferrine est une glycoprotéine hépatocytaire transportant deux atomes de fer ferrique. Physiologiquement, elle est saturée environ au tiers, non presque totalement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la captation du fer par les précurseurs érythropoïétiques médullaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Ces précurseurs expriment de nombreux récepteurs de la transferrine.",
+        "La fixation transferrine-récepteur induit une endocytose.",
+        "La réduction du fer favorise sa dissociation de la transferrine.",
+        "Le transfert du fer vers l’érythropoïèse est initié par un récepteur spécifique de l’hémosidérine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit les récepteurs de la transferrine, l’endocytose après fixation et la dissociation favorisée par la réduction du fer. Il ne mentionne pas de récepteur de l’hémosidérine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes de réserve du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "La ferritine représente environ 95 % des réserves en fer.",
+        "L’hémosidérine est une forme dégradée de la ferritine.",
+        "Le fer de la ferritine est plus facilement mobilisable que celui de l’hémosidérine.",
+        "Le fer libre constitue la forme normale et non toxique des réserves."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les réserves sont principalement constituées de ferritine, avec une part d’hémosidérine. Le fer ferritinique est plus mobilisable. Le fer libre est toxique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la localisation des réserves martiales, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont à la fois parenchymateuses et macrophagiques.",
+        "Le foie est le principal organe de stockage.",
+        "Les hépatocytes participent au stockage hépatique du fer.",
+        "Les cellules de Kupffer sont exclues du stockage hépatique du fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les réserves sont parenchymateuses et macrophagiques. Le foie est le principal organe de stockage, au niveau des hépatocytes et des cellules de Kupffer."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les circonstances favorisant une carence martiale, quelles propositions sont exactes ?",
+      "choices": [
+        "Des hémorragies chroniques même minimes peuvent favoriser une carence martiale.",
+        "Des règles abondantes peuvent favoriser une carence martiale.",
+        "La grossesse et l’allaitement peuvent favoriser une carence martiale.",
+        "La carence martiale débute habituellement par une anémie macrocytaire régénérative."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hémorragies chroniques, règles abondantes, grossesse, allaitement et apports insuffisants sont des facteurs de carence. L’anémie décrite est hypochrome microcytaire arégénérative, et tardive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les situations associées à une augmentation des réserves martiales, quelles propositions sont exactes ?",
+      "choices": [
+        "Les syndromes inflammatoires peuvent s’accompagner d’une augmentation des réserves martiales.",
+        "Les transfusions répétées peuvent être responsables d’hémochromatoses secondaires.",
+        "Certaines thalassémies sont citées parmi les situations augmentant les réserves.",
+        "Les apports alimentaires insuffisants sont une cause d’augmentation des réserves martiales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les réserves augmentent dans les syndromes inflammatoires, les hémochromatoses secondaires notamment post-transfusionnelles, certaines thalassémies et l’éthylisme chronique. Les apports insuffisants favorisent la carence."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes biologiques et la toxicité du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fer peut exister sous forme ferreuse ou ferrique.",
+        "Le fer peut être libre ou inclus dans des complexes protéiques.",
+        "Le fer libre est toxique.",
+        "La surcharge en fer est toujours physiologique lorsqu’elle est liée aux réserves."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer existe sous formes ferreuse ou ferrique, libre ou complexée. Le fer libre est toxique. La surcharge en fer peut conduire à une hémochromatose et n’est pas physiologique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le site intestinal où l’absorption du fer est maximale selon le texte ?",
+      "choices": [
+        "L’estomac",
+        "Le duodénum",
+        "L’iléon terminal",
+        "Le côlon droit"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que l’absorption intestinale du fer est maximale au niveau du duodénum."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cellule synthétise la transferrine selon le texte ?",
+      "choices": [
+        "Le macrophage splénique",
+        "L’entérocyte duodénal",
+        "L’hépatocyte",
+        "Le précurseur érythropoïétique médullaire"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La transferrine est une glycoprotéine synthétisée par l’hépatocyte."
+    },
+    {
+      "type": "QCS",
+      "question": "Combien d’atomes de fer une molécule de transferrine peut-elle transporter ?",
+      "choices": [
+        "Un seul atome de fer ferreux",
+        "Deux atomes de fer ferrique",
+        "Trois atomes de fer ferrique",
+        "Quatre atomes de fer ferreux"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Chaque molécule de transferrine peut transporter deux atomes de fer ferrique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la capacité maximale approximative en fer d’une molécule de ferritine selon le texte ?",
+      "choices": [
+        "45 atomes de fer",
+        "450 atomes de fer",
+        "4500 atomes de fer",
+        "45000 atomes de fer"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La ferritine forme une coquille capable de contenir jusqu’à environ 4500 atomes de fer."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel besoin martial supplémentaire est estimé pendant la grossesse selon le texte ?",
+      "choices": [
+        "Environ 50 mg",
+        "Environ 100 mg",
+        "Environ 500 mg",
+        "Environ 1500 mg"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte estime l’augmentation des besoins pendant la grossesse à environ 500 mg."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal organe utilisateur vers lequel la transferrine transporte le fer ?",
+      "choices": [
+        "La moelle osseuse",
+        "Le rein",
+        "Le pancréas",
+        "La peau"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La transferrine transporte le fer vers les organes utilisateurs, principalement la moelle osseuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’évolution hématologique décrite avant l’anémie patente, quelles affirmations sont exactes ?",
+      "choices": [
+        "L’hypochromie précède la diminution de l’hémoglobine.",
+        "La diminution de l’hémoglobine survient avant l’hypochromie.",
+        "Un nombre bas de réticulocytes traduit une insuffisance de production médullaire.",
+        "Une réticulocytose élevée est l’anomalie attendue dans ce mécanisme."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte décrit une hypochromie précédant la baisse de l’hémoglobine. Le nombre de réticulocytes est bas et traduit une insuffisance de production médullaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la sidérémie, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle correspond au dosage du fer plasmatique.",
+        "Son prélèvement doit éviter l’hémolyse.",
+        "Elle présente des variations nycthémérales importantes.",
+        "Ses valeurs usuelles sont environ 13 à 32 µmol/L."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La sidérémie dose le fer plasmatique, nécessite un prélèvement non hémolysé, varie au cours du nycthémère et ses valeurs usuelles sont d’environ 13 à 32 µmol/L."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une sidérémie basse isolée, quelles interprétations sont justes selon le texte ?",
+      "choices": [
+        "Elle peut s’observer dans une carence martiale.",
+        "Elle peut s’observer dans un syndrome inflammatoire.",
+        "Elle ne suffit pas à elle seule à affirmer le mécanisme exact.",
+        "Elle doit être interprétée avec les autres paramètres du bilan martial."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Une hyposidérémie est possible dans les carences martiales comme dans les syndromes inflammatoires ; elle doit donc être confrontée aux autres paramètres, notamment ferritine et capacité totale de fixation."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du coefficient de saturation de la transferrine, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond au rapport entre la sidérémie et la capacité totale de fixation de la transferrine.",
+        "Sa valeur normale est d’environ 33 %.",
+        "Il diminue dans les carences martiales.",
+        "Il est calculé en divisant la ferritinémie par la sidérémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le coefficient de saturation est le rapport sidérémie/capacité totale de fixation de la transferrine ; il est normalement autour de 33 % et diminue dans les carences martiales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la capacité totale de fixation de la transferrine, quelles affirmations sont exactes ?",
+      "choices": [
+        "Ses valeurs usuelles sont environ 45 à 75 µmol/L.",
+        "Elle intervient dans le calcul du coefficient de saturation de la transferrine.",
+        "Elle peut être diminuée dans les états inflammatoires.",
+        "Elle est l’examen de choix pour évaluer les réserves martiales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La capacité totale de fixation vaut environ 45 à 75 µmol/L, sert au calcul du coefficient de saturation et peut diminuer dans l’inflammation. L’examen de choix des réserves est la ferritinémie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la ferritinémie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est l’examen de choix pour évaluer les réserves martiales.",
+        "Ses valeurs usuelles sont environ 30 à 300 µg/L.",
+        "Une ferritinémie basse permet de diagnostiquer une carence martiale avant l’anémie.",
+        "Une ferritinémie élevée peut s’observer au cours des syndromes inflammatoires."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La ferritinémie évalue les réserves martiales ; ses valeurs usuelles sont d’environ 30 à 300 µg/L. Basse, elle diagnostique une carence avant l’anémie ; élevée, elle peut traduire une surcharge ou une inflammation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la coloration de Perls, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle permet d’évaluer les réserves médullaires en fer.",
+        "Elle peut rechercher un trouble de l’incorporation du fer.",
+        "Elle est utile notamment dans certains syndromes myélodysplasiques.",
+        "Elle mesure les variations nycthémérales du fer plasmatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La coloration de Perls évalue les réserves médullaires en fer et recherche un trouble de l’incorporation, notamment dans certains syndromes myélodysplasiques. Les variations nycthémérales concernent la sidérémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cinétique du fer radioactif, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un examen spécialisé.",
+        "Elle est utilisée dans l’exploration d’anémies de mécanisme complexe.",
+        "La fixation osseuse du fer radioactif est augmentée dans les états d’avidité en fer.",
+        "La fixation osseuse du fer radioactif est diminuée dans les aplasies."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La cinétique du fer radioactif est un examen spécialisé pour les anémies complexes ; la fixation osseuse augmente en cas d’avidité en fer et diminue dans les aplasies."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles correspondances entre examen et information fournie sont exactes ?",
+      "choices": [
+        "Ferritinémie : évaluation des réserves martiales.",
+        "Coloration de Perls : évaluation des réserves médullaires en fer.",
+        "Apparition du fer radioactif dans les hématies : efficacité de l’érythropoïèse.",
+        "Sidérémie : mesure directe et suffisante des réserves médullaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La ferritinémie évalue les réserves martiales, Perls les réserves médullaires, et l’apparition du fer radioactif dans les hématies reflète l’efficacité de l’érythropoïèse. La sidérémie dose le fer plasmatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un syndrome inflammatoire, quelles modifications du bilan martial sont compatibles avec le texte ?",
+      "choices": [
+        "Une hyposidérémie peut être observée.",
+        "La capacité totale de fixation de la transferrine peut être diminuée.",
+        "La ferritinémie peut être élevée.",
+        "Une ferritinémie élevée impose toujours le diagnostic de surcharge en fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’inflammation peut s’accompagner d’une baisse de la sidérémie, d’une diminution de la capacité totale de fixation et d’une élévation de la ferritine. La ferritine élevée n’est donc pas spécifique d’une surcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une carence martiale évolutive décrite par le texte, quelles anomalies peuvent être observées ?",
+      "choices": [
+        "Diminution du coefficient de saturation de la transferrine.",
+        "Ferritinémie basse avant l’apparition de l’anémie.",
+        "Hypochromie précédant la diminution de l’hémoglobine.",
+        "Nombre de réticulocytes bas traduisant une insuffisance de production médullaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La carence martiale s’accompagne d’une baisse du coefficient de saturation et d’une ferritine basse, qui peut précéder l’anémie. Le texte décrit aussi l’hypochromie avant la baisse d’hémoglobine et une réticulocytopénie de production."
+    },
+    {
+      "type": "QCM",
+      "question": "Face à une ferritinémie élevée, quelles affirmations respectent les limites d’interprétation indiquées dans le texte ?",
+      "choices": [
+        "Elle peut orienter vers une surcharge en fer.",
+        "Elle peut augmenter au cours d’un syndrome inflammatoire.",
+        "Elle ne doit pas être interprétée comme spécifique d’une surcharge en fer.",
+        "Elle exclut formellement tout état inflammatoire associé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une ferritinémie élevée peut évoquer une surcharge, mais elle peut aussi s’élever dans l’inflammation ; elle n’est donc pas spécifique d’une surcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments doivent faire considérer la sidérémie comme un paramètre biologiquement fragile d’interprétation ?",
+      "choices": [
+        "Le prélèvement doit éviter l’hémolyse.",
+        "Les variations nycthémérales sont importantes.",
+        "Une valeur basse peut correspondre à deux cadres différents cités : carence martiale ou inflammation.",
+        "La présence d’une hémolyse rend le prélèvement préférable pour interpréter le fer plasmatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sidérémie nécessite un prélèvement non hémolysé, varie avec le nycthémère et une baisse n’est pas spécifique, car possible dans la carence comme dans l’inflammation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels résultats ou examens renseignent directement sur la production médullaire, l’incorporation du fer ou l’efficacité de l’érythropoïèse ?",
+      "choices": [
+        "Un nombre bas de réticulocytes traduit une insuffisance de production médullaire.",
+        "La coloration de Perls peut rechercher un trouble de l’incorporation du fer.",
+        "L’apparition du fer radioactif dans les hématies nouvellement formées reflète l’efficacité de l’érythropoïèse.",
+        "La diminution de la fixation osseuse du fer radioactif est décrite dans les aplasies."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte relie les réticulocytes bas à l’insuffisance de production médullaire, Perls au trouble d’incorporation, l’apparition du fer radioactif dans les hématies à l’efficacité érythropoïétique et la baisse de fixation osseuse aux aplasies."
+    },
+    {
+      "type": "QCS",
+      "question": "Une sidérémie est à 15 µmol/L et la capacité totale de fixation de la transferrine à 45 µmol/L. Quel est approximativement le coefficient de saturation de la transferrine ?",
+      "choices": [
+        "10 %",
+        "20 %",
+        "33 %",
+        "60 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le coefficient de saturation correspond au rapport sidérémie/capacité totale de fixation : 15/45 = 0,33, soit environ 33 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le sens d’un nombre bas de réticulocytes dans le contexte décrit ?",
+      "choices": [
+        "Insuffisance de production médullaire.",
+        "Surcharge en fer certaine.",
+        "Augmentation de l’efficacité de l’érythropoïèse.",
+        "Hémolyse obligatoire du prélèvement."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que le nombre de réticulocytes est bas et traduit une insuffisance de production médullaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors d’une cinétique du fer radioactif, une fixation osseuse augmentée correspond à quelle situation citée ?",
+      "choices": [
+        "Aplasie.",
+        "État d’avidité en fer.",
+        "Syndrome inflammatoire avec ferritine élevée.",
+        "Variation nycthémérale de la sidérémie."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La fixation osseuse du fer radioactif est augmentée dans les états d’avidité en fer et diminuée dans les aplasies."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen correspond précisément au dosage du fer plasmatique ?",
+      "choices": [
+        "Ferritinémie.",
+        "Sidérémie.",
+        "Coloration de Perls.",
+        "Capacité totale de fixation de la transferrine."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La sidérémie correspond au dosage du fer plasmatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est cité pour évaluer les réserves médullaires en fer ?",
+      "choices": [
+        "Coloration de Perls.",
+        "Sidérémie isolée.",
+        "Coefficient de saturation de la transferrine.",
+        "Numération des réticulocytes."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La coloration de Perls permet d’évaluer les réserves médullaires en fer."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie biologique élevée peut orienter vers une surcharge en fer tout en pouvant aussi augmenter dans les syndromes inflammatoires ?",
+      "choices": [
+        "Sidérémie basse.",
+        "Ferritinémie élevée.",
+        "Réticulocytes bas.",
+        "Capacité totale de fixation élevée."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Une ferritinémie élevée peut orienter vers une surcharge en fer, mais elle peut également augmenter au cours des syndromes inflammatoires."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T15:45:58.762Z"
+}

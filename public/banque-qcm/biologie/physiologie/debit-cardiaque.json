@@ -1,0 +1,3112 @@
+{
+  "category": "biologie",
+  "module": "physiologie",
+  "courseId": 58,
+  "courseTitle": "Hemodynamique Intra Cardiaque",
+  "supportTitle": "Débit-cardiaque",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/PHYSIOLOGIE/Débit-cardiaque.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les relations fondamentales du débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Le débit cardiaque est égal au produit de la fréquence cardiaque par le volume d’éjection systolique.",
+        "Le volume d’éjection systolique est égal à VTD − VTS.",
+        "L’index cardiaque est égal à la surface corporelle divisée par le débit cardiaque.",
+        "L’index cardiaque s’exprime en L/min/m²."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Qc = FC × VES, VES = VTD − VTS et IC = Qc/surface corporelle, exprimé en L/min/m²."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont des déterminants directs du débit cardiaque selon le texte ?",
+      "choices": [
+        "La précharge.",
+        "La postcharge.",
+        "L’inotropisme.",
+        "La viscosité sanguine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déterminants cités sont la précharge, la postcharge, l’inotropisme, la fréquence cardiaque et le rythme cardiaque. La viscosité intervient comme facteur de postcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la précharge ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à la tension de la paroi ventriculaire en fin de diastole.",
+        "Elle correspond au volume télédiastolique ventriculaire.",
+        "En pratique, elle peut être assimilée à la pression télédiastolique ventriculaire.",
+        "Elle est définie par la contrainte appliquée au muscle cardiaque au début de la systole."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La précharge est la tension pariétale en fin de diastole, correspondant au VTD et assimilable en pratique à la pression télédiastolique. La contrainte au début de la systole définit la postcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs participent à la détermination de la précharge ?",
+      "choices": [
+        "Le retour veineux.",
+        "La volémie.",
+        "La compliance ventriculaire.",
+        "La pression systolique aortique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La précharge dépend notamment du retour veineux, de la volémie, de la capacitance vasculaire, du gradient de pression et de la compliance ventriculaire. La pression systolique aortique est un facteur de postcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la postcharge, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à la contrainte appliquée au muscle cardiaque au début de la systole.",
+        "La pression systolique aortique en est un facteur.",
+        "Les résistances vasculaires en sont un facteur.",
+        "Elle dépend du gradient entre pression systémique moyenne et pression auriculaire droite."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La postcharge est la contrainte systolique initiale. Elle dépend de la pression systolique aortique, des résistances vasculaires, de l’élasticité aortique, de la viscosité sanguine et de la tension pariétale. Le gradient cité concerne la précharge."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des résistances vasculaires et de la loi de Poiseuille, quelles propositions sont exactes ?",
+      "choices": [
+        "La résistance peut s’écrire R = ΔP / Q.",
+        "La résistance peut s’écrire R = 8ηL / πr⁴.",
+        "La résistance augmente lorsque la viscosité sanguine diminue.",
+        "Les résistances vasculaires systémiques peuvent s’écrire RVS = (PAoM − Psm) / Qc."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Selon le texte, Q = ΔP/R, donc R = ΔP/Q, et R = 8ηL/πr⁴. La résistance augmente avec la viscosité, non lorsqu’elle diminue. RVS = (PAoM − Psm)/Qc."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la viscosité sanguine et le régime d’écoulement, quelles propositions sont exactes ?",
+      "choices": [
+        "La viscosité sanguine dépend notamment de l’hématocrite.",
+        "La viscosité sanguine dépend notamment des protéines plasmatiques.",
+        "La nature laminaire ou turbulente de l’écoulement intervient dans la viscosité sanguine.",
+        "Un nombre de Reynolds faible correspond à un régime turbulent."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La viscosité dépend notamment de l’hématocrite, des protéines plasmatiques et de la nature de l’écoulement. Un Reynolds faible correspond à un régime laminaire, et un Reynolds élevé à un régime turbulent."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels paramètres permettent d’évaluer l’inotropisme selon le texte ?",
+      "choices": [
+        "Le dP/dt.",
+        "L’élastance E = dP/dV.",
+        "La fraction d’éjection FE = VES / VTD.",
+        "La fraction d’éjection FE = VTD / VES."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’inotropisme peut être évalué par le dP/dt, l’élastance E = dP/dV et la fraction d’éjection FE = VES/VTD."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs influencent la contractilité myocardique ?",
+      "choices": [
+        "La fréquence cardiaque.",
+        "L’influence sympathique et parasympathique.",
+        "L’anoxie et l’acidose.",
+        "La surface corporelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La contractilité est influencée par la fréquence cardiaque, les influences sympathique et parasympathique, la balance myocardique en oxygène, l’anoxie, l’acidose et certains agents pharmacologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fréquence cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle joue un rôle majeur dans la régulation du débit cardiaque.",
+        "Elle est un déterminant important de la puissance cardiaque.",
+        "Elle est un déterminant de la consommation myocardique en oxygène.",
+        "Sa rapidité de variation n’intervient pas dans la régulation centrale du débit cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La fréquence cardiaque intervient dans la régulation du débit cardiaque, la puissance cardiaque et la consommation myocardique en oxygène. Sa rapidité de variation participe aussi à la régulation centrale du débit cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles équations du débit cardiaque sont correctes ?",
+      "choices": [
+        "Qc = VES × FC.",
+        "Qc = VO₂ / différence artérioveineuse en O₂.",
+        "Qc = (PAM − POD) / RVS.",
+        "Qc = vitesse / surface."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte donne Qc = VES × FC, Qc = VO₂/différence artérioveineuse en O₂, Qc = (PAM − POD)/RVS et Qc = vitesse × surface."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes utilisant les échanges gazeux, quelles propositions sont exactes ?",
+      "choices": [
+        "La méthode de Fick utilise Qc = VO₂ / (CaO₂ − CvO₂).",
+        "La méthode de Fick est une méthode de référence pour mesurer le débit cardiaque.",
+        "La méthode utilisant la production de CO₂ peut s’écrire Qc = VCO₂ / K(SaO₂ − SvO₂).",
+        "Dans cette méthode, K = 13,4 × Hb / R."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode de Fick repose sur VO₂ = Qc × (CaO₂ − CvO₂). Pour la méthode au CO₂, Qc = VCO₂/K(SaO₂ − SvO₂) avec K = 13,4 × Hb × R."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes de dilution, de thermodilution et Doppler, quelles propositions sont exactes ?",
+      "choices": [
+        "Le principe de Stewart-Hamilton s’écrit Qc = m / ∫ C(t) dt.",
+        "Les indicateurs cités comprennent les colorants, le lithium et la thermodilution.",
+        "La thermodilution peut être intermittente par bolus, continue ou au froid sans injection.",
+        "La méthode Doppler aortique utilise QAo = Vmoy × (πd² / 4)."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions reprennent les méthodes de mesure décrites : dilution selon Stewart-Hamilton, indicateurs, modalités de thermodilution et formule Doppler aortique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations correspondent à des variations physiologiques du débit cardiaque ?",
+      "choices": [
+        "Le sexe, l’âge et la grossesse.",
+        "La position, l’effort et la température centrale.",
+        "L’anxiété et l’altitude.",
+        "L’hématocrite et les protéines plasmatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les variations physiologiques citées sont le sexe, l’âge, la grossesse, la position, l’effort, la température centrale, l’anxiété et l’altitude. L’hématocrite et les protéines plasmatiques sont des déterminants de la viscosité sanguine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la définition correcte du débit cardiaque ?",
+      "choices": [
+        "Quantité de sang éjectée par chaque ventricule en une minute.",
+        "Quantité de sang contenue dans un ventricule en fin de diastole.",
+        "Différence entre pression artérielle moyenne et pression auriculaire droite.",
+        "Pression générée par chaque ventricule en systole."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le débit cardiaque est la quantité de sang éjectée par chaque ventricule en une minute, exprimée en L/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelles sont les valeurs usuelles approximatives du débit cardiaque et de l’index cardiaque indiquées dans le texte ?",
+      "choices": [
+        "Qc ≈ 3,5 ± 0,5 L/min et IC ≈ 6,5 ± 0,6 L/min/m².",
+        "Qc ≈ 6,5 ± 0,6 L/min et IC ≈ 3,5 ± 0,5 L/min/m².",
+        "Qc ≈ 6,5 ± 0,6 L/min/m² et IC ≈ 3,5 ± 0,5 L/min.",
+        "Qc ≈ 3,5 ± 0,6 L/min et IC ≈ 6,5 ± 0,5 L/min/m²."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les valeurs usuelles données sont Qc ≈ 6,5 ± 0,6 L/min et IC ≈ 3,5 ± 0,5 L/min/m²."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement la loi de Frank-Starling ?",
+      "choices": [
+        "La force de contraction ventriculaire dépend de la longueur initiale des fibres myocardiques au début de la contraction.",
+        "La résistance vasculaire dépend uniquement de la pression systolique aortique.",
+        "La fraction d’éjection correspond au rapport VTD/VES.",
+        "Le débit cardiaque est indépendant du retour veineux."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La loi de Frank-Starling relie la force de contraction des ventricules à la longueur initiale des fibres myocardiques au début de la contraction."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition concernant le nombre de Reynolds est correcte ?",
+      "choices": [
+        "Un nombre de Reynolds faible correspond à un régime laminaire.",
+        "Un nombre de Reynolds faible correspond à un régime turbulent.",
+        "Un nombre de Reynolds élevé correspond toujours à une diminution du débit cardiaque.",
+        "Le nombre de Reynolds est égal à Qc divisé par la surface corporelle."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise qu’un Reynolds faible correspond à un régime laminaire, tandis qu’un Reynolds élevé correspond à un régime turbulent."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit correctement le principe de la bioimpédance thoracique ?",
+      "choices": [
+        "Elle mesure les variations d’impédance thoracique induites par l’entrée et la sortie du sang à chaque systole après application d’un courant faible et de haute fréquence.",
+        "Elle repose sur l’injection d’un bolus froid dans l’artère pulmonaire.",
+        "Elle calcule le débit cardiaque à partir de la différence CaO₂ − CvO₂.",
+        "Elle mesure directement le diamètre aortique par Doppler sus-sternal."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La bioimpédance thoracique repose sur la mesure des variations électriques thoraciques liées aux mouvements sanguins systoliques, après application d’un courant faible et de haute fréquence entre électrodes."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les situations suivantes, laquelle est classée comme étiologie de choc cardiogénique dans le texte ?",
+      "choices": [
+        "Embolie pulmonaire.",
+        "Choc anaphylactique.",
+        "Infarctus du myocarde.",
+        "Tamponnade cardiaque."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’infarctus du myocarde est cité parmi les causes de choc cardiogénique. L’embolie pulmonaire et la tamponnade relèvent du choc obstructif, et le choc anaphylactique de l’hypovolémie relative."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les volumes ventriculaires et les grandeurs dérivées du débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Le volume d’éjection systolique correspond à VTD − VTS.",
+        "Le débit cardiaque peut s’écrire FC × (VTD − VTS).",
+        "La fraction d’éjection est définie par VTD / VES.",
+        "L’index cardiaque correspond au débit cardiaque rapporté à la surface corporelle."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le VES est égal à VTD − VTS, donc Qc = FC × VES = FC × (VTD − VTS). L’IC est Qc/surface corporelle. La FE est VES/VTD, et non VTD/VES."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre déterminant du débit cardiaque et définition sont conformes au texte ?",
+      "choices": [
+        "Précharge — tension de la paroi ventriculaire en fin de diastole.",
+        "Postcharge — contrainte appliquée au muscle cardiaque au début de la systole.",
+        "Inotropisme — propriété intrinsèque du myocyte correspondant à la contractilité myocardique.",
+        "Rythme cardiaque — facteur de postcharge déterminé par la viscosité sanguine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La précharge, la postcharge et l’inotropisme sont définis ainsi dans le texte. Le rythme cardiaque est un déterminant du débit cardiaque, mais il n’est pas présenté comme un facteur de postcharge lié à la viscosité."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon la loi de Laplace appliquée à la tension pariétale, quelles propositions sont exactes ?",
+      "choices": [
+        "La tension pariétale augmente lorsque la pression augmente, à rayon et épaisseur constants.",
+        "La tension pariétale augmente lorsque le rayon augmente, à pression et épaisseur constants.",
+        "La tension pariétale diminue lorsque l’épaisseur pariétale augmente, à pression et rayon constants.",
+        "La relation donnée est T = P × e / R."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte donne T = P × R / e. La tension augmente avec la pression et le rayon, et diminue lorsque l’épaisseur pariétale augmente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fréquence cardiaque dans la régulation cardiovasculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle joue un rôle majeur dans la régulation du débit cardiaque.",
+        "Elle est un déterminant important de la puissance cardiaque.",
+        "Elle participe à la détermination de la consommation myocardique en oxygène.",
+        "Elle détermine directement la surface corporelle utilisée pour calculer l’index cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue à la fréquence cardiaque un rôle dans la régulation du débit cardiaque, la puissance cardiaque et la consommation myocardique en oxygène. La surface corporelle n’est pas déterminée par la fréquence cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient présentant acidose, anoxie et administration d’agents anesthésiques, quels éléments sont cités comme pouvant influencer la contractilité myocardique ?",
+      "choices": [
+        "L’acidose.",
+        "L’anoxie.",
+        "Les agents anesthésiques.",
+        "Le diamètre aortique utilisé dans la formule Doppler."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anoxie, l’acidose et les agents pharmacologiques comme les anesthésiques sont cités parmi les facteurs influençant la contractilité. Le diamètre aortique intervient dans le calcul Doppler, pas comme facteur de contractilité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la méthode de Fick appliquée à la mesure du débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle utilise la consommation d’oxygène VO₂.",
+        "Elle repose sur la différence artérioveineuse en oxygène.",
+        "Elle s’écrit Qc = VO₂ / (CaO₂ − CvO₂).",
+        "Elle est décrite comme une méthode de dilution d’un indicateur coloré."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode de Fick repose sur VO₂ = Qc × (CaO₂ − CvO₂), donc Qc = VO₂/(CaO₂ − CvO₂). Elle est distincte des méthodes de dilution d’indicateur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes utilisant le CO₂, quelles propositions sont exactes ?",
+      "choices": [
+        "La méthode utilisant la production de CO₂ peut s’écrire Qc = VCO₂ / K(SaO₂ − SvO₂).",
+        "Dans cette méthode, K dépend notamment de l’hémoglobine et du quotient respiratoire.",
+        "Le quotient respiratoire R est indiqué comme étant environ égal à 0,8.",
+        "La réinhalation de CO₂ s’écrit Qc = VO₂ / (CaO₂ − CvO₂)."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode au CO₂ utilise VCO₂ et K(SaO₂ − SvO₂), avec K = 13,4 × Hb × R et R ≈ 0,8. La dernière formule correspond à Fick avec l’oxygène, pas à la réinhalation de CO₂."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes de dilution d’un indicateur, quelles propositions sont exactes ?",
+      "choices": [
+        "Le principe de Stewart-Hamilton est donné par Qc = m / ∫ C(t) dt.",
+        "Les colorants peuvent être utilisés comme indicateurs.",
+        "Le lithium peut être utilisé comme indicateur.",
+        "La fraction d’éjection est l’indicateur injecté dans la méthode de Stewart-Hamilton."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite le principe de Stewart-Hamilton et les indicateurs : colorants, lithium, thermodilution. La fraction d’éjection est un paramètre d’évaluation de l’inotropisme, pas un indicateur injecté."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la thermodilution, quelles modalités sont explicitement citées ?",
+      "choices": [
+        "Mesure intermittente par bolus.",
+        "Mesure continue.",
+        "Thermodilution au froid sans injection.",
+        "Mesure par application d’un courant électrique thoracique de haute fréquence."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite trois modalités de thermodilution : intermittente par bolus, continue, et au froid sans injection. Le courant électrique thoracique relève de la bioimpédance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes Doppler de mesure du débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Le débit aortique peut être calculé par QAo = Vmoy × (πd² / 4).",
+        "Dans cette formule, d correspond au diamètre aortique.",
+        "L’échocardiographie transthoracique couplée au Doppler est citée parmi les techniques.",
+        "Le Doppler œsophagien est exclu des techniques mentionnées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte donne QAo = Vmoy × (πd²/4), avec d diamètre aortique, et cite notamment l’échocardiographie transthoracique Doppler et le Doppler œsophagien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la bioimpédance thoracique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les variations d’entrée et de sortie du sang dans le thorax à chaque systole modifient les propriétés électriques thoraciques.",
+        "La mesure repose sur le calcul de l’impédance thoracique instantanée.",
+        "Un courant de faible amplitude et de haute fréquence est appliqué.",
+        "Les électrodes sont placées exclusivement sur les membres inférieurs."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bioimpédance mesure les variations d’impédance thoracique liées aux mouvements sanguins systoliques, après application d’un courant faible et de haute fréquence entre électrodes placées sur le cou et l’abdomen."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les méthodes suivantes, lesquelles sont citées comme autres méthodes de mesure ou d’estimation du débit cardiaque ?",
+      "choices": [
+        "Analyse de l’onde de pression artérielle.",
+        "Méthode du pulse contour.",
+        "Impédance intracardiaque.",
+        "Dosage isolé des protéines plasmatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’analyse de l’onde de pression artérielle, le pulse contour et l’impédance intracardiaque. Le dosage des protéines plasmatiques est mentionné dans la viscosité, pas comme méthode de mesure du débit cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont citées comme variations physiologiques possibles du débit cardiaque ?",
+      "choices": [
+        "Grossesse.",
+        "Altitude.",
+        "Température centrale.",
+        "Tamponnade cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La grossesse, l’altitude et la température centrale figurent parmi les variations physiologiques du débit cardiaque. La tamponnade cardiaque est une cause de choc obstructif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les principales étiologies de diminution ou d’altération du débit cardiaque, quelles associations sont exactes ?",
+      "choices": [
+        "Perte de sang — hypovolémie vraie.",
+        "Choc spinal — hypovolémie relative.",
+        "Infection grave — choc distributif.",
+        "Embolie pulmonaire — choc cardiogénique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La perte de sang correspond à une hypovolémie vraie, le choc spinal à une hypovolémie relative, et l’infection grave au choc distributif. L’embolie pulmonaire est classée comme choc obstructif."
+    },
+    {
+      "type": "QCS",
+      "question": "Un ventricule a un VTD de 120 mL et un VTS de 50 mL, avec une fréquence cardiaque de 100/min. Quel est le débit cardiaque calculé ?",
+      "choices": [
+        "5 L/min",
+        "6 L/min",
+        "7 L/min",
+        "12 L/min"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "VES = VTD − VTS = 120 − 50 = 70 mL. Qc = FC × VES = 100 × 70 mL/min = 7000 mL/min, soit 7 L/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour un VTD de 100 mL et un VTS de 40 mL, quelle est la fraction d’éjection ?",
+      "choices": [
+        "40 %",
+        "50 %",
+        "60 %",
+        "70 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "VES = 100 − 40 = 60 mL. La fraction d’éjection est FE = VES/VTD = 60/100 = 60 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle méthode est explicitement indiquée comme méthode de référence pour la mesure du débit cardiaque ?",
+      "choices": [
+        "Bioimpédance thoracique",
+        "Méthode de Fick",
+        "Doppler transtrachéal",
+        "Méthode du pulse contour"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que la méthode de Fick est une méthode de référence pour mesurer le débit cardiaque."
+    },
+    {
+      "type": "QCS",
+      "question": "Si PAM = 90 mmHg, POD = 10 mmHg et RVS = 20 unités, quel débit cardiaque est obtenu avec l’équation Qc = (PAM − POD) / RVS ?",
+      "choices": [
+        "2",
+        "4",
+        "5",
+        "8"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Qc = (90 − 10)/20 = 80/20 = 4."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification étiologique donnée, la vasoplégie correspond à quelle catégorie ?",
+      "choices": [
+        "Hypovolémie vraie",
+        "Hypovolémie relative",
+        "Choc obstructif",
+        "Choc cardiogénique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La vasoplégie est listée parmi les causes d’hypovolémie relative."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les techniques suivantes, laquelle n’est pas citée comme technique Doppler ?",
+      "choices": [
+        "Doppler sus-sternal",
+        "Doppler transtrachéal",
+        "Doppler œsophagien",
+        "PiCCO"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le PiCCO est cité parmi les autres méthodes, mais pas comme technique Doppler. Les trois autres sont explicitement mentionnées comme techniques Doppler."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’index cardiaque, quelles affirmations sont exactes ?",
+      "choices": [
+        "Il correspond au débit cardiaque rapporté à la surface corporelle.",
+        "Il s’exprime en L/min/m².",
+        "Il se calcule par la formule IC = Qc × surface corporelle.",
+        "À débit cardiaque identique, une surface corporelle plus élevée diminue l’index cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’index cardiaque est défini par IC = Qc / surface corporelle et s’exprime en L/min/m²."
+    },
+    {
+      "type": "QCM",
+      "question": "À fréquence cardiaque constante, quelles modifications augmentent le débit cardiaque selon les relations données ?",
+      "choices": [
+        "Une augmentation du volume télédiastolique avec volume télésystolique inchangé.",
+        "Une diminution du volume télésystolique avec volume télédiastolique inchangé.",
+        "Une égalité entre volume télédiastolique et volume télésystolique.",
+        "Une augmentation du volume télésystolique avec volume télédiastolique inchangé."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Qc = FC × VES et VES = VTD − VTS. Le débit augmente si le VES augmente, donc si le VTD augmente ou si le VTS diminue."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fraction d’éjection et le volume d’éjection systolique, quelles propositions sont exactes ?",
+      "choices": [
+        "La fraction d’éjection est égale à VES / VTD.",
+        "Le volume d’éjection systolique est égal à VTD − VTS.",
+        "La fraction d’éjection peut s’écrire (VTD − VTS) / VTD.",
+        "Le volume d’éjection systolique est égal à VTS − VTD."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le VES correspond à VTD − VTS, et la FE est définie par FE = VES / VTD."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les gradients de pression et les résistances vasculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Selon la loi de Poiseuille, Q = ΔP / R.",
+        "La résistance peut s’écrire R = ΔP / Q.",
+        "Les résistances vasculaires systémiques peuvent s’écrire RVS = (PAoM − Psm) / Qc.",
+        "Le débit cardiaque peut s’écrire Qc = (POD − PAM) / RVS."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte donne Q = ΔP / R, R = ΔP / Q et RVS = (PAoM − Psm) / Qc. L’équation du débit utilise PAM − POD, et non l’inverse."
+    },
+    {
+      "type": "QCM",
+      "question": "D’après la loi de Poiseuille appliquée aux résistances vasculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "La résistance augmente avec la viscosité sanguine.",
+        "La résistance augmente avec la longueur du segment vasculaire.",
+        "La résistance est directement proportionnelle à la quatrième puissance du rayon.",
+        "Une diminution du rayon vasculaire augmente fortement la résistance."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "R = 8ηL / πr⁴ : la résistance augmente avec η et L, mais diminue lorsque le rayon augmente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le nombre de Reynolds selon l’expression donnée, quelles propositions sont exactes ?",
+      "choices": [
+        "Il augmente lorsque le débit Q augmente, toutes choses égales par ailleurs.",
+        "Il diminue lorsque la viscosité μ augmente, toutes choses égales par ailleurs.",
+        "Un nombre de Reynolds faible correspond à un régime laminaire.",
+        "Un nombre de Reynolds élevé correspond à un régime laminaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Re = 4Qρ / πdμ. Un Reynolds faible traduit un écoulement laminaire, tandis qu’un Reynolds élevé traduit un écoulement turbulent."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la viscosité sanguine, quels éléments sont cités comme déterminants ou liés à celle-ci ?",
+      "choices": [
+        "L’hématocrite.",
+        "Les protéines plasmatiques.",
+        "La nature laminaire ou turbulente de l’écoulement sanguin.",
+        "L’indépendance complète vis-à-vis des éléments sanguins."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’hématocrite, les protéines plasmatiques et la nature de l’écoulement sanguin comme éléments liés à la viscosité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évaluation de l’inotropisme, quelles propositions sont exactes ?",
+      "choices": [
+        "Le dP/dt peut être utilisé.",
+        "L’élastance E = dP/dV peut être utilisée.",
+        "La fraction d’éjection FE = VES / VTD peut être utilisée.",
+        "La capacitance vasculaire est un paramètre direct d’évaluation de l’inotropisme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’inotropisme peut être évalué par dP/dt, l’élastance et la fraction d’éjection. La capacitance vasculaire intervient dans la précharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont cités comme facteurs influençant la contractilité myocardique ?",
+      "choices": [
+        "L’anoxie.",
+        "L’acidose.",
+        "Les agents pharmacologiques tels que les antiarythmiques et les anesthésiques.",
+        "Le gradient entre pression systémique moyenne et pression auriculaire droite."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anoxie, l’acidose et certains agents pharmacologiques influencent la contractilité. Le gradient cité intervient dans la précharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fréquence cardiaque dans la physiologie du débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle joue un rôle majeur dans la régulation du débit cardiaque.",
+        "Elle est un déterminant important de la puissance cardiaque.",
+        "Elle est un déterminant de la consommation myocardique en oxygène.",
+        "Sa rapidité de variation n’intervient pas dans la régulation centrale du débit cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue à la fréquence cardiaque un rôle majeur dans la régulation du débit, la puissance cardiaque et la consommation myocardique en oxygène."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le calcul Doppler du débit aortique, quelles propositions sont exactes ?",
+      "choices": [
+        "QAo = Vmoy × (πd² / 4).",
+        "Dans cette formule, d correspond au diamètre aortique.",
+        "À vitesse moyenne constante, un doublement du diamètre multiplie la surface par quatre.",
+        "QAo est calculé par Vmoy divisée par la surface corporelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le débit Doppler aortique repose sur QAo = Vmoy × surface aortique, avec une surface égale à πd²/4."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles correspondent à des techniques Doppler citées pour la mesure du débit cardiaque ?",
+      "choices": [
+        "Doppler sus-sternal.",
+        "Doppler œsophagien.",
+        "Doppler transtrachéal.",
+        "PiCCO."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les techniques Doppler citées sont l’échocardiographie transthoracique couplée au Doppler, le Doppler sus-sternal, transtrachéal et œsophagien. PiCCO est cité parmi les autres méthodes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étiologies d’altération du débit cardiaque, quelles associations sont exactes ?",
+      "choices": [
+        "Embolie pulmonaire — choc obstructif.",
+        "Tamponnade cardiaque — choc obstructif.",
+        "Infarctus du myocarde — choc cardiogénique.",
+        "Choc septique — choc cardiogénique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’embolie pulmonaire et la tamponnade relèvent du choc obstructif. L’infarctus du myocarde relève du choc cardiogénique. Le choc septique relève du choc distributif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les catégories d’hypovolémie et de choc citées, quelles associations sont exactes ?",
+      "choices": [
+        "Perte de sang — hypovolémie vraie.",
+        "Perte de constituants sanguins ou plasmatiques — hypovolémie vraie.",
+        "Vasoplégie — hypovolémie relative.",
+        "Infection grave — hypovolémie vraie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les pertes sanguines ou plasmatiques relèvent de l’hypovolémie vraie. La vasoplégie relève de l’hypovolémie relative. L’infection grave est classée dans le choc distributif."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient a un VTD de 130 mL, un VTS de 55 mL et une fréquence cardiaque de 72/min. Quel est son débit cardiaque ?",
+      "choices": [
+        "4,0 L/min",
+        "5,4 L/min",
+        "6,5 L/min",
+        "7,2 L/min"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "VES = 130 − 55 = 75 mL. Qc = 75 × 72 = 5400 mL/min, soit 5,4 L/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour un VTD de 150 mL et un VTS de 45 mL, quelle est la fraction d’éjection ?",
+      "choices": [
+        "30 %",
+        "50 %",
+        "70 %",
+        "105 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "VES = 150 − 45 = 105 mL. FE = 105 / 150 = 0,70, soit 70 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la méthode utilisant la production de CO₂, quelle est l’expression correcte de K ?",
+      "choices": [
+        "K = 13,4 × Hb × R",
+        "K = Hb / 13,4 × R",
+        "K = 13,4 × R / Hb",
+        "K = VO₂ × Hb × R"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte donne K = 13,4 × Hb × R, avec R correspondant au quotient respiratoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la valeur approximative du quotient respiratoire R indiquée dans le texte ?",
+      "choices": [
+        "0,4",
+        "0,8",
+        "1,5",
+        "3,5"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le quotient respiratoire R est indiqué comme étant environ égal à 0,8."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification étiologique donnée, la tamponnade cardiaque appartient à quelle catégorie ?",
+      "choices": [
+        "Hypovolémie vraie",
+        "Choc distributif",
+        "Choc obstructif",
+        "Choc cardiogénique"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La tamponnade cardiaque est citée parmi les étiologies de choc obstructif."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle méthode repose sur l’application d’un courant électrique de faible amplitude et de haute fréquence entre des électrodes placées sur le cou et l’abdomen ?",
+      "choices": [
+        "Méthode de Fick",
+        "Thermodilution intermittente par bolus",
+        "Bioimpédance thoracique",
+        "Doppler sus-sternal"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La bioimpédance thoracique mesure les variations d’impédance liées à l’entrée et à la sortie de sang dans le thorax à chaque systole."
+    },
+    {
+      "type": "QCM",
+      "question": "Un patient a un VTD de 140 mL, un VTS de 60 mL, une fréquence cardiaque de 75/min et une surface corporelle de 2,0 m². Quelles propositions sont exactes ?",
+      "choices": [
+        "Le volume d’éjection systolique est de 80 mL",
+        "Le débit cardiaque est de 6 L/min",
+        "L’index cardiaque est de 3 L/min/m²",
+        "La fraction d’éjection est de 80 %"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "VES = VTD − VTS = 80 mL. Qc = 80 × 75 = 6000 mL/min = 6 L/min. IC = 6/2 = 3 L/min/m². FE = 80/140 ≈ 57 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon les relations pression-débit appliquées au débit cardiaque et aux résistances vasculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Si PAM = 85 mmHg, POD = 5 mmHg et RVS = 16 unités, alors Qc = 5 L/min",
+        "Les résistances vasculaires systémiques peuvent s’exprimer par RVS = (PAoM − Psm) / Qc",
+        "À gradient de pression constant, une augmentation des résistances diminue le débit",
+        "Pour un même débit, une augmentation du gradient de pression augmente la résistance calculée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Qc = (PAM − POD)/RVS = (85 − 5)/16 = 5 L/min. Les formules données relient directement débit, gradient de pression et résistances."
+    },
+    {
+      "type": "QCM",
+      "question": "D’après la loi de Poiseuille appliquée aux résistances vasculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Un doublement de la viscosité sanguine double la résistance si les autres paramètres sont constants",
+        "Un triplement de la longueur du vaisseau triple la résistance si les autres paramètres sont constants",
+        "Un doublement du rayon divise la résistance par 16",
+        "Dans l’expression R = 8ηL / πr⁴, la résistance dépend directement du gradient de pression"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "R = 8ηL / πr⁴ : la résistance est proportionnelle à la viscosité et à la longueur, et inversement proportionnelle à la puissance quatrième du rayon."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le nombre de Reynolds tel qu’il est formulé dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il augmente lorsque le débit Q augmente, toutes choses égales par ailleurs",
+        "Il augmente lorsque la viscosité μ augmente, toutes choses égales par ailleurs",
+        "Il augmente lorsque la densité ρ augmente, toutes choses égales par ailleurs",
+        "Il diminue lorsque le diamètre d augmente, toutes choses égales par ailleurs"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Re = 4Qρ / πdμ. Il est proportionnel à Q et ρ, et inversement proportionnel à d et μ."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la viscosité sanguine et de son intégration dans l’hémodynamique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hématocrite fait partie des déterminants cités de la viscosité sanguine",
+        "Les protéines plasmatiques font partie des déterminants cités de la viscosité sanguine",
+        "La viscosité sanguine est citée parmi les facteurs de postcharge",
+        "La volémie est explicitement citée comme déterminant direct de la viscosité sanguine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La viscosité dépend notamment de l’hématocrite et des protéines plasmatiques, et elle intervient dans la postcharge. La volémie est citée pour la précharge, pas comme déterminant direct de la viscosité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les paramètres d’évaluation de l’inotropisme, quelles propositions sont exactes ?",
+      "choices": [
+        "L’élastance peut être exprimée par E = dP/dV",
+        "La fraction d’éjection peut être exprimée par FE = VES / VTD",
+        "Le dP/dt est cité comme paramètre d’évaluation de l’inotropisme",
+        "L’index cardiaque est défini comme un paramètre direct d’évaluation de l’inotropisme"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’inotropisme peut être évalué par dP/dt, l’élastance E = dP/dV et la fraction d’éjection FE = VES/VTD. L’index cardiaque est Qc/surface corporelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont explicitement cités comme influençant la contractilité myocardique ?",
+      "choices": [
+        "L’influence sympathique et parasympathique",
+        "La balance myocardique en oxygène",
+        "L’anoxie et l’acidose",
+        "Les agents pharmacologiques tels que les antiarythmiques et les anesthésiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Tous ces éléments figurent dans la liste des facteurs influençant la contractilité myocardique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la méthode de Fick appliquée au débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle utilise la relation VO₂ = Qc × (CaO₂ − CvO₂)",
+        "Elle permet d’écrire Qc = VO₂ / (CaO₂ − CvO₂)",
+        "Elle est indiquée comme méthode de référence de mesure du débit cardiaque",
+        "Elle repose sur la formule Qc = VCO₂ / K(SaO₂ − SvO₂)"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode de Fick repose sur la consommation d’oxygène et la différence artérioveineuse en O₂. La formule avec VCO₂ et K correspond à une méthode utilisant la production de CO₂."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes utilisant le CO₂ pour estimer le débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "La méthode utilisant la production de CO₂ peut s’écrire Qc = VCO₂ / K(SaO₂ − SvO₂)",
+        "Le coefficient K est donné par K = 13,4 × Hb × R",
+        "Le quotient respiratoire R est indiqué comme étant environ égal à 0,8",
+        "La réinhalation de CO₂ utilise la formule Qc = VCO₂ / (SaO₂ − SvO₂)"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réinhalation de CO₂ utilise Qc = VCO₂ / (CaCO₂ − CvCO₂), et non la différence SaO₂ − SvO₂."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes de dilution d’un indicateur et le principe de Stewart-Hamilton, quelles propositions sont exactes ?",
+      "choices": [
+        "Le principe de Stewart-Hamilton s’écrit Qc = m / ∫ C(t) dt",
+        "À surface sous la courbe identique, augmenter la masse injectée augmente le débit calculé",
+        "À masse injectée identique, augmenter ∫ C(t) dt diminue le débit calculé",
+        "Les colorants, le lithium et la thermodilution sont cités dans les indicateurs ou modalités utilisés"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Selon Qc = m / ∫ C(t)dt, le débit est proportionnel à la masse injectée et inversement proportionnel à l’aire sous la courbe de concentration."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles modalités sont citées pour la thermodilution ?",
+      "choices": [
+        "Mesure intermittente par bolus",
+        "Mesure continue",
+        "Thermodilution au froid sans injection",
+        "Doppler transtrachéal avec mesure continue de la vélocité"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les modalités citées sont la mesure intermittente par bolus, la mesure continue et la thermodilution au froid sans injection. Le Doppler transtrachéal appartient aux techniques Doppler."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le calcul Doppler du débit aortique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le débit aortique peut s’écrire QAo = Vmoy × (πd² / 4)",
+        "Dans cette formule, d correspond au diamètre aortique",
+        "L’échocardiographie transthoracique couplée au Doppler fait partie des techniques citées",
+        "Le débit aortique dépend du diamètre à la puissance quatrième dans la formule Doppler donnée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La formule Doppler donnée est QAo = Vmoy × (πd²/4), avec d comme diamètre aortique. La dépendance en r⁴ concerne la loi de Poiseuille, pas cette formule Doppler."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la bioimpédance thoracique et les autres méthodes citées, quelles propositions sont exactes ?",
+      "choices": [
+        "L’entrée et la sortie de sang dans le thorax à chaque systole modifient les propriétés électriques thoraciques",
+        "Les variations peuvent être mesurées par le calcul de l’impédance thoracique instantanée",
+        "La méthode utilise un courant de faible amplitude et de haute fréquence entre deux paires d’électrodes placées sur le cou et l’abdomen",
+        "La bioimpédance thoracique repose sur l’injection d’un colorant analysé par Stewart-Hamilton"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bioimpédance thoracique repose sur les variations électriques thoraciques liées aux variations de volume sanguin intrathoracique, sans injection de colorant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étiologies de diminution ou d’altération du débit cardiaque, quelles associations sont exactes ?",
+      "choices": [
+        "Les effets de drogues anesthésiques sont classés dans l’hypovolémie relative",
+        "Le choc anaphylactique est classé dans l’hypovolémie relative",
+        "L’infection grave est classée dans le choc distributif",
+        "La perte de constituants sanguins ou plasmatiques est classée dans l’hypovolémie vraie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces associations correspondent à la classification étiologique fournie : hypovolémie vraie, hypovolémie relative et choc distributif."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient a un VTD de 110 mL, un VTS de 50 mL et une fréquence cardiaque de 90/min. Quel est le débit cardiaque ?",
+      "choices": [
+        "4,5 L/min",
+        "5,4 L/min",
+        "6,0 L/min",
+        "9,9 L/min"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "VES = 110 − 50 = 60 mL. Qc = 60 × 90 = 5400 mL/min = 5,4 L/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la relation RVS = (PAoM − Psm) / Qc, que désigne Psm d’après le texte ?",
+      "choices": [
+        "Pression systolique moyenne",
+        "Pression systémique moyenne",
+        "Pression sous-mitralienne",
+        "Pression sanguine myocardique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte cite le gradient entre pression systémique moyenne et pression auriculaire droite."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification étiologique fournie, l’obstacle à l’éjection du ventricule gauche appartient à quelle catégorie ?",
+      "choices": [
+        "Choc cardiogénique",
+        "Hypovolémie vraie",
+        "Choc obstructif",
+        "Choc distributif"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’obstacle à l’éjection du ventricule gauche est cité parmi les causes de choc obstructif."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est cité comme facteur de postcharge, et non comme facteur de précharge ?",
+      "choices": [
+        "Retour veineux",
+        "Volémie",
+        "Compliance ventriculaire",
+        "Élasticité de la paroi aortique"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’élasticité de la paroi aortique est un facteur de postcharge. Le retour veineux, la volémie et la compliance ventriculaire sont liés à la précharge."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle notion correspond à la propriété intrinsèque du myocyte définie comme contractilité myocardique ?",
+      "choices": [
+        "Précharge",
+        "Postcharge",
+        "Inotropisme",
+        "Capacitance vasculaire"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’inotropisme est défini comme la contractilité myocardique, propriété intrinsèque du myocyte."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification étiologique donnée, l’infection grave est rattachée à quel mécanisme ?",
+      "choices": [
+        "Hypovolémie vraie",
+        "Hypovolémie relative",
+        "Choc distributif",
+        "Choc obstructif"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’infection grave est citée avec le choc septique dans la catégorie du choc distributif."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient dont la fréquence cardiaque reste constante, le VTD passe de 100 mL à 130 mL et le VTS de 50 mL à 40 mL. Quelles propositions sont exactes ?",
+      "choices": [
+        "Le volume d’éjection systolique passe de 50 mL à 90 mL.",
+        "Le débit cardiaque augmente de 80 % si la fréquence cardiaque ne varie pas.",
+        "La fraction d’éjection diminue après ces modifications.",
+        "L’index cardiaque ne peut pas être calculé sans connaître la surface corporelle."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "VES = VTD − VTS : il passe de 50 à 90 mL. À FC constante, Qc augmente dans le même rapport, soit 90/50 = 1,8. La FE augmente, et l’IC nécessite la surface corporelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction précharge-postcharge selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La précharge correspond à la tension de la paroi ventriculaire en fin de diastole.",
+        "En pratique, la précharge peut être assimilée à la pression télédiastolique ventriculaire.",
+        "La postcharge correspond à la contrainte appliquée au muscle cardiaque au début de la systole.",
+        "La pression auriculaire droite est citée comme un facteur direct de postcharge."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La précharge est liée à la fin de diastole et peut être assimilée à la pression télédiastolique. La postcharge est une contrainte systolique. La pression auriculaire droite intervient dans le gradient de retour veineux, pas comme facteur direct de postcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des pressions utilisées dans les relations hémodynamiques citées, quelles propositions sont exactes ?",
+      "choices": [
+        "Le gradient entre pression systémique moyenne et pression auriculaire droite est cité parmi les déterminants de la précharge.",
+        "Les résistances vasculaires systémiques peuvent être exprimées par RVS = (PAoM − Psm) / Qc.",
+        "Le débit cardiaque peut être exprimé par Qc = (PAM − POD) / RVS.",
+        "Psm correspond à la pression auriculaire droite."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue la pression systémique moyenne et la pression auriculaire droite. Il donne les relations RVS = (PAoM − Psm)/Qc et Qc = (PAM − POD)/RVS."
+    },
+    {
+      "type": "QCM",
+      "question": "D’après la relation de Poiseuille R = 8ηL / πr⁴, quelles propositions sont exactes ?",
+      "choices": [
+        "Si la viscosité et la longueur du segment vasculaire doublent, la résistance est multipliée par 4, à rayon constant.",
+        "Si le rayon double, la résistance est divisée par 16, toutes choses égales par ailleurs.",
+        "Si le rayon est divisé par 2, la résistance est multipliée par 16.",
+        "À gradient de pression constant, le débit augmente quand la résistance augmente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La résistance est proportionnelle à η et L, et inversement proportionnelle à r⁴. À gradient de pression constant, Q = ΔP/R : le débit diminue quand la résistance augmente."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon l’expression Re = 4Qρ / πdμ, quelles modifications augmentent le nombre de Reynolds ?",
+      "choices": [
+        "Une augmentation du débit Q.",
+        "Une diminution de la viscosité μ.",
+        "Une augmentation du diamètre d dans cette expression.",
+        "Une augmentation de la masse volumique ρ."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Dans la formule donnée, Re augmente avec Q et ρ, diminue avec μ et avec d placé au dénominateur."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les paramètres suivants, lesquels sont explicitement cités comme permettant d’évaluer l’inotropisme ?",
+      "choices": [
+        "Le dP/dt.",
+        "L’élastance définie par E = dP/dV.",
+        "La fraction d’éjection FE = VES / VTD.",
+        "L’index cardiaque IC = Qc / surface corporelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’inotropisme peut être évalué par le dP/dt, l’élastance et la fraction d’éjection. L’index cardiaque est une grandeur de débit indexée à la surface corporelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont cités comme influençant la contractilité myocardique ?",
+      "choices": [
+        "Les agents antiarythmiques et anesthésiques.",
+        "Les influences sympathique et parasympathique.",
+        "L’anoxie et l’acidose.",
+        "Les protéines plasmatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les protéines plasmatiques sont citées comme déterminants de la viscosité sanguine, non comme facteurs influençant directement la contractilité myocardique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes utilisant le CO₂ dans l’estimation du débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "La méthode utilisant la production de CO₂ peut s’écrire Qc = VCO₂ / K(SaO₂ − SvO₂).",
+        "Le coefficient K est défini par K = 13,4 × Hb × R.",
+        "Le quotient respiratoire R est indiqué comme étant environ égal à 0,8.",
+        "La réinhalation de CO₂ repose sur Qc = VCO₂ / (SaO₂ − SvO₂)."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réinhalation de CO₂ utilise les contenus en CO₂ : Qc = VCO₂ / (CaCO₂ − CvCO₂), et non les saturations en O₂."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des méthodes de dilution d’un indicateur, quelles propositions sont exactes ?",
+      "choices": [
+        "Le principe de Stewart-Hamilton exprime Qc = m / ∫ C(t) dt.",
+        "À quantité injectée identique, une augmentation de l’aire sous la courbe de concentration diminue le débit calculé.",
+        "Les colorants, le lithium et la thermodilution sont cités comme indicateurs ou modalités utilisées.",
+        "Ces méthodes nécessitent toutes la mesure du diamètre aortique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode de Stewart-Hamilton relie le débit à la masse injectée et à l’aire sous la courbe de concentration. Le diamètre aortique concerne le calcul Doppler."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles modalités de thermodilution sont explicitement mentionnées ?",
+      "choices": [
+        "La mesure intermittente par bolus.",
+        "La mesure continue.",
+        "La thermodilution au froid sans injection.",
+        "La thermodilution par Doppler transtrachéal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite trois modalités : intermittente par bolus, continue, et au froid sans injection. Le Doppler transtrachéal est une technique Doppler, pas une thermodilution."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le calcul Doppler du débit aortique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le débit aortique peut être exprimé par QAo = Vmoy × (πd² / 4).",
+        "Le diamètre d correspond au diamètre aortique.",
+        "Le Doppler fémoral est cité parmi les techniques Doppler du texte.",
+        "La surface de section utilisée dans la formule est πd² / 4."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte donne QAo = Vmoy × (πd²/4) avec d = diamètre aortique. Les techniques citées sont transthoracique, sus-sternale, transtrachéale et œsophagienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la bioimpédance thoracique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’entrée et la sortie de sang dans le thorax à chaque systole modifient les propriétés électriques thoraciques.",
+        "La méthode repose sur le calcul de l’impédance thoracique instantanée.",
+        "Elle utilise un courant électrique de faible amplitude et de haute fréquence.",
+        "Elle repose sur la mesure directe de la consommation d’oxygène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bioimpédance mesure les variations électriques thoraciques liées au sang éjecté. La consommation d’oxygène relève de la méthode de Fick."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont citées comme variations physiologiques possibles du débit cardiaque ?",
+      "choices": [
+        "Le sexe.",
+        "La grossesse.",
+        "L’altitude.",
+        "L’infarctus du myocarde."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le sexe, la grossesse et l’altitude sont cités parmi les variations physiologiques. L’infarctus du myocarde est classé dans les étiologies de choc cardiogénique."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon la classification étiologique fournie, quelles associations sont exactes ?",
+      "choices": [
+        "Choc septique — choc distributif.",
+        "Choc anaphylactique — hypovolémie relative.",
+        "Cardiomyopathie — choc cardiogénique.",
+        "Embolie pulmonaire — choc cardiogénique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’embolie pulmonaire est classée dans le choc obstructif. Le choc septique est distributif, l’anaphylaxie relève de l’hypovolémie relative dans le texte, et la cardiomyopathie du choc cardiogénique."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient a un débit cardiaque de 6,0 L/min et une fréquence cardiaque de 80/min. Quel est son volume d’éjection systolique ?",
+      "choices": [
+        "50 mL",
+        "60 mL",
+        "75 mL",
+        "90 mL"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Qc = FC × VES, donc VES = 6,0 L/min / 80 = 0,075 L = 75 mL."
+    },
+    {
+      "type": "QCS",
+      "question": "Un ventricule a un VTD de 150 mL et un VTS de 60 mL. Quelle est la fraction d’éjection ?",
+      "choices": [
+        "40 %",
+        "50 %",
+        "60 %",
+        "70 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "VES = 150 − 60 = 90 mL. FE = VES/VTD = 90/150 = 0,60, soit 60 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la méthode utilisant la production de CO₂, si Hb = 12 g/dL et R = 0,8, quelle est la valeur de K selon la formule donnée ?",
+      "choices": [
+        "96,4",
+        "107,2",
+        "128,6",
+        "160,8"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "K = 13,4 × Hb × R = 13,4 × 12 × 0,8 = 128,64, soit environ 128,6."
+    },
+    {
+      "type": "QCS",
+      "question": "Avec Vmoy = 25 cm/s et un diamètre aortique d = 2 cm, quel débit aortique approximatif obtient-on avec QAo = Vmoy × πd²/4 ?",
+      "choices": [
+        "1,57 L/min",
+        "2,35 L/min",
+        "3,14 L/min",
+        "4,71 L/min"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Surface = π × 2²/4 = π cm². Q = 25π cm³/s ≈ 78,5 cm³/s, soit environ 4,71 L/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les méthodes suivantes, laquelle est citée comme autre méthode de mesure ou d’estimation du débit cardiaque, et non comme technique Doppler ?",
+      "choices": [
+        "Doppler sus-sternal",
+        "Doppler œsophagien",
+        "Échocardiographie transthoracique couplée au Doppler",
+        "PiCCO"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "PiCCO est listé parmi les autres méthodes. Les trois autres propositions sont des techniques Doppler citées."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification étiologique, la perte de constituants sanguins ou plasmatiques correspond à quelle catégorie ?",
+      "choices": [
+        "Hypovolémie vraie",
+        "Hypovolémie relative",
+        "Choc obstructif",
+        "Choc cardiogénique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La perte de sang et la perte de constituants sanguins ou plasmatiques sont classées dans l’hypovolémie vraie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rythme cardiaque dans le cadre du débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est cité parmi les déterminants du débit cardiaque.",
+        "Les troubles du rythme cardiaque sont classés parmi les causes de choc cardiogénique.",
+        "Il est strictement assimilé à la fréquence cardiaque dans la liste des déterminants.",
+        "Il intervient explicitement dans la formule Qc = FC × VES à la place de la fréquence cardiaque."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte distingue fréquence cardiaque et rythme cardiaque parmi les déterminants. Les troubles du rythme sont cités comme étiologie de choc cardiogénique."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’on interprète la pression télédiastolique ventriculaire comme reflet de la précharge, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Cette assimilation est pratique, mais la précharge correspond d’abord à une tension pariétale de fin de diastole.",
+        "La pression télédiastolique ventriculaire est toujours équivalente au volume télédiastolique, indépendamment de la compliance ventriculaire.",
+        "La précharge correspond au volume télédiastolique ventriculaire.",
+        "La compliance ventriculaire fait partie des facteurs dont dépend la précharge."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La précharge est une tension pariétale en fin de diastole, correspondant au VTD et pouvant être assimilée en pratique à la pression télédiastolique. Elle dépend notamment de la compliance ventriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont des facteurs de postcharge explicitement cités ?",
+      "choices": [
+        "Pression systolique aortique.",
+        "Élasticité de la paroi aortique.",
+        "Viscosité sanguine.",
+        "Retour veineux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La postcharge dépend de la pression systolique aortique, des résistances vasculaires, de l’élasticité aortique, de la viscosité sanguine et de la tension pariétale. Le retour veineux relève de la précharge."
+    },
+    {
+      "type": "QCM",
+      "question": "D’après les relations de Poiseuille indiquées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Une diminution du rayon vasculaire augmente fortement la résistance.",
+        "Une augmentation de la longueur du vaisseau augmente la résistance.",
+        "Une diminution de la viscosité sanguine diminue la résistance.",
+        "À gradient de pression constant, une augmentation de la résistance augmente le débit."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Selon R = 8ηL / πr⁴, la résistance augmente avec la viscosité et la longueur, et varie inversement avec r⁴. Selon Q = ΔP / R, si ΔP est constant, une augmentation de R diminue Q."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le nombre de Reynolds tel qu’il est présenté, quelles propositions sont exactes ?",
+      "choices": [
+        "Un nombre de Reynolds faible correspond à un régime laminaire.",
+        "Un nombre de Reynolds élevé correspond à un régime turbulent.",
+        "À paramètres constants, une augmentation du débit Q augmente le nombre de Reynolds.",
+        "À paramètres constants, une augmentation du diamètre d augmente le nombre de Reynolds selon la formule donnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte donne Re = 4Qρ / πdμ. Re augmente avec Q et diminue avec d dans cette expression. Re faible : laminaire ; Re élevé : turbulent."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les paramètres suivants, lesquels sont proposés pour évaluer l’inotropisme ?",
+      "choices": [
+        "dP/dt.",
+        "Élastance E = dP/dV.",
+        "Fraction d’éjection FE = VES / VTD.",
+        "Volume télédiastolique ventriculaire isolé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’inotropisme peut être évalué par dP/dt, l’élastance et la fraction d’éjection. Le VTD isolé est surtout rattaché à la précharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont explicitement cités comme influençant la contractilité myocardique ?",
+      "choices": [
+        "Influence sympathique et parasympathique.",
+        "Balance myocardique en oxygène.",
+        "Acidose.",
+        "Diamètre aortique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La contractilité est influencée par la fréquence cardiaque, les influences sympathique et parasympathique, la balance myocardique en oxygène, l’anoxie, l’acidose et certains agents pharmacologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la méthode de Fick appliquée au débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle repose sur la relation VO₂ = Qc × (CaO₂ − CvO₂).",
+        "Elle permet d’écrire Qc = VO₂ / (CaO₂ − CvO₂).",
+        "À VO₂ constant, une augmentation de la différence artérioveineuse en O₂ diminue le débit cardiaque calculé.",
+        "Elle utilise comme formule principale Qc = VCO₂ / K(SaO₂ − SvO₂)."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode de Fick utilise VO₂ et la différence artérioveineuse en O₂. La formule avec VCO₂ et K correspond à la méthode utilisant la production de CO₂."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes utilisant le dioxyde de carbone, quelles propositions sont exactes ?",
+      "choices": [
+        "La méthode utilisant la production de CO₂ peut s’écrire Qc = VCO₂ / K(SaO₂ − SvO₂).",
+        "Dans cette méthode, K = 13,4 × Hb × R.",
+        "Le quotient respiratoire R est indiqué comme étant environ égal à 0,8.",
+        "La réinhalation de CO₂ utilise la différence CaCO₂ − CvCO₂."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue la méthode par production de CO₂, avec K = 13,4 × Hb × R, et la réinhalation de CO₂ fondée sur CaCO₂ − CvCO₂."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les techniques suivantes, lesquelles appartiennent aux méthodes Doppler citées ?",
+      "choices": [
+        "Échocardiographie transthoracique couplée au Doppler.",
+        "Doppler sus-sternal.",
+        "Doppler transtrachéal.",
+        "Méthode du pulse contour."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les techniques Doppler citées sont l’échocardiographie transthoracique couplée au Doppler, le Doppler sus-sternal, transtrachéal et œsophagien. Le pulse contour est classé parmi les autres méthodes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la bioimpédance thoracique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle repose sur les modifications des propriétés électriques thoraciques liées à l’entrée et à la sortie de sang dans le thorax à chaque systole.",
+        "Elle mesure des variations par le calcul de l’impédance thoracique instantanée.",
+        "Elle utilise un courant électrique de faible amplitude et de haute fréquence.",
+        "Elle nécessite deux paires d’électrodes placées exclusivement sur le thorax."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bioimpédance utilise un courant de faible amplitude et haute fréquence entre deux paires d’électrodes placées sur le cou et l’abdomen, et non exclusivement sur le thorax."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont citées comme variations physiologiques possibles du débit cardiaque ?",
+      "choices": [
+        "Âge.",
+        "Position.",
+        "Température centrale.",
+        "Infarctus du myocarde."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les variations physiologiques citées incluent notamment sexe, âge, grossesse, position, effort, température centrale, anxiété et altitude. L’infarctus du myocarde est une étiologie de choc cardiogénique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les grandes catégories étiologiques d’altération du débit cardiaque, quelles associations sont exactes ?",
+      "choices": [
+        "Hypovolémie vraie : perte de sang ou de constituants sanguins/plasmatiques.",
+        "Hypovolémie relative : vasoplégie, choc anaphylactique, choc spinal ou effets de drogues anesthésiques.",
+        "Choc distributif : choc septique ou infection grave.",
+        "Choc obstructif : embolie pulmonaire, tamponnade cardiaque ou obstacle à l’éjection du ventricule gauche."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces associations reprennent la classification étiologique fournie dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Un patient a un débit cardiaque de 5,6 L/min, une fréquence cardiaque de 70/min et une surface corporelle de 1,6 m². Quelles propositions sont exactes ?",
+      "choices": [
+        "Son index cardiaque est de 3,5 L/min/m².",
+        "Son volume d’éjection systolique est de 80 mL.",
+        "Son index cardiaque se situe dans les valeurs usuelles indiquées.",
+        "Son débit cardiaque se situe dans l’intervalle 6,5 ± 0,6 L/min."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "IC = 5,6 / 1,6 = 3,5 L/min/m². VES = Qc / FC = 5,6 L/min / 70 = 0,08 L = 80 mL. L’IC est usuel ; le Qc de 5,6 L/min est inférieur à 5,9 L/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la formule Doppler QAo = Vmoy × πd²/4, si Vmoy reste constante et que le diamètre aortique double, que devient le débit aortique calculé ?",
+      "choices": [
+        "Il est divisé par deux.",
+        "Il reste inchangé.",
+        "Il double.",
+        "Il quadruple."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La surface est proportionnelle au carré du diamètre. Si d double, d² est multiplié par 4, donc QAo est quadruplé à vitesse constante."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le principe de Stewart-Hamilton, si la masse d’indicateur injectée reste constante et que l’intégrale de la concentration en fonction du temps double, que devient le débit cardiaque calculé ?",
+      "choices": [
+        "Il double.",
+        "Il est divisé par deux.",
+        "Il est multiplié par quatre.",
+        "Il reste inchangé."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Qc = m / ∫C(t)dt. À masse constante, si l’intégrale double, le débit calculé est divisé par deux."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification fournie, quelle entité appartient à l’hypovolémie relative ?",
+      "choices": [
+        "Choc spinal.",
+        "Embolie pulmonaire.",
+        "Infarctus du myocarde.",
+        "Choc septique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le choc spinal est classé dans l’hypovolémie relative. L’embolie pulmonaire est obstructive, l’infarctus cardiogénique et le choc septique distributif."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel paramètre est explicitement décrit comme déterminant de la consommation myocardique en oxygène ?",
+      "choices": [
+        "Fréquence cardiaque.",
+        "Surface corporelle.",
+        "Diamètre aortique.",
+        "Quotient respiratoire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la fréquence cardiaque est un déterminant de la consommation myocardique en oxygène."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les situations suivantes, laquelle n’est pas citée comme variation physiologique du débit cardiaque ?",
+      "choices": [
+        "Altitude.",
+        "Anxiété.",
+        "Grossesse.",
+        "Infection grave."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’infection grave est classée parmi les causes de choc distributif, et non parmi les variations physiologiques du débit cardiaque."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la relation T = P × R / e, si P et R restent constants et que le terme e double, que devient T ?",
+      "choices": [
+        "T double.",
+        "T est divisée par deux.",
+        "T est multipliée par quatre.",
+        "T devient nulle."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans T = P × R / e, T est inversement proportionnelle à e. Si e double, T est divisée par deux."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un sujet ayant VTD = 125 mL, VTS = 45 mL, FC = 85/min et surface corporelle = 1,7 m², quelles propositions sont exactes ?",
+      "choices": [
+        "Le volume d’éjection systolique est de 80 mL.",
+        "Le débit cardiaque est de 6,8 L/min.",
+        "L’index cardiaque est de 4,0 L/min/m².",
+        "La fraction d’éjection est de 36 %."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "VES = VTD − VTS = 80 mL. Qc = VES × FC = 80 × 85 = 6800 mL/min = 6,8 L/min. IC = 6,8/1,7 = 4,0 L/min/m². FE = VES/VTD = 80/125 = 64 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’on assimile en pratique la précharge à une pression télédiastolique ventriculaire, quelles affirmations restent conformes au texte ?",
+      "choices": [
+        "La précharge correspond à une tension pariétale en fin de diastole.",
+        "La précharge correspond au volume télédiastolique ventriculaire.",
+        "La pression télédiastolique ventriculaire peut servir d’approximation pratique de la précharge.",
+        "La précharge est indépendante de la compliance ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte définit la précharge comme la tension de paroi en fin de diastole, correspondant au VTD et pouvant être assimilée en pratique à la pression télédiastolique. Elle dépend notamment de la compliance ventriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse d’une augmentation de précharge, quels mécanismes ou déterminants peuvent être retenus d’après le texte ?",
+      "choices": [
+        "Une augmentation de la volémie peut intervenir.",
+        "Le retour veineux participe à sa détermination.",
+        "Le gradient entre pression systémique moyenne et pression auriculaire droite intervient.",
+        "La pression systolique aortique en est le déterminant principal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La précharge dépend du retour veineux, de la volémie, de la capacitance vasculaire, du gradient Psm–pression auriculaire droite et de la compliance ventriculaire. La pression systolique aortique relève de la postcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un modèle où la contrainte systolique imposée au ventricule gauche augmente, quels facteurs cités peuvent participer à cette postcharge ?",
+      "choices": [
+        "La pression systolique aortique.",
+        "Les résistances vasculaires.",
+        "L’élasticité de la paroi aortique.",
+        "La fraction d’éjection comme facteur direct de postcharge."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs de postcharge cités sont la pression systolique aortique, les résistances vasculaires, l’élasticité de la paroi aortique, la viscosité sanguine et la tension pariétale selon Laplace. La fraction d’éjection est un paramètre d’évaluation de l’inotropisme."
+    },
+    {
+      "type": "QCM",
+      "question": "En appliquant strictement la relation de Poiseuille R = 8ηL / πr^4, quelles propositions sont exactes ?",
+      "choices": [
+        "À rayon constant, doubler la longueur du vaisseau double la résistance.",
+        "À rayon constant, doubler la viscosité double la résistance.",
+        "Doubler le rayon divise la résistance par 16.",
+        "La résistance varie proportionnellement au carré du rayon."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La résistance est proportionnelle à la viscosité η et à la longueur L, et inversement proportionnelle à r^4. Doubler le rayon divise donc R par 2^4 = 16."
+    },
+    {
+      "type": "QCM",
+      "question": "À partir de l’expression Re = 4Qρ / πdμ, quelles interprétations sont exactes ?",
+      "choices": [
+        "Une augmentation du débit Q augmente le nombre de Reynolds.",
+        "Une augmentation de la densité ρ augmente le nombre de Reynolds.",
+        "À Q, ρ et μ constants, une augmentation du diamètre d augmente le nombre de Reynolds.",
+        "Un nombre de Reynolds élevé correspond à un régime turbulent."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Selon la formule donnée, Re augmente avec Q et ρ, diminue lorsque d ou μ augmentent, et un Re élevé correspond à un régime turbulent."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour apprécier l’inotropisme sans le confondre avec ses facteurs d’influence, quels paramètres sont cités comme outils d’évaluation ?",
+      "choices": [
+        "Le dP/dt.",
+        "L’élastance E = dP/dV.",
+        "La fraction d’éjection FE = VES/VTD.",
+        "L’administration d’agents anesthésiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’inotropisme peut être évalué par dP/dt, l’élastance et la fraction d’éjection. Les agents anesthésiques sont des facteurs influençant la contractilité, non des paramètres d’évaluation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs capables de modifier la contractilité myocardique selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’influence sympathique et parasympathique est citée.",
+        "L’anoxie et l’acidose sont citées.",
+        "Les antiarythmiques et les anesthésiques sont cités.",
+        "Le sexe et l’âge sont cités comme facteurs directs de contractilité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La contractilité est influencée par la fréquence cardiaque, le système sympathique et parasympathique, la balance myocardique en oxygène, l’anoxie, l’acidose et certains agents pharmacologiques. Sexe et âge sont des variations physiologiques du débit cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Un interne vérifie les relations utilisables pour estimer le débit cardiaque. Quelles écritures sont compatibles avec le texte ?",
+      "choices": [
+        "Qc = (PAM − POD) / RVS.",
+        "Qc = VO₂ / (CaO₂ − CvO₂).",
+        "Qc = vitesse × surface.",
+        "Qc = FC / VES."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte donne Qc = VES × FC, Qc = VO₂/différence artérioveineuse en O₂, Qc = (PAM − POD)/RVS et Qc = vitesse × surface. Qc = FC/VES est incorrect."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des méthodes fondées sur le dioxyde de carbone, quelles propositions sont exactes ?",
+      "choices": [
+        "La méthode utilisant la production de CO₂ peut s’écrire Qc = VCO₂ / K(SaO₂ − SvO₂).",
+        "Dans cette méthode, K = 13,4 × Hb × R.",
+        "Le quotient respiratoire R est indiqué comme étant environ égal à 0,8.",
+        "La réinhalation de CO₂ utilise la différence artérioveineuse en O₂."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode avec production de CO₂ utilise Qc = VCO₂/K(SaO₂ − SvO₂), avec K = 13,4 × Hb × R et R ≈ 0,8. La réinhalation de CO₂ utilise CaCO₂ − CvCO₂."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une mesure par dilution d’un indicateur, quelles propositions découlent du principe de Stewart-Hamilton cité ?",
+      "choices": [
+        "Le débit cardiaque est donné par Qc = m / ∫C(t)dt.",
+        "Les colorants et le lithium font partie des indicateurs cités.",
+        "La thermodilution appartient aux méthodes de dilution d’un indicateur.",
+        "À masse injectée constante, une augmentation de l’intégrale de concentration augmente le débit calculé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le principe de Stewart-Hamilton est Qc = m/∫C(t)dt. Les indicateurs cités incluent colorants, lithium et thermodilution. À masse constante, si l’intégrale augmente, le débit calculé diminue."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour le calcul Doppler du débit aortique, quelles propositions sont exactes ?",
+      "choices": [
+        "La relation donnée est QAo = Vmoy × (πd²/4).",
+        "Le diamètre utilisé dans la formule est le diamètre aortique.",
+        "L’échocardiographie transthoracique couplée au Doppler est une technique citée.",
+        "Le PiCCO est classé parmi les techniques Doppler citées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le débit aortique Doppler est calculé par QAo = Vmoy × surface, avec surface = πd²/4 et d diamètre aortique. Le PiCCO est cité parmi les autres méthodes, pas parmi les techniques Doppler."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la bioimpédance thoracique, quelles propositions respectent le mécanisme décrit ?",
+      "choices": [
+        "L’entrée et la sortie de sang dans le thorax à chaque systole modifient les propriétés électriques thoraciques.",
+        "Les variations sont mesurées par le calcul de l’impédance thoracique instantanée.",
+        "Un courant électrique de faible amplitude et de haute fréquence est appliqué entre des électrodes placées sur le cou et l’abdomen.",
+        "La méthode du pulse contour correspond au mécanisme de bioimpédance thoracique décrit."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bioimpédance thoracique repose sur les variations électriques thoraciques liées au sang systolique, mesurées après application d’un courant faible et haute fréquence entre électrodes cou-abdomen. Le pulse contour est une autre méthode."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une altération du débit cardiaque, quelles associations étiologiques sont conformes à la classification fournie ?",
+      "choices": [
+        "Perte de sang : hypovolémie vraie.",
+        "Choc anaphylactique ou choc spinal : hypovolémie relative.",
+        "Infection grave : choc distributif.",
+        "Troubles du rythme cardiaque : choc obstructif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La perte de sang relève de l’hypovolémie vraie. Le choc anaphylactique et le choc spinal relèvent de l’hypovolémie relative. L’infection grave relève du choc distributif. Les troubles du rythme relèvent du choc cardiogénique."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel n’est pas listé comme déterminant direct du débit cardiaque ?",
+      "choices": [
+        "La précharge.",
+        "La postcharge.",
+        "L’inotropisme.",
+        "L’hématocrite."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Les déterminants cités sont la précharge, la postcharge, l’inotropisme, la fréquence cardiaque et le rythme cardiaque. L’hématocrite est cité comme déterminant de la viscosité sanguine."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la méthode utilisant la production de CO₂, si Hb = 15 g/dL et R = 0,8, quelle est la valeur de K selon la formule donnée ?",
+      "choices": [
+        "120,6.",
+        "134,0.",
+        "160,8.",
+        "201,0."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "K = 13,4 × Hb × R = 13,4 × 15 × 0,8 = 160,8."
+    },
+    {
+      "type": "QCS",
+      "question": "Par la méthode de Fick, si VO₂ = 300 mL/min et si CaO₂ − CvO₂ = 60 mL/L, quel est le débit cardiaque ?",
+      "choices": [
+        "3 L/min.",
+        "5 L/min.",
+        "6 L/min.",
+        "18 L/min."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Qc = VO₂/(CaO₂ − CvO₂) = 300 mL/min ÷ 60 mL/L = 5 L/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la loi de Poiseuille, si le rayon vasculaire est multiplié par 3, que devient la résistance, toutes choses égales par ailleurs ?",
+      "choices": [
+        "Elle est divisée par 3.",
+        "Elle est divisée par 9.",
+        "Elle est divisée par 27.",
+        "Elle est divisée par 81."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "R est inversement proportionnelle à r^4. Si r est multiplié par 3, R est divisée par 3^4 = 81."
+    },
+    {
+      "type": "QCS",
+      "question": "Laquelle des propositions suivantes correspond à une modalité de thermodilution explicitement citée ?",
+      "choices": [
+        "Mesure intermittente par bolus.",
+        "Thermodilution au chaud avec injection obligatoire.",
+        "Thermodilution par Doppler sus-sternal.",
+        "Thermodilution par bioimpédance cervicale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les modalités citées sont la mesure intermittente par bolus, la mesure continue et la thermodilution au froid sans injection."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification étiologique fournie, les effets de drogues anesthésiques sont rattachés à quelle catégorie ?",
+      "choices": [
+        "Hypovolémie vraie.",
+        "Hypovolémie relative.",
+        "Choc obstructif.",
+        "Choc cardiogénique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les effets de drogues anesthésiques sont classés dans l’hypovolémie relative, avec la vasoplégie, le choc anaphylactique et le choc spinal."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’écriture des grandeurs fondamentales du débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Le débit cardiaque correspond à la quantité de sang éjectée par chaque ventricule en une minute.",
+        "Le volume d’éjection systolique se calcule par VES = VTS − VTD.",
+        "L’index cardiaque correspond au débit cardiaque rapporté à la surface corporelle.",
+        "La valeur usuelle du débit cardiaque est d’environ 3,5 ± 0,5 L/min."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le débit cardiaque est exprimé en L/min et correspond au sang éjecté par chaque ventricule en une minute. L’index cardiaque est Qc/surface corporelle. Le VES = VTD − VTS. La valeur 3,5 ± 0,5 correspond à l’index cardiaque en L/min/m²."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels appartiennent aux déterminants directs du débit cardiaque listés dans le texte ?",
+      "choices": [
+        "Précharge",
+        "Postcharge",
+        "Compliance ventriculaire",
+        "Rythme cardiaque"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les déterminants directs cités sont la précharge, la postcharge, l’inotropisme, la fréquence cardiaque et le rythme cardiaque. La compliance ventriculaire est citée comme un facteur dont dépend la précharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour analyser une augmentation de la précharge ventriculaire, quels éléments peuvent être retenus d’après le texte ?",
+      "choices": [
+        "Le retour veineux",
+        "La pression systolique aortique",
+        "La capacitance vasculaire",
+        "Le gradient entre pression systémique moyenne et pression auriculaire droite"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La précharge dépend notamment du retour veineux, de la volémie, de la capacitance vasculaire, du gradient entre pression systémique moyenne et pression auriculaire droite, et de la compliance ventriculaire. La pression systolique aortique est un facteur de postcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Au sujet de la postcharge ventriculaire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle correspond à la contrainte appliquée au muscle cardiaque au début de la systole.",
+        "L’élasticité de la paroi aortique fait partie de ses facteurs.",
+        "Elle est assimilée en pratique au volume télédiastolique ventriculaire.",
+        "La viscosité sanguine fait partie de ses facteurs."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La postcharge est la contrainte appliquée au muscle cardiaque au début de la systole. Ses facteurs incluent la pression systolique aortique, les résistances vasculaires, l’élasticité aortique, la viscosité sanguine et la tension pariétale. L’assimilation au volume télédiastolique concerne la précharge."
+    },
+    {
+      "type": "QCM",
+      "question": "En appliquant la relation de Laplace T = P × R / e, quelles propositions sont exactes ?",
+      "choices": [
+        "La tension pariétale augmente si la pression P augmente, toutes choses égales par ailleurs.",
+        "La tension pariétale est directement proportionnelle à l’épaisseur e.",
+        "La tension pariétale augmente si le rayon R augmente, toutes choses égales par ailleurs.",
+        "Une diminution de l’épaisseur e augmente la tension pariétale, si P et R restent constants."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Selon T = P × R / e, la tension pariétale est proportionnelle à la pression et au rayon, et inversement proportionnelle à l’épaisseur pariétale."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les relations hémodynamiques des résistances vasculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Le débit peut s’écrire Q = ΔP / R.",
+        "La résistance peut s’écrire R = Q / ΔP.",
+        "La résistance varie inversement avec la quatrième puissance du rayon vasculaire.",
+        "Les résistances vasculaires systémiques peuvent s’écrire RVS = (PAoM − Psm) / Qc."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte donne Q = ΔP/R, R = ΔP/Q, R = 8ηL/πr⁴ et RVS = (PAoM − Psm)/Qc. La résistance est donc inversement proportionnelle à r⁴."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du nombre de Reynolds tel qu’il est donné dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Un nombre de Reynolds élevé correspond à un régime turbulent.",
+        "Un nombre de Reynolds faible correspond à un régime laminaire.",
+        "À débit, diamètre et viscosité constants, l’augmentation de la densité ρ augmente Re.",
+        "La viscosité μ apparaît au numérateur de l’expression de Re."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que Re = 4Qρ/πdμ. Un Re faible correspond à un régime laminaire et un Re élevé à un régime turbulent. La viscosité μ est au dénominateur."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour évaluer l’inotropisme sans le confondre avec ses facteurs d’influence, quels paramètres sont cités ?",
+      "choices": [
+        "dP/dt",
+        "Élastance E = dP/dV",
+        "Anoxie",
+        "Fraction d’éjection FE = VES / VTD"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’inotropisme peut être évalué par dP/dt, l’élastance E = dP/dV et la fraction d’éjection FE = VES/VTD. L’anoxie est un facteur influençant la contractilité, non un paramètre d’évaluation."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont cités comme facteurs influençant la contractilité myocardique ?",
+      "choices": [
+        "Influence sympathique et parasympathique",
+        "Balance myocardique en oxygène",
+        "Acidose",
+        "Pression systémique moyenne"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs cités sont la fréquence cardiaque, les influences sympathique et parasympathique, la balance myocardique en oxygène, l’anoxie, l’acidose et certains agents pharmacologiques. La pression systémique moyenne intervient dans le gradient de retour veineux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rôle de la fréquence cardiaque dans le débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle a un rôle majeur dans la régulation du débit cardiaque.",
+        "Elle est un déterminant important de la puissance cardiaque.",
+        "Elle est un déterminant de la consommation myocardique en oxygène.",
+        "Elle n’intervient pas dans la régulation centrale du débit cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La fréquence cardiaque joue un rôle majeur dans la régulation du débit cardiaque, participe à la puissance cardiaque et à la consommation myocardique en oxygène. Sa rapidité de variation participe aussi à la régulation centrale."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les écritures suivantes, lesquelles correspondent à des équations du débit cardiaque citées dans le texte ?",
+      "choices": [
+        "Qc = VES × FC",
+        "Qc = VO₂ / différence artérioveineuse en O₂",
+        "Qc = (PAM − POD) × RVS",
+        "Qc = vitesse × surface"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les équations citées sont Qc = VES × FC, Qc = VO₂/différence artérioveineuse en O₂, Qc = (PAM − POD)/RVS et Qc = vitesse × surface."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des méthodes utilisant le dioxyde de carbone, quelles propositions sont exactes ?",
+      "choices": [
+        "La méthode utilisant la production de CO₂ peut s’écrire Qc = VCO₂ / K(SaO₂ − SvO₂).",
+        "Le coefficient K est donné par K = 13,4 × Hb × R.",
+        "Le quotient respiratoire R est indiqué comme étant environ égal à 1,8.",
+        "La réinhalation de CO₂ peut s’écrire Qc = VCO₂ / (CaCO₂ − CvCO₂)."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte donne Qc = VCO₂/K(SaO₂ − SvO₂), K = 13,4 × Hb × R, avec R environ 0,8. Pour la réinhalation de CO₂ : Qc = VCO₂/(CaCO₂ − CvCO₂)."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les méthodes de dilution d’un indicateur, quels éléments sont explicitement cités comme indicateurs utilisables ?",
+      "choices": [
+        "Colorants",
+        "Lithium",
+        "Thermodilution",
+        "Doppler transtrachéal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indicateurs cités pour les méthodes de dilution sont les colorants, le lithium et la thermodilution. Le Doppler transtrachéal appartient aux techniques Doppler."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les techniques suivantes, lesquelles sont classées dans les autres méthodes de mesure ou d’estimation du débit cardiaque, hors méthodes Doppler ?",
+      "choices": [
+        "Analyse de l’onde de pression artérielle",
+        "Méthode du pulse contour",
+        "Impédance intracardiaque",
+        "Échocardiographie transthoracique couplée au Doppler"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les autres méthodes citées comprennent l’analyse de l’onde de pression artérielle, la méthode du pulse contour, l’impédance intracardiaque, le cathéter à ultrasons et le PiCCO. L’échocardiographie transthoracique couplée au Doppler est une technique Doppler."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient a un débit cardiaque de 7,2 L/min et une surface corporelle de 1,8 m². Quel est son index cardiaque ?",
+      "choices": [
+        "2,5 L/min/m²",
+        "3,0 L/min/m²",
+        "4,0 L/min/m²",
+        "5,4 L/min/m²"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "IC = Qc/surface corporelle = 7,2/1,8 = 4,0 L/min/m²."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient a un débit cardiaque de 5,4 L/min et un volume d’éjection systolique de 90 mL. Quelle est sa fréquence cardiaque ?",
+      "choices": [
+        "50/min",
+        "60/min",
+        "70/min",
+        "90/min"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Qc = FC × VES. 5,4 L/min = 5400 mL/min. FC = 5400/90 = 60/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Un ventricule a un volume télédiastolique de 160 mL et un volume d’éjection systolique de 80 mL. Quelle est sa fraction d’éjection ?",
+      "choices": [
+        "25 %",
+        "40 %",
+        "50 %",
+        "80 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "FE = VES/VTD = 80/160 = 0,5, soit 50 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Si PAoM = 95 mmHg, Psm = 15 mmHg et Qc = 4 L/min, quelle est la valeur des résistances vasculaires systémiques selon la formule donnée ?",
+      "choices": [
+        "10 unités",
+        "15 unités",
+        "20 unités",
+        "25 unités"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "RVS = (PAoM − Psm)/Qc = (95 − 15)/4 = 80/4 = 20 unités."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification étiologique fournie, la cardiomyopathie appartient à quelle catégorie ?",
+      "choices": [
+        "Choc obstructif",
+        "Hypovolémie relative",
+        "Choc distributif",
+        "Choc cardiogénique"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte classe la cardiomyopathie parmi les causes de choc cardiogénique, avec l’infarctus du myocarde et les troubles du rythme cardiaque."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la loi de Frank-Starling telle qu’elle est formulée dans le texte, la force de contraction ventriculaire dépend principalement de :",
+      "choices": [
+        "La longueur initiale des fibres myocardiques au début de la contraction",
+        "La viscosité sanguine uniquement",
+        "La pression systolique aortique exclusivement",
+        "La surface corporelle"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La loi de Frank-Starling indique que la force de contraction des ventricules dépend de la longueur initiale des fibres musculaires myocardiques au début de la contraction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les valeurs usuelles et les unités du débit cardiaque et de l’index cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Le débit cardiaque usuel est d’environ 6,5 ± 0,6 L/min.",
+        "L’index cardiaque usuel est d’environ 3,5 ± 0,5 L/min/m².",
+        "Le débit cardiaque s’exprime en L/min.",
+        "L’index cardiaque s’exprime en mL/min sans correction à la surface corporelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique Qc ≈ 6,5 ± 0,6 L/min et IC ≈ 3,5 ± 0,5 L/min/m². L’index cardiaque est corrigé par la surface corporelle."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la précharge ventriculaire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle correspond à la tension de la paroi ventriculaire en fin de diastole.",
+        "Elle correspond au volume télédiastolique ventriculaire.",
+        "Elle dépend principalement de la pression systolique aortique.",
+        "Elle dépend du gradient entre pression systémique moyenne et pression auriculaire droite."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La précharge est la tension pariétale de fin de diastole, correspondant au VTD, et dépend notamment du retour veineux et du gradient entre pression systémique moyenne et pression auriculaire droite. La pression systolique aortique relève de la postcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la postcharge ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à la contrainte appliquée au muscle cardiaque au début de la systole.",
+        "La pression systolique aortique fait partie de ses facteurs.",
+        "La loi de Laplace citée l’exprime par T = P × R / e.",
+        "La compliance ventriculaire est listée parmi ses facteurs principaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La postcharge est la contrainte systolique initiale. Ses facteurs comprennent la pression systolique aortique, les résistances vasculaires, l’élasticité aortique, la viscosité sanguine et la tension pariétale selon Laplace. La compliance ventriculaire est citée pour la précharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les relations hémodynamiques citées pour les résistances vasculaires, quelles écritures sont exactes ?",
+      "choices": [
+        "Q = ΔP / R.",
+        "R = ΔP / Q.",
+        "RVS = (PAoM − Psm) / Qc.",
+        "R = 8ηL × πr⁴."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les relations données sont Q = ΔP/R, R = ΔP/Q, R = 8ηL/πr⁴ et RVS = (PAoM − Psm)/Qc. La dernière proposition inverse incorrectement la loi de Poiseuille."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la viscosité sanguine et le régime d’écoulement, quelles propositions sont exactes ?",
+      "choices": [
+        "La viscosité sanguine dépend notamment de l’hématocrite.",
+        "La viscosité sanguine dépend notamment des protéines plasmatiques.",
+        "Un nombre de Reynolds faible correspond à un régime laminaire.",
+        "Un nombre de Reynolds élevé correspond à un régime turbulent."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte rattache la viscosité à l’hématocrite, aux protéines plasmatiques et à la nature de l’écoulement. Un Reynolds faible est laminaire ; un Reynolds élevé est turbulent."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour évaluer l’inotropisme myocardique, quels paramètres sont explicitement proposés ?",
+      "choices": [
+        "dP/dt.",
+        "Élastance E = dP/dV.",
+        "Fraction d’éjection FE = VES / VTD.",
+        "Pression auriculaire droite isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’inotropisme peut être évalué par dP/dt, l’élastance et la fraction d’éjection. La pression auriculaire droite isolée n’est pas citée comme paramètre d’évaluation de l’inotropisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs sont cités comme influençant la contractilité myocardique ?",
+      "choices": [
+        "L’influence sympathique et parasympathique.",
+        "La balance myocardique en oxygène.",
+        "L’anoxie et l’acidose.",
+        "Le diamètre aortique utilisé dans le calcul Doppler."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La contractilité est influencée par la fréquence cardiaque, les influences autonomes, la balance en oxygène, l’anoxie, l’acidose et certains agents pharmacologiques. Le diamètre aortique concerne le calcul Doppler du débit aortique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fréquence cardiaque dans la régulation hémodynamique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle a un rôle majeur dans la régulation du débit cardiaque.",
+        "Elle est un déterminant important de la puissance cardiaque.",
+        "Elle est un déterminant de la consommation myocardique en oxygène.",
+        "La rapidité de sa variation participe à la régulation centrale du débit cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions sont explicitement mentionnées dans le texte à propos de la fréquence cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les équations suivantes, lesquelles sont citées comme équations du débit cardiaque ?",
+      "choices": [
+        "Qc = VES × FC.",
+        "Qc = VO₂ / différence artérioveineuse en O₂.",
+        "Qc = (PAM − POD) / RVS.",
+        "Qc = vitesse × surface."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les quatre équations sont listées dans le texte comme équations utilisables pour exprimer le débit cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes utilisant le CO₂ pour estimer le débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "La méthode utilisant la production de CO₂ utilise Qc = VCO₂ / K(SaO₂ − SvO₂).",
+        "Dans cette méthode, K = 13,4 × Hb × R.",
+        "Le quotient respiratoire R est d’environ 0,8.",
+        "La réinhalation de CO₂ utilise Qc = VCO₂ / (CaCO₂ − CvCO₂)."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les deux approches au CO₂ sont distinguées : production de CO₂ avec K et saturation artérioveineuse en O₂, et réinhalation de CO₂ avec différence artérioveineuse en contenu CO₂."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des méthodes de dilution d’un indicateur et de la thermodilution, quelles propositions sont exactes ?",
+      "choices": [
+        "Le principe de Stewart-Hamilton s’écrit Qc = m / ∫ C(t) dt.",
+        "Les colorants et le lithium sont cités comme indicateurs utilisables.",
+        "La thermodilution peut être réalisée par mesure intermittente par bolus.",
+        "La thermodilution au froid sans injection est citée parmi les modalités."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite le principe de Stewart-Hamilton, les colorants, le lithium et la thermodilution. Les modalités de thermodilution incluent bolus intermittent, mesure continue et thermodilution au froid sans injection."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes Doppler citées pour la mesure du débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "L’échocardiographie transthoracique couplée au Doppler est citée.",
+        "Le Doppler sus-sternal est cité.",
+        "Le Doppler transtrachéal est cité.",
+        "Le cathéter à ultrasons est classé dans les techniques Doppler du texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les techniques Doppler citées sont l’échocardiographie transthoracique couplée au Doppler, le Doppler sus-sternal, transtrachéal et œsophagien. Le cathéter à ultrasons est placé dans les autres méthodes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la bioimpédance thoracique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’entrée et la sortie de sang dans le thorax à chaque systole modifient les propriétés électriques thoraciques.",
+        "Les variations sont mesurées par le calcul de l’impédance thoracique instantanée.",
+        "La méthode utilise un courant électrique de faible amplitude et de haute fréquence.",
+        "Les électrodes sont décrites comme placées exclusivement sur le thorax antérieur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bioimpédance mesure les variations électriques thoraciques liées au flux sanguin systolique, après application d’un courant faible et haute fréquence. Les électrodes sont placées sur le cou et l’abdomen."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont citées comme variations physiologiques possibles du débit cardiaque ?",
+      "choices": [
+        "Le sexe.",
+        "La grossesse.",
+        "La position.",
+        "La tamponnade cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le sexe, la grossesse et la position figurent parmi les variations physiologiques. La tamponnade cardiaque est une cause de choc obstructif."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification étiologique fournie, le choc spinal appartient à quelle catégorie ?",
+      "choices": [
+        "Hypovolémie vraie.",
+        "Hypovolémie relative.",
+        "Choc obstructif.",
+        "Choc cardiogénique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le choc spinal est cité parmi les causes d’hypovolémie relative."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement le débit cardiaque selon le texte ?",
+      "choices": [
+        "Quantité de sang éjectée par chaque ventricule en une minute.",
+        "Quantité de sang contenue dans le ventricule en fin de diastole.",
+        "Volume sanguin restant dans le ventricule après la systole.",
+        "Pression générée par le ventricule gauche en systole."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le débit cardiaque est la quantité de sang éjectée par chaque ventricule en une minute, exprimée en L/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle méthode est explicitement qualifiée de méthode de référence pour la mesure du débit cardiaque ?",
+      "choices": [
+        "Bioimpédance thoracique.",
+        "Méthode de Fick.",
+        "Analyse de l’onde de pression artérielle.",
+        "Doppler transtrachéal."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que la méthode de Fick est une méthode de référence pour la mesure du débit cardiaque."
+    },
+    {
+      "type": "QCS",
+      "question": "Que traduit un nombre de Reynolds faible dans le texte ?",
+      "choices": [
+        "Un régime turbulent.",
+        "Un régime laminaire.",
+        "Une augmentation obligatoire de la viscosité plasmatique.",
+        "Une diminution de la surface aortique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Un nombre de Reynolds faible correspond à un régime laminaire ; un nombre élevé correspond à un régime turbulent."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient a un VTD de 135 mL, un VTS de 65 mL et une fréquence cardiaque de 100/min. Quel est son débit cardiaque ?",
+      "choices": [
+        "4,5 L/min.",
+        "6,5 L/min.",
+        "7,0 L/min.",
+        "13,5 L/min."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "VES = VTD − VTS = 135 − 65 = 70 mL. Qc = FC × VES = 100 × 70 mL/min = 7000 mL/min, soit 7,0 L/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle appartient au choc cardiogénique dans la classification fournie ?",
+      "choices": [
+        "Embolie pulmonaire.",
+        "Choc anaphylactique.",
+        "Infarctus du myocarde.",
+        "Perte de constituants plasmatiques."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’infarctus du myocarde est classé parmi les causes de choc cardiogénique. L’embolie pulmonaire est obstructive, le choc anaphylactique relève de l’hypovolémie relative et la perte de constituants plasmatiques de l’hypovolémie vraie."
+    },
+    {
+      "type": "QCM",
+      "question": "Un patient présente un VTD de 120 mL, un VTS de 70 mL, une fréquence cardiaque de 110/min et une surface corporelle de 1,9 m². Quelles propositions sont exactes ?",
+      "choices": [
+        "Le volume d’éjection systolique est de 50 mL.",
+        "Le débit cardiaque est de 5,5 L/min.",
+        "L’index cardiaque est d’environ 2,9 L/min/m².",
+        "La fraction d’éjection se calcule par 50/70."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "VES = VTD − VTS = 50 mL. Qc = FC × VES = 110 × 50 = 5500 mL/min = 5,5 L/min. IC = 5,5/1,9 ≈ 2,9 L/min/m². La FE = VES/VTD = 50/120, et non 50/70."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les grandeurs usuelles du débit cardiaque et de l’index cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Le débit cardiaque s’exprime en L/min.",
+        "L’index cardiaque s’exprime en L/min/m².",
+        "La valeur usuelle du débit cardiaque est d’environ 6,5 ± 0,6 L/min.",
+        "L’index cardiaque est calculé par Qc multiplié par la surface corporelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le débit cardiaque s’exprime en L/min et l’index cardiaque en L/min/m². Les valeurs usuelles données sont Qc ≈ 6,5 ± 0,6 L/min et IC ≈ 3,5 ± 0,5 L/min/m². IC = Qc/surface corporelle."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la précharge ventriculaire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle correspond à la tension de la paroi ventriculaire en fin de diastole.",
+        "Elle correspond au volume télédiastolique ventriculaire.",
+        "En pratique, elle peut être assimilée à la pression systolique aortique.",
+        "Elle dépend notamment du retour veineux et de la volémie."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La précharge est la tension pariétale ventriculaire en fin de diastole, correspondant au VTD. En pratique, elle peut être assimilée à la pression télédiastolique ventriculaire, non à la pression systolique aortique. Elle dépend du retour veineux et de la volémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels participent aux déterminants de la précharge selon le texte ?",
+      "choices": [
+        "La capacitance vasculaire.",
+        "La compliance ventriculaire.",
+        "Le gradient entre pression systémique moyenne et pression auriculaire droite.",
+        "L’élasticité de la paroi aortique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La précharge dépend de la capacitance vasculaire, de la compliance ventriculaire et du gradient entre pression systémique moyenne et pression auriculaire droite. L’élasticité de la paroi aortique est un facteur de postcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la viscosité sanguine et le nombre de Reynolds, quelles propositions sont exactes ?",
+      "choices": [
+        "La viscosité sanguine dépend notamment de l’hématocrite.",
+        "Les protéines plasmatiques interviennent dans la viscosité sanguine.",
+        "Un nombre de Reynolds faible correspond à un régime laminaire.",
+        "Selon la formule donnée, une augmentation de la viscosité augmente le nombre de Reynolds."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La viscosité dépend notamment de l’hématocrite, des protéines plasmatiques et de la nature de l’écoulement. Re = 4Qρ/πdμ : la viscosité μ est au dénominateur, donc son augmentation diminue Re toutes choses égales par ailleurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les relations hémodynamiques et d’écoulement citées, quelles propositions sont exactes ?",
+      "choices": [
+        "Q = ΔP/R.",
+        "R = Q/ΔP.",
+        "R = 8ηL/πr⁴.",
+        "Q = Vmoy × S."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Les relations citées sont Q = ΔP/R, R = ΔP/Q, R = 8ηL/πr⁴ et Q = Vmoy × S. La proposition R = Q/ΔP inverse la relation correcte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont cités comme facteurs influençant la contractilité myocardique ?",
+      "choices": [
+        "L’influence sympathique et parasympathique.",
+        "La balance myocardique en oxygène.",
+        "L’acidose.",
+        "L’élasticité de la paroi aortique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La contractilité est influencée par la fréquence cardiaque, les influences sympathique et parasympathique, la balance myocardique en oxygène, l’anoxie, l’acidose et certains agents pharmacologiques. L’élasticité aortique relève de la postcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour évaluer l’inotropisme myocardique, quels paramètres sont explicitement proposés ?",
+      "choices": [
+        "dP/dt.",
+        "L’élastance E = dP/dV.",
+        "La fraction d’éjection FE = VES/VTD.",
+        "L’hématocrite."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’inotropisme peut être évalué par dP/dt, l’élastance E = dP/dV et la fraction d’éjection FE = VES/VTD. L’hématocrite intervient dans la viscosité sanguine, non comme paramètre d’évaluation de l’inotropisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification des principales étiologies de diminution ou d’altération du débit cardiaque, quelles associations sont exactes ?",
+      "choices": [
+        "Perte de sang — hypovolémie vraie.",
+        "Vasoplégie — hypovolémie relative.",
+        "Choc septique — choc distributif.",
+        "Embolie pulmonaire — choc cardiogénique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La perte de sang relève de l’hypovolémie vraie. La vasoplégie relève de l’hypovolémie relative. Le choc septique relève du choc distributif. L’embolie pulmonaire relève du choc obstructif."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la méthode de Fick appliquée au débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "VO₂ = Qc × (CaO₂ − CvO₂).",
+        "Qc = VO₂/(CaO₂ − CvO₂).",
+        "Elle est citée comme méthode de référence pour la mesure du débit cardiaque.",
+        "Elle calcule le débit cardiaque par Qc = VCO₂/(CaO₂ − CvO₂)."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode de Fick repose sur VO₂ = Qc × (CaO₂ − CvO₂), donc Qc = VO₂/(CaO₂ − CvO₂). Elle est une méthode de référence. La formule avec VCO₂ et différence artérioveineuse en O₂ est incorrecte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes utilisant le CO₂ dans l’estimation du débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "La méthode utilisant la production de CO₂ emploie Qc = VCO₂/[K(SaO₂ − SvO₂)].",
+        "K est défini par K = 13,4 × Hb × R.",
+        "Le quotient respiratoire R est donné comme environ égal à 0,8.",
+        "La réinhalation de CO₂ utilise Qc = VCO₂/[K(SaO₂ − SvO₂)]."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode utilisant la production de CO₂ emploie Qc = VCO₂/[K(SaO₂ − SvO₂)] avec K = 13,4 × Hb × R et R ≈ 0,8. La réinhalation de CO₂ utilise Qc = VCO₂/(CaCO₂ − CvCO₂)."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes de dilution d’un indicateur, quelles propositions découlent du texte ?",
+      "choices": [
+        "Le principe de Stewart-Hamilton s’écrit Qc = m/∫C(t)dt.",
+        "À masse injectée constante, l’augmentation de l’intégrale concentration-temps diminue le débit calculé.",
+        "Les colorants, le lithium et la thermodilution sont cités comme indicateurs utilisables.",
+        "La thermodilution est uniquement une mesure continue."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Stewart-Hamilton donne Qc = m/∫C(t)dt. Si l’intégrale augmente à masse constante, Qc diminue. Les indicateurs cités sont les colorants, le lithium et la thermodilution. La thermodilution peut être intermittente par bolus, continue ou au froid sans injection."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes Doppler et le calcul du débit aortique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le débit aortique peut être calculé par QAo = Vmoy × (πd²/4).",
+        "Dans cette formule, d correspond au diamètre aortique.",
+        "Le PiCCO est classé parmi les techniques Doppler citées.",
+        "Le Doppler œsophagien fait partie des techniques Doppler citées."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La formule Doppler donnée est QAo = Vmoy × (πd²/4), avec d comme diamètre aortique. Les techniques Doppler citées incluent notamment le Doppler œsophagien. Le PiCCO est listé parmi les autres méthodes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la bioimpédance thoracique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’entrée et la sortie de sang dans le thorax à chaque systole modifient les propriétés électriques thoraciques.",
+        "La mesure repose sur l’application d’un courant électrique de faible amplitude et de haute fréquence.",
+        "Les électrodes sont placées sur le cou et l’abdomen.",
+        "La méthode mesure directement la concentration d’un indicateur après injection de lithium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bioimpédance thoracique mesure les variations d’impédance liées aux changements des propriétés électriques thoraciques lors de la systole, après application d’un courant de faible amplitude et haute fréquence entre des électrodes placées sur le cou et l’abdomen. Elle ne repose pas sur une injection de lithium."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la méthode utilisant la production de CO₂, si Hb = 10 g/dL et R = 0,8, quelle est la valeur de K selon la formule donnée ?",
+      "choices": [
+        "100,8.",
+        "107,2.",
+        "134.",
+        "167,5."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "K = 13,4 × Hb × R = 13,4 × 10 × 0,8 = 107,2."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formule correspond spécifiquement à la réinhalation de CO₂ selon le texte ?",
+      "choices": [
+        "Qc = VCO₂/(CaCO₂ − CvCO₂).",
+        "Qc = VCO₂/[K(SaO₂ − SvO₂)].",
+        "Qc = VO₂/(CaO₂ − CvO₂).",
+        "Qc = m/∫C(t)dt."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La réinhalation de CO₂ utilise Qc = VCO₂/(CaCO₂ − CvCO₂). Les autres formules correspondent respectivement à la production de CO₂, à Fick et à Stewart-Hamilton."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon Re = 4Qρ/πdμ, si Q et μ doublent simultanément tandis que ρ et d restent constants, que devient le nombre de Reynolds ?",
+      "choices": [
+        "Il double.",
+        "Il est divisé par deux.",
+        "Il reste inchangé.",
+        "Il est multiplié par quatre."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Re est proportionnel à Q/μ. Si Q double et μ double également, leurs effets se compensent : Re reste inchangé."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon R = 8ηL/πr⁴, si la longueur L double et si le rayon r double, toutes choses égales par ailleurs, par quel facteur la résistance est-elle multipliée ?",
+      "choices": [
+        "1/8.",
+        "1/4.",
+        "2.",
+        "16."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "R est proportionnelle à L/r⁴. Doubler L multiplie R par 2 ; doubler r divise R par 16. Au total : 2/16 = 1/8."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les situations suivantes, laquelle relève du choc obstructif dans la classification fournie ?",
+      "choices": [
+        "Choc anaphylactique.",
+        "Tamponnade cardiaque.",
+        "Infarctus du myocarde.",
+        "Infection grave."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La tamponnade cardiaque est classée dans le choc obstructif. Le choc anaphylactique relève de l’hypovolémie relative, l’infarctus du myocarde du choc cardiogénique et l’infection grave du choc distributif."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel est classé parmi les autres méthodes de mesure ou d’estimation du débit cardiaque, et non comme technique Doppler ni comme indicateur de dilution ?",
+      "choices": [
+        "Lithium.",
+        "Doppler sus-sternal.",
+        "Analyse de l’onde de pression artérielle.",
+        "Thermodilution."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’analyse de l’onde de pression artérielle est citée parmi les autres méthodes. Le lithium et la thermodilution sont des indicateurs/méthodes de dilution, et le Doppler sus-sternal est une technique Doppler."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T21:14:51.422Z"
+}

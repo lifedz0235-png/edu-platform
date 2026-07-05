@@ -1,0 +1,3085 @@
+{
+  "category": "biologie",
+  "module": "physiologie",
+  "courseId": 58,
+  "courseTitle": "Hemodynamique Intra Cardiaque",
+  "supportTitle": "Hémodynamique-intracardiaque",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/PHYSIOLOGIE/Hémodynamique-intracardiaque.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant le rôle général de l’appareil cardio-vasculaire et les données hémodynamiques de base, quelles propositions sont exactes ?",
+      "choices": [
+        "Il assure la circulation du sang dans les circulations pulmonaire et systémique.",
+        "Il permet de véhiculer l’oxygène et les nutriments vers les cellules.",
+        "Le volume sanguin moyen au repos est de 5 à 6 litres.",
+        "À l’effort, le débit cardiaque reste limité à environ 5,5 L/min."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’appareil cardio-vasculaire assure les circulations pulmonaire et systémique, apporte oxygène et nutriments, et évacue les déchets. Au repos, le volume sanguin moyen est de 5 à 6 L et le débit cardiaque d’environ 5,5 L/min ; à l’effort, il peut atteindre 25 L/min."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des cavités cardiaques, quelles propositions sont exactes ?",
+      "choices": [
+        "Le cœur comporte quatre cavités.",
+        "Les oreillettes sont contractiles et ont surtout un rôle de réservoir.",
+        "Les ventricules représentent la pompe cardiaque proprement dite.",
+        "Les oreillettes sont les seules cavités responsables de l’éjection vers les gros vaisseaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cœur comporte deux oreillettes et deux ventricules. Les oreillettes sont contractiles mais jouent surtout un rôle de réservoir. Les ventricules constituent la pompe cardiaque assurant l’éjection vers l’artère pulmonaire et l’aorte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les valves auriculo-ventriculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "La valve tricuspide est située à droite et comporte trois feuillets.",
+        "La valve mitrale est située à gauche et comporte deux feuillets.",
+        "Elles sont reliées à la paroi ventriculaire par des piliers et des cordages.",
+        "Leur ouverture et leur fermeture sont activement commandées par une contraction propre des feuillets valvulaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les valves auriculo-ventriculaires sont la tricuspide à droite, à trois feuillets, et la mitrale à gauche, à deux feuillets. Elles sont reliées aux ventricules par piliers et cordages. Leur fonctionnement est passif et dépend des gradients de pression."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les valves sigmoïdes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles dirigent le sang des ventricules vers les gros vaisseaux.",
+        "Elles s’ouvrent en systole lorsque la pression ventriculaire devient supérieure à la pression artérielle.",
+        "Elles se ferment en diastole lorsque la pression artérielle devient supérieure à la pression ventriculaire.",
+        "Elles orientent principalement la circulation sanguine des oreillettes vers les ventricules."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les valves sigmoïdes assurent le passage du sang des ventricules vers les gros vaisseaux. Leur ouverture et leur fermeture dépendent du gradient entre pression ventriculaire et pression artérielle. Le passage oreillettes-ventricules dépend des valves auriculo-ventriculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du cycle cardiaque normal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à l’alternance de systoles et de diastoles.",
+        "Un cycle ventriculaire normal dure environ 800 ms.",
+        "La systole occupe environ deux tiers du cycle ventriculaire normal.",
+        "La systole ventriculaire permet l’éjection du sang vers l’artère pulmonaire et l’aorte."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le cycle cardiaque alterne systole et diastole. Un cycle ventriculaire normal dure environ 800 ms, avec environ un tiers de systole et deux tiers de diastole. La systole ventriculaire éjecte le sang du ventricule droit vers l’artère pulmonaire et du ventricule gauche vers l’aorte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le cathétérisme cardiaque en général, quelles propositions sont exactes ?",
+      "choices": [
+        "Il permet d’étudier l’hémodynamique intracardiaque.",
+        "Il consiste à introduire une sonde munie d’un manomètre dans les cavités cardiaques.",
+        "Il permet d’enregistrer des courbes de pression et de mesurer les pressions intracavitaires.",
+        "Le cathétérisme droit se réalise obligatoirement par voie artérielle fémorale rétrograde."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cathétérisme cardiaque étudie les pressions intracardiaques à l’aide d’une sonde munie d’un manomètre. Il enregistre des courbes de pression et mesure les pressions dans les cavités. Le cathétérisme droit se fait par voie veineuse, non par voie artérielle fémorale rétrograde."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le trajet du cathétérisme droit, quelles propositions sont exactes ?",
+      "choices": [
+        "Le cathéter est introduit par voie veineuse.",
+        "Il peut passer par la veine cave supérieure puis l’oreillette droite.",
+        "Il explore successivement le ventricule droit puis l’artère pulmonaire.",
+        "Il explore d’emblée l’aorte puis le ventricule gauche."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cathétérisme droit explore les cavités droites par voie veineuse : veine cave supérieure, oreillette droite, ventricule droit, artère pulmonaire puis territoire capillaire pulmonaire. L’aorte et le ventricule gauche relèvent du cathétérisme gauche."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le cathétérisme gauche, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être réalisé par voie artérielle fémorale avec progression rétrograde dans l’aorte.",
+        "Par voie artérielle rétrograde, le cathéter peut atteindre le ventricule gauche.",
+        "Il peut être réalisé par voie transseptale après passage de l’oreillette droite vers l’oreillette gauche à travers le septum interauriculaire.",
+        "Il nécessite toujours un passage préalable par l’artère pulmonaire et le territoire capillaire pulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cathétérisme gauche peut se faire par voie artérielle fémorale rétrograde vers l’aorte puis le ventricule gauche, éventuellement l’oreillette gauche. Il peut aussi se faire par voie transseptale : voie veineuse vers l’oreillette droite, franchissement du septum interauriculaire vers l’oreillette gauche, puis ventricule gauche."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des explorations à confronter au cathétérisme cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Le phonocardiogramme enregistre les bruits du cœur.",
+        "L’électrocardiogramme enregistre l’activité électrique cardiaque.",
+        "L’interprétation du cathétérisme doit être confrontée à d’autres explorations fonctionnelles cardiaques.",
+        "Le phonocardiogramme est l’enregistrement de l’activité électrique auriculo-ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cathétérisme cardiaque doit être interprété avec d’autres explorations, notamment le phonocardiogramme, qui enregistre les bruits du cœur, et l’électrocardiogramme, qui enregistre l’activité électrique cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la phase de contraction de la systole ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La contraction pré-isovolumétrique débute par une augmentation brusque de la pression intraventriculaire.",
+        "La fermeture des valves auriculo-ventriculaires survient lorsque la pression ventriculaire devient supérieure à la pression auriculaire.",
+        "Pendant la contraction isovolumétrique, les valves auriculo-ventriculaires et sigmoïdes sont fermées.",
+        "La contraction isovolumétrique commence après l’ouverture des valves sigmoïdes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au début de la systole, l’augmentation de la pression ventriculaire entraîne la fermeture des valves auriculo-ventriculaires. Pendant la contraction isovolumétrique, toutes les valves sont fermées, jusqu’à ce que la pression ventriculaire dépasse celle des gros vaisseaux et ouvre les sigmoïdes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la phase d’éjection ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La phase d’éjection rapide s’accompagne d’une augmentation rapide de la pression ventriculaire.",
+        "La phase d’éjection lente correspond au sommet de la courbe de pression.",
+        "La proto-diastole est marquée par une chute rapide de la pression ventriculaire qui reste encore supérieure à la pression aortique.",
+        "Les valves sigmoïdes se ferment tant que la pression ventriculaire reste supérieure à la pression aortique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’éjection comporte une phase rapide, puis une phase lente correspondant au sommet de la courbe de pression. En proto-diastole, la pression ventriculaire chute rapidement mais reste supérieure à la pression aortique. Les sigmoïdes se ferment lorsque la pression ventriculaire devient inférieure à la pression aortique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la relaxation ventriculaire diastolique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à la relaxation isovolumétrique.",
+        "Les valves auriculo-ventriculaires et sigmoïdes sont fermées pendant cette phase.",
+        "Les valves auriculo-ventriculaires s’ouvrent lorsque la pression ventriculaire devient inférieure à la pression auriculaire.",
+        "Les valves sigmoïdes s’ouvrent lorsque la pression ventriculaire devient inférieure à la pression auriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase de relaxation de la diastole est isovolumétrique, avec fermeture des valves auriculo-ventriculaires et sigmoïdes. L’ouverture des valves auriculo-ventriculaires survient quand la pression ventriculaire devient inférieure à la pression auriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la phase de remplissage ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le remplissage rapide survient lorsque la pression auriculaire est supérieure à la pression ventriculaire.",
+        "Le remplissage lent ou diastasis correspond à l’équilibre des pressions auriculaire et ventriculaire.",
+        "Le diastasis peut disparaître en cas d’augmentation de la fréquence cardiaque.",
+        "Le remplissage actif correspond à une systole ventriculaire chassant le sang vers l’oreillette."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le remplissage rapide est dû à un gradient oreillette-ventricule. Le diastasis correspond à une période de repos avec équilibre des pressions auriculaire et ventriculaire ; il peut disparaître si la fréquence cardiaque augmente. Le remplissage actif est dû à la systole auriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déterminants de la performance cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "La compliance myocardique fait partie des paramètres influençant les performances cardiaques.",
+        "La précharge, la postcharge et la contractilité influencent le volume d’éjection systolique.",
+        "La capacité de relaxation intervient dans la variation de pression d’une cavité cardiaque.",
+        "Le phonocardiogramme constitue l’un des cinq paramètres principaux des performances cardiaques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les performances cardiaques dépendent notamment de la contractilité, de la compliance, de la précharge, de la postcharge et de la fréquence cardiaque. Le volume d’éjection systolique est influencé par la précharge, la postcharge et la contractilité. La variation de pression dépend aussi de la capacité de relaxation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la définition la plus précise de l’hémodynamique intracardiaque selon le texte ?",
+      "choices": [
+        "L’étude de l’activité électrique du cœur uniquement.",
+        "L’étude des conditions mécaniques de la circulation sanguine à l’intérieur du cœur, notamment du cycle cardiaque.",
+        "L’étude acoustique isolée des bruits du cœur.",
+        "L’étude exclusive du débit sanguin dans les artères périphériques."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’hémodynamique intracardiaque étudie les conditions mécaniques de la circulation sanguine à l’intérieur du cœur, en particulier le cycle cardiaque."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le poids approximatif du cœur mentionné dans le texte ?",
+      "choices": [
+        "100 g",
+        "300 g",
+        "600 g",
+        "1 kg"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que le cœur est un muscle creux pesant environ 300 g."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel débit cardiaque peut être atteint à l’effort selon le texte ?",
+      "choices": [
+        "5,5 L/min",
+        "10 L/min",
+        "25 L/min",
+        "50 L/min"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Au repos, le débit cardiaque est d’environ 5,5 L/min ; à l’effort, il peut atteindre 25 L/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle phase du remplissage ventriculaire correspond à une période de repos cardiaque avec équilibre des pressions auriculaire et ventriculaire ?",
+      "choices": [
+        "Le remplissage rapide",
+        "La contraction isovolumétrique",
+        "Le remplissage lent ou diastasis",
+        "La proto-diastole"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le diastasis correspond au remplissage lent, période durant laquelle les pressions auriculaire et ventriculaire s’équilibrent, constituant une période de repos cardiaque."
+    },
+    {
+      "type": "QCS",
+      "question": "Au cours du remplissage actif ventriculaire, quel événement est responsable de la chasse du sang restant vers le ventricule ?",
+      "choices": [
+        "La fermeture des valves sigmoïdes",
+        "La systole auriculaire",
+        "L’ouverture des valves sigmoïdes",
+        "La relaxation isovolumétrique ventriculaire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le remplissage actif est dû à la systole auriculaire, qui chasse le sang restant de l’oreillette vers le ventricule et augmente la pression ventriculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le texte, à quoi correspondent les résistances périphériques dans la description de la contraction d’une cavité cardiaque ?",
+      "choices": [
+        "À la précharge",
+        "À la postcharge",
+        "À la compliance myocardique",
+        "À la fréquence cardiaque"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La contraction d’une cavité cardiaque dépend notamment des résistances périphériques, qui correspondent à la postcharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la boucle pression-volume ventriculaire décrite dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle se parcourt dans le sens inverse des aiguilles d’une montre.",
+        "Elle permet d’identifier un point télédiastolique.",
+        "Elle permet d’identifier un point télésystolique.",
+        "Sa largeur sur l’axe des volumes correspond à la compliance ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La boucle est décrite comme parcourue dans le sens inverse des aiguilles d’une montre et caractérisée notamment par les points télédiastolique et télésystolique. Sa largeur sur l’axe des volumes représente le volume systolique, non la compliance."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du point télédiastolique de la boucle pression-volume, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond au volume ventriculaire en fin de diastole.",
+        "Il fait partie des éléments caractéristiques de la boucle pression-volume.",
+        "Il correspond au volume ventriculaire en fin de systole.",
+        "Il définit directement le volume éjecté à chaque contraction."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le point télédiastolique est défini comme le volume ventriculaire en fin de diastole. Le volume éjecté correspond au volume systolique, représenté par la largeur de la boucle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le point télésystolique de la boucle pression-volume, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond au volume ventriculaire en fin de systole.",
+        "Il est un repère caractéristique de la boucle pression-volume.",
+        "Il correspond au volume ventriculaire en fin de diastole.",
+        "Il reflète à lui seul la compliance ventriculaire."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le point télésystolique correspond au volume ventriculaire en fin de systole. La compliance est reflétée par la relation pression-volume diastolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la relation pression-volume télésystolique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle reflète l’élastance ventriculaire maximale.",
+        "Elle fait partie des caractéristiques de la boucle pression-volume.",
+        "Elle reflète la compliance ventriculaire définie par ΔV/ΔP.",
+        "Elle décrit spécifiquement le comportement diastolique du ventricule."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La relation pression-volume télésystolique reflète l’élastance ventriculaire maximale. La compliance ventriculaire est portée par la relation pression-volume diastolique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la relation pression-volume diastolique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle reflète la compliance ventriculaire.",
+        "La compliance y est définie par ΔV/ΔP.",
+        "Elle reflète l’élastance ventriculaire maximale.",
+        "Elle correspond à la largeur de la boucle sur l’axe des volumes."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La relation pression-volume diastolique reflète la compliance ventriculaire, définie par ΔV/ΔP. L’élastance maximale est liée à la relation télésystolique, et la largeur de la boucle correspond au volume systolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la courbe de compliance à bas remplissage ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est plate.",
+        "Une grande variation de volume entraîne une faible variation de pression.",
+        "Une faible variation de volume entraîne nécessairement une grande variation de pression.",
+        "Elle traduit une situation décrite avant le redressement de la courbe."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "À bas remplissage, la courbe de compliance est plate : une grande variation de volume entraîne une faible variation de pression. Lorsque le ventricule se remplit davantage, la courbe se redresse."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsque le ventricule se remplit davantage, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "La courbe de compliance se redresse.",
+        "Le comportement pression-volume change par rapport au bas remplissage.",
+        "La courbe devient nécessairement plus plate qu’à bas remplissage.",
+        "La pression devient totalement indépendante des variations de volume."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que lorsque le ventricule se remplit davantage, la courbe se redresse, traduisant un comportement différent de celui observé à bas remplissage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hypervolémie dans la relation pression-volume diastolique, quelles propositions sont exactes ?",
+      "choices": [
+        "Une variation modérée de volume entraîne une variation importante de pression.",
+        "Elle correspond à une zone où la courbe de compliance est redressée.",
+        "Elle se traduit par une faible variation de pression malgré une grande variation de volume.",
+        "Elle illustre une augmentation importante de pression pour un ajout volumique limité."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "En hypervolémie, le texte indique qu’une variation modérée de volume entraîne une variation importante de pression, ce qui correspond à la partie redressée de la courbe."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le volume systolique dans la boucle pression-volume, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond au volume éjecté à chaque contraction.",
+        "Il est représenté par la largeur de la boucle sur l’axe des volumes.",
+        "Il correspond à la compliance ventriculaire.",
+        "Il correspond au volume ventriculaire en fin de diastole."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La largeur de la boucle pression-volume sur l’axe des volumes représente le volume systolique, c’est-à-dire le volume éjecté à chaque contraction."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations sont exactes entre les éléments de la boucle pression-volume et leur signification ?",
+      "choices": [
+        "Point télédiastolique : volume ventriculaire en fin de diastole.",
+        "Point télésystolique : volume ventriculaire en fin de systole.",
+        "Relation pression-volume télésystolique : compliance ventriculaire.",
+        "Relation pression-volume diastolique : compliance ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le point télédiastolique correspond à la fin de diastole, le point télésystolique à la fin de systole, et la relation pression-volume diastolique reflète la compliance. La relation télésystolique reflète l’élastance maximale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition de la compliance ventriculaire dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est définie par ΔV/ΔP.",
+        "Elle est reflétée par la relation pression-volume diastolique.",
+        "Elle est représentée par la largeur de la boucle sur l’axe des volumes.",
+        "Elle est assimilée à l’élastance ventriculaire maximale."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La compliance ventriculaire est définie par ΔV/ΔP et reflétée par la relation pression-volume diastolique. La largeur de la boucle représente le volume systolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’interprétation de la pente apparente de la courbe de compliance, quelles propositions sont exactes ?",
+      "choices": [
+        "Une courbe plate à bas remplissage signifie qu’une grande variation de volume modifie peu la pression.",
+        "Une courbe redressée en hypervolémie signifie qu’une variation modérée de volume augmente fortement la pression.",
+        "Une courbe plate indique que le volume systolique est nul.",
+        "Le redressement de la courbe accompagne l’augmentation du remplissage ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte oppose la courbe plate à bas remplissage, où la pression varie peu, au redressement lors d’un remplissage plus important, avec forte variation de pression en hypervolémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les pièges d’interprétation de la boucle pression-volume, quelles propositions sont exactes ?",
+      "choices": [
+        "La largeur de la boucle sur l’axe des volumes ne doit pas être confondue avec la compliance.",
+        "La relation pression-volume télésystolique ne doit pas être confondue avec la relation de compliance diastolique.",
+        "Le point télédiastolique ne doit pas être confondu avec le volume ventriculaire de fin de systole.",
+        "Le volume systolique est défini dans le texte comme la pression générée à chaque contraction."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La largeur de la boucle correspond au volume systolique, la relation télésystolique à l’élastance maximale, et le point télédiastolique au volume de fin de diastole. Le volume systolique est un volume éjecté, non une pression."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les variations de pression selon le niveau de remplissage ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "À bas remplissage, une grande variation de volume entraîne une faible variation de pression.",
+        "En hypervolémie, une variation modérée de volume entraîne une variation importante de pression.",
+        "Plus le ventricule se remplit, plus la courbe se redresse.",
+        "En hypervolémie, la pression reste peu sensible aux variations de volume."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une courbe plate à bas remplissage puis un redressement lorsque le ventricule se remplit davantage. En hypervolémie, la pression varie fortement pour une variation modérée de volume."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément de la boucle pression-volume reflète l’élastance ventriculaire maximale ?",
+      "choices": [
+        "La relation pression-volume télésystolique.",
+        "La relation pression-volume diastolique.",
+        "La largeur de la boucle sur l’axe des volumes.",
+        "Le point télédiastolique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La relation pression-volume télésystolique reflète l’élastance ventriculaire maximale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la définition de la compliance ventriculaire selon le texte ?",
+      "choices": [
+        "ΔP/ΔV.",
+        "ΔV/ΔP.",
+        "Volume télésystolique moins volume télédiastolique.",
+        "Pression télésystolique moins pression télédiastolique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La compliance ventriculaire est définie dans le texte par ΔV/ΔP."
+    },
+    {
+      "type": "QCS",
+      "question": "Que représente la largeur de la boucle pression-volume sur l’axe des volumes ?",
+      "choices": [
+        "Le volume systolique.",
+        "La compliance ventriculaire.",
+        "L’élastance ventriculaire maximale.",
+        "Le volume ventriculaire de fin de diastole uniquement."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La largeur de la boucle sur l’axe des volumes représente le volume systolique, c’est-à-dire le volume éjecté à chaque contraction."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation une variation modérée de volume entraîne-t-elle une variation importante de pression ?",
+      "choices": [
+        "À bas remplissage ventriculaire.",
+        "En hypervolémie.",
+        "Au point télésystolique uniquement.",
+        "Lorsque la courbe de compliance est plate."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En hypervolémie, une variation modérée de volume entraîne une variation importante de pression."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit correctement la courbe de compliance à bas remplissage ?",
+      "choices": [
+        "Elle est plate, avec faible variation de pression malgré une grande variation de volume.",
+        "Elle est redressée, avec forte variation de pression pour une variation modérée de volume.",
+        "Elle représente directement l’élastance ventriculaire maximale.",
+        "Elle correspond à la largeur de la boucle sur l’axe des volumes."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "À bas remplissage, la courbe de compliance est plate : une grande variation de volume entraîne une faible variation de pression."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel sens de parcours de la boucle pression-volume est mentionné dans le texte ?",
+      "choices": [
+        "Le sens des aiguilles d’une montre.",
+        "Le sens inverse des aiguilles d’une montre.",
+        "Un sens alternant à chaque cycle.",
+        "Un sens non précisé."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que la boucle est parcourue dans le sens inverse des aiguilles d’une montre."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la chronologie globale d’un cycle ventriculaire normal, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Un cycle ventriculaire normal dure environ 800 ms.",
+        "La systole représente environ un tiers du cycle ventriculaire.",
+        "La diastole est normalement plus courte que la systole.",
+        "La fréquence cardiaque détermine le rythme."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise qu’un cycle ventriculaire normal dure environ 800 ms, avec environ un tiers de systole et deux tiers de diastole. La fréquence cardiaque détermine le rythme."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant quelles phases les valves auriculo-ventriculaires et sigmoïdes sont-elles simultanément fermées ?",
+      "choices": [
+        "La contraction isovolumétrique.",
+        "La relaxation isovolumétrique.",
+        "Le remplissage rapide.",
+        "L’éjection rapide."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Lors de la contraction isovolumétrique et de la relaxation isovolumétrique, les valves auriculo-ventriculaires et sigmoïdes sont fermées. En remplissage rapide, les valves auriculo-ventriculaires sont ouvertes ; en éjection rapide, les sigmoïdes sont ouvertes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les gradients de pression responsables des mouvements valvulaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Lorsque la pression ventriculaire devient supérieure à la pression auriculaire, les valves auriculo-ventriculaires se ferment.",
+        "Lorsque la pression ventriculaire devient supérieure à la pression dans les gros vaisseaux, les valves sigmoïdes s’ouvrent.",
+        "Lorsque la pression ventriculaire devient inférieure à la pression auriculaire, les valves auriculo-ventriculaires s’ouvrent.",
+        "Lorsque la pression artérielle devient supérieure à la pression ventriculaire, les valves sigmoïdes s’ouvrent."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les valves fonctionnent passivement selon les gradients de pression. Les sigmoïdes s’ouvrent quand la pression ventriculaire dépasse la pression artérielle, mais se ferment lorsque la pression artérielle devient supérieure à la pression ventriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des sous-phases de l’éjection ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Durant l’éjection rapide, la pression ventriculaire continue d’augmenter rapidement.",
+        "L’éjection lente correspond au sommet de la courbe de pression.",
+        "Pendant la proto-diastole, la pression ventriculaire chute rapidement tout en restant supérieure à la pression aortique.",
+        "Les valves sigmoïdes se ferment dès le début de la proto-diastole."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase d’éjection comprend une éjection rapide, une éjection lente correspondant au sommet de la courbe de pression, puis une proto-diastole où la pression ventriculaire chute mais reste supérieure à la pression aortique. Les sigmoïdes se ferment lorsque la pression ventriculaire devient inférieure à la pression aortique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes du remplissage ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le remplissage rapide survient lorsque la pression auriculaire est supérieure à la pression ventriculaire.",
+        "Le diastasis correspond à un équilibre des pressions auriculaire et ventriculaire.",
+        "Le remplissage actif est lié à la systole auriculaire.",
+        "Le remplissage actif dépend de l’ouverture des valves sigmoïdes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le remplissage rapide dépend d’un gradient auriculo-ventriculaire. Le diastasis correspond à l’équilibre des pressions. Le remplissage actif est assuré par la systole auriculaire, et non par l’ouverture des valves sigmoïdes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rôle fonctionnel des ventricules au cours de la systole et de la diastole, quelles propositions sont exactes ?",
+      "choices": [
+        "La systole du ventricule droit éjecte le sang vers l’artère pulmonaire.",
+        "La systole du ventricule gauche éjecte le sang vers l’aorte.",
+        "La diastole ventriculaire permet le repos et le remplissage des cavités cardiaques.",
+        "Les oreillettes représentent la pompe cardiaque proprement dite."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le ventricule droit éjecte vers l’artère pulmonaire, le ventricule gauche vers l’aorte. La diastole permet repos et remplissage. Les ventricules, et non les oreillettes, représentent la pompe cardiaque proprement dite."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités d’accès du cathétérisme gauche, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie artérielle fémorale permet une progression rétrograde dans l’aorte puis le ventricule gauche.",
+        "La voie artérielle fémorale peut éventuellement permettre l’exploration de l’oreillette gauche.",
+        "La voie transseptale comporte un passage de l’oreillette droite vers l’oreillette gauche à travers le septum interauriculaire.",
+        "Les deux voies de cathétérisme gauche imposent d’atteindre d’abord le territoire capillaire pulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit deux voies : artérielle fémorale rétrograde vers l’aorte, le ventricule gauche et éventuellement l’oreillette gauche ; et transseptale, avec passage de l’oreillette droite vers l’oreillette gauche à travers le septum interauriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les données enregistrées ou confrontées lors de l’étude hémodynamique intracardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Le cathétérisme cardiaque permet d’enregistrer des courbes de pression.",
+        "Le cathétérisme cardiaque permet de mesurer les pressions dans chaque cavité explorée.",
+        "Le phonocardiogramme correspond à l’enregistrement acoustique des bruits du cœur.",
+        "L’électrocardiogramme correspond à l’enregistrement direct des pressions intracardiaques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cathétérisme enregistre les courbes de pression et mesure les pressions. Le phonocardiogramme enregistre les bruits du cœur. L’électrocardiogramme enregistre l’activité électrique cardiaque, non les pressions."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs dont dépend la variation de pression lors de la contraction d’une cavité cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "La contractilité myocardique.",
+        "La capacité de relaxation.",
+        "Les résistances périphériques correspondant à la postcharge.",
+        "Le nombre de feuillets de la valve auriculo-ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La variation de pression lors de la contraction dépend de la contractilité myocardique, de la capacité de relaxation et des résistances périphériques, assimilées à la postcharge dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les paramètres principaux des performances cardiaques cités dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La contractilité myocardique.",
+        "La compliance myocardique.",
+        "La précharge et la postcharge ventriculaires.",
+        "L’enregistrement acoustique des bruits cardiaques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les performances cardiaques dépendent principalement de la contractilité, de la compliance, de la précharge, de la postcharge et de la fréquence cardiaque. Le phonocardiogramme est une exploration, pas un paramètre de performance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déterminants explicitement cités comme influençant le volume d’éjection systolique, quelles propositions sont exactes ?",
+      "choices": [
+        "La précharge ventriculaire.",
+        "La postcharge ventriculaire.",
+        "La contractilité myocardique.",
+        "Le phonocardiogramme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que la précharge, la postcharge et la contractilité influencent le volume d’éjection systolique. Le phonocardiogramme est un examen d’enregistrement des bruits du cœur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les valves auriculo-ventriculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "La valve tricuspide est située à droite et comporte trois feuillets.",
+        "La valve mitrale est située à gauche et comporte deux feuillets.",
+        "Les valves auriculo-ventriculaires sont reliées à la paroi ventriculaire par des piliers et des cordages.",
+        "Leur ouverture et leur fermeture sont actives et indépendantes des gradients de pression."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La tricuspide est droite à trois feuillets, la mitrale gauche à deux feuillets. Elles sont reliées aux parois ventriculaires par piliers et cordages. Leur fonctionnement est passif et dépend des gradients de pression."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les valves sigmoïdes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles dirigent le sang des ventricules vers les gros vaisseaux.",
+        "Elles s’ouvrent en systole lorsque la pression ventriculaire devient supérieure à la pression artérielle.",
+        "Elles se ferment en diastole lorsque la pression artérielle devient supérieure à la pression ventriculaire.",
+        "Elles orientent physiologiquement le sang des oreillettes vers les ventricules."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les valves sigmoïdes dirigent le sang des ventricules vers les gros vaisseaux. Elles s’ouvrent quand la pression ventriculaire dépasse la pression artérielle et se ferment dans la situation inverse. L’orientation oreillette-ventricule est le rôle des valves auriculo-ventriculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’étude hémodynamique intracardiaque par cathétérisme, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle étudie les conditions mécaniques de la circulation sanguine à l’intérieur du cœur.",
+        "Le cathétérisme peut explorer les cavités cardiaques droites ou gauches.",
+        "La sonde utilisée est munie d’un manomètre.",
+        "Son interprétation doit être isolée des autres explorations fonctionnelles cardiaques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hémodynamique intracardiaque étudie les conditions mécaniques de la circulation dans le cœur. Le cathétérisme utilise une sonde avec manomètre et peut explorer les cavités droites ou gauches. Le texte précise qu’il doit être confronté aux autres explorations fonctionnelles."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le volume sanguin moyen au repos mentionné dans le texte ?",
+      "choices": [
+        "1 à 2 litres.",
+        "3 à 4 litres.",
+        "5 à 6 litres.",
+        "8 à 10 litres."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique qu’au repos, le volume sanguin moyen est de 5 à 6 litres."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour un cycle ventriculaire normal de 800 ms, quelle est approximativement la durée de la diastole selon la proportion indiquée dans le texte ?",
+      "choices": [
+        "Environ 130 ms.",
+        "Environ 270 ms.",
+        "Environ 530 ms.",
+        "Environ 800 ms."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La diastole représente environ deux tiers du cycle. Deux tiers de 800 ms correspondent approximativement à 530 ms."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel événement met fin à la relaxation isovolumétrique ventriculaire ?",
+      "choices": [
+        "L’ouverture des valves auriculo-ventriculaires lorsque la pression ventriculaire devient inférieure à la pression auriculaire.",
+        "La fermeture des valves auriculo-ventriculaires lorsque la pression ventriculaire devient supérieure à la pression auriculaire.",
+        "L’ouverture des valves sigmoïdes lorsque la pression ventriculaire devient supérieure à la pression artérielle.",
+        "La fermeture des valves sigmoïdes lorsque la pression artérielle devient supérieure à la pression ventriculaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La relaxation isovolumétrique se termine lorsque la pression ventriculaire devient inférieure à la pression auriculaire, entraînant l’ouverture des valves auriculo-ventriculaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle voie correspond au cathétérisme gauche rétrograde décrit dans le texte ?",
+      "choices": [
+        "Voie veineuse, veine cave supérieure, oreillette droite, ventricule droit, artère pulmonaire.",
+        "Voie artérielle fémorale, aorte, ventricule gauche, éventuellement oreillette gauche.",
+        "Voie veineuse, oreillette droite, septum interauriculaire, oreillette gauche, ventricule gauche.",
+        "Voie artérielle pulmonaire, capillaires pulmonaires, oreillette gauche."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La voie artérielle fémorale rétrograde est poussée dans l’aorte, puis le ventricule gauche et éventuellement l’oreillette gauche."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle phase du remplissage ventriculaire peut disparaître en cas d’augmentation de la fréquence cardiaque ?",
+      "choices": [
+        "Le remplissage rapide.",
+        "Le remplissage lent ou diastasis.",
+        "Le remplissage actif.",
+        "La relaxation isovolumétrique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’en cas d’augmentation de la fréquence cardiaque, le remplissage lent ou diastasis peut disparaître."
+    },
+    {
+      "type": "QCS",
+      "question": "Au terme de la proto-diastole, quel événement survient lorsque la pression ventriculaire devient inférieure à la pression aortique ?",
+      "choices": [
+        "L’ouverture des valves auriculo-ventriculaires.",
+        "La fermeture des valves auriculo-ventriculaires.",
+        "L’ouverture des valves sigmoïdes.",
+        "La fermeture des valves sigmoïdes."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Lorsque la pression ventriculaire devient inférieure à la pression aortique, les valves sigmoïdes se ferment."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer les deux points extrêmes cités sur la boucle pression-volume ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le point télédiastolique correspond au volume ventriculaire en fin de diastole.",
+        "Le point télésystolique correspond au volume ventriculaire en fin de systole.",
+        "Le point télédiastolique correspond au volume ventriculaire en fin de systole.",
+        "Le point télésystolique définit la compliance ventriculaire."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte définit le point télédiastolique comme le volume ventriculaire en fin de diastole et le point télésystolique comme le volume ventriculaire en fin de systole. La compliance est rattachée à la relation pression-volume diastolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les relations pression-volume mentionnées dans le texte, quelles associations sont correctes ?",
+      "choices": [
+        "La relation pression-volume télésystolique reflète l’élastance ventriculaire maximale.",
+        "La relation pression-volume diastolique reflète la compliance ventriculaire.",
+        "La compliance ventriculaire est définie par ΔV/ΔP.",
+        "La relation pression-volume diastolique reflète l’élastance ventriculaire maximale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La relation télésystolique reflète l’élastance ventriculaire maximale. La relation diastolique reflète la compliance, définie par ΔV/ΔP."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’aspect de la courbe de compliance lorsque le remplissage ventriculaire est faible, quelles propositions sont exactes ?",
+      "choices": [
+        "La courbe est plate.",
+        "Une grande variation de volume entraîne une faible variation de pression.",
+        "Une variation modérée de volume entraîne toujours une variation importante de pression.",
+        "Cet aspect correspond à la situation d’hypervolémie décrite dans le texte."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "À bas remplissage, la courbe de compliance est plate : une grande variation de volume n’entraîne qu’une faible variation de pression. L’hypervolémie correspond au comportement inverse."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsque le ventricule se remplit davantage, quelles propositions traduisent correctement l’évolution décrite ?",
+      "choices": [
+        "La courbe de compliance se redresse.",
+        "La courbe reste nécessairement plate quel que soit le remplissage.",
+        "Le comportement pression-volume se modifie avec l’augmentation du remplissage.",
+        "Le texte décrit alors une disparition du volume systolique."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte précise que lorsque le ventricule se remplit davantage, la courbe se redresse. Il n’est pas mentionné de disparition du volume systolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la situation d’hypervolémie décrite par le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Une variation modérée de volume entraîne une variation importante de pression.",
+        "La relation pression-volume se situe dans un comportement compatible avec une courbe redressée.",
+        "Une grande variation de volume entraîne une faible variation de pression.",
+        "L’hypervolémie définit le point télésystolique."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "En hypervolémie, le texte indique qu’une variation modérée de volume entraîne une variation importante de pression, ce qui correspond à une courbe redressée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le volume systolique tel qu’il est décrit sur la boucle pression-volume, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à la largeur de la boucle sur l’axe des volumes.",
+        "Il représente le volume éjecté à chaque contraction.",
+        "Il correspond à la hauteur de la boucle sur l’axe des pressions.",
+        "Il définit la compliance ventriculaire."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La largeur de la boucle sur l’axe des volumes représente le volume systolique, c’est-à-dire le volume éjecté à chaque contraction."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’orientation et de la lecture graphique de la boucle pression-volume, quelles propositions sont exactes ?",
+      "choices": [
+        "La boucle est décrite comme parcourue dans le sens inverse des aiguilles d’une montre.",
+        "La boucle est décrite comme parcourue dans le sens des aiguilles d’une montre.",
+        "Le volume systolique se lit sur l’axe des volumes.",
+        "La compliance ventriculaire se lit comme la largeur de la boucle."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte précise le sens inverse des aiguilles d’une montre. La largeur sur l’axe des volumes représente le volume systolique, non la compliance."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont correctement reliées au niveau de remplissage ventriculaire ?",
+      "choices": [
+        "Grande variation de volume avec faible variation de pression : bas remplissage.",
+        "Variation modérée de volume avec variation importante de pression : hypervolémie.",
+        "Redressement de la courbe : remplissage ventriculaire plus important.",
+        "Courbe plate : hypervolémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À bas remplissage, la courbe est plate. Lorsque le ventricule se remplit davantage, elle se redresse. En hypervolémie, une variation modérée de volume entraîne une variation importante de pression."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions respectent strictement la terminologie utilisée pour les points de la boucle ?",
+      "choices": [
+        "Le point télédiastolique est un repère de volume ventriculaire.",
+        "Le point télésystolique est un repère de volume ventriculaire.",
+        "Le point télédiastolique est défini par ΔV/ΔP.",
+        "Le point télésystolique correspond à la relation pression-volume diastolique."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les deux points cités sont des repères de volume ventriculaire en fin de diastole ou en fin de systole. ΔV/ΔP définit la compliance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre compliance et élastance dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La compliance est rattachée à la relation pression-volume diastolique.",
+        "L’élastance ventriculaire maximale est rattachée à la relation pression-volume télésystolique.",
+        "La compliance est définie par le rapport ΔV/ΔP.",
+        "L’élastance ventriculaire maximale est définie dans le texte par ΔV/ΔP."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le rapport ΔV/ΔP définit la compliance. L’élastance ventriculaire maximale est reflétée par la relation pression-volume télésystolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour estimer le volume éjecté lors d’une contraction à partir de la boucle, quelles propositions sont exactes ?",
+      "choices": [
+        "Il faut considérer la largeur de la boucle sur l’axe des volumes.",
+        "Le paramètre obtenu est le volume systolique.",
+        "Il faut considérer uniquement le point télésystolique.",
+        "Le paramètre obtenu est la compliance ventriculaire."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le volume éjecté à chaque contraction correspond au volume systolique, représenté par la largeur de la boucle sur l’axe des volumes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions constituent des erreurs d’interprétation par rapport au texte ?",
+      "choices": [
+        "Attribuer l’élastance ventriculaire maximale à la relation pression-volume diastolique.",
+        "Définir la compliance ventriculaire par ΔP/ΔV.",
+        "Assimiler le point télédiastolique au volume ventriculaire de fin de systole.",
+        "Considérer que le volume systolique est le volume éjecté à chaque contraction."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’élastance maximale est liée à la relation télésystolique. La compliance est ΔV/ΔP. Le point télédiastolique correspond à la fin de diastole. La dernière proposition est correcte, donc ce n’est pas une erreur."
+    },
+    {
+      "type": "QCM",
+      "question": "En utilisant la définition ΔV/ΔP de la compliance ventriculaire, quelles propositions sont cohérentes avec le texte ?",
+      "choices": [
+        "À bas remplissage, une grande variation de volume pour une faible variation de pression traduit une compliance élevée.",
+        "En hypervolémie, une variation importante de pression pour une variation modérée de volume traduit une moindre compliance apparente.",
+        "La compliance correspond à une variation de volume rapportée à une variation de pression.",
+        "La compliance correspond à une variation de pression rapportée à une variation de volume."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La compliance est ΔV/ΔP. Une grande variation de volume pour une faible variation de pression traduit une compliance élevée, contrairement à l’hypervolémie où la pression augmente fortement pour une variation modérée de volume."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les quatre repères principaux cités pour caractériser la boucle pression-volume, quelles propositions sont exactes ?",
+      "choices": [
+        "Deux repères sont des points correspondant à des volumes ventriculaires de fin de phase.",
+        "Deux repères sont des relations pression-volume associées à des propriétés mécaniques ventriculaires.",
+        "La relation télésystolique est associée à l’élastance ventriculaire maximale.",
+        "La relation diastolique est associée à la compliance ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La boucle est caractérisée par deux points, télédiastolique et télésystolique, et deux relations pression-volume : télésystolique pour l’élastance maximale et diastolique pour la compliance."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le texte, quelle situation correspond à une variation modérée de volume entraînant une variation importante de pression ?",
+      "choices": [
+        "Le bas remplissage ventriculaire",
+        "L’hypervolémie",
+        "Le point télédiastolique",
+        "Le point télésystolique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’en hypervolémie, une variation modérée de volume entraîne une variation importante de pression."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle propriété ventriculaire est reflétée par la relation pression-volume diastolique ?",
+      "choices": [
+        "L’élastance ventriculaire maximale",
+        "La compliance ventriculaire",
+        "Le volume systolique",
+        "Le volume télésystolique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La relation pression-volume diastolique reflète la compliance ventriculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement le point télésystolique selon le texte ?",
+      "choices": [
+        "Volume ventriculaire en fin de diastole",
+        "Volume ventriculaire en fin de systole",
+        "Volume éjecté à chaque contraction",
+        "Rapport ΔV/ΔP"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le point télésystolique correspond au volume ventriculaire en fin de systole."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel paramètre est explicitement défini par le rapport ΔV/ΔP ?",
+      "choices": [
+        "Le volume systolique",
+        "L’élastance ventriculaire maximale",
+        "La compliance ventriculaire",
+        "Le volume télésystolique"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte définit la compliance ventriculaire par ΔV/ΔP."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit correctement l’orientation de la boucle pression-volume dans le texte ?",
+      "choices": [
+        "Elle est parcourue dans le sens inverse des aiguilles d’une montre.",
+        "Elle est parcourue dans le sens des aiguilles d’une montre.",
+        "Elle est parcourue verticalement de bas en haut uniquement.",
+        "Elle est parcourue horizontalement de gauche à droite uniquement."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que la boucle est parcourue dans le sens inverse des aiguilles d’une montre."
+    },
+    {
+      "type": "QCS",
+      "question": "Sur la boucle pression-volume, quel élément correspond au volume éjecté à chaque contraction ?",
+      "choices": [
+        "La relation pression-volume diastolique",
+        "La relation pression-volume télésystolique",
+        "La largeur de la boucle sur l’axe des volumes",
+        "Le rapport ΔV/ΔP"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La largeur de la boucle sur l’axe des volumes représente le volume systolique, c’est-à-dire le volume éjecté à chaque contraction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les événements initiaux de la systole ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La contraction pré-isovolumétrique débute par une augmentation brusque de la pression intraventriculaire.",
+        "La fermeture des valves auriculo-ventriculaires survient lorsque la pression ventriculaire devient supérieure à la pression auriculaire.",
+        "La contraction isovolumétrique se déroule avec des valves sigmoïdes déjà ouvertes.",
+        "L’ouverture des valves sigmoïdes survient lorsque la pression ventriculaire devient supérieure à la pression dans les gros vaisseaux."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le début de la systole entraîne une hausse rapide de pression, fermant les valves auriculo-ventriculaires. Pendant la contraction isovolumétrique, toutes les valves sont fermées jusqu’à l’ouverture des sigmoïdes lorsque la pression ventriculaire dépasse celle des gros vaisseaux."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la proto-diastole décrite dans la phase d’éjection ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle appartient à la phase d’éjection.",
+        "Elle se caractérise par une augmentation rapide de la pression ventriculaire.",
+        "La pression ventriculaire y chute rapidement tout en restant supérieure à la pression aortique.",
+        "La fermeture des valves sigmoïdes survient lorsque la pression ventriculaire devient inférieure à la pression aortique."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La proto-diastole est incluse dans l’éjection. La pression ventriculaire chute rapidement mais reste initialement supérieure à la pression aortique ; les sigmoïdes se ferment lorsque la pression ventriculaire devient inférieure à la pression aortique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes successifs du remplissage ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le remplissage rapide est lié à une pression auriculaire supérieure à la pression ventriculaire.",
+        "Le diastasis correspond à un équilibre des pressions auriculaire et ventriculaire.",
+        "Le remplissage actif est provoqué par la systole ventriculaire.",
+        "Le remplissage actif entraîne une augmentation de la pression ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le remplissage rapide dépend du gradient auriculo-ventriculaire. Le diastasis correspond à l’équilibre des pressions. Le remplissage actif est dû à la systole auriculaire, non ventriculaire, et augmente la pression ventriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités du cathétérisme des cavités gauches, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie artérielle fémorale permet une progression rétrograde vers l’aorte puis le ventricule gauche.",
+        "La voie transseptale passe par l’oreillette droite puis traverse le septum interauriculaire vers l’oreillette gauche.",
+        "Le cathétérisme droit est la voie habituelle d’exploration des cavités gauches.",
+        "Le cathétérisme gauche est décrit comme exclusivement réalisable par voie artérielle fémorale."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte décrit deux voies pour le cathétérisme gauche : artérielle fémorale rétrograde et transseptale. Le cathétérisme droit explore les cavités droites."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les objectifs directs du cathétérisme cardiaque hémodynamique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il consiste à introduire une sonde munie d’un manomètre dans les cavités cardiaques.",
+        "Il permet d’enregistrer des courbes de pression intracardiaques.",
+        "Il permet de mesurer les pressions dans chaque cavité explorée.",
+        "Il dispense de toute confrontation avec l’électrocardiogramme et le phonocardiogramme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cathétérisme utilise une sonde avec manomètre pour enregistrer les courbes de pression et mesurer les pressions. Son interprétation doit être confrontée aux autres explorations fonctionnelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le trajet du cathétérisme droit tel qu’il est décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "L’introduction du cathéter se fait par voie veineuse.",
+        "Le cathéter passe par la veine cave supérieure, l’oreillette droite puis le ventricule droit.",
+        "Le cathéter traverse l’aorte avant d’atteindre l’artère pulmonaire.",
+        "Le trajet peut se poursuivre vers l’artère pulmonaire et le territoire capillaire pulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le cathétérisme droit est introduit par voie veineuse et explore successivement les cavités droites, l’artère pulmonaire puis le territoire capillaire pulmonaire. L’aorte relève du cathétérisme gauche rétrograde."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs intervenant dans la variation de pression lors de la contraction d’une cavité cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "La contractilité myocardique intervient dans cette variation de pression.",
+        "La capacité de relaxation est citée parmi les facteurs impliqués.",
+        "Les résistances périphériques correspondent à la précharge.",
+        "Les performances cardiaques dépendent notamment de la compliance myocardique et de la fréquence cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La variation de pression dépend de la contractilité, de la relaxation et des résistances périphériques, celles-ci correspondant à la postcharge. Les performances cardiaques incluent aussi compliance myocardique et fréquence cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déterminants explicitement cités du volume d’éjection systolique, quelles propositions sont exactes ?",
+      "choices": [
+        "La précharge ventriculaire influence le volume d’éjection systolique.",
+        "La postcharge ventriculaire influence le volume d’éjection systolique.",
+        "La contractilité myocardique influence le volume d’éjection systolique.",
+        "La capacité de relaxation est explicitement citée comme déterminant du volume d’éjection systolique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que la précharge, la postcharge et la contractilité influencent le volume d’éjection systolique. La capacité de relaxation est citée pour la variation de pression, pas explicitement pour le volume d’éjection systolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fonctionnement passif des valves cardiaques, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ouverture et la fermeture des valves auriculo-ventriculaires dépendent des gradients de pression.",
+        "Les valves auriculo-ventriculaires orientent le sang des oreillettes vers les ventricules.",
+        "Les valves sigmoïdes s’ouvrent en diastole lorsque la pression artérielle dépasse la pression ventriculaire.",
+        "Les valves sigmoïdes dirigent le sang des ventricules vers les gros vaisseaux."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les valves auriculo-ventriculaires fonctionnent passivement selon les gradients de pression et orientent le flux vers les ventricules. Les sigmoïdes s’ouvrent en systole lorsque la pression ventriculaire dépasse la pression artérielle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les repères temporels et fonctionnels du cycle ventriculaire normal, quelles propositions sont exactes ?",
+      "choices": [
+        "Un cycle ventriculaire normal dure environ 800 ms.",
+        "La systole représente environ deux tiers du cycle ventriculaire normal.",
+        "La diastole ventriculaire correspond au repos et au remplissage des cavités cardiaques.",
+        "La fréquence cardiaque détermine le rythme du cycle cardiaque."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le cycle ventriculaire normal dure environ 800 ms, avec environ un tiers de systole et deux tiers de diastole. La fréquence cardiaque en détermine le rythme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fonction respective des cavités cardiaques pendant l’éjection, quelles propositions sont exactes ?",
+      "choices": [
+        "Le ventricule droit éjecte le sang vers l’artère pulmonaire et la circulation pulmonaire.",
+        "Le ventricule gauche éjecte le sang vers l’aorte et la circulation systémique.",
+        "Les oreillettes représentent la pompe cardiaque proprement dite.",
+        "Les ventricules représentent la pompe cardiaque proprement dite."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les ventricules constituent la pompe cardiaque. Le ventricule droit éjecte vers l’artère pulmonaire, tandis que le ventricule gauche éjecte vers l’aorte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la relaxation isovolumétrique ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle fait partie de la diastole ventriculaire.",
+        "Les valves auriculo-ventriculaires et sigmoïdes y sont fermées.",
+        "L’ouverture des valves auriculo-ventriculaires survient lorsque la pression ventriculaire devient inférieure à la pression auriculaire.",
+        "Elle se termine par l’ouverture des valves sigmoïdes lorsque la pression ventriculaire devient inférieure à la pression auriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La relaxation isovolumétrique est une phase diastolique pendant laquelle toutes les valves sont fermées. Elle se termine par l’ouverture des valves auriculo-ventriculaires lorsque la pression ventriculaire devient inférieure à la pression auriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les explorations fonctionnelles à confronter au cathétérisme cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Le phonocardiogramme correspond à l’enregistrement acoustique des bruits du cœur.",
+        "L’électrocardiogramme correspond à l’enregistrement de l’activité électrique cardiaque.",
+        "Le cathétérisme cardiaque permet l’enregistrement de courbes de pression.",
+        "Le phonocardiogramme est l’examen d’enregistrement de l’activité électrique cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le phonocardiogramme enregistre les bruits du cœur, l’électrocardiogramme l’activité électrique, et le cathétérisme les pressions intracardiaques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les données quantitatives générales citées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le volume sanguin moyen au repos est de 5 à 6 litres.",
+        "Le débit cardiaque au repos est d’environ 5,5 L/min.",
+        "Le débit cardiaque peut atteindre 25 L/min à l’effort.",
+        "Le cœur pèse environ 30 g."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne un volume sanguin moyen de 5 à 6 L, un débit cardiaque de repos d’environ 5,5 L/min et un débit pouvant atteindre 25 L/min à l’effort. Le poids du cœur est d’environ 300 g."
+    },
+    {
+      "type": "QCS",
+      "question": "Au cours de l’éjection rapide ventriculaire, quelle proposition est correcte ?",
+      "choices": [
+        "La pression ventriculaire continue d’augmenter rapidement.",
+        "Les pressions auriculaire et ventriculaire s’équilibrent.",
+        "Les valves auriculo-ventriculaires s’ouvrent.",
+        "La pression ventriculaire devient inférieure à la pression auriculaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La phase d’éjection rapide est définie par une poursuite de l’augmentation rapide de la pression ventriculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel gradient de pression provoque la fermeture des valves auriculo-ventriculaires au début de la systole ?",
+      "choices": [
+        "La pression ventriculaire devient supérieure à la pression auriculaire.",
+        "La pression auriculaire devient supérieure à la pression ventriculaire.",
+        "La pression artérielle devient supérieure à la pression ventriculaire.",
+        "La pression ventriculaire devient inférieure à la pression aortique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La fermeture des valves auriculo-ventriculaires survient lorsque la pression intraventriculaire dépasse la pression auriculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors d’un cathétérisme gauche par voie artérielle fémorale rétrograde, quelle structure est atteinte avant le ventricule gauche selon le trajet décrit ?",
+      "choices": [
+        "L’aorte.",
+        "L’oreillette droite.",
+        "L’artère pulmonaire.",
+        "Le territoire capillaire pulmonaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Par voie artérielle fémorale, le cathéter est poussé rétrogradement dans l’aorte puis dans le ventricule gauche."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit le mieux le remplissage actif ventriculaire ?",
+      "choices": [
+        "La systole auriculaire chasse le sang restant vers le ventricule.",
+        "La pression ventriculaire reste supérieure à la pression auriculaire.",
+        "Les valves sigmoïdes s’ouvrent pour permettre le remplissage.",
+        "Les pressions auriculaire et ventriculaire s’équilibrent sans contraction auriculaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le remplissage actif correspond à la systole auriculaire, qui chasse le sang restant de l’oreillette vers le ventricule."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le texte, à quoi correspondent les résistances périphériques dans la description de la contraction d’une cavité cardiaque ?",
+      "choices": [
+        "À la postcharge.",
+        "À la précharge.",
+        "À la compliance myocardique.",
+        "À la fréquence cardiaque."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les résistances périphériques sont explicitement assimilées à la postcharge."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen fonctionnel cardiaque enregistre l’activité électrique du cœur ?",
+      "choices": [
+        "Le phonocardiogramme.",
+        "L’électrocardiogramme.",
+        "Le cathétérisme cardiaque droit.",
+        "Le cathétérisme cardiaque gauche."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’électrocardiogramme correspond à l’enregistrement de l’activité électrique cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’analyse directe d’une boucle pression-volume ventriculaire, quelles informations peuvent être identifiées selon le texte ?",
+      "choices": [
+        "Le volume ventriculaire en fin de diastole",
+        "Le volume ventriculaire en fin de systole",
+        "Le volume systolique à partir de la largeur de la boucle sur l’axe des volumes",
+        "Le mécanisme actif d’ouverture des valves cardiaques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que le point télédiastolique correspond au volume ventriculaire en fin de diastole, le point télésystolique au volume en fin de systole, et que la largeur de la boucle représente le volume systolique. Il ne décrit pas de mécanisme actif valvulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Si la courbe pression-volume diastolique se redresse au cours du remplissage ventriculaire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le ventricule est davantage rempli qu’à la phase de bas remplissage",
+        "Une variation de volume tend à entraîner une variation de pression plus marquée",
+        "La courbe reste plate comme à bas remplissage",
+        "Cette évolution peut aboutir au comportement décrit en hypervolémie"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte indique qu’à bas remplissage la courbe est plate, puis qu’elle se redresse lorsque le ventricule se remplit davantage. En hypervolémie, une variation modérée de volume entraîne une variation importante de pression."
+    },
+    {
+      "type": "QCM",
+      "question": "En appliquant strictement la définition de la compliance ventriculaire donnée dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La compliance ventriculaire est définie par le rapport ΔV/ΔP",
+        "À variation de volume identique, une plus faible variation de pression augmente le rapport ΔV/ΔP",
+        "À variation de pression identique, une plus grande variation de volume augmente le rapport ΔV/ΔP",
+        "La compliance ventriculaire est définie par le rapport ΔP/ΔV"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte définit la compliance par ΔV/ΔP. Les conséquences mathématiques directes de ce rapport sont qu’un ΔP plus faible pour un même ΔV, ou un ΔV plus grand pour un même ΔP, augmentent la compliance."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles formulations sont incompatibles avec les définitions des repères de la boucle pression-volume fournies dans le texte ?",
+      "choices": [
+        "Le point télédiastolique correspond au volume ventriculaire en fin de systole",
+        "Le point télésystolique correspond au volume ventriculaire en fin de diastole",
+        "La relation pression-volume télésystolique reflète la compliance ventriculaire",
+        "La relation pression-volume diastolique reflète l’élastance ventriculaire maximale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions inversent les définitions du texte : le point télédiastolique est en fin de diastole, le point télésystolique en fin de systole, la relation télésystolique reflète l’élastance maximale et la relation diastolique la compliance."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du comportement de la courbe de compliance à bas remplissage ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La courbe est plate",
+        "Une grande variation de volume entraîne une faible variation de pression",
+        "Une variation modérée de volume entraîne nécessairement une variation importante de pression",
+        "Ce comportement est différent de celui décrit en hypervolémie"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "À bas remplissage, la courbe est plate : une grande variation de volume entraîne une faible variation de pression. En hypervolémie, le comportement inverse est décrit."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la situation d’hypervolémie décrite par le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Une variation modérée de volume entraîne une variation importante de pression",
+        "Le ventricule se situe dans une zone où la courbe est redressée",
+        "La courbe présente le comportement plat du bas remplissage",
+        "La largeur de la boucle, si elle est mesurée, garde la signification de volume systolique"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’hypervolémie correspond à une zone où une variation modérée de volume provoque une importante variation de pression, ce qui traduit une courbe redressée. La signification de la largeur de la boucle reste le volume systolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour ne pas confondre volume systolique et volumes extrêmes de la boucle, quelles propositions sont correctes ?",
+      "choices": [
+        "Le volume systolique correspond à la largeur de la boucle sur l’axe des volumes",
+        "Le volume systolique représente le volume éjecté à chaque contraction",
+        "Le point télésystolique correspond au volume ventriculaire en fin de systole",
+        "Le point télédiastolique correspond directement au volume éjecté à chaque contraction"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le volume systolique est la largeur de la boucle sur l’axe des volumes et correspond au volume éjecté à chaque contraction. Le point télédiastolique est un volume de fin de diastole, non le volume éjecté."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels correspondent à des volumes ou à une mesure de volume dans la description de la boucle ?",
+      "choices": [
+        "Le point télédiastolique",
+        "Le point télésystolique",
+        "La largeur de la boucle sur l’axe des volumes",
+        "L’élastance ventriculaire maximale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les points télédiastolique et télésystolique sont des volumes ventriculaires de fin de diastole et de fin de systole. La largeur sur l’axe des volumes représente le volume systolique. L’élastance maximale est une propriété mécanique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les relations pression-volume citées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La relation pression-volume télésystolique reflète l’élastance ventriculaire maximale",
+        "La relation pression-volume diastolique reflète la compliance ventriculaire",
+        "Ces relations apportent une information mécanique différente des seuls volumes extrêmes",
+        "La relation pression-volume diastolique définit le volume éjecté à chaque contraction"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte associe la relation télésystolique à l’élastance maximale et la relation diastolique à la compliance. Le volume éjecté est représenté par la largeur de la boucle, non par la relation diastolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une grande variation de volume accompagnée d’une faible variation de pression sur la courbe diastolique, quelles interprétations sont conformes au texte ?",
+      "choices": [
+        "Il s’agit du comportement décrit à bas remplissage",
+        "La courbe de compliance est alors plate",
+        "Il s’agit du comportement typique de l’hypervolémie",
+        "La pression varie peu malgré une variation importante de volume"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte décrit précisément ce comportement à bas remplissage : courbe plate, grande variation de volume et faible variation de pression. L’hypervolémie correspond au contraire à une variation importante de pression pour une variation modérée de volume."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la lecture de l’axe des volumes sur la boucle pression-volume, quelles propositions sont exactes ?",
+      "choices": [
+        "La largeur de la boucle est une mesure horizontale sur l’axe des volumes",
+        "Cette largeur représente le volume systolique",
+        "Cette largeur correspond à une variation de pression",
+        "Cette largeur définit la relation pression-volume diastolique"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La largeur de la boucle sur l’axe des volumes représente le volume systolique. Elle ne définit ni une variation de pression ni la relation pression-volume diastolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’orientation et les éléments caractéristiques de la boucle pression-volume décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "La boucle est parcourue dans le sens inverse des aiguilles d’une montre",
+        "Elle est caractérisée par des points extrêmes et par des relations pression-volume",
+        "Sa largeur sur l’axe des volumes correspond au volume éjecté à chaque contraction",
+        "Elle est parcourue dans le sens des aiguilles d’une montre"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne un parcours dans le sens inverse des aiguilles d’une montre, avec des points télédiastolique et télésystolique, des relations pression-volume et une largeur correspondant au volume systolique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des termes télédiastolique et télésystolique utilisés pour la boucle, quelles propositions sont exactes ?",
+      "choices": [
+        "Le terme télédiastolique renvoie à la fin de la diastole",
+        "Le terme télésystolique renvoie à la fin de la systole",
+        "Ces deux repères correspondent à des volumes ventriculaires",
+        "Ces deux repères correspondent à des rapports ΔV/ΔP"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le point télédiastolique est le volume ventriculaire en fin de diastole et le point télésystolique le volume ventriculaire en fin de systole. Le rapport ΔV/ΔP définit la compliance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution de la courbe de compliance selon le niveau de remplissage ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est plate à bas remplissage",
+        "Elle se redresse lorsque le ventricule se remplit davantage",
+        "En hypervolémie, la pression devient très sensible à une variation même modérée de volume",
+        "Son comportement est décrit comme strictement identique quel que soit le remplissage"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une courbe plate à bas remplissage, puis un redressement avec l’augmentation du remplissage, jusqu’à l’hypervolémie où une variation modérée de volume entraîne une variation importante de pression."
+    },
+    {
+      "type": "QCS",
+      "question": "Sur une boucle pression-volume, quel élément permet d’identifier le volume éjecté à chaque contraction ?",
+      "choices": [
+        "La largeur de la boucle sur l’axe des volumes",
+        "La relation pression-volume diastolique",
+        "La relation pression-volume télésystolique",
+        "Le sens inverse des aiguilles d’une montre"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la largeur de la boucle sur l’axe des volumes représente le volume systolique, c’est-à-dire le volume éjecté à chaque contraction."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle relation pression-volume reflète l’élastance ventriculaire maximale ?",
+      "choices": [
+        "La relation pression-volume diastolique",
+        "La relation pression-volume télésystolique",
+        "La largeur de la boucle sur l’axe des volumes",
+        "La courbe plate du bas remplissage"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Selon le texte, la relation pression-volume télésystolique reflète l’élastance ventriculaire maximale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil correspond au bas remplissage ventriculaire dans la description de la courbe de compliance ?",
+      "choices": [
+        "Courbe plate avec grande variation de volume et faible variation de pression",
+        "Courbe redressée avec variation modérée de volume et variation importante de pression",
+        "Courbe définissant l’élastance ventriculaire maximale",
+        "Largeur de boucle assimilée au point télésystolique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "À bas remplissage, la courbe de compliance est plate : une grande variation de volume entraîne une faible variation de pression."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit le mieux le comportement pression-volume en hypervolémie selon le texte ?",
+      "choices": [
+        "Une grande variation de volume entraîne une faible variation de pression",
+        "Une variation modérée de volume entraîne une variation importante de pression",
+        "Le volume systolique devient égal au point télédiastolique",
+        "La relation télésystolique reflète la compliance ventriculaire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En hypervolémie, le texte indique qu’une variation modérée de volume entraîne une variation importante de pression."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel rapport définit la compliance ventriculaire dans le texte ?",
+      "choices": [
+        "ΔP/ΔV",
+        "ΔV/ΔP",
+        "Volume télésystolique/volume télédiastolique",
+        "Volume systolique/pression télésystolique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La compliance ventriculaire est définie dans le texte par le rapport ΔV/ΔP."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond au point télésystolique de la boucle pression-volume ?",
+      "choices": [
+        "Le volume ventriculaire en fin de systole",
+        "Le volume ventriculaire en fin de diastole",
+        "Le volume éjecté à chaque contraction",
+        "La compliance ventriculaire définie par ΔV/ΔP"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le point télésystolique correspond au volume ventriculaire en fin de systole."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la logique fonctionnelle décrite pour l’appareil cardio-vasculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il assure la circulation du sang dans les circulations pulmonaire et systémique.",
+        "Il permet l’apport d’oxygène et de nutriments aux cellules.",
+        "Il participe à l’évacuation des déchets cellulaires.",
+        "Il maintient le métabolisme général uniquement par la circulation systémique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que l’appareil cardio-vasculaire assure les circulations pulmonaire et systémique, apporte oxygène et nutriments, évacue les déchets et contribue au maintien du métabolisme général."
+    },
+    {
+      "type": "QCM",
+      "question": "En distinguant les rôles fonctionnels des cavités cardiaques, quelles propositions sont exactes ?",
+      "choices": [
+        "Les oreillettes sont contractiles et jouent surtout un rôle de réservoir.",
+        "Les ventricules représentent la pompe cardiaque proprement dite.",
+        "Le ventricule droit éjecte le sang vers l’artère pulmonaire.",
+        "Le ventricule gauche éjecte le sang vers la veine cave supérieure."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les oreillettes sont surtout des réservoirs contractiles, les ventricules constituent la pompe. Le ventricule droit éjecte vers l’artère pulmonaire, tandis que le ventricule gauche éjecte vers l’aorte."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour identifier correctement les valves auriculo-ventriculaires et leurs attaches, quelles propositions sont exactes ?",
+      "choices": [
+        "La valve tricuspide est située à droite et comporte trois feuillets.",
+        "La valve mitrale est située à gauche et comporte deux feuillets.",
+        "Les valves auriculo-ventriculaires sont reliées à la paroi ventriculaire par des piliers et des cordages.",
+        "Les valves auriculo-ventriculaires dirigent le sang des ventricules vers les gros vaisseaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La tricuspide droite a trois feuillets, la mitrale gauche en a deux. Elles sont reliées par piliers et cordages et orientent le sang des oreillettes vers les ventricules, non vers les gros vaisseaux."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des valves sigmoïdes et de leurs conditions d’ouverture ou de fermeture, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles dirigent le sang des ventricules vers les gros vaisseaux.",
+        "Elles s’ouvrent en systole lorsque la pression ventriculaire devient supérieure à la pression artérielle.",
+        "Elles se ferment en diastole lorsque la pression artérielle devient supérieure à la pression ventriculaire.",
+        "Elles s’ouvrent passivement lorsque la pression auriculaire devient supérieure à la pression ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les valves sigmoïdes orientent le sang des ventricules vers les gros vaisseaux. Leur ouverture dépend d’une pression ventriculaire supérieure à la pression artérielle ; leur fermeture survient lorsque la pression artérielle redevient supérieure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation temporelle du cycle ventriculaire normal, quelles propositions sont exactes ?",
+      "choices": [
+        "Un cycle ventriculaire normal dure environ 800 ms.",
+        "La systole représente environ un tiers du cycle ventriculaire.",
+        "La diastole représente environ deux tiers du cycle ventriculaire.",
+        "La fréquence cardiaque modifie le rythme sans intervenir dans la succession systole-diastole."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique un cycle d’environ 800 ms, avec approximativement un tiers de systole et deux tiers de diastole. La fréquence cardiaque détermine le rythme de cette alternance."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une exploration hémodynamique intracardiaque par cathétérisme, quelles propositions sont exactes ?",
+      "choices": [
+        "La sonde introduite peut être munie d’un manomètre.",
+        "L’examen permet d’enregistrer des courbes de pression intracardiaques.",
+        "L’examen permet de mesurer les pressions dans chaque cavité explorée.",
+        "L’objectif direct est l’enregistrement acoustique des bruits du cœur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cathétérisme cardiaque hémodynamique utilise une sonde munie d’un manomètre pour enregistrer les courbes de pression et mesurer les pressions cavitaires. L’enregistrement acoustique relève du phonocardiogramme."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour différencier les voies d’exploration des cavités droites et gauches, quelles propositions sont exactes ?",
+      "choices": [
+        "Le cathétérisme droit est introduit par voie veineuse.",
+        "Le cathétérisme droit peut atteindre l’artère pulmonaire et le territoire capillaire pulmonaire.",
+        "Le cathétérisme gauche par voie artérielle fémorale est poussé de façon rétrograde dans l’aorte puis le ventricule gauche.",
+        "Le cathétérisme gauche par voie artérielle fémorale explore d’abord la veine cave supérieure."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cathétérisme droit suit une voie veineuse vers les cavités droites puis l’artère pulmonaire. Le cathétérisme gauche fémoral est artériel et rétrograde, passant par l’aorte vers le ventricule gauche."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la voie transseptale d’exploration des cavités gauches, quelles étapes sont conformes au texte ?",
+      "choices": [
+        "L’introduction initiale se fait par voie veineuse jusqu’à l’oreillette droite.",
+        "Le passage vers l’oreillette gauche se fait à travers le septum interauriculaire.",
+        "Le cathéter peut ensuite atteindre le ventricule gauche.",
+        "La progression transseptale impose d’abord un passage rétrograde par l’aorte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie transseptale débute par une introduction veineuse jusqu’à l’oreillette droite, traverse le septum interauriculaire vers l’oreillette gauche, puis peut gagner le ventricule gauche. Elle ne correspond pas à la voie rétrograde aortique."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour interpréter correctement les données du cathétérisme cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Les résultats doivent être confrontés à d’autres explorations fonctionnelles cardiaques.",
+        "Le phonocardiogramme enregistre acoustiquement les bruits du cœur.",
+        "L’électrocardiogramme enregistre l’activité électrique cardiaque.",
+        "Le phonocardiogramme est défini dans le texte comme une mesure directe des pressions intracardiaques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur la confrontation avec le phonocardiogramme et l’électrocardiogramme. Le phonocardiogramme enregistre les bruits cardiaques, alors que la mesure des pressions relève du cathétérisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de la phase de contraction de la systole ventriculaire, quelles propositions respectent la séquence hémodynamique décrite ?",
+      "choices": [
+        "Au début, l’augmentation de pression intraventriculaire peut rendre celle-ci supérieure à la pression auriculaire.",
+        "La fermeture des valves auriculo-ventriculaires survient lors de la contraction pré-isovolumétrique.",
+        "Pendant la contraction isovolumétrique, les valves auriculo-ventriculaires et sigmoïdes sont fermées.",
+        "L’ouverture des valves sigmoïdes survient lorsque la pression ventriculaire devient inférieure à celle des gros vaisseaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La contraction pré-isovolumétrique augmente la pression ventriculaire au-dessus de la pression auriculaire, fermant les valves auriculo-ventriculaires. En contraction isovolumétrique, toutes les valves sont fermées jusqu’à ce que la pression ventriculaire dépasse celle des gros vaisseaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la phase d’éjection ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’éjection rapide s’accompagne d’une poursuite de l’augmentation rapide de la pression ventriculaire.",
+        "L’éjection lente correspond au sommet de la courbe de pression.",
+        "La proto-diastole comporte une chute rapide de la pression ventriculaire qui reste encore supérieure à la pression aortique.",
+        "La fermeture des valves sigmoïdes survient alors que la pression ventriculaire demeure supérieure à la pression aortique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’éjection rapide voit la pression augmenter rapidement ; l’éjection lente correspond au sommet de la courbe ; en proto-diastole, la pression ventriculaire chute mais reste supérieure à la pression aortique. Les sigmoïdes se ferment quand la pression ventriculaire devient inférieure à la pression aortique."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant la diastole ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La relaxation ventriculaire décrite est isovolumétrique.",
+        "Durant la relaxation isovolumétrique, les valves auriculo-ventriculaires et sigmoïdes sont fermées.",
+        "L’ouverture des valves auriculo-ventriculaires survient lorsque la pression ventriculaire devient inférieure à la pression auriculaire.",
+        "La phase de remplissage commence par la systole ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diastole débute par une relaxation isovolumétrique à valves fermées. Les valves auriculo-ventriculaires s’ouvrent quand la pression ventriculaire devient inférieure à la pression auriculaire, permettant le remplissage."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des trois temps du remplissage ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le remplissage rapide est favorisé par une pression auriculaire supérieure à la pression ventriculaire.",
+        "Le diastasis correspond à un équilibre des pressions auriculaire et ventriculaire.",
+        "Le remplissage actif résulte de la systole auriculaire chassant le sang restant vers le ventricule.",
+        "Le remplissage actif entraîne obligatoirement une baisse de la pression ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le remplissage rapide dépend d’un gradient oreillette-ventricule. Le diastasis correspond à l’équilibre des pressions. Le remplissage actif est lié à la systole auriculaire et augmente la pression ventriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "En reliant variation de pression, postcharge et performances cardiaques, quelles propositions sont exactes ?",
+      "choices": [
+        "La variation de pression lors de la contraction d’une cavité dépend de la contractilité myocardique.",
+        "La capacité de relaxation intervient dans la description de cette variation de pression.",
+        "Les résistances périphériques correspondent à la postcharge.",
+        "La compliance myocardique est explicitement citée comme déterminant direct du volume d’éjection systolique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La variation de pression dépend de la contractilité, de la relaxation et des résistances périphériques correspondant à la postcharge. Le texte cite la précharge, la postcharge et la contractilité comme influençant le volume d’éjection systolique, mais pas explicitement la compliance."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen fonctionnel cité dans le texte correspond à l’enregistrement acoustique des bruits du cœur ?",
+      "choices": [
+        "Électrocardiogramme",
+        "Phonocardiogramme",
+        "Cathétérisme droit",
+        "Cathétérisme gauche rétrograde"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le phonocardiogramme est défini comme l’enregistrement acoustique des bruits du cœur."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’exploration transseptale des cavités gauches, quelle structure est franchie pour passer de l’oreillette droite à l’oreillette gauche ?",
+      "choices": [
+        "Septum interventriculaire",
+        "Septum interauriculaire",
+        "Valve mitrale",
+        "Valve tricuspide"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La voie transseptale passe de l’oreillette droite à l’oreillette gauche à travers le septum interauriculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel événement marque la fin de la contraction isovolumétrique ventriculaire selon la séquence décrite ?",
+      "choices": [
+        "Ouverture des valves sigmoïdes",
+        "Fermeture des valves auriculo-ventriculaires",
+        "Ouverture des valves auriculo-ventriculaires",
+        "Fermeture des valves sigmoïdes"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La contraction isovolumétrique se poursuit jusqu’à ce que la pression ventriculaire dépasse celle des gros vaisseaux, entraînant l’ouverture des valves sigmoïdes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme déclenche l’ouverture des valves auriculo-ventriculaires après la relaxation isovolumétrique ?",
+      "choices": [
+        "Pression ventriculaire supérieure à la pression auriculaire",
+        "Pression artérielle supérieure à la pression ventriculaire",
+        "Pression ventriculaire inférieure à la pression auriculaire",
+        "Pression ventriculaire supérieure à la pression aortique"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les valves auriculo-ventriculaires s’ouvrent lorsque la pression ventriculaire devient inférieure à la pression auriculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les paramètres suivants, lequel appartient aux performances cardiaques mais n’est pas explicitement cité dans le texte comme influençant directement le volume d’éjection systolique ?",
+      "choices": [
+        "Précharge ventriculaire",
+        "Postcharge ventriculaire",
+        "Contractilité myocardique",
+        "Compliance myocardique"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Les performances cardiaques dépendent notamment de la compliance myocardique, mais le texte précise que le volume d’éjection systolique est influencé par la précharge, la postcharge et la contractilité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel trajet correspond à l’éjection systolique du ventricule gauche selon le texte ?",
+      "choices": [
+        "Ventricule gauche vers aorte et circulation systémique",
+        "Ventricule gauche vers artère pulmonaire et circulation pulmonaire",
+        "Ventricule gauche vers veine cave supérieure et oreillette droite",
+        "Ventricule gauche vers oreillette gauche par la valve mitrale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La systole du ventricule gauche éjecte le sang vers l’aorte et la circulation systémique."
+    },
+    {
+      "type": "QCM",
+      "question": "En appliquant strictement la définition de la compliance ventriculaire comme ΔV/ΔP, quelles situations traduisent une compliance supérieure à 5 unités de volume par unité de pression ?",
+      "choices": [
+        "ΔV = 60 et ΔP = 6",
+        "ΔV = 15 et ΔP = 5",
+        "ΔV = 40 et ΔP = 4",
+        "ΔV = 20 et ΔP = 10"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "La compliance est le rapport ΔV/ΔP. Les rapports 60/6 et 40/4 valent 10, donc sont supérieurs à 5."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’un segment de remplissage ventriculaire montre une grande variation de volume pour une faible variation de pression, quelles interprétations sont conformes au texte ?",
+      "choices": [
+        "Il correspond au profil de bas remplissage ventriculaire",
+        "Il traduit une courbe de compliance plate",
+        "Il correspond à une compliance élevée selon le rapport ΔV/ΔP",
+        "Il correspond au comportement décrit en hypervolémie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À bas remplissage, la courbe est plate : une grande variation de volume entraîne une faible variation de pression, ce qui donne un rapport ΔV/ΔP élevé."
+    },
+    {
+      "type": "QCM",
+      "question": "Quand le ventricule se remplit davantage, quelles modifications sont attendues d’après la description de la courbe pression-volume diastolique ?",
+      "choices": [
+        "La courbe se redresse",
+        "Une même augmentation de volume tend à s’accompagner d’une augmentation de pression plus marquée",
+        "Le système évolue vers une plus grande sensibilité de la pression au volume",
+        "La courbe reste plate quel que soit le niveau de remplissage"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que lorsque le ventricule se remplit davantage, la courbe se redresse ; en hypervolémie, une variation modérée de volume entraîne une forte variation de pression."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la zone d’hypervolémie décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "Une variation modérée de volume peut entraîner une variation importante de pression",
+        "La courbe est dans une portion redressée",
+        "Le rapport ΔV/ΔP est moins favorable à l’augmentation de volume que dans la portion plate",
+        "Une grande variation de volume entraîne toujours une faible variation de pression"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypervolémie correspond à une courbe redressée, avec forte augmentation de pression pour une variation seulement modérée du volume."
+    },
+    {
+      "type": "QCM",
+      "question": "Sur une boucle pression-volume dont l’axe horizontal représente les volumes, si le volume télédiastolique est de 120 unités et le volume télésystolique de 50 unités, quelles propositions sont correctes ?",
+      "choices": [
+        "La largeur de la boucle est de 70 unités de volume",
+        "Le volume systolique est de 70 unités de volume",
+        "Le volume éjecté à chaque contraction est de 70 unités de volume",
+        "La compliance ventriculaire est nécessairement de 70 unités"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La largeur sur l’axe des volumes correspond au volume systolique, soit VTD − VTS = 120 − 50 = 70 unités. La compliance nécessite un rapport ΔV/ΔP."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour ne pas confondre les repères ponctuels et les relations pression-volume, quelles propositions sont exactes ?",
+      "choices": [
+        "Le point télédiastolique correspond au volume ventriculaire en fin de diastole",
+        "Le point télésystolique correspond au volume ventriculaire en fin de systole",
+        "La relation pression-volume télésystolique reflète l’élastance ventriculaire maximale",
+        "La relation pression-volume diastolique définit le volume ventriculaire de fin de systole"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue les points télédiastolique et télésystolique des relations pression-volume. La relation diastolique reflète la compliance, non le volume de fin de systole."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions constituent des contresens par rapport au texte ?",
+      "choices": [
+        "La relation pression-volume diastolique reflète l’élastance ventriculaire maximale",
+        "La relation pression-volume télésystolique reflète la compliance ventriculaire",
+        "En hypervolémie, une grande variation de volume entraîne une faible variation de pression",
+        "La largeur de la boucle sur l’axe des volumes correspond au volume éjecté"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’élastance maximale est liée à la relation télésystolique, la compliance à la relation diastolique. L’hypervolémie donne une forte variation de pression pour une variation modérée de volume."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour classer correctement les portions de la courbe de compliance ventriculaire, quelles associations sont exactes ?",
+      "choices": [
+        "Courbe plate : bas remplissage ventriculaire",
+        "Redressement de la courbe : remplissage ventriculaire plus important",
+        "Hypervolémie : variation modérée de volume avec variation importante de pression",
+        "Bas remplissage : variation modérée de volume avec variation importante de pression"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La portion plate correspond au bas remplissage. Le redressement apparaît quand le ventricule se remplit davantage, et l’hypervolémie majore fortement la pression pour une variation modérée de volume."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles grandeurs peuvent être directement rattachées aux éléments décrits de la boucle pression-volume ?",
+      "choices": [
+        "Le volume ventriculaire de fin de diastole au point télédiastolique",
+        "Le volume ventriculaire de fin de systole au point télésystolique",
+        "Le volume systolique par la largeur de la boucle sur l’axe des volumes",
+        "La compliance ventriculaire par la largeur horizontale de la boucle"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La largeur horizontale représente le volume systolique. La compliance est portée par la relation pression-volume diastolique et définie par ΔV/ΔP."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du rapport ΔV/ΔP appliqué à la relation pression-volume diastolique, quelles propositions sont exactes ?",
+      "choices": [
+        "À ΔV identique, une augmentation de ΔP diminue le rapport ΔV/ΔP",
+        "À ΔP identique, une augmentation de ΔV augmente le rapport ΔV/ΔP",
+        "Ce rapport est utilisé pour définir la compliance ventriculaire",
+        "Ce rapport définit directement le volume systolique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La compliance est ΔV/ΔP. Elle augmente si ΔV augmente pour une même ΔP et diminue si ΔP augmente pour une même ΔV. Le volume systolique est la largeur de la boucle."
+    },
+    {
+      "type": "QCM",
+      "question": "Deux segments de remplissage sont observés : segment A avec grande variation de volume et faible variation de pression ; segment B avec variation modérée de volume et variation importante de pression. Quelles conclusions sont conformes au texte ?",
+      "choices": [
+        "Le segment A est compatible avec le bas remplissage ventriculaire",
+        "Le segment B est compatible avec l’hypervolémie",
+        "Le segment A présente un rapport ΔV/ΔP plus élevé que le segment B",
+        "Le segment B correspond à une courbe plate de bas remplissage"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le segment A correspond au profil plat de bas remplissage. Le segment B correspond au profil hypervolémique redressé, avec pression très sensible au volume."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles informations peuvent être retenues à partir de la description générale de la boucle pression-volume donnée dans le texte ?",
+      "choices": [
+        "Elle est parcourue dans le sens inverse des aiguilles d’une montre",
+        "Elle est caractérisée par deux points et deux relations pression-volume",
+        "Sa largeur sur l’axe des volumes représente le volume systolique",
+        "Elle permet, selon le texte, de calculer directement la fréquence cardiaque"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise le sens antihoraire, les deux points, les deux relations et la signification de la largeur. Il ne mentionne pas le calcul de la fréquence cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un schéma de boucle pression-volume sans autre donnée, quels indices permettent une identification conforme au texte ?",
+      "choices": [
+        "Le repère de fin de diastole correspond au point télédiastolique",
+        "Le repère de fin de systole correspond au point télésystolique",
+        "La séparation horizontale des volumes correspond au volume systolique",
+        "La hauteur verticale de la boucle définit le volume éjecté"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le volume éjecté est représenté par la largeur sur l’axe des volumes, non par la hauteur verticale de la boucle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les pièges terminologiques entre élastance et compliance ventriculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "L’élastance ventriculaire maximale est rattachée à la relation pression-volume télésystolique",
+        "La compliance ventriculaire est rattachée à la relation pression-volume diastolique",
+        "La compliance ventriculaire s’exprime par un rapport variation de volume sur variation de pression",
+        "La compliance ventriculaire est définie par ΔP/ΔV"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte définit la compliance par ΔV/ΔP et l’associe à la relation diastolique. L’élastance maximale est associée à la relation télésystolique."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les situations suivantes, laquelle correspond à la compliance ventriculaire la plus élevée selon ΔV/ΔP ?",
+      "choices": [
+        "ΔV = 60 et ΔP = 4",
+        "ΔV = 40 et ΔP = 8",
+        "ΔV = 15 et ΔP = 5",
+        "ΔV = 30 et ΔP = 10"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les rapports sont respectivement 15, 5, 3 et 3. La compliance la plus élevée est donc obtenue pour ΔV = 60 et ΔP = 4."
+    },
+    {
+      "type": "QCS",
+      "question": "Une portion de courbe où une grande variation de volume entraîne une faible variation de pression correspond avant tout à :",
+      "choices": [
+        "Un bas remplissage ventriculaire",
+        "Une hypervolémie",
+        "La relation pression-volume télésystolique",
+        "La largeur de la boucle pression-volume"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la courbe de compliance est plate à bas remplissage : grande variation de volume pour faible variation de pression."
+    },
+    {
+      "type": "QCS",
+      "question": "Si une relation pression-volume est utilisée pour apprécier l’élastance ventriculaire maximale, il s’agit de :",
+      "choices": [
+        "La relation pression-volume diastolique",
+        "La relation pression-volume télésystolique",
+        "La largeur de la boucle sur l’axe des volumes",
+        "Le point télédiastolique isolé"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La relation pression-volume télésystolique reflète l’élastance ventriculaire maximale."
+    },
+    {
+      "type": "QCS",
+      "question": "La grandeur représentée par la largeur de la boucle pression-volume sur l’axe des volumes est :",
+      "choices": [
+        "La compliance ventriculaire",
+        "L’élastance ventriculaire maximale",
+        "Le volume systolique",
+        "La variation de pression en hypervolémie"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La largeur de la boucle sur l’axe des volumes correspond au volume systolique, c’est-à-dire au volume éjecté à chaque contraction."
+    },
+    {
+      "type": "QCS",
+      "question": "Lorsque la courbe de compliance se redresse au cours du remplissage, quelle conséquence est la plus cohérente avec le texte ?",
+      "choices": [
+        "Pour une variation de volume donnée, la variation de pression devient plus importante",
+        "Pour une variation de pression donnée, le volume éjecté disparaît",
+        "La relation télésystolique devient la relation diastolique",
+        "Le point télésystolique devient le point télédiastolique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le redressement de la courbe signifie que la pression augmente davantage pour une variation de volume, particulièrement en hypervolémie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formulation respecte exactement la définition de la compliance ventriculaire donnée dans le texte ?",
+      "choices": [
+        "ΔP/ΔV",
+        "ΔV/ΔP",
+        "Volume télésystolique moins volume télédiastolique",
+        "Pression télésystolique moins pression télédiastolique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La compliance ventriculaire est définie par le rapport ΔV/ΔP."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la finalité générale de l’appareil cardio-vasculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il assure la circulation du sang dans les circulations pulmonaire et systémique.",
+        "Il permet de véhiculer l’oxygène et les nutriments vers les cellules.",
+        "Il participe à l’évacuation des déchets cellulaires et au maintien du métabolisme général.",
+        "Il assure principalement la production des cellules sanguines circulantes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue à l’appareil cardio-vasculaire la circulation du sang, l’apport d’oxygène et de nutriments, l’évacuation des déchets et le maintien du métabolisme général. La production des cellules sanguines n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’hémodynamique intracardiaque telle qu’elle est définie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle étudie les conditions mécaniques de la circulation sanguine à l’intérieur du cœur.",
+        "Elle inclut notamment l’étude du cycle cardiaque.",
+        "Elle correspond exclusivement à l’enregistrement acoustique des bruits du cœur.",
+        "Elle concerne la circulation sanguine intracavitaire cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’hémodynamique intracardiaque est l’étude mécanique de la circulation sanguine à l’intérieur du cœur, notamment du cycle cardiaque. L’enregistrement acoustique des bruits du cœur correspond au phonocardiogramme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les données quantitatives générales citées, quelles propositions sont exactes ?",
+      "choices": [
+        "Le cœur pèse environ 300 g.",
+        "Le volume sanguin moyen au repos est de 5 à 6 litres.",
+        "Le débit cardiaque au repos est d’environ 5,5 L/min.",
+        "Le volume sanguin moyen à l’effort atteint 25 litres."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne un cœur d’environ 300 g, un volume sanguin moyen de 5 à 6 litres au repos et un débit cardiaque d’environ 5,5 L/min. Les 25 L/min correspondent au débit cardiaque à l’effort, non au volume sanguin."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation fonctionnelle des cavités cardiaques, quelles propositions sont exactes ?",
+      "choices": [
+        "Le cœur comporte quatre cavités.",
+        "Les oreillettes sont contractiles et ont surtout un rôle de réservoir.",
+        "Les ventricules représentent la pompe cardiaque proprement dite.",
+        "Les oreillettes assurent principalement l’éjection vers les gros vaisseaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cœur comporte deux oreillettes et deux ventricules. Les oreillettes ont surtout un rôle de réservoir, alors que les ventricules constituent la pompe cardiaque proprement dite."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les notions générales du cycle cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Le cycle cardiaque correspond à l’alternance de systoles et de diastoles.",
+        "La systole correspond aux contractions cardiaques.",
+        "La diastole correspond à la relaxation et au remplissage.",
+        "La fréquence cardiaque détermine directement le poids du cœur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte définit le cycle cardiaque par l’alternance systole-diastole. La fréquence cardiaque détermine le rythme, et non le poids du cœur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’éjection systolique des ventricules, quelles propositions sont exactes ?",
+      "choices": [
+        "Le ventricule droit éjecte le sang vers l’artère pulmonaire.",
+        "Le ventricule droit éjecte le sang vers l’aorte.",
+        "Le ventricule gauche éjecte le sang vers la circulation systémique.",
+        "Le ventricule gauche éjecte le sang vers le territoire capillaire pulmonaire."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "La systole ventriculaire éjecte le sang du ventricule droit vers l’artère pulmonaire et la circulation pulmonaire, et du ventricule gauche vers l’aorte et la circulation systémique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la diastole ventriculaire dans son ensemble, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet le repos des cavités cardiaques.",
+        "Elle permet le remplissage des cavités cardiaques.",
+        "Elle débute par l’ouverture des valves sigmoïdes.",
+        "Elle comprend une phase de relaxation puis une phase de remplissage."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La diastole ventriculaire permet le repos et le remplissage. Elle comprend une relaxation isovolumétrique puis un remplissage. Les valves sigmoïdes sont fermées en diastole."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le principe et les objectifs directs du cathétérisme cardiaque hémodynamique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il consiste à introduire une sonde munie d’un manomètre dans les cavités cardiaques.",
+        "Il permet d’enregistrer des courbes de pression.",
+        "Il permet de mesurer les pressions dans chaque cavité explorée.",
+        "Il explore uniquement les cavités cardiaques droites."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cathétérisme cardiaque introduit une sonde munie d’un manomètre afin d’enregistrer les courbes de pression et de mesurer les pressions. Il peut explorer les cavités droites ou gauches."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les explorations fonctionnelles à confronter au cathétérisme cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Le phonocardiogramme correspond à l’enregistrement acoustique des bruits du cœur.",
+        "L’électrocardiogramme correspond à l’enregistrement de l’activité électrique cardiaque.",
+        "Le phonocardiogramme correspond à l’enregistrement de l’activité électrique cardiaque.",
+        "L’interprétation du cathétérisme doit être confrontée à d’autres explorations fonctionnelles cardiaques."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte cite le phonocardiogramme pour les bruits du cœur et l’électrocardiogramme pour l’activité électrique cardiaque. Le cathétérisme doit être interprété en confrontation avec ces explorations."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le trajet du cathétérisme droit décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Le cathéter est introduit par voie veineuse.",
+        "Le trajet comporte la veine cave supérieure puis l’oreillette droite.",
+        "Le trajet comporte le ventricule droit puis l’artère pulmonaire.",
+        "Le trajet impose le passage par l’aorte avant l’artère pulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cathétérisme droit est introduit par voie veineuse et explore successivement la veine cave supérieure, l’oreillette droite, le ventricule droit, l’artère pulmonaire et le territoire capillaire pulmonaire. L’aorte n’appartient pas à ce trajet."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les particularités du cathétérisme gauche, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être réalisé par voie artérielle fémorale avec progression rétrograde.",
+        "Par voie artérielle rétrograde, le cathéter est poussé dans l’aorte puis le ventricule gauche.",
+        "Par voie transseptale, l’introduction est veineuse jusqu’à l’oreillette droite.",
+        "Par voie transseptale, le passage se fait à travers le septum interventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cathétérisme gauche peut être réalisé par voie artérielle fémorale rétrograde ou par voie transseptale. Dans cette dernière, le passage de l’oreillette droite à l’oreillette gauche se fait à travers le septum interauriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation des phases de la systole ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La systole ventriculaire comprend une phase de contraction.",
+        "La systole ventriculaire comprend une phase d’éjection.",
+        "La contraction isovolumétrique survient alors que les valves auriculo-ventriculaires et sigmoïdes sont fermées.",
+        "La phase de contraction est immédiatement suivie du remplissage rapide ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La systole ventriculaire comprend une phase de contraction puis une phase d’éjection. Pendant la contraction isovolumétrique, les valves auriculo-ventriculaires et sigmoïdes sont fermées. Le remplissage rapide appartient à la diastole."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sous-phases de la phase d’éjection ventriculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’éjection rapide s’accompagne d’une poursuite de l’augmentation rapide de la pression ventriculaire.",
+        "L’éjection lente correspond au sommet de la courbe de pression.",
+        "La proto-diastole correspond à une pression ventriculaire devenue d’emblée inférieure à la pression aortique.",
+        "La fermeture des valves sigmoïdes survient lorsque la pression ventriculaire devient inférieure à la pression aortique."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Pendant la proto-diastole, la pression ventriculaire chute rapidement mais reste supérieure à la pression aortique. La fermeture sigmoïdienne survient lorsque la pression ventriculaire devient inférieure à la pression aortique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déterminants explicitement cités du volume d’éjection systolique, quelles propositions sont exactes ?",
+      "choices": [
+        "La précharge influence le volume d’éjection systolique.",
+        "La postcharge influence le volume d’éjection systolique.",
+        "La contractilité influence le volume d’éjection systolique.",
+        "La fréquence cardiaque est explicitement citée comme influençant directement le volume d’éjection systolique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que la précharge, la postcharge et la contractilité influencent le volume d’éjection systolique. La fréquence cardiaque fait partie des paramètres des performances cardiaques, mais n’est pas citée ici comme déterminant direct du volume d’éjection systolique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le poids approximatif du cœur mentionné dans le texte ?",
+      "choices": [
+        "Environ 150 g",
+        "Environ 300 g",
+        "Environ 600 g",
+        "Environ 5 à 6 kg"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que le cœur est un muscle creux pesant environ 300 g."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le débit cardiaque approximatif au repos mentionné dans le texte ?",
+      "choices": [
+        "5 à 6 L au total",
+        "Environ 5,5 L/min",
+        "25 L/min",
+        "300 mL/min"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Au repos, le débit cardiaque est d’environ 5,5 L/min. Les 5 à 6 litres correspondent au volume sanguin moyen."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel paramètre détermine le rythme cardiaque selon le texte ?",
+      "choices": [
+        "La compliance myocardique",
+        "La précharge ventriculaire",
+        "La fréquence cardiaque",
+        "Le volume sanguin moyen"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique explicitement que la fréquence cardiaque détermine le rythme."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la phase d’éjection ventriculaire, quelle sous-phase correspond au sommet de la courbe de pression ?",
+      "choices": [
+        "La contraction pré-isovolumétrique",
+        "La contraction isovolumétrique",
+        "L’éjection lente",
+        "Le remplissage lent"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’éjection lente est définie comme correspondant au sommet de la courbe de pression."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors du cathétérisme gauche par voie transseptale, quelle cavité est atteinte juste après le passage à travers le septum interauriculaire ?",
+      "choices": [
+        "Le ventricule droit",
+        "L’artère pulmonaire",
+        "L’oreillette gauche",
+        "L’aorte"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Par voie transseptale, le cathéter passe de l’oreillette droite vers l’oreillette gauche à travers le septum interauriculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément de la sonde de cathétérisme est explicitement mentionné pour permettre la mesure des pressions intracardiaques ?",
+      "choices": [
+        "Une valve sigmoïde",
+        "Un cordage",
+        "Un manomètre",
+        "Un phonocardiogramme"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le cathétérisme consiste à introduire une sonde munie d’un manomètre afin d’enregistrer et de mesurer les pressions intracardiaques."
+    },
+    {
+      "type": "QCM",
+      "question": "Sur un segment de relation pression-volume diastolique où ΔV = 60 mL et ΔP = 5 mmHg, quelles propositions sont cohérentes avec la définition donnée ?",
+      "choices": [
+        "La compliance calculée est de 12 mL/mmHg",
+        "Le rapport utilisé est ΔP/ΔV",
+        "Ce profil traduit une grande variation de volume pour une faible variation de pression",
+        "Ce segment évoque une portion plate de la courbe de compliance"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La compliance est définie par ΔV/ΔP, soit 60/5 = 12 mL/mmHg. Une grande variation de volume avec faible variation de pression correspond à une courbe plate, observée à bas remplissage."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un schéma de boucle pression-volume ventriculaire, quelles affirmations permettent d’éviter une confusion entre largeur de boucle et relations pression-volume ?",
+      "choices": [
+        "La largeur de la boucle sur l’axe des volumes représente le volume systolique",
+        "La relation pression-volume diastolique reflète la compliance ventriculaire",
+        "La largeur de la boucle correspond à l’élastance ventriculaire maximale",
+        "La relation pression-volume télésystolique reflète l’élastance ventriculaire maximale"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La largeur de la boucle représente le volume systolique. La relation diastolique reflète la compliance, tandis que la relation télésystolique reflète l’élastance ventriculaire maximale."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’un ventricule passe d’un faible remplissage à un remplissage plus important sur la relation pression-volume diastolique, quelles évolutions sont compatibles avec le texte ?",
+      "choices": [
+        "La courbe initialement plate tend à se redresser",
+        "Une même augmentation de volume peut s’accompagner d’une élévation de pression plus marquée",
+        "La compliance est toujours représentée par ΔP/ΔV",
+        "La situation se rapproche du comportement décrit en hypervolémie si la pression augmente fortement pour une variation modérée de volume"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Avec le remplissage, la courbe de compliance se redresse. En hypervolémie, une variation modérée de volume entraîne une forte variation de pression. La compliance reste définie par ΔV/ΔP."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la lecture d’une boucle pression-volume orientée dans le sens inverse des aiguilles d’une montre, quelles propositions sont exactes ?",
+      "choices": [
+        "L’orientation antihoraire fait partie de la description de la boucle",
+        "Le point télédiastolique correspond au volume ventriculaire de fin de diastole",
+        "Le point télésystolique correspond au volume ventriculaire de début de diastole",
+        "La largeur de la boucle sur l’axe des volumes indique le volume éjecté à chaque contraction"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La boucle est décrite comme parcourue dans le sens inverse des aiguilles d’une montre. Le point télédiastolique est le volume de fin de diastole, et la largeur de la boucle représente le volume systolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Un compte rendu indique : « la pression augmente beaucoup alors que le volume n’augmente que modérément ». Quelles interprétations sont compatibles avec le texte ?",
+      "choices": [
+        "Il s’agit du comportement décrit en hypervolémie",
+        "La courbe pression-volume diastolique est redressée",
+        "Ce profil correspond à une courbe plate de bas remplissage",
+        "Le rapport ΔV/ΔP est relativement faible"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "En hypervolémie, une variation modérée de volume entraîne une variation importante de pression : la courbe est redressée et la compliance ΔV/ΔP est faible."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour caractériser correctement la compliance ventriculaire à partir du texte, quelles propositions sont justes ?",
+      "choices": [
+        "Elle est appréciée sur la relation pression-volume diastolique",
+        "Elle correspond au rapport ΔV/ΔP",
+        "Elle est maximale par définition sur la relation pression-volume télésystolique",
+        "Elle rend compte de la variation de volume obtenue pour une variation donnée de pression"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La compliance ventriculaire est reflétée par la relation pression-volume diastolique et définie par ΔV/ΔP. La relation télésystolique renseigne l’élastance maximale."
+    },
+    {
+      "type": "QCM",
+      "question": "Deux segments diastoliques sont comparés : segment A, ΔV = 80 mL pour ΔP = 4 mmHg ; segment B, ΔV = 20 mL pour ΔP = 10 mmHg. Quelles propositions sont exactes ?",
+      "choices": [
+        "Le segment A a une compliance plus élevée que le segment B",
+        "Le segment B correspond mieux au comportement d’hypervolémie décrit",
+        "Le segment A évoque davantage une courbe plate de bas remplissage",
+        "Le segment B traduit une grande variation de volume pour une faible variation de pression"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "A : ΔV/ΔP = 20 mL/mmHg, donc compliance élevée et courbe plate. B : ΔV/ΔP = 2 mL/mmHg, avec variation modérée de volume et forte variation de pression, compatible avec l’hypervolémie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des termes « télédiastolique » et « télésystolique » appliqués à la boucle pression-volume, quelles propositions sont correctes ?",
+      "choices": [
+        "Le terme télédiastolique renvoie à la fin de la diastole",
+        "Le terme télésystolique renvoie à la fin de la systole",
+        "La relation pression-volume télésystolique reflète la compliance ventriculaire",
+        "Le point télésystolique désigne un volume ventriculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le point télédiastolique est le volume ventriculaire en fin de diastole ; le point télésystolique est le volume ventriculaire en fin de systole. La relation télésystolique reflète l’élastance maximale, non la compliance."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une analyse dimensionnelle simple de la compliance ventriculaire telle que définie, quelles propositions sont exactes ?",
+      "choices": [
+        "Son unité peut s’exprimer en volume par unité de pression",
+        "Une valeur élevée signifie qu’une grande variation de volume accompagne une faible variation de pression",
+        "Elle s’exprime naturellement en pression par unité de volume",
+        "Elle est calculée à partir de ΔV divisé par ΔP"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La compliance est ΔV/ΔP : elle s’exprime donc en volume par pression. Une valeur élevée correspond à une grande variation de volume pour une faible variation de pression."
+    },
+    {
+      "type": "QCM",
+      "question": "Si l’on observe un élargissement de la boucle pression-volume uniquement sur l’axe des volumes, quelles affirmations respectent le texte ?",
+      "choices": [
+        "La grandeur directement concernée est le volume systolique",
+        "L’information porte sur le volume éjecté à chaque contraction",
+        "L’élargissement définit directement la compliance ventriculaire",
+        "La lecture se fait sur l’axe des volumes"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La largeur de la boucle sur l’axe des volumes représente le volume systolique, c’est-à-dire le volume éjecté à chaque contraction. La compliance relève de la relation pression-volume diastolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions associent correctement une observation graphique à sa signification physiologique selon le texte ?",
+      "choices": [
+        "Courbe diastolique plate : bas remplissage ventriculaire",
+        "Courbe diastolique redressée : remplissage ventriculaire plus important",
+        "Largeur de boucle : volume systolique",
+        "Relation diastolique : élastance ventriculaire maximale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À bas remplissage, la courbe est plate ; avec le remplissage, elle se redresse. La largeur de la boucle représente le volume systolique. L’élastance maximale est portée par la relation télésystolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Un étudiant étiquette une boucle pression-volume. Quelles corrections doivent être retenues si l’on suit strictement le texte ?",
+      "choices": [
+        "Le point de fin de diastole doit être appelé point télédiastolique",
+        "Le point de fin de systole doit être appelé point télésystolique",
+        "La relation diastolique doit être utilisée pour parler de compliance",
+        "La relation télésystolique doit être utilisée pour calculer ΔV/ΔP de compliance"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le point télédiastolique correspond à la fin de diastole, le point télésystolique à la fin de systole. La compliance est rattachée à la relation diastolique et définie par ΔV/ΔP."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles décrivent correctement le comportement mécanique ventriculaire à bas remplissage ?",
+      "choices": [
+        "La courbe de compliance est plate",
+        "Une grande variation de volume entraîne une faible variation de pression",
+        "Une faible variation de volume entraîne obligatoirement une variation importante de pression",
+        "Le rapport ΔV/ΔP est élevé"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "À bas remplissage, la courbe est plate : une grande variation de volume entraîne une faible variation de pression, ce qui correspond à un rapport ΔV/ΔP élevé."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une boucle pression-volume ventriculaire, quelles grandeurs ou propriétés sont explicitement rattachées aux éléments de la boucle dans le texte ?",
+      "choices": [
+        "Volume ventriculaire de fin de diastole",
+        "Volume ventriculaire de fin de systole",
+        "Volume éjecté à chaque contraction",
+        "Fréquence cardiaque instantanée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte rattache à la boucle le point télédiastolique, le point télésystolique et la largeur correspondant au volume systolique. La fréquence cardiaque n’est pas mentionnée."
+    },
+    {
+      "type": "QCS",
+      "question": "Un segment diastolique présente ΔV = 45 mL et ΔP = 9 mmHg. Quelle est la compliance ventriculaire selon la définition du texte ?",
+      "choices": [
+        "0,2 mL/mmHg",
+        "5 mL/mmHg",
+        "9 mL/mmHg",
+        "45 mL/mmHg"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La compliance est définie par ΔV/ΔP : 45/9 = 5 mL/mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les situations suivantes, laquelle correspond le mieux à l’hypervolémie décrite dans le texte ?",
+      "choices": [
+        "ΔV = 100 mL avec ΔP = 2 mmHg",
+        "ΔV = 80 mL avec ΔP = 4 mmHg",
+        "ΔV = 15 mL avec ΔP = 12 mmHg",
+        "ΔV = 60 mL avec ΔP = 3 mmHg"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "En hypervolémie, une variation modérée de volume entraîne une variation importante de pression. Le couple ΔV = 15 mL et ΔP = 12 mmHg correspond le mieux à cette description."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition désigne précisément la grandeur correspondant à la largeur de la boucle pression-volume sur l’axe des volumes ?",
+      "choices": [
+        "La compliance ventriculaire",
+        "L’élastance ventriculaire maximale",
+        "Le volume systolique",
+        "La pression télédiastolique"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La largeur de la boucle sur l’axe des volumes représente le volume systolique, c’est-à-dire le volume éjecté à chaque contraction."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formulation correspond à la relation pression-volume utilisée pour apprécier l’élastance ventriculaire maximale ?",
+      "choices": [
+        "Relation pression-volume diastolique",
+        "Relation pression-volume télésystolique",
+        "Largeur de la boucle sur l’axe des volumes",
+        "Point télédiastolique isolé"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La relation pression-volume télésystolique reflète l’élastance ventriculaire maximale."
+    },
+    {
+      "type": "QCS",
+      "question": "Sur la partie initiale plate de la courbe de compliance, quelle observation est attendue ?",
+      "choices": [
+        "Une grande variation de volume avec faible variation de pression",
+        "Une faible variation de volume avec forte variation de pression",
+        "Une disparition du volume systolique",
+        "Une inversion du sens de parcours de la boucle"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "À bas remplissage, la courbe de compliance est plate : une grande variation de volume entraîne une faible variation de pression."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement le point télédiastolique dans la boucle pression-volume ?",
+      "choices": [
+        "Volume ventriculaire en fin de systole",
+        "Volume ventriculaire en fin de diastole",
+        "Volume éjecté à chaque contraction",
+        "Rapport ΔV/ΔP"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le point télédiastolique correspond au volume ventriculaire en fin de diastole."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T21:27:42.743Z"
+}

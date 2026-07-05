@@ -1,0 +1,3120 @@
+{
+  "category": "medicale",
+  "module": "cardiologie",
+  "courseId": null,
+  "courseTitle": null,
+  "supportTitle": "oap.pdf",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/oap.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les définitions de l’insuffisance cardiaque et de ses formes évolutives, quelles propositions sont exactes ?",
+      "choices": [
+        "L’insuffisance cardiaque correspond à l’incapacité du cœur à assurer sa fonction normale de pompe dans les situations de la vie courante.",
+        "L’insuffisance cardiaque compensée permet une vie aussi proche que possible de la normale grâce aux mécanismes compensateurs ou au traitement.",
+        "L’insuffisance cardiaque décompensée se définit exclusivement par une gêne chronique stable.",
+        "L’insuffisance cardiaque congestive est liée aux symptômes dus à l’augmentation des pressions de remplissage ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’insuffisance cardiaque est une défaillance de la fonction pompe. Elle peut être compensée par les mécanismes de l’organisme ou le traitement. La forme décompensée peut être aiguë, subaiguë ou chronique, et non exclusivement chronique stable. Le terme congestif renvoie à l’élévation des pressions de remplissage ventriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’œdème pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à une accumulation de fluides et de solutés dans les espaces extravasculaires pulmonaires.",
+        "Il est de mécanisme hydrostatique.",
+        "Il est principalement lié à une altération anatomique primitive de la membrane alvéolocapillaire.",
+        "Il peut entraîner une inondation alvéolaire responsable d’une insuffisance respiratoire aiguë."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’œdème aigu pulmonaire cardiogénique est un œdème hydrostatique par augmentation des pressions microvasculaires pulmonaires. Les œdèmes par altération anatomique de la membrane alvéolocapillaire correspondent aux œdèmes de perméabilité, dits lésionnels."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments appartiennent à la membrane alvéolocapillaire selon le texte ?",
+      "choices": [
+        "L’endothélium capillaire.",
+        "L’espace interstitiel alvéolocapillaire.",
+        "Les cellules épithéliales.",
+        "Le réseau lymphatique pulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La membrane alvéolocapillaire comprend l’endothélium capillaire, l’espace interstitiel alvéolocapillaire et les cellules épithéliales. Le réseau lymphatique assure le drainage interstitiel mais n’est pas cité comme constituant principal de la membrane."
+    },
+    {
+      "type": "QCM",
+      "question": "Le flux net de liquide sortant du capillaire pulmonaire dépend de quels paramètres ?",
+      "choices": [
+        "Des pressions hydrostatiques.",
+        "Des pressions oncotiques.",
+        "De la perméabilité à l’eau.",
+        "De la fréquence cardiaque isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le flux net dépend des pressions hydrostatiques, des pressions oncotiques, de la perméabilité à l’eau et de la perméabilité membranaire aux protéines. La fréquence cardiaque isolée n’est pas citée comme déterminant direct dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la physiopathologie de l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le facteur essentiel est l’augmentation du débit de filtration.",
+        "L’élévation de la pression microvasculaire pulmonaire est secondaire à l’augmentation des pressions en amont des cavités gauches.",
+        "La pression atriale gauche et la pression télédiastolique du ventricule gauche sont impliquées.",
+        "Le mécanisme principal est une diminution des pressions capillaires pulmonaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’OAP cardiogénique résulte d’une augmentation du débit de filtration par élévation de la pression microvasculaire pulmonaire, elle-même secondaire à l’augmentation des pressions en amont des cavités gauches, notamment atriale gauche et télédiastolique ventriculaire gauche."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes compensateurs s’opposent à l’inondation alvéolaire dans l’œdème aigu pulmonaire cardiogénique ?",
+      "choices": [
+        "L’augmentation de la pression hydrostatique interstitielle.",
+        "La diminution de la pression oncotique interstitielle par dilution des protéines.",
+        "L’augmentation du débit lymphatique.",
+        "La diminution du drainage lymphatique pulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les mécanismes compensateurs cités sont l’augmentation de la pression hydrostatique interstitielle, la diminution de la pression oncotique interstitielle par dilution protéique et l’augmentation du débit lymphatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Au stade d’œdème interstitiel, quelles conséquences fonctionnelles sont décrites ?",
+      "choices": [
+        "Compression des bronchioles.",
+        "Augmentation du volume de fermeture des voies aériennes.",
+        "Redistribution de la perfusion vers les sommets.",
+        "Effondrement de la compliance pulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au stade interstitiel, la congestion vasculaire entraîne compression bronchiolaire, augmentation du volume de fermeture, redistribution de la perfusion vers les sommets, augmentation du travail ventilatoire et dyspnée. L’effondrement de la compliance caractérise le stade alvéolaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Au stade d’œdème alvéolaire, quelles anomalies sont attendues ?",
+      "choices": [
+        "Effondrement de la compliance pulmonaire.",
+        "Forte augmentation du travail ventilatoire.",
+        "Altération importante des échanges gazeux.",
+        "Disparition de la dyspnée par compensation lymphatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le stade alvéolaire associe effondrement de la compliance pulmonaire, forte augmentation du travail ventilatoire et altération importante des échanges gazeux. Il traduit le dépassement des mécanismes compensateurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies gazométriques et métaboliques dans l’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "À la phase initiale, l’hypoxémie est liée à un effet shunt secondaire aux anomalies du rapport ventilation-perfusion.",
+        "L’hyperventilation réactionnelle initiale peut entraîner une alcalose ventilatoire.",
+        "Une acidose métabolique peut apparaître rapidement, notamment en lien avec la fatigue des muscles respiratoires.",
+        "Dans les formes graves, la gazométrie montre le plus souvent une hyperoxémie isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Initialement, l’hypoxémie est liée à un effet shunt par anomalies ventilation-perfusion, avec hyperventilation réactionnelle responsable d’une alcalose ventilatoire. Une acidose métabolique peut ensuite apparaître. Dans les formes graves, on observe surtout hypoxémie et acidose mixte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes principaux peuvent expliquer l’élévation de la pression atriale gauche responsable d’un œdème aigu pulmonaire cardiogénique ?",
+      "choices": [
+        "Rétrécissement mitral.",
+        "Trouble de la fonction systolique du ventricule gauche.",
+        "Trouble de la fonction diastolique du ventricule gauche.",
+        "Altération anatomique primitive isolée de la membrane alvéolocapillaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois mécanismes principaux sont le rétrécissement mitral, le trouble systolique du ventricule gauche et le trouble diastolique du ventricule gauche. L’altération anatomique de la membrane alvéolocapillaire correspond aux œdèmes lésionnels."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du rétrécissement mitral dans l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il crée un obstacle à l’écoulement sanguin vers le ventricule gauche.",
+        "Le ventricule gauche est en règle générale non altéré.",
+        "Un myxome de l’oreillette gauche peut entraîner des conséquences similaires.",
+        "Il provoque obligatoirement une dilatation ventriculaire gauche par altération systolique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le rétrécissement mitral gêne le passage du sang vers le ventricule gauche, avec un ventricule gauche généralement non altéré. Un myxome de l’oreillette gauche peut mimer des conséquences similaires. La dilatation ventriculaire gauche relève plutôt du trouble systolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Le trouble de la fonction systolique du ventricule gauche responsable d’œdème aigu pulmonaire peut être observé dans quelles situations ?",
+      "choices": [
+        "Cardiopathies ischémiques.",
+        "Valvulopathies.",
+        "Cardiomyopathies dilatées de causes multiples.",
+        "Cardiomyopathie hypertrophique primitive avec ventricule gauche non dilaté."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le trouble systolique du ventricule gauche correspond à une dilatation ventriculaire secondaire à une altération de la fonction systolique. Il peut être observé dans les cardiopathies ischémiques, les valvulopathies et les cardiomyopathies dilatées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’insuffisance cardiaque par trouble de la fonction diastolique du ventricule gauche, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à une réduction de la distensibilité ventriculaire gauche.",
+        "Elle peut correspondre à une prolongation majeure de la relaxation.",
+        "Elle est fréquente notamment chez le sujet âgé.",
+        "Elle s’accompagne typiquement d’un ventricule gauche dilaté."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le trouble diastolique résulte d’une réduction de distensibilité et/ou d’une prolongation de la relaxation. Il est fréquent chez le sujet âgé. Le ventricule gauche est décrit comme hypertrophique et non dilaté."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’infarctus du myocarde, quels mécanismes peuvent être responsables d’un œdème aigu pulmonaire selon le texte ?",
+      "choices": [
+        "L’étendue de la nécrose.",
+        "L’importance de l’ischémie associée en phase aiguë.",
+        "Un trouble du rythme supraventriculaire ou ventriculaire.",
+        "Une diminution isolée des pressions atriales gauches."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’infarctus du myocarde, l’OAP peut être lié à l’étendue de la nécrose, à l’importance de l’ischémie aiguë, à des troubles du rythme, à des troubles de conduction ou à des complications mécaniques. Une diminution des pressions atriales gauches est contraire au mécanisme de l’OAP cardiogénique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la forme ultime et la plus grave des insuffisances cardiaques aiguës ?",
+      "choices": [
+        "L’insuffisance cardiaque compensée.",
+        "L’œdème interstitiel isolé.",
+        "Le choc cardiogénique.",
+        "L’alcalose ventilatoire initiale."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le choc cardiogénique est décrit comme la forme ultime et la plus grave des insuffisances cardiaques aiguës, avec incapacité de la pompe cardiaque à assurer un débit et une pression de perfusion suffisants."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme distingue principalement l’œdème aigu pulmonaire cardiogénique de l’œdème pulmonaire lésionnel ?",
+      "choices": [
+        "Une augmentation hydrostatique des pressions microvasculaires pulmonaires.",
+        "Une destruction anatomique primitive de la membrane alvéolocapillaire.",
+        "Une diminution du flux net de liquide vers l’interstitium.",
+        "Une absence de participation des pressions de remplissage ventriculaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’OAP cardiogénique est un œdème hydrostatique par augmentation des pressions microvasculaires pulmonaires, contrairement aux œdèmes lésionnels liés à une altération anatomique de la membrane alvéolocapillaire."
+    },
+    {
+      "type": "QCS",
+      "question": "À l’état basal, pourquoi le flux net de liquide du capillaire vers l’interstitium ne provoque-t-il pas d’œdème ?",
+      "choices": [
+        "Grâce au drainage lymphatique pulmonaire.",
+        "Grâce à l’absence totale de filtration capillaire.",
+        "Grâce à l’inondation alvéolaire permanente.",
+        "Grâce à l’augmentation de la pression atriale gauche."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "À l’état basal, il existe un flux net de liquide du capillaire vers l’interstitium, mais il ne crée pas d’œdème grâce au drainage lymphatique pulmonaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le risque immédiat majeur de l’œdème aigu pulmonaire cardiogénique ?",
+      "choices": [
+        "Le décès par épuisement ventilatoire.",
+        "La guérison spontanée par alcalose ventilatoire.",
+        "La dilatation obligatoire du ventricule droit.",
+        "La normalisation immédiate des échanges gazeux."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que le risque immédiat majeur de l’OAP cardiogénique est le décès par épuisement ventilatoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les formes graves d’œdème aigu pulmonaire, quel profil gazométrique est le plus souvent observé ?",
+      "choices": [
+        "Hypoxémie avec acidose mixte.",
+        "Hyperoxémie avec alcalose métabolique.",
+        "Normoxémie avec alcalose respiratoire isolée constante.",
+        "Hypoxémie avec absence de trouble acido-basique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans les formes graves, la gazométrie montre le plus souvent une hypoxémie associée à une acidose mixte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cardiopathie est citée comme cause principale de trouble de la fonction diastolique du ventricule gauche ?",
+      "choices": [
+        "Cardiopathie hypertensive.",
+        "Cardiomyopathie dilatée de causes multiples.",
+        "Valvulopathie avec dilatation systolique.",
+        "Rupture septale post-infarctus."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les principales causes du trouble diastolique citées sont la cardiopathie hypertensive et la cardiomyopathie hypertrophique primitive. La cardiomyopathie dilatée relève du trouble systolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les valvulopathies aiguës ou chroniques du cœur gauche dans le contexte d’un œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Un œdème aigu pulmonaire constitue un argument en faveur d’un remplacement valvulaire rapproché.",
+        "Une endocardite aiguë doit être recherchée en cas de contexte fébrile.",
+        "Elles ne sont impliquées que lorsqu’elles sont congénitales.",
+        "La présence d’un œdème aigu pulmonaire permet d’exclure une étiologie valvulaire chronique."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise qu’en cas de valvulopathie gauche, l’OAP plaide pour un remplacement valvulaire rapproché et qu’une endocardite aiguë doit être recherchée en contexte fébrile."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les troubles paroxystiques du rythme ou de la conduction pouvant être impliqués dans l’œdème aigu pulmonaire cardiogénique, lesquels sont cités dans le texte ?",
+      "choices": [
+        "Flutter auriculaire.",
+        "Tachycardie ventriculaire.",
+        "Bloc auriculoventriculaire avec rythme d’échappement lent.",
+        "Bradycardie sinusale isolée physiologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite le flutter auriculaire, la tachycardie ventriculaire et le bloc auriculoventriculaire avec rythme d’échappement lent. La bradycardie sinusale physiologique n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas d’arythmie rapide par fibrillation auriculaire associée à un œdème aigu pulmonaire, quelles étiologies particulières doivent être recherchées selon le texte ?",
+      "choices": [
+        "Une cardiothyréose.",
+        "Une préexcitation ventriculaire avec conduction antérograde par voie accessoire.",
+        "Une intoxication digitalique systématique.",
+        "Une embolie pulmonaire massive comme cause obligatoire."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Devant une fibrillation auriculaire rapide, le texte impose de rechercher une cardiothyréose et une préexcitation ventriculaire avec conduction antérograde par voie accessoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cardiomyopathies non obstructives citées comme causes possibles, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent être primitives ou idiopathiques.",
+        "Elles peuvent être secondaires à une cause toxique.",
+        "Elles peuvent être secondaires à une cause endocrinienne.",
+        "Elles sont définies dans le texte comme exclusivement valvulaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue les cardiomyopathies non obstructives primitives ou idiopathiques et les formes secondaires toxiques, inflammatoires, métaboliques ou endocriniennes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs déclenchants doivent être recherchés devant un œdème aigu pulmonaire cardiogénique selon le texte ?",
+      "choices": [
+        "Arrêt du traitement.",
+        "Prescription d’un médicament inotrope négatif.",
+        "Surcharge hydrosodée.",
+        "Hypovolémie par déshydratation isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs déclenchants listés comprennent l’arrêt du traitement, un médicament inotrope négatif et la surcharge hydrosodée. L’hypovolémie isolée n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la forme typique d’œdème aigu pulmonaire cardiogénique, quels signes cliniques sont attendus ?",
+      "choices": [
+        "Orthopnée avec patient assis au bord du lit.",
+        "Expectoration mousseuse souvent rose saumonée.",
+        "Tachypnée superficielle.",
+        "Douleur abdominale isolée sans dyspnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme typique associe notamment orthopnée, tachypnée superficielle et expectoration mousseuse souvent rose saumonée."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des données d’auscultation et de pression artérielle dans l’œdème aigu pulmonaire cardiogénique typique, quelles propositions sont exactes ?",
+      "choices": [
+        "Un bruit de galop gauche peut être retrouvé.",
+        "Les râles crépitants bilatéraux progressent en marée montante.",
+        "La pression artérielle est souvent élevée, systolodiastolique.",
+        "Une pression artérielle basse et pincée est habituellement un signe rassurant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une tachycardie, un galop gauche, parfois un souffle systolique, des crépitants bilatéraux en marée montante et une PA souvent élevée. Une PA basse et pincée est un signe de gravité."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments font partie des signes cliniques de gravité de l’œdème aigu pulmonaire selon le texte ?",
+      "choices": [
+        "Tachypnée supérieure à 30/min.",
+        "Marbrures.",
+        "Troubles de la conscience.",
+        "Pression artérielle systolique supérieure à 160 mmHg isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les signes de gravité comprennent tachypnée > 30/min, bradypnée, cyanose, marbrures, troubles de conscience, PAS < 110 mmHg et détérioration rapide."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes cliniques de l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "La forme bronchospastique correspond à un pseudo-asthme cardiaque lié à l’œdème bronchiolaire.",
+        "La forme suraiguë peut entraîner une mort subite.",
+        "La forme subaiguë peut comporter dyspnée au moindre effort, toux, orthopnée et épanchements pleuraux.",
+        "La forme hémoptoïque est définie par l’absence complète d’hémoptysies."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme bronchospastique est un pseudo-asthme cardiaque, la forme suraiguë peut être mortelle brutalement, et la forme subaiguë associe dyspnée, toux, orthopnée et épanchements pleuraux. La forme hémoptoïque comporte des hémoptysies."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels critères traduisent une évolution défavorable après prise en charge d’un œdème aigu pulmonaire cardiogénique ?",
+      "choices": [
+        "Asphyxie aiguë.",
+        "Hypoventilation alvéolaire grave.",
+        "Risque d’arrêt cardiaque à tout moment.",
+        "Reprise de la diurèse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’évolution défavorable se manifeste par asphyxie aiguë, hypoventilation alvéolaire grave, troubles de conscience et risque d’arrêt cardiaque. La reprise de la diurèse est un signe favorable."
+    },
+    {
+      "type": "QCM",
+      "question": "L’électrocardiogramme réalisé devant un œdème aigu pulmonaire cardiogénique recherche principalement quels éléments ?",
+      "choices": [
+        "Une arythmie supraventriculaire.",
+        "Une arythmie ventriculaire.",
+        "Un trouble de conduction avec bradycardie.",
+        "Une pneumopathie alvéolaire systématisée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ECG recherche un facteur déclenchant : arythmie supraventriculaire ou ventriculaire, trouble de conduction avec bradycardie, ou modifications ischémiques nouvelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les gaz du sang artériel dans l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent montrer une hypoxémie avec alcalose ventilatoire.",
+        "Ils peuvent montrer une acidose ventilatoire.",
+        "Une saturation transcutanée correcte ne doit pas rassurer si elle s’associe à une acidose ventilatoire ou mixte.",
+        "L’acidose ventilatoire exclut une hypoventilation alvéolaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les gaz du sang peuvent montrer hypoxémie avec alcalose ventilatoire, acidose ventilatoire ou acidose mixte. Une saturation correcte n’est pas rassurante si une acidose ventilatoire ou mixte est présente, car c’est un signe de gravité."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes radiographiques peuvent être observés dans l’œdème aigu pulmonaire cardiogénique selon la gravité ?",
+      "choices": [
+        "Redistribution vasculaire vers les sommets.",
+        "Lignes B de Kerley aux bases.",
+        "Opacités alvéolaires périhilaires parfois prédominantes à droite.",
+        "Bronchogramme aérique constant et obligatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La radiographie peut montrer redistribution vasculaire, lignes B de Kerley et opacités alvéolaires périhilaires. Le bronchogramme aérique est rare, non constant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’échocardiographie et le cathétérisme pulmonaire dans l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’échocardiographie aide à orienter le diagnostic du type de cardiopathie.",
+        "L’échocardiographie permet d’évaluer la sévérité de la cardiopathie.",
+        "Le cathétérisme pulmonaire peut confirmer l’origine cardiogénique dans certaines formes graves.",
+        "Le cathétérisme pulmonaire est décrit comme obligatoire dans toutes les formes typiques rapidement régressives."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échocardiographie oriente le type et la sévérité de la cardiopathie et fournit des paramètres hémodynamiques. Le cathétérisme peut confirmer l’origine cardiogénique dans certaines formes graves et adapter le traitement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la forme clinique la plus fréquente d’œdème aigu pulmonaire cardiogénique décrite dans le texte ?",
+      "choices": [
+        "Insuffisance ventriculaire gauche aiguë nocturne avec poussée hypertensive chez le sujet âgé.",
+        "Œdème pulmonaire isolé du sujet jeune sans cardiopathie.",
+        "Forme hémoptoïque inaugurale avec pression artérielle basse constante.",
+        "Forme suraiguë fébrile secondaire à une pneumonie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La forme la plus fréquente est l’insuffisance ventriculaire gauche aiguë nocturne, liée à une cardiopathie brutalement décompensée avec poussée hypertensive, chez le sujet âgé."
+    },
+    {
+      "type": "QCS",
+      "question": "Devant une crise d’asthme inaugurale de début nocturne chez une personne âgée, quelle attitude diagnostique est recommandée par le texte ?",
+      "choices": [
+        "La considérer comme un œdème aigu pulmonaire jusqu’à preuve du contraire.",
+        "La considérer comme un asthme allergique jusqu’à preuve du contraire.",
+        "Écarter un œdème aigu pulmonaire si les sibilants prédominent.",
+        "Ne réaliser aucun bilan cardiaque en première intention."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte insiste sur le piège diagnostique : une crise d’asthme inaugurale nocturne chez une personne âgée doit être considérée comme un OAP jusqu’à preuve du contraire."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quel cas une pression artérielle élevée est-elle d’autant plus considérée comme facteur causal de l’œdème aigu pulmonaire ?",
+      "choices": [
+        "Lorsqu’elle est très élevée à une phase précoce de l’œdème.",
+        "Lorsqu’elle apparaît uniquement après correction complète de la dyspnée.",
+        "Lorsqu’elle est modérée et tardive après sédation.",
+        "Lorsqu’elle s’accompagne toujours d’une bradycardie sinusale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une PA élevée peut être secondaire à la dyspnée et à l’anxiété, mais elle est davantage considérée comme causale si elle est très élevée précocement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la signification de l’acidose ventilatoire dans les gaz du sang artériel selon le texte ?",
+      "choices": [
+        "Elle traduit toujours une hypoventilation alvéolaire.",
+        "Elle traduit toujours une embolie pulmonaire.",
+        "Elle élimine une forme grave si la saturation est normale.",
+        "Elle impose de conclure à une origine non cardiogénique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que l’acidose ventilatoire traduit toujours une hypoventilation alvéolaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quel délai l’évolution doit-elle être évaluée après la prise en charge immédiate d’un œdème aigu pulmonaire cardiogénique ?",
+      "choices": [
+        "Dans les 20 à 30 minutes.",
+        "Après 6 à 8 heures.",
+        "Au troisième jour uniquement.",
+        "Après disparition complète des signes radiologiques."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’évolution dépend de l’étiologie et de la réponse au traitement immédiat ; elle doit être évaluée dans les 20 à 30 minutes."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les signes radiographiques suivants, lequel est décrit comme rare dans l’œdème aigu pulmonaire cardiogénique ?",
+      "choices": [
+        "Bronchogramme aérique.",
+        "Redistribution vasculaire vers les sommets.",
+        "Émoussement des culs-de-sac pleuraux.",
+        "Lignes B de Kerley."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte mentionne que le bronchogramme aérique est rare, alors que les autres signes font partie des anomalies radiographiques possibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les examens mentionnés dans le texte, lesquels peuvent faire partie de l’évaluation d’un œdème aigu pulmonaire cardiogénique ?",
+      "choices": [
+        "Dosage des enzymes cardiaques",
+        "Coronarographie",
+        "Dosage plasmatique du BNP",
+        "Dosage systématique des D-dimères"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite le dosage des enzymes cardiaques, la coronarographie et le dosage plasmatique du BNP. Les D-dimères ne sont pas mentionnés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’intérêt du BNP dans le contexte d’un œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut aider dans les formes de diagnostic difficile",
+        "Il peut aider à différencier un œdème aigu pulmonaire cardiogénique d’une infection pulmonaire",
+        "Il peut aider à différencier un œdème pulmonaire cardiogénique d’un œdème pulmonaire non cardiogénique",
+        "Il permet à lui seul d’indiquer une ventilation invasive immédiate"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le BNP est utile dans les formes de diagnostic difficile pour distinguer l’origine cardiogénique d’une infection pulmonaire ou d’un œdème non cardiogénique. Le texte ne lui attribue pas l’indication directe d’une ventilation invasive."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels sont les objectifs thérapeutiques explicitement indiqués dans l’œdème aigu pulmonaire ?",
+      "choices": [
+        "Prévenir le décès par arrêt cardiaque hypoxémique et/ou hypercapnique",
+        "Assurer la régression de l’œdème",
+        "Diminuer la pression microvasculaire pulmonaire",
+        "Éviter systématiquement toute hospitalisation si la dyspnée régresse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les objectifs sont de prévenir le décès par arrêt cardiaque hypoxémique et/ou hypercapnique et de faire régresser l’œdème en diminuant la pression microvasculaire pulmonaire. L’hospitalisation est au contraire nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les principes généraux de prise en charge de l’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le traitement doit être débuté le plus précocement possible",
+        "L’œdème aigu pulmonaire est une urgence",
+        "L’hospitalisation est nécessaire",
+        "La structure d’accueil doit être adaptée à la gravité et à l’évolution initiale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte insiste sur le caractère urgent, la précocité du traitement et la nécessité d’une hospitalisation dans une structure adaptée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels moyens ventilatoires sont cités dans la prise en charge de l’insuffisance respiratoire aiguë liée à l’œdème pulmonaire ?",
+      "choices": [
+        "Oxygénothérapie à fort débit continu de 6 à 8 L/min en ventilation spontanée",
+        "Ventilation spontanée avec pression expiratoire positive au masque étanche",
+        "Ventilation non invasive au masque avec aide inspiratoire et pression expiratoire positive",
+        "Ventilation contrôlée sous intubation endotrachéale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre modalités ventilatoires sont toutes listées dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments imposent une assistance ventilatoire dans l’œdème aigu pulmonaire selon le texte ?",
+      "choices": [
+        "Troubles de la conscience",
+        "Tachypnée intense",
+        "Signes d’épuisement ventilatoire",
+        "Oxygénothérapie simple efficace en l’absence d’hypoventilation alvéolaire franche"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une assistance ventilatoire est nécessaire en cas de troubles de la conscience, tachypnée intense ou signes d’épuisement. L’efficacité de l’oxygénothérapie simple en l’absence d’hypoventilation n’est pas une indication d’assistance ventilatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la ventilation non invasive dans l’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut permettre d’éviter l’intubation dans certains cas",
+        "Elle est envisageable en l’absence de troubles importants de la conscience",
+        "Elle est envisageable en l’absence de collapsus",
+        "Son échec après 15 à 30 minutes impose l’intubation trachéale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La ventilation non invasive peut éviter l’intubation si l’état neurologique et hémodynamique le permet. En cas d’échec après 15 à 30 minutes, l’intubation est indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Par quels moyens thérapeutiques la pression capillaire pulmonaire peut-elle être diminuée selon le texte ?",
+      "choices": [
+        "Vasodilatation veineuse par dérivés nitrés",
+        "Diminution du volume circulant par diurétiques de l’anse",
+        "Diminution de la postcharge par vasodilatateurs artériels",
+        "Augmentation du débit cardiaque par amélioration de l’inotropisme"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La réduction de la pression capillaire pulmonaire repose sur la diminution du volume circulant, la vasodilatation veineuse, la baisse de postcharge et l’augmentation de l’inotropisme lorsque nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les diurétiques de l’anse dans l’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils diminuent le volume circulant",
+        "Ils ont un effet veinodilatateur immédiat mais faible",
+        "Le furosémide et le bumétanide sont cités",
+        "Dans les formes graves avec pression artérielle élevée, augmenter les dérivés nitrés peut être plus efficace qu’augmenter les diurétiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise ces effets et cite le furosémide et le bumétanide. Il indique aussi l’intérêt d’augmenter les nitrés plutôt que les diurétiques dans certaines formes graves hypertensives."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la morphine intraveineuse dans l’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut réduire la réponse sympathique au stress",
+        "Elle peut avoir un effet vasodilatateur",
+        "Elle expose à un risque de dépression respiratoire",
+        "Elle est présentée comme dépourvue de risque respiratoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La morphine IV peut réduire la réponse sympathique et avoir un effet vasodilatateur, mais elle expose à une dépression respiratoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Si la pression artérielle est normale ou augmentée au cours d’un œdème aigu pulmonaire, quelles mesures sont indiquées en première intention selon le texte ?",
+      "choices": [
+        "Dérivés nitrés en première intention",
+        "Dinitrate d’isosorbide sublingual 15 mg, éventuellement associé à 40 mg per os",
+        "Trinitrine en spray, 2 à 4 bouffées à 0,4 mg",
+        "Dérivés nitrés intraveineux directs par bolus répétés toutes les 5 minutes selon la réponse"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "En cas de pression artérielle normale ou élevée, les dérivés nitrés sont indiqués en première intention selon ces modalités pratiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le relais par dérivés nitrés en perfusion intraveineuse continue, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est habituel après l’administration initiale",
+        "La posologie mentionnée est de 1 à 3 mg/h",
+        "Il nécessite une surveillance stricte de la pression artérielle",
+        "Les dérivés nitrés doivent être interrompus si la pression artérielle systolique devient inférieure à 110 mmHg"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise le relais habituel par perfusion IV continue à 1 à 3 mg/h, sous surveillance stricte, avec arrêt si PAS < 110 mmHg."
+    },
+    {
+      "type": "QCM",
+      "question": "Si la pression artérielle est effondrée dans un œdème aigu pulmonaire, quelles conduites sont conformes au texte ?",
+      "choices": [
+        "Rechercher un trouble du rythme ou de conduction",
+        "Réduire immédiatement un trouble du rythme ou de conduction par traitement médicamenteux ou choc électrique externe",
+        "Rechercher un choc cardiogénique pouvant justifier une perfusion continue de dobutamine",
+        "Augmenter en première intention les doses de dérivés nitrés"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas de pression artérielle effondrée, il faut rechercher et traiter immédiatement un trouble du rythme ou de conduction, et rechercher un choc cardiogénique justifiant la dobutamine. L’augmentation des nitrés n’est pas indiquée dans ce contexte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations étiologiques peuvent justifier un traitement immédiat ou semi-urgent selon le texte ?",
+      "choices": [
+        "Reperfusion en cas d’infarctus du myocarde",
+        "Traitement chirurgical d’une complication mécanique d’infarctus",
+        "Prise en charge d’une valvulopathie aiguë au cours d’une endocardite",
+        "Report systématique de tout traitement étiologique jusqu’après la sortie d’hospitalisation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Certaines étiologies imposent une prise en charge immédiate ou semi-urgente : reperfusion, chirurgie des complications mécaniques d’infarctus et prise en charge d’une valvulopathie aiguë d’endocardite."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation l’oxygénothérapie simple par voie nasale est-elle bénéfique selon le texte ?",
+      "choices": [
+        "Lorsqu’il existe une hypoventilation alvéolaire franche",
+        "Lorsqu’il n’existe pas d’hypoventilation alvéolaire franche",
+        "Uniquement en cas de collapsus",
+        "Uniquement après échec de la ventilation non invasive"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’oxygénothérapie simple par voie nasale n’est bénéfique que s’il n’existe pas d’hypoventilation alvéolaire franche."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le traitement de référence en cas de détresse respiratoire sévère dans l’œdème aigu pulmonaire ?",
+      "choices": [
+        "Oxygénothérapie simple par lunettes nasales",
+        "Morphine intraveineuse isolée",
+        "Ventilation sous intubation endotrachéale",
+        "Dinitrate d’isosorbide per os seul"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La ventilation sous intubation endotrachéale est le traitement de référence en cas de détresse sévère."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle posologie de furosémide IV direct est indiquée dans les modalités pratiques du texte ?",
+      "choices": [
+        "10 à 20 mg IV direct",
+        "40 à 80 mg IV direct",
+        "100 à 200 mg IV direct systématique",
+        "1 à 3 mg/h en perfusion continue"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les diurétiques de l’anse associés aux nitrés comprennent le furosémide à la dose de 40 à 80 mg IV direct."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas de choc cardiogénique avec pression artérielle effondrée, quelle posologie de dobutamine est mentionnée ?",
+      "choices": [
+        "2 μg/kg/min",
+        "5 μg/kg/min",
+        "10 μg/kg/min",
+        "20 μg/kg/min"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le choc cardiogénique justifie une perfusion continue de dobutamine à 10 μg/kg/min selon le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le pronostic immédiat hospitalier mentionné dans l’œdème aigu pulmonaire ?",
+      "choices": [
+        "Mortalité hospitalière inférieure à 1 %",
+        "Mortalité hospitalière de 2 à 5 %",
+        "Mortalité hospitalière de 10 à 20 %",
+        "Mortalité hospitalière supérieure à 80 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique que le pronostic immédiat est grave, avec une mortalité hospitalière de 10 à 20 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle attitude est recommandée vis-à-vis de la ventilation assistée chez les patients âgés ou présentant une gravité initiale importante ?",
+      "choices": [
+        "La récuser systématiquement en raison du risque évolutif",
+        "La limiter exclusivement à l’oxygénothérapie nasale",
+        "Ne pas la récuser, y compris lorsqu’elle est invasive",
+        "La différer jusqu’au bilan étiologique complet"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’âge élevé et la gravité initiale ne doivent pas faire récuser la ventilation assistée, y compris invasive, car de nombreux patients peuvent en bénéficier rapidement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les secteurs liquidiens impliqués dans l’œdème pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’œdème pulmonaire correspond à une accumulation de fluides et de solutés dans les espaces extravasculaires pulmonaires.",
+        "Les échanges liquidiens se font entre le capillaire pulmonaire et le secteur interstitiel.",
+        "Le secteur interstitiel est drainé par le réseau lymphatique pulmonaire.",
+        "L’œdème pulmonaire correspond initialement à une accumulation strictement intravasculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte définit l’œdème pulmonaire comme une accumulation extravasculaire de fluides et de solutés. Les échanges se font entre capillaire et interstitium, ce dernier étant drainé par les lymphatiques pulmonaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le mécanisme hydrostatique de l’œdème aigu pulmonaire cardiogénique, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "L’augmentation des pressions microvasculaires pulmonaires concerne les territoires capillaires et veinulaires.",
+        "L’élévation de la pression atriale gauche participe à l’augmentation des pressions en amont des cavités gauches.",
+        "L’élévation de la pression télédiastolique du ventricule gauche est impliquée.",
+        "Le mécanisme principal est une altération anatomique primitive de la membrane alvéolocapillaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’OAP cardiogénique est hydrostatique, lié à l’élévation des pressions microvasculaires pulmonaires, notamment par augmentation de la pression atriale gauche et de la pression télédiastolique du ventricule gauche. L’altération anatomique de la membrane caractérise plutôt l’œdème lésionnel."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsque les mécanismes de protection contre l’inondation alvéolaire sont dépassés, quelles propositions sont exactes ?",
+      "choices": [
+        "Un œdème alvéolaire survient.",
+        "Des modifications de la perméabilité de l’épithélium alvéolaire peuvent favoriser le phénomène.",
+        "Le phénomène est habituellement brutal et rapide.",
+        "La résorption de l’œdème est uniquement passive, indépendante de l’épithélium alvéolaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le dépassement des mécanismes compensateurs entraîne l’œdème alvéolaire. Il peut être favorisé par des modifications de perméabilité de l’épithélium alvéolaire. Le phénomène est brutal et rapide. La résorption est active et implique l’épithélium alvéolaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Au stade d’œdème interstitiel, quelles anomalies fonctionnelles sont décrites par le texte ?",
+      "choices": [
+        "Compression des bronchioles par la congestion vasculaire.",
+        "Augmentation du volume de fermeture des voies aériennes.",
+        "Redistribution de la perfusion vers les sommets.",
+        "Effondrement de la compliance pulmonaire comme anomalie déjà caractéristique de ce stade."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au stade interstitiel, le texte cite la compression des bronchioles, l’augmentation du volume de fermeture, la redistribution de la perfusion vers les sommets, l’augmentation du travail ventilatoire et la dyspnée. L’effondrement de la compliance appartient au stade alvéolaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Au stade d’œdème alvéolaire, quelles conséquences respiratoires s’ajoutent à l’atteinte interstitielle ?",
+      "choices": [
+        "Effondrement de la compliance pulmonaire.",
+        "Forte augmentation du travail ventilatoire.",
+        "Altération importante des échanges gazeux.",
+        "Redistribution isolée de la perfusion vers les bases comme mécanisme principal cité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le stade alvéolaire associe un effondrement de la compliance, une forte augmentation du travail ventilatoire et une altération importante des échanges gazeux. La redistribution vers les sommets est décrite au stade interstitiel."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution des troubles acidobasiques dans l’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "À la phase initiale, l’hyperventilation réactionnelle peut entraîner une alcalose ventilatoire.",
+        "Une acidose métabolique peut apparaître rapidement.",
+        "Dans les formes graves, une acidose mixte est le plus souvent observée.",
+        "L’évolution habituelle initiale est une alcalose métabolique isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Initialement, l’hypoxémie induit une hyperventilation responsable d’alcalose ventilatoire. Une acidose métabolique peut apparaître rapidement, notamment par fatigue respiratoire. Dans les formes graves, l’association hypoxémie-acidose mixte est fréquente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le risque respiratoire immédiat lié à l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’inondation alvéolaire peut entraîner rapidement une insuffisance respiratoire aiguë.",
+        "L’augmentation majeure du travail respiratoire favorise l’épuisement ventilatoire.",
+        "Le décès peut survenir par épuisement ventilatoire.",
+        "Le mécanisme létal principal décrit est une obstruction bronchique tumorale aiguë."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur l’insuffisance respiratoire aiguë par inondation alvéolaire et sur l’épuisement ventilatoire favorisé par l’augmentation du travail respiratoire. Le risque immédiat majeur est le décès par épuisement ventilatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du mécanisme obstructif mitral dans l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le rétrécissement mitral crée un obstacle à l’écoulement sanguin vers le ventricule gauche.",
+        "Dans le rétrécissement mitral, le ventricule gauche est en règle générale non altéré.",
+        "Un myxome de l’oreillette gauche peut entraîner des conséquences similaires.",
+        "Le rétrécissement mitral correspond principalement à une dilatation ventriculaire gauche par altération systolique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le rétrécissement mitral réalise un obstacle au remplissage du ventricule gauche, lequel est habituellement non altéré. Un myxome de l’oreillette gauche peut produire des conséquences similaires. La dilatation par altération systolique correspond à un autre mécanisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’œdème aigu pulmonaire par trouble de la fonction systolique du ventricule gauche, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à une dilatation ventriculaire secondaire à une altération de la fonction systolique.",
+        "Il constitue une cause fréquente d’œdème aigu pulmonaire.",
+        "Il peut être observé dans les cardiopathies ischémiques et les valvulopathies.",
+        "Il se définit par un ventricule gauche hypertrophique et non dilaté."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le trouble systolique est défini par une dilatation ventriculaire liée à l’altération de la fonction systolique. Il est fréquent et peut relever de cardiopathies ischémiques, de valvulopathies ou de cardiomyopathies dilatées. Le ventricule hypertrophique non dilaté correspond plutôt au trouble diastolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’œdème aigu pulmonaire par trouble de la fonction diastolique du ventricule gauche, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut résulter d’une réduction de la distensibilité ventriculaire gauche.",
+        "Il peut résulter d’une prolongation majeure de la relaxation ventriculaire gauche.",
+        "Il est fréquent notamment chez le sujet âgé.",
+        "Il impose comme définition une dilatation ventriculaire gauche majeure."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le trouble diastolique est lié à une réduction de distensibilité et/ou à une relaxation très prolongée. Il est fréquent chez le sujet âgé. Le ventricule gauche est décrit comme hypertrophique et non dilaté."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les cardiopathies hypertensives citées comme étiologies, lesquelles sont présentes dans le texte ?",
+      "choices": [
+        "Hypertension artérielle essentielle.",
+        "Hypertension artérielle maligne.",
+        "Hypertension artérielle pré-éclamptique.",
+        "Cardiomyopathie hypertrophique primitive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cardiopathies hypertensives citées sont l’HTA essentielle, l’HTA maligne et l’HTA pré-éclamptique. La cardiomyopathie hypertrophique primitive est citée comme cause de trouble diastolique, mais pas dans la liste des cardiopathies hypertensives."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cardiopathies ischémiques dans l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’infarctus du myocarde est une étiologie citée.",
+        "L’angor est une étiologie citée.",
+        "Dans l’infarctus du myocarde, l’importance de l’ischémie associée en phase aiguë peut intervenir.",
+        "L’hypertension artérielle pré-éclamptique est classée parmi les cardiopathies ischémiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cardiopathies ischémiques citées sont l’infarctus du myocarde et l’angor. Dans l’infarctus, l’importance de l’ischémie en phase aiguë peut contribuer à l’OAP. L’HTA pré-éclamptique relève des cardiopathies hypertensives."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’infarctus du myocarde compliqué d’œdème aigu pulmonaire, quels troubles électriques sont cités comme mécanismes possibles ?",
+      "choices": [
+        "Trouble du rythme supraventriculaire.",
+        "Trouble du rythme ventriculaire.",
+        "Trouble de conduction.",
+        "Prolongation isolée de la relaxation ventriculaire comme trouble électrique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne, dans l’infarctus du myocarde, un trouble du rythme supraventriculaire ou ventriculaire et un trouble de conduction. La prolongation de la relaxation relève du mécanisme diastolique, non d’un trouble électrique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’infarctus du myocarde, quelles complications mécaniques peuvent être responsables d’un œdème aigu pulmonaire selon le texte ?",
+      "choices": [
+        "Rupture septale.",
+        "Dysfonction de pilier.",
+        "Rupture de pilier.",
+        "Myxome de l’oreillette gauche."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les complications mécaniques citées dans l’infarctus sont la rupture septale ainsi que la dysfonction ou la rupture de pilier. Le myxome de l’oreillette gauche est rapproché du rétrécissement mitral, non d’une complication mécanique de l’infarctus."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel événement marque le passage vers l’œdème alvéolaire dans l’œdème aigu pulmonaire cardiogénique ?",
+      "choices": [
+        "La diminution du débit lymphatique basal.",
+        "Le dépassement des mécanismes compensateurs s’opposant à l’inondation alvéolaire.",
+        "La normalisation de la pression atriale gauche.",
+        "La disparition de la filtration capillaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Lorsque les mécanismes compensateurs sont dépassés, l’œdème alvéolaire survient."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement la résorption de l’œdème pulmonaire selon le texte ?",
+      "choices": [
+        "C’est un phénomène passif strictement dépendant de la gravité.",
+        "C’est un phénomène actif impliquant l’épithélium alvéolaire.",
+        "C’est un phénomène uniquement lymphatique sans rôle alvéolaire.",
+        "C’est un phénomène impossible au stade alvéolaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que la résorption de l’œdème pulmonaire est un phénomène actif impliquant l’épithélium alvéolaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le facteur essentiel de l’œdème aigu pulmonaire cardiogénique dans la description physiopathologique ?",
+      "choices": [
+        "Une augmentation du débit de filtration liée à l’élévation de la pression microvasculaire pulmonaire.",
+        "Une diminution primitive des pressions capillaires pulmonaires.",
+        "Une destruction anatomique initiale obligatoire de la membrane alvéolocapillaire.",
+        "Une absence complète de flux liquidien basal entre capillaire et interstitium."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le facteur essentiel est l’augmentation du débit de filtration, secondaire à l’élévation de la pression microvasculaire pulmonaire."
+    },
+    {
+      "type": "QCS",
+      "question": "À la phase initiale de l’œdème aigu pulmonaire, quel mécanisme explique l’hypoxémie selon le texte ?",
+      "choices": [
+        "Un effet shunt secondaire aux anomalies du rapport ventilation-perfusion.",
+        "Une hypoventilation volontaire isolée.",
+        "Une embolie pulmonaire systématique.",
+        "Une diminution exclusive de la consommation d’oxygène."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "À la phase initiale, l’hypoxémie est liée à un effet shunt secondaire aux anomalies du rapport ventilation-perfusion."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle conséquence peut avoir un myxome de l’oreillette gauche dans ce contexte ?",
+      "choices": [
+        "Des conséquences similaires à celles d’un rétrécissement mitral.",
+        "Une cardiopathie hypertensive maligne.",
+        "Une cardiomyopathie dilatée de cause multiple.",
+        "Une hypertension artérielle pré-éclamptique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique qu’un myxome de l’oreillette gauche peut entraîner des conséquences similaires à celles du rétrécissement mitral."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle catégorie étiologique est classée l’hypertension artérielle pré-éclamptique dans le texte ?",
+      "choices": [
+        "Cardiopathies ischémiques.",
+        "Cardiopathies hypertensives.",
+        "Cardiomyopathies dilatées de causes multiples.",
+        "Complications mécaniques de l’infarctus du myocarde."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’hypertension artérielle pré-éclamptique est citée parmi les cardiopathies hypertensives."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont classés dans le texte parmi les « autres causes » d’œdème aigu pulmonaire cardiogénique, en dehors des cardiomyopathies non obstructives ?",
+      "choices": [
+        "Myocardites aiguës infectieuses ou toxiques",
+        "Cardiopathies congénitales",
+        "Cardiothyréose",
+        "Préexcitation ventriculaire avec conduction antérograde par voie accessoire"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte cite comme autres causes les myocardites aiguës infectieuses ou toxiques et les cardiopathies congénitales. La cardiothyréose et la préexcitation sont à rechercher en cas d’arythmie rapide par fibrillation auriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les circonstances générales de survenue de l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il survient fréquemment chez des patients âgés ou très âgés",
+        "Il peut constituer une complication initiale d’une insuffisance cardiaque",
+        "Il peut être récidivant chez un insuffisant cardiaque connu et traité",
+        "Il exclut en principe l’existence d’une insuffisance cardiaque déjà connue"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que l’OAP cardiogénique survient fréquemment chez les sujets âgés ou très âgés et peut être initial ou récidivant dans une insuffisance cardiaque connue et traitée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’interprétation d’une pression artérielle élevée au cours d’un œdème aigu pulmonaire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle peut être la conséquence d’une affection très dyspnéisante",
+        "Elle peut être favorisée par le caractère anxiogène de la dyspnée",
+        "Elle est particulièrement interprétée comme causale lorsqu’elle est très élevée précocement",
+        "Elle constitue toujours un signe de gravité au même titre qu’une pression artérielle basse et pincée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une pression artérielle élevée peut être réactionnelle à la dyspnée et à l’anxiété, notamment en cas d’hypercapnie. Elle est plus volontiers causale si elle est très élevée précocement. La pression artérielle basse et pincée est le signe de gravité cité."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la forme bronchospastique de l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est fréquente chez le sujet âgé",
+        "Elle est fréquente chez l’insuffisant respiratoire chronique",
+        "Elle correspond au pseudo-asthme cardiaque lié à l’œdème bronchiolaire",
+        "Elle permet d’éliminer facilement une décompensation aiguë de BPCO"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme bronchospastique est fréquente chez le sujet âgé et l’insuffisant respiratoire chronique. Elle correspond à un pseudo-asthme cardiaque par œdème bronchiolaire, avec diagnostic différentiel difficile avec l’asthme vrai ou la BPCO décompensée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments appartiennent à la forme subaiguë de l’œdème aigu pulmonaire cardiogénique décrite dans le texte ?",
+      "choices": [
+        "Dyspnée au moindre effort",
+        "Toux",
+        "Orthopnée",
+        "Épanchements pleuraux"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La forme subaiguë associe dyspnée au moindre effort, toux, orthopnée et épanchements pleuraux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certaines formes cliniques particulières de l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "La forme suraiguë peut entraîner une mort subite",
+        "La forme hémoptoïque comporte des hémoptysies",
+        "La forme subaiguë est définie par l’absence d’épanchement pleural",
+        "La forme bronchospastique n’a pas de lien avec le pseudo-asthme cardiaque"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte indique que la forme suraiguë peut entraîner une mort subite et que la forme hémoptoïque comporte des hémoptysies. La forme subaiguë peut comporter des épanchements pleuraux, et la forme bronchospastique correspond au pseudo-asthme cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels critères traduisent une évolution favorable après prise en charge d’un œdème aigu pulmonaire cardiogénique ?",
+      "choices": [
+        "Régression de la dyspnée",
+        "Équilibration tensionnelle",
+        "Reprise de la diurèse",
+        "Apparition de troubles de la conscience"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’évolution favorable est marquée par la régression de la dyspnée, l’équilibration tensionnelle et la reprise de la diurèse. Les troubles de conscience appartiennent à l’évolution défavorable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’interprétation des gaz du sang et de la saturation en oxygène dans l’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hypoxémie peut être corrigée par l’oxygénothérapie",
+        "Une saturation transcutanée satisfaisante peut être obtenue sous oxygène",
+        "Une saturation correcte ne doit pas rassurer si elle s’associe à une acidose ventilatoire ou mixte",
+        "L’alcalose ventilatoire traduit toujours une hypoventilation alvéolaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypoxémie peut être corrigée par oxygénothérapie avec saturation satisfaisante. Toutefois, une saturation correcte n’est pas rassurante si elle s’associe à une acidose ventilatoire ou mixte. C’est l’acidose ventilatoire qui traduit toujours une hypoventilation alvéolaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’intérêt de la radiographie thoracique dans ce contexte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle aide au diagnostic positif",
+        "Elle aide au diagnostic différentiel",
+        "Elle est particulièrement utile dans les formes de pseudo-asthme cardiaque",
+        "Elle remplace l’évaluation clinique de la gravité"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La radiographie thoracique aide au diagnostic et au diagnostic différentiel, notamment dans les formes de pseudo-asthme cardiaque. Elle ne remplace pas l’évaluation clinique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes radiographiques peuvent traduire une atteinte vasculaire ou interstitielle dans l’œdème aigu pulmonaire cardiogénique ?",
+      "choices": [
+        "Redistribution vasculaire vers les sommets",
+        "Œdème interstitiel",
+        "Flou des contours bronchiques",
+        "Émoussement des culs-de-sac pleuraux"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces quatre signes parmi les anomalies radiographiques possibles selon la gravité de l’œdème."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies radiographiques alvéolaires ou pleurales décrites dans les formes plus sévères, quelles propositions sont exactes ?",
+      "choices": [
+        "Des opacités alvéolaires périhilaires peuvent être observées",
+        "Les opacités alvéolaires peuvent parfois prédominer à droite",
+        "Les poumons peuvent être entièrement blancs dans les formes sévères",
+        "Un épanchement pleural peut être associé"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit des opacités alvéolaires périhilaires parfois prédominantes à droite, des poumons entièrement blancs dans les formes sévères et un épanchement pleural associé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les apports de l’échocardiographie dans l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet d’orienter le diagnostic du type de cardiopathie",
+        "Elle permet d’évaluer la sévérité de la cardiopathie",
+        "Elle peut fournir des paramètres hémodynamiques de façon non ou peu invasive",
+        "Elle peut aider à la prise en charge après résolution de l’œdème"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’échocardiographie oriente le type de cardiopathie, en évalue la sévérité, fournit des paramètres hémodynamiques non ou peu invasifs et aide à la prise en charge après résolution de l’œdème."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations l’échocardiographie est-elle particulièrement mentionnée comme aide à la prise en charge ?",
+      "choices": [
+        "Après résolution de l’œdème",
+        "Dans les formes résistantes au traitement",
+        "Notamment sous ventilation artificielle",
+        "Uniquement lorsque la radiographie thoracique est strictement normale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne l’aide de l’échocardiographie après résolution de l’œdème ou dans les formes résistantes au traitement, notamment sous ventilation artificielle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le cathétérisme pulmonaire dans l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut confirmer l’origine cardiogénique dans certaines formes graves",
+        "Il peut permettre l’adaptation du traitement",
+        "Il est systématique devant tout œdème aigu pulmonaire",
+        "Il est contre-indiqué dans les formes graves"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le cathétérisme pulmonaire peut confirmer l’origine cardiogénique dans certaines formes graves et permettre l’adaptation thérapeutique. Le texte ne le présente pas comme systématique ni contre-indiqué dans les formes graves."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à un facteur déclenchant iatrogène cité dans le texte ?",
+      "choices": [
+        "Prescription d’un médicament inotrope négatif",
+        "Anémie",
+        "Insuffisance rénale",
+        "Épisode infectieux"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La prescription d’un médicament inotrope négatif est le facteur déclenchant d’origine iatrogène explicitement cité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel trouble de conduction est cité parmi les troubles paroxystiques pouvant déclencher un œdème aigu pulmonaire cardiogénique ?",
+      "choices": [
+        "Bloc auriculoventriculaire avec rythme d’échappement lent",
+        "Bloc de branche droit isolé",
+        "Bloc sino-auriculaire asymptomatique",
+        "Hémibloc antérieur gauche isolé"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite le bloc auriculoventriculaire avec rythme d’échappement lent parmi les troubles paroxystiques de la conduction."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la forme typique d’œdème aigu pulmonaire cardiogénique, l’expectoration est classiquement décrite comme :",
+      "choices": [
+        "Mousseuse, souvent rose saumonée",
+        "Purulente verdâtre",
+        "Hémoptoïque massive isolée",
+        "Sèche sans expectoration possible"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La forme typique comporte une expectoration mousseuse, souvent rose saumonée."
+    },
+    {
+      "type": "QCS",
+      "question": "À l’auscultation pulmonaire de la forme typique, quel aspect est décrit ?",
+      "choices": [
+        "Râles crépitants bilatéraux en marée montante",
+        "Sibilants isolés sans crépitants",
+        "Silence auscultatoire unilatéral",
+        "Frottement pleural diffus isolé"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte décrit des râles crépitants bilatéraux envahissant progressivement les deux champs pulmonaires en marée montante."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient porteur d’une valvulopathie du cœur gauche avec contexte fébrile, quel diagnostic doit être recherché ?",
+      "choices": [
+        "Endocardite aiguë",
+        "Myocardite métabolique",
+        "Cardiopathie congénitale cyanogène",
+        "Préexcitation ventriculaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas de valvulopathie du cœur gauche et de contexte fébrile, le texte recommande de rechercher une endocardite aiguë."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la description clinique typique, l’oppression thoracique est qualifiée de :",
+      "choices": [
+        "En chape de plomb",
+        "En coup de poignard migrateur",
+        "Strictement positionnelle",
+        "Pleurale basithoracique isolée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La forme typique peut associer une oppression thoracique décrite comme une chape de plomb."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’oxygénothérapie à fort débit continu dans la prise en charge de l’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est réalisée à un débit de 6 à 8 L/min.",
+        "Elle peut être administrée par sonde nasale, lunettes ou masque.",
+        "Elle est utilisée en ventilation spontanée.",
+        "Elle impose systématiquement une intubation endotrachéale préalable."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une oxygénothérapie à fort débit continu, 6 à 8 L/min, en ventilation spontanée, par sonde nasale, lunettes ou masque. Elle ne nécessite pas systématiquement l’intubation."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les modalités ventilatoires citées, lesquelles comportent explicitement une pression expiratoire positive ?",
+      "choices": [
+        "Ventilation spontanée avec pression expiratoire positive au masque étanche.",
+        "Ventilation non invasive au masque avec aide inspiratoire et pression expiratoire positive.",
+        "Oxygénothérapie à fort débit continu par lunettes.",
+        "Ventilation contrôlée sous intubation endotrachéale, telle que formulée dans le texte."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La pression expiratoire positive est explicitement mentionnée pour la ventilation spontanée au masque étanche et pour la ventilation non invasive avec aide inspiratoire. Elle n’est pas précisée pour l’oxygénothérapie simple ni dans la formulation de la ventilation contrôlée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la ventilation contrôlée sous intubation endotrachéale, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle peut être réalisée au ballon.",
+        "Elle peut être réalisée sous respirateur.",
+        "Elle correspond au traitement de référence en cas de détresse sévère.",
+        "Elle est réservée uniquement aux patients sans collapsus."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La ventilation contrôlée sous intubation endotrachéale peut se faire au ballon ou sous respirateur. Elle est le traitement de référence en cas de détresse sévère. L’absence de collapsus concerne plutôt les conditions favorables à la ventilation non invasive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’échec de la ventilation non invasive dans l’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’échec après 15 à 30 minutes impose l’intubation trachéale.",
+        "La présence de troubles importants de la conscience rend son utilisation moins appropriée.",
+        "La présence d’un collapsus constitue une situation défavorable à son utilisation.",
+        "Son échec doit conduire uniquement à augmenter le débit d’oxygène nasal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La VNI peut éviter l’intubation dans certains cas, en l’absence de troubles importants de la conscience et de collapsus. Si elle échoue après 15 à 30 minutes, l’intubation trachéale est indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la réduction de la pression capillaire pulmonaire, quels moyens sont classés comme diminuant le volume circulant ?",
+      "choices": [
+        "Vasodilatation veineuse par dérivés nitrés.",
+        "Diurétiques de l’anse.",
+        "Vasodilatateurs artériels diminuant la postcharge.",
+        "Inotropes positifs."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte distingue les moyens diminuant le volume circulant : dérivés nitrés par vasodilatation veineuse et diurétiques de l’anse. Les vasodilatateurs artériels et les inotropes augmentent le débit cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les traitements suivants, lesquels sont cités comme dérivés nitrés utilisables pour la vasodilatation veineuse ?",
+      "choices": [
+        "Trinitrine.",
+        "Dinitrate d’isosorbide.",
+        "Nitroprussiate.",
+        "Phentolamine."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La trinitrine et le dinitrate d’isosorbide sont les dérivés nitrés cités. Le nitroprussiate et la phentolamine sont cités parmi les vasodilatateurs artériels."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels médicaments sont cités comme vasodilatateurs artériels permettant de diminuer la postcharge ?",
+      "choices": [
+        "Nitroprussiate.",
+        "Phentolamine.",
+        "Inhibiteurs calciques.",
+        "Bumétanide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vasodilatateurs artériels cités sont le nitroprussiate, la phentolamine et les inhibiteurs calciques. Le bumétanide est un diurétique de l’anse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels traitements sont mentionnés comme moyens d’augmentation de l’inotropisme ?",
+      "choices": [
+        "Digitaliques.",
+        "Dobutamine.",
+        "Dopamine.",
+        "Dinitrate d’isosorbide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les digitaliques, la dobutamine et la dopamine sont cités comme moyens d’augmentation de l’inotropisme. Le dinitrate d’isosorbide est un dérivé nitré vasodilatateur veineux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les diurétiques de l’anse dans les modalités pratiques du traitement, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont associés aux dérivés nitrés.",
+        "Le furosémide peut être administré à la dose de 40 à 80 mg IV direct.",
+        "Le bumétanide peut être administré à la dose de 2 à 4 mg IV direct.",
+        "Ils remplacent systématiquement les dérivés nitrés lorsque la pression artérielle est normale ou augmentée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les diurétiques de l’anse sont associés aux nitrés : furosémide 40 à 80 mg IV direct ou bumétanide 2 à 4 mg IV direct. En cas de pression artérielle normale ou augmentée, les dérivés nitrés restent indiqués en première intention."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de pression artérielle normale ou augmentée, quelles modalités pratiques des dérivés nitrés sont conformes au texte ?",
+      "choices": [
+        "Dinitrate d’isosorbide sublingual 15 mg.",
+        "Association éventuelle à 40 mg per os de dinitrate d’isosorbide.",
+        "Trinitrine en spray, 2 à 4 bouffées à 0,4 mg.",
+        "Bolus intraveineux directs répétés toutes les 5 minutes selon la réponse."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces modalités sont décrites : dinitrate d’isosorbide sublingual 15 mg, éventuellement 40 mg per os, trinitrine spray 2 à 4 bouffées à 0,4 mg, ou dérivés nitrés IV directs par bolus répétés toutes les 5 minutes selon la réponse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le relais par dérivés nitrés en perfusion intraveineuse continue, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est habituel après les modalités initiales.",
+        "La posologie indiquée est de 1 à 3 mg/h.",
+        "Il nécessite une surveillance stricte de la pression artérielle.",
+        "Il doit être poursuivi sans modification si la pression artérielle systolique devient inférieure à 110 mmHg."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le relais IV continu est habituel à 1 à 3 mg/h, sous surveillance stricte de la pression artérielle. Les dérivés nitrés doivent être interrompus si la PAS devient inférieure à 110 mmHg."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les formes graves avec pression artérielle élevée, quelles propositions traduisent correctement la stratégie thérapeutique décrite ?",
+      "choices": [
+        "L’augmentation des doses de dérivés nitrés peut être plus efficace que celle des diurétiques.",
+        "Cette stratégie concerne les formes graves avec pression artérielle élevée.",
+        "Elle repose sur une perfusion systématique de dobutamine en première intention.",
+        "Elle impose l’arrêt des vasodilatateurs en raison de l’élévation tensionnelle."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Dans les formes graves avec pression artérielle élevée, le texte précise que l’augmentation des doses de dérivés nitrés peut être plus efficace que celle des diurétiques. La dobutamine est réservée au choc cardiogénique avec pression artérielle effondrée."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de pression artérielle effondrée avec trouble du rythme ou de conduction, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le trouble doit être réduit immédiatement par traitement médicamenteux ou choc électrique externe.",
+        "L’amiodarone est préférée aux digitaliques dans ce contexte.",
+        "Il faut rechercher un trouble du rythme ou de conduction.",
+        "Les dérivés nitrés doivent être administrés en bolus répétés sans tenir compte de la pression artérielle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Si la pression artérielle est effondrée, il faut rechercher un trouble du rythme ou de conduction et le réduire immédiatement par traitement médicamenteux ou choc électrique externe. Dans ce contexte, l’amiodarone est préférée aux digitaliques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement étiologique après la phase initiale de stabilisation, quelles propositions sont exactes ?",
+      "choices": [
+        "Un bilan étiologique doit être réalisé ou réajusté après stabilisation.",
+        "Le traitement étiologique doit être réalisé ou réajusté après stabilisation.",
+        "La reperfusion d’un infarctus du myocarde doit toujours être différée après stabilisation complète.",
+        "La prise en charge d’une valvulopathie aiguë d’endocardite n’est pas mentionnée comme étiologie nécessitant un traitement rapide."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Après stabilisation, un bilan étiologique et un traitement étiologique doivent être réalisés ou réajustés. Certaines situations, comme l’infarctus du myocarde ou une valvulopathie aiguë d’endocardite, peuvent justifier un traitement immédiat ou semi-urgent."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel débit est indiqué pour l’oxygénothérapie à fort débit continu en ventilation spontanée ?",
+      "choices": [
+        "2 à 4 L/min.",
+        "6 à 8 L/min.",
+        "10 à 12 L/min.",
+        "15 L/min obligatoirement."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique une oxygénothérapie à fort débit continu de 6 à 8 L/min en ventilation spontanée."
+    },
+    {
+      "type": "QCS",
+      "question": "Après quel délai d’échec de la ventilation non invasive l’intubation trachéale est-elle imposée ?",
+      "choices": [
+        "5 minutes.",
+        "15 à 30 minutes.",
+        "60 minutes.",
+        "24 heures."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’échec de la ventilation non invasive après 15 à 30 minutes impose l’intubation trachéale."
+    },
+    {
+      "type": "QCS",
+      "question": "À partir de quel seuil de pression artérielle systolique les dérivés nitrés doivent-ils être interrompus ?",
+      "choices": [
+        "Pression artérielle systolique inférieure à 90 mmHg.",
+        "Pression artérielle systolique inférieure à 100 mmHg.",
+        "Pression artérielle systolique inférieure à 110 mmHg.",
+        "Pression artérielle systolique inférieure à 140 mmHg."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les dérivés nitrés doivent être interrompus si la pression artérielle systolique devient inférieure à 110 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la posologie de bumétanide IV direct indiquée dans les modalités pratiques ?",
+      "choices": [
+        "0,5 à 1 mg IV direct.",
+        "2 à 4 mg IV direct.",
+        "10 mg IV direct.",
+        "40 à 80 mg IV direct."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique le bumétanide à la dose de 2 à 4 mg IV direct. La dose de 40 à 80 mg IV direct correspond au furosémide."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel médicament est préféré aux digitaliques en cas de trouble du rythme dans ce contexte ?",
+      "choices": [
+        "Amiodarone.",
+        "Nitroprussiate.",
+        "Bumétanide.",
+        "Phentolamine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas de trouble du rythme, le texte précise que l’amiodarone est préférée aux digitaliques dans ce contexte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle posologie est indiquée pour le relais par dérivés nitrés en perfusion intraveineuse continue ?",
+      "choices": [
+        "0,1 à 0,3 mg/h.",
+        "1 à 3 mg/h.",
+        "5 à 10 mg/h.",
+        "10 µg/kg/min."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le relais par dérivés nitrés en perfusion intraveineuse continue est habituel à la posologie de 1 à 3 mg/h, sous surveillance stricte de la pression artérielle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les espaces impliqués dans la formation de l’œdème pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’œdème pulmonaire correspond à une accumulation de fluides et de solutés dans les espaces extravasculaires pulmonaires.",
+        "Les échanges liquidiens se font entre le capillaire et le secteur interstitiel.",
+        "Le secteur interstitiel est drainé par le réseau lymphatique pulmonaire.",
+        "À l’état basal, les échanges liquidiens se font principalement entre le capillaire et la lumière alvéolaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une accumulation extravasculaire de fluides et solutés. Les échanges se font entre capillaire et interstitium, drainé par les lymphatiques pulmonaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les pressions impliquées dans l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les pressions microvasculaires pulmonaires augmentent.",
+        "Les pressions capillaires et veinulaires pulmonaires sont concernées.",
+        "Le mécanisme repose sur une diminution de la pression atriale gauche.",
+        "L’augmentation des pressions en amont des cavités gauches participe au mécanisme."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’OAP cardiogénique est hydrostatique, lié à l’augmentation des pressions microvasculaires pulmonaires, capillaires et veinulaires, en amont des cavités gauches."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre œdème cardiogénique et œdème lésionnel, quelles propositions sont exactes ?",
+      "choices": [
+        "L’œdème cardiogénique est un œdème de mécanisme hydrostatique.",
+        "L’œdème lésionnel est lié à une altération anatomique de la membrane alvéolocapillaire.",
+        "L’œdème cardiogénique est défini par une destruction primitive de la membrane alvéolocapillaire.",
+        "Les œdèmes de perméabilité sont aussi appelés œdèmes lésionnels."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte oppose l’OAP cardiogénique hydrostatique aux œdèmes de perméabilité, dits lésionnels, liés à une altération anatomique de la membrane alvéolocapillaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le passage vers l’œdème alvéolaire dans l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il survient lorsque les mécanismes compensateurs sont dépassés.",
+        "Il peut être favorisé par des modifications de la perméabilité de l’épithélium alvéolaire.",
+        "Le phénomène est habituellement brutal et rapide.",
+        "La résorption de l’œdème est un phénomène purement passif indépendant de l’épithélium alvéolaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’œdème alvéolaire apparaît après dépassement des mécanismes compensateurs, peut être favorisé par des modifications de perméabilité épithéliale, et survient habituellement brutalement."
+    },
+    {
+      "type": "QCM",
+      "question": "Au stade d’œdème interstitiel, quelles anomalies sont décrites par le texte ?",
+      "choices": [
+        "Compression des bronchioles.",
+        "Augmentation du volume de fermeture des voies aériennes.",
+        "Redistribution de la perfusion vers les bases pulmonaires.",
+        "Augmentation du travail ventilatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Au stade interstitiel, la congestion vasculaire entraîne compression bronchiolaire, augmentation du volume de fermeture, redistribution vers les sommets, augmentation du travail ventilatoire et dyspnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Au stade d’œdème alvéolaire, quelles conséquences s’ajoutent aux anomalies interstitielles ?",
+      "choices": [
+        "Effondrement de la compliance pulmonaire.",
+        "Forte augmentation du travail ventilatoire.",
+        "Altération importante des échanges gazeux.",
+        "Amélioration de la compliance pulmonaire par recrutement alvéolaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’œdème alvéolaire entraîne un effondrement de la compliance, une forte augmentation du travail ventilatoire et une altération importante des échanges gazeux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la phase initiale des troubles respiratoires dans l’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hypoxémie est liée à un effet shunt.",
+        "L’effet shunt est secondaire aux anomalies du rapport ventilation-perfusion.",
+        "Une hyperventilation réactionnelle peut entraîner une alcalose ventilatoire.",
+        "L’anomalie acidobasique initiale obligatoire est une acidose métabolique isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Initialement, l’hypoxémie est liée à un effet shunt dû aux anomalies ventilation-perfusion ; l’hyperventilation réactionnelle entraîne une alcalose ventilatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’acidose métabolique et l’épuisement ventilatoire dans l’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Une acidose métabolique peut apparaître rapidement.",
+        "La fatigue des muscles respiratoires peut contribuer à l’acidose métabolique.",
+        "L’augmentation majeure du travail respiratoire favorise l’épuisement ventilatoire.",
+        "L’apparition d’une acidose métabolique exclut une forme grave d’œdème aigu pulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise qu’une acidose métabolique peut apparaître rapidement, notamment par fatigue des muscles respiratoires, et que le travail respiratoire majeur favorise l’épuisement ventilatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les mécanismes étiologiques généraux d’élévation de la pression atriale gauche, lesquels sont décrits ?",
+      "choices": [
+        "Obstacle mitral à l’écoulement sanguin vers le ventricule gauche.",
+        "Trouble de la fonction systolique du ventricule gauche.",
+        "Trouble de la fonction diastolique du ventricule gauche.",
+        "Insuffisance ventriculaire droite isolée comme mécanisme principal décrit."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Trois mécanismes principaux sont cités : rétrécissement mitral, trouble systolique du ventricule gauche et trouble diastolique du ventricule gauche."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rétrécissement mitral dans l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il crée un obstacle à l’écoulement sanguin vers le ventricule gauche.",
+        "Le ventricule gauche est en règle générale non altéré.",
+        "Un myxome de l’oreillette gauche peut entraîner des conséquences similaires.",
+        "Il correspond par définition à une dilatation ventriculaire gauche secondaire à une altération systolique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le rétrécissement mitral est un obstacle au remplissage du ventricule gauche, avec ventricule gauche habituellement non altéré ; un myxome de l’oreillette gauche peut avoir des effets similaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le trouble de la fonction systolique du ventricule gauche, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à une dilatation ventriculaire secondaire à une altération de la fonction systolique.",
+        "Il constitue une cause fréquente d’œdème aigu pulmonaire.",
+        "Il peut être observé dans les cardiopathies ischémiques.",
+        "Il exclut les valvulopathies parmi ses causes possibles."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le trouble systolique du ventricule gauche est une cause fréquente d’OAP, correspondant à une dilatation ventriculaire, observée notamment dans les cardiopathies ischémiques, les valvulopathies et les cardiomyopathies dilatées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le trouble de la fonction diastolique du ventricule gauche, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut correspondre à une réduction de la distensibilité ventriculaire gauche.",
+        "Il peut correspondre à une prolongation majeure de la relaxation.",
+        "Le ventricule gauche est hypertrophique et non dilaté.",
+        "Le ventricule gauche est typiquement dilaté avec relaxation normale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’insuffisance cardiaque diastolique associe réduction de distensibilité et/ou prolongation de relaxation ; le ventricule gauche est hypertrophique et non dilaté."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les étiologies citées dans le texte, lesquelles appartiennent aux cardiopathies hypertensives ou ischémiques ?",
+      "choices": [
+        "Hypertension artérielle essentielle.",
+        "Hypertension artérielle maligne.",
+        "Hypertension artérielle pré-éclamptique.",
+        "Angor."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme cardiopathies hypertensives l’HTA essentielle, maligne et pré-éclamptique ; parmi les cardiopathies ischémiques, il cite l’infarctus du myocarde et l’angor."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’infarctus du myocarde compliqué d’œdème aigu pulmonaire, quels éléments relèvent de mécanismes non mécaniques immédiats cités par le texte ?",
+      "choices": [
+        "Étendue de la nécrose.",
+        "Importance de l’ischémie associée en phase aiguë.",
+        "Trouble de conduction.",
+        "Rupture septale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’infarctus, l’OAP peut être lié à l’étendue de la nécrose, à l’ischémie aiguë associée, à des troubles du rythme ou de conduction ; la rupture septale est une complication mécanique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel réseau assure le drainage du secteur interstitiel pulmonaire selon le texte ?",
+      "choices": [
+        "Réseau veineux pulmonaire.",
+        "Réseau lymphatique pulmonaire.",
+        "Réseau artériel bronchique.",
+        "Réseau capillaire systémique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le secteur interstitiel est drainé par le réseau lymphatique pulmonaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’œdème aigu pulmonaire cardiogénique, l’augmentation du débit de filtration est principalement liée à :",
+      "choices": [
+        "Une baisse de la pression microvasculaire pulmonaire.",
+        "Une élévation de la pression microvasculaire pulmonaire.",
+        "Une diminution de la pression atriale gauche.",
+        "Une suppression du drainage lymphatique à l’état basal."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le facteur essentiel est l’augmentation du débit de filtration liée à l’élévation de la pression microvasculaire pulmonaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Un ventricule gauche hypertrophique et non dilaté évoque principalement, dans le texte, quel mécanisme d’œdème aigu pulmonaire ?",
+      "choices": [
+        "Rétrécissement mitral pur.",
+        "Trouble de la fonction systolique du ventricule gauche.",
+        "Trouble de la fonction diastolique du ventricule gauche.",
+        "Rupture septale post-infarctus."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans le trouble de la fonction diastolique, le ventricule gauche est décrit comme hypertrophique et non dilaté."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie acidobasique accompagne l’hyperventilation réactionnelle initiale dans l’œdème aigu pulmonaire ?",
+      "choices": [
+        "Alcalose ventilatoire.",
+        "Acidose métabolique isolée constante.",
+        "Acidose mixte d’emblée obligatoire.",
+        "Alcalose métabolique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "À la phase initiale, l’hypoxémie entraîne une hyperventilation réactionnelle responsable d’une alcalose ventilatoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle lésion intracardiaque peut entraîner des conséquences similaires à celles d’un rétrécissement mitral ?",
+      "choices": [
+        "Myxome de l’oreillette gauche.",
+        "Cardiomyopathie hypertrophique primitive.",
+        "Hypertension artérielle essentielle.",
+        "Angor."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise qu’un myxome de l’oreillette gauche peut entraîner des conséquences similaires au rétrécissement mitral."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’infarctus du myocarde, quelle complication mécanique citée peut être responsable d’un œdème aigu pulmonaire ?",
+      "choices": [
+        "Alcalose ventilatoire.",
+        "Dysfonction ou rupture de pilier.",
+        "Hypertension artérielle pré-éclamptique.",
+        "Cardiomyopathie dilatée de causes multiples."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Parmi les complications mécaniques de l’infarctus citées figurent la rupture septale et la dysfonction ou rupture de pilier."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les étiologies ou cadres associés à un œdème aigu pulmonaire cardiogénique, quels éléments sont mentionnés dans le texte ?",
+      "choices": [
+        "Une ectasie pariétale",
+        "Une cardiopathie ischémique avec déchéance myocardique",
+        "Une myocardite aiguë infectieuse ou toxique",
+        "Une cardiopathie congénitale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite l’ectasie pariétale, la cardiopathie ischémique avec déchéance myocardique, les myocardites aiguës infectieuses ou toxiques et les cardiopathies congénitales."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient porteur d’une valvulopathie du cœur gauche présentant un œdème aigu pulmonaire, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "L’œdème aigu pulmonaire constitue un argument en faveur d’un remplacement valvulaire rapproché",
+        "Une endocardite aiguë doit être recherchée en cas de contexte fébrile",
+        "Les valvulopathies aiguës comme chroniques du cœur gauche peuvent être concernées",
+        "L’œdème aigu pulmonaire permet d’exclure une valvulopathie chronique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique qu’un OAP sur valvulopathie gauche plaide pour un remplacement valvulaire rapproché et impose de rechercher une endocardite aiguë en contexte fébrile. Il peut concerner des valvulopathies aiguës ou chroniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels troubles électriques paroxystiques cités peuvent participer à la survenue d’un œdème aigu pulmonaire cardiogénique ?",
+      "choices": [
+        "Flutter auriculaire",
+        "Tachycardie ventriculaire",
+        "Tachycardie supraventriculaire avec conduction nodale rapide",
+        "Bloc auriculoventriculaire avec rythme d’échappement lent"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte énumère notamment le flutter auriculaire, la tachycardie ventriculaire, la tachycardie supraventriculaire avec conduction nodale rapide et le bloc auriculoventriculaire avec rythme d’échappement lent."
+    },
+    {
+      "type": "QCM",
+      "question": "En présence d’une arythmie rapide par fibrillation auriculaire au cours d’un œdème aigu pulmonaire, quels diagnostics particuliers doivent être recherchés ?",
+      "choices": [
+        "Une cardiothyréose",
+        "Une myocardite chronique cicatricielle",
+        "Une préexcitation ventriculaire avec conduction antérograde par voie accessoire",
+        "Une valvulopathie tricuspide isolée"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte précise qu’en cas d’arythmie rapide par fibrillation auriculaire, il faut rechercher une cardiothyréose et une préexcitation ventriculaire avec conduction antérograde par voie accessoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cardiomyopathies non obstructives pouvant être en cause, quelles propositions reprennent correctement la classification du texte ?",
+      "choices": [
+        "Elles peuvent être primitives ou idiopathiques",
+        "Elles peuvent être secondaires à une cause toxique",
+        "Elles peuvent être secondaires à une cause inflammatoire",
+        "Elles peuvent être secondaires à une cause métabolique ou endocrinienne"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les cardiomyopathies non obstructives sont décrites comme primitives ou idiopathiques, ou secondaires : toxiques, inflammatoires, métaboliques ou endocriniennes."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels correspondent à des facteurs déclenchants non exclusivement rythmiques à rechercher devant un œdème aigu pulmonaire cardiogénique ?",
+      "choices": [
+        "Arrêt du traitement",
+        "Prescription d’un médicament inotrope négatif",
+        "Anémie",
+        "Surcharge hydrosodée ou insuffisance rénale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme facteurs déclenchants l’arrêt du traitement, un médicament inotrope négatif, l’anémie, la surcharge hydrosodée et l’insuffisance rénale."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le tableau clinique typique, quels signes traduisent l’intensité du retentissement général et périphérique ?",
+      "choices": [
+        "Pâleur",
+        "Cyanose",
+        "Extrémités froides",
+        "Sueurs"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La forme typique associe pâleur, cyanose, extrémités froides et sueurs, témoignant du retentissement clinique aigu."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la forme typique d’œdème aigu pulmonaire cardiogénique, quels éléments respiratoires ou posturaux sont décrits ?",
+      "choices": [
+        "Tachypnée superficielle",
+        "Orthopnée avec patient assis au bord du lit",
+        "Toux avec grésillement laryngé",
+        "Expectoration mousseuse souvent rose saumonée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit une tachypnée superficielle, une orthopnée avec patient assis au bord du lit, une toux avec grésillement laryngé et une expectoration mousseuse souvent rose saumonée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments doivent faire considérer l’œdème aigu pulmonaire comme cliniquement grave ?",
+      "choices": [
+        "Bradypnée",
+        "Marbrures",
+        "Troubles de la conscience",
+        "Détérioration clinique rapide"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les signes de gravité comprennent notamment la bradypnée, les marbrures, les troubles de la conscience et la détérioration clinique rapide."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre formes cliniques et caractéristiques sont exactes selon le texte ?",
+      "choices": [
+        "Forme bronchospastique : pseudo-asthme cardiaque lié à l’œdème bronchiolaire",
+        "Forme suraiguë : possibilité de mort subite",
+        "Forme subaiguë : dyspnée au moindre effort, toux, orthopnée et épanchements pleuraux",
+        "Forme hémoptoïque : présence d’hémoptysies"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit ces quatre formes cliniques avec leurs caractéristiques respectives : bronchospastique, suraiguë, subaiguë et hémoptoïque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution précoce après prise en charge d’un œdème aigu pulmonaire cardiogénique, quelles propositions sont correctes ?",
+      "choices": [
+        "Elle dépend de l’étiologie",
+        "Elle dépend de la réponse au traitement immédiat",
+        "Elle doit être évaluée dans les 20 à 30 minutes",
+        "Une reprise de la diurèse est un élément d’évolution favorable"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’évolution dépend de l’étiologie et de la réponse au traitement immédiat. Elle doit être appréciée dans les 20 à 30 minutes ; la reprise de la diurèse fait partie des signes favorables."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments l’électrocardiogramme recherche-t-il principalement dans ce contexte ?",
+      "choices": [
+        "Une arythmie supraventriculaire",
+        "Une arythmie ventriculaire",
+        "Un trouble de conduction avec bradycardie",
+        "Des modifications nouvelles d’origine ischémique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’ECG recherche surtout un facteur déclenchant : arythmie supraventriculaire ou ventriculaire, trouble de conduction avec bradycardie ou modifications ischémiques nouvelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’interprétation des gaz du sang artériel et de l’oxymétrie, quelles propositions sont exactes ?",
+      "choices": [
+        "Les gaz du sang peuvent montrer une hypoxémie avec alcalose ventilatoire",
+        "Une acidose ventilatoire traduit toujours une hypoventilation alvéolaire",
+        "Une acidose mixte peut être observée",
+        "Une saturation transcutanée correcte ne doit pas rassurer si elle s’associe à une acidose ventilatoire ou mixte"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne l’hypoxémie avec alcalose ventilatoire, l’acidose ventilatoire, l’acidose mixte et insiste sur le caractère grave d’une acidose malgré une saturation correcte."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des examens complémentaires dans les formes difficiles ou graves, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La radiographie thoracique aide au diagnostic différentiel, notamment dans les formes de pseudo-asthme cardiaque",
+        "L’échocardiographie peut fournir des paramètres hémodynamiques de façon non ou peu invasive",
+        "Le cathétérisme pulmonaire peut confirmer l’origine cardiogénique dans certaines formes graves",
+        "Le cathétérisme pulmonaire peut permettre l’adaptation du traitement"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La radiographie aide au diagnostic et au diagnostic différentiel. L’échocardiographie apporte des données hémodynamiques peu invasives. Le cathétérisme pulmonaire peut confirmer l’origine cardiogénique et guider le traitement dans certaines formes graves."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle présentation correspond à la forme clinique la plus fréquente décrite dans le texte ?",
+      "choices": [
+        "Insuffisance ventriculaire droite aiguë fébrile du sujet jeune",
+        "Insuffisance ventriculaire gauche aiguë nocturne avec poussée hypertensive chez le sujet âgé",
+        "Forme hémoptoïque isolée sans orthopnée",
+        "Décompensation respiratoire chronique pure sans cardiopathie"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La forme la plus fréquente est l’insuffisance ventriculaire gauche aiguë nocturne liée à une cardiopathie brutalement décompensée avec poussée hypertensive, chez le sujet âgé."
+    },
+    {
+      "type": "QCS",
+      "question": "Devant une crise d’asthme inaugurale de début nocturne chez une personne âgée, quelle attitude diagnostique est indiquée ?",
+      "choices": [
+        "La considérer comme un asthme vrai jusqu’à preuve du contraire",
+        "La considérer comme un œdème aigu pulmonaire jusqu’à preuve du contraire",
+        "L’attribuer d’emblée à une bronchopneumopathie chronique obstructive",
+        "Écarter une origine cardiaque si des sibilants sont présents"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’une crise d’asthme inaugurale de début nocturne chez une personne âgée doit être considérée comme un OAP jusqu’à preuve du contraire."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’interprétation d’une pression artérielle élevée au cours d’un œdème aigu pulmonaire, quel élément renforce son rôle causal ?",
+      "choices": [
+        "Une élévation modérée apparue tardivement",
+        "Une pression très élevée à une phase précoce de l’œdème",
+        "Une pression élevée uniquement après correction de la dyspnée",
+        "Une pression élevée associée exclusivement à l’anxiété"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Une pression artérielle élevée est d’autant plus considérée comme facteur causal qu’elle est très élevée à une phase précoce de l’œdème."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la signification d’une acidose ventilatoire dans les gaz du sang artériel ?",
+      "choices": [
+        "Une hyperventilation réactionnelle isolée",
+        "Une hypoventilation alvéolaire",
+        "Une correction complète de l’hypoxémie",
+        "Une évolution favorable certaine"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique que l’acidose ventilatoire traduit toujours une hypoventilation alvéolaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les signes radiographiques suivants, lequel est décrit comme rare ?",
+      "choices": [
+        "Lignes B de Kerley",
+        "Redistribution vasculaire vers les sommets",
+        "Bronchogramme aérique",
+        "Émoussement des culs-de-sac pleuraux"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le bronchogramme aérique est explicitement décrit comme rare dans le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément appartient à l’évolution favorable après prise en charge immédiate ?",
+      "choices": [
+        "Hypoventilation alvéolaire grave",
+        "Troubles de conscience",
+        "Risque d’arrêt cardiaque à tout moment",
+        "Équilibration tensionnelle"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’évolution favorable associe notamment la régression de la dyspnée, l’équilibration tensionnelle et la reprise de la diurèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation initiale de la prise en charge d’un œdème aigu pulmonaire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le traitement doit être débuté le plus précocement possible.",
+        "Il s’agit d’une urgence médicale.",
+        "L’hospitalisation est nécessaire.",
+        "L’hospitalisation doit se faire indépendamment de la gravité et de l’évolution initiale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que le traitement doit être débuté précocement, que l’œdème aigu pulmonaire est une urgence et que l’hospitalisation est nécessaire dans une structure adaptée à la gravité et à l’évolution initiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’œdème aigu pulmonaire, quelles affirmations correspondent aux finalités thérapeutiques mentionnées ?",
+      "choices": [
+        "Prévenir le décès par arrêt cardiaque hypoxémique.",
+        "Prévenir le décès par arrêt cardiaque hypercapnique.",
+        "Assurer la régression de l’œdème par diminution de la pression microvasculaire pulmonaire.",
+        "Obtenir prioritairement une normalisation immédiate du BNP."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les objectifs sont de prévenir le décès par arrêt cardiaque hypoxémique et/ou hypercapnique et d’assurer la régression de l’œdème en diminuant la pression microvasculaire pulmonaire. La normalisation du BNP n’est pas citée comme objectif thérapeutique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’oxygénothérapie à fort débit continu en ventilation spontanée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être administrée par sonde nasale.",
+        "Elle peut être administrée par lunettes.",
+        "Elle peut être administrée par masque.",
+        "Elle correspond obligatoirement à une ventilation invasive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’oxygénothérapie à fort débit continu, 6 à 8 L/min en ventilation spontanée, par sonde nasale, lunettes ou masque. Elle n’est pas obligatoirement invasive."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments orientent vers la nécessité d’une assistance ventilatoire plutôt qu’une simple oxygénothérapie ?",
+      "choices": [
+        "Des troubles de la conscience.",
+        "Une tachypnée intense.",
+        "Des signes d’épuisement ventilatoire.",
+        "Une absence totale d’hypoventilation alvéolaire franche."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une assistance ventilatoire est nécessaire en cas de signes d’hypoventilation ou d’épuisement : troubles de la conscience, tachypnée intense et signes d’épuisement ventilatoire. L’oxygénothérapie simple n’est bénéfique que s’il n’existe pas d’hypoventilation alvéolaire franche."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la ventilation non invasive dans l’œdème aigu pulmonaire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle peut comporter une aide inspiratoire.",
+        "Elle comporte une pression expiratoire positive.",
+        "Elle peut éviter l’intubation dans certains cas.",
+        "Elle est indiquée malgré un collapsus ou des troubles importants de la conscience."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La ventilation non invasive au masque associe aide inspiratoire et pression expiratoire positive. Elle peut éviter l’intubation dans certains cas, mais en l’absence de troubles importants de la conscience et de collapsus."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les moyens cités, lesquels participent à la diminution du volume circulant ?",
+      "choices": [
+        "Vasodilatation veineuse par dérivés nitrés.",
+        "Furosémide.",
+        "Bumétanide.",
+        "Dobutamine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les moyens de diminution du volume circulant comprennent la vasodilatation veineuse par dérivés nitrés et les diurétiques de l’anse, notamment furosémide et bumétanide. La dobutamine est un inotrope."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les moyens d’augmentation du débit cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "La diminution de la postcharge peut être obtenue par vasodilatateurs artériels.",
+        "Le nitroprussiate est cité parmi les vasodilatateurs artériels.",
+        "La dobutamine est citée parmi les moyens d’augmentation de l’inotropisme.",
+        "Le bumétanide est cité comme vasodilatateur artériel de référence."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’augmentation du débit cardiaque repose sur la diminution de la postcharge par vasodilatateurs artériels, dont le nitroprussiate, et sur l’augmentation de l’inotropisme, notamment par dobutamine. Le bumétanide est un diurétique de l’anse."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des diurétiques de l’anse dans ce contexte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils diminuent le volume circulant.",
+        "Ils ont un effet veinodilatateur immédiat.",
+        "Leur effet veinodilatateur immédiat est décrit comme faible.",
+        "Dans les formes graves avec pression artérielle élevée, l’augmentation de leurs doses est toujours plus efficace que celle des dérivés nitrés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les diurétiques de l’anse diminuent le volume circulant et ont un effet veinodilatateur immédiat mais faible. Dans les formes graves avec pression artérielle élevée, l’augmentation des doses de dérivés nitrés peut être plus efficace que celle des diurétiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Si la pression artérielle est normale ou augmentée, quelles modalités de dérivés nitrés sont mentionnées ?",
+      "choices": [
+        "Dinitrate d’isosorbide sublingual 15 mg.",
+        "Trinitrine en spray, 2 à 4 bouffées à 0,4 mg.",
+        "Dérivés nitrés intraveineux directs par bolus répétés selon la réponse.",
+        "Dérivés nitrés exclusivement par voie intramusculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas de pression artérielle normale ou augmentée, les nitrés sont indiqués en première intention : dinitrate d’isosorbide sublingual 15 mg, trinitrine en spray 2 à 4 bouffées à 0,4 mg, et bolus IV répétés toutes les 5 minutes selon la réponse. La voie intramusculaire n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la perfusion intraveineuse continue de dérivés nitrés, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle constitue un relais habituel.",
+        "Elle se fait sous surveillance stricte de la pression artérielle.",
+        "La posologie mentionnée est de 1 à 3 mg/h.",
+        "Elle doit être poursuivie si la pression artérielle systolique devient inférieure à 110 mmHg."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le relais par dérivés nitrés en perfusion IV continue est habituel, à 1 à 3 mg/h, sous surveillance stricte de la pression artérielle. Les nitrés doivent être interrompus si la PAS devient inférieure à 110 mmHg."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une pression artérielle effondrée au cours d’un œdème aigu pulmonaire, quelles conduites sont conformes au texte ?",
+      "choices": [
+        "Rechercher un trouble du rythme.",
+        "Rechercher un trouble de conduction.",
+        "Réduire immédiatement un trouble du rythme ou de conduction par traitement médicamenteux ou choc électrique externe.",
+        "Introduire systématiquement des dérivés nitrés en bolus répétés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas de pression artérielle effondrée, il faut rechercher un trouble du rythme ou de conduction et le réduire immédiatement par traitement médicamenteux ou choc électrique externe. Les dérivés nitrés ne sont pas indiqués systématiquement dans ce contexte d’effondrement tensionnel."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations étiologie-traitement sont exactes selon le texte ?",
+      "choices": [
+        "Infarctus du myocarde : reperfusion.",
+        "Rupture septale post-infarctus : traitement chirurgical.",
+        "Rupture ou dysfonction de pilier : traitement chirurgical.",
+        "Valvulopathie aiguë au cours d’une endocardite : absence de prise en charge spécifique avant stabilisation complète."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Certaines étiologies nécessitent un traitement immédiat ou semi-urgent : reperfusion en cas d’infarctus, traitement chirurgical des complications mécaniques d’infarctus, et prise en charge d’une valvulopathie aiguë au cours d’une endocardite."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le BNP dans le contexte d’un diagnostic difficile, quelles propositions sont exactes ?",
+      "choices": [
+        "Son dosage est plasmatique.",
+        "Il peut aider à différencier un œdème aigu pulmonaire cardiogénique d’une infection pulmonaire.",
+        "Il peut aider à différencier un œdème aigu pulmonaire cardiogénique d’un œdème pulmonaire non cardiogénique.",
+        "Il remplace systématiquement la prise en charge urgente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le dosage plasmatique du BNP peut aider, dans les formes de diagnostic difficile, à différencier un œdème aigu pulmonaire cardiogénique d’une infection pulmonaire ou d’un œdème pulmonaire non cardiogénique. Il ne remplace pas la prise en charge urgente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le pronostic immédiat et la ventilation assistée, quelles propositions sont exactes ?",
+      "choices": [
+        "Le pronostic immédiat est grave.",
+        "La mortalité hospitalière mentionnée est de 10 à 20 %.",
+        "L’âge élevé ne doit pas faire récuser la ventilation assistée.",
+        "La gravité initiale impose de récuser toute ventilation invasive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique un pronostic immédiat grave, avec une mortalité hospitalière de 10 à 20 %. L’âge élevé et la gravité initiale ne doivent pas faire récuser la ventilation assistée, y compris invasive."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le cadre d’hospitalisation requis devant un œdème aigu pulmonaire selon le texte ?",
+      "choices": [
+        "Une structure adaptée à la gravité et à l’évolution initiale.",
+        "Une hospitalisation uniquement si le BNP est élevé.",
+        "Une prise en charge ambulatoire après amélioration subjective.",
+        "Une hospitalisation différée après bilan étiologique complet."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hospitalisation est nécessaire dans une structure adaptée à la gravité et à l’évolution initiale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel médicament est cité parmi les vasodilatateurs artériels utilisés pour diminuer la postcharge ?",
+      "choices": [
+        "Furosémide.",
+        "Nitroprussiate.",
+        "Bumétanide.",
+        "Dinitrate d’isosorbide."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le nitroprussiate est cité parmi les vasodilatateurs artériels diminuant la postcharge. Le furosémide et le bumétanide sont des diurétiques de l’anse ; le dinitrate d’isosorbide est un dérivé nitré à effet veineux."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas de choc cardiogénique avec pression artérielle effondrée, quel mode d’administration de la dobutamine est indiqué ?",
+      "choices": [
+        "Bolus intraveineux unique.",
+        "Injection sous-cutanée répétée.",
+        "Perfusion continue.",
+        "Administration orale fractionnée."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique qu’un choc cardiogénique justifie une perfusion continue de dobutamine à 10 µg/kg/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement expose à un risque de dépression respiratoire tout en pouvant réduire la réponse sympathique au stress ?",
+      "choices": [
+        "Morphine intraveineuse.",
+        "Bumétanide intraveineux.",
+        "Trinitrine en spray.",
+        "Nitroprussiate."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La morphine intraveineuse peut réduire la réponse sympathique au stress et avoir un effet vasodilatateur, mais elle expose à un risque de dépression respiratoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement la place du bilan étiologique après la phase aiguë ?",
+      "choices": [
+        "Il est inutile si la dyspnée régresse rapidement.",
+        "Il doit être réalisé ou réajusté après stabilisation.",
+        "Il doit toujours précéder l’oxygénothérapie.",
+        "Il se limite au dosage du BNP."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’un bilan étiologique et un traitement étiologique doivent être réalisés ou réajustés après stabilisation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle complication mécanique d’infarctus est explicitement citée comme relevant d’un traitement chirurgical ?",
+      "choices": [
+        "Rupture septale.",
+        "Bloc auriculo-ventriculaire isolé.",
+        "Fibrillation auriculaire rapide.",
+        "Infection pulmonaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Parmi les complications mécaniques d’infarctus justifiant un traitement chirurgical, le texte cite la rupture de cordage, la rupture ou dysfonction de pilier et la rupture septale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les définitions générales de l’insuffisance cardiaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à l’incapacité du cœur à assurer sa fonction normale de pompe dans les situations de la vie courante.",
+        "Elle est dite compensée lorsque les mécanismes compensateurs ou le traitement permettent une vie aussi proche que possible de la normale.",
+        "Elle est dite décompensée uniquement lorsqu’elle entraîne une gêne chronique.",
+        "Elle peut être qualifiée de congestive en raison des symptômes liés à l’augmentation des pressions de remplissage ventriculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte définit l’insuffisance cardiaque par l’incapacité de pompe, distingue la forme compensée, et précise que l’insuffisance cardiaque congestive est liée aux pressions de remplissage ventriculaire élevées. La décompensation peut être aiguë, subaiguë ou chronique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rapports entre insuffisance cardiaque gauche aiguë, œdème pulmonaire et choc cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’insuffisance cardiaque gauche aiguë se manifeste par l’œdème pulmonaire.",
+        "Le choc cardiogénique représente la forme ultime et la plus grave des insuffisances cardiaques aiguës.",
+        "Le choc cardiogénique comporte une incapacité de la pompe cardiaque à assurer un débit et une pression de perfusion suffisants.",
+        "Le choc cardiogénique correspond à une insuffisance cardiaque compensée par les mécanismes adaptatifs."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’œdème pulmonaire est la manifestation de l’insuffisance cardiaque gauche aiguë. Le choc cardiogénique est la forme la plus grave, avec insuffisance de débit et de pression de perfusion tissulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition de l’œdème pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une accumulation de fluides et de solutés dans les espaces extravasculaires pulmonaires.",
+        "L’inondation des alvéoles pulmonaires en constitue une conséquence majeure.",
+        "Il peut entraîner rapidement une insuffisance respiratoire aiguë.",
+        "Il correspond exclusivement à une accumulation de liquide dans le secteur intravasculaire pulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’œdème pulmonaire est extravasculaire et peut aboutir à une inondation alvéolaire responsable d’insuffisance respiratoire aiguë."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le caractère cardiogénique et hydrostatique de l’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il résulte d’une augmentation des pressions microvasculaires pulmonaires capillaires et veinulaires.",
+        "Il est lié à une insuffisance cardiaque gauche congestive.",
+        "Il est défini par une altération anatomique primitive de la membrane alvéolocapillaire.",
+        "Il s’oppose aux œdèmes de perméabilité dits lésionnels."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’œdème aigu pulmonaire cardiogénique est hydrostatique, secondaire à l’élévation des pressions microvasculaires pulmonaires liée à l’insuffisance cardiaque gauche congestive. Les œdèmes lésionnels relèvent d’une altération de perméabilité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la constitution de la membrane alvéolocapillaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comprend l’endothélium capillaire.",
+        "Elle comprend l’espace interstitiel alvéolocapillaire.",
+        "Elle comprend les cellules épithéliales.",
+        "Elle comprend principalement la plèvre viscérale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite trois éléments principaux : l’endothélium capillaire, l’espace interstitiel alvéolocapillaire et les cellules épithéliales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déterminants du flux net de liquide sortant du capillaire pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Les pressions hydrostatiques interviennent dans ce flux.",
+        "Les pressions oncotiques interviennent dans ce flux.",
+        "La perméabilité à l’eau intervient dans ce flux.",
+        "La perméabilité membranaire aux protéines intervient dans ce flux."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le flux net dépend des pressions hydrostatiques, des pressions oncotiques, de la perméabilité à l’eau et de la perméabilité membranaire aux protéines."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’état basal, concernant les échanges liquidiens pulmonaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Il existe un flux net de liquide du capillaire vers l’interstitium.",
+        "L’absence d’œdème est rendue possible par le drainage lymphatique.",
+        "Le flux physiologique net se fait exclusivement de l’interstitium vers le capillaire.",
+        "Le drainage lymphatique est normalement dépassé à l’état basal."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "À l’état basal, un flux net capillaire vers interstitium existe, mais il ne provoque pas d’œdème grâce au drainage lymphatique pulmonaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’augmentation du débit de filtration dans l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est liée à l’élévation de la pression microvasculaire pulmonaire.",
+        "Elle est secondaire à l’augmentation des pressions en amont des cavités gauches.",
+        "Elle implique notamment la pression atriale gauche et la pression télédiastolique du ventricule gauche.",
+        "Elle est principalement expliquée par une baisse isolée de la perméabilité membranaire aux protéines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le facteur essentiel est l’augmentation du débit de filtration par élévation de la pression microvasculaire pulmonaire, elle-même liée aux pressions en amont des cavités gauches."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la survenue de l’œdème alvéolaire dans l’œdème aigu pulmonaire cardiogénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient lorsque les mécanismes opposés à l’inondation alvéolaire sont dépassés.",
+        "Elle peut être favorisée par des modifications de la perméabilité de l’épithélium alvéolaire.",
+        "Le phénomène est habituellement brutal et rapide.",
+        "La résorption de l’œdème pulmonaire est exclusivement passive et indépendante de l’épithélium alvéolaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le dépassement des mécanismes compensateurs conduit à l’œdème alvéolaire, favorisé éventuellement par des modifications de perméabilité épithéliale. Le phénomène est brutal et rapide ; la résorption est active et implique l’épithélium alvéolaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Au stade d’œdème alvéolaire, quelles anomalies supplémentaires sont décrites par rapport au stade interstitiel ?",
+      "choices": [
+        "Un effondrement de la compliance pulmonaire.",
+        "Une forte augmentation du travail ventilatoire.",
+        "Une altération importante des échanges gazeux.",
+        "Une normalisation du rapport ventilation-perfusion."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au stade alvéolaire s’ajoutent l’effondrement de la compliance, l’augmentation majeure du travail ventilatoire et l’altération importante des échanges gazeux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la séquence initiale des troubles gazométriques dans l’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hypoxémie initiale est liée à un effet shunt secondaire aux anomalies du rapport ventilation-perfusion.",
+        "L’hypoxémie s’accompagne d’une hyperventilation réactionnelle.",
+        "L’hyperventilation réactionnelle entraîne une alcalose ventilatoire.",
+        "L’acidose mixte est le mécanisme initial obligatoire de toutes les formes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Initialement, l’hypoxémie relève d’un effet shunt par anomalies ventilation-perfusion, avec hyperventilation réactionnelle responsable d’alcalose ventilatoire. L’acidose mixte est surtout décrite dans les formes graves."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le trouble de la fonction systolique du ventricule gauche comme mécanisme d’œdème aigu pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à une dilatation ventriculaire secondaire à une altération de la fonction systolique.",
+        "Il représente une cause fréquente d’œdème aigu pulmonaire.",
+        "Il peut être observé dans les cardiopathies ischémiques, les valvulopathies et les cardiomyopathies dilatées.",
+        "Il se caractérise typiquement par un ventricule gauche hypertrophique et non dilaté."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le trouble systolique associe dilatation ventriculaire et altération de la fonction systolique. Le ventricule hypertrophique non dilaté correspond plutôt au trouble diastolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le trouble de la fonction diastolique du ventricule gauche, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut correspondre à une réduction de la distensibilité ventriculaire gauche.",
+        "Il peut correspondre à une prolongation majeure de la relaxation.",
+        "Il est fréquent notamment chez le sujet âgé.",
+        "Le ventricule gauche est typiquement hypertrophique et non dilaté."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte définit l’insuffisance diastolique par une réduction de distensibilité et/ou une relaxation prolongée, fréquente chez le sujet âgé, avec ventricule gauche hypertrophique non dilaté."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’infarctus du myocarde, quels mécanismes peuvent être associés à la survenue d’un œdème aigu pulmonaire selon le texte ?",
+      "choices": [
+        "L’étendue de la nécrose.",
+        "L’importance de l’ischémie associée en phase aiguë.",
+        "Un trouble du rythme supraventriculaire ou ventriculaire.",
+        "Une rupture septale ou une dysfonction/rupture de pilier."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Dans l’infarctus du myocarde, l’œdème aigu pulmonaire peut être lié à l’étendue de la nécrose, à l’ischémie aiguë associée, aux troubles du rythme ou de conduction, et aux complications mécaniques comme rupture septale ou dysfonction/rupture de pilier."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation définit le mieux l’insuffisance cardiaque décompensée selon le texte ?",
+      "choices": [
+        "Une vie aussi proche que possible de la normale grâce au traitement.",
+        "Une gêne majeure aiguë, subaiguë ou chronique.",
+        "Une anomalie exclusivement asymptomatique des pressions de remplissage.",
+        "Une incapacité respiratoire isolée sans atteinte cardiaque."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’insuffisance cardiaque est dite décompensée lorsqu’elle entraîne une gêne majeure, qu’elle soit aiguë, subaiguë ou chronique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel terme est utilisé lorsque les symptômes d’insuffisance cardiaque sont liés à l’augmentation des pressions de remplissage ventriculaire ?",
+      "choices": [
+        "Insuffisance cardiaque congestive.",
+        "Insuffisance cardiaque compensée.",
+        "Œdème pulmonaire lésionnel.",
+        "Cardiomyopathie hypertrophique primitive."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte parle d’insuffisance cardiaque congestive en raison des symptômes liés à l’augmentation des pressions de remplissage ventriculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la forme ultime et la plus grave des insuffisances cardiaques aiguës selon le texte ?",
+      "choices": [
+        "L’angor.",
+        "Le choc cardiogénique.",
+        "Le rétrécissement mitral compensé.",
+        "L’hypertension artérielle essentielle isolée."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le choc cardiogénique est présenté comme la forme ultime et la plus grave des insuffisances cardiaques aiguës."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’œdème aigu pulmonaire, quelle conséquence majeure de l’inondation alvéolaire est explicitement mentionnée ?",
+      "choices": [
+        "Une insuffisance respiratoire aiguë pouvant survenir rapidement.",
+        "Une bradycardie sinusale constante.",
+        "Une disparition du travail ventilatoire.",
+        "Une diminution systématique des pressions de remplissage ventriculaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’inondation des alvéoles peut entraîner rapidement une insuffisance respiratoire aiguë."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel type d’œdème pulmonaire est lié à une altération anatomique de la membrane alvéolocapillaire ?",
+      "choices": [
+        "L’œdème hydrostatique cardiogénique.",
+        "L’œdème de perméabilité dit lésionnel.",
+        "L’œdème basal physiologique drainé par les lymphatiques.",
+        "L’œdème par rétrécissement mitral pur."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les œdèmes de perméabilité, dits lésionnels, sont liés à une altération anatomique de la membrane alvéolocapillaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cause principale est citée pour le trouble de la fonction diastolique du ventricule gauche ?",
+      "choices": [
+        "Cardiomyopathie hypertrophique primitive.",
+        "Myxome de l’oreillette gauche.",
+        "Rupture septale post-infarctus.",
+        "Cardiomyopathie dilatée de cause multiple."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les principales causes du trouble diastolique citées sont la cardiopathie hypertensive et la cardiomyopathie hypertrophique primitive."
+    }
+  ],
+  "status": "done",
+  "error": "Connection error.",
+  "updatedAt": "2026-07-03T16:25:31.067Z"
+}

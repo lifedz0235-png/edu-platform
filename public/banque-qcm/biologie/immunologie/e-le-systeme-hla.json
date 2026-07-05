@@ -1,0 +1,3094 @@
+{
+  "category": "biologie",
+  "module": "immunologie",
+  "courseId": 36,
+  "courseTitle": "D Le Systeme De Complement",
+  "supportTitle": "e-le-systeme-hla",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/immunologie/e-le-systeme-hla.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la définition fonctionnelle du système HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système HLA correspond au complexe majeur d’histocompatibilité chez l’être humain.",
+        "Les molécules HLA participent à la présentation antigénique aux lymphocytes T.",
+        "Les antigènes doivent être présentés par les molécules HLA pour être reconnus par les lymphocytes B.",
+        "Les molécules présentatrices d’antigènes sont des molécules membranaires spécialisées."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Chez l’être humain, le CMH est appelé système HLA. Les antigènes destinés aux lymphocytes T doivent être pris en charge et présentés par des molécules membranaires spécialisées du CMH/HLA. Le texte ne dit pas que les lymphocytes B nécessitent une présentation HLA."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels appartiennent à la région HLA-I ?",
+      "choices": [
+        "HLA-A, HLA-B et HLA-C.",
+        "HLA-E, HLA-F et HLA-G.",
+        "MIC-A et MIC-B.",
+        "HLA-DM et HLA-DO."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La région HLA-I comprend les gènes HLA-I classiques HLA-A, HLA-B, HLA-C, les gènes HLA-I non classiques HLA-E, HLA-F, HLA-G, ainsi que les gènes HLA-I like MIC-A et MIC-B. HLA-DM et HLA-DO appartiennent à la région HLA-II."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la région HLA-II, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle contient les gènes HLA-DR, HLA-DP et HLA-DQ.",
+        "Elle contient les gènes associés HLA-DM et HLA-DO.",
+        "Elle contient les gènes TAP et LMP impliqués dans le protéasome.",
+        "Elle contient les gènes C4A et C4B du complément."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La région HLA-II comprend les gènes de présentation HLA-DR, DP, DQ, les gènes associés HLA-DM et HLA-DO, ainsi que TAP et LMP impliqués dans le protéasome. C4A et C4B relèvent de la région HLA-III."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la structure des molécules HLA-I, quelles propositions sont justes ?",
+      "choices": [
+        "Elles sont constituées d’une chaîne lourde α glycosylée et d’une β2-microglobuline.",
+        "La chaîne lourde comprend trois domaines extracellulaires α1, α2 et α3.",
+        "Les domaines α1 et α2 forment le site de liaison du peptide antigénique.",
+        "La β2-microglobuline forme directement le site de liaison du peptide antigénique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-I sont des dimères comprenant une chaîne lourde α glycosylée et une β2-microglobuline. La chaîne lourde possède les domaines α1, α2, α3 ; α1 et α2 constituent le site de liaison peptidique. La β2-microglobuline interagit avec la chaîne lourde mais ne forme pas le sillon peptidique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la structure des molécules HLA-II, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont composées d’une chaîne α et d’une chaîne β.",
+        "Chaque chaîne possède deux domaines extracellulaires.",
+        "Les domaines α1 et β1 forment le site de liaison du peptide antigénique.",
+        "Elles comportent obligatoirement une β2-microglobuline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-II sont formées d’une chaîne α et d’une chaîne β ; chacune possède deux domaines extracellulaires, un domaine transmembranaire et un domaine cytoplasmique. Le site de liaison du peptide est formé par α1 et β1. La β2-microglobuline caractérise les molécules HLA-I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’expression des molécules HLA-I classiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont exprimées constitutivement dans la majorité des tissus.",
+        "Leur expression est nulle ou faible dans certains tissus à privilège immunitaire.",
+        "Le cerveau, le testicule et la cornée sont cités comme tissus où leur expression peut être nulle ou faible.",
+        "Leur expression ne peut pas être modifiée par les cytokines inflammatoires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HLA-I classiques sont exprimées constitutivement dans la majorité des tissus, mais faiblement ou pas du tout dans certains sites à privilège immunitaire comme le cerveau, le testicule et la cornée. Leur expression peut être induite par des cytokines inflammatoires, notamment l’IFN-γ."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles cellules expriment constitutivement les molécules HLA-II selon le texte ?",
+      "choices": [
+        "Cellules dendritiques.",
+        "Lymphocytes B.",
+        "Monocytes et macrophages.",
+        "Cellules de la cornée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-II sont exprimées constitutivement par les cellules présentatrices d’antigènes : cellules dendritiques, lymphocytes B, monocytes et macrophages. Les cellules de la cornée ne sont pas citées comme cellules exprimant constitutivement HLA-II."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du chargement antigénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les molécules HLA-I présentent principalement des peptides endogènes.",
+        "Les peptides présentés par HLA-I peuvent provenir de protéines virales ou tumorales intracellulaires.",
+        "Les molécules HLA-II présentent principalement des peptides exogènes internalisés.",
+        "Les molécules HLA-II présentent exclusivement des peptides provenant de protéines intracellulaires tumorales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-I présentent surtout des peptides endogènes issus de protéines intracellulaires, notamment virales ou tumorales. Les molécules HLA-II présentent surtout des peptides exogènes issus d’antigènes internalisés par les cellules présentatrices d’antigènes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments interviennent dans le chargement des molécules HLA-II ?",
+      "choices": [
+        "La chaîne invariante.",
+        "Le peptide CLIP.",
+        "HLA-DM.",
+        "La β2-microglobuline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le chargement HLA-II implique notamment la chaîne invariante, le peptide CLIP, HLA-DM, les compartiments de chargement HLA-II et des enzymes lysosomales comme la cathepsine S. La β2-microglobuline appartient à la structure HLA-I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le polymorphisme du système HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est extrême pour les molécules HLA-I et HLA-II.",
+        "Il est principalement localisé au niveau du site de liaison au peptide.",
+        "Il influence la capacité de présentation d’un peptide antigénique donné.",
+        "Il est limité aux molécules HLA-I non classiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-I et HLA-II présentent un polymorphisme extrême, principalement localisé au niveau du site de liaison au peptide. Ce polymorphisme influence l’affinité du peptide et donc l’efficacité de sa présentation. Il n’est pas limité aux HLA-I non classiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’affinité peptide-HLA et la réponse immunitaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Un peptide ayant une forte affinité pour un type HLA sera présenté en quantité importante.",
+        "Une présentation importante aux lymphocytes T favorise une réponse immunitaire plus forte.",
+        "Un peptide de faible affinité pour un type HLA est moins bien présenté.",
+        "Tous les types HLA induisent une réponse efficace contre tous les agents pathogènes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Plus l’affinité d’un peptide pour le sillon HLA est forte, plus il est présenté et plus la réponse T dirigée contre lui est forte. Un peptide de faible affinité est moins bien présenté. Certains types HLA peuvent être incapables d’induire une réponse efficace contre certains antigènes ou pathogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’expression codominante du système HLA, quelles propositions sont justes ?",
+      "choices": [
+        "Chaque allèle présent sur chaque haplotype HLA est exprimé.",
+        "Chaque individu possède pour chaque locus un allèle d’origine paternelle et un allèle d’origine maternelle.",
+        "Un individu exprime généralement 6 antigènes HLA de classe I.",
+        "Un individu exprime toujours exactement 4 antigènes HLA-DR."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’expression HLA est codominante : chaque allèle de chaque haplotype est exprimé. Pour chaque locus, l’individu possède un allèle paternel et un allèle maternel. Il exprime généralement 6 antigènes HLA de classe I et 2 à 4 antigènes HLA-DR, et non toujours exactement 4."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transmission familiale des haplotypes HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Les loci HLA sont étroitement liés sur le chromosome 6.",
+        "La transmission se fait le plus souvent en bloc sous forme d’haplotypes.",
+        "Les recombinaisons sont rares.",
+        "Dans une fratrie, 50 % des enfants sont HLA-identiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les principaux loci HLA sont distincts mais étroitement liés sur le chromosome 6. Ils sont généralement transmis en bloc sous forme d’haplotypes, avec de rares recombinaisons. Dans une fratrie, 25 % sont HLA-identiques, 50 % haplo-identiques et 25 % HLA différents."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le déséquilibre de liaison dans le système HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à l’association de certains allèles HLA plus fréquemment que ne le voudrait le hasard.",
+        "Il peut concerner des allèles de classe I et de classe II.",
+        "Il est d’autant plus fort que les loci sont proches.",
+        "Il est particulièrement marqué entre HLA-A et HLA-G."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déséquilibre de liaison désigne une association d’allèles HLA plus fréquente que celle attendue par le hasard. Il peut concerner les classes I et II, et augmente lorsque les loci sont proches. Le texte précise qu’il est particulièrement marqué entre HLA-DR et HLA-DQ."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’être humain, sur quel chromosome sont situés les gènes HLA ?",
+      "choices": [
+        "Chromosome 1.",
+        "Chromosome 6.",
+        "Chromosome 12.",
+        "Chromosome 21."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les gènes HLA sont situés sur le chromosome 6."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel domaine de la chaîne lourde HLA-I interagit avec la β2-microglobuline ?",
+      "choices": [
+        "α1.",
+        "α2.",
+        "α3.",
+        "Domaine cytoplasmique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La chaîne lourde HLA-I interagit avec la β2-microglobuline par son domaine α3."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cytokine inflammatoire est citée comme capable d’induire l’expression des molécules HLA-I ?",
+      "choices": [
+        "IL-4.",
+        "IL-10.",
+        "IFN-γ.",
+        "TGF-β."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’expression des molécules HLA-I peut être induite par des cytokines inflammatoires, notamment l’IFN-γ."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule HLA non classique est notamment exprimée à l’interface fœto-maternelle ?",
+      "choices": [
+        "HLA-A.",
+        "HLA-G.",
+        "HLA-DQ.",
+        "HLA-DM."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les molécules HLA-I non classiques, notamment HLA-G, sont exprimées à l’interface fœto-maternelle et sur certaines cellules immunitaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une fratrie, quelle est la probabilité d’être HLA-identique ?",
+      "choices": [
+        "10 %.",
+        "25 %.",
+        "50 %.",
+        "75 %."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans une fratrie, 25 % des enfants sont HLA-identiques, 50 % haplo-identiques et 25 % HLA différents."
+    },
+    {
+      "type": "QCS",
+      "question": "Entre quels loci le déséquilibre de liaison est-il particulièrement marqué selon le texte ?",
+      "choices": [
+        "HLA-A et HLA-B.",
+        "HLA-B et HLA-C.",
+        "HLA-DR et HLA-DQ.",
+        "HLA-DP et HLA-G."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le déséquilibre de liaison est particulièrement marqué entre HLA-DR et HLA-DQ."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les associations HLA de classe I avec les infections, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-B8 est associé à une susceptibilité à la tuberculose pulmonaire.",
+        "HLA-B35 est associé à une susceptibilité à l’infection par le VIH.",
+        "HLA-B53 est associé à une susceptibilité au paludisme.",
+        "HLA-B57 est associé à une résistance à l’infection par le VIH."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte associe HLA-B8 à la susceptibilité à la tuberculose pulmonaire, HLA-B35 à la susceptibilité au VIH, HLA-B53 à la résistance au paludisme et HLA-B57 à la résistance au VIH."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations HLA de classe II suivantes, lesquelles correspondent à une résistance infectieuse selon le texte ?",
+      "choices": [
+        "HLA-DRB1*1302 et hépatite B.",
+        "HLA-DRB1*1101 et hépatite C.",
+        "HLA-DRB1*04 et typhoïde.",
+        "HLA-DR7 et hépatite B."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-DRB1*1302 est associé à une résistance à l’hépatite B, HLA-DRB1*1101 à une résistance à l’hépatite C et HLA-DRB1*04 à une résistance à la typhoïde. HLA-DR7 est associé à une susceptibilité à l’hépatite B."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant HLA-DR2, quelles associations infectieuses sont rapportées dans le texte ?",
+      "choices": [
+        "Susceptibilité à la tuberculose pulmonaire.",
+        "Susceptibilité à la lèpre.",
+        "Résistance à l’hépatite C.",
+        "Résistance à la typhoïde."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne HLA-DR2 comme associé à une susceptibilité à la tuberculose pulmonaire et à la lèpre."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du rôle immunologique des molécules HLA-I classiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles induisent une réponse immunitaire contre des peptides endogènes.",
+        "Elles participent à l’immunité antitumorale par présentation d’antigènes du soi modifiés.",
+        "Elles participent à l’immunité antivirale par présentation d’antigènes viraux intracellulaires.",
+        "Elles induisent principalement une réponse contre des peptides exogènes nécessaires à l’immunité humorale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HLA-I classiques présentent des peptides endogènes, notamment des antigènes du soi modifiés en immunité antitumorale et des antigènes viraux intracellulaires en immunité antivirale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules HLA-II classiques, quelles propositions sont justes ?",
+      "choices": [
+        "Elles permettent d’induire une réponse contre des peptides exogènes.",
+        "Elles sont nécessaires à l’immunité humorale.",
+        "Elles sont nécessaires à l’immunité cellulaire.",
+        "Elles interviennent uniquement dans l’immunité antivirale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HLA-II classiques induisent une réponse contre des peptides exogènes et sont nécessaires à l’immunité humorale et cellulaire, notamment antibactérienne, antitumorale et antivirale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation des cellules NK par les molécules HLA-I non classiques et HLA-like, quelles propositions sont exactes ?",
+      "choices": [
+        "Ces molécules participent à la régulation de la cytotoxicité des cellules NK.",
+        "MIC-A peut être exprimée lors d’un stress cellulaire.",
+        "MIC-A peut interagir avec le récepteur activateur NKG2D.",
+        "HLA-C et HLA-E activent directement la cytotoxicité NK via NKG2D."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-I non classiques et HLA-like régulent la cytotoxicité NK. MIC-A peut être induite lors du stress cellulaire et interagir avec NKG2D, récepteur activateur. HLA-C et HLA-E interagissent surtout avec des récepteurs inhibiteurs cités dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles interactions inhibitrices entre molécules HLA et récepteurs NK sont citées dans le texte ?",
+      "choices": [
+        "HLA-C avec des récepteurs KIR.",
+        "HLA-E avec NKG2A/CD94.",
+        "HLA-C et HLA-E peuvent entraîner une inhibition de la cytotoxicité NK.",
+        "MIC-A avec NKG2A/CD94."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que HLA-C et HLA-E peuvent interagir avec des récepteurs inhibiteurs des cellules NK, notamment KIR et NKG2A/CD94, entraînant une inhibition de la cytotoxicité."
+    },
+    {
+      "type": "QCM",
+      "question": "En situation de stress cellulaire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le stress cellulaire peut survenir lors d’une infection.",
+        "Le stress cellulaire peut survenir lors d’une transformation tumorale.",
+        "Certaines molécules du soi peuvent être modifiées ou induites.",
+        "Le stress cellulaire empêche toute expression de MIC-A."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise qu’en situation de stress cellulaire, notamment infection ou transformation tumorale, certaines molécules du soi peuvent être modifiées ou induites ; MIC-A peut justement être exprimée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes peuvent favoriser l’activation cytotoxique des cellules NK selon le texte ?",
+      "choices": [
+        "L’expression de MIC-A interagissant avec NKG2D.",
+        "La diminution de l’expression des molécules HLA inhibitrices.",
+        "La modification du soi.",
+        "L’interaction HLA-E avec NKG2A/CD94."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’activation NK est favorisée par MIC-A via NKG2D, par la diminution des signaux inhibiteurs HLA et par la modification du soi. L’interaction HLA-E avec NKG2A/CD94 est inhibitrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant HLA-E dans la régulation NK, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-E peut interagir avec NKG2A/CD94.",
+        "HLA-E peut participer à l’inhibition de la cytotoxicité NK.",
+        "Lors d’un stress cellulaire, HLA-E peut charger des peptides dérivés de protéines de stress.",
+        "HLA-E est décrite comme le ligand activateur principal de NKG2D."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-E peut interagir avec NKG2A/CD94 et inhiber la cytotoxicité NK. En situation de stress, elle peut charger des peptides dérivés de protéines de stress, modifiant la reconnaissance par les cellules NK."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles applications médicales du système HLA sont explicitement citées ?",
+      "choices": [
+        "Transplantation d’organes.",
+        "Greffe de moelle osseuse.",
+        "Évaluation de la compatibilité entre donneur et receveur.",
+        "Choix probabiliste d’une antibiothérapie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la transplantation d’organes, la greffe de moelle osseuse et l’évaluation de la compatibilité donneur-receveur. Il ne mentionne pas le choix d’une antibiothérapie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les applications médicales du HLA, quelles propositions sont justes ?",
+      "choices": [
+        "Le système HLA peut être utilisé dans certaines situations transfusionnelles.",
+        "Il peut servir à l’étude des associations entre HLA et maladies.",
+        "Il peut contribuer à l’identification de sujets à risque pour certaines pathologies immunologiques ou infectieuses.",
+        "Il permet d’affirmer à lui seul le diagnostic d’une infection active."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les situations transfusionnelles, l’étude des associations HLA-maladies et l’identification de sujets à risque sont citées. Le diagnostic autonome d’une infection active n’est pas mentionné."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’immunité antitumorale et antivirale impliquant les molécules HLA classiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Les HLA-I classiques participent à l’immunité antitumorale par présentation d’antigènes du soi modifiés.",
+        "Les HLA-I classiques participent à l’immunité antivirale par présentation d’antigènes viraux intracellulaires.",
+        "Les HLA-II classiques sont impliquées dans des réponses antitumorales et antivirales.",
+        "Les HLA-II classiques sont réservées à l’immunité antibactérienne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HLA-I interviennent dans l’immunité antitumorale et antivirale selon les modalités citées. Les HLA-II sont nécessaires à l’immunité humorale et cellulaire, notamment antibactérienne, antitumorale et antivirale."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes sur les associations HLA-maladies infectieuses, lesquelles sont exactes ?",
+      "choices": [
+        "HLA-B57 est associé à une résistance à l’infection par le VIH.",
+        "HLA-DR7 est associé à une susceptibilité à l’hépatite B.",
+        "HLA-DRB1*1302 est associé à une résistance à l’hépatite B.",
+        "HLA-DRB1*04 est associé à une susceptibilité à la typhoïde."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-B57 est associé à une résistance au VIH, HLA-DR7 à une susceptibilité à l’hépatite B, et HLA-DRB1*1302 à une résistance à l’hépatite B. HLA-DRB1*04 est associé à une résistance à la typhoïde."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule HLA de classe I est associée à une résistance au paludisme selon le texte ?",
+      "choices": [
+        "HLA-B8.",
+        "HLA-B35.",
+        "HLA-B53.",
+        "HLA-B57."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "HLA-B53 est associé à une résistance au paludisme."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel récepteur activateur des cellules NK interagit avec MIC-A selon le texte ?",
+      "choices": [
+        "KIR.",
+        "NKG2D.",
+        "NKG2A/CD94.",
+        "HLA-E."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "MIC-A peut interagir avec le récepteur activateur NKG2D des cellules NK."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel récepteur inhibiteur des cellules NK est cité comme pouvant interagir avec HLA-E ?",
+      "choices": [
+        "NKG2D.",
+        "CD3.",
+        "NKG2A/CD94.",
+        "MIC-A."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "HLA-E peut interagir avec le récepteur inhibiteur NKG2A/CD94."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association HLA de classe II correspond à une susceptibilité à l’hépatite B ?",
+      "choices": [
+        "HLA-DRB1*1302.",
+        "HLA-DRB1*1101.",
+        "HLA-DR7.",
+        "HLA-DRB1*04."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "HLA-DR7 est associé à une susceptibilité à l’hépatite B, tandis que HLA-DRB1*1302 est associé à une résistance à l’hépatite B."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’origine des peptides principalement présentés par les molécules HLA-I classiques selon le texte ?",
+      "choices": [
+        "Peptides endogènes.",
+        "Peptides exogènes.",
+        "Peptides exclusivement bactériens extracellulaires.",
+        "Peptides transfusionnels."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les molécules HLA-I classiques induisent une réponse immunitaire contre des peptides endogènes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle application du système HLA vise directement à comparer un donneur et un receveur ?",
+      "choices": [
+        "Évaluation de la compatibilité donneur-receveur.",
+        "Détermination de la charge virale.",
+        "Mesure de la cytotoxicité spontanée des neutrophiles.",
+        "Choix d’un traitement antipaludique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite l’évaluation de la compatibilité entre donneur et receveur comme application médicale du système HLA."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la reconnaissance des antigènes par le système immunitaire selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les corps étrangers reconnus par le système immunitaire sont appelés antigènes.",
+        "Les antigènes doivent être reconnus par les lymphocytes T et B pour induire une réponse immunitaire.",
+        "La reconnaissance des antigènes par les lymphocytes T nécessite une présentation par des molécules membranaires spécialisées.",
+        "Les lymphocytes T reconnaissent directement tous les antigènes sans intervention de molécules présentatrices."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les antigènes sont des corps étrangers reconnus par l’immunité. Pour les lymphocytes T, la reconnaissance nécessite une présentation par des molécules spécialisées du CMH/HLA."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la région HLA-III, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comprend des gènes codant certaines protéines du complément.",
+        "C4A et C4B sont cités comme appartenant à cette région.",
+        "Elle comprend des gènes impliqués dans la réponse immune, notamment TNF-α et LT-β.",
+        "Elle code les molécules de présentation HLA-DR, HLA-DP et HLA-DQ."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La région HLA-III contient notamment C4A, C4B, TNF-α et LT-β. Les molécules HLA-DR, DP et DQ relèvent de la région HLA-II."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la région HLA-II, quels éléments sont décrits comme associés aux molécules HLA-II ou à la présentation antigénique, en dehors des gènes HLA-DR, HLA-DP et HLA-DQ ?",
+      "choices": [
+        "HLA-DM",
+        "HLA-DO",
+        "TAP",
+        "HLA-B"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-DM et HLA-DO sont associés aux molécules HLA-II ; TAP est associé à la présentation antigénique. HLA-B appartient à la région HLA-I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules HLA-I like MIC-A et MIC-B, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont situées dans la région HLA-I.",
+        "Elles sont impliquées dans la réponse cytotoxique des cellules NK.",
+        "Elles appartiennent aux gènes HLA-I like.",
+        "Elles codent les protéines du complément C4A et C4B."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "MIC-A et MIC-B sont des gènes HLA-I like de la région HLA-I, impliqués dans la réponse cytotoxique NK. C4A et C4B relèvent de HLA-III."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules HLA-I non classiques citées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-E, HLA-F et HLA-G en font partie.",
+        "Elles sont impliquées notamment dans la tolérance immunitaire.",
+        "Elles participent à la réponse des cellules NK.",
+        "Elles correspondent aux molécules HLA-DR, HLA-DP et HLA-DQ."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-I non classiques citées sont HLA-E, HLA-F et HLA-G. Elles sont impliquées notamment dans la tolérance immunitaire et la réponse NK."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation de la chaîne lourde des molécules HLA-I, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est une chaîne lourde glycosylée α.",
+        "Elle comprend trois domaines extracellulaires : α1, α2 et α3.",
+        "Elle comprend un domaine transmembranaire et un domaine cytoplasmique.",
+        "Le site de liaison du peptide antigénique est formé par le domaine α3 et la β2-microglobuline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La chaîne lourde HLA-I est glycosylée et comporte α1, α2, α3, un domaine transmembranaire et un domaine cytoplasmique. Le site peptidique est formé par α1 et α2."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les domaines impliqués dans la liaison du peptide antigénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans HLA-I, les domaines α1 et α2 forment le site de liaison du peptide.",
+        "Dans HLA-II, les domaines α1 et β1 forment le site de liaison du peptide.",
+        "Dans HLA-II, le site de liaison du peptide est formé par α2 et β2.",
+        "Le polymorphisme extrême des molécules HLA-I et HLA-II est principalement localisé au niveau du site de liaison au peptide."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le sillon peptidique est formé par α1/α2 pour HLA-I et par α1/β1 pour HLA-II. Le polymorphisme siège surtout dans cette zone."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tissus à privilège immunitaire cités pour l’expression des molécules HLA-I classiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Le cerveau peut avoir une expression nulle ou faible.",
+        "Le testicule peut avoir une expression nulle ou faible.",
+        "La cornée peut avoir une expression nulle ou faible.",
+        "Les macrophages sont cités comme tissu à privilège immunitaire à expression nulle ou faible."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite le cerveau, le testicule et la cornée comme tissus où l’expression HLA-I classique peut être nulle ou faible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la modulation inflammatoire de l’expression HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "L’expression des molécules HLA-I peut être induite par des cytokines inflammatoires.",
+        "L’IFN-γ est cité comme cytokine capable d’induire l’expression HLA-I.",
+        "L’expression des molécules HLA-II peut être induite au cours de l’inflammation sur d’autres types cellulaires.",
+        "Les molécules HLA-II ne peuvent jamais être induites en dehors des cellules présentatrices d’antigènes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que l’IFN-γ peut induire HLA-I et que HLA-II peut être induit lors de l’inflammation sur d’autres cellules."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les peptides présentés par les molécules HLA-I, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont principalement endogènes.",
+        "Ils proviennent de protéines intracellulaires.",
+        "Ils peuvent être issus de protéines virales.",
+        "Ils sont exclusivement issus d’antigènes internalisés par les cellules présentatrices d’antigènes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-I présentent surtout des peptides endogènes issus de protéines intracellulaires, notamment virales ou tumorales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les peptides présentés par les molécules HLA-II, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont principalement exogènes.",
+        "Ils proviennent d’antigènes internalisés par les cellules présentatrices d’antigènes.",
+        "Ils sont présentés par des molécules exprimées constitutivement sur les cellules dendritiques, lymphocytes B, monocytes et macrophages.",
+        "Ils sont principalement issus de protéines intracellulaires tumorales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-II présente principalement des peptides exogènes issus d’antigènes internalisés par les CPA. Les protéines intracellulaires tumorales relèvent surtout de HLA-I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’intérêt du polymorphisme HLA à l’échelle d’une population, quelles propositions sont exactes ?",
+      "choices": [
+        "Une grande variabilité HLA augmente la probabilité qu’une partie de la population réponde efficacement à un nouveau pathogène.",
+        "Certains types HLA peuvent être incapables d’induire une réponse immunitaire efficace contre certains agents pathogènes.",
+        "Le polymorphisme HLA est principalement localisé au niveau du site de liaison au peptide.",
+        "Une faible variabilité HLA garantit une meilleure réponse collective à tout nouveau pathogène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diversité HLA favorise la capacité collective de réponse à de nouveaux pathogènes, car les types HLA diffèrent dans leur aptitude à présenter les peptides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la liaison génétique des loci HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Les loci HLA-A, HLA-B, HLA-C, HLA-DR, HLA-DQ et HLA-DP sont distincts.",
+        "Ces loci sont étroitement liés sur le chromosome 6.",
+        "La transmission se fait le plus souvent en bloc sous forme d’haplotypes.",
+        "Les recombinaisons entre ces loci sont décrites comme fréquentes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les loci HLA sont distincts mais proches sur le chromosome 6. Ils sont transmis le plus souvent en bloc, avec de rares recombinaisons."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hétérozygotie, l’homozygotie et l’expression codominante HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Chaque allèle présent sur chaque haplotype HLA est exprimé.",
+        "Un individu possède pour chaque locus un allèle d’origine paternelle et un allèle d’origine maternelle.",
+        "Un individu hétérozygote pour un locus possède deux allèles différents à ce locus.",
+        "Un individu homozygote pour un locus présente nécessairement deux allèles détectables différents."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’expression est codominante. L’hétérozygotie correspond à deux allèles différents ; l’homozygotie donne un seul allèle détectable pour le locus concerné."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’être humain, quel nom porte le complexe majeur d’histocompatibilité ?",
+      "choices": [
+        "Système HLA",
+        "Système TAP",
+        "Système CLIP",
+        "Système MIC"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Chez l’humain, le CMH est appelé système HLA."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la chaîne légère associée aux molécules HLA-I ?",
+      "choices": [
+        "β2-microglobuline",
+        "Chaîne invariante",
+        "Chaîne β de HLA-II",
+        "Peptide CLIP"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les molécules HLA-I sont des dimères formés d’une chaîne lourde α et d’une chaîne légère β2-microglobuline."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément de la région HLA-II est cité comme impliqué dans le protéasome ?",
+      "choices": [
+        "LMP",
+        "HLA-G",
+        "C4A",
+        "LT-β"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite TAP et LMP comme gènes associés à la présentation antigénique, impliqués dans le protéasome."
+    },
+    {
+      "type": "QCS",
+      "question": "Combien d’antigènes HLA-DP un individu exprime-t-il généralement selon le texte ?",
+      "choices": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique qu’un individu exprime généralement 2 antigènes HLA-DP."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une fratrie, quelle est la probabilité d’être haplo-identique selon le texte ?",
+      "choices": [
+        "25 %",
+        "50 %",
+        "75 %",
+        "100 %"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans une fratrie, 50 % des enfants sont haplo-identiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Comment appelle-t-on l’association d’allèles HLA observée plus fréquemment que ne le voudrait le hasard ?",
+      "choices": [
+        "Déséquilibre de liaison",
+        "Expression codominante",
+        "Homozygotie",
+        "Présentation croisée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le déséquilibre de liaison correspond à l’association de certains allèles HLA plus fréquente que prévu par le hasard."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une analyse centrée sur les infections mycobactériennes, quelles associations HLA rapportées dans le texte traduisent une susceptibilité ?",
+      "choices": [
+        "HLA-B8 et tuberculose pulmonaire",
+        "HLA-DR2 et tuberculose pulmonaire",
+        "HLA-DR2 et lèpre",
+        "HLA-DRB1*04 et typhoïde"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte associe HLA-B8 et HLA-DR2 à une susceptibilité à la tuberculose pulmonaire, et HLA-DR2 à une susceptibilité à la lèpre. HLA-DRB1*04 est associé à une résistance à la typhoïde."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les associations HLA de classe I avec l’infection par le VIH, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-B35 est associé à une susceptibilité à l’infection par le VIH",
+        "HLA-B57 est associé à une résistance à l’infection par le VIH",
+        "HLA-B35 et HLA-B57 appartiennent aux associations HLA de classe I citées",
+        "HLA-B53 est associé à une résistance à l’infection par le VIH"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique HLA-B35 comme facteur de susceptibilité au VIH et HLA-B57 comme facteur de résistance au VIH. HLA-B53 est associé à la résistance au paludisme."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des hépatites virales et des associations HLA de classe II citées, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-DRB1*1302 est associé à une résistance à l’hépatite B",
+        "HLA-DR7 est associé à une susceptibilité à l’hépatite B",
+        "HLA-DRB1*1101 est associé à une résistance à l’hépatite C",
+        "HLA-DRB1*1101 est associé à une susceptibilité à l’hépatite B"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue HLA-DRB1*1302, protecteur vis-à-vis de l’hépatite B, HLA-DR7, associé à une susceptibilité à l’hépatite B, et HLA-DRB1*1101, associé à une résistance à l’hépatite C."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le paludisme, quelles associations HLA rapportées dans le texte correspondent à une résistance ?",
+      "choices": [
+        "HLA-B53",
+        "HLA-DRB1*1352",
+        "HLA-B8",
+        "HLA-DR7"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La résistance au paludisme est associée à HLA-B53 pour la classe I et à HLA-DRB1*1352 pour la classe II. HLA-B8 est lié à la tuberculose pulmonaire et HLA-DR7 à l’hépatite B."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les couples suivants, lesquels correspondent à une susceptibilité infectieuse selon le texte ?",
+      "choices": [
+        "HLA-B8 — tuberculose pulmonaire",
+        "HLA-B35 — infection par le VIH",
+        "HLA-DR2 — lèpre",
+        "HLA-DRB1*04 — typhoïde"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-B8, HLA-B35 et HLA-DR2 sont associés à des susceptibilités infectieuses. HLA-DRB1*04 est associé à une résistance à la typhoïde."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules HLA-I classiques dans le rôle immunologique décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles induisent une réponse immunitaire contre des peptides endogènes",
+        "Elles interviennent dans l’immunité antitumorale par présentation d’antigènes du soi modifiés",
+        "Elles interviennent dans l’immunité antivirale par présentation d’antigènes viraux intracellulaires",
+        "Elles induisent principalement une réponse contre des peptides exogènes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HLA-I classiques présentent des peptides endogènes, notamment des antigènes du soi modifiés en immunité antitumorale et des antigènes viraux intracellulaires en immunité antivirale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules HLA-II classiques, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elles induisent une réponse contre des peptides exogènes",
+        "La réponse qu’elles induisent est nécessaire à l’immunité humorale",
+        "La réponse qu’elles induisent est nécessaire à l’immunité cellulaire",
+        "Leur rôle est limité à l’immunité antibactérienne"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HLA-II classiques présentent des peptides exogènes et participent à l’immunité humorale et cellulaire. Leur rôle n’est pas limité aux bactéries, car le texte cite aussi l’immunité antitumorale et antivirale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’immunité antitumorale impliquant les molécules HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Les molécules HLA-I classiques peuvent présenter des antigènes du soi modifiés",
+        "Les molécules HLA-I classiques participent à l’induction d’une réponse contre des peptides endogènes",
+        "Les molécules HLA-II classiques sont également citées dans l’immunité antitumorale",
+        "Le texte réserve exclusivement l’immunité antitumorale aux molécules HLA-I"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les HLA-I dans l’immunité antitumorale par présentation d’antigènes du soi modifiés, mais mentionne aussi les HLA-II dans l’immunité antitumorale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’immunité antivirale et les associations HLA avec le VIH, quelles propositions sont exactes ?",
+      "choices": [
+        "Les molécules HLA-I classiques interviennent dans l’immunité antivirale par présentation d’antigènes viraux intracellulaires",
+        "Les molécules HLA-II classiques sont citées comme nécessaires à une réponse antivirale",
+        "HLA-B57 est associé à une résistance à l’infection par le VIH",
+        "HLA-B35 est associé à une résistance à l’infection par le VIH"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’immunité antivirale implique les HLA-I pour les antigènes viraux intracellulaires et les HLA-II sont aussi cités dans l’immunité antivirale. Pour le VIH, HLA-B57 est protecteur tandis que HLA-B35 est associé à la susceptibilité."
+    },
+    {
+      "type": "QCM",
+      "question": "En situation de stress cellulaire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le stress cellulaire peut survenir lors d’une infection",
+        "Le stress cellulaire peut survenir lors d’une transformation tumorale",
+        "Certaines molécules du soi peuvent être modifiées ou induites",
+        "Le stress cellulaire est décrit uniquement dans les infections bactériennes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’infection et la transformation tumorale comme situations de stress cellulaire, avec modification ou induction de molécules du soi."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant MIC-A et l’activation cytotoxique des cellules NK, quelles propositions sont exactes ?",
+      "choices": [
+        "MIC-A peut être exprimée lors d’un stress cellulaire",
+        "MIC-A peut interagir avec le récepteur activateur NKG2D",
+        "L’interaction MIC-A–NKG2D favorise l’activation cytotoxique des cellules NK",
+        "MIC-A est présentée comme un ligand inhibiteur de KIR"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "MIC-A est induite lors du stress cellulaire et interagit avec NKG2D, récepteur activateur des cellules NK. Le texte ne la présente pas comme ligand inhibiteur de KIR."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’inhibition de la cytotoxicité des cellules NK, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-C peut interagir avec des récepteurs inhibiteurs des cellules NK",
+        "HLA-E peut interagir avec des récepteurs inhibiteurs des cellules NK",
+        "KIR et NKG2A/CD94 sont cités parmi les récepteurs inhibiteurs impliqués",
+        "Une diminution de l’expression des molécules HLA inhibitrices renforce l’inhibition des cellules NK"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-C et HLA-E peuvent interagir avec KIR ou NKG2A/CD94, entraînant une inhibition de la cytotoxicité. Une diminution des HLA inhibitrices réduit cette inhibition et favorise l’activation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant HLA-E dans la régulation des cellules NK, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-E peut interagir avec des récepteurs inhibiteurs des cellules NK",
+        "HLA-E est citée avec NKG2A/CD94 dans l’inhibition de la cytotoxicité NK",
+        "Lors d’un stress cellulaire, HLA-E peut charger des peptides dérivés de protéines de stress",
+        "HLA-E est décrite comme le ligand activateur principal de NKG2D"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-E participe à l’inhibition via des récepteurs tels que NKG2A/CD94 et peut charger des peptides dérivés de protéines de stress. Le ligand activateur de NKG2D cité est MIC-A."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les utilisations médicales suivantes du système HLA, lesquelles sont explicitement citées dans le texte ?",
+      "choices": [
+        "Transplantation d’organes",
+        "Greffe de moelle osseuse",
+        "Évaluation de la compatibilité entre donneur et receveur",
+        "Certaines situations transfusionnelles"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite explicitement la transplantation d’organes, la greffe de moelle osseuse, l’évaluation de la compatibilité donneur-receveur et certaines situations transfusionnelles."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel marqueur HLA de classe I est associé à une susceptibilité à l’infection par le VIH selon le texte ?",
+      "choices": [
+        "HLA-B35",
+        "HLA-B57",
+        "HLA-B53",
+        "HLA-B8"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "HLA-B35 est associé à une susceptibilité à l’infection par le VIH. HLA-B57 est associé à une résistance au VIH."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel marqueur HLA de classe II est associé à une résistance à la typhoïde selon le texte ?",
+      "choices": [
+        "HLA-DRB1*04",
+        "HLA-DR7",
+        "HLA-DR2",
+        "HLA-DRB1*1302"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte associe HLA-DRB1*04 à une résistance à la typhoïde."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel marqueur HLA est associé à une susceptibilité à la lèpre selon le texte ?",
+      "choices": [
+        "HLA-DR2",
+        "HLA-DRB1*1352",
+        "HLA-B53",
+        "HLA-DRB1*1101"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "HLA-DR2 est associé à une susceptibilité à la lèpre, ainsi qu’à une susceptibilité à la tuberculose pulmonaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule peut être exprimée lors d’un stress cellulaire et favoriser une voie activatrice des cellules NK ?",
+      "choices": [
+        "MIC-A",
+        "HLA-DR7",
+        "HLA-DRB1*1302",
+        "HLA-B8"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "MIC-A peut être exprimée lors d’un stress cellulaire et interagir avec NKG2D, favorisant l’activation cytotoxique des cellules NK."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, les molécules HLA-II classiques induisent principalement une réponse immunitaire contre quel type de peptides ?",
+      "choices": [
+        "Peptides exogènes",
+        "Peptides viraux intracellulaires exclusivement",
+        "Peptides dérivés de protéines de stress uniquement",
+        "Peptides du soi modifiés exclusivement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les molécules HLA-II classiques induisent une réponse immunitaire contre des peptides exogènes."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les applications médicales du système HLA, quelle finalité correspond à l’identification de sujets à risque ?",
+      "choices": [
+        "Certaines pathologies immunologiques ou infectieuses",
+        "La mesure directe de la charge virale",
+        "La détermination du groupe sanguin ABO",
+        "Le diagnostic histologique d’une tumeur"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que le système HLA peut être utilisé pour identifier des sujets à risque pour certaines pathologies immunologiques ou infectieuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conditions de reconnaissance antigénique décrites dans l’introduction, quelles propositions sont exactes ?",
+      "choices": [
+        "Les corps étrangers reconnus par le système immunitaire sont appelés antigènes.",
+        "La reconnaissance par les lymphocytes T nécessite une présentation par des molécules membranaires spécialisées.",
+        "Chez l’être humain, le complexe majeur d’histocompatibilité correspond au système HLA.",
+        "Les lymphocytes B nécessitent toujours une présentation par les molécules HLA pour reconnaître un antigène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que les antigènes sont reconnus par les lymphocytes T et B, mais que la présentation par des molécules spécialisées est nécessaire pour la reconnaissance par les lymphocytes T."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une analyse fonctionnelle de la région HLA-III, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle comporte des gènes codant certaines protéines du complément comme C4A et C4B.",
+        "Elle comporte des gènes impliqués dans la réponse immune comme TNF-α et LT-β.",
+        "Elle contient les gènes HLA-A, HLA-B et HLA-C.",
+        "Elle fait partie des trois grandes régions du système HLA."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La région HLA-III contient notamment C4A, C4B, TNF-α et LT-β. Les gènes HLA-A, HLA-B et HLA-C appartiennent à la région HLA-I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les points communs structuraux entre les molécules HLA-I et HLA-II, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des structures dimériques.",
+        "Elles comportent des domaines transmembranaire et cytoplasmique.",
+        "Leur site de liaison au peptide implique des domaines extracellulaires.",
+        "Elles contiennent toutes une β2-microglobuline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-I et HLA-II sont dimériques et membranaires, avec des domaines extracellulaires impliqués dans la liaison peptidique. La β2-microglobuline est propre aux molécules HLA-I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les différences structurales entre HLA-I et HLA-II, quelles propositions sont justes ?",
+      "choices": [
+        "Les molécules HLA-I comprennent une chaîne lourde α glycosylée associée à la β2-microglobuline.",
+        "Les molécules HLA-II comprennent une chaîne α et une chaîne β.",
+        "Dans HLA-I, les domaines α1 et α2 forment le site de liaison du peptide.",
+        "Dans HLA-II, le domaine α3 interagit avec la β2-microglobuline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-I est formée d’une chaîne lourde α et de la β2-microglobuline ; HLA-II est formée de deux chaînes α et β. Le domaine α3 interagit avec la β2-microglobuline uniquement dans HLA-I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’expression des molécules HLA-I classiques dans les tissus, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont exprimées constitutivement dans la majorité des tissus.",
+        "Leur expression est nulle ou faible dans le cerveau, le testicule et la cornée.",
+        "Leur expression peut être induite par l’IFN-γ.",
+        "Elles sont totalement absentes de toutes les cellules immunitaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique une expression large des HLA-I classiques, faible ou nulle dans certains tissus à privilège immunitaire, et inductible par l’IFN-γ."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’expression des molécules HLA-II, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elles sont exprimées constitutivement par les cellules dendritiques, les lymphocytes B, les monocytes et les macrophages.",
+        "Leur expression peut être induite au cours de l’inflammation sur d’autres types cellulaires.",
+        "Elles sont exprimées constitutivement dans la majorité des tissus comme les HLA-I classiques.",
+        "Leur expression constitutive est limitée aux seuls lymphocytes B."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les HLA-II sont constitutivement exprimées par les cellules présentatrices d’antigènes et peuvent être induites sur d’autres cellules en contexte inflammatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la nature des peptides présentés et l’intensité de la réponse immunitaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Les molécules HLA-I présentent principalement des peptides endogènes issus de protéines intracellulaires.",
+        "Les molécules HLA-II présentent principalement des peptides exogènes issus d’antigènes internalisés.",
+        "Un peptide de forte affinité pour un type HLA est présenté en quantité plus importante aux lymphocytes T.",
+        "Un peptide de faible affinité pour un type HLA est mieux présenté et induit une réponse plus forte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La présentation dépend de l’origine des peptides et de leur affinité pour le sillon HLA. Une faible affinité entraîne une présentation moins efficace."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont explicitement impliqués dans le chargement des molécules HLA-II selon le texte ?",
+      "choices": [
+        "La chaîne invariante.",
+        "Le peptide CLIP.",
+        "HLA-DO.",
+        "HLA-DM."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le chargement des HLA-II implique la chaîne invariante, CLIP, HLA-DM, les compartiments de chargement et des enzymes lysosomales. HLA-DO est cité comme gène associé aux molécules HLA-II, mais pas dans la liste du chargement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement des antigènes destinés à la présentation par HLA-II, quelles propositions sont exactes ?",
+      "choices": [
+        "Il implique des compartiments de chargement des molécules HLA-II.",
+        "Il peut faire intervenir des enzymes lysosomales comme la cathepsine S.",
+        "Il concerne principalement des antigènes internalisés par les cellules présentatrices d’antigènes.",
+        "Il concerne principalement des protéines virales intracellulaires destinées aux HLA-I."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HLA-II présentent surtout des peptides exogènes internalisés, avec intervention de compartiments spécialisés et d’enzymes lysosomales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conséquences du polymorphisme HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Le polymorphisme des molécules HLA-I et HLA-II est extrême.",
+        "Il est principalement localisé au niveau du site de liaison au peptide.",
+        "Certains types HLA peuvent être incapables d’induire une réponse efficace contre certains agents pathogènes.",
+        "La variabilité HLA d’une population ne modifie pas sa capacité de réponse à un nouveau pathogène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le polymorphisme HLA influence la capacité de présentation des peptides. Une grande variabilité dans une population augmente les chances qu’une partie réponde efficacement à un nouveau pathogène."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’expression codominante des gènes HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Chaque allèle présent sur chaque haplotype HLA est exprimé.",
+        "Pour chaque locus, un individu possède un allèle d’origine paternelle et un allèle d’origine maternelle.",
+        "Un individu homozygote pour un locus peut n’avoir qu’un seul allèle détectable à ce locus.",
+        "L’expression codominante signifie que seuls les allèles maternels sont exprimés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’expression codominante signifie que les allèles paternels et maternels sont exprimés. En cas d’homozygotie, un seul allèle peut être détectable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le nombre habituel d’antigènes HLA exprimés par un individu, quelles propositions sont exactes ?",
+      "choices": [
+        "Un individu exprime généralement 6 antigènes HLA de classe I.",
+        "Un individu exprime généralement 2 à 4 antigènes HLA-DR.",
+        "Un individu exprime généralement 2 antigènes HLA-DP.",
+        "Un individu exprime généralement 4 antigènes HLA-DQ."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique généralement 6 antigènes HLA-I, 2 à 4 HLA-DR, 2 HLA-DP et 2 HLA-DQ."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transmission familiale des loci HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Les loci HLA-A, HLA-B, HLA-C, HLA-DR, HLA-DQ et HLA-DP sont distincts mais étroitement liés.",
+        "La transmission se fait le plus souvent en bloc sous forme d’haplotypes.",
+        "Les recombinaisons entre loci HLA sont fréquentes.",
+        "La compatibilité HLA est importante pour la sélection d’un donneur intrafamilial."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les loci HLA sont étroitement liés et transmis le plus souvent en bloc, avec de rares recombinaisons. Cette notion est essentielle en transplantation et greffe de moelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules HLA-I non classiques et HLA-I like, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-E, HLA-F et HLA-G sont des molécules HLA-I non classiques.",
+        "Les molécules HLA-I non classiques sont notamment impliquées dans la tolérance immunitaire et la réponse des cellules NK.",
+        "MIC-A et MIC-B sont des molécules HLA-I like impliquées dans la réponse cytotoxique des cellules NK.",
+        "MIC-A et MIC-B sont des molécules HLA-I classiques de présentation au même titre que HLA-A, HLA-B et HLA-C."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-E, HLA-F et HLA-G sont non classiques. MIC-A et MIC-B sont HLA-I like, impliquées dans la réponse cytotoxique NK, et ne sont pas des HLA-I classiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple de domaines forme le site de liaison du peptide antigénique dans les molécules HLA-II ?",
+      "choices": [
+        "α1 et α2.",
+        "α2 et β2.",
+        "α1 et β1.",
+        "α3 et β2."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans les molécules HLA-II, les domaines α1 et β1 forment le site de liaison du peptide antigénique."
+    },
+    {
+      "type": "QCS",
+      "question": "Combien d’antigènes HLA-DQ un individu exprime-t-il généralement selon le texte ?",
+      "choices": [
+        "6.",
+        "2.",
+        "2 à 4.",
+        "0."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique qu’un individu exprime généralement 2 antigènes HLA-DQ."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation correspond à une homozygotie pour un locus HLA selon le texte ?",
+      "choices": [
+        "Deux allèles différents sont détectés au même locus.",
+        "Un seul allèle est détectable pour un ou plusieurs loci.",
+        "Aucun allèle n’est exprimé sur l’haplotype paternel.",
+        "Seuls les loci HLA de classe III sont exprimés."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’homozygotie correspond à la présence d’un seul allèle détectable pour un ou plusieurs loci."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel est cité comme une protéine du complément codée dans la région HLA-III ?",
+      "choices": [
+        "C4B.",
+        "HLA-DM.",
+        "TAP.",
+        "HLA-G."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La région HLA-III contient des gènes codant certaines protéines du complément, notamment C4A et C4B."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel peptide est explicitement cité dans le chargement des molécules HLA-II ?",
+      "choices": [
+        "MIC-A.",
+        "LT-β.",
+        "CLIP.",
+        "β2-microglobuline."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le peptide CLIP est cité parmi les éléments impliqués dans le chargement des molécules HLA-II."
+    },
+    {
+      "type": "QCS",
+      "question": "Comment appelle-t-on l’ensemble de gènes HLA transmis le plus souvent en bloc des parents aux enfants ?",
+      "choices": [
+        "Un domaine extracellulaire.",
+        "Un peptide antigénique.",
+        "Un déséquilibre de liaison.",
+        "Un haplotype."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Les gènes HLA sont transmis le plus souvent en bloc sous forme d’haplotypes."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations HLA-infections suivantes, lesquelles attribuent correctement le sens de l’association rapportée ?",
+      "choices": [
+        "HLA-B8 : susceptibilité à la tuberculose pulmonaire",
+        "HLA-B35 : résistance à l’infection par le VIH",
+        "HLA-B53 : résistance au paludisme",
+        "HLA-B57 : susceptibilité à l’infection par le VIH"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte associe HLA-B8 à une susceptibilité à la tuberculose pulmonaire et HLA-B53 à une résistance au paludisme. HLA-B35 est associé à une susceptibilité au VIH, tandis que HLA-B57 est associé à une résistance au VIH."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les associations HLA de classe II rapportées comme protectrices, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-DRB1*1302 est associé à une résistance à l’hépatite B",
+        "HLA-DRB1*1352 est associé à une résistance au paludisme",
+        "HLA-DR7 est associé à une résistance à l’hépatite B",
+        "HLA-DRB1*1101 est associé à une résistance à l’hépatite C"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les résistances de classe II citées sont HLA-DRB1*1302 pour l’hépatite B, HLA-DRB1*1352 pour le paludisme, HLA-DRB1*1101 pour l’hépatite C et HLA-DRB1*04 pour la typhoïde. HLA-DR7 est une association de susceptibilité à l’hépatite B."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour la tuberculose pulmonaire, quelles molécules HLA sont rapportées comme associées à une susceptibilité ?",
+      "choices": [
+        "HLA-B8",
+        "HLA-DR2",
+        "HLA-B57",
+        "HLA-DRB1*04"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La tuberculose pulmonaire est associée à une susceptibilité avec HLA-B8 en classe I et HLA-DR2 en classe II. HLA-B57 concerne la résistance au VIH et HLA-DRB1*04 la résistance à la typhoïde."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des hépatites virales citées, quelles associations sont correctes ?",
+      "choices": [
+        "HLA-DRB1*1302 : résistance à l’hépatite B",
+        "HLA-DR7 : susceptibilité à l’hépatite B",
+        "HLA-DRB1*1101 : résistance à l’hépatite C",
+        "HLA-B53 : résistance à l’hépatite C"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite HLA-DRB1*1302 comme résistance à l’hépatite B, HLA-DR7 comme susceptibilité à l’hépatite B et HLA-DRB1*1101 comme résistance à l’hépatite C. HLA-B53 est associé à la résistance au paludisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les associations HLA avec le paludisme, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-B53 est associé à une résistance au paludisme",
+        "HLA-DRB1*1352 est associé à une résistance au paludisme",
+        "HLA-B35 est associé à une résistance au paludisme",
+        "HLA-DR2 est associé à une résistance au paludisme"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Deux associations de résistance au paludisme sont citées : HLA-B53 en classe I et HLA-DRB1*1352 en classe II. HLA-B35 concerne la susceptibilité au VIH et HLA-DR2 la susceptibilité à la tuberculose pulmonaire et à la lèpre."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’infection par le VIH, quelles propositions sont conformes aux associations HLA de classe I citées ?",
+      "choices": [
+        "HLA-B35 est associé à une susceptibilité à l’infection par le VIH",
+        "HLA-B57 est associé à une résistance à l’infection par le VIH",
+        "HLA-B8 est associé à une résistance à l’infection par le VIH",
+        "HLA-B53 est associé à une susceptibilité à l’infection par le VIH"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte rapporte HLA-B35 comme marqueur de susceptibilité au VIH et HLA-B57 comme marqueur de résistance au VIH. HLA-B8 est lié à la tuberculose pulmonaire et HLA-B53 au paludisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’immunité induite par les molécules HLA-I classiques, quelles affirmations sont exactes ?",
+      "choices": [
+        "Elle concerne des peptides endogènes",
+        "Elle participe à l’immunité antitumorale par présentation d’antigènes du soi modifiés",
+        "Elle participe à l’immunité antivirale par présentation d’antigènes viraux intracellulaires",
+        "Elle repose principalement sur la présentation de peptides exogènes antibactériens"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-I classiques induisent une réponse contre des peptides endogènes, importante en immunité antitumorale et antivirale. Les peptides exogènes relèvent des molécules HLA-II classiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les réponses immunitaires impliquant les molécules HLA-II classiques, quelles propositions sont justes ?",
+      "choices": [
+        "Elles concernent des peptides exogènes",
+        "Elles sont nécessaires à l’immunité humorale",
+        "Elles sont nécessaires à l’immunité cellulaire",
+        "Elles sont limitées à l’immunité antibactérienne"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-II induisent une réponse contre des peptides exogènes et cette réponse est nécessaire à l’immunité humorale et cellulaire. Le texte précise qu’elle intervient notamment dans les réponses antibactérienne, antitumorale et antivirale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations immunologiques sont explicitement reliées aux molécules HLA-II classiques ?",
+      "choices": [
+        "Réponse antibactérienne",
+        "Réponse antitumorale",
+        "Réponse antivirale",
+        "Inhibition directe de la cytotoxicité NK par KIR"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-II classiques sont impliquées dans l’immunité antibactérienne, antitumorale et antivirale. L’inhibition de la cytotoxicité NK par KIR relève des molécules HLA-C ou HLA-E dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’un stress cellulaire, quelles modifications ou conséquences sont rapportées ?",
+      "choices": [
+        "Certaines molécules du soi peuvent être modifiées",
+        "Certaines molécules du soi peuvent être induites",
+        "Les molécules MIC-A peuvent être exprimées",
+        "La cytotoxicité NK est toujours totalement inhibée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En situation de stress cellulaire, notamment infection ou transformation tumorale, des molécules du soi peuvent être modifiées ou induites ; MIC-A peut être exprimée. Le texte ne dit pas que la cytotoxicité NK est toujours inhibée, au contraire elle peut être favorisée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les voies de régulation des cellules NK décrites, quels couples molécule-récepteur-effet sont corrects ?",
+      "choices": [
+        "MIC-A – NKG2D – activation cytotoxique",
+        "HLA-C – KIR – inhibition de la cytotoxicité",
+        "HLA-E – NKG2A/CD94 – inhibition de la cytotoxicité",
+        "MIC-A – NKG2A/CD94 – inhibition de la cytotoxicité"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "MIC-A interagit avec NKG2D et favorise l’activation cytotoxique. HLA-C et HLA-E peuvent interagir avec des récepteurs inhibiteurs comme KIR et NKG2A/CD94, entraînant une inhibition de la cytotoxicité."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes peuvent contribuer à favoriser l’activation des cellules NK selon le texte ?",
+      "choices": [
+        "Expression de MIC-A lors d’un stress cellulaire",
+        "Interaction de MIC-A avec NKG2D",
+        "Diminution de l’expression des molécules HLA inhibitrices",
+        "Augmentation obligatoire de l’inhibition par HLA-C"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "MIC-A exprimée en situation de stress peut interagir avec NKG2D et favoriser l’activation cytotoxique. La diminution des molécules HLA inhibitrices réduit l’inhibition des NK. Le texte ne parle pas d’une augmentation obligatoire de l’inhibition par HLA-C."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant HLA-E dans la régulation des cellules NK, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-E peut interagir avec le récepteur inhibiteur NKG2A/CD94",
+        "HLA-E peut participer à l’inhibition de la cytotoxicité NK",
+        "HLA-E peut charger des peptides dérivés de protéines de stress",
+        "HLA-E est décrite comme interagissant avec NKG2D pour activer les NK"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-E peut interagir avec NKG2A/CD94 et entraîner une inhibition de la cytotoxicité NK. En situation de stress, elle peut charger des peptides dérivés de protéines de stress. L’interaction avec NKG2D concerne MIC-A."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles applications médicales du système HLA sont explicitement mentionnées ?",
+      "choices": [
+        "Transplantation d’organes",
+        "Greffe de moelle osseuse",
+        "Certaines situations transfusionnelles",
+        "Diagnostic direct de toutes les infections bactériennes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la transplantation d’organes, la greffe de moelle osseuse et certaines situations transfusionnelles. Il ne mentionne pas un diagnostic direct de toutes les infections bactériennes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel marqueur HLA est associé à une susceptibilité à l’hépatite B ?",
+      "choices": [
+        "HLA-DRB1*1302",
+        "HLA-DR7",
+        "HLA-DRB1*1101",
+        "HLA-B57"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "HLA-DR7 est associé à une susceptibilité à l’hépatite B. HLA-DRB1*1302 est associé à une résistance à l’hépatite B."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple molécule-récepteur correspond à une voie activatrice des cellules NK décrite dans le texte ?",
+      "choices": [
+        "HLA-C – KIR",
+        "HLA-E – NKG2A/CD94",
+        "MIC-A – NKG2D",
+        "HLA-DR7 – NKG2A/CD94"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "MIC-A peut être exprimée lors d’un stress cellulaire et interagir avec NKG2D, favorisant l’activation cytotoxique des cellules NK."
+    },
+    {
+      "type": "QCS",
+      "question": "En situation de stress cellulaire, quel type de peptides peut être chargé par HLA-E ?",
+      "choices": [
+        "Peptides dérivés de protéines de stress",
+        "Peptides bactériens extracellulaires obligatoirement",
+        "Peptides exclusivement tumoraux du soi modifiés",
+        "Peptides provenant uniquement des immunoglobulines"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que, lors d’un stress cellulaire, HLA-E peut charger des peptides dérivés de protéines de stress, modifiant la reconnaissance par les cellules NK."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel marqueur HLA est associé à une résistance à la typhoïde ?",
+      "choices": [
+        "HLA-DRB1*04",
+        "HLA-DR2",
+        "HLA-B35",
+        "HLA-DR7"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "HLA-DRB1*04 est rapporté comme associé à une résistance à la typhoïde."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel marqueur HLA de classe II est communément cité pour une susceptibilité à la tuberculose pulmonaire et à la lèpre ?",
+      "choices": [
+        "HLA-DR2",
+        "HLA-DR7",
+        "HLA-DRB1*1302",
+        "HLA-DRB1*1352"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "HLA-DR2 est cité comme associé à une susceptibilité à la tuberculose pulmonaire et également à une susceptibilité à la lèpre."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle application du système HLA est directement liée à la mise en évidence d’un terrain de susceptibilité pour certaines pathologies ?",
+      "choices": [
+        "Identification de sujets à risque pour certaines pathologies immunologiques ou infectieuses",
+        "Présentation des peptides viraux intracellulaires",
+        "Activation de NKG2D par MIC-A",
+        "Inhibition des cellules NK par HLA-C"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Parmi les applications médicales, le texte cite l’identification de sujets à risque pour certaines pathologies immunologiques ou infectieuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Un défaut touchant la β2-microglobuline aurait, selon la structure décrite, quelles implications directes sur les molécules HLA ?",
+      "choices": [
+        "Il concernerait la chaîne légère associée aux molécules HLA-I.",
+        "Il perturberait directement la structure dimérique des molécules HLA-II.",
+        "Il impliquerait l’interaction avec le domaine α3 de la chaîne lourde HLA-I.",
+        "Il modifierait directement le site de liaison peptidique formé par α1 et β1."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "La β2-microglobuline est la chaîne légère des molécules HLA-I et interagit avec la chaîne lourde via le domaine α3. Les domaines α1 et β1 concernent le site de liaison des HLA-II."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’un macrophage internalise un antigène exogène, quelles propositions correspondent à la voie de présentation décrite ?",
+      "choices": [
+        "La présentation se fait principalement par des molécules HLA-II.",
+        "Les peptides proviennent d’antigènes internalisés par la cellule présentatrice d’antigène.",
+        "Des enzymes lysosomales comme la cathepsine S peuvent intervenir.",
+        "La présentation repose principalement sur des peptides endogènes viraux ou tumoraux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-II présentent surtout des peptides exogènes internalisés, avec intervention de compartiments de chargement et d’enzymes lysosomales comme la cathepsine S."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la modulation de l’expression HLA au cours d’un contexte inflammatoire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’IFN-γ peut induire l’expression des molécules HLA-I.",
+        "Les molécules HLA-II peuvent être induites sur d’autres types cellulaires que les cellules présentatrices d’antigènes.",
+        "L’expression HLA-I est nulle ou faible dans certains tissus comme le cerveau, le testicule et la cornée.",
+        "L’inflammation abolit l’expression constitutive des molécules HLA-II sur les macrophages."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que l’IFN-γ peut induire HLA-I et que HLA-II peut être induit sur d’autres cellules en inflammation. Il ne mentionne pas d’abolition de HLA-II sur les CPA."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour différencier les régions HLA selon les gènes qu’elles contiennent, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-DM et HLA-DO sont des gènes associés aux molécules HLA-II.",
+        "TAP et LMP sont situés dans la région HLA-II et associés à la présentation antigénique.",
+        "C4A et C4B appartiennent à la région HLA-III et codent certaines protéines du complément.",
+        "TNF-α et LT-β codent des molécules HLA classiques de présentation antigénique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-DM/HLA-DO et TAP/LMP relèvent de la région HLA-II. C4A/C4B relèvent de HLA-III. TNF-α et LT-β sont impliqués dans la réponse immune mais ne sont pas des molécules HLA classiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’affinité entre un peptide antigénique et le sillon HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Une forte affinité favorise une présentation plus importante du peptide aux lymphocytes T.",
+        "Une forte affinité peptide-HLA est associée à une réponse immunitaire plus forte.",
+        "Une faible affinité peut conduire à une réponse immunitaire moins efficace.",
+        "Tous les types HLA induisent une réponse équivalente contre tous les agents pathogènes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte relie directement l’affinité peptide-HLA à la quantité présentée et à l’efficacité de la réponse immunitaire. Certains HLA peuvent être inefficaces contre certains antigènes ou pathogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’expression codominante du système HLA, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "Chaque individu possède, pour chaque locus, un allèle d’origine paternelle et un allèle d’origine maternelle.",
+        "Chaque allèle présent sur chaque haplotype HLA est exprimé.",
+        "Une homozygotie peut se traduire par un seul allèle détectable pour un ou plusieurs loci.",
+        "Un des deux haplotypes est physiologiquement silencieux pour limiter le nombre d’antigènes HLA exprimés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système HLA est codominant : les allèles maternels et paternels sont exprimés. L’homozygotie peut donner un seul allèle détectable. Aucun haplotype n’est décrit comme silencieux."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’étude d’une fratrie en vue d’une greffe intrafamiliale, quelles notions génétiques doivent être prises en compte ?",
+      "choices": [
+        "Les gènes HLA sont transmis le plus souvent en bloc sous forme d’haplotypes.",
+        "Les recombinaisons au sein de la région HLA sont rares.",
+        "La compatibilité HLA est importante pour la sélection d’un donneur intrafamilial en greffe de moelle osseuse.",
+        "Les loci HLA-DR, HLA-DQ et HLA-DP sont indépendants car situés sur des chromosomes différents."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les loci HLA sont étroitement liés sur le chromosome 6 et transmis le plus souvent en bloc. Cette compatibilité est importante en transplantation et greffe de moelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le déséquilibre de liaison dans le système HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à une association d’allèles observée plus fréquemment que ne le voudrait le hasard.",
+        "Il est d’autant plus fort que les loci concernés sont proches.",
+        "Il peut concerner des allèles de classe I et de classe II.",
+        "Il exclut les loci HLA-DR et HLA-DQ car ils appartiennent tous deux à la classe II."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déséquilibre de liaison peut concerner des allèles de classe I et II. Il est particulièrement marqué entre HLA-DR et HLA-DQ."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la structure des molécules HLA-II, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont constituées d’une chaîne α et d’une chaîne β.",
+        "Chaque chaîne comprend deux domaines extracellulaires, un domaine transmembranaire et un domaine cytoplasmique.",
+        "Les domaines α1 et β1 forment le site de liaison du peptide antigénique.",
+        "Elles comportent une chaîne lourde glycosylée associée à la β2-microglobuline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HLA-II sont des dimères α/β. La structure avec chaîne lourde glycosylée et β2-microglobuline correspond aux HLA-I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation structurale des molécules HLA-I, quelles propositions sont exactes ?",
+      "choices": [
+        "Les domaines α1 et α2 forment le site de liaison du peptide antigénique.",
+        "Le domaine α3 interagit avec la β2-microglobuline.",
+        "La chaîne lourde comporte trois domaines extracellulaires, un domaine transmembranaire et un domaine cytoplasmique.",
+        "La β2-microglobuline constitue l’un des trois domaines extracellulaires de la chaîne lourde."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La chaîne lourde HLA-I comprend α1, α2 et α3, plus les domaines transmembranaire et cytoplasmique. La β2-microglobuline est une chaîne légère distincte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules HLA-I non classiques et les molécules HLA-I like, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-E, HLA-F et HLA-G sont des molécules HLA-I non classiques.",
+        "HLA-G est exprimée notamment à l’interface fœto-maternelle et sur certaines cellules immunitaires.",
+        "MIC-A et MIC-B sont impliquées dans la réponse cytotoxique des cellules NK.",
+        "MIC-A et MIC-B constituent des compartiments de chargement des molécules HLA-II."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-E/F/G sont des HLA-I non classiques. MIC-A/MIC-B sont des molécules HLA-I like impliquées dans la réponse cytotoxique NK, et non des compartiments de chargement HLA-II."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conditions générales de reconnaissance antigénique décrites dans l’introduction, quelles propositions sont exactes ?",
+      "choices": [
+        "Les corps étrangers reconnus par le système immunitaire sont appelés antigènes.",
+        "Pour induire une réponse immunitaire, les antigènes doivent être reconnus par les lymphocytes T et B.",
+        "La reconnaissance par les lymphocytes T nécessite une prise en charge et une présentation par des molécules membranaires spécialisées.",
+        "Le texte indique que les lymphocytes B reconnaissent obligatoirement les antigènes uniquement après présentation HLA."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise l’exigence de présentation par des molécules spécialisées pour les lymphocytes T. Il ne formule pas cette obligation pour les lymphocytes B."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le nombre habituel d’antigènes HLA exprimés par un individu, quelles propositions sont exactes ?",
+      "choices": [
+        "Un individu exprime généralement 6 antigènes HLA de classe I.",
+        "Un individu exprime généralement 2 à 4 antigènes HLA-DR.",
+        "Un individu exprime généralement 2 antigènes HLA-DP et 2 antigènes HLA-DQ.",
+        "Un individu exprime généralement 6 antigènes HLA-DP."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique 6 antigènes HLA de classe I, 2 à 4 HLA-DR, 2 HLA-DP et 2 HLA-DQ."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’échelle d’une population, quelles propositions découlent du polymorphisme HLA décrit ?",
+      "choices": [
+        "Les molécules HLA-I et HLA-II présentent un polymorphisme extrême.",
+        "Ce polymorphisme est principalement localisé au niveau du site de liaison au peptide.",
+        "Une grande variabilité HLA augmente la probabilité qu’une partie de la population réponde efficacement à un nouveau pathogène.",
+        "Le polymorphisme HLA concerne principalement les domaines cytoplasmiques des molécules HLA."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le polymorphisme HLA est extrême, surtout localisé au sillon peptidique, et constitue un avantage populationnel face à de nouveaux pathogènes."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les molécules suivantes, laquelle correspond à une molécule HLA-I classique de présentation ?",
+      "choices": [
+        "HLA-A",
+        "HLA-E",
+        "MIC-A",
+        "HLA-DQ"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les molécules HLA-I classiques sont HLA-A, HLA-B et HLA-C."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément cité dans le texte correspond à une enzyme lysosomale impliquée dans le chargement des molécules HLA-II ?",
+      "choices": [
+        "CLIP",
+        "HLA-DM",
+        "Cathepsine S",
+        "TAP"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La cathepsine S est explicitement citée comme enzyme lysosomale intervenant dans le chargement HLA-II."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les cellules suivantes, laquelle exprime constitutivement les molécules HLA-II selon le texte ?",
+      "choices": [
+        "Cellule neuronale",
+        "Macrophage",
+        "Cellule testiculaire",
+        "Cellule cornéenne"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les macrophages font partie des cellules présentatrices d’antigènes exprimant constitutivement HLA-II."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle région HLA se situe le gène LT-β cité comme impliqué dans la réponse immune ?",
+      "choices": [
+        "HLA-I",
+        "HLA-II",
+        "HLA-III",
+        "HLA-I like"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La région HLA-III contient notamment des gènes impliqués dans la réponse immune, dont TNF-α et LT-β."
+    },
+    {
+      "type": "QCS",
+      "question": "Lequel des éléments suivants est un gène associé aux molécules HLA-II, sans être l’un des gènes HLA-DR, HLA-DP ou HLA-DQ ?",
+      "choices": [
+        "HLA-DM",
+        "HLA-A",
+        "C4A",
+        "MIC-B"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "HLA-DM est cité comme gène associé aux molécules HLA-II. HLA-A est HLA-I classique, C4A relève de HLA-III et MIC-B est HLA-I like."
+    },
+    {
+      "type": "QCS",
+      "question": "Si un typage HLA ne met en évidence qu’un seul allèle détectable pour un locus donné, quelle interprétation correspond au texte ?",
+      "choices": [
+        "Hétérozygotie pour ce locus",
+        "Homozygotie pour ce locus",
+        "Absence de transmission maternelle",
+        "Recombinaison obligatoire au locus concerné"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’un individu homozygote pour un ou plusieurs loci peut avoir un seul allèle détectable."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon le texte, quelles infections présentent à la fois un marqueur HLA de susceptibilité et un marqueur HLA de résistance ?",
+      "choices": [
+        "Infection par le VIH : HLA-B35 et HLA-B57",
+        "Hépatite B : HLA-DR7 et HLA-DRB1*1302",
+        "Tuberculose pulmonaire : HLA-B8 et HLA-DR2",
+        "Paludisme : HLA-B53 et HLA-DRB1*1352"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le VIH associe HLA-B35 à la susceptibilité et HLA-B57 à la résistance. L’hépatite B associe HLA-DR7 à la susceptibilité et HLA-DRB1*1302 à la résistance."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles infections citées possèdent des associations HLA rapportées à la fois en classe I et en classe II ?",
+      "choices": [
+        "Tuberculose pulmonaire",
+        "Paludisme",
+        "Infection par le VIH",
+        "Hépatite B"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La tuberculose pulmonaire est associée à HLA-B8 et HLA-DR2. Le paludisme est associé à HLA-B53 et HLA-DRB1*1352."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les infections suivantes, lesquelles ne sont associées qu’à une résistance HLA dans le texte, sans marqueur de susceptibilité cité ?",
+      "choices": [
+        "Paludisme",
+        "Hépatite C",
+        "Typhoïde",
+        "Hépatite B"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le paludisme, l’hépatite C et la typhoïde sont associés à des marqueurs de résistance. L’hépatite B comporte à la fois une résistance et une susceptibilité."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles infections sont uniquement associées à une susceptibilité HLA dans le texte, sans résistance mentionnée ?",
+      "choices": [
+        "Tuberculose pulmonaire",
+        "Lèpre",
+        "Infection par le VIH",
+        "Hépatite B"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La tuberculose pulmonaire est associée à HLA-B8 et HLA-DR2 comme facteurs de susceptibilité. La lèpre est associée à HLA-DR2 comme facteur de susceptibilité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les associations HLA de classe II orientées vers une résistance infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-DRB1*1302 est associé à une résistance à l’hépatite B",
+        "HLA-DRB1*1352 est associé à une résistance au paludisme",
+        "HLA-DRB1*1101 est associé à une résistance à l’hépatite C",
+        "HLA-DRB1*04 est associé à une résistance à la typhoïde"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre associations de classe II sont rapportées dans le texte comme des résistances infectieuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les associations HLA avec les infections virales citées, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "HLA-DRB1*1302 est associé à une résistance à l’hépatite B",
+        "HLA-DR7 est associé à une susceptibilité à l’hépatite B",
+        "HLA-DRB1*1101 est associé à une résistance à l’hépatite C",
+        "HLA-DRB1*1352 est associé à une résistance à l’infection par le VIH"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-DRB1*1352 concerne la résistance au paludisme, et non l’infection par le VIH."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des molécules HLA-I classiques dans l’immunité, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles induisent une réponse contre des peptides endogènes",
+        "Elles participent à l’immunité antivirale par présentation d’antigènes viraux intracellulaires",
+        "Elles induisent principalement une réponse contre des peptides exogènes",
+        "Elles sont décrites comme nécessaires à l’immunité humorale et cellulaire"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les molécules HLA-I classiques présentent des peptides endogènes, notamment des antigènes viraux intracellulaires. L’immunité humorale et cellulaire est reliée dans le texte aux HLA-II."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules HLA-II classiques, quelles propositions sont justes selon le texte ?",
+      "choices": [
+        "Elles induisent une réponse contre des peptides exogènes",
+        "Elles sont nécessaires à l’immunité humorale et cellulaire",
+        "Elles interviennent notamment dans les réponses antibactérienne, antitumorale et antivirale",
+        "Elles présentent préférentiellement des antigènes viraux intracellulaires comme rôle principal décrit"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HLA-II présentent des peptides exogènes et sont nécessaires aux réponses humorale et cellulaire, notamment antibactérienne, antitumorale et antivirale."
+    },
+    {
+      "type": "QCM",
+      "question": "En situation de stress cellulaire, quelles modifications ou conséquences sont explicitement décrites ?",
+      "choices": [
+        "Certaines molécules du soi peuvent être modifiées ou induites",
+        "Les molécules MIC-A peuvent être exprimées",
+        "HLA-E peut charger des peptides dérivés de protéines de stress",
+        "La cytotoxicité NK est toujours inhibée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le stress cellulaire peut modifier ou induire des molécules du soi, exprimer MIC-A et permettre à HLA-E de charger des peptides de stress. L’activation NK peut au contraire être favorisée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes favorisent l’activation cytotoxique des cellules NK selon le texte ?",
+      "choices": [
+        "Interaction de MIC-A avec NKG2D",
+        "Diminution de l’expression des molécules HLA inhibitrices",
+        "Modification du soi réduisant l’inhibition des cellules NK",
+        "Interaction de HLA-C avec KIR comme signal activateur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "MIC-A/NKG2D active les NK. La baisse des HLA inhibitrices ou la modification du soi réduit l’inhibition. HLA-C/KIR est une voie inhibitrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les signaux inhibiteurs des cellules NK décrits dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-C peut interagir avec des récepteurs KIR",
+        "HLA-E peut interagir avec NKG2A/CD94",
+        "MIC-A interagit avec NKG2D pour inhiber la cytotoxicité NK",
+        "La diminution des molécules HLA inhibitrices renforce l’inhibition NK"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "HLA-C et HLA-E peuvent délivrer des signaux inhibiteurs via KIR et NKG2A/CD94. MIC-A/NKG2D est activateur, et la diminution des HLA inhibitrices favorise l’activation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant HLA-E dans la régulation des cellules NK, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-E peut interagir avec un récepteur inhibiteur des cellules NK",
+        "HLA-E peut charger des peptides dérivés de protéines de stress",
+        "HLA-E participe à la régulation de la cytotoxicité NK",
+        "HLA-E est décrite comme une molécule HLA-II classique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-E est impliquée dans la régulation NK, notamment via NKG2A/CD94, et peut charger des peptides de stress. Elle n’est pas décrite comme une HLA-II classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles utilisations du système HLA sont citées en plus de la transplantation d’organes ?",
+      "choices": [
+        "Greffe de moelle osseuse",
+        "Certaines situations transfusionnelles",
+        "Étude des associations entre HLA et maladies",
+        "Identification de sujets à risque pour certaines pathologies immunologiques ou infectieuses"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces applications sont explicitement citées dans le texte parmi les usages médicaux du système HLA."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une démarche visant à repérer un terrain de risque lié au HLA, quelles propositions correspondent aux applications citées ?",
+      "choices": [
+        "Étudier les associations entre HLA et maladies",
+        "Identifier des sujets à risque pour certaines pathologies immunologiques ou infectieuses",
+        "Évaluer la compatibilité donneur-receveur",
+        "Utiliser le système HLA dans certaines situations transfusionnelles"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le repérage d’un terrain de risque repose sur l’étude des associations HLA-maladies et l’identification de sujets à risque. Les autres propositions sont des applications HLA mais ne ciblent pas directement ce repérage."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle infection est associée à HLA-DR2 comme facteur de susceptibilité, sans association HLA de classe I citée dans le texte ?",
+      "choices": [
+        "Tuberculose pulmonaire",
+        "Lèpre",
+        "Paludisme",
+        "Infection par le VIH"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La lèpre est associée à HLA-DR2 comme facteur de susceptibilité. La tuberculose pulmonaire a aussi une association de classe I avec HLA-B8."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel marqueur HLA de classe I est associé à une résistance à l’infection par le VIH ?",
+      "choices": [
+        "HLA-B35",
+        "HLA-B57",
+        "HLA-B53",
+        "HLA-B8"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "HLA-B57 est associé à une résistance à l’infection par le VIH, alors que HLA-B35 est associé à une susceptibilité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel marqueur HLA de classe II est associé à une résistance à l’hépatite C ?",
+      "choices": [
+        "HLA-DRB1*1302",
+        "HLA-DRB1*1101",
+        "HLA-DRB1*04",
+        "HLA-DR7"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "HLA-DRB1*1101 est associé à une résistance à l’hépatite C."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors d’un stress cellulaire, quelle interaction favorise directement l’activation cytotoxique des cellules NK ?",
+      "choices": [
+        "HLA-C avec KIR",
+        "HLA-E avec NKG2A/CD94",
+        "MIC-A avec NKG2D",
+        "HLA-DR7 avec NKG2D"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "MIC-A peut être exprimée lors d’un stress cellulaire et interagir avec NKG2D, ce qui favorise l’activation cytotoxique des cellules NK."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle application médicale citée correspond spécifiquement à une greffe hématologique ?",
+      "choices": [
+        "Transplantation d’organes",
+        "Greffe de moelle osseuse",
+        "Certaines situations transfusionnelles",
+        "Étude des associations HLA-maladies"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La greffe de moelle osseuse est l’application citée correspondant à une greffe hématologique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association résume correctement l’origine des peptides présentés par les molécules HLA classiques ?",
+      "choices": [
+        "HLA-I : peptides exogènes ; HLA-II : peptides endogènes",
+        "HLA-I : peptides endogènes ; HLA-II : peptides exogènes",
+        "HLA-I : protéines de stress uniquement ; HLA-II : antigènes du soi modifiés uniquement",
+        "HLA-I : peptides bactériens uniquement ; HLA-II : peptides viraux intracellulaires uniquement"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les HLA-I classiques induisent une réponse contre des peptides endogènes, tandis que les HLA-II classiques induisent une réponse contre des peptides exogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "Une anomalie structurale touchant spécifiquement le domaine α3 de la chaîne lourde HLA-I aurait quelles implications directes selon le texte ?",
+      "choices": [
+        "Elle peut perturber l’interaction avec la β2-microglobuline.",
+        "Elle touche directement les domaines formant le site de liaison du peptide antigénique.",
+        "Elle épargne théoriquement le couple de domaines α1-α2 qui forme le sillon de liaison peptidique.",
+        "Elle correspond à une anomalie de la chaîne légère cytoplasmique des molécules HLA-I."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Dans les molécules HLA-I, la chaîne lourde interagit avec la β2-microglobuline par le domaine α3. Le site de liaison du peptide est formé par les domaines α1 et α2."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’architecture moléculaire des protéines HLA-II, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont constituées d’une chaîne α et d’une chaîne β.",
+        "Chaque chaîne comporte deux domaines extracellulaires, un domaine transmembranaire et un domaine cytoplasmique.",
+        "Elles nécessitent une β2-microglobuline comme chaîne légère.",
+        "Le site de liaison du peptide antigénique est formé par les domaines α1 et β1."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les molécules HLA-II sont des dimères α/β. Chaque chaîne possède deux domaines extracellulaires, un domaine transmembranaire et un domaine cytoplasmique. Le sillon peptidique est formé par α1 et β1."
+    },
+    {
+      "type": "QCM",
+      "question": "Un peptide issu d’une protéine intracellulaire virale ou tumorale possède une forte affinité pour un sillon HLA donné. Quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Il relève principalement de la présentation par les molécules HLA-I.",
+        "Son origine est compatible avec une protéine endogène intracellulaire.",
+        "Il correspond principalement à un antigène exogène internalisé par une cellule présentatrice.",
+        "Sa forte affinité favorise une présentation importante et une réponse T plus forte."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les molécules HLA-I présentent surtout des peptides endogènes issus de protéines intracellulaires, notamment virales ou tumorales. Une forte affinité pour le sillon HLA augmente la présentation et l’intensité de la réponse immunitaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours d’un contexte inflammatoire, quelles modifications d’expression HLA sont décrites ?",
+      "choices": [
+        "L’expression des molécules HLA-I peut être induite par des cytokines inflammatoires.",
+        "L’expression des molécules HLA-II peut être induite sur d’autres types cellulaires que les cellules présentatrices d’antigènes constitutives.",
+        "L’inflammation abolit l’expression constitutive des molécules HLA-I dans la majorité des tissus.",
+        "L’IFN-γ est une cytokine inflammatoire explicitement citée comme inductrice."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte indique que l’expression HLA-I peut être induite par des cytokines inflammatoires, notamment l’IFN-γ, et que les molécules HLA-II peuvent être induites sur d’autres types cellulaires au cours de l’inflammation."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de HLA-G, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Il s’agit d’une molécule HLA-I non classique.",
+        "Elle est exprimée à l’interface fœto-maternelle.",
+        "Elle peut être exprimée sur certaines cellules immunitaires.",
+        "Elle est codée dans la région HLA-III avec TNF-α et LT-β."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-G fait partie des molécules HLA-I non classiques. Le texte cite son expression à l’interface fœto-maternelle et sur certaines cellules immunitaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’interprétation d’un typage HLA individuel, quelles propositions sont compatibles avec les caractéristiques générales du système HLA ?",
+      "choices": [
+        "Un seul allèle détectable pour un locus peut correspondre à une homozygotie.",
+        "L’expression codominante signifie que chaque allèle présent sur chaque haplotype est exprimé.",
+        "La présence d’un seul allèle détectable à un locus signifie nécessairement l’absence d’allèle d’origine paternelle ou maternelle.",
+        "Un individu exprime généralement 6 antigènes HLA de classe I."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Chaque individu possède un allèle paternel et un allèle maternel pour chaque locus. En cas d’homozygotie, un seul allèle peut être détectable. L’expression est codominante, et l’expression habituelle comporte 6 antigènes HLA de classe I."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une stratégie de recherche d’un donneur intrafamilial, quelles propositions découlent de la liaison génétique HLA décrite ?",
+      "choices": [
+        "Les gènes HLA sont transmis le plus souvent en bloc sous forme d’haplotypes.",
+        "Dans une fratrie, 25 % des enfants sont HLA-identiques.",
+        "Dans une fratrie, 50 % des enfants sont HLA différents.",
+        "La compatibilité HLA est importante pour la transplantation d’organe ou la greffe de moelle osseuse."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les loci HLA sont étroitement liés et transmis le plus souvent en bloc. Dans une fratrie : 25 % sont HLA-identiques, 50 % haplo-identiques et 25 % HLA différents. Cette compatibilité guide la sélection du donneur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le déséquilibre de liaison HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à une association d’allèles plus fréquente que ne le voudrait le hasard.",
+        "Il peut concerner des allèles de classe I et de classe II.",
+        "Il devient d’autant plus fort que les loci sont éloignés.",
+        "Il est particulièrement marqué entre HLA-DR et HLA-DQ."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le déséquilibre de liaison désigne une association non aléatoire d’allèles HLA. Il peut concerner les classes I et II, il est plus fort lorsque les loci sont proches, et il est particulièrement marqué entre HLA-DR et HLA-DQ."
+    },
+    {
+      "type": "QCM",
+      "question": "Si un peptide pathogène présente une faible affinité pour un type HLA donné, quelles conséquences sont attendues selon le texte ?",
+      "choices": [
+        "Il sera moins bien présenté.",
+        "La réponse immunitaire dirigée contre lui sera moins efficace.",
+        "Certains types HLA peuvent ainsi être incapables d’induire une réponse efficace contre certains agents pathogènes.",
+        "Cette situation est indépendante du polymorphisme localisé au niveau du site de liaison au peptide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une faible affinité peptide-HLA entraîne une moins bonne présentation et une réponse immunitaire moins efficace. Le polymorphisme HLA, surtout localisé au sillon peptidique, explique ces différences de présentation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la région HLA-III, quelles propositions sont correctes d’après le texte ?",
+      "choices": [
+        "Elle contient des gènes codant certaines protéines du complément comme C4A et C4B.",
+        "Elle contient des gènes impliqués dans la réponse immune comme TNF-α et LT-β.",
+        "Elle regroupe les gènes HLA-A, HLA-B et HLA-C.",
+        "Elle ne correspond pas à la région des molécules classiques de présentation HLA-I ou HLA-II."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La région HLA-III comprend notamment C4A, C4B, TNF-α et LT-β. Les gènes HLA-A, HLA-B et HLA-C appartiennent à la région HLA-I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conditions générales de reconnaissance antigénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les corps étrangers reconnus par le système immunitaire sont appelés antigènes.",
+        "Pour être reconnus par les lymphocytes T, les antigènes doivent être pris en charge et présentés par des molécules membranaires spécialisées.",
+        "Les lymphocytes B sont exclus de la reconnaissance des antigènes dans le texte.",
+        "Chez l’être humain, le complexe majeur d’histocompatibilité est appelé système HLA."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte définit les antigènes comme des corps étrangers reconnus par le système immunitaire. Les lymphocytes T nécessitent une présentation par des molécules spécialisées du CMH, appelé système HLA chez l’être humain."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les cellules suivantes, lesquelles expriment constitutivement les molécules HLA-II selon le texte ?",
+      "choices": [
+        "Cellules dendritiques.",
+        "Lymphocytes B.",
+        "Monocytes et macrophages.",
+        "Cellules testiculaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-II sont exprimées constitutivement sur les cellules présentatrices d’antigènes : cellules dendritiques, lymphocytes B, monocytes et macrophages."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie de chargement des molécules HLA-II, quelles propositions sont justes ?",
+      "choices": [
+        "Elle concerne principalement des peptides issus d’antigènes internalisés.",
+        "Elle implique des compartiments de chargement des molécules HLA-II.",
+        "Elle fait intervenir des éléments tels que la chaîne invariante et le peptide CLIP.",
+        "Elle est dédiée exclusivement aux peptides issus de protéines tumorales intracellulaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA-II présentent surtout des peptides exogènes issus d’antigènes internalisés. Leur chargement implique notamment la chaîne invariante, CLIP, HLA-DM, des compartiments spécialisés et des enzymes lysosomales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules HLA-I like et HLA-I non classiques citées, quelles propositions sont exactes ?",
+      "choices": [
+        "MIC-A et MIC-B sont des molécules HLA-I like.",
+        "MIC-A et MIC-B sont impliquées dans la réponse cytotoxique des cellules NK.",
+        "HLA-E, HLA-F et HLA-G sont des molécules HLA-I non classiques.",
+        "MIC-A et MIC-B correspondent aux molécules classiques HLA-A, HLA-B et HLA-C."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue les molécules HLA-I classiques HLA-A, HLA-B et HLA-C, les molécules HLA-I non classiques HLA-E, HLA-F et HLA-G, et les molécules HLA-I like MIC-A et MIC-B impliquées dans la réponse cytotoxique NK."
+    },
+    {
+      "type": "QCS",
+      "question": "Sur quel chromosome sont situés les gènes HLA chez l’être humain ?",
+      "choices": [
+        "Chromosome 1.",
+        "Chromosome 6.",
+        "Chromosome 9.",
+        "Chromosome 22."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que les gènes HLA sont situés sur le chromosome 6."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une molécule HLA-I, quelle chaîne est décrite comme lourde et glycosylée ?",
+      "choices": [
+        "La chaîne α.",
+        "La chaîne β.",
+        "La β2-microglobuline.",
+        "La chaîne invariante."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les protéines HLA-I sont composées d’une chaîne lourde glycosylée α et d’une chaîne légère β2-microglobuline."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule HLA non classique est explicitement citée comme exprimée à l’interface fœto-maternelle ?",
+      "choices": [
+        "HLA-A.",
+        "HLA-B.",
+        "HLA-G.",
+        "HLA-DQ."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte cite notamment HLA-G parmi les molécules HLA-I non classiques exprimées à l’interface fœto-maternelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel pourcentage d’enfants d’une fratrie est HLA différent selon la transmission décrite ?",
+      "choices": [
+        "10 %.",
+        "25 %.",
+        "50 %.",
+        "75 %."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans une fratrie, le texte indique 25 % d’enfants HLA-identiques, 50 % haplo-identiques et 25 % HLA différents."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est cité comme gène associé aux molécules HLA-II sans être un gène HLA-DR, HLA-DP ou HLA-DQ ?",
+      "choices": [
+        "HLA-DO.",
+        "C4B.",
+        "TNF-α.",
+        "MIC-B."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans la région HLA-II, le texte cite HLA-DM et HLA-DO comme gènes associés aux molécules HLA-II."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple de loci présente un déséquilibre de liaison particulièrement marqué selon le texte ?",
+      "choices": [
+        "HLA-A et HLA-G.",
+        "HLA-B et MIC-A.",
+        "HLA-DR et HLA-DQ.",
+        "HLA-DP et HLA-F."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que le déséquilibre de liaison est particulièrement marqué entre HLA-DR et HLA-DQ."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une situation de transformation tumorale, quelles propositions décrivent correctement les rôles HLA rapportés ?",
+      "choices": [
+        "Les molécules HLA-I classiques peuvent présenter des antigènes du soi modifiés.",
+        "Les molécules HLA-II classiques peuvent participer à une réponse antitumorale.",
+        "Les molécules HLA-I classiques induisent une réponse contre des peptides endogènes.",
+        "Les molécules HLA-II classiques induisent exclusivement une réponse antibactérienne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que HLA-I présente des peptides endogènes, notamment des antigènes du soi modifiés en immunité antitumorale. HLA-II induit une réponse contre des peptides exogènes et intervient notamment dans l’immunité antibactérienne, antitumorale et antivirale."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations suivantes, lesquelles correspondent à un marqueur HLA rapporté comme facteur de résistance ?",
+      "choices": [
+        "HLA-B53 et paludisme.",
+        "HLA-DRB1*1352 et paludisme.",
+        "HLA-DRB1*1302 et hépatite B.",
+        "HLA-DR7 et hépatite B."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-B53 et HLA-DRB1*1352 sont associés à une résistance au paludisme ; HLA-DRB1*1302 est associé à une résistance à l’hépatite B. HLA-DR7 est au contraire associé à une susceptibilité à l’hépatite B."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions comportent une inversion du sens de l’association HLA-maladie par rapport au texte ?",
+      "choices": [
+        "HLA-B53 : susceptibilité au paludisme.",
+        "HLA-DRB1*04 : susceptibilité à la typhoïde.",
+        "HLA-DRB1*1302 : susceptibilité à l’hépatite B.",
+        "HLA-B57 : susceptibilité à l’infection par le VIH."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions inversent le sens indiqué : HLA-B53, HLA-DRB1*04, HLA-DRB1*1302 et HLA-B57 sont rapportés comme marqueurs de résistance, non de susceptibilité."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’un stress cellulaire lié à une infection ou à une transformation tumorale, quelles conséquences sont conformes au texte ?",
+      "choices": [
+        "Certaines molécules du soi peuvent être modifiées ou induites.",
+        "MIC-A peut être exprimée et favoriser l’activation cytotoxique des cellules NK.",
+        "Une diminution des molécules HLA inhibitrices peut favoriser l’activation des cellules NK.",
+        "Le stress cellulaire supprime toute interaction entre HLA-E et les cellules NK."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le stress cellulaire peut induire ou modifier des molécules du soi, notamment MIC-A, et diminuer les signaux inhibiteurs, ce qui favorise l’activation NK. Le texte ne dit pas que HLA-E perd toute interaction avec les cellules NK."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant HLA-E en contexte de stress cellulaire, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-E peut charger des peptides dérivés de protéines de stress.",
+        "Le chargement de peptides de stress par HLA-E peut modifier la reconnaissance par les cellules NK.",
+        "HLA-E peut interagir avec le récepteur inhibiteur NKG2A/CD94.",
+        "HLA-E est décrit comme le ligand activateur principal de NKG2D."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-E peut charger des peptides issus de protéines de stress et interagir avec des récepteurs inhibiteurs des cellules NK, notamment NKG2A/CD94. Le ligand activateur de NKG2D cité est MIC-A."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les applications médicales du système HLA, quelles utilisations sont explicitement mentionnées ?",
+      "choices": [
+        "Transplantation d’organes.",
+        "Certaines situations transfusionnelles.",
+        "Étude des associations entre HLA et maladies.",
+        "Choix direct d’une antibiothérapie probabiliste."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la transplantation d’organes, certaines situations transfusionnelles et l’étude des associations HLA-maladies. Il ne mentionne pas le choix direct d’une antibiothérapie probabiliste."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le cadre de l’immunité antivirale, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les molécules HLA-I classiques présentent des antigènes viraux intracellulaires.",
+        "Les molécules HLA-II classiques participent notamment à une réponse antivirale.",
+        "HLA-B35 est associé à une susceptibilité à l’infection par le VIH.",
+        "HLA-B57 est associé à une résistance à l’infection par le VIH."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte relie HLA-I à la présentation d’antigènes viraux intracellulaires, HLA-II à une réponse notamment antivirale, HLA-B35 à la susceptibilité au VIH et HLA-B57 à la résistance au VIH."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations suivantes, lesquelles correspondent à une susceptibilité sans notion de résistance dans la proposition elle-même ?",
+      "choices": [
+        "HLA-B8 et tuberculose pulmonaire.",
+        "HLA-DR2 et lèpre.",
+        "HLA-DR7 et hépatite B.",
+        "HLA-DRB1*1101 et hépatite C."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-B8 est associé à la susceptibilité à la tuberculose pulmonaire, HLA-DR2 à la susceptibilité à la lèpre, et HLA-DR7 à la susceptibilité à l’hépatite B. HLA-DRB1*1101 est associé à une résistance à l’hépatite C."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations HLA de classe II protectrices sont correctement rapportées ?",
+      "choices": [
+        "HLA-DRB1*1302 : résistance à l’hépatite B.",
+        "HLA-DRB1*1101 : résistance à l’hépatite C.",
+        "HLA-DRB1*04 : résistance à la typhoïde.",
+        "HLA-DR2 : résistance à la lèpre."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-DRB1*1302, HLA-DRB1*1101 et HLA-DRB1*04 sont respectivement associés à une résistance à l’hépatite B, à l’hépatite C et à la typhoïde. HLA-DR2 est associé à une susceptibilité à la lèpre."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une démarche de greffe ou de don, quelles utilisations du système HLA sont citées ?",
+      "choices": [
+        "Greffe de moelle osseuse.",
+        "Évaluation de la compatibilité entre donneur et receveur.",
+        "Transplantation d’organes.",
+        "Détermination de la charge virale du receveur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système HLA est utilisé pour la greffe de moelle osseuse, la transplantation d’organes et l’évaluation de la compatibilité donneur-receveur. La détermination de la charge virale n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’origine des peptides présentés par les molécules HLA classiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Les molécules HLA-I classiques induisent une réponse contre des peptides endogènes.",
+        "Les molécules HLA-II classiques induisent une réponse contre des peptides exogènes.",
+        "Les molécules HLA-I classiques sont importantes dans la réponse contre des antigènes viraux intracellulaires.",
+        "Les molécules HLA-II classiques sont limitées aux peptides endogènes tumoraux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-I présente des peptides endogènes, notamment viraux intracellulaires. HLA-II présente des peptides exogènes et n’est pas limité aux peptides endogènes tumoraux."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des récepteurs inhibiteurs des cellules NK décrits dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-C peut interagir avec des récepteurs inhibiteurs des cellules NK.",
+        "HLA-E peut interagir avec des récepteurs inhibiteurs des cellules NK.",
+        "KIR est cité parmi les récepteurs inhibiteurs impliqués.",
+        "NKG2D est cité comme récepteur inhibiteur de HLA-C."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "HLA-C et HLA-E peuvent interagir avec des récepteurs inhibiteurs des cellules NK, notamment KIR et NKG2A/CD94. NKG2D est le récepteur activateur interagissant avec MIC-A."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la régulation de la cytotoxicité NK par les molécules HLA-I non classiques et HLA-like, quelles propositions sont justes ?",
+      "choices": [
+        "Ces molécules participent à la régulation de la cytotoxicité des cellules NK.",
+        "MIC-A peut être induite en situation de stress cellulaire.",
+        "La modification du soi peut réduire l’inhibition des cellules NK.",
+        "L’activation NK décrite dépend uniquement des molécules HLA-II classiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue aux molécules HLA-I non classiques et HLA-like un rôle dans la régulation NK. MIC-A peut être induite par le stress, et la modification du soi peut réduire l’inhibition. HLA-II n’est pas présenté comme le mécanisme d’activation NK décrit."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les associations HLA de classe I listées, quelles propositions sont exactes ?",
+      "choices": [
+        "HLA-B8 est associé à une susceptibilité à la tuberculose pulmonaire.",
+        "HLA-B35 est associé à une susceptibilité à l’infection par le VIH.",
+        "HLA-B53 est associé à une résistance au paludisme.",
+        "HLA-B57 est associé à une résistance à l’infection par le VIH."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les quatre associations correspondent exactement aux associations HLA de classe I rapportées dans le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule exprimée lors d’un stress cellulaire interagit avec le récepteur activateur NKG2D des cellules NK ?",
+      "choices": [
+        "HLA-C.",
+        "HLA-E.",
+        "MIC-A.",
+        "HLA-DR2."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "MIC-A peut être exprimée lors d’un stress cellulaire et interagir avec le récepteur activateur NKG2D des cellules NK."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel marqueur HLA de classe II est associé à une résistance au paludisme ?",
+      "choices": [
+        "HLA-DRB1*1352.",
+        "HLA-DR7.",
+        "HLA-DR2.",
+        "HLA-DRB1*04."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "HLA-DRB1*1352 est associé à une résistance au paludisme."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle application du système HLA correspond directement à la confrontation immunogénétique entre un donneur et un receveur ?",
+      "choices": [
+        "Évaluation de la compatibilité entre donneur et receveur.",
+        "Mesure de la cytotoxicité spontanée des neutrophiles.",
+        "Dosage des anticorps antiviraux circulants.",
+        "Détermination d’une sensibilité bactérienne aux antibiotiques."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite explicitement l’évaluation de la compatibilité entre donneur et receveur comme application médicale du système HLA."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel marqueur HLA est associé à une susceptibilité à l’hépatite B ?",
+      "choices": [
+        "HLA-DRB1*1302.",
+        "HLA-DR7.",
+        "HLA-DRB1*1101.",
+        "HLA-B57."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "HLA-DR7 est associé à une susceptibilité à l’hépatite B. HLA-DRB1*1302 est associé à une résistance à l’hépatite B."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, les molécules HLA-II classiques induisent principalement une réponse immunitaire contre quels peptides ?",
+      "choices": [
+        "Peptides endogènes uniquement.",
+        "Peptides exogènes.",
+        "Peptides dérivés exclusivement de protéines de stress.",
+        "Peptides présentés uniquement aux cellules NK."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les molécules HLA-II classiques permettent d’induire une réponse immunitaire contre des peptides exogènes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel récepteur inhibiteur des cellules NK est explicitement cité comme pouvant interagir avec HLA-E ?",
+      "choices": [
+        "NKG2A/CD94.",
+        "NKG2D.",
+        "CD28.",
+        "BCR."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "HLA-E peut interagir avec des récepteurs inhibiteurs des cellules NK, notamment NKG2A/CD94."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T19:34:39.432Z"
+}

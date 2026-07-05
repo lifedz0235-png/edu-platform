@@ -1,418 +1,656 @@
 import fs from "fs";
+import path from "path";
 
-let id = 1;
+const videosRoot = "public/videos";
+const pdfRoot = "public/pdfs";
+const outFile = "public/data/cours.json";
+const supportExts = [".pdf", ".doc", ".docx", ".ppt", ".pptx"];
 
-function makeCourses(list, basePath) {
-  return list.map(file => ({
-    id: id++,
-    title: file.replace(".mp4", "").replace(/-/g, " "),
-    video: basePath + file
-  }));
+function norm(s) {
+  return s
+    .toLowerCase()
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    .replace(/\.(mp4|pdf|docx?|pptx?|ppt)$/i, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
 }
 
-const data = [
-  {
-    category: "biologie",
-    modules: [
-      {
-        name: "anatomopathologie",
-        courses: makeCourses([
-          "les-metastases.mp4",
-          "classification-des-tumeurs.mp4",
-          "processus-inflammatoire.mp4",
-          "les-amyloses-congestion.mp4",
-          "aterosclerose.mp4",
-          "la-cellule-cancereuse.mp4",
-          "atelier.mp4"
-        ], "/videos/biologie/anatomopathologie/")
-      },
-      {
-        name: "biochimie",
-        courses: makeCourses([
-          "metabolisme-des-glucides.mp4",
-          "glycemie.mp4",
-          "metabolisme-des-lipides.mp4",
-          "metabolisme-phospho-calcique.mp4",
-          "metabolisme-de-fer.mp4",
-          "metabolisme-des-proteines.mp4",
-          "metabolisme-des-acides-gras.mp4",
-          "equilibre-acide-base.mp4",
-          "atelier-1.mp4",
-          "atelier-2.mp4"
-        ], "/videos/biologie/biochimie/")
-      },
-      {
-        name: "genetique",
-        courses: makeCourses([
-          "le-gene.mp4",
-          "le-gene-suite.mp4",
-          "genetique-mendelienne.mp4",
-          "atelier-genetique.mp4"
-        ], "/videos/biologie/genetique/")
-      },
-      {
-        name: "histologie-embriologie",
-        courses: makeCourses([
-          "a-seance-orientation.mp4",
-          "b-appareil-genital-feminin.mp4",
-          "c-appareil-genital-masculin.mp4",
-          "d-la-glande-surrenale.mp4",
-          "e-la-thyroide.mp4",
-          "f-hypophyse.mp4",
-          "j-tissu-musculaire.mp4",
-          "h-appareil-cardio-circulatoire.mp4",
-          "k-oreille.mp4",
-          "l-oeil.mp4"
-        ], "/videos/biologie/histologie-embriologie/")
-      },
-      {
-        name: "immunologie",
-        courses: makeCourses([
-          "a-seance-orientation.mp4",
-          "b-immunologie-innee-a-immunologie-specifique.mp4",
-          "c-les-immunoglobulines.mp4",
-          "d-le-systeme-de-complement.mp4",
-          "e-le-systeme-hla.mp4",
-          "f-rimc.mp4",
-          "j-les-etats-hypersensibilite.mp4",
-          "h-les-etats-hypersensibilites-suite.mp4",
-          "atelier-immunologie.mp4",
-          "atelier-immunologie-suite.mp4"
-        ], "/videos/biologie/immunologie/")
-      },
-      {
-        name: "microbiologie",
-        courses: makeCourses([
-          "seance-orientation-microbiologie.mp4",
-          "les-micro-organismes.mp4",
-          "les-micro-organismes-1.mp4",
-          "les-micro-organismes-2.mp4",
-          "prelevements.mp4",
-          "diagnostique-virologique.mp4",
-          "atelier-immunologie.mp4"
-        ], "/videos/biologie/microbiologie/")
-      },
-      {
-        name: "neurophysiologie",
-        courses: makeCourses([
-          "influx-nerveux.mp4",
-          "physiologie-du-systeme-nerveux-autonome.mp4",
-          "physiologie-du-muscle-strie.mp4",
-          "atelier-neurophysiologie.mp4"
-        ], "/videos/biologie/neurophysiologie/")
-      },
-      {
-        name: "physiologie",
-        courses: makeCourses([
-          "seance-orientation-physiologie.mp4",
-          "hemodynamique-intra-cardiaque.mp4",
-          "le-debit-cardiaque.mp4",
-          "les-compartiments-liquidienne.mp4",
-          "les-compartiments-liquidienne-suite.mp4",
-          "pression-arteriel-et-sa-regulation.mp4",
-          "equilibre-acido-basique.mp4",
-          "equilibre-acido-basique-qcm.mp4",
-          "les-etats-de-choc.mp4",
-          "physiologie-respiratoire.mp4",
-          "la-ventilation-respiratoire.mp4",
-          "le-ventilation-alveolaire.mp4",
-          "atelier-physiologie.mp4"
-        ], "/videos/biologie/physiologie/")
-      }
-    ]
-  },
 
-  {
-    category: "chirurgie",
-    modules: [
-      {
-        name: "cci",
-        courses: makeCourses([
-          "les-occlusions-neonatale.mp4",
-          "atresie-de-oesophage.mp4",
-          "lch.mp4",
-          "osteomyelite.mp4",
-          "atelier-cci.mp4"
-        ], "/videos/chirurgie/cci/")
-      },
-      {
-        name: "chirurgie-generale",
-        courses: makeCourses([
-          "seance-orientation-chirurgie-generale.mp4",
-          "appendicite-aigue-peritonite-aigue.mp4",
-          "hernie-parietale-hemorragie-digestive.mp4",
-          "lv-pancreatite-aigue.mp4",
-          "syndrome-occlusif.mp4",
-          "tumeur-oesophage.mp4",
-          "cancer-pancreas-voies-biliaires.mp4",
-          "cancer-colo-rectal.mp4",
-          "ischemie-des-membres-inferieurs-brulures.mp4",
-          "khf.mp4",
-          "atelier-chirurgie-generale.mp4"
-        ], "/videos/chirurgie/chirurgie-generale/")
-      },
-      {
-        name: "gynecologie",
-        courses: makeCourses([
-          "geu-fibrome-uterin.mp4",
-          "hta-et-grossesse.mp4",
-          "hemorragie-de-la-delivrance.mp4",
-          "cancer-du-col-uterin.mp4",
-          "tumeurs-de-l-ovaire.mp4",
-          "cancer-du-sein.mp4",
-          "placenta-praevia.mp4",
-          "atelier-gynecologie.mp4"
-        ], "/videos/chirurgie/gynecologie/")
-      },
-      {
-        name: "neurochirurgie",
-        courses: makeCourses([
-          "hic.mp4",
-          "hemorragie-meningee.mp4",
-          "hed.mp4",
-          "atelier-neurochirurgie.mp4",
-          "atelier-neurochirurgie-suite.mp4"
-        ], "/videos/chirurgie/neurochirurgie/")
-      },
-      {
-        name: "ophtalmologie",
-        courses: makeCourses([
-          "les-glaucomes.mp4",
-          "cataracte.mp4",
-          "atelier-ophtalmologie.mp4"
-        ], "/videos/chirurgie/ophtalmologie/")
-      },
-      {
-        name: "orl",
-        courses: makeCourses([
-          "otite-moyenne-aigue.mp4",
-          "maladie-de-meniere.mp4",
-          "anatomie-naso-sinusienne.mp4",
-          "cancer-de-larynx.mp4",
-          "cancer-de-cavum.mp4",
-          "atelier-ORL.mp4"
-        ], "/videos/chirurgie/orl/")
-      },
-      {
-        name: "traumatologie",
-        courses: makeCourses([
-          "luxation-traumatique-de-la-hanche.mp4",
-          "fracture-de-col-de-femure.mp4",
-          "fracture-de-jambe.mp4",
-          "polytrauma.mp4",
-          "tumeurs-osseuses.mp4",
-          "atelier-traumatologie.mp4"
-        ], "/videos/chirurgie/traumatologie/")
-      },
-      {
-        name: "urologie",
-        courses: makeCourses([
-          "a-adenome-de-prostate.mp4",
-          "b-cancer-de-prostate.mp4",
-          "c-cancer-de-vessie.mp4",
-          "c-cancer-de-vessie-suite.mp4",
-          "d-tumeurs-de-rein.mp4",
-          "e-cancer-des-testicules.mp4",
-          "f-retention-aigue-des-urines.mp4",
-          "atelier-urologie.mp4"
-        ], "/videos/chirurgie/urologie/")
-      }
-    ]
-  },
+const moduleAliases = {
+  microbiologie: ["microbiologie", "microbiolog"],
+  neurophysiologie: ["neurophysio", "neurophysiologie"],
+  physiologie: ["physiologie", "physio"],
+  cci: ["cci"],
+  "chirurgie-generale": ["chirurgie-general", "chirurgie-generale", "chirurgie general"],
+  gynecologie: ["gyneco", "gynecologie", "gynecobst"],
+  ophtalmologie: ["ophtalmo", "ophtalmologie"],
+  cardiologie: ["cardiologie", "cardio"],
+  epidemiologie: ["epidemio", "epidemiologie"],
+  gastrologie: ["gastro", "gastrologie"],
+  hematologie: ["hematologie", "hemato"],
+  infectieux: ["infectieux", "infectiologie"],
+  "medecine-travail": ["medecine-travail", "medecine de travaille", "medecine travail"],
+  "medecine-legale": ["medecine-legal", "medecine legale", "medecine legal"],
+  nephrologie: ["nephrologie", "nephro"],
+  neurologie: ["neurologie", "neuro"],
+  pediatrie: ["pediatrie"],
+  psychiatrie: ["psychiatrie", "psy"],
+  rhumatologie: ["rhumatologie", "rhumato"]
+};
+const manualOrder = {
+  "anatomopathologie": [
+    "les-metastases",
+    "classification-des-tumeurs",
+    "processus-inflammatoire",
+    "les-amyloses-congestion",
+    "aterosclerose",
+    "la-cellule-cancereuse",
+    "atelier"
+  ],
 
-  {
-    category: "medicale",
-    modules: [
-      {
-        name: "cardiologie",
-        courses: makeCourses([
-          "pericardite-aigue.mp4",
-          "insuffisance-mitrale.mp4",
-          "retrecissement-aortique.mp4",
-          "insuffisance-aortique.mp4",
-          "endocardite-infectieuse.mp4",
-          "oap.mp4",
-          "embolie-pulmonaire.mp4",
-          "tvp.mp4",
-          "sca.mp4",
-          "atelier-cardiologie.mp4",
-          "atelier-cardiologie-1mp4",
-          "atelier-cardiologie-2.mp4"
-        ], "/videos/medicale/cardiologie/")
-      },
-      {
-        name: "dermatologie",
-        courses: makeCourses([
-          "psoriasis.mp4",
-          "les-eczemas.mp4",
-          "les-mycoses-cutanees.mp4",
-          "les-infections-bacteriennes.mp4",
-          "la-tuberculose-cutanee.mp4",
-          "les-ist.mp4",
-          "atelier-dermatologie.mp4"
-        ], "/videos/medicale/dermatologie/")
-      },
-      {
-        name: "endocrinologie",
-        courses: makeCourses([
-          "tumeur-hypophysaire.mp4",
-          "hyperthyroidie.mp4",
-          "insuffisance-surrenale.mp4",
-          "diabete-et-ses-complications.mp4",
-          "complication-du-diabete.mp4"
-        ], "/videos/medicale/endocrinologie/")
-      },
-      {
-        name: "epidemiologie",
-        courses: makeCourses([
-          "les-differents-indicateurs-de-sante.mp4",
-          "epidemiologie-des-maladies-transmissible-et-non-transmissible.mp4",
-          "vaccination.mp4",
-          "atelier-epidemiologie.mp4"
-        ], "/videos/medicale/epidemiologie/")
-      },
-      {
-        name: "gastrologie",
-        courses: makeCourses([
-          "cirrhose-hepatique.mp4",
-          "ascite.mp4",
-          "pancreatite-chronique.mp4",
-          "ictere.mp4",
-          "hepatite-c-et-b.mp4",
-          "ulcer-gastro-duodinale.mp4",
-          "mici.mp4",
-          "digestion-absorption.mp4",
-          "secretion-biliaire.mp4",
-          "atelier-gastrologie.mp4",
-          "atelier-gastrologie-1.mp4",
-          "atelier-gastrologie-2.mp4",
-          "atelier-gastrologie-3.mp4"
-        ], "/videos/medicale/gastrologie/")
-      },
-      {
-        name: "hematologie",
-        courses: makeCourses([
-          "anemie.mp4",
-          "anemie-suite.mp4",
-          "cat-devant-une-anemie.mp4",
-          "cat-devant-une-anemie-suite.mp4",
-          "groupe-sanguin-et-transfusion.mp4",
-          "hemostase-primaire-coagulation.mp4",
-          "purpura-thrombopenique-immunologique.mp4",
-          "lymphome-malin.mp4",
-          "llc.mp4",
-          "adp-spmg.mp4",
-          "atelier-hematologie.mp4",
-          "atelier-hematologie-1.mp4"
-        ], "/videos/medicale/hematologie/")
-      },
-      {
-        name: "infectieux",
-        courses: makeCourses([
-          "la-brucelose.mp4",
-          "fievre-thyphoide.mp4",
-          "les-meningites.mp4",
-          "hiv-sida.mp4",
-          "paludisme.mp4",
-          "diarrhee-aigue-infectieuse.mp4",
-          "diarrhee-aigue-infectieuse-suite.mp4",
-          "atelier-infectiologie.mp4"
-        ], "/videos/medicale/infectieux/")
-      },
-      {
-        name: "medecine-de-travail",
-        courses: makeCourses([
-          "intoxication-aux-metaux-lourds.mp4",
-          "accidents-de-travail.mp4",
-          "atelier-medecine-de-travail.mp4"
-        ], "/videos/medicale/medecine-de-travail/")
-      },
-      {
-        name: "medecine-legale",
-        courses: makeCourses([
-          "diagnostique-de-la-mort.mp4",
-          "secret-medical-responsabilite-medicale.mp4",
-          "atelier-medecine-legale.mp4"
-        ], "/videos/medicale/medecine-legale/")
-      },
-      {
-        name: "nephrologie",
-        courses: makeCourses([
-          "insuffisance-renale-chronique.mp4",
-          "insuffisance-renale-aigue.mp4",
-          "syndrome-nephretique.mp4",
-          "syndrome-nephretique-aigue.mp4",
-          "syndrome-nephrotique.mp4",
-          "atelier-nephrologie.mp4"
-        ], "/videos/medicale/nephrologie/")
-      },
-      {
-        name: "neurologie",
-        courses: makeCourses([
-          "myastenie-auto-immune.mp4",
-          "cephalee-et-algie-de-la-face.mp4",
-          "maladie-de-parkinson.mp4",
-          "sclerose-en-plaque.mp4",
-          "avc.mp4",
-          "les-epilepsies.mp4",
-          "compression-medulaire-non-traumatique.mp4",
-          "hemorragie-meningee.mp4",
-          "atelier-neurologie.mp4",
-          "atelier-neurologie-1.mp4"
-        ], "/videos/medicale/neurologie/")
-      },
-      {
-        name: "pediatrie",
-        courses: makeCourses([
-          "developpement-psychomoteur.mp4",
-          "alimentation-de-lenfant-sain.mp4",
-          "icter-a-bilirubine-libre-du-nouveau-ne.mp4",
-          "diarrhee-aigue-rachitisme.mp4",
-          "detresse-respiratoire-aigue-nouveau-ne.mp4",
-          "diarrhee-chronique-enfant.mp4",
-          "diarrhee-chronique-enfant-suite.mp4",
-          "rougeole.mp4",
-          "atelier-pediatrie.mp4",
-          "atelier-pediatrie-1.mp4"
-        ], "/videos/medicale/pediatrie/")
-      },
-      {
-        name: "pneumologie",
-        courses: makeCourses([
-          "pneumonie-aigue-communitaire.mp4",
-          "epanchement-pleural.mp4",
-          "tuberculose.mp4",
-          "traitement-anti-tuberculeux.mp4",
-          "insuffisance-respiratoire-chronique.mp4",
-          "cancer-broncho-pulmonaire.mp4",
-          "asthme-bronchique.mp4",
-          "atelier-pneumologie.mp4"
-        ], "/videos/medicale/pneumologie/")
-      },
-      {
-        name: "psychiatrie",
-        courses: makeCourses([
-          "schizophrenie.mp4",
-          "delire-paranoique-etats-depressifs.mp4",
-          "atelier-psychiatrie.mp4",
-          "atelier-psychiatrie-1.mp4",
-          "atelier-psychiatrie-2.mp4"
-        ], "/videos/medicale/psychiatrie/")
-      },
-      {
-        name: "rhumatologie",
-        courses: makeCourses([
-          "poly-arthrite-rhumatoide.mp4",
-          "syndrome-de-gogerot-sjogren.mp4",
-          "connectivites.mp4",
-          "ma-de-pott.mp4",
-          "atelier-rhumatologie.mp4"
-        ], "/videos/medicale/rhumatologie/")
-      }
-    ]
+  "biochimie": [
+    "metabolisme-des-glucides",
+    "glycemie",
+    "metabolisme-des-lipides",
+    "metabolisme-phospho-calcique",
+    "metabolisme-de-fer",
+    "metabolisme-des-proteines",
+    "metabolisme-des-acides-gras",
+    "equilibre-acide-base",
+    "atelier-1",
+    "atelier-2"
+  ],
+
+  "genetique": [
+    "le-gene",
+    "le-gene-suite",
+    "genetique-mendelienne",
+    "atelier-genetique"
+  ],
+
+  "histologie-embriologie": [
+    "a-seance-orientation",
+    "b-appareil-genital-feminin",
+    "c-appareil-genital-masculin",
+    "d-la-glande-surrenale",
+    "e-la-thyroide",
+    "f-hypophyse",
+    "h-appareil-cardio-circulatoire",
+    "j-tissu-musculaire",
+    "k-oreille",
+    "l-oeil",
+    "atelier"
+  ],
+
+  "immunologie": [
+    "a-seance-orientation",
+    "b-immunologie-innee-a-immunologie-specifique",
+    "c-les-immunoglobulines",
+    "d-le-systeme-de-complement",
+    "e-le-systeme-hla",
+    "f-rimc",
+    "j-les-etats-hypersensibilite",
+    "h-les-etats-hypersensibilites-suite",
+    "atelier-immunologie",
+    "atelier-immunologie-suite"
+  ],
+
+  "microbiologie": [
+    "seance-orientation-microbiologie",
+    "les-micro-organismes",
+    "les-micro-organismes-1",
+    "les-micro-organismes-2",
+    "prelevements",
+    "diagnostique-virologique",
+    "atelier"
+  ],
+
+  "neurophysiologie": [
+    "influx-nerveux",
+    "physiologie-du-muscle-strie",
+    "physiologie-du-systeme-nerveux-autonome",
+    "atelier"
+  ],
+
+  "physiologie": [
+    "seance-orientation-physiologie",
+    "les-compartiments-liquidienne",
+    "les-compartiments-liquidienne-suite",
+    "equilibre-acido-basique",
+    "hemodynamique-intra-cardiaque",
+    "le-debit-cardiaque",
+    "pression-arteriel-et-sa-regulation",
+    "physiologie-respiratoire",
+    "la-ventilation-respiratoire",
+    "le-ventilation-alveolaire",
+    "les-etats-de-choc",
+    "equilibre-acido-basique-qcm",
+    "atelier"
+  ],
+
+  "cci": [
+    "atresie-de-oesophage",
+    "les-occlusions-neonatale",
+    "lch",
+    "osteomyelite",
+    "atelier"
+  ],
+
+  "chirurgie-generale": [
+    "seance-orientation-chirurgie-generale",
+    "appendicite-aigue-peritonite-aigue",
+    "syndrome-occlusif",
+    "hernie-parietale-hemorragie-digestive",
+    "lv-pancreatite-aigue",
+    "ischemie-des-membres-inferieurs-brulures",
+    "tumeur-oesophage",
+    "cancer-colo-rectal",
+    "cancer-pancreas-voies-biliaires",
+    "khf",
+    "atelier"
+  ],
+
+  "gynecologie": [
+    "geu-fibrome-uterin",
+    "hta-et-grossesse",
+    "hemorragie-de-la-delivrance",
+    "placenta-praevia",
+    "cancer-du-col-uterin",
+    "cancer-du-sein",
+    "tumeurs-de-l-ovaire",
+    "atelier"
+  ],
+
+  "neurochirurgie": [
+    "hemorragie-meningee",
+    "hed",
+    "hic",
+    "atelier-neurochirurgie",
+    "atelier-neurochirurgie-suite"
+  ],
+
+  "ophtalmologie": [
+    "cataracte",
+    "les-glaucomes",
+    "atelier"
+  ],
+
+  "orl": [
+    "anatomie-naso-sinusienne",
+    "otite-moyenne-aigue",
+    "maladie-de-meniere",
+    "cancer-de-cavum",
+    "cancer-de-larynx",
+    "atelier"
+  ],
+
+  "traumatologie": [
+    "fracture-de-col-de-femure",
+    "fracture-de-jambe",
+    "luxation-traumatique-de-la-hanche",
+    "polytrauma",
+    "tumeurs-osseuses",
+    "atelier"
+  ],
+
+  "urologie": [
+    "a-adenome-de-prostate",
+    "b-cancer-de-prostate",
+    "c-cancer-de-vessie",
+    "c-cancer-de-vessie-suite",
+    "d-tumeurs-de-rein",
+    "e-cancer-des-testicules",
+    "f-retention-aigue-des-urines",
+    "atelier"
+  ],
+
+  "cardiologie": [
+    "pericardite-aigue",
+    "insuffisance-mitrale",
+    "insuffisance-aortique",
+    "retressicement-aortique",
+    "oap",
+    "sca",
+    "tvp",
+    "embolie-pulmonaire",
+    "endocardite-infectieuse",
+    "atelier-cardiologie-1",
+    "atelier-cardiologie-2",
+    "atelier-cardiologie"
+  ],
+
+  "dermatologie": [
+    "les-eczemas",
+    "psoriasis",
+    "les-mycoses-cutanees",
+    "les-ist",
+    "les-infections-bacteriennes",
+    "la-tuberculose-cutanee",
+    "atelier"
+  ],
+
+  "endocrinologie": [
+    "diabete-et-ses-complications",
+    "complication-du-diabete",
+    "hyperthyroidie",
+    "insuffisance-surrenale",
+    "tumeur-hypophysaire"
+  ],
+
+  "epidemiologie": [
+    "les-differents-indicateurs-de-sante",
+    "epidemiologie-des-maladies-transmissible-et-non-transmissible",
+    "vaccination",
+    "atelier"
+  ],
+
+  "gastrologie": [
+    "digestion-absorption",
+    "secretion-biliaire",
+    "ulcer-gastro-duodinale",
+    "hepatite-c-et-b",
+    "cirrhose-hepatique",
+    "ascite",
+    "ictere",
+    "mici",
+    "pancreatite-chronique",
+    "atelier-gastrologie-1",
+    "atelier-gastrologie-2",
+    "atelier-gastrologie-3",
+    "atelier-gastrologie"
+  ],
+
+  "hematologie": [
+    "groupe-sanguin-et-transfusion",
+    "anemie",
+    "anemie-suite",
+    "cat-devant-une-anemie",
+    "cat-devant-une-anemie-suite",
+    "hemostase-primaire-coagulation",
+    "purpura-thrombopenique-immunologique",
+    "lymphome-malin",
+    "llc",
+    "adp-spmg",
+    "atelier-hematologie-1",
+    "atelier-hematologie"
+  ],
+
+  "infectieux": [
+    "diarrhee-aigue-infectieuse",
+    "diarrhee-aigue-infectieuse-suite",
+    "fievre-thyphoide",
+    "la-brucelose",
+    "les-meningites",
+    "hiv-sida",
+    "paludisme",
+    "atelier"
+  ],
+
+  "medecine-legale": [
+    "diagnostique-de-la-mort",
+    "secret-medical-responsabilite-medicale",
+    "atelier"
+  ],
+
+  "medecine-travail": [
+    "accidents-de-travail",
+    "intoxication-aux-metaux-lourds",
+    "atelier"
+  ],
+
+  "nephrologie": [
+    "insuffisance-renale-aigue",
+    "insuffisance-renale-chronique",
+    "syndrome-nephrotique",
+    "syndrome-nephretique",
+    "syndrome-nephretique-aigue",
+    "atelier"
+  ],
+
+  "neurologie": [
+    "avc",
+    "hemorragie-meningee",
+    "les-epilepsies",
+    "cephalee-et-algie-de-la-face",
+    "compression-medulaire-non-traumatique",
+    "myastenie-auto-immune",
+    "maladie-de-parkinson",
+    "sclerose-en-plaque",
+    "atelier-neurologie-1",
+    "atelier-neurologie"
+  ],
+
+  "pediatrie": [
+    "alimentation-de-lenfant-sain",
+    "developpement-psychomoteur",
+    "detresse-respiratoire-aigue-nouveau-ne",
+    "icter-a-bilirubine-libre-du-nouveau-ne",
+    "diarrhee-aigue-rachitisme",
+    "diarrhee-chronique-enfant",
+    "diarrhee-chronique-enfant-suite",
+    "rougeole",
+    "atelier-pediatrie-1",
+    "atelier-pediatrie"
+  ],
+
+  "pneumologie": [
+    "asthme-bronchique",
+    "pneumonie-aigue-communitaire",
+    "epanchement-pleural",
+    "insuffisance-respiratoire-chronique",
+    "tuberculose",
+    "traitement-anti-tuberculeux",
+    "cancer-broncho-pulmonaire",
+    "atelier"
+  ],
+
+  "psychiatrie": [
+    "delire-paranoique-etats-depressifs",
+    "schizophrenie",
+    "atelier-psychiatrie-1",
+    "atelier-psychiatrie-2",
+    "atelier-psychiatrie"
+  ],
+
+  "rhumatologie": [
+    "poly-arthrite-rhumatoide",
+    "connectivites",
+    "syndrome-de-gogerot-sjogren",
+    "ma-de-pott",
+    "atelier"
+  ]
+};
+const manualSupportMap = {
+  cardiologie: {
+    "insuffisance-aortique": ["insuffisance-aortique"],
+    "retressicement-aortique": ["retrecissement-aortique", "retressicement-aortique", "retrecissement-aortique-externe-p6"],
+    "insuffisance-mitrale": ["insuffisance-mitrale"],
+    "retressicement-mitrale": ["retrecissement-mitrale", "retressicement-mitrale"]
+  },
+"chirurgie-generale": {
+  "appendicite-aigue-peritonite-aigue": ["appendicite", "peritonite"],
+  "cancer-pancreas-voies-biliaires": ["cancer-d-pancreas", "cancer-de-voies-biliaires"],
+  "hernie-parietale-hemorragie-digestive": ["hernie-parietale", "hemorragies-digestives"],
+  "ischemie-des-membres-inferieurs-brulures": ["ischemie-des-membres-inferieurs", "brulures"],
+  "lv-pancreatite-aigue": ["lv"]
+},
+  "medecine-travail": {
+    "accidents-de-travail": ["accidents-de-travail"],
+    "intoxication-aux-metaux-lourds": ["intoxication-aux-metaux-lourds"]
+  },
+  "medecine-legale": {
+    "diagnostique-de-la-mort": ["diagnostique-de-la-mort"],
+    "secret-medical-responsabilite-medicale": ["secret-medical-responsabilite-medicale"]
+  },
+  psychiatrie: {
+    "delire-paranoique-etats-depressifs": ["delire-paranoique", "etats-depressifs"],
+    "schizophrenie": ["schizophrenie"]
   }
-];
+};
 
-fs.writeFileSync("./public/data/cours.json", JSON.stringify(data, null, 2), "utf-8");
+function moduleMatch(file, moduleName) {
+  const f = norm(file);
+  const aliases = moduleAliases[moduleName] || [moduleName];
+  return aliases.some(alias => f.includes(norm(alias)));
+}
 
-console.log("✅ cours.json complet généré avec biologie + chirurgie + medicale");
+function titleFromFile(file) {
+  return path.basename(file, path.extname(file))
+    .replace(/-/g, " ")
+    .replace(/\b\w/g, c => c.toUpperCase());
+}
+
+function cleanModuleName(dir) {
+  return dir.trim().toLowerCase();
+}
+
+function cleanCategoryName(dir) {
+  return dir.trim().toLowerCase();
+}
+
+function walkFiles(dir, exts) {
+  let files = [];
+  if (!fs.existsSync(dir)) return files;
+
+  for (const item of fs.readdirSync(dir)) {
+    if (item.startsWith(".~lock")) continue;
+
+    const full = path.join(dir, item);
+    if (fs.statSync(full).isDirectory()) {
+      files = files.concat(walkFiles(full, exts));
+    } else {
+      const ext = path.extname(full).toLowerCase();
+      if (exts.includes(ext)) files.push(full.replaceAll("\\", "/"));
+    }
+  }
+
+  return files;
+}
+
+function toUrl(file) {
+  return "/" + file.replace(/^public\//, "").replaceAll("\\", "/");
+}
+
+function isQcmFile(file) {
+  return file.replaceAll("\\", "/").includes("/QCM ");
+}
+
+const supportFiles = walkFiles(pdfRoot, supportExts).filter(f => !isQcmFile(f));
+const moduleSupportIndex = {};
+
+for (const file of supportFiles) {
+  const p = file.replaceAll("\\", "/").toLowerCase();
+
+  const modules = [
+    "anatomopathologie",
+    "biochimie",
+    "genetique",
+    "histologie-embriologie",
+    "immunologie",
+    "microbiologie",
+    "neurophysio",
+    "physiologie",
+
+    "cci",
+    "chirurgie-generale",
+    "gynecologie",
+    "neurochirurgie",
+    "ophtalmologie",
+    "orl",
+    "traumatologie",
+    "urologie",
+
+    "cardiologie",
+    "dermatologie",
+    "endocrinologie",
+    "epidemiologie",
+    "gastrologie",
+    "hematologie",
+    "infectieux",
+    "medecine-travail",
+    "medecine-legale",
+    "nephrologie",
+    "neurologie",
+    "pediatrie",
+    "pneumologie",
+    "psychiatrie",
+    "rhumatologie"
+  ];
+
+  const moduleFound = modules.find(m =>
+    p.includes(m.replace("-", " "))
+    || p.includes(m.replace("-", ""))
+    || p.includes(m)
+  );
+
+  if (!moduleFound) continue;
+
+  if (!moduleSupportIndex[moduleFound])
+    moduleSupportIndex[moduleFound] = [];
+
+  moduleSupportIndex[moduleFound].push(file);
+}
+
+function supportObject(file) {
+  const ext = path.extname(file).toLowerCase().replace(".", "");
+  return {
+    type: ext,
+    title: path.basename(file, path.extname(file)),
+    url: toUrl(file)
+  };
+}
+
+
+function wordsOf(text) {
+  return norm(text)
+    .split("-")
+    .map(w => w.replace(/s$/i, "").replace(/e$/i, ""))
+    .filter(w =>
+      w.length >= 3 &&
+      !["les","des","une","un","avec","sans","suite","cours","qcm","cat","devant"].includes(w)
+    );
+}
+
+function overlapScore(a, b) {
+  const wa = wordsOf(a);
+  const wb = wordsOf(b);
+  return wa.filter(x => wb.includes(x)).length;
+}
+
+function findSupportsForVideo(videoFile) {
+  const videoKey = norm(path.basename(videoFile));
+  const videoParts = videoFile.replaceAll("\\", "/").split("/");
+  const category = videoParts[2];
+  const moduleName = videoParts[3];
+
+  let currentSupports = [
+    ...(moduleSupportIndex[moduleName] || []),
+    ...supportFiles.filter(s => moduleMatch(s, moduleName))
+  ];
+
+  currentSupports = [...new Map(currentSupports.map(f => [f, f])).values()];
+
+  const videoBase = norm(path.basename(videoFile));
+  const manual = currentSupports.filter(s => {
+  const rules = manualSupportMap[moduleName] || {};
+  const wanted = rules[videoBase] || [];
+  const base = norm(path.basename(s));
+  return wanted.some(w => base.includes(norm(w)));
+});
+if (manual.length > 0) {
+  return manual.map(supportObject);
+}
+
+  const exact = currentSupports.filter(s => {
+    const base = norm(path.basename(s));
+    return base === videoKey || base.includes(videoBase) || videoBase.includes(base);
+  });
+
+  const related = currentSupports.filter(s => {
+    const base = norm(path.basename(s));
+
+    if (base.includes("atelier") && !videoBase.includes("atelier")) return false;
+
+    if (videoBase.includes("atelier")) {
+      return base.includes("atelier");
+    }
+
+    if (base === videoKey || base.includes(videoBase) || videoBase.includes(base)) return true;
+
+    return overlapScore(videoBase, base) >= 1;
+  });
+
+  const moduleGeneral = currentSupports.filter(s => {
+    if (moduleName === "gynecologie") return true;
+    if (!videoBase.includes("atelier")) return false;
+
+    const base = norm(path.basename(s));
+    return !base.includes(videoBase);
+  });
+
+  const merged = [...manual, ...exact, ...related, ...moduleGeneral];
+  const unique = [...new Map(merged.map(f => [f, f])).values()];
+
+  return unique.map(supportObject);
+}
+
+let id = 1;
+const data = [];
+
+for (const catDir of fs.readdirSync(videosRoot)) {
+  const catPath = path.join(videosRoot, catDir);
+  if (!fs.statSync(catPath).isDirectory()) continue;
+
+  const category = cleanCategoryName(catDir);
+  const modules = [];
+
+  for (const modDir of fs.readdirSync(catPath)) {
+    const modPath = path.join(catPath, modDir);
+    if (!fs.statSync(modPath).isDirectory()) continue;
+const moduleName = cleanModuleName(modDir);
+const order = manualOrder[moduleName] || [];
+const files = walkFiles(modPath, [".mp4"]).sort((a, b) => {
+  const aKey = norm(path.basename(a));
+  const bKey = norm(path.basename(b));
+
+  const order = manualOrder[moduleName] || [];
+
+  const aIndex = order.findIndex(x => aKey === norm(x));
+  const bIndex = order.findIndex(x => bKey === norm(x));
+
+  if (aIndex !== -1 && bIndex !== -1) return aIndex - bIndex;
+  if (aIndex !== -1) return -1;
+  if (bIndex !== -1) return 1;
+
+  const score = (key) => {
+    let s = 1000;
+
+    if (key.includes("orientation") || key.includes("seance-orientation")) s -= 900;
+    if (key.includes("atelier")) s += 900;
+    if (key.includes("qcm")) s += 700;
+    if (key.includes("suite")) s += 50;
+
+    return s;
+  };
+
+  const aBase = aKey.replace(/-suite$/, "");
+  const bBase = bKey.replace(/-suite$/, "");
+
+  if (aBase === bBase) {
+    if (!aKey.includes("suite") && bKey.includes("suite")) return -1;
+    if (aKey.includes("suite") && !bKey.includes("suite")) return 1;
+  }
+
+  const aScore = score(aKey);
+  const bScore = score(bKey);
+
+  if (aScore !== bScore) return aScore - bScore;
+
+  return aKey.localeCompare(bKey);
+});
+
+    modules.push({
+      name: moduleName,
+      courses: files.map(file => {
+        const supports = findSupportsForVideo(file);
+        const mainPdf = supports.find(s => s.type === "pdf");
+
+        return {
+          id: id++,
+          title: titleFromFile(file),
+          video: toUrl(file),
+          pdf: mainPdf ? mainPdf.url : null,
+          supports
+        };
+      })
+    });
+  }
+
+  data.push({ category, modules });
+}
+
+fs.writeFileSync(outFile, JSON.stringify(data, null, 2), "utf8");
+
+console.log("✅ cours.json généré:", outFile);
+console.log("✅ Total cours:", id - 1);
+console.log("✅ Supports scannés:", supportFiles.length);

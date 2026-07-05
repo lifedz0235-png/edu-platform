@@ -3,39 +3,121 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Plateforme médicale</title>
-  <link rel="stylesheet" href="./css/style.css" />
+
+  <title>PCR - Plateforme médicale</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/home.css">
 </head>
-<body>
-  <header class="topbar">
-    <h1 class="title">📚 Plateforme médicale</h1>
-  </header>
 
-  <main class="home">
-    <a class="category-card" href="./pages/modules/modules.html?category=biologie">
-      <span class="category-icon">🧬</span>
-      <span>Biologie</span>
+<body class="pcr-pro-home">
+
+  <nav class="pro-nav">
+    <a class="pro-brand" href="./index.html">
+      <span>🧬</span>
+      <strong>PCR</strong>
     </a>
 
-    <a class="category-card" href="./pages/modules/modules.html?category=chirurgie">
-      <span class="category-icon">🔪</span>
-      <span>Chirurgie</span>
-    </a>
+    <div class="pro-menu">
+      <a class="active" href="./index.html">Accueil</a>
+      <a href="./pages/modules/modules.html?category=biologie">Cours</a>
+      <a href="#">Communauté</a>
+      <a href="#">QCM</a>
+      <a class="ia-link" href="#">✦ IA <small>NOUVEAU</small></a>
+      <a href="./pages/dashboard/dashboard.html">Dashboard</a>
+    </div>
+  </nav>
 
-    <a class="category-card" href="./pages/modules/modules.html?category=medicale">
-      <span class="category-icon">🏥</span>
-      <span>Médicale</span>
-    </a>
+  <main class="pro-page">
 
-    <a class="category-card" href="./pages/favoris/favoris.html">
-      <span class="category-icon">⭐</span>
-      <span>Favoris</span>
-    </a>
+    <section class="pro-hero">
+      <div class="pro-left">
 
-    <a class="category-card" href="./pages/dashboard/dashboard.html">
-      <span class="category-icon">📊</span>
-      <span>Dashboard</span>
-    </a>
+        <div class="trust-row">
+          <span class="avatars">👨‍⚕️👩‍⚕️👨‍⚕️</span>
+          <span class="stars">★★★★★</span>
+          <span>les étudiants nous font confiance</span>
+        </div>
+
+        <h1>
+          Préparez votre<br>
+          résidanat
+        
+        </h1>
+
+        <p>
+          Plus de 229 cours, des milliers de QCM,<br>
+          des supports PDF et un suivi intelligent.
+        </p>
+
+        <div class="pro-actions">
+          <a class="pro-btn gold" href="./pages/modules/modules.html?category=biologie">▶ Continuer</a>
+          <a class="pro-btn dark" href="./pages/dashboard/dashboard.html">▮ Dashboard</a>
+          <a class="pro-btn ai" href="#">✦ IA → <small>NOUVEAU</small></a>
+        </div>
+
+        <div class="pro-stats">
+          <div><i>🎓</i><b>229+</b><span>Cours</span></div>
+          <div><i>📖</i><b>31</b><span>Modules</span></div>
+          <div><i>🤖</i><b>IA</b><span>QCM</span></div>
+          <div><i>📄</i><b>5000+</b><span>Supports PDF</span></div>
+          <div><i>📈</i><b>Suivi</b><span>Intelligent</span></div>
+        </div>
+      </div>
+
+      <div class="pro-logo-zone">
+        <div class="orb orb-blue"></div>
+        <div class="orb orb-gold"></div>
+        <img src="./images/pcr-logo.png" alt="PCR logo">
+      </div>
+    </section>
+
+    <section class="pro-categories">
+      <h2>Catégories</h2>
+
+      <div class="pro-grid">
+        <a class="pro-card purple" href="./pages/modules/modules.html?category=biologie">
+          <span>🧬</span>
+          <h3>Biologie</h3>
+          <p>8 modules</p>
+          <em>Explorer →</em>
+        </a>
+
+        <a class="pro-card cyan" href="./pages/modules/modules.html?category=chirurgie">
+          <span>🔪</span>
+          <h3>Chirurgie</h3>
+          <p>8 modules</p>
+          <em>Explorer →</em>
+        </a>
+
+        <a class="pro-card green" href="./pages/modules/modules.html?category=medicale">
+          <span>🏥</span>
+          <h3>Médicale</h3>
+          <p>15 modules</p>
+          <em>Explorer →</em>
+        </a>
+
+        <a class="pro-card yellow" href="./pages/favoris/favoris.html">
+          <span>⭐</span>
+          <h3>Favoris</h3>
+          <p>Vos cours enregistrés</p>
+          <em>Explorer →</em>
+        </a>
+
+        <a class="pro-card blue" href="./pages/dashboard/dashboard.html">
+          <span>📊</span>
+          <h3>Dashboard</h3>
+          <p>Votre progression</p>
+          <em>Explorer →</em>
+        </a>
+      </div>
+    </section>
+
   </main>
 
   <script src="./js/app.js"></script>

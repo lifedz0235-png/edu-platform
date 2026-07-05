@@ -1,0 +1,3098 @@
+{
+  "category": "biologie",
+  "module": "neurophysiologie",
+  "courseId": 50,
+  "courseTitle": "Influx Nerveux",
+  "supportTitle": "influx-nerveux ",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/NEUROPHYSIO/influx-nerveux .pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les conditions de déclenchement d’un potentiel d’action au niveau d’un élément excitable, quelles propositions sont exactes ?",
+      "choices": [
+        "Une stimulation membranaire doit entraîner une dépolarisation suffisante.",
+        "Le potentiel membranaire doit atteindre une valeur seuil.",
+        "Toute stimulation, quelle que soit son intensité, déclenche un potentiel d’action.",
+        "Le potentiel d’action apparaît après stimulation d’un point de la membrane d’un élément excitable."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action est déclenché si la stimulation provoque une dépolarisation membranaire suffisante atteignant le seuil. Une stimulation insuffisante ne déclenche pas de potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles caractéristiques définissent correctement le potentiel d’action ?",
+      "choices": [
+        "Il correspond à une inversion brutale du potentiel de membrane.",
+        "Il est transitoire.",
+        "Il se propage avec une atténuation progressive de son amplitude.",
+        "Il obéit à la loi du tout ou rien."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action est une inversion brutale, transitoire et propagée du potentiel de membrane. Il obéit à la loi du tout ou rien et se propage sans atténuation."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la phase ascendante et de la phase descendante du potentiel d’action, quelles propositions sont exactes ?",
+      "choices": [
+        "La phase ascendante correspond à une dépolarisation rapide.",
+        "La phase descendante correspond à une repolarisation rapide.",
+        "La phase descendante ramène le potentiel membranaire vers son niveau initial.",
+        "La phase ascendante correspond au retour lent au potentiel de repos."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase ascendante est une dépolarisation rapide. La phase descendante est une repolarisation rapide, avec retour vers le niveau initial. Le retour lent au potentiel de repos survient après l’éventuelle hyperpolarisation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les valeurs électriques décrites lors du potentiel d’action axonal, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potentiel intracellulaire passe d’environ -50 mV à environ +40 mV.",
+        "La variation totale décrite est d’environ 90 mV.",
+        "Le potentiel intracellulaire reste négatif pendant toute la durée du potentiel d’action.",
+        "L’inversion de polarisation membranaire est rapide et ample."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Lors du potentiel d’action, le potentiel intracellulaire passe d’environ -50 mV à +40 mV, soit une variation d’environ 90 mV, traduisant une inversion rapide et ample de la polarisation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions sont exactes concernant l’hyperpolarisation suivant un potentiel d’action ?",
+      "choices": [
+        "Elle peut survenir à la fin de la repolarisation.",
+        "Elle correspond à un potentiel de membrane plus négatif que le potentiel de repos.",
+        "Elle correspond à la phase ascendante du potentiel d’action.",
+        "Elle est suivie d’un retour plus lent au potentiel de repos."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "À la fin de la repolarisation, le potentiel membranaire peut devenir plus négatif que le potentiel de repos : c’est l’hyperpolarisation. Le retour au potentiel de repos est ensuite plus lent."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la loi du tout ou rien appliquée au potentiel d’action, quelles propositions sont exactes ?",
+      "choices": [
+        "Une fois déclenché, le potentiel d’action garde une amplitude constante.",
+        "Le potentiel d’action ne diminue pas avec la distance parcourue.",
+        "Un potentiel d’action déclenché peut être partiel si la stimulation est à peine supraliminaire.",
+        "Le déclenchement nécessite l’atteinte d’un seuil membranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action est déclenché lorsque le seuil est atteint. Une fois déclenché, il est de type tout ou rien : son amplitude reste constante et ne s’atténue pas avec la distance."
+    },
+    {
+      "type": "QCM",
+      "question": "La réponse d’un axone à deux stimuli supraliminaires successifs dépend de quels paramètres ?",
+      "choices": [
+        "De l’intervalle de temps séparant les deux stimuli.",
+        "De l’état d’excitabilité de la membrane au moment du second stimulus.",
+        "De l’existence d’une période réfractaire.",
+        "De la diminution obligatoire de l’amplitude du premier potentiel d’action avec la distance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réponse à deux stimuli supraliminaires successifs dépend du délai entre eux et de l’état d’excitabilité membranaire, ce qui correspond à la période réfractaire. Le potentiel d’action ne s’atténue pas avec la distance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la période réfractaire absolue, quelles propositions sont exactes ?",
+      "choices": [
+        "Un second stimulus très rapproché ne déclenche pas de nouveau potentiel d’action.",
+        "La membrane dépolarisée est inexcitabile.",
+        "Sa durée conditionne la fréquence maximale de décharge d’une cellule excitable.",
+        "Un second stimulus déclenche toujours un potentiel d’action s’il est supraliminaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pendant la période réfractaire absolue, la membrane dépolarisée est inexcitabile : un second stimulus très rapproché ne déclenche pas de nouveau potentiel d’action. Sa durée conditionne la fréquence maximale de décharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la période réfractaire relative, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient lorsque la polarisation membranaire est en cours de restauration.",
+        "Un second stimulus peut déclencher un potentiel d’action si son intensité est suffisante.",
+        "Elle correspond à une inexcitabilité totale de la membrane.",
+        "Elle se distingue de la période réfractaire absolue par la possibilité d’une réponse au second stimulus."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Pendant la période réfractaire relative, la polarisation membranaire se restaure. Un stimulus d’intensité suffisante peut alors déclencher un nouveau potentiel d’action, contrairement à la période réfractaire absolue."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de la propagation d’un potentiel d’action le long d’un axone, quelles propositions sont exactes ?",
+      "choices": [
+        "Chaque point de la membrane enregistre un potentiel d’action de même amplitude.",
+        "Le temps de latence augmente avec la distance au point de stimulation.",
+        "L’amplitude diminue progressivement au fur et à mesure de la propagation.",
+        "La propagation se fait sans atténuation."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Chaque point membranaire enregistre un potentiel d’action de même amplitude, mais avec une latence croissante selon la distance au point de stimulation. La propagation est sans atténuation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fibres nerveuses myélinisées, quelles propositions sont exactes ?",
+      "choices": [
+        "La conduction y est rapide.",
+        "La conduction se fait selon un mode saltatoire.",
+        "La conduction repose sur une propagation de proche en proche par circuits locaux.",
+        "Elles se distinguent des fibres amyéliniques par un mode de conduction différent."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Dans les fibres myélinisées, la conduction est rapide et saltatoire. La propagation de proche en proche par circuits locaux caractérise les fibres amyéliniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fibres nerveuses amyéliniques, quelles propositions sont exactes ?",
+      "choices": [
+        "La conduction y est plus lente que dans les fibres myélinisées.",
+        "La propagation repose sur des circuits locaux.",
+        "La conduction s’effectue de proche en proche.",
+        "La conduction y est décrite comme saltatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les fibres amyéliniques, la conduction est plus lente et repose sur une propagation de proche en proche par circuits locaux. Le mode saltatoire concerne les fibres myélinisées."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions traduisent correctement la notion d’excitabilité membranaire au cours de deux stimulations successives ?",
+      "choices": [
+        "L’excitabilité de la membrane varie selon le moment où survient le second stimulus.",
+        "Pendant la période réfractaire absolue, la membrane est inexcitabile.",
+        "Pendant la période réfractaire relative, une stimulation suffisante peut être efficace.",
+        "L’état d’excitabilité est indépendant de la restauration de la polarisation membranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après un premier potentiel d’action, l’excitabilité membranaire dépend du temps écoulé. Elle est nulle en période réfractaire absolue et partiellement restaurée en période réfractaire relative."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions permettent de différencier correctement repolarisation, hyperpolarisation et retour au repos ?",
+      "choices": [
+        "La repolarisation correspond à un retour rapide du potentiel membranaire vers son niveau initial.",
+        "L’hyperpolarisation correspond à un potentiel plus négatif que le potentiel de repos.",
+        "Le retour au potentiel de repos après hyperpolarisation est plus lent.",
+        "L’hyperpolarisation correspond au passage initial du potentiel intracellulaire vers une valeur positive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La repolarisation est rapide et ramène le potentiel vers son niveau initial. L’hyperpolarisation est un dépassement vers des valeurs plus négatives que le repos, suivi d’un retour lent au potentiel de repos."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la meilleure définition du potentiel d’action selon le texte ?",
+      "choices": [
+        "Une diminution lente et locale du potentiel membranaire.",
+        "Une inversion brutale, transitoire et propagée du potentiel de membrane.",
+        "Une hyperpolarisation permanente de la membrane excitable.",
+        "Une variation membranaire atténuée au cours de sa propagation."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le potentiel d’action est défini comme une inversion brutale, transitoire et propagée du potentiel de membrane."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle variation de potentiel intracellulaire est décrite lors du potentiel d’action axonal ?",
+      "choices": [
+        "De +40 mV à -50 mV, soit environ 90 mV.",
+        "De -50 mV à +40 mV, soit environ 90 mV.",
+        "De -90 mV à -50 mV, soit environ 40 mV.",
+        "De 0 mV à +40 mV, soit environ 40 mV."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique que le potentiel intracellulaire passe d’environ -50 mV à environ +40 mV, correspondant à une variation d’environ 90 mV."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé caractérise le mieux la période réfractaire absolue ?",
+      "choices": [
+        "Un second stimulus peut déclencher un potentiel d’action si son intensité est suffisante.",
+        "La membrane dépolarisée est inexcitabile et ne répond pas à un second stimulus très rapproché.",
+        "La polarisation membranaire est totalement restaurée.",
+        "Elle correspond uniquement à la conduction saltatoire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Pendant la période réfractaire absolue, la membrane dépolarisée est inexcitabile ; un second stimulus très rapproché ne déclenche pas de nouveau potentiel d’action."
+    },
+    {
+      "type": "QCS",
+      "question": "Pendant la période réfractaire relative, quelle condition permet à un second stimulus de déclencher un potentiel d’action ?",
+      "choices": [
+        "La membrane doit être définitivement inexcitabile.",
+        "Le stimulus doit avoir une intensité suffisante.",
+        "Le potentiel d’action précédent doit s’être atténué avec la distance.",
+        "La conduction doit obligatoirement être saltatoire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Pendant la période réfractaire relative, la polarisation membranaire est en cours de restauration ; un second stimulus peut déclencher un potentiel d’action si son intensité est suffisante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mode de conduction caractérise les fibres nerveuses myélinisées ?",
+      "choices": [
+        "Une conduction lente de proche en proche.",
+        "Une conduction par circuits locaux uniquement.",
+        "Une conduction rapide selon un mode saltatoire.",
+        "Une conduction avec atténuation progressive de l’amplitude."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans les fibres nerveuses myélinisées, la conduction est rapide et se fait selon un mode saltatoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme de propagation caractérise les fibres nerveuses amyéliniques ?",
+      "choices": [
+        "Une conduction saltatoire rapide.",
+        "Une propagation de proche en proche par circuits locaux.",
+        "Une propagation autonome avec augmentation progressive d’amplitude.",
+        "Une absence de propagation du potentiel d’action."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans les fibres nerveuses amyéliniques, la conduction est plus lente et repose sur une propagation de proche en proche par circuits locaux."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du rôle du seuil dans la genèse du potentiel d’action, quelles propositions sont exactes ?",
+      "choices": [
+        "Une dépolarisation membranaire suffisante atteignant la valeur seuil déclenche un potentiel d’action.",
+        "Le potentiel d’action apparaît lorsque le potentiel membranaire atteint un seuil de déclenchement.",
+        "Une stimulation n’atteignant pas le seuil déclenche toujours un potentiel d’action si elle est appliquée à un axone.",
+        "Dans l’axone, l’atteinte du seuil s’accompagne d’une inversion rapide et ample de la polarisation membranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte insiste sur la nécessité d’une dépolarisation suffisante atteignant le seuil. En dessous du seuil, le potentiel d’action n’est pas déclenché selon les données fournies."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition fonctionnelle du potentiel d’action, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à une inversion brutale du potentiel de membrane.",
+        "Il est transitoire et propagé.",
+        "Il s’atténue progressivement au cours de sa propagation.",
+        "Il est propagé de manière autonome le long de la membrane de l’élément excitable."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action est décrit comme une inversion brutale, transitoire et propagée, se propageant sans atténuation et de façon autonome."
+    },
+    {
+      "type": "QCM",
+      "question": "Au sujet de la succession des phases du potentiel d’action, quelles propositions sont exactes ?",
+      "choices": [
+        "La phase ascendante correspond à une dépolarisation rapide.",
+        "La phase descendante correspond à une repolarisation rapide.",
+        "Pendant la repolarisation, le potentiel de membrane revient vers son niveau initial.",
+        "L’hyperpolarisation correspond obligatoirement à un retour immédiat au potentiel de repos."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase ascendante est une dépolarisation rapide, la phase descendante une repolarisation rapide. L’hyperpolarisation peut survenir en fin de repolarisation, mais le retour au repos est plus lent."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les valeurs électriques indiquées pour le potentiel d’action axonal, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potentiel intracellulaire passe d’environ -50 mV à une valeur positive.",
+        "La valeur positive atteinte est d’environ +40 mV.",
+        "La variation globale décrite est d’environ 90 mV.",
+        "La phase ascendante correspond au passage de +40 mV vers -50 mV."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit un passage d’environ -50 mV à +40 mV, soit une variation d’environ 90 mV. Le passage inverse correspondrait à la repolarisation, non à la phase ascendante."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions traduisent correctement la loi du tout ou rien appliquée au potentiel d’action ?",
+      "choices": [
+        "Une fois déclenché, le potentiel d’action conserve une amplitude constante.",
+        "Au-delà du seuil, l’amplitude augmente proportionnellement à l’intensité du stimulus.",
+        "Le potentiel d’action ne diminue pas avec la distance parcourue.",
+        "La loi du tout ou rien est compatible avec l’existence d’un seuil de déclenchement."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le potentiel d’action obéit à la loi du tout ou rien : après déclenchement, son amplitude reste constante et ne s’atténue pas avec la distance."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’un axone reçoit deux stimuli supraliminaires successifs, quels facteurs interviennent dans la réponse au second stimulus ?",
+      "choices": [
+        "L’intervalle de temps séparant les deux stimuli.",
+        "L’état d’excitabilité membranaire au moment du second stimulus.",
+        "L’existence d’une période réfractaire.",
+        "Uniquement le caractère supraliminaire du premier stimulus."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réponse dépend de l’intervalle entre les stimuli et de l’état d’excitabilité de la membrane, ce qui renvoie à la période réfractaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la période réfractaire absolue, quelles propositions sont exactes ?",
+      "choices": [
+        "Deux stimuli très rapprochés peuvent ne donner qu’un seul potentiel d’action.",
+        "Le second stimulus ne déclenche pas de nouveau potentiel d’action pendant cette période.",
+        "La membrane dépolarisée est alors inexcitable.",
+        "Un second stimulus déclenche toujours un potentiel d’action s’il est plus intense."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pendant la période réfractaire absolue, la membrane dépolarisée est inexcitable : un second stimulus très rapproché ne déclenche pas de nouveau potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la période réfractaire relative, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient lorsque la polarisation membranaire est en cours de restauration.",
+        "Un second stimulus peut déclencher un potentiel d’action si son intensité est suffisante.",
+        "Tout second stimulus déclenche nécessairement un potentiel d’action.",
+        "Elle se distingue de la période réfractaire absolue par la possibilité conditionnelle d’une nouvelle réponse."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Pendant la période réfractaire relative, la membrane récupère progressivement son excitabilité ; une stimulation suffisante peut alors déclencher un nouveau potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’enregistrement du potentiel d’action en différents points d’un axone, quelles propositions sont exactes ?",
+      "choices": [
+        "Chaque point de la membrane enregistre un potentiel d’action de même amplitude.",
+        "Le temps de latence augmente avec la distance au point de stimulation.",
+        "Tous les points de l’axone enregistrent le potentiel d’action exactement au même instant.",
+        "L’amplitude diminue lorsque l’on s’éloigne du point stimulé."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La propagation se fait sans atténuation : l’amplitude reste identique. En revanche, le temps de latence augmente avec la distance au point de stimulation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fibres nerveuses myélinisées, quelles propositions sont exactes ?",
+      "choices": [
+        "La conduction y est rapide.",
+        "La conduction s’effectue selon un mode saltatoire.",
+        "Elles conduisent plus lentement que les fibres amyéliniques selon le texte.",
+        "Elles sont opposées aux fibres amyéliniques par le mode de conduction décrit."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les fibres myélinisées ont une conduction rapide et saltatoire, contrairement aux fibres amyéliniques dont la conduction est plus lente et de proche en proche."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fibres nerveuses amyéliniques, quelles propositions sont exactes ?",
+      "choices": [
+        "Leur conduction est plus lente que celle décrite pour les fibres myélinisées.",
+        "La propagation repose sur des circuits locaux.",
+        "La conduction se fait de proche en proche.",
+        "Leur conduction est décrite comme saltatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les fibres amyéliniques, la conduction est plus lente et repose sur une propagation de proche en proche par circuits locaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions relient correctement la période réfractaire à la fréquence de décharge d’une cellule excitable ?",
+      "choices": [
+        "La durée de la période réfractaire absolue conditionne la fréquence maximale de décharge.",
+        "La fréquence maximale de décharge est indépendante de la période réfractaire absolue.",
+        "L’existence d’une période réfractaire absolue empêche une nouvelle réponse si les stimuli sont très rapprochés.",
+        "La période réfractaire relative peut permettre une nouvelle réponse sous condition d’intensité suffisante."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que la durée de la période réfractaire absolue conditionne la fréquence maximale de décharge. La période relative permet une réponse si le stimulus est suffisamment intense."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’hyperpolarisation post-potentiel d’action, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut survenir à la fin de la repolarisation.",
+        "Elle correspond à un potentiel de membrane plus négatif que le potentiel de repos.",
+        "Elle correspond au pic positif du potentiel d’action.",
+        "Le retour au potentiel de repos après cette phase est plus lent."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’hyperpolarisation est définie comme un état où le potentiel de membrane devient plus négatif que le potentiel de repos. Le retour au repos se fait ensuite plus lentement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le déclenchement local puis la propagation du potentiel d’action, quelles propositions sont exactes ?",
+      "choices": [
+        "Une stimulation en un point peut déclencher un potentiel d’action si elle entraîne une dépolarisation suffisante.",
+        "Après déclenchement, le potentiel d’action se propage tout au long de la membrane de l’élément excitable.",
+        "Chaque point de la membrane doit être stimulé directement de l’extérieur pour produire le potentiel d’action suivant.",
+        "La propagation du potentiel d’action se fait sans atténuation."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action naît si le seuil est atteint en un point, puis se propage de façon autonome et sans atténuation le long de la membrane."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple de valeurs correspond au passage du potentiel intracellulaire lors de l’inversion axonale décrite ?",
+      "choices": [
+        "De -90 mV à -50 mV",
+        "De -50 mV à +40 mV",
+        "De +40 mV à -50 mV",
+        "De 0 mV à +90 mV"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le potentiel intracellulaire passe d’environ -50 mV à environ +40 mV lors du potentiel d’action axonal."
+    },
+    {
+      "type": "QCS",
+      "question": "Lorsqu’on s’éloigne du point de stimulation le long d’un axone, quel changement d’enregistrement est attendu ?",
+      "choices": [
+        "Une diminution progressive de l’amplitude sans modification de latence",
+        "Une amplitude identique avec un temps de latence croissant",
+        "Une disparition du potentiel d’action après une courte distance",
+        "Une augmentation progressive de l’amplitude avec la distance"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Chaque point enregistre un potentiel d’action de même amplitude, mais avec un temps de latence croissant selon la distance."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit le mieux la phase ascendante du potentiel d’action ?",
+      "choices": [
+        "Une repolarisation rapide",
+        "Une hyperpolarisation prolongée",
+        "Une dépolarisation rapide",
+        "Un retour lent au potentiel de repos"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La phase ascendante du potentiel d’action correspond à une dépolarisation rapide."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément explique directement la limitation de la fréquence maximale de décharge d’une cellule excitable ?",
+      "choices": [
+        "La durée de la période réfractaire absolue",
+        "La valeur positive maximale de +40 mV",
+        "La présence de circuits locaux dans les fibres amyéliniques",
+        "La lenteur du retour au potentiel de repos uniquement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la durée de la période réfractaire absolue conditionne la fréquence maximale de décharge d’une cellule excitable."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle comparaison entre fibres myélinisées et amyéliniques est correcte selon le texte ?",
+      "choices": [
+        "Les fibres myélinisées conduisent lentement par circuits locaux, les fibres amyéliniques rapidement par conduction saltatoire.",
+        "Les fibres myélinisées conduisent rapidement selon un mode saltatoire, les fibres amyéliniques plus lentement de proche en proche.",
+        "Les deux types de fibres conduisent avec la même vitesse et le même mode.",
+        "Les fibres amyéliniques conduisent sans propagation membranaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les fibres myélinisées ont une conduction rapide et saltatoire ; les fibres amyéliniques ont une conduction plus lente, de proche en proche par circuits locaux."
+    },
+    {
+      "type": "QCS",
+      "question": "Pendant la restauration de la polarisation membranaire, quelle condition permet au second stimulus de déclencher un nouveau potentiel d’action ?",
+      "choices": [
+        "Il doit être appliqué pendant la période réfractaire absolue.",
+        "Son intensité doit être suffisante.",
+        "Il doit être inférieur au seuil.",
+        "Il doit empêcher le retour vers le potentiel de repos."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Pendant la période réfractaire relative, la polarisation membranaire est en cours de restauration ; un second stimulus peut déclencher un potentiel d’action si son intensité est suffisante."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les caractères décrivant le potentiel d’action comme une inversion du potentiel de membrane, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une inversion brutale du potentiel de membrane.",
+        "Il s’agit d’un phénomène transitoire.",
+        "Il s’agit d’un phénomène strictement local, non propagé.",
+        "Il s’agit d’un phénomène propagé le long de la membrane de l’élément excitable."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action est défini comme une inversion brutale, transitoire et propagée du potentiel de membrane."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’une stimulation ponctuelle entraîne une dépolarisation suffisante au niveau d’une membrane excitable, quelles conséquences sont conformes au texte ?",
+      "choices": [
+        "L’atteinte de la valeur seuil provoque l’apparition d’un potentiel d’action.",
+        "La dépolarisation doit être suffisante pour atteindre le seuil.",
+        "L’amplitude du potentiel d’action dépend du dépassement du seuil.",
+        "Le potentiel d’action se propage ensuite de façon autonome sans atténuation."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action apparaît si la dépolarisation atteint le seuil ; une fois déclenché, il obéit au tout ou rien et se propage sans atténuation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les données chiffrées de l’inversion axonale décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potentiel intracellulaire passe d’environ -50 mV à environ +40 mV.",
+        "La variation globale décrite est d’environ 90 mV.",
+        "La valeur positive de +40 mV correspond au potentiel de repos.",
+        "La phase ascendante correspond à l’inversion rapide et ample de la polarisation membranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte décrit un passage d’environ -50 mV à +40 mV, soit environ 90 mV, lors de la phase ascendante de dépolarisation rapide."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la succession des phénomènes au cours d’un potentiel d’action, quelles propositions sont exactes ?",
+      "choices": [
+        "La phase ascendante correspond à une dépolarisation rapide.",
+        "La phase descendante correspond à une repolarisation rapide.",
+        "L’hyperpolarisation peut apparaître à la fin de la repolarisation.",
+        "Le retour au potentiel de repos est décrit comme plus rapide que la repolarisation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La dépolarisation rapide est suivie d’une repolarisation rapide ; une hyperpolarisation peut survenir, puis le retour au repos est plus lent."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la repolarisation, l’hyperpolarisation et le retour au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "La repolarisation ramène le potentiel de membrane vers son niveau initial.",
+        "L’hyperpolarisation correspond à un potentiel plus négatif que le potentiel de repos.",
+        "Le retour au potentiel de repos se fait plus lentement après cette séquence.",
+        "L’hyperpolarisation est présentée comme obligatoire à chaque potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que le potentiel peut devenir plus négatif que le repos à la fin de la repolarisation ; cette hyperpolarisation est donc possible, non obligatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles affirmations découlent correctement de la nature « tout ou rien » du potentiel d’action ?",
+      "choices": [
+        "Le potentiel d’action est déclenché lorsque le seuil de déclenchement est atteint.",
+        "Une fois déclenchée, son amplitude reste constante.",
+        "Son amplitude diminue progressivement avec la distance parcourue.",
+        "Une dépolarisation qui n’atteint pas le seuil ne déclenche pas le potentiel d’action décrit."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action apparaît au seuil et garde une amplitude constante ; il ne s’atténue pas avec la distance."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de la propagation axonale d’un potentiel d’action, quelles propositions sont compatibles avec un enregistrement en plusieurs points de la membrane ?",
+      "choices": [
+        "Chaque point de la membrane enregistre un potentiel d’action de même amplitude.",
+        "Le temps de latence augmente avec la distance au point de stimulation.",
+        "L’absence d’atténuation explique la conservation de l’amplitude.",
+        "Les points les plus éloignés enregistrent une amplitude plus faible."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La propagation se fait sans atténuation : l’amplitude reste identique, mais la latence croît avec la distance."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le cas de deux stimuli supraliminaires très rapprochés, quelles propositions caractérisent la période réfractaire absolue ?",
+      "choices": [
+        "Le second stimulus ne déclenche pas de nouveau potentiel d’action.",
+        "La membrane dépolarisée est inexcitable.",
+        "Cette période participe à la limitation de la fréquence maximale de décharge.",
+        "Un stimulus d’intensité suffisante déclenche toujours un potentiel d’action pendant cette période."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pendant la période réfractaire absolue, la membrane est inexcitable : un second potentiel d’action ne peut pas être déclenché."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la période réfractaire relative, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient lorsque la polarisation membranaire est en cours de restauration.",
+        "Un second stimulus peut déclencher un potentiel d’action si son intensité est suffisante.",
+        "La membrane y est totalement inexcitable quelle que soit l’intensité du stimulus.",
+        "La réponse dépend de l’état d’excitabilité membranaire au moment du second stimulus."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Pendant la période réfractaire relative, l’excitabilité revient partiellement ; un stimulus suffisamment intense peut déclencher un potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la fréquence maximale de décharge d’une cellule excitable, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle est conditionnée par la durée de la période réfractaire absolue.",
+        "Elle est directement attribuée à la période réfractaire relative dans le texte.",
+        "L’impossibilité de déclencher un second potentiel d’action lorsque deux stimuli sont très rapprochés participe à cette limitation.",
+        "Elle est expliquée par une diminution progressive de l’amplitude du potentiel d’action au cours de sa propagation."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "La période réfractaire absolue empêche le déclenchement de potentiels d’action trop rapprochés et conditionne la fréquence maximale de décharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités de conduction dans les fibres nerveuses, quelles propositions sont exactes ?",
+      "choices": [
+        "La conduction des fibres myélinisées est rapide.",
+        "La conduction des fibres myélinisées est saltatoire.",
+        "La conduction des fibres amyéliniques est plus lente.",
+        "La conduction des fibres amyéliniques est saltatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les fibres myélinisées conduisent rapidement selon un mode saltatoire ; les fibres amyéliniques conduisent plus lentement."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les fibres nerveuses amyéliniques, quelles propositions décrivent correctement le mécanisme de propagation ?",
+      "choices": [
+        "La propagation se fait de proche en proche.",
+        "Elle repose sur des circuits locaux.",
+        "Elle est plus lente que dans les fibres myélinisées.",
+        "Elle s’accompagne nécessairement d’une diminution progressive de l’amplitude du potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La conduction amyélinique est plus lente et repose sur une propagation de proche en proche par circuits locaux, sans que le texte n’indique une atténuation d’amplitude."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions traduisent correctement la dissociation entre amplitude et délai d’apparition du potentiel d’action le long d’un axone ?",
+      "choices": [
+        "L’amplitude reste identique aux différents points enregistrés.",
+        "Le temps de latence augmente avec l’éloignement du point de stimulation.",
+        "La constance d’amplitude est cohérente avec la propagation sans atténuation.",
+        "Les points les plus proches du point de stimulation présentent un délai plus court que les points éloignés."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le potentiel d’action conserve la même amplitude en tout point, mais apparaît avec une latence croissante selon la distance."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles sont incompatibles avec le texte ?",
+      "choices": [
+        "Le potentiel d’action est un phénomène strictement non propagé.",
+        "L’hyperpolarisation correspond à un potentiel moins négatif que le potentiel de repos.",
+        "Pendant la période réfractaire absolue, la membrane dépolarisée est inexcitable.",
+        "Dans les fibres amyéliniques, la conduction est rapide et saltatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action est propagé ; l’hyperpolarisation est plus négative que le repos ; la conduction rapide et saltatoire concerne les fibres myélinisées."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel événement transforme une dépolarisation membranaire suffisante en potentiel d’action propagé ?",
+      "choices": [
+        "L’atteinte du seuil de déclenchement.",
+        "La survenue d’une hyperpolarisation.",
+        "L’augmentation du temps de latence.",
+        "La mise en jeu de circuits locaux amyéliniques."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le potentiel d’action est déclenché lorsque le potentiel membranaire atteint la valeur seuil."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la séquence décrite après la phase ascendante, quel phénomène est le plus tardif ?",
+      "choices": [
+        "La dépolarisation rapide.",
+        "La repolarisation rapide.",
+        "L’hyperpolarisation éventuelle.",
+        "Le retour lent au potentiel de repos."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Après la repolarisation et l’éventuelle hyperpolarisation, le retour au potentiel de repos se fait plus lentement."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors d’un enregistrement à des distances croissantes du point de stimulation, quelle association est correcte ?",
+      "choices": [
+        "Amplitude décroissante et latence constante.",
+        "Amplitude constante et latence croissante.",
+        "Amplitude croissante et latence décroissante.",
+        "Amplitude constante et latence décroissante."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Chaque point enregistre un potentiel d’action de même amplitude, avec un temps de latence croissant selon la distance."
+    },
+    {
+      "type": "QCS",
+      "question": "Pendant la restauration de la polarisation membranaire, quelle condition permet à un second stimulus de déclencher un potentiel d’action ?",
+      "choices": [
+        "Une intensité suffisante du second stimulus.",
+        "Une diminution de l’amplitude du premier potentiel d’action.",
+        "Une conduction obligatoirement saltatoire.",
+        "Une absence totale d’excitabilité membranaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Pendant la période réfractaire relative, un second stimulus peut déclencher un potentiel d’action si son intensité est suffisante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé respecte strictement les valeurs électriques indiquées pour l’inversion axonale ?",
+      "choices": [
+        "Le potentiel intracellulaire passe d’environ +40 mV à -50 mV.",
+        "Le potentiel intracellulaire passe d’environ -50 mV à +40 mV.",
+        "Le potentiel intracellulaire varie d’environ 40 mV seulement.",
+        "Le potentiel intracellulaire reste négatif pendant toute l’inversion."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte décrit un passage d’environ -50 mV à environ +40 mV, soit une inversion d’environ 90 mV."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel terme qualifie la propagation du potentiel d’action lorsqu’elle se poursuit sans stimulation renouvelée de chaque point membranaire ?",
+      "choices": [
+        "Autonome.",
+        "Atténuée.",
+        "Inexcitable.",
+        "Amyélinique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le potentiel d’action se propage de manière autonome, sans atténuation, tout au long de la membrane excitable."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une stimulation ponctuelle efficace d’une membrane excitable, quelles affirmations décrivent correctement le phénomène obtenu ?",
+      "choices": [
+        "Il apparaît seulement si la dépolarisation atteint la valeur seuil.",
+        "Il correspond à une inversion brutale et transitoire du potentiel de membrane.",
+        "Il se propage tout au long de la membrane de l’élément excitable.",
+        "Son amplitude diminue progressivement avec la distance parcourue."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel d’action naît si le seuil est atteint ; il est brutal, transitoire, propagé et ne s’atténue pas avec la distance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’amplitude du potentiel d’action au cours de sa propagation axonale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle reste constante une fois le potentiel d’action déclenché.",
+        "Elle est identique aux différents points successifs de la membrane axonale.",
+        "Elle augmente avec l’éloignement du point de stimulation.",
+        "Elle ne traduit pas une réponse graduée à la distance parcourue."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action obéit à la loi du tout ou rien et se propage sans atténuation : son amplitude reste constante."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse temporelle des phases du potentiel d’action, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La phase ascendante correspond à une dépolarisation rapide.",
+        "La phase descendante correspond à une repolarisation rapide.",
+        "L’hyperpolarisation peut apparaître à la fin de la repolarisation.",
+        "Le retour au potentiel de repos est plus lent que les phases rapides décrites."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue une dépolarisation rapide, une repolarisation rapide, une éventuelle hyperpolarisation puis un retour plus lent au repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour deux stimulations supraliminaires successives appliquées à un axone, quels éléments déterminent la réponse au second stimulus ?",
+      "choices": [
+        "L’intervalle de temps séparant les deux stimuli.",
+        "L’état d’excitabilité de la membrane au moment du second stimulus.",
+        "L’existence d’une période réfractaire.",
+        "La distance séparant les deux électrodes d’enregistrement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réponse dépend du délai entre les stimuli et de l’excitabilité membranaire, ce qui correspond à la période réfractaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant la période réfractaire absolue décrite dans le texte, quelles affirmations sont exactes ?",
+      "choices": [
+        "Un second stimulus très rapproché ne déclenche pas de nouveau potentiel d’action.",
+        "La membrane dépolarisée est inexcitabile.",
+        "Cette période participe à la limitation de la fréquence maximale de décharge.",
+        "Un stimulus plus intense déclenche toujours un second potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En période réfractaire absolue, la membrane est inexcitabile ; aucun nouveau potentiel d’action n’est déclenché par un second stimulus très rapproché."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités de propagation dans les fibres nerveuses, quelles associations sont correctes ?",
+      "choices": [
+        "Fibre myélinisée : conduction rapide.",
+        "Fibre myélinisée : mode saltatoire.",
+        "Fibre amyélinique : propagation de proche en proche par circuits locaux.",
+        "Fibre amyélinique : conduction plus lente."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte oppose la conduction saltatoire rapide des fibres myélinisées à la conduction plus lente des fibres amyéliniques par circuits locaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’un enregistrement du potentiel d’action en plusieurs points successifs d’un axone, quelles constatations sont attendues ?",
+      "choices": [
+        "Le potentiel d’action enregistré garde la même amplitude.",
+        "Le temps de latence augmente avec la distance au point de stimulation.",
+        "Le potentiel d’action n’est pas atténué au cours de la propagation.",
+        "Les différents points enregistrent nécessairement le potentiel d’action au même instant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chaque point enregistre un potentiel d’action de même amplitude, mais avec une latence croissante selon la distance."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du seuil de déclenchement du potentiel d’action, quelles propositions sont justes ?",
+      "choices": [
+        "Il doit être atteint par la dépolarisation membranaire pour déclencher un potentiel d’action.",
+        "Il sépare une stimulation inefficace d’une stimulation capable de provoquer un potentiel d’action.",
+        "Il correspond au potentiel de repos de la membrane.",
+        "Une fois le seuil atteint, la réponse est de type tout ou rien."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le seuil est la valeur nécessaire au déclenchement du potentiel d’action ; après déclenchement, la réponse suit la loi du tout ou rien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les valeurs électriques de l’inversion axonale mentionnée, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potentiel intracellulaire passe d’environ -50 mV à environ +40 mV.",
+        "La variation globale décrite est d’environ 90 mV.",
+        "L’inversion rend transitoirement le potentiel intracellulaire positif.",
+        "La phase ascendante ramène le potentiel de +40 mV vers -50 mV."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’inversion décrite fait passer le potentiel intracellulaire de -50 mV à +40 mV, soit environ 90 mV ; le retour relève de la phase descendante."
+    },
+    {
+      "type": "QCM",
+      "question": "Au sujet de l’hyperpolarisation postérieure à la repolarisation, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle correspond à un potentiel de membrane plus négatif que le potentiel de repos.",
+        "Elle est décrite comme possible à la fin de la repolarisation.",
+        "Elle précède un retour plus lent au potentiel de repos.",
+        "Elle correspond à la phase ascendante du potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hyperpolarisation peut survenir à la fin de la repolarisation ; le potentiel devient plus négatif que le repos avant un retour lent au niveau initial."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la séquence d’un potentiel d’action axonal, quelles propositions respectent l’ordre physiologique décrit ?",
+      "choices": [
+        "Atteinte du seuil puis inversion rapide et ample de la polarisation membranaire.",
+        "Dépolarisation rapide puis repolarisation rapide.",
+        "Repolarisation puis éventuelle hyperpolarisation.",
+        "Retour lent au potentiel de repos après l’hyperpolarisation éventuelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La séquence décrite est : seuil, inversion avec dépolarisation rapide, repolarisation rapide, éventuelle hyperpolarisation, puis retour lent au repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions traduisent correctement le caractère autonome de la propagation du potentiel d’action ?",
+      "choices": [
+        "La propagation se poursuit tout au long de la membrane de l’élément excitable.",
+        "Le potentiel d’action se propage sans atténuation.",
+        "Chaque point membranaire successif enregistre un potentiel d’action de même amplitude.",
+        "La propagation nécessite une nouvelle stimulation supraliminaire appliquée à chaque point de la membrane."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel d’action se propage de manière autonome, sans atténuation, et chaque point successif présente une réponse de même amplitude."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant la période réfractaire relative, quelles propositions sont exactes ?",
+      "choices": [
+        "La polarisation membranaire est en cours de restauration.",
+        "Un second stimulus peut déclencher un potentiel d’action.",
+        "Le déclenchement dépend d’une intensité suffisante du second stimulus.",
+        "La membrane est totalement inexcitabile comme en période réfractaire absolue."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En période réfractaire relative, la membrane récupère son excitabilité ; un stimulus suffisamment intense peut déclencher un nouveau potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la relation entre période réfractaire absolue et activité répétitive d’une cellule excitable, quelles affirmations sont correctes ?",
+      "choices": [
+        "La durée de la période réfractaire absolue conditionne la fréquence maximale de décharge.",
+        "Des stimuli très rapprochés peuvent tomber dans une phase d’inexcitabilité membranaire.",
+        "La période réfractaire absolue explique l’absence de réponse au second stimulus très rapproché.",
+        "La fréquence maximale de décharge est indépendante des propriétés réfractaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La période réfractaire absolue rend la membrane inexcitabile pour un second stimulus très rapproché et conditionne la fréquence maximale de décharge."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit le plus précisément la variation du potentiel intracellulaire lors de l’inversion axonale rapportée ?",
+      "choices": [
+        "Il passe d’environ +40 mV à environ -50 mV.",
+        "Il passe d’environ -50 mV à environ +40 mV.",
+        "Il reste autour de -50 mV sans inversion.",
+        "Il diminue d’environ 90 mV à partir d’une valeur positive."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique un passage du potentiel intracellulaire d’environ -50 mV à environ +40 mV."
+    },
+    {
+      "type": "QCS",
+      "question": "Lorsqu’un point d’enregistrement est situé plus loin du point de stimulation axonale, quelle modification est attendue ?",
+      "choices": [
+        "Une diminution de l’amplitude du potentiel d’action.",
+        "Une disparition du potentiel d’action.",
+        "Une augmentation du temps de latence.",
+        "Une inversion du sens de la phase ascendante."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La distance augmente le temps de latence, tandis que l’amplitude du potentiel d’action reste identique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle fibre nerveuse présente une conduction reposant sur des circuits locaux de proche en proche ?",
+      "choices": [
+        "La fibre nerveuse amyélinique.",
+        "La fibre nerveuse myélinisée.",
+        "Toute fibre uniquement pendant la période réfractaire absolue.",
+        "Toute fibre uniquement pendant l’hyperpolarisation."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans les fibres amyéliniques, la conduction est plus lente et se fait de proche en proche par circuits locaux."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la raison donnée à l’absence de nouveau potentiel d’action lors d’un second stimulus très rapproché en période réfractaire absolue ?",
+      "choices": [
+        "La membrane dépolarisée est inexcitabile.",
+        "La conduction devient saltatoire.",
+        "Le potentiel de repos devient définitivement positif.",
+        "L’amplitude du premier potentiel d’action s’atténue."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte explique l’échec du second stimulus par l’inexcitabilité de la membrane dépolarisée pendant la période réfractaire absolue."
+    },
+    {
+      "type": "QCS",
+      "question": "À quoi correspond la phase descendante du potentiel d’action ?",
+      "choices": [
+        "À une dépolarisation rapide.",
+        "À une repolarisation rapide ramenant le potentiel vers son niveau initial.",
+        "À une propagation saltatoire.",
+        "À une stimulation sous-liminaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La phase descendante correspond à la repolarisation rapide, durant laquelle le potentiel de membrane revient vers son niveau initial."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel phénomène est spécifiquement décrit comme plus lent après les phases rapides du potentiel d’action ?",
+      "choices": [
+        "La phase ascendante.",
+        "La repolarisation rapide.",
+        "Le retour au potentiel de repos.",
+        "L’inversion initiale de la polarisation."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Après l’éventuelle hyperpolarisation, le retour au potentiel de repos se fait plus lentement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transformation d’une stimulation locale en potentiel d’action, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La stimulation doit entraîner une dépolarisation membranaire atteignant la valeur seuil.",
+        "Une stimulation locale efficace provoque une inversion du potentiel de membrane.",
+        "Toute stimulation, même insuffisante pour atteindre le seuil, déclenche un potentiel d’action propagé.",
+        "Le déclenchement dépend du franchissement d’un seuil de déclenchement."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise qu’une dépolarisation suffisante atteignant le seuil déclenche le potentiel d’action, qui correspond à une inversion du potentiel de membrane."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les énoncés suivants, lesquels sont incompatibles avec le comportement d’un potentiel d’action déclenché ?",
+      "choices": [
+        "Son amplitude diminue progressivement avec la distance parcourue.",
+        "Il se propage de manière autonome le long de la membrane.",
+        "Il reste localisé au point initial de stimulation.",
+        "Il nécessite une nouvelle stimulation efficace à chaque point membranaire pour progresser."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le potentiel d’action se propage sans atténuation et de manière autonome tout au long de la membrane."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’inversion de polarisation décrite au niveau axonal, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient après atteinte d’une valeur seuil par la dépolarisation axonale.",
+        "Elle est qualifiée de rapide et ample.",
+        "Elle correspond à un passage du potentiel intracellulaire vers une valeur positive.",
+        "Elle correspond à une diminution d’environ 90 mV du potentiel intracellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une inversion rapide et ample après atteinte du seuil, avec passage d’environ -50 mV à +40 mV, soit une augmentation d’environ 90 mV."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours de la phase descendante du potentiel d’action, quelles propositions sont justes selon le texte ?",
+      "choices": [
+        "Elle correspond à une repolarisation rapide.",
+        "Le potentiel de membrane revient vers son niveau initial.",
+        "Elle est suivie éventuellement d’une hyperpolarisation.",
+        "Elle correspond au passage initial de -50 mV vers +40 mV."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase descendante est une repolarisation rapide ramenant le potentiel vers son niveau initial ; l’hyperpolarisation peut survenir à la fin de cette repolarisation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hyperpolarisation mentionnée après la repolarisation, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à un potentiel de membrane devenu plus négatif que le potentiel de repos.",
+        "Elle peut apparaître à la fin de la repolarisation.",
+        "Elle constitue le retour lent au potentiel de repos lui-même.",
+        "Elle survient après les phases rapides du potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’hyperpolarisation est définie comme un potentiel plus négatif que le repos à la fin de la repolarisation ; le retour au repos se fait ensuite plus lentement."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la constance d’amplitude du potentiel d’action, quelles propositions découlent directement du texte ?",
+      "choices": [
+        "Une fois déclenché, le potentiel d’action conserve une amplitude constante.",
+        "La distance parcourue ne diminue pas son amplitude.",
+        "Son amplitude augmente avec l’éloignement du point de stimulation.",
+        "Cette constance s’inscrit dans la nature « tout ou rien » du phénomène."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte relie la loi du tout ou rien à une amplitude constante qui ne diminue pas avec la distance parcourue."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour deux stimuli supraliminaires successifs appliqués à un axone, quelles propositions sont correctes ?",
+      "choices": [
+        "La réponse au second stimulus dépend de l’intervalle de temps entre les deux stimuli.",
+        "La réponse au second stimulus dépend de l’état d’excitabilité membranaire au moment où il survient.",
+        "Le second stimulus déclenche toujours un potentiel d’action puisqu’il est supraliminaire.",
+        "La période réfractaire intervient dans l’interprétation de la réponse au second stimulus."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Même supraliminaire, le second stimulus peut être inefficace selon l’intervalle et l’état d’excitabilité membranaire, ce qui correspond à la période réfractaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant la période réfractaire absolue, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "Deux stimuli très rapprochés peuvent aboutir à l’absence de réponse au second stimulus.",
+        "Le second stimulus ne déclenche pas de nouveau potentiel d’action.",
+        "La membrane dépolarisée est décrite comme inexcitable.",
+        "Un second stimulus plus intense déclenche un potentiel d’action si la polarisation est en cours de restauration."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En période réfractaire absolue, le second stimulus ne déclenche pas de potentiel d’action car la membrane dépolarisée est inexcitable. La possibilité liée à une intensité suffisante relève de la période réfractaire relative."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la période réfractaire relative, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à un moment où la polarisation membranaire est en cours de restauration.",
+        "Un second stimulus peut y déclencher un potentiel d’action si son intensité est suffisante.",
+        "Elle se caractérise par une inexcitabilité totale de la membrane dépolarisée.",
+        "Elle doit être distinguée de la période réfractaire absolue."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Pendant la période réfractaire relative, l’excitabilité réapparaît partiellement : un stimulus suffisamment intense peut déclencher un nouveau potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fréquence maximale de décharge d’une cellule excitable, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle est conditionnée par la durée de la période réfractaire absolue.",
+        "Elle est liée à l’impossibilité de déclencher immédiatement un nouveau potentiel d’action pendant l’inexcitabilité membranaire.",
+        "Elle dépend de l’atténuation progressive du potentiel d’action le long de l’axone.",
+        "Elle est indépendante des propriétés réfractaires de la membrane."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La durée de la période réfractaire absolue limite la fréquence maximale de décharge, car aucun nouveau potentiel d’action ne peut être déclenché durant cette phase."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de la propagation axonale, quelles associations entre distance et enregistrement sont correctes ?",
+      "choices": [
+        "À distance croissante du point de stimulation, le temps de latence augmente.",
+        "Chaque point membranaire enregistre un potentiel d’action de même amplitude.",
+        "L’amplitude diminue lorsque le point d’enregistrement s’éloigne.",
+        "Le retard d’apparition dépend de la distance au point de stimulation."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte indique que chaque point enregistre un potentiel d’action de même amplitude, avec un temps de latence croissant selon la distance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fibres nerveuses myélinisées et amyéliniques, quelles propositions sont exactes ?",
+      "choices": [
+        "Les fibres myélinisées ont une conduction rapide.",
+        "Les fibres myélinisées conduisent selon un mode saltatoire.",
+        "Les fibres amyéliniques ont une conduction plus lente.",
+        "Les fibres amyéliniques conduisent selon un mode saltatoire rapide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La conduction est rapide et saltatoire dans les fibres myélinisées ; elle est plus lente et de proche en proche dans les fibres amyéliniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les fibres nerveuses amyéliniques, quels éléments caractérisent la conduction selon le texte ?",
+      "choices": [
+        "Elle repose sur une propagation de proche en proche.",
+        "Elle met en jeu des circuits locaux.",
+        "Elle est plus lente que celle des fibres myélinisées.",
+        "Elle correspond à une conduction saltatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les fibres amyéliniques, la conduction est plus lente et se fait de proche en proche par circuits locaux, contrairement à la conduction saltatoire des fibres myélinisées."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les séquences suivantes, lesquelles respectent les événements décrits au cours d’un potentiel d’action ?",
+      "choices": [
+        "Dépolarisation rapide, repolarisation rapide, éventuelle hyperpolarisation, retour plus lent au repos.",
+        "Atteinte du seuil, inversion rapide de polarisation, propagation sans atténuation.",
+        "Hyperpolarisation, atteinte du seuil, phase ascendante, repolarisation rapide.",
+        "Dépolarisation suffisante, potentiel d’action, amplitude constante au cours de la propagation."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte décrit d’abord l’atteinte du seuil et la dépolarisation rapide, puis la repolarisation, l’éventuelle hyperpolarisation et le retour lent au repos."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé exprime le mieux la condition immédiate de déclenchement d’un potentiel d’action ?",
+      "choices": [
+        "Une stimulation quelconque appliquée à une membrane excitable.",
+        "Une dépolarisation membranaire suffisante atteignant la valeur seuil.",
+        "Une hyperpolarisation dépassant le potentiel de repos.",
+        "Une repolarisation rapide ramenant la membrane vers son niveau initial."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le déclenchement du potentiel d’action exige que la dépolarisation atteigne le seuil de déclenchement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit le plus précisément la phase ascendante du potentiel d’action ?",
+      "choices": [
+        "Une repolarisation rapide du potentiel de membrane.",
+        "Une dépolarisation rapide.",
+        "Un retour lent au potentiel de repos.",
+        "Une période d’inexcitabilité absolue."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La phase ascendante correspond explicitement à une dépolarisation rapide."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel événement définit l’hyperpolarisation dans le texte ?",
+      "choices": [
+        "Le potentiel de membrane devient plus négatif que le potentiel de repos.",
+        "Le potentiel intracellulaire atteint directement +40 mV.",
+        "Le potentiel de membrane revient exactement au niveau initial.",
+        "Le potentiel d’action perd progressivement son amplitude."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hyperpolarisation correspond à un potentiel de membrane plus négatif que le potentiel de repos."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans un axone, quelle variation chiffrée du potentiel intracellulaire est rapportée lors de l’inversion de polarisation ?",
+      "choices": [
+        "Environ 40 mV.",
+        "Environ 50 mV.",
+        "Environ 90 mV.",
+        "Environ 140 mV."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le potentiel intracellulaire passe d’environ -50 mV à +40 mV, soit une variation d’environ 90 mV."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme explique l’échec du second stimulus très rapproché pendant la période réfractaire absolue ?",
+      "choices": [
+        "La membrane dépolarisée est inexcitable.",
+        "Le potentiel d’action s’est atténué avec la distance.",
+        "La conduction devient saltatoire.",
+        "La polarisation est suffisamment restaurée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Pendant la période réfractaire absolue, le second stimulus ne déclenche pas de nouveau potentiel d’action car la membrane dépolarisée est inexcitable."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise spécifiquement l’enregistrement du potentiel d’action en un point plus éloigné du point de stimulation ?",
+      "choices": [
+        "Une amplitude plus faible et une latence identique.",
+        "Une amplitude identique et un temps de latence plus long.",
+        "Une amplitude plus élevée et une latence plus courte.",
+        "Une disparition du potentiel d’action par atténuation."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Avec l’éloignement, l’amplitude reste la même, mais le temps de latence augmente."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’enchaînement menant à un potentiel d’action après stimulation locale d’une membrane excitable, quelles propositions sont exactes ?",
+      "choices": [
+        "La stimulation doit provoquer une dépolarisation membranaire atteignant la valeur seuil.",
+        "Une dépolarisation insuffisante par rapport au seuil ne répond pas à la condition de déclenchement décrite.",
+        "Le potentiel d’action apparaît indépendamment du niveau de dépolarisation atteint.",
+        "Le seuil de déclenchement intervient avant l’apparition du potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise que le potentiel d’action est déclenché lorsque la dépolarisation membranaire atteint la valeur seuil."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions décrivent correctement la nature du potentiel d’action telle qu’elle est formulée dans le texte ?",
+      "choices": [
+        "Il correspond à une inversion brutale du potentiel de membrane.",
+        "Il constitue un phénomène transitoire.",
+        "Il reste limité au point initial de stimulation.",
+        "Il est propagé le long de la membrane de l’élément excitable."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action est défini comme une inversion brutale, transitoire et propagée du potentiel de membrane."
+    },
+    {
+      "type": "QCM",
+      "question": "À partir des valeurs chiffrées indiquées pour l’axone, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potentiel intracellulaire initial mentionné est d’environ -50 mV.",
+        "Le potentiel intracellulaire atteint environ +40 mV lors de l’inversion.",
+        "La variation globale indiquée est d’environ 90 mV.",
+        "Le potentiel intracellulaire reste négatif pendant toute l’inversion."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte rapporte un passage d’environ -50 mV à +40 mV, soit une variation d’environ 90 mV."
+    },
+    {
+      "type": "QCM",
+      "question": "En distinguant les phases du potentiel d’action, quelles associations sont correctes ?",
+      "choices": [
+        "Phase ascendante : dépolarisation rapide.",
+        "Phase descendante : repolarisation rapide.",
+        "Hyperpolarisation : potentiel de membrane plus négatif que le potentiel de repos.",
+        "Retour au potentiel de repos : phénomène décrit comme plus rapide que la repolarisation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase ascendante est une dépolarisation rapide, la phase descendante une repolarisation rapide, et l’hyperpolarisation correspond à un potentiel plus négatif que le repos. Le retour au repos est décrit comme plus lent."
+    },
+    {
+      "type": "QCM",
+      "question": "Après la repolarisation rapide, quelles propositions respectent la description du texte ?",
+      "choices": [
+        "Le potentiel de membrane peut devenir inférieur au potentiel de repos.",
+        "L’hyperpolarisation est possible à la fin de la repolarisation.",
+        "Le retour au potentiel de repos s’effectue plus lentement.",
+        "Le potentiel de membrane demeure nécessairement positif jusqu’au retour au repos."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À la fin de la repolarisation, le potentiel peut devenir plus négatif que le repos : c’est l’hyperpolarisation. Le retour au repos est plus lent."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles conséquences découlent de la propagation autonome et sans atténuation du potentiel d’action ?",
+      "choices": [
+        "L’amplitude du potentiel d’action reste constante une fois celui-ci déclenché.",
+        "La propagation se poursuit le long de la membrane de l’élément excitable.",
+        "L’amplitude diminue progressivement avec la distance parcourue.",
+        "Le phénomène ne nécessite pas une nouvelle stimulation externe en chaque point membranaire pour se propager."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action se propage de manière autonome, sans atténuation, avec une amplitude constante."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour interpréter la réponse d’un axone à deux stimuli supraliminaires successifs, quels éléments doivent être pris en compte selon le texte ?",
+      "choices": [
+        "L’intervalle de temps séparant les deux stimuli.",
+        "L’état d’excitabilité membranaire au moment du second stimulus.",
+        "La période réfractaire dans laquelle se trouve la membrane.",
+        "La diminution progressive d’amplitude du premier potentiel d’action avec la distance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réponse dépend de l’intervalle entre les stimuli et de l’état d’excitabilité de la membrane, c’est-à-dire de la période réfractaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la période réfractaire absolue décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "Deux stimuli très rapprochés peuvent aboutir à l’absence de réponse au second stimulus.",
+        "La membrane dépolarisée est qualifiée d’inexcitable.",
+        "Le second stimulus déclenche toujours un potentiel d’action s’il est supraliminaire.",
+        "La durée de cette période conditionne la fréquence maximale de décharge."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Pendant la période réfractaire absolue, le second stimulus ne déclenche pas de nouveau potentiel d’action car la membrane dépolarisée est inexcitable. Sa durée conditionne la fréquence maximale de décharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant la période réfractaire relative, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La polarisation membranaire est en cours de restauration.",
+        "Un second stimulus peut être efficace si son intensité est suffisante.",
+        "La membrane est totalement inexcitable comme pendant la période réfractaire absolue.",
+        "La possibilité de déclencher un nouveau potentiel d’action dépend des conditions au moment du second stimulus."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Pendant la période réfractaire relative, la membrane récupère sa polarisation et peut répondre à un second stimulus si celui-ci est suffisamment intense."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre type de fibre nerveuse et modalité de conduction sont exactes ?",
+      "choices": [
+        "Fibre myélinisée : conduction rapide.",
+        "Fibre myélinisée : conduction saltatoire.",
+        "Fibre amyélinique : conduction plus lente.",
+        "Fibre amyélinique : conduction saltatoire rapide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les fibres myélinisées ont une conduction rapide et saltatoire ; les fibres amyéliniques ont une conduction plus lente de proche en proche par circuits locaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’enregistrement d’un potentiel d’action en plusieurs points successifs d’un axone, quelles constatations sont attendues ?",
+      "choices": [
+        "Chaque point membranaire enregistre un potentiel d’action de même amplitude.",
+        "Le temps de latence augmente avec la distance au point de stimulation.",
+        "L’amplitude diminue lorsque le point d’enregistrement est plus éloigné.",
+        "La propagation reste compatible avec la loi du tout ou rien."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action garde la même amplitude, mais son temps de latence augmente avec l’éloignement du point stimulé."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles sont contraires aux données du texte ?",
+      "choices": [
+        "Le potentiel d’action est une variation locale non propagée.",
+        "L’amplitude du potentiel d’action diminue avec la distance parcourue.",
+        "La conduction des fibres amyéliniques repose sur une propagation de proche en proche.",
+        "Le retour au potentiel de repos est plus lent après l’hyperpolarisation éventuelle."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte affirme que le potentiel d’action est propagé et sans atténuation. Les deux autres propositions sont conformes au texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’ordre temporel des phénomènes décrits après atteinte du seuil, quelles propositions sont exactes ?",
+      "choices": [
+        "Une dépolarisation rapide correspond à la phase ascendante.",
+        "Une repolarisation rapide correspond à la phase descendante.",
+        "Une hyperpolarisation peut suivre la fin de la repolarisation.",
+        "Le retour au repos précède nécessairement la phase descendante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après l’atteinte du seuil survient la phase ascendante de dépolarisation rapide, puis la repolarisation rapide, suivie éventuellement d’une hyperpolarisation et d’un retour lent au repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions permettent de ne pas confondre amplitude et délai de propagation du potentiel d’action ?",
+      "choices": [
+        "L’amplitude reste identique en chaque point de l’axone.",
+        "Le délai d’apparition augmente avec la distance au point de stimulation.",
+        "Une augmentation de la distance impose une diminution d’amplitude.",
+        "La latence croissante n’annule pas le caractère sans atténuation du potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte distingue clairement une amplitude constante et un temps de latence croissant avec la distance."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le texte, quel événement constitue la condition immédiate d’apparition du potentiel d’action ?",
+      "choices": [
+        "Le retour lent au potentiel de repos.",
+        "L’atteinte du seuil par la dépolarisation membranaire.",
+        "La propagation de proche en proche par circuits locaux.",
+        "L’allongement du temps de latence avec la distance."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le potentiel d’action apparaît lorsque la dépolarisation membranaire atteint la valeur seuil."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à la modalité de conduction des fibres nerveuses myélinisées ?",
+      "choices": [
+        "Conduction lente par circuits locaux de proche en proche.",
+        "Conduction rapide selon un mode saltatoire.",
+        "Conduction sans période réfractaire.",
+        "Conduction avec diminution progressive d’amplitude."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les fibres nerveuses myélinisées présentent une conduction rapide de type saltatoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle valeur résume correctement la variation du potentiel intracellulaire axonal lors de l’inversion décrite ?",
+      "choices": [
+        "De -50 mV à +40 mV, soit environ 90 mV.",
+        "De +40 mV à -50 mV, soit environ 90 mV.",
+        "De -90 mV à 0 mV, soit environ 40 mV.",
+        "De -50 mV à -40 mV, soit environ 10 mV."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique un passage d’environ -50 mV à environ +40 mV, correspondant à une variation d’environ 90 mV."
+    },
+    {
+      "type": "QCS",
+      "question": "Pendant la période réfractaire relative, quelle situation permet au second stimulus d’être efficace ?",
+      "choices": [
+        "Une membrane encore totalement inexcitable.",
+        "Un second stimulus d’intensité suffisante pendant la restauration de la polarisation.",
+        "Un second stimulus appliqué uniquement si la conduction est saltatoire.",
+        "Une diminution préalable de l’amplitude du premier potentiel d’action."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En période réfractaire relative, un second stimulus peut déclencher un potentiel d’action si son intensité est suffisante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur conditionne la fréquence maximale de décharge d’une cellule excitable selon le texte ?",
+      "choices": [
+        "La durée de la période réfractaire absolue.",
+        "La valeur positive maximale de +40 mV uniquement.",
+        "La lenteur de conduction des fibres amyéliniques uniquement.",
+        "La distance entre deux points d’enregistrement uniquement."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la durée de la période réfractaire absolue conditionne la fréquence maximale de décharge."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise le mieux la conduction dans les fibres nerveuses amyéliniques ?",
+      "choices": [
+        "Elle est rapide et saltatoire.",
+        "Elle est plus lente et repose sur une propagation de proche en proche par circuits locaux.",
+        "Elle se fait sans temps de latence.",
+        "Elle implique une disparition de la loi du tout ou rien."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les fibres amyéliniques conduisent plus lentement, par propagation de proche en proche grâce aux circuits locaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un protocole où une stimulation ponctuelle déclenche un potentiel d’action enregistré en plusieurs sites axonaux, quelles interprétations sont conformes au texte ?",
+      "choices": [
+        "La dépolarisation initiale a atteint la valeur seuil au point stimulé.",
+        "L’amplitude du potentiel d’action diminue progressivement avec l’éloignement.",
+        "Chaque point de membrane enregistre un potentiel d’action de même amplitude.",
+        "Le temps de latence augmente lorsque la distance au point de stimulation augmente."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le potentiel d’action nécessite l’atteinte du seuil, se propage sans atténuation et apparaît avec une latence croissante selon la distance."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer un potentiel d’action d’une simple variation locale du potentiel membranaire, quels critères sont retenus dans le texte ?",
+      "choices": [
+        "Une inversion brutale et transitoire du potentiel de membrane.",
+        "Une propagation le long de la membrane de l’élément excitable.",
+        "Une amplitude constante une fois le phénomène déclenché.",
+        "Une apparition systématique quelle que soit l’intensité de la dépolarisation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel d’action est brutal, transitoire, propagé et d’amplitude constante après déclenchement. Il nécessite l’atteinte du seuil."
+    },
+    {
+      "type": "QCM",
+      "question": "À partir du passage du potentiel intracellulaire axonal d’environ -50 mV à environ +40 mV, quelles propositions sont exactes ?",
+      "choices": [
+        "La variation globale est d’environ 90 mV.",
+        "Le potentiel intracellulaire reste négatif pendant toute l’inversion.",
+        "Le potentiel intracellulaire atteint une valeur positive d’environ +40 mV.",
+        "La valeur initiale mentionnée est d’environ -50 mV."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit une inversion de -50 mV à +40 mV, soit une variation d’environ 90 mV avec passage en valeur positive."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’un second stimulus supraliminaire très rapproché ne déclenche aucun nouveau potentiel d’action, quelles conclusions sont justifiées ?",
+      "choices": [
+        "L’intervalle entre les deux stimuli est compatible avec une période réfractaire absolue.",
+        "La membrane dépolarisée est alors inexcitable.",
+        "L’échec du second stimulus peut survenir malgré son caractère supraliminaire.",
+        "L’échec prouve nécessairement que le second stimulus était infraliminaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pendant la période réfractaire absolue, un second stimulus très rapproché ne déclenche pas de potentiel d’action car la membrane est inexcitable."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours de la restauration de la polarisation membranaire après un potentiel d’action, quelles affirmations sont compatibles avec la période réfractaire relative ?",
+      "choices": [
+        "La membrane n’a pas encore totalement retrouvé son état de repos.",
+        "Un second stimulus peut être efficace si son intensité est suffisante.",
+        "Tout second stimulus est obligatoirement inefficace.",
+        "L’état d’excitabilité de la membrane intervient dans la réponse."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "En période réfractaire relative, la polarisation est en cours de restauration et un stimulus suffisamment intense peut déclencher un nouveau potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ordre des événements après atteinte du seuil axonal, quelles propositions respectent la description du texte ?",
+      "choices": [
+        "La phase ascendante correspond à une dépolarisation rapide.",
+        "La phase descendante correspond à une repolarisation rapide.",
+        "Une hyperpolarisation peut survenir à la fin de la repolarisation.",
+        "Le retour au potentiel de repos est décrit comme plus rapide que les phases précédentes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une dépolarisation rapide, puis une repolarisation rapide, éventuellement suivie d’une hyperpolarisation, avec retour au repos plus lent."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles conséquences découlent directement du caractère « tout ou rien » du potentiel d’action dans le texte ?",
+      "choices": [
+        "Une fois déclenché, le potentiel d’action garde une amplitude constante.",
+        "Le potentiel d’action ne diminue pas avec la distance parcourue.",
+        "Un stimulus supraliminaire plus faible donne toujours un potentiel d’action d’amplitude plus faible.",
+        "L’atteinte du seuil déclenche une inversion rapide et ample de la polarisation membranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le caractère tout ou rien implique une amplitude constante après déclenchement et l’absence d’atténuation au cours de la propagation."
+    },
+    {
+      "type": "QCM",
+      "question": "En comparant les modalités de conduction nerveuse décrites, quelles associations sont correctes ?",
+      "choices": [
+        "Fibre myélinisée : conduction rapide et saltatoire.",
+        "Fibre amyélinique : conduction plus lente par propagation de proche en proche.",
+        "Fibre amyélinique : conduction saltatoire rapide.",
+        "Fibre myélinisée et fibre amyélinique : vitesse de conduction identique selon le texte."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les fibres myélinisées conduisent rapidement selon un mode saltatoire ; les fibres amyéliniques conduisent plus lentement par circuits locaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Au sujet de la repolarisation et des phénomènes qui la suivent, quelles propositions sont exactes ?",
+      "choices": [
+        "La phase descendante correspond au retour rapide du potentiel de membrane vers son niveau initial.",
+        "Le potentiel de membrane peut devenir plus négatif que le potentiel de repos après la repolarisation.",
+        "La repolarisation correspond à la phase ascendante du potentiel d’action.",
+        "Le retour final au potentiel de repos est décrit comme plus lent."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La repolarisation est la phase descendante rapide ; elle peut être suivie d’une hyperpolarisation, puis d’un retour lent au potentiel de repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour analyser la réponse à deux stimuli supraliminaires successifs appliqués à un axone, quels éléments doivent être pris en compte ?",
+      "choices": [
+        "L’intervalle de temps séparant les deux stimuli.",
+        "L’état d’excitabilité membranaire au moment du second stimulus.",
+        "Le type de période réfractaire dans lequel se trouve la membrane.",
+        "La diminution progressive d’amplitude du premier potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réponse au second stimulus dépend du délai interstimulus et de l’excitabilité membranaire, notamment selon la période réfractaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une stimulation locale efficace d’un élément excitable, quelles affirmations décrivent correctement le devenir du potentiel d’action ?",
+      "choices": [
+        "Il se propage de manière autonome tout au long de la membrane.",
+        "Il nécessite une nouvelle stimulation externe à chaque point membranaire.",
+        "Il conserve la même amplitude lors de sa propagation.",
+        "Il est précédé par une dépolarisation suffisante atteignant le seuil."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le potentiel d’action apparaît après atteinte du seuil, puis se propage de manière autonome et sans atténuation."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles sont incompatibles avec les données du texte ?",
+      "choices": [
+        "Le potentiel d’action s’atténue progressivement avec la distance.",
+        "L’hyperpolarisation précède la repolarisation rapide.",
+        "Pendant la période réfractaire absolue, un second stimulus très rapproché déclenche toujours un potentiel d’action s’il est assez intense.",
+        "La latence d’apparition diminue lorsque l’on s’éloigne du point de stimulation."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte affirme l’absence d’atténuation, place l’hyperpolarisation après la repolarisation, rend la membrane inexcitable en période absolue et décrit une latence croissante avec la distance."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’analyse morphologique d’un tracé de potentiel d’action, quelles correspondances sont correctes ?",
+      "choices": [
+        "Montée rapide du tracé : dépolarisation rapide.",
+        "Descente rapide du tracé : repolarisation rapide.",
+        "Passage transitoire à un niveau plus négatif que le repos : hyperpolarisation.",
+        "Approche lente du niveau de repos après hyperpolarisation : retour au potentiel de repos."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces correspondances reprennent la succession des phases décrites : dépolarisation, repolarisation, hyperpolarisation éventuelle puis retour lent au repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une comparaison expérimentale entre deux fibres nerveuses, quels résultats orientent correctement selon le texte ?",
+      "choices": [
+        "Une conduction rapide et saltatoire oriente vers une fibre myélinisée.",
+        "Une conduction plus lente par circuits locaux oriente vers une fibre amyélinique.",
+        "Une conduction de proche en proche est le mode décrit pour la fibre myélinisée.",
+        "Le texte attribue la même modalité de conduction aux fibres myélinisées et amyéliniques."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le mode saltatoire rapide est propre aux fibres myélinisées dans le texte ; la propagation de proche en proche par circuits locaux concerne les fibres amyéliniques."
+    },
+    {
+      "type": "QCS",
+      "question": "Une stimulation ponctuelle entraîne une dépolarisation atteignant le seuil. Quel résultat est le plus conforme au texte ?",
+      "choices": [
+        "Une simple variation locale non propagée du potentiel membranaire.",
+        "Une réponse progressivement atténuée avec la distance.",
+        "Un potentiel d’action brutal, transitoire, propagé et de type tout ou rien.",
+        "Une hyperpolarisation immédiate sans phase de dépolarisation."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’atteinte du seuil déclenche un potentiel d’action défini comme une inversion brutale, transitoire et propagée, obéissant à la loi du tout ou rien."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’exemple axonal donné, quelle variation du potentiel intracellulaire correspond au passage de -50 mV à +40 mV ?",
+      "choices": [
+        "Environ 40 mV.",
+        "Environ 50 mV.",
+        "Environ 90 mV.",
+        "Environ 140 mV."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La différence entre -50 mV et +40 mV est d’environ 90 mV."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel terme désigne le fait que le potentiel membranaire devienne plus négatif que le potentiel de repos après la repolarisation ?",
+      "choices": [
+        "Dépolarisation.",
+        "Repolarisation.",
+        "Hyperpolarisation.",
+        "Latence de propagation."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’hyperpolarisation correspond au passage transitoire du potentiel de membrane à une valeur plus négative que le potentiel de repos."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’étude de deux stimuli supraliminaires successifs, quel élément n’est pas présenté comme déterminant direct de la réponse au second stimulus ?",
+      "choices": [
+        "L’intervalle de temps séparant les deux stimuli.",
+        "L’état d’excitabilité de la membrane.",
+        "La période réfractaire dans laquelle se trouve la membrane.",
+        "La distance au point de stimulation utilisée pour analyser la latence de propagation."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La distance au point de stimulation intervient dans la latence d’enregistrement, mais le texte relie la réponse au second stimulus au délai et à l’excitabilité membranaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Une fibre nerveuse présente une conduction rapide selon un mode saltatoire. De quel type de fibre s’agit-il selon le texte ?",
+      "choices": [
+        "Fibre nerveuse myélinisée.",
+        "Fibre nerveuse amyélinique.",
+        "Fibre en période réfractaire absolue.",
+        "Fibre en hyperpolarisation."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte associe les fibres nerveuses myélinisées à une conduction rapide de type saltatoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Pendant la période réfractaire absolue, pourquoi un second stimulus très rapproché ne déclenche-t-il pas de nouveau potentiel d’action ?",
+      "choices": [
+        "Parce que la membrane dépolarisée est inexcitable.",
+        "Parce que le potentiel d’action précédent s’est atténué avec la distance.",
+        "Parce que la conduction devient obligatoirement amyélinique.",
+        "Parce que la phase ascendante correspond à une repolarisation."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En période réfractaire absolue, la membrane dépolarisée est inexcitable, empêchant le déclenchement d’un nouveau potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une membrane excitable stimulée localement, quelles conditions permettent l’apparition d’un potentiel d’action selon le texte ?",
+      "choices": [
+        "La stimulation doit entraîner une dépolarisation membranaire suffisante.",
+        "Une stimulation sous-liminaire suffit à déclencher un potentiel d’action si elle est ponctuelle.",
+        "Le potentiel membranaire doit atteindre la valeur seuil.",
+        "Chaque point membranaire doit être restimulé pour que le potentiel d’action apparaisse."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le potentiel d’action apparaît si la dépolarisation atteint la valeur seuil. Le texte ne décrit pas de déclenchement par stimulation sous-liminaire ni de nécessité de restimuler chaque point."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition du potentiel d’action comme inversion membranaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une inversion du potentiel de membrane.",
+        "Le phénomène est transitoire.",
+        "Le phénomène est propagé le long de la membrane de l’élément excitable.",
+        "Il correspond à une stabilisation durable du potentiel intracellulaire en valeur positive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel d’action est décrit comme une inversion brutale, transitoire et propagée du potentiel de membrane. Il n’est pas une stabilisation durable en valeur positive."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’exemple axonal chiffré, quelles propositions respectent les valeurs indiquées ?",
+      "choices": [
+        "Le potentiel intracellulaire peut passer d’environ -50 mV à environ +40 mV.",
+        "Le potentiel intracellulaire initial mentionné est négatif.",
+        "La variation totale est d’environ 90 mV.",
+        "L’inversion décrite correspond à un passage de +40 mV vers -50 mV."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique un passage d’environ -50 mV à environ +40 mV, soit une variation d’environ 90 mV. Le sens inverse n’est pas celui décrit."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour interpréter la phase descendante d’un potentiel d’action, quelles affirmations sont correctes ?",
+      "choices": [
+        "Elle correspond à une repolarisation rapide.",
+        "Elle ramène le potentiel de membrane vers son niveau initial.",
+        "Elle peut être suivie d’une hyperpolarisation en fin de repolarisation.",
+        "Elle correspond au retour lent final au potentiel de repos."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase descendante est la repolarisation rapide. L’hyperpolarisation peut survenir à la fin de celle-ci, puis le retour au repos se fait plus lentement."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du caractère « tout ou rien » du potentiel d’action déclenché, quelles propositions sont exactes ?",
+      "choices": [
+        "Une fois déclenché, son amplitude reste constante.",
+        "Son amplitude augmente proportionnellement à l’intensité du stimulus supraliminaire.",
+        "Il se propage sans diminution d’amplitude avec la distance parcourue.",
+        "La loi du tout ou rien exclut l’existence d’un seuil de déclenchement."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le potentiel d’action obéit à la loi du tout ou rien : une fois déclenché, son amplitude est constante et ne diminue pas avec la distance. Le texte maintient la notion de seuil."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un protocole appliquant deux stimuli supraliminaires successifs à un axone, quels éléments doivent être retenus ?",
+      "choices": [
+        "La réponse au second stimulus dépend de l’intervalle de temps séparant les deux stimuli.",
+        "La réponse dépend de l’état d’excitabilité membranaire au moment du second stimulus.",
+        "Si les deux stimuli sont très rapprochés en période réfractaire absolue, le second ne déclenche pas de nouveau potentiel d’action.",
+        "L’échec du second stimulus est expliqué par une atténuation du premier potentiel d’action le long de l’axone."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réponse dépend du délai et de l’excitabilité membranaire. En période réfractaire absolue, la membrane dépolarisée est inexcitable. L’atténuation n’est pas en cause."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant la période réfractaire relative, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La polarisation membranaire est en cours de restauration.",
+        "Un second stimulus peut déclencher un potentiel d’action si son intensité est suffisante.",
+        "La membrane est décrite comme totalement inexcitable.",
+        "Elle doit être distinguée de la période réfractaire absolue."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "En période réfractaire relative, la membrane récupère progressivement son excitabilité et un stimulus suffisamment intense peut être efficace. L’inexcitabilité totale caractérise la période réfractaire absolue."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la limitation de l’activité répétitive d’une cellule excitable, quelles affirmations sont exactes ?",
+      "choices": [
+        "La durée de la période réfractaire absolue conditionne la fréquence maximale de décharge.",
+        "La période réfractaire absolue empêche la genèse immédiate d’un nouveau potentiel d’action si le second stimulus est très rapproché.",
+        "La fréquence maximale de décharge est fixée exclusivement par la période réfractaire relative.",
+        "La distance au point de stimulation est présentée comme le déterminant principal de la fréquence maximale."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte relie directement la fréquence maximale de décharge à la durée de la période réfractaire absolue, qui empêche une réponse immédiate à un second stimulus très rapproché."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’un potentiel d’action est enregistré par plusieurs électrodes placées à distance croissante du point de stimulation, quelles constatations sont attendues ?",
+      "choices": [
+        "Chaque point enregistre un potentiel d’action de même amplitude.",
+        "Le temps de latence augmente avec la distance au point de stimulation.",
+        "L’amplitude diminue progressivement au fur et à mesure de la propagation.",
+        "Un délai plus long peut coexister avec une amplitude inchangée."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La propagation se fait sans atténuation : l’amplitude reste identique. En revanche, le temps de latence augmente avec la distance."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour identifier le type de fibre nerveuse à partir de son mode de conduction, quelles associations sont correctes ?",
+      "choices": [
+        "Fibre myélinisée : conduction rapide.",
+        "Fibre myélinisée : conduction saltatoire.",
+        "Fibre amyélinique : conduction plus lente.",
+        "Fibre amyélinique : conduction saltatoire rapide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les fibres myélinisées conduisent rapidement selon un mode saltatoire. Les fibres amyéliniques conduisent plus lentement par propagation de proche en proche."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de la propagation axonale d’un potentiel d’action déjà déclenché, quelles observations seraient contraires aux données du texte ?",
+      "choices": [
+        "Une diminution progressive de l’amplitude avec la distance.",
+        "Une amplitude identique associée à une latence croissante.",
+        "Une latence qui diminue lorsque la distance au point de stimulation augmente.",
+        "La nécessité d’une nouvelle stimulation externe de chaque segment membranaire."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit une propagation autonome sans atténuation, avec latence croissante selon la distance. Il ne faut donc pas attendre une diminution d’amplitude ni une restimulation de chaque segment."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une description rigoureuse des modalités de propagation du potentiel d’action, quelles propositions sont exactes ?",
+      "choices": [
+        "La propagation est autonome.",
+        "Dans les fibres amyéliniques, elle repose sur des circuits locaux de proche en proche.",
+        "Dans les fibres myélinisées, elle se fait selon un mode saltatoire.",
+        "Elle reste limitée au point initialement stimulé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La propagation est autonome et se poursuit le long de la membrane. Le mode dépend du type de fibre : saltatoire dans les fibres myélinisées, de proche en proche dans les fibres amyéliniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Au sujet des phénomènes suivant la repolarisation rapide, quelles affirmations sont exactes ?",
+      "choices": [
+        "Le potentiel de membrane peut devenir plus négatif que le potentiel de repos.",
+        "Le retour au potentiel de repos se fait plus lentement.",
+        "L’hyperpolarisation est décrite comme obligatoire à chaque potentiel d’action.",
+        "L’hyperpolarisation précède la phase ascendante."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "À la fin de la repolarisation, une hyperpolarisation peut apparaître, puis le retour au potentiel de repos est plus lent. Le texte emploie « peut », donc elle n’est pas présentée comme obligatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles distinctions permettent d’éviter les principales confusions dans l’analyse d’un potentiel d’action axonal ?",
+      "choices": [
+        "L’atteinte du seuil déclenche le potentiel d’action, tandis que l’amplitude constante caractérise le potentiel d’action déjà déclenché.",
+        "Deux stimuli supraliminaires très rapprochés déclenchent toujours deux potentiels d’action successifs.",
+        "L’augmentation du temps de latence avec la distance ne signifie pas une atténuation de l’amplitude.",
+        "En période réfractaire relative, un second stimulus n’est pas nécessairement inefficace si son intensité est suffisante."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le seuil concerne le déclenchement, alors que la constance d’amplitude concerne la propagation. La latence augmente avec la distance sans atténuation. En période réfractaire relative, un stimulus suffisamment intense peut être efficace."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans un enregistrement axonal, quel résultat traduit le plus directement une propagation sans atténuation ?",
+      "choices": [
+        "Des potentiels d’action de même amplitude aux différents sites, avec une latence croissante.",
+        "Des potentiels d’action d’amplitude décroissante aux sites les plus éloignés.",
+        "Une latence identique quel que soit l’éloignement du point de stimulation.",
+        "Un potentiel d’action uniquement visible au point stimulé."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La propagation sans atténuation se manifeste par une amplitude identique à distance, tandis que la latence augmente avec l’éloignement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement la phase ascendante du potentiel d’action ?",
+      "choices": [
+        "Une repolarisation rapide vers le niveau initial.",
+        "Une dépolarisation rapide.",
+        "Une hyperpolarisation plus négative que le potentiel de repos.",
+        "Un retour lent au potentiel de repos."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La phase ascendante correspond à la dépolarisation rapide. La phase descendante correspond à la repolarisation rapide."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle interprétation correspond au passage du potentiel intracellulaire d’environ -50 mV à environ +40 mV ?",
+      "choices": [
+        "Une hyperpolarisation postérieure à la repolarisation.",
+        "Une repolarisation lente vers le potentiel de repos.",
+        "Une inversion rapide et ample de la polarisation membranaire d’environ 90 mV.",
+        "Une absence d’atteinte du seuil de déclenchement."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte décrit ce passage comme une inversion rapide et ample de la polarisation membranaire, avec une variation d’environ 90 mV."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé caractérise le mieux la conduction dans les fibres nerveuses amyéliniques ?",
+      "choices": [
+        "Elle est rapide et saltatoire.",
+        "Elle est plus lente et repose sur des circuits locaux de proche en proche.",
+        "Elle ne se propage pas au-delà du point stimulé.",
+        "Elle se fait sans temps de latence croissant avec la distance."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans les fibres amyéliniques, la conduction est plus lente et repose sur la propagation de proche en proche par circuits locaux."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la condition immédiate de déclenchement d’un potentiel d’action dans une membrane excitable ?",
+      "choices": [
+        "L’atteinte du seuil de déclenchement par le potentiel membranaire.",
+        "La présence obligatoire d’une gaine de myéline.",
+        "L’apparition préalable d’une hyperpolarisation.",
+        "La diminution progressive de l’amplitude du signal propagé."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le potentiel d’action est déclenché lorsque le potentiel membranaire atteint un seuil de déclenchement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle séquence respecte le mieux l’enchaînement décrit des événements du potentiel d’action ?",
+      "choices": [
+        "Hyperpolarisation, atteinte du seuil, dépolarisation rapide, retour lent au repos.",
+        "Atteinte du seuil, dépolarisation rapide, repolarisation rapide, hyperpolarisation possible, retour lent au repos.",
+        "Repolarisation rapide, dépolarisation rapide, atteinte du seuil, hyperpolarisation.",
+        "Dépolarisation rapide, retour lent au repos, repolarisation rapide, hyperpolarisation."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Après l’atteinte du seuil survient la phase ascendante de dépolarisation rapide, puis la repolarisation rapide, une hyperpolarisation éventuelle et enfin un retour plus lent au potentiel de repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’enchaînement causal menant au potentiel d’action, quelles affirmations sont justifiées par le texte ?",
+      "choices": [
+        "Une stimulation locale n’est efficace que si elle entraîne une dépolarisation atteignant la valeur seuil.",
+        "L’atteinte du seuil de déclenchement provoque l’apparition d’un potentiel d’action.",
+        "Toute stimulation ponctuelle déclenche un potentiel d’action, quelle que soit son intensité.",
+        "Une dépolarisation insuffisante n’est pas décrite comme capable de déclencher un potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise que la stimulation doit provoquer une dépolarisation suffisante atteignant le seuil. Une stimulation quelconque ou insuffisante ne déclenche pas le potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la caractérisation générale du potentiel d’action, quelles propositions reprennent correctement les éléments du texte ?",
+      "choices": [
+        "Il s’agit d’une inversion brutale, transitoire et propagée du potentiel de membrane.",
+        "Il correspond à une modification lente, permanente et non propagée du potentiel membranaire.",
+        "Il implique une inversion du potentiel de membrane.",
+        "Son atténuation progressive fait partie de sa définition."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le potentiel d’action est défini comme une inversion brutale, transitoire et propagée du potentiel de membrane, sans atténuation."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’exemple axonal chiffré, quelles interprétations sont exactes ?",
+      "choices": [
+        "Le potentiel intracellulaire devient positif, aux environs de +40 mV.",
+        "Le potentiel intracellulaire part d’une valeur négative proche de -50 mV.",
+        "La variation globale indiquée est d’environ 90 mV.",
+        "Le texte affirme que le seuil de déclenchement est précisément égal à +40 mV."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le passage décrit va d’environ -50 mV à +40 mV, soit environ 90 mV. Le texte ne donne pas la valeur numérique du seuil."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’analyse des phases d’un potentiel d’action, quelles correspondances sont correctes ?",
+      "choices": [
+        "La phase ascendante correspond à une dépolarisation rapide.",
+        "La phase descendante correspond à une repolarisation rapide.",
+        "L’hyperpolarisation peut apparaître à la fin de la repolarisation.",
+        "Le retour au potentiel de repos est plus lent."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre propositions reprennent directement la description temporelle des phases du potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la loi du tout ou rien appliquée au potentiel d’action, quelles propositions sont exactes ?",
+      "choices": [
+        "Une fois déclenché, le potentiel d’action garde une amplitude constante.",
+        "L’amplitude ne diminue pas avec la distance parcourue.",
+        "Le potentiel d’action est un phénomène graduel dont l’amplitude décroît progressivement.",
+        "Chaque point de la membrane axonale enregistre un potentiel d’action de même amplitude."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le caractère tout ou rien et la propagation sans atténuation impliquent une amplitude constante, y compris lors des enregistrements successifs le long de l’axone."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour comprendre la réponse d’un axone à deux stimuli supraliminaires successifs, quelles données doivent être intégrées ?",
+      "choices": [
+        "L’intervalle de temps séparant les deux stimuli.",
+        "L’état d’excitabilité membranaire au moment du second stimulus.",
+        "L’existence d’une inexcitabilité membranaire pendant la période réfractaire absolue.",
+        "La possibilité, en période réfractaire relative, qu’un stimulus même insuffisant déclenche toujours un potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réponse dépend du délai et de l’excitabilité. En période relative, le second stimulus doit avoir une intensité suffisante."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la période réfractaire absolue, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Sa durée conditionne la fréquence maximale de décharge d’une cellule excitable.",
+        "Deux stimuli très rapprochés ne donnent pas deux potentiels d’action successifs.",
+        "L’échec du second stimulus est expliqué par une membrane hyperpolarisée et hyperexcitable.",
+        "Elle détermine directement l’amplitude maximale du potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Pendant la période réfractaire absolue, la membrane dépolarisée est inexcitabile ; sa durée limite la fréquence maximale de décharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’un enregistrement du potentiel d’action en plusieurs sites axonaux, quelles observations sont attendues ?",
+      "choices": [
+        "Les différents sites enregistrent un potentiel d’action de même amplitude.",
+        "Le temps de latence augmente avec la distance au point de stimulation.",
+        "Le site le plus éloigné enregistre toujours le potentiel d’action avant le site le plus proche.",
+        "Un enregistrement plus tardif mais non atténué est compatible avec la propagation décrite."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La propagation se fait sans atténuation, mais le délai d’apparition augmente avec la distance parcourue."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités de conduction nerveuse, quelles associations sont exactes ?",
+      "choices": [
+        "Fibre myélinisée : conduction rapide de type saltatoire.",
+        "Fibre amyélinique : conduction plus lente par propagation de proche en proche.",
+        "Fibre amyélinique : conduction plus rapide que celle décrite dans les fibres myélinisées.",
+        "Dans le texte, la myélinisation est associée à une conduction rapide."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte oppose la conduction saltatoire rapide des fibres myélinisées à la conduction plus lente de proche en proche des fibres amyéliniques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’hyperpolarisation et du retour au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hyperpolarisation signifie que le potentiel de membrane devient plus négatif que le potentiel de repos.",
+        "Elle peut survenir à la fin de la repolarisation.",
+        "Le retour au potentiel de repos se fait plus lentement.",
+        "L’hyperpolarisation correspond à la phase ascendante du potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hyperpolarisation est un dépassement négatif après la repolarisation, suivi d’un retour plus lent au potentiel de repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations associent correctement l’état membranaire et la réponse au second stimulus ?",
+      "choices": [
+        "En période réfractaire absolue, un second stimulus très rapproché ne déclenche pas de nouveau potentiel d’action.",
+        "En période réfractaire relative, un second stimulus peut être efficace si son intensité est suffisante.",
+        "En période réfractaire absolue, l’augmentation de l’intensité du second stimulus suffit toujours à déclencher un potentiel d’action.",
+        "La réponse au second stimulus est indépendante de l’intervalle entre les deux stimulations."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’absolue correspond à l’inexcitabilité ; la relative permet une réponse si l’intensité est suffisante. Le délai entre les stimuli est déterminant."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la chronologie d’un potentiel d’action axonal, quelles affirmations respectent la description du texte ?",
+      "choices": [
+        "L’atteinte du seuil précède l’apparition du potentiel d’action.",
+        "La dépolarisation rapide précède la repolarisation rapide.",
+        "L’hyperpolarisation peut suivre la fin de la repolarisation.",
+        "Le retour au potentiel de repos est décrit comme plus lent."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit successivement l’atteinte du seuil, la dépolarisation rapide, la repolarisation rapide, une possible hyperpolarisation, puis un retour lent au repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions s’opposent à l’idée d’une simple propagation passive atténuée du signal ?",
+      "choices": [
+        "Le potentiel d’action se propage sans atténuation.",
+        "La propagation est autonome le long de la membrane de l’élément excitable.",
+        "L’amplitude du signal diminue progressivement à mesure que la distance augmente.",
+        "Des points successifs de l’axone enregistrent un potentiel d’action de même amplitude."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte insiste sur une propagation autonome et sans atténuation, avec une amplitude constante aux différents points de l’axone."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le seuil et les stimuli supraliminaires, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "Même supraliminaire, un second stimulus très rapproché peut être inefficace en période réfractaire absolue.",
+        "En période réfractaire relative, l’intensité du second stimulus intervient dans la possibilité de déclencher un potentiel d’action.",
+        "Une fois le seuil dépassé, le texte décrit une augmentation progressive de l’amplitude avec l’intensité du stimulus.",
+        "Le seuil de déclenchement est la condition immédiate d’apparition du potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le seuil déclenche le potentiel d’action, mais l’état réfractaire module la réponse au second stimulus. Le texte ne décrit pas d’amplitude croissante avec l’intensité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formulation définit le plus correctement le potentiel d’action selon le texte ?",
+      "choices": [
+        "Une diminution durable du potentiel intracellulaire sans propagation.",
+        "Une fluctuation locale atténuée du potentiel de membrane.",
+        "Une inversion brutale, transitoire et propagée du potentiel de membrane.",
+        "Un retour lent au potentiel de repos sans phase préalable."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La définition donnée est celle d’une inversion brutale, transitoire et propagée du potentiel de membrane."
+    },
+    {
+      "type": "QCS",
+      "question": "Deux électrodes enregistrent le même potentiel d’action sur un axone, la seconde étant plus éloignée du point de stimulation. Quel résultat est attendu ?",
+      "choices": [
+        "Une amplitude plus faible et un délai plus court sur la seconde électrode.",
+        "Une amplitude identique avec un temps de latence plus long sur la seconde électrode.",
+        "Une amplitude identique avec un temps de latence plus court sur la seconde électrode.",
+        "Une disparition obligatoire du signal sur la seconde électrode."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le potentiel d’action conserve son amplitude, mais son temps de latence augmente avec la distance."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle condition permet à un second stimulus d’être efficace pendant la période réfractaire relative ?",
+      "choices": [
+        "Que la membrane soit totalement inexcitabile.",
+        "Que son intensité soit suffisante pendant la restauration de la polarisation membranaire.",
+        "Que le potentiel d’action précédent soit encore en phase ascendante.",
+        "Qu’il soit appliqué indépendamment de l’état d’excitabilité membranaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Pendant la période réfractaire relative, un second potentiel d’action peut survenir si le stimulus est suffisamment intense."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel type de fibre nerveuse correspond à une conduction plus lente reposant sur des circuits locaux de proche en proche ?",
+      "choices": [
+        "Une fibre nerveuse myélinisée.",
+        "Une fibre nerveuse amyélinique.",
+        "Une fibre à conduction saltatoire rapide.",
+        "Une fibre dont le potentiel d’action s’atténue avec la distance."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les fibres amyéliniques ont une conduction plus lente par propagation de proche en proche grâce aux circuits locaux."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme explique l’absence de nouveau potentiel d’action lors d’un second stimulus très rapproché en période réfractaire absolue ?",
+      "choices": [
+        "La membrane dépolarisée est inexcitabile.",
+        "Le potentiel d’action précédent s’est atténué avec la distance.",
+        "La membrane est revenue complètement au repos.",
+        "La conduction devient obligatoirement amyélinique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En période réfractaire absolue, la membrane dépolarisée est inexcitabile, ce qui empêche un nouveau potentiel d’action."
+    },
+    {
+      "type": "QCS",
+      "question": "À quelle phase correspond le retour rapide du potentiel de membrane vers son niveau initial ?",
+      "choices": [
+        "La phase ascendante de dépolarisation rapide.",
+        "La phase descendante de repolarisation rapide.",
+        "La conduction saltatoire.",
+        "La période réfractaire relative uniquement."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La phase descendante correspond à la repolarisation rapide, durant laquelle le potentiel revient vers son niveau initial."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une expérience de stimulation ponctuelle d’une membrane excitable, quels éléments appartiennent à la chaîne causale décrite menant au potentiel d’action ?",
+      "choices": [
+        "La stimulation doit entraîner une dépolarisation membranaire suffisante",
+        "La valeur seuil doit être atteinte",
+        "L’inversion de polarisation apparaît lorsque la membrane reste au potentiel de repos",
+        "Le phénomène obtenu est propagé le long de la membrane"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte indique qu’une stimulation efficace provoque une dépolarisation suffisante atteignant le seuil, puis un potentiel d’action propagé. Il ne survient pas lorsque la membrane reste au repos."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’inversion brutale du potentiel de membrane dans l’axone, quelles propositions sont conformes aux données chiffrées du texte ?",
+      "choices": [
+        "Le potentiel intracellulaire initial indiqué est d’environ -50 mV",
+        "Le potentiel intracellulaire devient positif, autour de +40 mV",
+        "La variation globale indiquée est d’environ 90 mV",
+        "L’inversion correspond à un passage de +50 mV à -40 mV"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit un passage d’environ -50 mV à +40 mV, soit une variation d’environ 90 mV. Le sens inverse n’est pas décrit."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’interprétation de la loi du tout ou rien appliquée au potentiel d’action, quelles affirmations doivent être retenues ?",
+      "choices": [
+        "Une fois déclenché, le potentiel d’action garde une amplitude constante",
+        "Son amplitude ne diminue pas avec la distance parcourue",
+        "Son amplitude augmente progressivement avec la distance",
+        "Il ne s’agit pas d’une réponse graduée proportionnelle à l’éloignement du point de stimulation"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action obéit à la loi du tout ou rien : lorsqu’il est déclenché, il conserve son amplitude et ne s’atténue pas lors de sa propagation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’analyse morphologique d’un tracé de potentiel d’action, quelles correspondances sont exactes ?",
+      "choices": [
+        "La phase ascendante traduit une dépolarisation rapide",
+        "La phase descendante traduit une repolarisation rapide",
+        "L’hyperpolarisation correspond à un potentiel plus négatif que le potentiel de repos",
+        "Le retour final au potentiel de repos est décrit comme plus rapide que la repolarisation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase ascendante est une dépolarisation rapide, la descendante une repolarisation rapide. L’hyperpolarisation est un dépassement négatif du repos. Le retour au repos est décrit comme plus lent."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour identifier correctement l’hyperpolarisation après un potentiel d’action, quelles propositions sont justes ?",
+      "choices": [
+        "Elle peut survenir à la fin de la repolarisation",
+        "Elle correspond à un potentiel membranaire plus négatif que le potentiel de repos",
+        "Elle est suivie d’un retour plus lent vers le potentiel de repos",
+        "Elle correspond à la phase d’inversion positive maximale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte situe l’hyperpolarisation à la fin de la repolarisation, lorsque le potentiel devient plus négatif que le repos, avant un retour lent au potentiel de repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la période réfractaire absolue, quelles propositions traduisent correctement l’état fonctionnel de la membrane ?",
+      "choices": [
+        "Un second stimulus très rapproché ne déclenche pas de nouveau potentiel d’action",
+        "La membrane dépolarisée est décrite comme inexcitable",
+        "Cette période intervient dans la limitation de la fréquence maximale de décharge",
+        "Un stimulus plus rapproché déclenche toujours un potentiel d’action de plus grande amplitude"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pendant la période réfractaire absolue, un second stimulus très rapproché est inefficace car la membrane est inexcitable. Sa durée conditionne la fréquence maximale de décharge."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant la période réfractaire relative, quels éléments sont conformes au texte ?",
+      "choices": [
+        "La polarisation membranaire est en cours de restauration",
+        "Un second stimulus peut être efficace si son intensité est suffisante",
+        "La membrane est totalement inexcitable quelle que soit la stimulation",
+        "La réponse dépend de l’état d’excitabilité au moment du second stimulus"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La période réfractaire relative correspond à une restauration de la polarisation ; un second stimulus peut déclencher un potentiel d’action s’il est suffisamment intense."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour analyser la réponse d’un axone soumis à deux stimuli supraliminaires successifs, quelles informations sont indispensables selon le texte ?",
+      "choices": [
+        "L’intervalle de temps séparant les deux stimuli",
+        "L’état d’excitabilité membranaire lors du second stimulus",
+        "Le caractère absolu ou relatif de la période réfractaire traversée",
+        "La pagination du document décrivant l’expérience"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réponse au second stimulus dépend de l’intervalle temporel et de l’état d’excitabilité membranaire, ce qui renvoie aux périodes réfractaires absolue et relative."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’un enregistrement du potentiel d’action sur plusieurs points d’un axone, quelles observations sont attendues ?",
+      "choices": [
+        "Chaque point enregistre un potentiel d’action de même amplitude",
+        "Le temps de latence augmente avec la distance au point de stimulation",
+        "L’amplitude diminue progressivement à mesure que la distance augmente",
+        "La propagation se fait sans atténuation"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise que chaque point enregistre un potentiel d’action de même amplitude, avec une latence croissante selon la distance, traduisant l’absence d’atténuation."
+    },
+    {
+      "type": "QCM",
+      "question": "En comparant les deux types de fibres nerveuses mentionnés, quelles associations sont exactes ?",
+      "choices": [
+        "Fibre myélinisée : conduction rapide",
+        "Fibre myélinisée : conduction saltatoire",
+        "Fibre amyélinique : propagation de proche en proche par circuits locaux",
+        "Fibre amyélinique : conduction saltatoire rapide"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les fibres myélinisées ont une conduction rapide saltatoire. Les fibres amyéliniques ont une conduction plus lente de proche en proche par circuits locaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions permettent de distinguer la propagation du potentiel d’action d’une simple diffusion passive atténuée ?",
+      "choices": [
+        "Le potentiel d’action se propage de manière autonome",
+        "Il conserve son amplitude tout au long de la membrane",
+        "Il s’atténue progressivement au cours du trajet",
+        "Les sites plus éloignés présentent surtout un retard d’apparition"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La propagation décrite est autonome et sans atténuation. La distance se traduit par une augmentation du temps de latence, non par une diminution d’amplitude."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du seuil de déclenchement, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "Le potentiel d’action apparaît lorsque le potentiel membranaire atteint le seuil",
+        "Une dépolarisation suffisante est nécessaire pour atteindre cette valeur seuil",
+        "L’hyperpolarisation est présentée comme le mécanisme déclenchant initial du potentiel d’action",
+        "L’atteinte du seuil précède l’inversion rapide de la polarisation membranaire"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le déclenchement survient après une dépolarisation atteignant le seuil, ce qui précède l’inversion rapide de la polarisation. L’hyperpolarisation est un phénomène tardif."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la succession des événements électriques axonaux, quelles affirmations respectent la description du texte ?",
+      "choices": [
+        "La dépolarisation rapide correspond à la phase ascendante",
+        "La repolarisation rapide ramène le potentiel vers son niveau initial",
+        "L’hyperpolarisation peut suivre la fin de la repolarisation",
+        "Le retour au repos précède obligatoirement la phase ascendante du même potentiel d’action"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La séquence décrite est : dépolarisation rapide, repolarisation rapide, hyperpolarisation éventuelle, puis retour plus lent au potentiel de repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Un potentiel d’action est enregistré à distance croissante du point stimulé. Quelles interprétations sont correctes si les tracés gardent la même amplitude mais apparaissent plus tardivement ?",
+      "choices": [
+        "Le phénomène observé correspond à une propagation sans atténuation",
+        "L’augmentation du délai traduit un temps de latence croissant avec la distance",
+        "La stimulation devient progressivement infraliminaire le long de l’axone",
+        "L’amplitude constante est compatible avec la loi du tout ou rien"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Des amplitudes identiques avec des latences croissantes correspondent à la propagation sans atténuation d’un potentiel d’action tout ou rien."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé résume le mieux la différence enregistrée entre un point axonal proche et un point plus éloigné du site de stimulation ?",
+      "choices": [
+        "Le point éloigné enregistre une amplitude plus faible",
+        "Le point éloigné enregistre le même potentiel d’action avec une latence plus grande",
+        "Le point éloigné enregistre un potentiel d’action de polarité opposée",
+        "Le point éloigné n’enregistre aucun potentiel d’action si le premier point en a enregistré un"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Selon le texte, l’amplitude reste la même, mais le temps de latence augmente avec la distance au point de stimulation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à la phase descendante du potentiel d’action ?",
+      "choices": [
+        "Dépolarisation rapide",
+        "Repolarisation rapide avec retour du potentiel vers son niveau initial",
+        "Hyperpolarisation initiale déclenchante",
+        "Conduction saltatoire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La phase descendante est définie dans le texte comme une repolarisation rapide durant laquelle le potentiel revient vers son niveau initial."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation un second stimulus peut-il déclencher un potentiel d’action pendant la période réfractaire relative ?",
+      "choices": [
+        "Lorsque la membrane est dépolarisée et totalement inexcitable",
+        "Lorsque la polarisation est en cours de restauration et que l’intensité du stimulus est suffisante",
+        "Lorsque le stimulus est appliqué avant toute restauration de la polarisation",
+        "Lorsque l’amplitude du premier potentiel d’action s’est atténuée"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Pendant la période réfractaire relative, un second stimulus peut être efficace si son intensité est suffisante alors que la polarisation membranaire se restaure."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mode de conduction est attribué aux fibres nerveuses myélinisées dans le texte ?",
+      "choices": [
+        "Conduction lente par circuits locaux uniquement",
+        "Conduction rapide selon un mode saltatoire",
+        "Conduction sans propagation membranaire",
+        "Conduction avec atténuation obligatoire de l’amplitude"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les fibres nerveuses myélinisées sont décrites comme ayant une conduction rapide de type saltatoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle variation du potentiel intracellulaire est rapportée lors de l’inversion axonale décrite ?",
+      "choices": [
+        "Environ 10 mV",
+        "Environ 40 mV",
+        "Environ 50 mV",
+        "Environ 90 mV"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le potentiel intracellulaire passe d’environ -50 mV à +40 mV, soit une variation d’environ 90 mV."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur conditionne la fréquence maximale de décharge d’une cellule excitable selon le texte ?",
+      "choices": [
+        "La durée de la période réfractaire absolue",
+        "La distance entre deux électrodes d’enregistrement",
+        "Le caractère amyélinique ou myélinique uniquement",
+        "La valeur positive maximale atteinte par le potentiel intracellulaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la durée de la période réfractaire absolue conditionne la fréquence maximale de décharge d’une cellule excitable."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T20:37:21.250Z"
+}

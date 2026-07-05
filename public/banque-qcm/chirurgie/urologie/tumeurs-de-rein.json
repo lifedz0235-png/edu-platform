@@ -1,0 +1,3138 @@
+{
+  "category": "chirurgie",
+  "module": "urologie",
+  "courseId": null,
+  "courseTitle": null,
+  "supportTitle": "tumeurs_de_rein.pdf",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/tumeurs de rein.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les circonstances de découverte des tumeurs du rein de l’adulte, quelles propositions sont exactes ?",
+      "choices": [
+        "La découverte est fortuite dans environ 70 à 80 % des cas lors d’une imagerie abdominale réalisée pour une autre indication.",
+        "L’hématurie macroscopique et la lombalgie peuvent révéler une tumeur rénale.",
+        "Les signes généraux orientent souvent vers une maladie localement avancée ou métastatique.",
+        "La majorité des tumeurs du rein sont découvertes par une triade clinique complète."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La majorité des tumeurs rénales sont découvertes fortuitement. Elles peuvent aussi être révélées par hématurie, lombalgie ou signes généraux évocateurs d’une maladie avancée. La triade clinique complète n’est pas décrite comme mode habituel de découverte dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’épidémiologie du cancer du rein chez l’adulte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le cancer du rein est le 6e cancer solide de l’adulte.",
+        "Son incidence augmente progressivement.",
+        "Il survient plus souvent chez la femme que chez l’homme.",
+        "Le pic d’incidence se situe entre 60 et 70 ans."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le cancer du rein est le 6e cancer solide de l’adulte, son incidence augmente, et son pic se situe entre 60 et 70 ans. Il est plus fréquent chez l’homme, avec un sex-ratio d’environ 1,5 homme pour 1 femme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution métastatique du cancer du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Environ 10 à 20 % des cancers rénaux sont métastatiques d’emblée au diagnostic.",
+        "Après néphrectomie pour tumeur localisée, 10 à 30 % des patients développeront secondairement des métastases.",
+        "Les métastases rénales surviennent exclusivement dans le poumon, le foie et l’os.",
+        "Des métastases peuvent apparaître plusieurs années après le diagnostic initial."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise que 10 à 20 % sont métastatiques d’emblée et que 10 à 30 % développent secondairement des métastases après néphrectomie. Les sites fréquents incluent poumon, foie, os, surrénales et cerveau, mais tout organe peut être atteint, parfois plusieurs années après."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels sont des facteurs de risque reconnus de cancer du rein selon le texte ?",
+      "choices": [
+        "Tabagisme.",
+        "Obésité.",
+        "Hypertension artérielle.",
+        "Hypothyroïdie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs de risque cités comprennent le tabagisme, l’obésité, le sexe masculin, l’hypertension artérielle, l’insuffisance rénale, la transplantation rénale, le trichloréthylène et les prédispositions génétiques familiales. L’hypothyroïdie n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre prédisposition génétique familiale et type de carcinome rénal sont exactes ?",
+      "choices": [
+        "Maladie de Von Hippel-Lindau liée au gène VHL : carcinomes à cellules claires.",
+        "Cancer rénal papillaire héréditaire lié au gène MET : carcinomes papillaires de type 1.",
+        "Léiomyomatose cutanéo-utérine héréditaire liée au gène FH : carcinomes papillaires de type 2.",
+        "Syndrome de Birt-Hogg-Dubé lié au gène BHD : carcinomes à cellules claires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "VHL prédispose aux carcinomes à cellules claires, MET aux carcinomes papillaires de type 1, FH aux carcinomes papillaires de type 2. Le syndrome de Birt-Hogg-Dubé lié à BHD prédispose aux carcinomes chromophobes, non aux carcinomes à cellules claires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes histologiques malignes des tumeurs rénales, quelles propositions sont exactes ?",
+      "choices": [
+        "Le carcinome rénal à cellules claires représente environ 75 à 85 % des cancers rénaux.",
+        "Le carcinome tubulopapillaire représente environ 12 à 14 % des cancers rénaux.",
+        "Le carcinome chromophobe représente environ 4 à 6 % des cancers rénaux.",
+        "Le carcinome chromophobe est le type histologique malin le plus fréquent."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le carcinome à cellules claires est le plus fréquent, suivi du carcinome tubulopapillaire, puis du carcinome chromophobe. Le chromophobe n’est donc pas le type le plus fréquent."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le grade tumoral ISUP dans les carcinomes rénaux, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à l’ancien grade de Fuhrman.",
+        "Il est utilisé pour les carcinomes rénaux à cellules claires et les carcinomes tubulopapillaires.",
+        "Il varie de 1 à 4.",
+        "Les grades 1 et 2 correspondent au haut grade."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le grade ISUP, anciennement Fuhrman, s’applique aux carcinomes à cellules claires et tubulopapillaires. Il varie de 1 à 4. Les grades 1 et 2 sont de bas grade, les grades 3 et 4 de haut grade."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs bénignes du rein citées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’oncocytome est aussi appelé adénome oncocytaire.",
+        "L’oncocytome est plus fréquent chez la femme.",
+        "L’angiomyolipome associe des composantes adipeuse, musculaire et vasculaire.",
+        "L’angiomyolipome est toujours volumineux et multiple."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’oncocytome, ou adénome oncocytaire, est plus fréquent chez la femme. L’angiomyolipome comporte trois composantes : graisseuse, musculaire et vasculaire. Il est le plus souvent petit et isolé, mais peut être volumineux et multiple."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’angiomyolipome rénal, quelles propositions sont exactes ?",
+      "choices": [
+        "Son diagnostic peut être évoqué en imagerie devant une plage graisseuse avec densité négative à la tomodensitométrie.",
+        "Son principal risque est l’hémorragie.",
+        "Un traitement préventif peut se justifier lorsque la taille tumorale est supérieure à 4 cm.",
+        "Il concerne environ 10 à 20 % de la population."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’angiomyolipome est la seule tumeur bénigne dont le diagnostic peut être évoqué en imagerie devant une plage graisseuse à densité négative au scanner. Son risque principal est l’hémorragie, surtout au-delà de 4 cm. Sa fréquence est rare, environ 0,1 à 0,2 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations peuvent rendre une tumeur du rein symptomatique ?",
+      "choices": [
+        "Tumeur volumineuse responsable de pesanteur lombaire ou de masse lombaire palpable.",
+        "Envahissement des voies excrétrices avec hématurie microscopique ou macroscopique.",
+        "Maladie métastatique avec altération de l’état général, asthénie ou amaigrissement.",
+        "Présence systématique d’une douleur thoracique inaugurale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs rénales peuvent devenir symptomatiques par volume tumoral, envahissement des voies excrétrices, maladie métastatique, métastases symptomatiques ou syndrome paranéoplasique. La douleur thoracique systématique n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments doivent faire envisager une consultation d’oncogénétique devant une tumeur rénale ?",
+      "choices": [
+        "Âge de survenue inférieur à 45 ans.",
+        "Tumeurs rénales multiples ou bilatérales.",
+        "Antécédent familial de cancer du rein.",
+        "Tumeur unique à cellules claires chez un patient de 70 ans sans antécédent familial."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une consultation d’oncogénétique est à envisager en cas de survenue avant 45 ans, sous-type autre que cellules claires, tumeurs multiples ou bilatérales, antécédent familial ou manifestations extra-rénales évocatrices. Une tumeur unique à cellules claires à 70 ans sans contexte familial n’est pas un critère cité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’examen clinique devant une tumeur du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Il comprend la palpation de la fosse lombaire.",
+        "Il recherche une masse lombaire.",
+        "Il évalue l’état général.",
+        "Il remplace le bilan d’imagerie en cas de masse palpable."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen clinique comprend la palpation lombaire, la recherche d’une masse, l’évaluation de l’état général, et la recherche de signes neurologiques ou de douleurs osseuses en cas de suspicion métastatique. Il ne remplace pas l’imagerie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels examens appartiennent au bilan biologique initial d’une tumeur rénale selon le texte ?",
+      "choices": [
+        "Créatininémie.",
+        "Estimation de la clairance rénale par MDRD ou CKD-EPI.",
+        "Numération-formule sanguine.",
+        "Dosage systématique de la troponine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan biologique initial comprend la créatininémie, l’estimation de la clairance rénale et la numération-formule sanguine. La troponine n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de tumeur rénale métastatique, quels éléments biologiques doivent être ajoutés au bilan selon le texte ?",
+      "choices": [
+        "Bilan hépatique.",
+        "LDH.",
+        "Calcémie.",
+        "Bilan de coagulation et plaquettes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "En cas de tumeur métastatique, le texte ajoute au bilan : bilan hépatique, LDH, phosphatases alcalines, calcémie, bilan de coagulation et plaquettes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le type histologique malin le plus fréquent des cancers du rein de l’adulte ?",
+      "choices": [
+        "Carcinome chromophobe.",
+        "Carcinome tubulopapillaire de type 1.",
+        "Carcinome rénal à cellules claires.",
+        "Carcinome tubulopapillaire de type 2."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le carcinome rénal à cellules claires représente 75 à 85 % des cancers rénaux, ce qui en fait le type histologique malin le plus fréquent."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie génétique familiale est associée au cancer rénal papillaire héréditaire prédisposant aux carcinomes papillaires de type 1 ?",
+      "choices": [
+        "Gène VHL.",
+        "Gène MET.",
+        "Gène FH.",
+        "Gène BHD."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le cancer rénal papillaire héréditaire est lié au gène MET et prédispose aux carcinomes papillaires de type 1."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle tumeur bénigne du rein peut être évoquée en imagerie devant une plage graisseuse avec densité négative à la tomodensitométrie ?",
+      "choices": [
+        "Oncocytome.",
+        "Angiomyolipome.",
+        "Carcinome chromophobe.",
+        "Carcinome à cellules claires."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’angiomyolipome est la seule tumeur bénigne dont le diagnostic peut être évoqué en imagerie devant une plage graisseuse avec densité négative au scanner."
+    },
+    {
+      "type": "QCS",
+      "question": "À partir de quelle taille un angiomyolipome peut-il justifier un traitement préventif en raison du risque hémorragique ?",
+      "choices": [
+        "Supérieure à 1 cm.",
+        "Supérieure à 2 cm.",
+        "Supérieure à 3 cm.",
+        "Supérieure à 4 cm."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le principal risque de l’angiomyolipome est l’hémorragie, pouvant justifier un traitement préventif lorsque la taille tumorale est supérieure à 4 cm."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle particularité d’extension est caractéristique du cancer du rein selon le texte ?",
+      "choices": [
+        "Extension dans le système veineux cave à partir de la veine rénale.",
+        "Extension exclusive par voie lymphatique régionale.",
+        "Extension directe obligatoire vers la vessie.",
+        "Absence de métastases tardives après traitement initial."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une particularité du cancer du rein est sa capacité à s’étendre dans le système veineux cave à partir de la veine rénale. Il peut aussi métastaser tardivement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le rôle de l’échographie dans la démarche diagnostique d’une tumeur rénale selon le texte ?",
+      "choices": [
+        "Elle suffit toujours à décider du traitement.",
+        "Elle permet de différencier une tumeur solide d’une tumeur kystique.",
+        "Elle permet de déterminer à elle seule le grade ISUP.",
+        "Elle remplace la tomodensitométrie en cas de suspicion de tumeur maligne."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’échographie est un mode fréquent de découverte et permet de différencier une tumeur solide d’une tumeur kystique. Elle manque toutefois de précision et ne suffit pas à décider du traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le protocole de tomodensitométrie abdominale avec injection devant une tumeur du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Il doit comporter un temps sans injection.",
+        "Il doit comporter un temps artériel ou précoce.",
+        "Il doit comporter un temps tubulaire.",
+        "Il doit comporter un temps excréteur ou tardif."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le scanner abdominal injecté de référence comporte quatre temps : sans injection, artériel ou précoce, tubulaire, puis excréteur ou tardif."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments peuvent être caractérisés par la tomodensitométrie abdominale injectée d'une tumeur rénale ?",
+      "choices": [
+        "Le caractère tissulaire par une prise de contraste significative supérieure à 15 unités Hounsfield.",
+        "La taille et la topographie tumorales.",
+        "La présence d'une zone de densité graisseuse évocatrice d'angiomyolipome.",
+        "Le grade ISUP avec certitude."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le scanner caractérise le caractère tissulaire, kystique, la taille, la topographie, la graisse et la classification de Bosniak. Le grade ISUP relève de l'analyse histologique, notamment biopsique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l'évaluation de l'extension locorégionale par tomodensitométrie abdominale, quels éléments doivent être recherchés ?",
+      "choices": [
+        "Un thrombus tumoral dans la veine rénale.",
+        "Un thrombus tumoral dans la veine cave inférieure.",
+        "Un envahissement d'organes de voisinage comme le foie, le côlon ou la surrénale.",
+        "Des métastases cérébrales comme élément locorégional principal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le scanner abdominal recherche l'envahissement veineux, notamment veine rénale et veine cave inférieure, ainsi que l'extension aux organes de voisinage. Les métastases cérébrales relèvent du bilan à distance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les indications de l'IRM rénale dans l'exploration d'une tumeur du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est particulièrement indiquée en cas d'altération de la fonction rénale, notamment si la clairance est inférieure à 60 ml/min.",
+        "Elle est utile pour des lésions kystiques mal caractérisées par les autres examens.",
+        "Elle peut préciser le niveau supérieur d'un thrombus veineux.",
+        "Elle remplace systématiquement la tomodensitométrie abdominale injectée chez tous les patients."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L'IRM est indiquée en cas d'insuffisance rénale, de lésion kystique mal caractérisée et pour évaluer le niveau supérieur d'un thrombus veineux. Elle ne remplace pas systématiquement le scanner."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités techniques de la biopsie d'une tumeur du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est réalisée par voie percutanée.",
+        "Elle est réalisée sous anesthésie locale.",
+        "Elle est guidée par tomodensitométrie ou échographie.",
+        "Elle nécessite systématiquement une laparotomie sous anesthésie générale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La biopsie rénale tumorale est percutanée, sous anesthésie locale, avec guidage tomodensitométrique ou échographique. Elle ne nécessite pas systématiquement une laparotomie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles informations peuvent être apportées par la biopsie d'une tumeur rénale ?",
+      "choices": [
+        "Le caractère bénin ou malin.",
+        "Le sous-type histologique en cas de tumeur maligne.",
+        "Le grade ISUP.",
+        "La classification de Bosniak définitive d'un kyste."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La biopsie apporte des informations diagnostiques et pronostiques : bénignité ou malignité, sous-type histologique et grade ISUP. La classification de Bosniak est une classification radiologique des tumeurs kystiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations la biopsie d'une tumeur du rein est-elle indiquée selon le texte ?",
+      "choices": [
+        "Avant traitement médical d'une tumeur métastatique.",
+        "En cas d'incertitude diagnostique à l'imagerie, notamment suspicion de sarcome, lymphome ou métastase d'une autre tumeur.",
+        "Avant surveillance active ou thermo-ablation d'une petite tumeur.",
+        "Avant tout traitement d'une tumeur localisée de plus de 4 cm, sans exception."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La biopsie est indiquée si son résultat peut modifier la décision thérapeutique, notamment avant traitement médical métastatique, en cas d'incertitude diagnostique, avant surveillance active ou thermo-ablation. Elle n'est pas systématique pour les tumeurs localisées de plus de 4 cm."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une tumeur rénale avec suspicion de métastases, quels éléments cliniques peuvent être associés ?",
+      "choices": [
+        "Altération de l'état général.",
+        "Perte de poids.",
+        "Anémie.",
+        "Fièvre inexpliquée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le contexte clinique d'une tumeur rénale suspecte de métastases peut associer altération de l'état général, perte de poids, anémie et fièvre inexpliquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le bilan d'une tumeur rénale avec suspicion de métastases, quelles propositions sont exactes ?",
+      "choices": [
+        "Le diagnostic peut être confirmé par une tomodensitométrie thoracique, abdominale et pelvienne.",
+        "Le bilan peut être complété par une scintigraphie osseuse.",
+        "Le bilan peut être complété par une tomodensitométrie cérébrale.",
+        "Une preuve histologique est inutile avant toute décision thérapeutique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan repose sur la TDM thoraco-abdomino-pelvienne et peut être complété par scintigraphie osseuse ou TDM cérébrale. Une preuve histologique est nécessaire pour décider du traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les petites tumeurs du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Une petite tumeur du rein est une tumeur tissulaire isolée de moins de 4 cm.",
+        "Elles sont le plus souvent découvertes fortuitement.",
+        "Le bilan d'extension repose sur la tomodensitométrie thoracique, abdominale et pelvienne.",
+        "Elles sont bénignes dans environ 80 % des cas."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une petite tumeur rénale est tissulaire, isolée, inférieure à 4 cm, souvent fortuite. Le bilan d'extension repose sur la TDM thoraco-abdomino-pelvienne. Elles sont malignes dans environ 80 % des cas et bénignes dans environ 20 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs localisées du rein de plus de 4 cm, quelles propositions sont exactes ?",
+      "choices": [
+        "Les tumeurs T1b et T2 sont localisées au rein.",
+        "Elles n'ont pas dépassé la capsule rénale.",
+        "Elles sont souvent asymptomatiques et découvertes fortuitement.",
+        "La biopsie est toujours nécessaire avant traitement, sans cas particulier."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs T1b et T2 sont localisées au rein, sans dépassement capsulaire, souvent asymptomatiques et fortuites. Sauf cas particulier, la biopsie n'est pas nécessaire avant traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs rénales localement avancées, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles ne sont ni intracapsulaires T1-T2 ni métastatiques M1.",
+        "Elles sont malignes dans la grande majorité des cas.",
+        "Elles peuvent envahir la graisse périrénale, la veine rénale, la veine cave, les ganglions lombo-aortiques ou les organes de voisinage.",
+        "Elles sont classiquement moins symptomatiques que les tumeurs strictement intracapsulaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs localement avancées ne sont ni T1-T2 intracapsulaires ni M1, sont le plus souvent malignes et peuvent envahir les structures locorégionales. Elles sont plus souvent symptomatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs kystiques du rein et le kyste simple, quelles propositions sont exactes ?",
+      "choices": [
+        "Les tumeurs kystiques représentent 5 à 10 % des tumeurs du rein.",
+        "Elles sont généralement peu agressives.",
+        "Elles doivent être analysées par scanner abdominal ou IRM.",
+        "Un kyste simple ne nécessite ni traitement ni surveillance."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les tumeurs kystiques représentent 5 à 10 % des tumeurs rénales, sont généralement peu agressives et doivent être évaluées par scanner ou IRM. Les kystes simples sont bénins et ne nécessitent ni traitement ni surveillance."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments d'imagerie rendent un kyste rénal atypique, suspect ou tumoral ?",
+      "choices": [
+        "La présence de cloisons.",
+        "Un épaississement de la paroi ou des cloisons.",
+        "Des calcifications ou un rehaussement de la paroi ou des cloisons.",
+        "Des végétations intrakystiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les cloisons, épaississements pariétaux ou septaux, calcifications, rehaussement et végétations intrakystiques sont des critères d'atypie ou de suspicion tumorale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l'examen de référence pour le diagnostic d'une tumeur du rein selon le texte ?",
+      "choices": [
+        "L'échographie standard seule.",
+        "La tomodensitométrie abdominale avec injection.",
+        "La scintigraphie osseuse.",
+        "La tomodensitométrie cérébrale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La tomodensitométrie abdominale avec injection est l'examen de référence pour le diagnostic d'une tumeur du rein."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de rehaussement définit le caractère tissulaire significatif d'une tumeur rénale au scanner ?",
+      "choices": [
+        "Supérieur à 5 unités Hounsfield.",
+        "Supérieur à 10 unités Hounsfield.",
+        "Supérieur à 15 unités Hounsfield.",
+        "Supérieur à 50 unités Hounsfield."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le caractère tissulaire est défini par une prise de contraste significative supérieure à 15 unités Hounsfield."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principe général justifiant la réalisation d'une biopsie d'une tumeur du rein ?",
+      "choices": [
+        "Elle est recommandée lorsque son résultat est susceptible de modifier la décision thérapeutique.",
+        "Elle est obligatoire devant toute tumeur rénale quelle que soit la situation.",
+        "Elle est réservée uniquement aux kystes simples Bosniak I.",
+        "Elle est indiquée uniquement si la tumeur est strictement intracapsulaire et asymptomatique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La biopsie n'est pas systématique ; elle est recommandée si son résultat peut modifier la décision thérapeutique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la fréquence et la nature habituelle des complications de la biopsie rénale tumorale selon le texte ?",
+      "choices": [
+        "Elles sont supérieures à 50 % et le plus souvent graves.",
+        "Elles sont inférieures à 10 % et le plus souvent mineures.",
+        "Elles sont constantes mais toujours asymptomatiques.",
+        "Elles sont inconnues et non évaluables."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les complications de la biopsie sont peu fréquentes, inférieures à 10 %, et le plus souvent mineures."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément correspond à un kyste Bosniak I selon le texte ?",
+      "choices": [
+        "Présence de végétations intrakystiques.",
+        "Cloisons épaisses et rehaussées.",
+        "Absence de rehaussement après injection.",
+        "Calcifications pariétales multiples."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Un kyste Bosniak I est bénin, à paroi fine, sans cloisons, sans calcifications, sans composante tissulaire, de densité hydrique et sans rehaussement après injection."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation l'échographie de contraste peut-elle être utile devant une tumeur kystique rénale ?",
+      "choices": [
+        "Lorsque le scanner ou l'IRM ne permettent pas de conclure.",
+        "Pour remplacer systématiquement tout scanner abdominal injecté.",
+        "Pour affirmer à elle seule le grade ISUP.",
+        "Pour rechercher en première intention des métastases cérébrales."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L'échographie de contraste peut aider à analyser les tumeurs kystiques de diagnostic difficile, notamment si le scanner ou l'IRM ne permettent pas de conclure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant un kyste rénal classé Bosniak II, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à un kyste bénin atypique.",
+        "Une fine cloison peut être présente.",
+        "Un rehaussement significatif après injection est attendu.",
+        "Aucune surveillance n’est nécessaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Bosniak II correspond à un kyste bénin atypique pouvant comporter une fine cloison et de petites calcifications, sans rehaussement après injection, ne nécessitant pas de surveillance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les critères d’un kyste Bosniak IIF, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut comporter des cloisons nombreuses et fines.",
+        "Il peut présenter un minime épaississement pariétal ou septal inférieur ou égal à 1 mm.",
+        "Il est défini par des végétations intrakystiques se rehaussant.",
+        "Il nécessite une surveillance malgré son caractère probablement bénin."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le Bosniak IIF est probablement bénin mais nécessite une surveillance. Il peut comporter des cloisons nombreuses et fines, un épaississement minime ≤ 1 mm, un minime rehaussement, des calcifications régulières ou un kyste hyperdense entièrement intrarénal de 3 cm ou plus."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant un kyste rénal Bosniak III, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut présenter une paroi épaisse et irrégulière.",
+        "Il peut présenter des calcifications épaisses et irrégulières.",
+        "Son risque de malignité est supérieur à 50 %.",
+        "Une simple absence de surveillance est recommandée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Bosniak III est un kyste suspect, avec paroi épaisse et irrégulière, calcifications épaisses et irrégulières, rehaussement significatif de la paroi ou des cloisons, risque de malignité supérieur à 50 %, justifiant un traitement chirurgical."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant un kyste rénal Bosniak IV, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut comporter des végétations intrakystiques se rehaussant.",
+        "Il peut comporter une paroi épaisse et irrégulière se rehaussant.",
+        "Il est considéré comme un kyste malin.",
+        "Il relève uniquement d’une surveillance radiologique rapprochée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Bosniak IV correspond à un kyste malin, caractérisé notamment par des végétations intrakystiques se rehaussant ou une paroi épaisse et irrégulière se rehaussant. Un traitement chirurgical est recommandé."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les diagnostics différentiels des tumeurs primitives du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Les métastases rénales d’un autre cancer doivent être évoquées.",
+        "Les localisations secondaires de mélanome peuvent mimer une tumeur primitive du rein.",
+        "Les tumeurs de la voie excrétrice supérieure correspondent à des carcinomes urothéliaux.",
+        "Les tumeurs urothéliales de la voie excrétrice supérieure sont toujours bénignes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs primitives du rein doivent être distinguées des métastases rénales, notamment de cancers du poumon, mélanome ou lymphome, et des carcinomes urothéliaux de la voie excrétrice supérieure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les carcinomes urothéliaux de la voie excrétrice supérieure, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent envahir le parenchyme rénal.",
+        "Ils sont plus rares et plus agressifs que les tumeurs rénales primitives mentionnées.",
+        "Ils se manifestent généralement par une hématurie macroscopique.",
+        "Ils se manifestent généralement par une protéinurie isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les carcinomes urothéliaux de la voie excrétrice supérieure peuvent envahir le parenchyme rénal. Ils sont décrits comme plus rares, plus agressifs, et se manifestent généralement par hématurie macroscopique et crises de colique néphrétique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la classification TNM des tumeurs du rein, quels éléments peuvent correspondre à un stade T3a ?",
+      "choices": [
+        "Envahissement du tissu adipeux périrénal.",
+        "Envahissement du tissu adipeux hilaire.",
+        "Envahissement des voies excrétrices.",
+        "Thrombus dans la veine cave au-dessus du diaphragme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le stade T3a correspond à l’envahissement du tissu adipeux périrénal et/ou hilaire, des voies excrétrices et/ou de la veine rénale et de ses branches. Le thrombus cave sus-diaphragmatique correspond à T3c."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les stades T3b, T3c et T4 des tumeurs du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "T3b correspond à un thrombus dans la veine cave sous le diaphragme.",
+        "T3c correspond à un thrombus dans la veine cave au-dessus du diaphragme.",
+        "T3c peut correspondre à un envahissement de la paroi de la veine cave.",
+        "T4 correspond uniquement à une tumeur localisée au rein de plus de 10 cm."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "T3b correspond à un thrombus cave sous-diaphragmatique. T3c correspond à un thrombus cave sus-diaphragmatique ou envahissant la paroi cave. T4 correspond à l’infiltration du fascia de Gerota et/ou à l’envahissement contigu de la surrénale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prise en charge d’une tumeur rénale localisée de moins de 6 cm, quelles propositions sont exactes ?",
+      "choices": [
+        "La décision thérapeutique doit être prise en réunion de concertation pluridisciplinaire d’uro-oncologie.",
+        "La néphrectomie partielle est le traitement de référence lorsqu’elle est techniquement réalisable.",
+        "La néphrectomie partielle assure un contrôle oncologique équivalent à la néphrectomie élargie selon le texte.",
+        "La néphrectomie élargie est systématiquement obligatoire quelle que soit la faisabilité d’une chirurgie partielle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pour les tumeurs localisées de moins de 6 cm, la néphrectomie partielle est le traitement de référence si elle est techniquement réalisable, avec contrôle oncologique équivalent à la néphrectomie élargie. Les décisions relèvent d’une RCP d’uro-oncologie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les techniques thermo-ablatives dans les tumeurs du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles comprennent la radiofréquence.",
+        "Elles comprennent la cryoablation percutanée.",
+        "Elles peuvent être proposées principalement pour des tumeurs de moins de 3 cm.",
+        "Elles ne nécessitent jamais de confirmation histologique préalable."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La radiofréquence et la cryoablation percutanée peuvent être proposées après confirmation histologique de la malignité, surtout pour les tumeurs de moins de 3 cm, dans des situations sélectionnées."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations sélectionnées une technique thermo-ablative peut-elle être proposée pour une tumeur du rein ?",
+      "choices": [
+        "Comorbidités importantes.",
+        "Rein unique fonctionnel.",
+        "Tumeurs multiples.",
+        "Présence obligatoire d’un thrombus cave sus-diaphragmatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les techniques thermo-ablatives peuvent être proposées dans des situations sélectionnées : comorbidités importantes, rein unique fonctionnel ou tumeurs multiples."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la surveillance active des petites tumeurs du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle repose sur une surveillance simple par imagerie.",
+        "Elle peut être proposée chez certains patients ayant une espérance de vie limitée.",
+        "Elle est justifiée par le caractère souvent indolent des petites tumeurs du rein.",
+        "Elle impose systématiquement un traitement systémique d’emblée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une surveillance simple par imagerie peut être proposée chez certains patients, notamment en cas d’espérance de vie limitée, car les petites tumeurs du rein sont souvent indolentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la surveillance après néphrectomie pour tumeur rénale localisée, quelles propositions sont exactes ?",
+      "choices": [
+        "Aucun traitement adjuvant systématique par thérapie ciblée n’est recommandé.",
+        "Aucun traitement adjuvant systématique par immunothérapie ou radiothérapie n’est recommandé.",
+        "Le suivi repose notamment sur l’examen clinique et la créatininémie.",
+        "L’imagerie de suivi mentionnée est le scanner thoracique, abdominal et pelvien."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Après néphrectomie pour tumeur localisée, il n’est pas recommandé de traitement adjuvant systématique par thérapie ciblée, immunothérapie ou radiothérapie. Le suivi repose sur l’examen clinique, la créatininémie et le scanner thoracique, abdominal et pelvien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs du rein oligométastatiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Un traitement de la tumeur primitive peut être proposé.",
+        "Un traitement des métastases peut être proposé afin d’obtenir une rémission complète.",
+        "Les options peuvent inclure l’exérèse chirurgicale des métastases.",
+        "La radiothérapie et les traitements ablatifs sont exclus de cette stratégie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En situation oligométastatique, un traitement de la tumeur primitive et des métastases peut être proposé afin d’obtenir une rémission complète. Les options incluent néphrectomie, exérèse des métastases, radiothérapie et traitement ablatif."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification TNM des tumeurs du rein, à quoi correspond le stade T1a ?",
+      "choices": [
+        "Tumeur ≤ 4 cm localisée au rein.",
+        "Tumeur > 4 cm localisée au rein.",
+        "Tumeur localisée au rein > 7 cm et ≤ 10 cm.",
+        "Tumeur localisée au rein > 10 cm."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le stade T1a correspond à une tumeur de taille inférieure ou égale à 4 cm, localisée au rein."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification TNM des tumeurs du rein, quel énoncé définit le stade T2a ?",
+      "choices": [
+        "Tumeur ≤ 4 cm localisée au rein.",
+        "Tumeur > 4 cm localisée au rein.",
+        "Tumeur localisée au rein, > 7 cm et ≤ 10 cm.",
+        "Tumeur infiltrant le fascia de Gerota."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le stade T2a correspond à une tumeur localisée au rein, de taille supérieure à 7 cm et inférieure ou égale à 10 cm."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification TNM des tumeurs du rein, que signifie N1 ?",
+      "choices": [
+        "Statut ganglionnaire non évaluable.",
+        "Absence de métastase ganglionnaire.",
+        "Métastase ganglionnaire.",
+        "Métastase à distance."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "N1 signifie présence d’une métastase ganglionnaire régionale."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification TNM des tumeurs du rein, que signifie M1 ?",
+      "choices": [
+        "Statut métastatique non évaluable.",
+        "Absence de métastase à distance.",
+        "Métastase à distance.",
+        "Métastase ganglionnaire régionale."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "M1 correspond à la présence d’une métastase à distance."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le traitement de référence des volumineuses tumeurs du rein de plus de 6 cm selon le texte ?",
+      "choices": [
+        "Surveillance active exclusive.",
+        "Néphrectomie élargie.",
+        "Radiothérapie adjuvante systématique.",
+        "Cryoablation percutanée systématique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Pour les tumeurs du rein de plus de 6 cm, le traitement de référence est la néphrectomie élargie."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les tumeurs du rein multimétastatiques, sur quel élément la discussion d’une néphrectomie repose-t-elle selon le texte ?",
+      "choices": [
+        "Le statut vaccinal du patient.",
+        "L’état général du patient.",
+        "La présence obligatoire d’un kyste Bosniak II.",
+        "La réalisation systématique d’une radiothérapie adjuvante."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans les formes multimétastatiques, la néphrectomie est discutée selon l’état général, la difficulté chirurgicale, le pronostic de la maladie et l’extension tumorale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction initiale entre tumeurs rénales solides et kystiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Les tumeurs du rein peuvent être tissulaires ou solides",
+        "Les tumeurs du rein peuvent être kystiques",
+        "La démarche diagnostique diffère selon le caractère solide ou kystique de la lésion",
+        "Le caractère kystique exclut une démarche diagnostique spécifique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue les tumeurs solides ou tissulaires des tumeurs kystiques, avec une démarche diagnostique différente selon ce caractère."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le caractère malin ou bénin des tumeurs du rein de l’adulte, quelles propositions sont exactes ?",
+      "choices": [
+        "La majorité des tumeurs du rein sont malignes",
+        "Certaines tumeurs du rein sont bénignes, notamment parmi les petites tumeurs",
+        "Certaines tumeurs peuvent présenter un faible potentiel évolutif",
+        "Toute tumeur rénale découverte chez l’adulte doit être considérée comme bénigne jusqu’à preuve du contraire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La majorité des tumeurs rénales sont malignes, mais certaines petites tumeurs peuvent être bénignes ou à faible potentiel évolutif."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes généraux peuvent révéler une tumeur rénale dans un contexte évoquant une maladie localement avancée ou métastatique ?",
+      "choices": [
+        "Altération de l’état général",
+        "Asthénie",
+        "Amaigrissement",
+        "Cicatrice stellaire centrale en imagerie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’altération de l’état général, l’asthénie et l’amaigrissement peuvent révéler une maladie métastatique. La cicatrice stellaire centrale est un élément d’imagerie évocateur d’oncocytome."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les manifestations paranéoplasiques associées aux tumeurs rénales, quelles propositions sont exactes ?",
+      "choices": [
+        "Une hypercalcémie peut s’intégrer dans un syndrome paranéoplasique",
+        "Une polyglobulie peut s’intégrer dans un syndrome paranéoplasique",
+        "Un syndrome inflammatoire peut s’intégrer dans un syndrome paranéoplasique",
+        "Une fièvre inexpliquée peut s’intégrer dans un syndrome paranéoplasique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme manifestations paranéoplasiques : hypercalcémie, polyglobulie, syndrome inflammatoire et fièvre inexpliquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’examen clinique devant une tumeur du rein, quels éléments sont explicitement mentionnés dans le texte ?",
+      "choices": [
+        "Palpation de la fosse lombaire",
+        "Recherche d’une masse lombaire",
+        "Évaluation de l’état général",
+        "Recherche systématique d’une splénomégalie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen clinique comprend la palpation de la fosse lombaire, la recherche d’une masse lombaire et l’évaluation de l’état général. La recherche systématique d’une splénomégalie n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels sont les objectifs du bilan biologique dans l’évaluation d’une tumeur rénale selon le texte ?",
+      "choices": [
+        "Évaluer la fonction rénale",
+        "Déterminer des facteurs pronostiques en cas de tumeur métastatique",
+        "Dépister un syndrome paranéoplasique",
+        "Déterminer à lui seul le type histologique tumoral"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan biologique sert à évaluer la fonction rénale, rechercher des facteurs pronostiques en cas de maladie métastatique et dépister certains syndromes paranéoplasiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’oncocytome rénal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est aussi appelé adénome oncocytaire",
+        "Il est plus fréquent chez la femme",
+        "Il peut présenter une cicatrice stellaire centrale visible en imagerie",
+        "Il est défini par l’association de composantes adipeuse, musculaire et vasculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’oncocytome est aussi appelé adénome oncocytaire, plus fréquent chez la femme, et peut présenter une cicatrice stellaire centrale. L’association adipeuse, musculaire et vasculaire définit l’angiomyolipome."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’angiomyolipome rénal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il associe des composantes adipeuse, musculaire et vasculaire",
+        "Il est plus fréquent chez la femme",
+        "Il est le plus souvent petit et isolé",
+        "Lorsqu’il est volumineux et multiple, il peut faire évoquer une sclérose tubéreuse de Bourneville"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’angiomyolipome est une tumeur bénigne faite de composantes adipeuse, musculaire et vasculaire, souvent petite et isolée, plus fréquente chez la femme. Les formes volumineuses et multiples font évoquer une sclérose tubéreuse de Bourneville."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations clinico-mécanistiques sont exactes devant une tumeur rénale symptomatique ?",
+      "choices": [
+        "Tumeur volumineuse : pesanteur lombaire",
+        "Envahissement des voies excrétrices : hématurie",
+        "Métastases osseuses symptomatiques : douleurs osseuses",
+        "Syndrome paranéoplasique : dyspnée isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une tumeur volumineuse peut donner une pesanteur lombaire, l’envahissement des voies excrétrices une hématurie, et les métastases osseuses des douleurs. La dyspnée relève plutôt de métastases symptomatiques, notamment pulmonaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’interprétation du bilan biologique d’une tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "La créatininémie participe à l’évaluation de la fonction rénale",
+        "La calcémie peut contribuer au dépistage d’un syndrome paranéoplasique",
+        "Le bilan hépatique peut aider à rechercher une cholestase",
+        "Le dosage de la LDH permet de poser à lui seul le diagnostic histologique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La créatininémie évalue la fonction rénale, la calcémie peut révéler une hypercalcémie paranéoplasique, et le bilan hépatique peut dépister une cholestase. La LDH ne pose pas le diagnostic histologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une suspicion de métastases symptomatiques d’un cancer du rein, quelles manifestations sont cohérentes avec le texte ?",
+      "choices": [
+        "Dyspnée",
+        "Douleurs osseuses",
+        "Troubles neurologiques",
+        "Cicatrice stellaire centrale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les métastases symptomatiques peuvent se manifester par dyspnée, douleurs osseuses ou troubles neurologiques. La cicatrice stellaire centrale est un signe d’imagerie possible d’oncocytome."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la temporalité métastatique des cancers rénaux, quelles propositions sont exactes ?",
+      "choices": [
+        "Une proportion de cancers rénaux est métastatique d’emblée au diagnostic",
+        "Des métastases peuvent apparaître après néphrectomie pour tumeur localisée",
+        "Les métastases peuvent survenir plusieurs années après le diagnostic initial",
+        "Les métastases rénales sont limitées exclusivement au poumon et à l’os"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cancer du rein peut être métastatique d’emblée, récidiver secondairement après néphrectomie, et métastaser parfois plusieurs années après. Les localisations ne sont pas limitées au poumon et à l’os."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les prédispositions génétiques familiales citées dans le cancer du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "La maladie de Von Hippel-Lindau est liée au gène VHL",
+        "Le cancer rénal papillaire héréditaire est lié au gène MET",
+        "La léiomyomatose cutanéo-utérine héréditaire est liée au gène FH",
+        "Le syndrome de Birt-Hogg-Dubé est lié au gène BHD"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre associations génétiques sont explicitement citées dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les carcinomes rénaux tubulopapillaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils représentent environ 12 à 14 % des principaux types histologiques malins",
+        "Ils comprennent deux sous-types : type 1 et type 2",
+        "Le grade ISUP peut leur être appliqué",
+        "Ils représentent 75 à 85 % des cancers du rein de l’adulte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les carcinomes tubulopapillaires représentent 12 à 14 %, ont deux sous-types et relèvent du grade ISUP. La proportion de 75 à 85 % correspond au carcinome à cellules claires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle tumeur bénigne rénale est aussi appelée adénome oncocytaire ?",
+      "choices": [
+        "Angiomyolipome",
+        "Oncocytome",
+        "Carcinome chromophobe",
+        "Carcinome tubulopapillaire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’oncocytome est aussi appelé adénome oncocytaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle méthode est citée pour l’estimation de la clairance rénale dans le bilan biologique initial ?",
+      "choices": [
+        "MDRD ou CKD-EPI",
+        "Score de Gleason",
+        "Classification Bosniak",
+        "Grade ISUP seul"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite l’estimation de la clairance rénale notamment par MDRD ou CKD-EPI."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel symptôme est particulièrement rattaché à l’envahissement des voies excrétrices par une tumeur rénale ?",
+      "choices": [
+        "Hématurie microscopique ou macroscopique",
+        "Dyspnée",
+        "Troubles neurologiques",
+        "Fièvre isolée postopératoire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’envahissement des voies excrétrices peut révéler la tumeur par une hématurie microscopique ou macroscopique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association de composantes définit l’angiomyolipome rénal ?",
+      "choices": [
+        "Adipeuse, musculaire et vasculaire",
+        "Épithéliale, lymphoïde et cartilagineuse",
+        "Kystique, osseuse et nerveuse",
+        "Papillaire, mucineuse et urothéliale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’angiomyolipome associe trois composantes : adipeuse, musculaire et vasculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen biologique initial est explicitement cité dans le bilan d’une tumeur rénale non nécessairement métastatique ?",
+      "choices": [
+        "Créatininémie",
+        "Troponine",
+        "Amylasémie",
+        "PSA total"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le bilan biologique initial comprend notamment la créatininémie, l’estimation de la clairance rénale et la numération-formule sanguine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle classification est utilisée pour classer les tumeurs malignes du rein selon le texte ?",
+      "choices": [
+        "Classification TNM",
+        "Classification de Child-Pugh",
+        "Classification de Ranson",
+        "Classification de Hinchey"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les tumeurs malignes du rein sont classées selon la classification TNM."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les apports spécifiques de l’IRM rénale par rapport à la tomodensitométrie dans l’exploration d’une tumeur du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est moins irradiante que la tomodensitométrie.",
+        "Le gadolinium est moins néphrotoxique que les produits iodés.",
+        "Elle est particulièrement indiquée en cas d’altération de la fonction rénale.",
+        "Elle est indiquée pour évaluer le niveau supérieur d’un thrombus veineux."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que l’IRM est moins irradiante, que le gadolinium est moins néphrotoxique que les produits iodés, et qu’elle est utile notamment en cas d’altération de la fonction rénale ou pour apprécier l’extension supérieure d’un thrombus veineux."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’évaluation veineuse d’une tumeur rénale par tomodensitométrie injectée, quels éléments peuvent être recherchés selon le texte ?",
+      "choices": [
+        "Un thrombus tumoral dans la veine rénale.",
+        "Un thrombus tumoral dans la veine cave inférieure.",
+        "Une extension possible jusqu’à l’oreillette.",
+        "L’absence obligatoire de tout envahissement veineux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La TDM injectée recherche l’envahissement veineux, notamment un thrombus dans la veine rénale ou la veine cave inférieure, avec extension possible jusqu’à l’oreillette."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient ayant une tumeur rénale métastatique pour laquelle un traitement médical est envisagé, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Une preuve histologique est nécessaire avant de décider du traitement.",
+        "La preuve histologique est le plus souvent obtenue par biopsie percutanée.",
+        "La néphrectomie peut parfois permettre d’obtenir la preuve histologique.",
+        "La preuve histologique n’est pas requise si l’imagerie montre des lésions secondaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En situation de suspicion métastatique, une preuve histologique est nécessaire pour décider du traitement ; elle est le plus souvent obtenue par biopsie percutanée, parfois par néphrectomie."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une tumeur rénale avec incertitude diagnostique à l’imagerie, quelles hypothèses mentionnées dans le texte peuvent justifier une biopsie ?",
+      "choices": [
+        "Une suspicion de sarcome.",
+        "Une suspicion de lymphome.",
+        "Une suspicion de métastase d’une autre tumeur.",
+        "Une certitude formelle de kyste simple bénin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La biopsie est indiquée en cas d’incertitude diagnostique à l’imagerie, notamment devant une suspicion de sarcome, de lymphome ou de métastase d’une autre tumeur."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les situations complexes de tumeur rénale, quels contextes cités dans le texte peuvent faire discuter une biopsie avant décision thérapeutique ?",
+      "choices": [
+        "Un rein unique.",
+        "Des tumeurs bilatérales.",
+        "Des comorbidités lourdes.",
+        "Une exérèse chirurgicale à risque du fait de la localisation tumorale."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme situations complexes : rein unique, tumeurs bilatérales, comorbidités lourdes, ou exérèse chirurgicale à risque en raison de la localisation tumorale."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le bilan d’une tumeur rénale avec suspicion de métastases, quelles localisations secondaires possibles peuvent être mises en évidence selon le texte ?",
+      "choices": [
+        "Pulmonaires.",
+        "Hépatiques.",
+        "Ganglionnaires.",
+        "Osseuses."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La tomodensitométrie thoracique, abdominale et pelvienne peut montrer des lésions secondaires pulmonaires, hépatiques, ganglionnaires, osseuses et cérébrales."
+    },
+    {
+      "type": "QCM",
+      "question": "En complément du bilan tomodensitométrique d’une tumeur rénale suspecte de métastases, quelles propositions sont exactes ?",
+      "choices": [
+        "Une scintigraphie osseuse peut compléter le bilan.",
+        "Une tomodensitométrie cérébrale peut compléter le bilan.",
+        "Le bilan complémentaire dépend du contexte de suspicion métastatique.",
+        "La confirmation histologique est inutile pour décider du traitement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que le bilan peut être complété par scintigraphie osseuse et tomodensitométrie cérébrale. Une preuve histologique reste nécessaire pour décider du traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition et le bilan d’une petite tumeur du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une tumeur tissulaire isolée de moins de 4 cm.",
+        "Elle est le plus souvent découverte fortuitement.",
+        "Son bilan d’extension repose sur une tomodensitométrie thoracique, abdominale et pelvienne.",
+        "L’imagerie permet toujours de distinguer formellement bénignité et malignité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une petite tumeur du rein est définie comme une tumeur tissulaire isolée de moins de 4 cm, souvent fortuite. Le bilan repose sur la TDM thoraco-abdomino-pelvienne. L’imagerie ne distingue pas toujours bénignité et malignité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la probabilité de malignité et l’apport de l’imagerie dans les petites tumeurs du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Environ 80 % sont malignes.",
+        "Environ 20 % sont bénignes.",
+        "Une plage graisseuse peut évoquer un angiomyolipome.",
+        "La biopsie percutanée peut être proposée avant traitement dans les situations difficiles."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les petites tumeurs rénales sont malignes dans environ 80 % des cas et bénignes dans environ 20 %. L’imagerie est parfois limitée, sauf en cas de plage graisseuse évocatrice d’angiomyolipome ; la biopsie peut aider dans les situations difficiles."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des tumeurs rénales T1b et T2 décrites dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont localisées au rein.",
+        "Elles n’ont pas dépassé la capsule rénale.",
+        "Elles sont souvent asymptomatiques et découvertes fortuitement.",
+        "Elles correspondent par définition à des tumeurs métastatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs T1b et T2 sont localisées au rein, sans dépassement capsulaire. Elles sont souvent asymptomatiques et de découverte fortuite, et ne sont pas définies comme métastatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la stratégie diagnostique devant une tumeur rénale localisée de plus de 4 cm, quelles propositions sont exactes ?",
+      "choices": [
+        "Les tumeurs T1b et T2 sont le plus souvent malignes.",
+        "Sauf cas particulier, la biopsie n’est pas nécessaire avant traitement.",
+        "Une personne âgée peut constituer un cas particulier justifiant une discussion de biopsie.",
+        "Une tumeur complexe peut constituer un cas particulier justifiant une discussion de biopsie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Pour les tumeurs localisées de plus de 4 cm, la malignité est fréquente et la biopsie n’est généralement pas nécessaire avant traitement, sauf situations particulières comme personne âgée ou tumeur complexe."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs kystiques du rein, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elles représentent 5 à 10 % des tumeurs du rein.",
+        "Elles sont généralement peu agressives.",
+        "Elles doivent être analysées par scanner abdominal ou IRM.",
+        "L’échographie de contraste peut être utile lorsque le scanner ou l’IRM ne permettent pas de conclure."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les tumeurs kystiques représentent 5 à 10 % des tumeurs rénales, sont généralement peu agressives, et nécessitent une analyse par scanner ou IRM ; l’échographie de contraste peut aider en cas de diagnostic difficile."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels critères d’imagerie correspondent à un kyste rénal simple dans le texte ?",
+      "choices": [
+        "Une paroi très fine.",
+        "Un contenu hydrique.",
+        "Un contenu homogène.",
+        "Une absence de rehaussement."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le kyste simple présente une paroi très fine, un contenu hydrique homogène et aucune prise de contraste."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments orientent vers un kyste rénal atypique, suspect ou tumoral selon le texte ?",
+      "choices": [
+        "La présence de cloisons.",
+        "Un épaississement de la paroi ou des cloisons.",
+        "Un rehaussement de la paroi ou des cloisons.",
+        "Des végétations intrakystiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les cloisons, l’épaississement pariétal ou septal, les calcifications, le rehaussement et les végétations intrakystiques rendent un kyste suspect ou tumoral."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen doit être associé au scanner abdominal pour le bilan d’extension d’une tumeur du rein ?",
+      "choices": [
+        "Une IRM rénale isolée.",
+        "Un scanner thoracique.",
+        "Une échographie de contraste systématique.",
+        "Une tomodensitométrie cérébrale systématique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’un scanner thoracique doit être associé au scanner abdominal pour le bilan d’extension."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la stratégie diagnostique d’une tumeur tissulaire du rein, à quel temps le rehaussement significatif supérieur à 15 unités Hounsfield est-il particulièrement mentionné ?",
+      "choices": [
+        "Au temps sans injection.",
+        "Au temps artériel.",
+        "Au temps excréteur tardif uniquement.",
+        "En dehors de toute injection."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La nature tissulaire est notamment déterminée par un rehaussement significatif supérieur à 15 unités Hounsfield au temps artériel."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de clairance rénale est cité comme situation orientant particulièrement vers une IRM rénale ?",
+      "choices": [
+        "Clairance inférieure à 30 ml/min.",
+        "Clairance inférieure à 45 ml/min.",
+        "Clairance inférieure à 60 ml/min.",
+        "Clairance supérieure à 90 ml/min."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’IRM est particulièrement indiquée en cas d’altération de la fonction rénale, notamment lorsque la clairance est inférieure à 60 ml/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la performance diagnostique de la biopsie pour déterminer la malignité d’une tumeur rénale dans les centres expérimentés ?",
+      "choices": [
+        "Inférieure à 50 %.",
+        "Environ 60 %.",
+        "Supérieure à 95 %.",
+        "Nulle en cas de tumeur kystique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique que la performance diagnostique de la biopsie pour déterminer la malignité est élevée, supérieure à 95 % dans les centres expérimentés."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité permet le plus souvent d’obtenir la preuve histologique en cas de tumeur rénale avec suspicion de métastases ?",
+      "choices": [
+        "La biopsie percutanée.",
+        "L’échographie simple seule.",
+        "La classification de Bosniak seule.",
+        "L’absence de tout prélèvement histologique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas de suspicion métastatique, une preuve histologique est nécessaire, le plus souvent obtenue par biopsie percutanée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise les kystes rénaux simples après 50 ans selon le texte ?",
+      "choices": [
+        "Ils sont fréquents, bénins, et ne nécessitent ni traitement ni surveillance.",
+        "Ils sont rares et doivent toujours être biopsiés.",
+        "Ils sont systématiquement malins.",
+        "Ils nécessitent toujours une thermo-ablation."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les kystes simples sont fréquents après 50 ans, bénins, et ne nécessitent ni traitement ni surveillance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le cadre de décision thérapeutique devant une tumeur du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Les décisions thérapeutiques doivent être prises en réunion de concertation pluridisciplinaire d’uro-oncologie.",
+        "Cette concertation concerne les stratégies de traitement des tumeurs du rein.",
+        "La décision thérapeutique ne doit pas reposer uniquement sur une lecture isolée du dossier.",
+        "Le texte impose une approche multidisciplinaire avant de choisir la stratégie thérapeutique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que les décisions thérapeutiques doivent être prises en réunion de concertation pluridisciplinaire d’uro-oncologie."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient ayant une tumeur rénale localisée de moins de 6 cm, quels arguments justifient la néphrectomie partielle lorsqu’elle est techniquement réalisable ?",
+      "choices": [
+        "Elle constitue le traitement de référence dans ce contexte.",
+        "Elle assure un contrôle oncologique équivalent à la néphrectomie élargie.",
+        "Elle permet de préserver la fonction rénale.",
+        "Elle diminue la morbidité cardiovasculaire à long terme."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Pour les tumeurs localisées de moins de 6 cm, la néphrectomie partielle est le traitement de référence si elle est techniquement réalisable, avec contrôle oncologique équivalent, préservation néphronique et moindre morbidité cardiovasculaire à long terme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les techniques thermo-ablatives dans les tumeurs rénales, quelles propositions sont exactes ?",
+      "choices": [
+        "La radiofréquence percutanée fait partie des techniques citées.",
+        "La cryoablation percutanée fait partie des techniques citées.",
+        "Elles peuvent être proposées après confirmation histologique de la malignité.",
+        "Elles concernent principalement les tumeurs de moins de 3 cm dans des situations sélectionnées."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite la radiofréquence et la cryoablation percutanées, après confirmation histologique, principalement pour les tumeurs de moins de 3 cm et dans des situations sélectionnées."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations peuvent orienter vers une technique thermo-ablative pour une tumeur du rein selon le texte ?",
+      "choices": [
+        "Comorbidités importantes.",
+        "Rein unique fonctionnel.",
+        "Tumeurs multiples.",
+        "Volumineuse tumeur de plus de 6 cm comme indication principale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les situations sélectionnées citées sont les comorbidités importantes, le rein unique fonctionnel et les tumeurs multiples. Les tumeurs de plus de 6 cm relèvent plutôt de la néphrectomie élargie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la surveillance active des petites tumeurs du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut correspondre à une surveillance simple par imagerie.",
+        "Elle peut être envisagée chez certains patients ayant une espérance de vie limitée.",
+        "Elle est justifiée par le caractère souvent indolent des petites tumeurs du rein.",
+        "Elle est présentée comme la stratégie standard des tumeurs volumineuses de plus de 6 cm."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La surveillance active est une surveillance simple par imagerie, possible chez certains patients, notamment avec espérance de vie limitée, du fait du caractère souvent indolent des petites tumeurs. Elle n’est pas la stratégie standard des tumeurs volumineuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une néphrectomie élargie pour volumineuse tumeur rénale, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle est le traitement de référence des tumeurs du rein de plus de 6 cm.",
+        "La surrénale homolatérale est conservée en l’absence d’argument d’envahissement.",
+        "La surrénalectomie homolatérale est systématique quelle que soit l’imagerie.",
+        "La surrénale est retirée si son envahissement est suspecté ou confirmé à l’imagerie préopératoire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Pour les tumeurs de plus de 6 cm, le traitement de référence est la néphrectomie élargie. La surrénale homolatérale est conservée sauf si un envahissement est suspecté ou confirmé à l’imagerie préopératoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Après néphrectomie pour tumeur rénale localisée, quelles modalités ne sont pas recommandées comme traitement adjuvant systématique selon le texte ?",
+      "choices": [
+        "Thérapie ciblée.",
+        "Immunothérapie.",
+        "Radiothérapie.",
+        "Surveillance clinique et radiologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Aucun traitement adjuvant systématique par thérapie ciblée, immunothérapie ou radiothérapie n’est recommandé. Le suivi repose au contraire sur l’examen clinique, la créatininémie et l’imagerie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels paramètres conditionnent la fréquence du suivi après néphrectomie pour tumeur rénale localisée ?",
+      "choices": [
+        "Le stade tumoral.",
+        "L’agressivité histologique.",
+        "Le grade tumoral.",
+        "La présence d’une fine cloison kystique Bosniak II isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La fréquence du suivi dépend du stade tumoral, de l’agressivité histologique et du grade tumoral. Une lésion Bosniak II ne nécessite pas de surveillance."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une tumeur rénale oligométastatique, quels traitements peuvent être intégrés à une stratégie visant une rémission complète ?",
+      "choices": [
+        "Néphrectomie.",
+        "Exérèse chirurgicale des métastases.",
+        "Radiothérapie.",
+        "Traitement ablatif."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "En situation oligométastatique, un traitement de la tumeur primitive et des métastases peut être proposé. Les options citées sont la néphrectomie, l’exérèse des métastases, la radiothérapie et les traitements ablatifs."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les tumeurs du rein multimétastatiques, quels éléments interviennent dans la discussion d’une néphrectomie ?",
+      "choices": [
+        "L’état général.",
+        "La difficulté chirurgicale.",
+        "Le pronostic de la maladie.",
+        "L’extension tumorale."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "En situation multimétastatique, la néphrectomie est discutée selon l’état général, la difficulté chirurgicale, le pronostic de la maladie et l’extension tumorale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels traitements systémiques sont cités dans les tumeurs rénales multimétastatiques ?",
+      "choices": [
+        "Inhibiteurs de tyrosine kinase.",
+        "Inhibiteurs de mTOR.",
+        "Anti-CTLA-4.",
+        "Inhibiteurs de PD-1/PD-L1."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les traitements systémiques reposent sur des thérapies ciblées, notamment inhibiteurs de tyrosine kinase et inhibiteurs de mTOR, ainsi que sur l’immunothérapie par anti-CTLA-4 ou inhibiteurs de PD-1/PD-L1."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la classification TNM des tumeurs du rein, quels statuts correspondent à une impossibilité d’évaluation selon le texte ?",
+      "choices": [
+        "Tx.",
+        "Nx.",
+        "Mx.",
+        "N0."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Tx signifie statut tumoral non évaluable, Nx statut ganglionnaire non évaluable et Mx statut métastatique non évaluable. N0 signifie absence de métastase ganglionnaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les carcinomes urothéliaux de la voie excrétrice supérieure dans le diagnostic différentiel des tumeurs du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent envahir le parenchyme rénal.",
+        "Ils sont plus rares que les tumeurs primitives rénales évoquées dans le texte.",
+        "Ils sont décrits comme plus agressifs.",
+        "Ils se manifestent généralement par hématurie macroscopique ou crises de colique néphrétique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les carcinomes urothéliaux de la voie excrétrice supérieure peuvent envahir le parenchyme rénal ; ils sont plus rares, plus agressifs et se manifestent généralement par hématurie macroscopique et crises de colique néphrétique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles extensions anatomiques d’une tumeur rénale correspondent à un stade T3a selon la classification fournie ?",
+      "choices": [
+        "Envahissement du tissu adipeux périrénal.",
+        "Envahissement du tissu adipeux hilaire.",
+        "Envahissement des voies excrétrices.",
+        "Envahissement de la veine rénale ou de ses branches."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le stade T3a comprend l’envahissement du tissu adipeux périrénal, du tissu adipeux hilaire, des voies excrétrices, ainsi que de la veine rénale ou de ses branches."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le cadre recommandé pour prendre une décision thérapeutique devant une tumeur du rein ?",
+      "choices": [
+        "Une réunion de concertation pluridisciplinaire d’uro-oncologie.",
+        "Une décision isolée après échographie seule.",
+        "Une surveillance systématique sans discussion spécialisée.",
+        "Une radiothérapie adjuvante systématique avant toute discussion."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que les décisions thérapeutiques doivent être prises en réunion de concertation pluridisciplinaire d’uro-oncologie."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la classification TNM fournie, à quel stade correspond une tumeur rénale de 5 cm localisée au rein ?",
+      "choices": [
+        "T1a.",
+        "T1b.",
+        "T2a.",
+        "T3a."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le stade T1b correspond à une tumeur de plus de 4 cm localisée au rein. Une tumeur de 5 cm localisée au rein est donc classée T1b selon le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la classification TNM fournie, à quel stade correspond une tumeur localisée au rein de plus de 10 cm ?",
+      "choices": [
+        "T1b.",
+        "T2a.",
+        "T2b.",
+        "T4."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le stade T2b correspond à une tumeur localisée au rein mesurant plus de 10 cm."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la classification TNM fournie, quel stade correspond à un thrombus tumoral dans la veine cave sous le diaphragme ?",
+      "choices": [
+        "T3a.",
+        "T3b.",
+        "T3c.",
+        "T4."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le stade T3b correspond à un thrombus dans la veine cave sous le diaphragme."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le statut ganglionnaire régional TNM des tumeurs du rein, que signifie N0 ?",
+      "choices": [
+        "Statut ganglionnaire non évaluable.",
+        "Absence de métastase ganglionnaire.",
+        "Métastase ganglionnaire.",
+        "Métastase à distance."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "N0 signifie absence de métastase ganglionnaire régionale."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les traitements systémiques suivants, lequel est classé dans l’immunothérapie selon le texte ?",
+      "choices": [
+        "Inhibiteur de tyrosine kinase.",
+        "Inhibiteur de mTOR.",
+        "Anti-CTLA-4.",
+        "Néphrectomie."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les anti-CTLA-4 sont cités parmi les immunothérapies. Les inhibiteurs de tyrosine kinase et de mTOR relèvent des thérapies ciblées, tandis que la néphrectomie est un traitement chirurgical."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des données épidémiologiques chiffrées du cancer du rein de l’adulte, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Il est décrit comme le 6e cancer solide de l’adulte.",
+        "Son incidence augmente progressivement.",
+        "Le sex-ratio est d’environ 1 femme pour 1,5 homme.",
+        "Le pic d’incidence se situe entre 60 et 70 ans."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte indique un 6e cancer solide de l’adulte, une incidence en augmentation, un sex-ratio d’environ 1,5 homme pour 1 femme et un pic entre 60 et 70 ans."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les proportions des principaux types histologiques malins des tumeurs rénales, quelles propositions sont exactes ?",
+      "choices": [
+        "Le carcinome rénal à cellules claires représente environ 75 à 85 % des cancers rénaux.",
+        "Le carcinome tubulopapillaire représente environ 12 à 14 % des cancers rénaux.",
+        "Le carcinome chromophobe représente environ 4 à 6 % des cancers rénaux.",
+        "Le carcinome chromophobe est le type histologique malin majoritaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le carcinome à cellules claires est majoritaire. Les carcinomes tubulopapillaires et chromophobes sont moins fréquents selon les proportions données."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une tumeur rénale de l’adulte, quelles affirmations générales sur sa nature sont exactes ?",
+      "choices": [
+        "La majorité des tumeurs du rein sont malignes.",
+        "Certaines petites tumeurs peuvent être bénignes.",
+        "Certaines tumeurs peuvent présenter un faible potentiel évolutif.",
+        "Toute tumeur kystique rénale est nécessairement maligne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que la majorité des tumeurs sont malignes, mais que certaines sont bénignes, notamment parmi les petites tumeurs, ou de faible potentiel évolutif."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du grade tumoral ISUP dans les cancers rénaux, quelles propositions sont justes ?",
+      "choices": [
+        "Il est l’ancien grade de Fuhrman.",
+        "Il est utilisé pour les carcinomes rénaux à cellules claires.",
+        "Il est utilisé pour les carcinomes tubulopapillaires.",
+        "Il classe les tumeurs en grades 1 à 5."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le grade ISUP, anciennement Fuhrman, concerne les carcinomes à cellules claires et tubulopapillaires. Il varie de 1 à 4."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques épidémiologiques et morphologiques de l’angiomyolipome rénal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est rare, concernant environ 0,1 à 0,2 % de la population.",
+        "Il est plus fréquent chez la femme.",
+        "Il est le plus souvent petit et isolé.",
+        "Lorsqu’il est volumineux et multiple, il peut faire évoquer une sclérose tubéreuse de Bourneville."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces caractéristiques sont explicitement mentionnées dans le texte à propos de l’angiomyolipome."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les manifestations suivantes, lesquelles sont citées comme pouvant appartenir à un syndrome paranéoplasique associé à une tumeur rénale ?",
+      "choices": [
+        "Hypercalcémie.",
+        "Polyglobulie.",
+        "Syndrome inflammatoire.",
+        "Fièvre inexpliquée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite l’hypercalcémie, la polyglobulie, le syndrome inflammatoire et la fièvre inexpliquée parmi les manifestations paranéoplasiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations une orientation vers une consultation d’oncogénétique doit-elle être envisagée selon le texte ?",
+      "choices": [
+        "Tumeur rénale survenant avant 45 ans.",
+        "Tumeurs rénales bilatérales.",
+        "Antécédent familial de cancer du rein.",
+        "Tumeur rénale unique à cellules claires survenant après 70 ans sans autre élément évocateur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’âge inférieur à 45 ans, la bilatéralité et l’antécédent familial sont des critères d’orientation. Le dernier cas n’est pas cité comme indication en soi."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’examen clinique d’un patient porteur d’une tumeur du rein, quelles étapes sont mentionnées dans le texte ?",
+      "choices": [
+        "Palpation de la fosse lombaire.",
+        "Recherche d’une masse lombaire.",
+        "Évaluation de l’état général.",
+        "Recherche systématique d’une ascite comme élément central de l’examen."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne la palpation de la fosse lombaire, la recherche d’une masse lombaire et l’évaluation de l’état général. L’ascite n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de tumeur rénale métastatique, quels examens biologiques supplémentaires sont explicitement cités ?",
+      "choices": [
+        "Bilan hépatique.",
+        "LDH.",
+        "Phosphatases alcalines.",
+        "Calcémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "En situation métastatique, le texte ajoute notamment bilan hépatique, LDH, phosphatases alcalines et calcémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels objectifs sont assignés au bilan biologique d’une tumeur rénale dans le texte ?",
+      "choices": [
+        "Évaluer la fonction rénale.",
+        "Déterminer des facteurs pronostiques en cas de tumeur métastatique.",
+        "Dépister un syndrome paranéoplasique.",
+        "Affirmer à lui seul le type histologique de la tumeur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan biologique évalue la fonction rénale, recherche des facteurs pronostiques en cas de métastases et dépiste des manifestations paranéoplasiques. Il ne détermine pas à lui seul l’histologie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’échographie dans la découverte d’une tumeur du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est un mode fréquent de découverte.",
+        "Elle peut différencier une tumeur solide d’une tumeur kystique.",
+        "Utilisée seule, elle manque de précision.",
+        "Elle suffit à décider du traitement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échographie découvre fréquemment les tumeurs et distingue solide/kystique, mais elle manque de précision et ne suffit pas pour décider du traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction initiale des lésions rénales, quelles propositions sont exactes ?",
+      "choices": [
+        "Les tumeurs du rein peuvent être tissulaires ou solides.",
+        "Les tumeurs du rein peuvent être kystiques.",
+        "La démarche diagnostique diffère selon le caractère solide ou kystique.",
+        "Le caractère kystique dispense toujours de toute démarche diagnostique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue les tumeurs solides et kystiques, avec une démarche diagnostique différente. Une lésion kystique ne dispense pas toujours d’évaluation."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient présentant une tumeur rénale avec suspicion de métastases symptomatiques, quelles associations symptomatiques sont cohérentes avec le texte ?",
+      "choices": [
+        "Dyspnée.",
+        "Douleurs osseuses.",
+        "Troubles neurologiques.",
+        "Hématurie uniquement microscopique comme signe spécifique de métastase cérébrale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les métastases symptomatiques peuvent se manifester par dyspnée, douleurs osseuses ou troubles neurologiques. L’hématurie traduit plutôt l’envahissement des voies excrétrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les facteurs suivants, lesquels sont cités comme facteurs de risque de cancer du rein ?",
+      "choices": [
+        "Tabagisme.",
+        "Obésité.",
+        "Hypertension artérielle.",
+        "Exposition environnementale au trichloréthylène."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le tabagisme, l’obésité, l’hypertension artérielle et l’exposition au trichloréthylène font partie des facteurs de risque cités."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le rang du cancer du rein parmi les cancers solides de l’adulte selon le texte ?",
+      "choices": [
+        "3e cancer solide de l’adulte.",
+        "4e cancer solide de l’adulte.",
+        "6e cancer solide de l’adulte.",
+        "10e cancer solide de l’adulte."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que le cancer du rein est le 6e cancer solide de l’adulte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proportion des cancers rénaux est métastatique d’emblée au moment du diagnostic ?",
+      "choices": [
+        "1 à 5 %.",
+        "10 à 20 %.",
+        "30 à 40 %.",
+        "60 à 70 %."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Au diagnostic, environ 10 à 20 % des cancers rénaux sont d’emblée métastatiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proportion approximative des tumeurs du rein est maligne selon le texte ?",
+      "choices": [
+        "10 à 20 %.",
+        "30 à 40 %.",
+        "50 à 60 %.",
+        "70 à 80 %."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte indique qu’environ 70 à 80 % des tumeurs du rein sont malignes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil d’âge impose d’envisager une consultation d’oncogénétique devant une tumeur rénale ?",
+      "choices": [
+        "Âge inférieur à 35 ans.",
+        "Âge inférieur à 45 ans.",
+        "Âge inférieur à 55 ans.",
+        "Âge supérieur à 70 ans."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Une consultation d’oncogénétique doit être envisagée en cas d’âge de survenue inférieur à 45 ans."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément d’imagerie est classiquement associé à l’oncocytome rénal dans le texte ?",
+      "choices": [
+        "Plage graisseuse avec densité négative.",
+        "Cicatrice stellaire centrale.",
+        "Thrombus cave sus-diaphragmatique.",
+        "Calcification annulaire obligatoire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’oncocytome peut présenter une cicatrice stellaire centrale visible en imagerie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel grade ISUP correspond à un haut grade tumoral selon le texte ?",
+      "choices": [
+        "Grade 1 uniquement.",
+        "Grades 1 et 2.",
+        "Grades 3 et 4.",
+        "Grade 4 uniquement."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte définit le bas grade par les grades 1 et 2, et le haut grade par les grades 3 et 4."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une tumeur tissulaire rénale isolée de 3 cm découverte fortuitement, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle répond à la définition d’une petite tumeur du rein",
+        "Son bilan d’extension repose sur une tomodensitométrie thoracique, abdominale et pelvienne",
+        "L’imagerie permet toujours de distinguer une tumeur bénigne d’une tumeur maligne",
+        "Une biopsie percutanée peut être proposée avant traitement dans les situations difficiles"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Une petite tumeur du rein est une tumeur tissulaire isolée de moins de 4 cm. Le bilan d’extension repose sur la TDM thoraco-abdomino-pelvienne. L’imagerie ne distingue pas toujours bénignité et malignité."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’une lésion rénale présente une zone de densité graisseuse à la tomodensitométrie, quelles propositions sont exactes ?",
+      "choices": [
+        "Cet élément est caractéristique d’un angiomyolipome",
+        "Il s’agit d’un des rares cas où l’imagerie peut orienter vers une tumeur bénigne",
+        "Cette information fait partie de la caractérisation de la tumeur par la tomodensitométrie",
+        "Cet élément signe obligatoirement une maladie métastatique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La présence d’une zone de densité graisseuse est caractéristique d’un angiomyolipome. Elle constitue un élément de caractérisation en imagerie et peut aider à distinguer une lésion bénigne."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une tumeur rénale avec suspicion de métastases, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le diagnostic peut être confirmé par une tomodensitométrie thoracique, abdominale et pelvienne",
+        "Des lésions secondaires pulmonaires, hépatiques ou ganglionnaires peuvent être mises en évidence",
+        "Des localisations osseuses ou cérébrales sont possibles",
+        "La preuve histologique est inutile avant de décider du traitement"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas de suspicion métastatique, la TDM thoraco-abdomino-pelvienne recherche notamment des métastases pulmonaires, hépatiques, ganglionnaires, osseuses ou cérébrales. Une preuve histologique est nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre manifestations cliniques et contexte évolutif d’une tumeur rénale sont exactes ?",
+      "choices": [
+        "Altération de l’état général et perte de poids : contexte de suspicion métastatique",
+        "Hématurie et lombalgie : tumeur localement avancée plus souvent symptomatique",
+        "Fièvre inexpliquée : contexte pouvant accompagner une suspicion de métastases",
+        "Masse palpable : manifestation possible d’une tumeur localement avancée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue les signes généraux pouvant accompagner une suspicion métastatique et les signes locaux plus fréquents dans les tumeurs localement avancées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’IRM rénale dans l’exploration d’une tumeur du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est particulièrement indiquée en cas d’altération de la fonction rénale",
+        "Elle peut être indiquée si une lésion kystique est mal caractérisée par les autres examens",
+        "Elle est utile pour évaluer le niveau supérieur d’un thrombus veineux",
+        "Elle est moins irradiante que la tomodensitométrie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’IRM est moins irradiante, utilise du gadolinium moins néphrotoxique que les produits iodés et est particulièrement utile en cas d’insuffisance rénale, de lésion kystique difficile ou de thrombus veineux."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations la biopsie d’une tumeur rénale peut-elle être indiquée car son résultat peut modifier la stratégie thérapeutique ?",
+      "choices": [
+        "Avant traitement médical d’une tumeur métastatique",
+        "Avant surveillance active d’une petite tumeur",
+        "Avant thermo-ablation d’une petite tumeur",
+        "Systématiquement avant traitement d’une tumeur T1b ou T2 non complexe"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La biopsie n’est pas systématique. Elle est recommandée si son résultat peut modifier la décision, notamment avant traitement médical métastatique, surveillance active ou thermo-ablation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations complexes peuvent faire discuter une biopsie d’une tumeur rénale avant décision thérapeutique ?",
+      "choices": [
+        "Rein unique",
+        "Tumeurs bilatérales",
+        "Comorbidités lourdes",
+        "Exérèse chirurgicale à risque en raison de la localisation tumorale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme situations complexes : rein unique, tumeurs bilatérales, comorbidités lourdes et exérèse chirurgicale à risque liée à la localisation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles extensions peuvent être observées dans une tumeur rénale localement avancée selon le texte ?",
+      "choices": [
+        "Envahissement de la graisse périrénale",
+        "Atteinte de la veine rénale ou de la veine cave",
+        "Atteinte des ganglions lombo-aortiques",
+        "Envahissement d’organes de voisinage"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les tumeurs localement avancées peuvent envahir la graisse périrénale, la veine rénale, la veine cave, les ganglions lombo-aortiques et les organes de voisinage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs kystiques du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles représentent 5 à 10 % des tumeurs du rein",
+        "Elles sont généralement peu agressives",
+        "Elles doivent être analysées par scanner abdominal ou IRM",
+        "L’échographie de contraste peut être utile si le scanner ou l’IRM ne permettent pas de conclure"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les tumeurs kystiques sont minoritaires, généralement peu agressives, explorées par scanner ou IRM, avec recours possible à l’échographie de contraste en cas de diagnostic difficile."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le kyste rénal simple décrit dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il présente une paroi très fine",
+        "Son contenu est hydrique et homogène",
+        "Il ne présente pas de rehaussement",
+        "Il nécessite systématiquement un traitement ou une surveillance après 50 ans"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le kyste simple a une paroi très fine, un contenu hydrique homogène et ne se rehausse pas. Il est fréquent après 50 ans, bénin, et ne nécessite ni traitement ni surveillance."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments d’imagerie peuvent rendre un kyste rénal atypique, suspect ou tumoral ?",
+      "choices": [
+        "Présence de cloisons",
+        "Épaississement de la paroi",
+        "Calcifications",
+        "Végétations intrakystiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les cloisons, l’épaississement pariétal ou des cloisons, les calcifications, le rehaussement et les végétations intrakystiques rendent un kyste suspect."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles informations peuvent être obtenues par la biopsie d’une tumeur du rein ?",
+      "choices": [
+        "Le caractère bénin ou malin",
+        "Le sous-type histologique en cas de tumeur maligne",
+        "Le grade ISUP",
+        "Une estimation de l’agressivité tumorale utile au choix thérapeutique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La biopsie apporte des informations diagnostiques et pronostiques : bénignité ou malignité, sous-type histologique, grade ISUP et évaluation de l’agressivité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la performance et la tolérance de la biopsie d’une tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Sa performance diagnostique pour déterminer la malignité est supérieure à 95 % dans les centres expérimentés",
+        "Ses complications sont inférieures à 10 %",
+        "Les complications sont le plus souvent mineures",
+        "Elle est systématique devant toute tumeur rénale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La biopsie a une performance diagnostique élevée dans les centres expérimentés. Les complications sont rares et le plus souvent mineures. Elle n’est pas systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs rénales localisées T1b et T2 décrites dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont localisées au rein",
+        "Elles n’ont pas dépassé la capsule rénale",
+        "Elles sont souvent asymptomatiques et découvertes fortuitement",
+        "La biopsie est toujours nécessaire avant traitement"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs T1b et T2 sont localisées au rein, sans dépassement capsulaire, souvent asymptomatiques et fortuites. Sauf cas particulier, la biopsie n’est pas nécessaire avant traitement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel signe clinique est cité à la fois dans le contexte de suspicion métastatique et parmi les manifestations possibles des tumeurs localement avancées ?",
+      "choices": [
+        "Hématurie",
+        "Anémie",
+        "Masse palpable",
+        "Lombalgie"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’anémie est mentionnée dans le contexte de suspicion métastatique et également parmi les manifestations des tumeurs localement avancées."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle localisation ganglionnaire est décrite comme la plus fréquente dans l’extension locorégionale des tumeurs rénales ?",
+      "choices": [
+        "Inguinale",
+        "Médiastinale",
+        "Lombo-aortique",
+        "Cervicale"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les adénopathies décrites dans l’extension locorégionale sont le plus souvent lombo-aortiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité de réalisation de la biopsie d’une tumeur rénale est conforme au texte ?",
+      "choices": [
+        "Voie percutanée sous anesthésie locale",
+        "Voie endoscopique sous anesthésie générale obligatoire",
+        "Voie laparoscopique systématique",
+        "Ponction sans guidage radiologique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La biopsie d’une tumeur du rein est réalisée par voie percutanée, sous anesthésie locale, sous guidage tomodensitométrique ou échographique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel produit de contraste est décrit comme moins néphrotoxique que les produits iodés ?",
+      "choices": [
+        "Produit iodé hydrosoluble",
+        "Gadolinium",
+        "Baryte",
+        "Produit de contraste échographique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que le gadolinium utilisé en IRM est moins néphrotoxique que les produits iodés."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proportion des tumeurs du rein est représentée par les tumeurs kystiques selon le texte ?",
+      "choices": [
+        "1 à 2 %",
+        "5 à 10 %",
+        "30 à 40 %",
+        "Plus de 80 %"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les tumeurs kystiques représentent 5 à 10 % des tumeurs du rein."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen peut aider à analyser une tumeur kystique rénale lorsque le scanner ou l’IRM ne permettent pas de conclure ?",
+      "choices": [
+        "Échographie de contraste",
+        "Radiographie de l’abdomen sans préparation",
+        "Cystoscopie",
+        "Urétéroscopie systématique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’échographie de contraste peut être utile pour analyser les tumeurs kystiques de diagnostic difficile lorsque le scanner ou l’IRM sont insuffisants."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’analyse d’un kyste rénal, quels éléments font sortir la lésion du cadre d’un Bosniak IIF et orientent vers un kyste au moins suspect ou malin ?",
+      "choices": [
+        "Végétations intrakystiques se rehaussant après injection",
+        "Paroi épaisse et irrégulière se rehaussant",
+        "Cloisons nombreuses et fines avec minime épaississement inférieur ou égal à 1 mm",
+        "Calcifications épaisses et irrégulières"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les végétations intrakystiques rehaussées caractérisent Bosniak IV. La paroi épaisse irrégulière rehaussée et les calcifications épaisses irrégulières sont des critères de Bosniak III/IV. Les cloisons nombreuses et fines relèvent du Bosniak IIF."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la classification TNM des tumeurs du rein, quelles situations correspondent à une extension anatomique locale de la tumeur primitive plutôt qu’à un statut ganglionnaire ou métastatique ?",
+      "choices": [
+        "Envahissement des voies excrétrices",
+        "Infiltration du fascia de Gerota",
+        "Métastase ganglionnaire régionale",
+        "Métastase à distance"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’envahissement des voies excrétrices est classé T3a. L’infiltration du fascia de Gerota est classée T4. La métastase ganglionnaire relève de N1 et la métastase à distance de M1."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’extension veineuse d’une tumeur rénale dans la classification TNM, quelles propositions sont exactes ?",
+      "choices": [
+        "L’atteinte de la veine rénale ou de ses branches correspond à T3a",
+        "Un thrombus dans la veine cave sous le diaphragme correspond à T3b",
+        "Un thrombus dans la veine cave au-dessus du diaphragme correspond à T3c",
+        "L’absence de métastase ganglionnaire correspond à T3a"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les extensions veineuses sont classées T3a pour la veine rénale et ses branches, T3b pour la veine cave sous-diaphragmatique, et T3c pour la veine cave sus-diaphragmatique ou avec envahissement pariétal. N0 correspond à l’absence de métastase ganglionnaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une tumeur du rein multimétastatique, quels éléments interviennent dans la discussion d’une néphrectomie ?",
+      "choices": [
+        "L’état général du patient",
+        "La difficulté chirurgicale prévisible",
+        "Le pronostic de la maladie",
+        "La présence isolée de fines cloisons kystiques sans rehaussement"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En situation multimétastatique, la néphrectomie est discutée selon l’état général, la difficulté chirurgicale, le pronostic de la maladie et l’extension tumorale. Les fines cloisons sans rehaussement relèvent de la caractérisation kystique et ne sont pas un critère cité pour discuter la néphrectomie multimétastatique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des techniques thermo-ablatives dans les tumeurs du rein, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elles comprennent la radiofréquence percutanée",
+        "Elles comprennent la cryoablation percutanée",
+        "Elles sont proposées après confirmation histologique de la malignité",
+        "Elles constituent le traitement de référence des volumineuses tumeurs de plus de 6 cm"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les techniques thermo-ablatives citées sont la radiofréquence et la cryoablation percutanées, proposées après confirmation histologique de la malignité, surtout pour les tumeurs de moins de 3 cm dans des situations sélectionnées. Les tumeurs de plus de 6 cm relèvent de la néphrectomie élargie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la surveillance active des petites tumeurs du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut reposer sur une surveillance simple par imagerie",
+        "Elle peut être envisagée lorsque l’espérance de vie est limitée",
+        "Elle se justifie notamment par le caractère souvent indolent des petites tumeurs du rein",
+        "Elle remplace systématiquement tout traitement chirurgical des tumeurs de plus de 6 cm"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La surveillance active peut être proposée chez certains patients, notamment si l’espérance de vie est limitée, en raison du caractère souvent indolent des petites tumeurs rénales. Elle ne remplace pas systématiquement la néphrectomie élargie des volumineuses tumeurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Après néphrectomie pour une tumeur rénale localisée, quels éléments font partie du suivi recommandé ?",
+      "choices": [
+        "Examen clinique",
+        "Créatininémie",
+        "Scanner thoracique, abdominal et pelvien",
+        "Radiothérapie adjuvante systématique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le suivi après néphrectomie repose sur l’examen clinique, la créatininémie et l’imagerie par scanner thoracique, abdominal et pelvien. La radiothérapie adjuvante systématique n’est pas recommandée."
+    },
+    {
+      "type": "QCM",
+      "question": "Après néphrectomie pour tumeur rénale localisée, quels traitements ne sont pas recommandés de manière systématique en adjuvant ?",
+      "choices": [
+        "Thérapie ciblée",
+        "Immunothérapie",
+        "Radiothérapie",
+        "Surveillance clinique et biologique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Aucun traitement adjuvant systématique par thérapie ciblée, immunothérapie ou radiothérapie n’est recommandé après néphrectomie pour tumeur localisée. La surveillance clinique, biologique et radiologique fait partie du suivi."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de tumeur rénale oligométastatique, quels traitements peuvent être associés dans une stratégie visant une rémission complète ?",
+      "choices": [
+        "Traitement de la tumeur primitive par néphrectomie",
+        "Exérèse chirurgicale des métastases",
+        "Radiothérapie ou traitement ablatif des localisations secondaires",
+        "Abstention de tout traitement local de la tumeur primitive et des métastases"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les formes oligométastatiques, le traitement de la tumeur primitive et des métastases peut être proposé afin d’obtenir une rémission complète. Les options citées sont la néphrectomie, l’exérèse des métastases, la radiothérapie et le traitement ablatif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les traitements systémiques des tumeurs rénales multimétastatiques, quelles associations classe–traitement sont exactes ?",
+      "choices": [
+        "Inhibiteurs de tyrosine kinase : thérapies ciblées",
+        "Inhibiteurs de mTOR : thérapies ciblées",
+        "Anti-CTLA-4 : immunothérapie",
+        "Inhibiteurs de PD-1/PD-L1 : radiothérapie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les thérapies ciblées comprennent les inhibiteurs de tyrosine kinase et les inhibiteurs de mTOR. L’immunothérapie comprend les anti-CTLA-4 et les inhibiteurs de PD-1/PD-L1."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les diagnostics différentiels d’une tumeur primitive du rein, quelles localisations secondaires d’un autre cancer sont citées ?",
+      "choices": [
+        "Localisation secondaire d’un cancer du poumon",
+        "Localisation secondaire d’un mélanome",
+        "Localisation secondaire d’un lymphome",
+        "Carcinome urothélial de la voie excrétrice supérieure"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les métastases rénales ou localisations secondaires d’un autre cancer citées concernent notamment le poumon, le mélanome et le lymphome. Le carcinome urothélial de la voie excrétrice supérieure est un autre diagnostic différentiel, mais ce n’est pas une métastase rénale d’un autre cancer dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les carcinomes urothéliaux de la voie excrétrice supérieure pouvant simuler ou envahir une tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent envahir le parenchyme rénal",
+        "Ils sont décrits comme plus rares que les tumeurs primitives du rein",
+        "Ils sont décrits comme plus agressifs",
+        "Ils se manifestent généralement par une absence totale de symptômes urinaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les carcinomes urothéliaux de la voie excrétrice supérieure peuvent envahir le parenchyme rénal. Ils sont plus rares, plus agressifs, et se manifestent généralement par hématurie macroscopique et crises de colique néphrétique."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une néphrectomie élargie pour volumineuse tumeur du rein, quelles propositions concernant la surrénale homolatérale sont conformes au texte ?",
+      "choices": [
+        "Elle est conservée en l’absence d’envahissement suspecté à l’imagerie préopératoire",
+        "Elle peut ne pas être conservée si un envahissement est suspecté",
+        "Elle peut ne pas être conservée si un envahissement est confirmé à l’imagerie préopératoire",
+        "Elle doit être retirée systématiquement quelle que soit l’imagerie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La surrénale homolatérale est conservée sauf en cas d’envahissement suspecté ou confirmé à l’imagerie préopératoire. Son ablation systématique n’est pas indiquée dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour une tumeur rénale localisée au rein, quelles propositions thérapeutiques sont exactes selon la taille tumorale indiquée dans le texte ?",
+      "choices": [
+        "Pour une tumeur de moins de 6 cm, la néphrectomie partielle est le traitement de référence si elle est techniquement réalisable",
+        "Pour une tumeur de plus de 6 cm, la néphrectomie élargie est le traitement de référence",
+        "Pour une tumeur de moins de 6 cm, la néphrectomie élargie est toujours obligatoire",
+        "Pour une tumeur de plus de 6 cm, la surveillance simple par imagerie est le traitement de référence"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les tumeurs localisées de moins de 6 cm relèvent préférentiellement d’une néphrectomie partielle si elle est réalisable. Les volumineuses tumeurs de plus de 6 cm ont pour traitement de référence la néphrectomie élargie."
+    },
+    {
+      "type": "QCS",
+      "question": "Une tumeur rénale de 6,8 cm strictement localisée au rein, sans extension veineuse, ganglionnaire ni métastatique décrite, correspond à quel stade T selon la classification fournie ?",
+      "choices": [
+        "T1a",
+        "T1b",
+        "T2a",
+        "T3a"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Selon la classification fournie, T1b correspond à une tumeur de plus de 4 cm localisée au rein. Le stade T2a concerne une tumeur localisée au rein de plus de 7 cm et inférieure ou égale à 10 cm."
+    },
+    {
+      "type": "QCS",
+      "question": "Un kyste rénal hyperdense entièrement intrarénal mesurant 3 cm ou plus, probablement bénin mais nécessitant une surveillance, correspond à quelle catégorie de Bosniak ?",
+      "choices": [
+        "Bosniak II",
+        "Bosniak IIF",
+        "Bosniak III",
+        "Bosniak IV"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Un kyste hyperdense entièrement intrarénal de 3 cm ou plus est un critère de Bosniak IIF, catégorie probablement bénigne mais nécessitant une surveillance."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une tumeur du rein avec peu de métastases, quel est l’objectif du traitement de la tumeur primitive et des métastases selon le texte ?",
+      "choices": [
+        "Obtenir une rémission complète",
+        "Éviter tout traitement local",
+        "Remplacer systématiquement l’imagerie de suivi",
+        "Classer automatiquement la tumeur en Bosniak IV"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En situation oligométastatique, le traitement de la tumeur primitive et des métastases peut être proposé afin d’obtenir une rémission complète."
+    },
+    {
+      "type": "QCS",
+      "question": "Après néphrectomie pour tumeur rénale localisée, lequel des éléments suivants est cité comme déterminant de la fréquence du suivi ?",
+      "choices": [
+        "Le stade tumoral",
+        "La présence d’une hématurie macroscopique isolée",
+        "La présence de crises de colique néphrétique",
+        "Le caractère entièrement intrarénal d’un kyste hyperdense"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La fréquence du suivi dépend du stade tumoral, de l’agressivité histologique et du grade tumoral. Les autres propositions ne sont pas citées comme déterminants de la fréquence du suivi après néphrectomie."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les traitements suivants, lequel appartient à l’immunothérapie systémique des tumeurs rénales multimétastatiques selon le texte ?",
+      "choices": [
+        "Inhibiteur de PD-1/PD-L1",
+        "Inhibiteur de tyrosine kinase",
+        "Inhibiteur de mTOR",
+        "Néphrectomie élargie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’immunothérapie comprend les anti-CTLA-4 et les inhibiteurs de PD-1/PD-L1. Les inhibiteurs de tyrosine kinase et de mTOR sont des thérapies ciblées."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors d’une néphrectomie élargie pour volumineuse tumeur rénale, quelle attitude est recommandée vis-à-vis de la surrénale homolatérale en l’absence d’envahissement suspecté ou confirmé à l’imagerie préopératoire ?",
+      "choices": [
+        "Conservation de la surrénale homolatérale",
+        "Ablation systématique de la surrénale homolatérale",
+        "Radiothérapie adjuvante systématique de la surrénale",
+        "Traitement ablatif systématique de la surrénale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La surrénale homolatérale est conservée sauf en cas d’envahissement suspecté ou confirmé à l’imagerie préopératoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les circonstances de découverte d’une tumeur du rein de l’adulte, quelles propositions sont exactes ?",
+      "choices": [
+        "La découverte est le plus souvent fortuite lors d’une imagerie abdominale réalisée pour une autre indication.",
+        "Une tumeur du rein peut être révélée par une hématurie macroscopique ou une lombalgie.",
+        "Les signes généraux sont souvent évocateurs d’une maladie localement avancée ou métastatique.",
+        "Une découverte symptomatique exclut une tumeur rénale bénigne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs rénales sont fréquemment découvertes fortuitement, mais peuvent aussi se manifester par hématurie, lombalgie ou signes généraux. Le caractère symptomatique ne suffit pas à affirmer la malignité."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont cités comme facteurs de risque de cancer du rein ?",
+      "choices": [
+        "Tabagisme.",
+        "Obésité.",
+        "Hypertension artérielle.",
+        "Exposition environnementale au benzène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite notamment le tabagisme, l’obésité et l’hypertension artérielle. L’exposition environnementale mentionnée est le trichloréthylène, non le benzène."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs de risque rénaux ou iatrogènes de cancer du rein mentionnés dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’insuffisance rénale est un facteur de risque cité.",
+        "La transplantation rénale est un facteur de risque cité.",
+        "Le sexe féminin est présenté comme un facteur de risque.",
+        "Les prédispositions génétiques familiales font partie des facteurs de risque."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’insuffisance rénale, la transplantation rénale et les prédispositions génétiques familiales sont citées. Le facteur de risque sexuel mentionné est le sexe masculin."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les correspondances entre prédispositions génétiques familiales et types histologiques, quelles propositions sont exactes ?",
+      "choices": [
+        "La maladie de Von Hippel-Lindau prédispose aux carcinomes à cellules claires.",
+        "Le cancer rénal papillaire héréditaire lié à MET prédispose aux carcinomes papillaires de type 1.",
+        "La léiomyomatose cutanéo-utérine héréditaire liée à FH prédispose aux carcinomes papillaires de type 2.",
+        "Le syndrome de Birt-Hogg-Dubé prédispose aux carcinomes tubulopapillaires de type 1."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "VHL est associé aux carcinomes à cellules claires, MET aux papillaires de type 1, FH aux papillaires de type 2. Le syndrome de Birt-Hogg-Dubé est associé aux carcinomes chromophobes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des principaux types histologiques malins des tumeurs rénales, quelles propositions sont exactes ?",
+      "choices": [
+        "Le carcinome rénal à cellules claires est le type histologique malin le plus fréquent.",
+        "Le carcinome tubulopapillaire comprend deux sous-types.",
+        "Le carcinome chromophobe représente une proportion plus faible que le carcinome à cellules claires.",
+        "Le carcinome tubulopapillaire représente 75 à 85 % des cancers rénaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le carcinome à cellules claires représente 75 à 85 %. Le carcinome tubulopapillaire représente 12 à 14 % et comporte deux sous-types. Le carcinome chromophobe représente 4 à 6 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le grade tumoral ISUP dans les carcinomes rénaux, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est utilisé pour les carcinomes rénaux à cellules claires.",
+        "Il est utilisé pour les carcinomes tubulopapillaires.",
+        "Il évalue l’agressivité tumorale à partir d’anomalies cytonucléaires.",
+        "Il varie de 0 à 3."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le grade ISUP est utilisé pour les carcinomes à cellules claires et tubulopapillaires. Il repose sur les anomalies cytonucléaires et varie de 1 à 4."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’établissement du grade ISUP, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Il peut être établi sur pièce opératoire.",
+        "Il peut être établi sur biopsie.",
+        "Les grades 1 et 2 correspondent à un bas grade.",
+        "Les grades 2 et 3 correspondent à un haut grade."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le grade ISUP peut être établi sur biopsie ou pièce opératoire. Les grades 1 et 2 sont de bas grade ; les grades 3 et 4 sont de haut grade."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs bénignes rénales citées, quelles propositions sont exactes ?",
+      "choices": [
+        "L’oncocytome et l’angiomyolipome sont les principales tumeurs bénignes à connaître.",
+        "L’oncocytome est aussi appelé adénome oncocytaire.",
+        "L’angiomyolipome associe des composantes adipeuse, musculaire et vasculaire.",
+        "L’oncocytome est la seule tumeur bénigne dont le diagnostic peut être évoqué devant une densité graisseuse négative au scanner."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’oncocytome et l’angiomyolipome sont les principales tumeurs bénignes citées. La densité graisseuse négative au scanner oriente vers un angiomyolipome."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques de l’angiomyolipome rénal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est généralement rare dans la population.",
+        "Il est plus fréquent chez la femme.",
+        "Il est le plus souvent petit et isolé.",
+        "Son principal risque évolutif est la transformation en carcinome à cellules claires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’angiomyolipome est rare, plus fréquent chez la femme et le plus souvent petit et isolé. Le principal risque cité est l’hémorragie, non la transformation carcinomateuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un angiomyolipome volumineux et multiple, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Cette présentation peut faire évoquer une sclérose tubéreuse de Bourneville.",
+        "Le risque principal est hémorragique.",
+        "Un traitement préventif peut se discuter lorsque la taille tumorale dépasse 4 cm.",
+        "La multiplicité impose d’affirmer une tumeur maligne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un angiomyolipome volumineux et multiple fait évoquer une sclérose tubéreuse de Bourneville. Le risque majeur est l’hémorragie, pouvant justifier un traitement préventif au-delà de 4 cm."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les situations dans lesquelles une tumeur du rein devient symptomatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Une tumeur volumineuse peut donner une pesanteur lombaire.",
+        "Une tumeur volumineuse peut être associée à une masse lombaire palpable.",
+        "L’envahissement des voies excrétrices peut entraîner une hématurie microscopique ou macroscopique.",
+        "Une maladie métastatique se manifeste exclusivement par une hématurie isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs volumineuses peuvent donner pesanteur lombaire et masse palpable. L’envahissement des voies excrétrices peut donner une hématurie. La maladie métastatique peut entraîner altération de l’état général, asthénie, amaigrissement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les signes pouvant révéler des métastases symptomatiques d’une tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Dyspnée.",
+        "Douleurs osseuses.",
+        "Troubles neurologiques.",
+        "Cicatrice stellaire centrale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les métastases symptomatiques peuvent se manifester par dyspnée, douleurs osseuses ou troubles neurologiques. La cicatrice stellaire centrale est un élément d’imagerie possible de l’oncocytome."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’examen clinique en cas de suspicion métastatique d’une tumeur du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "La recherche de signes neurologiques est mentionnée.",
+        "La recherche de douleurs osseuses est mentionnée.",
+        "L’évaluation de l’état général fait partie de l’examen.",
+        "La cystoscopie systématique est citée comme étape de l’examen clinique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen clinique comprend notamment l’évaluation de l’état général, la recherche de signes neurologiques et de douleurs osseuses en cas de suspicion métastatique. La cystoscopie n’est pas citée dans ce passage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’échographie dans l’exploration initiale d’une tumeur du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est un mode fréquent de découverte.",
+        "Elle permet de différencier une tumeur solide d’une tumeur kystique.",
+        "Elle manque de précision lorsqu’elle est utilisée seule.",
+        "Elle suffit à décider du traitement définitif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échographie découvre fréquemment les tumeurs rénales et distingue solide/kystique, mais elle manque de précision et ne suffit pas à décider du traitement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le pic d’incidence du cancer du rein de l’adulte selon le texte ?",
+      "choices": [
+        "Entre 30 et 40 ans.",
+        "Entre 40 et 50 ans.",
+        "Entre 60 et 70 ans.",
+        "Après 85 ans exclusivement."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le pic d’incidence du cancer du rein se situe entre 60 et 70 ans."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel sex-ratio approximatif est rapporté pour le cancer du rein de l’adulte ?",
+      "choices": [
+        "1 homme pour 1 femme.",
+        "1,5 homme pour 1 femme.",
+        "3 hommes pour 1 femme.",
+        "1 homme pour 2 femmes."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le cancer du rein survient plus souvent chez l’homme, avec un sex-ratio d’environ 1,5 homme pour 1 femme."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proportion approximative des cancers rénaux est d’emblée métastatique au diagnostic ?",
+      "choices": [
+        "1 à 2 %.",
+        "10 à 20 %.",
+        "40 à 50 %.",
+        "70 à 80 %."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Au diagnostic, environ 10 à 20 % des cancers rénaux sont d’emblée métastatiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Après néphrectomie pour une tumeur rénale localisée, quelle proportion de patients développera secondairement des métastases selon le texte ?",
+      "choices": [
+        "0 à 1 %.",
+        "2 à 5 %.",
+        "10 à 30 %.",
+        "60 à 80 %."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Après néphrectomie pour tumeur localisée, 10 à 30 % des patients développeront secondairement des métastases."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de taille d’un angiomyolipome peut justifier un traitement préventif du risque hémorragique ?",
+      "choices": [
+        "Supérieur à 1 cm.",
+        "Supérieur à 2 cm.",
+        "Supérieur à 4 cm.",
+        "Supérieur à 10 cm uniquement."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le risque principal de l’angiomyolipome est l’hémorragie ; un traitement préventif peut être justifié lorsque la taille tumorale est supérieure à 4 cm."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le texte, à quel gène est lié le cancer rénal papillaire héréditaire prédisposant aux carcinomes papillaires de type 1 ?",
+      "choices": [
+        "VHL.",
+        "MET.",
+        "FH.",
+        "BHD."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le cancer rénal papillaire héréditaire est lié au gène MET et prédispose aux carcinomes papillaires de type 1."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-04T17:14:45.835Z"
+}

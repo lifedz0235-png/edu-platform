@@ -1,0 +1,420 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+.topbar {
+  padding: 18px 24px;
+  text-align: center;
+  position: relative;
+}
+
+.title {
+  margin: 0;
+  color: gold;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.back-link {
+  position: absolute;
+  left: 24px;
+  top: 22px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.back-link:hover {
+  color: gold;
+}
+
+.home {
+  min-height: calc(100vh - 80px);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 28px;
+  padding: 40px 24px;
+  flex-wrap: wrap;
+}
+
+.category-card,
+.module-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  min-width: 220px;
+  min-height: 130px;
+  padding: 24px;
+  background: #111;
+  border-radius: 18px;
+  color: #fff;
+  text-decoration: none;
+  transition: transform 0.2s ease, background 0.2s ease, color 0.2s ease;
+}
+
+.category-card:hover,
+.module-card:hover {
+  background: gold;
+  color: #000;
+  transform: translateY(-4px);
+}
+
+.category-icon {
+  font-size: 28px;
+}
+
+.modules-page {
+  padding: 20px 24px 40px;
+}
+
+.search-box {
+  margin-bottom: 24px;
+}
+
+.search-box input,
+.search-input {
+  width: 100%;
+  max-width: 420px;
+  padding: 14px 16px;
+  border-radius: 12px;
+  border: 1px solid #333;
+  background: #111;
+  color: #fff;
+  font-size: 16px;
+  outline: none;
+  margin-bottom: 16px;
+}
+
+.search-box input:focus,
+.search-input:focus {
+  border-color: gold;
+}
+
+.modules-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 20px;
+}
+
+.module-card-title {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.module-card-count {
+  font-size: 14px;
+  opacity: 0.85;
+}
+
+.player-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 3fr) 340px;
+  gap: 20px;
+  padding: 20px 24px 30px;
+}
+
+.player-main {
+  min-width: 0;
+}
+
+#videoPlayer {
+  width: 100%;
+  border-radius: 14px;
+  background: #111;
+  outline: none;
+}
+
+.player-actions {
+  margin-top: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.btn {
+  border: none;
+  border-radius: 10px;
+  padding: 12px 20px;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.btn-gold {
+  background: gold;
+  color: #000;
+}
+
+.btn-dark {
+  background: #2a2a2a;
+  color: #fff;
+}
+
+.btn-success {
+  background: #18a558;
+  color: #fff;
+}
+
+.btn-favorite-active {
+  background: #ff9800;
+  color: #000;
+}
+
+.pdf-link {
+  color: #4da3ff;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.player-sidebar {
+  background: #0f0f0f;
+  border-radius: 14px;
+  padding: 16px;
+  max-height: calc(100vh - 120px);
+  overflow-y: auto;
+}
+
+.sidebar-title {
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-size: 18px;
+}
+
+.progress-box {
+  margin-bottom: 18px;
+}
+
+.progress-text {
+  font-size: 14px;
+  margin-bottom: 8px;
+  color: #ddd;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 10px;
+  background: #222;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  width: 0%;
+  background: gold;
+  transition: width 0.3s ease;
+}
+
+.course-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.course-item {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  background: #222;
+  padding: 14px;
+  border-radius: 10px;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.course-item:hover {
+  background: #333;
+}
+
+.course-item.active {
+  background: gold;
+  color: #000;
+  font-weight: 700;
+}
+
+.course-item.favorite-item {
+  box-shadow: inset 0 0 0 1px #ff9800;
+}
+
+.course-item.done {
+  border-left: 4px solid #18a558;
+}
+
+.course-item.done::after {
+  content: " ✔";
+  font-weight: 700;
+  color: #18a558;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.course-end-box {
+  margin-top: 22px;
+  background: linear-gradient(135deg, #111, #1b1b1b);
+  border: 1px solid #2f2f2f;
+  border-radius: 18px;
+  padding: 22px;
+}
+
+.course-end-box h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: gold;
+  font-size: 24px;
+}
+
+.course-end-box p {
+  margin-top: 0;
+  margin-bottom: 18px;
+  color: #ddd;
+  font-size: 16px;
+}
+
+.auto-next-info {
+  margin-bottom: 18px;
+  color: #ffd54a;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.course-end-actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.back-module-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+@media (max-width: 950px) {
+  .player-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .player-sidebar {
+    max-height: none;
+  }
+
+  .home {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .back-link {
+    position: static;
+    display: block;
+    margin-bottom: 12px;
+    text-align: left;
+  }
+}
+.pdf-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.pdf-section {
+  margin-top: 22px;
+  background: #0d0d0d;
+  border: 1px solid #252525;
+  border-radius: 18px;
+  padding: 18px;
+}
+
+.pdf-section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.pdf-section-header h3 {
+  margin: 0;
+  color: gold;
+  font-size: 22px;
+}
+
+.pdf-unavailable {
+  background: #1b1b1b;
+  border: 1px solid #333;
+  border-radius: 12px;
+  padding: 14px;
+  color: #ffb3b3;
+  font-weight: 700;
+}
+
+.pdf-viewer {
+  width: 100%;
+  height: 700px;
+  border: none;
+  border-radius: 12px;
+  background: #111;
+}
+
+@media (max-width: 950px) {
+  .pdf-viewer {
+    height: 500px;
+  }
+}
+.empty-state {
+  background: #111;
+  border-radius: 18px;
+  padding: 24px;
+  color: #ddd;
+  font-size: 18px;
+}
+
+.favorite-course-card {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  background: #111;
+  border-radius: 18px;
+  padding: 20px;
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+
+.favorite-course-card:hover {
+  transform: translateY(-4px);
+  background: #1a1a1a;
+}
+
+.favorite-course-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: gold;
+  margin-bottom: 8px;
+}
+
+.favorite-course-meta {
+  color: #ccc;
+  font-size: 14px;
+}
+
+.category-progress-card {
+  margin-bottom: 20px;
+}
+
+.category-progress-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  font-weight: 700;
+}

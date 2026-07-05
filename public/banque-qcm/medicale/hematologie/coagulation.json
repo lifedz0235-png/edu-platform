@@ -1,0 +1,3116 @@
+{
+  "category": "medicale",
+  "module": "hematologie",
+  "courseId": 165,
+  "courseTitle": "Hemostase Primaire Coagulation",
+  "supportTitle": "coagulation",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/medicale-pdf/HEMATOLOGIE/coagulation.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la définition et la place de la coagulation dans l’hémostase, quelles propositions sont exactes ?",
+      "choices": [
+        "La coagulation correspond au passage du sang de l’état liquide à l’état de gel.",
+        "La coagulation précède l’hémostase primaire.",
+        "La coagulation aboutit à la transformation du fibrinogène soluble en fibrine insoluble.",
+        "La coagulation succède à la fibrinolyse."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "La coagulation est le passage du sang liquide à l’état de gel. Elle succède à l’hémostase primaire et précède la fibrinolyse. Elle transforme le fibrinogène plasmatique soluble en réseau de fibrine insoluble."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels participent à la coagulation selon le texte ?",
+      "choices": [
+        "Le calcium.",
+        "Le facteur tissulaire.",
+        "La kallikréine.",
+        "La bilirubine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les éléments de la coagulation cités comprennent les facteurs de coagulation, le facteur tissulaire, le calcium, la kallikréine, le kininogène de haut poids moléculaire et les inhibiteurs physiologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du calcium dans la coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est nécessaire aux réactions enzymatiques de la coagulation.",
+        "Il permet la fixation des facteurs vitamine K-dépendants aux phospholipides.",
+        "Il inhibe principalement la thrombine et le facteur Xa.",
+        "Il joue un rôle important dans l’hémostase."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le calcium est nécessaire aux réactions enzymatiques de la coagulation, permet la fixation des facteurs vitamine K-dépendants aux phospholipides et joue un rôle important dans l’hémostase. L’inhibition de la thrombine et du facteur Xa relève de l’antithrombine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le facteur tissulaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est présent dans la paroi vasculaire.",
+        "Il initie la voie extrinsèque de la coagulation après exposition au sang.",
+        "Il constitue avec le facteur VIIIa le complexe prothrombinase.",
+        "Il est un inhibiteur physiologique de la coagulation."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le facteur tissulaire est présent dans la paroi vasculaire et initie la voie extrinsèque après exposition au sang. Il n’est pas décrit comme un inhibiteur physiologique ni comme un constituant du complexe prothrombinase."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs ou protéines sont vitamine K-dépendants selon le texte ?",
+      "choices": [
+        "Facteur II.",
+        "Facteur VII.",
+        "Protéine C.",
+        "Facteur VIII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs II, VII, IX et X sont vitamine K-dépendants. Les protéines C et S le sont également. Le facteur VIII n’est pas cité parmi eux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le complexe prothrombinique et le complexe prothrombinique classique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le complexe prothrombinique comprend les facteurs II, VII, IX et X.",
+        "Dans le complexe prothrombinique classique II, V, VII et X, les facteurs II, VII et X sont vitamine K-dépendants.",
+        "Le facteur V appartient au complexe prothrombinique II, VII, IX et X.",
+        "Le facteur IX appartient au PPSB."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le complexe prothrombinique comprend II, VII, IX et X. Dans le complexe classique II, V, VII et X, les facteurs II, VII et X sont vitamine K-dépendants. Le PPSB contient II, VII, IX et X."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles étapes appartiennent au déroulement de la coagulation tel qu’il est décrit ?",
+      "choices": [
+        "Génération de la prothrombinase.",
+        "Thrombinoformation.",
+        "Fibrinoformation.",
+        "Activation isolée de la fibrinolyse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déroulement de la coagulation comporte la génération de la prothrombinase, la thrombinoformation et la fibrinoformation. La fibrinolyse survient après la coagulation et ne constitue pas une étape de celle-ci dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Le complexe d’activation de la prothrombine est constitué de quels éléments ?",
+      "choices": [
+        "Facteur Xa.",
+        "Facteur Va.",
+        "Calcium.",
+        "Facteur VIIa."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complexe prothrombinase est constitué du facteur Xa, du facteur Va, de calcium et de phospholipides. Le facteur VIIa n’est pas cité comme constituant de ce complexe."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la thrombine, quelles propositions sont exactes ?",
+      "choices": [
+        "La thrombine correspond au facteur IIa.",
+        "Elle transforme le fibrinogène en fibrine.",
+        "Elle inhibe les facteurs Va et VIIIa.",
+        "Elle est principalement inhibée par l’antithrombine."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La thrombine est le facteur IIa et transforme le fibrinogène en fibrine. L’antithrombine inhibe principalement la thrombine et le facteur Xa. L’inhibition de Va et VIIIa relève de la protéine C activée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les inhibiteurs physiologiques de la coagulation, quelles associations sont exactes ?",
+      "choices": [
+        "Antithrombine : inhibition principalement de la thrombine et du facteur Xa.",
+        "Protéine C activée : inhibition des facteurs Va et VIIIa.",
+        "Protéine S : cofacteur de la protéine C activée.",
+        "Cofacteur de l’héparine II : inhibition du facteur VII dépendante de l’héparine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’antithrombine inhibe surtout la thrombine et Xa. La protéine C activée inhibe Va et VIIIa. La protéine S est son cofacteur. Le cofacteur de l’héparine II inhibe la thrombine, et non le facteur VII."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un TQ allongé avec TCK normal, quelles étiologies sont compatibles avec le texte ?",
+      "choices": [
+        "Déficit congénital en facteur VII.",
+        "Inhibiteur anti-facteur VII.",
+        "Début de traitement par antivitamine K.",
+        "Déficit isolé en facteur XII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un TQ allongé avec TCK normal peut correspondre à un déficit congénital en facteur VII, un inhibiteur anti-facteur VII ou un début de traitement par antivitamine K. Le déficit en facteur XII allonge le TCK."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations peuvent donner à la fois un TQ allongé et un TCK allongé ?",
+      "choices": [
+        "Déficit en facteur V, X ou II.",
+        "Carence en vitamine K.",
+        "Coagulation intravasculaire disséminée.",
+        "Déficit isolé en facteur VIII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un allongement conjoint du TQ et du TCK peut être observé dans les déficits en facteurs V, X ou II, la carence en vitamine K et la coagulation intravasculaire disséminée. Le déficit isolé en facteur VIII donne typiquement un TCK allongé avec TQ normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un TCK allongé avec TQ normal, quelles causes sont citées ?",
+      "choices": [
+        "Hémophilie A par déficit en facteur VIII.",
+        "Hémophilie B par déficit en facteur IX.",
+        "Déficit en facteur XI.",
+        "Déficit en facteur VII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un TCK allongé avec TQ normal peut être dû à un déficit en VIII, IX, XI ou XII. Le déficit en facteur VII est associé à un TQ allongé avec TCK normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels déficits sont responsables d’un risque hémorragique selon le texte ?",
+      "choices": [
+        "Déficit en fibrinogène.",
+        "Déficit en facteur VIII.",
+        "Déficit en facteur X.",
+        "Déficit en facteur XII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits en fibrinogène, facteurs VIII, IX, VII, X, II, V et XI sont responsables d’un risque hémorragique. Le déficit en facteur XII allonge le TCK mais n’est généralement pas responsable d’un syndrome hémorragique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le rôle principal de la thrombine dans la fibrinoformation ?",
+      "choices": [
+        "Transformer le fibrinogène en fibrine.",
+        "Transformer la fibrine en fibrinogène.",
+        "Activer directement le facteur tissulaire.",
+        "Inhiber le facteur Xa."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La thrombine, ou facteur IIa, transforme le fibrinogène en fibrine lors de la fibrinoformation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel test explore la voie intrinsèque déclenchée par l’activation du système contact ?",
+      "choices": [
+        "Le TQ.",
+        "Le TCA/TCK.",
+        "Le dosage du PPSB seul.",
+        "Le temps de saignement seul."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le temps de céphaline avec activateur, ou TCA/TCK, explore la voie intrinsèque de la coagulation déclenchée par l’activation du système contact."
+    },
+    {
+      "type": "QCS",
+      "question": "Sur quel type de prélèvement le TCA/TCK est-il réalisé selon le texte ?",
+      "choices": [
+        "Sang total hépariné.",
+        "Plasma citraté.",
+        "Sérum coagulé.",
+        "Plasma fluoré."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le TCA/TCK est réalisé sur plasma citraté."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel déficit allonge le TCK sans être généralement responsable d’un syndrome hémorragique ?",
+      "choices": [
+        "Déficit en facteur VIII.",
+        "Déficit en facteur IX.",
+        "Déficit en facteur XII.",
+        "Déficit en fibrinogène."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le déficit en facteur XII allonge le TCK mais n’est généralement pas responsable d’un syndrome hémorragique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie biologique est attendue dans un déficit majeur en facteur X ?",
+      "choices": [
+        "Allongement du TCK avec diminution du taux du complexe prothrombinique.",
+        "TCK normal avec augmentation du complexe prothrombinique.",
+        "TQ isolément normal sans autre anomalie.",
+        "Allongement isolé du temps de saignement."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Un déficit majeur en facteur X entraîne un allongement du TCK et une diminution du taux du complexe prothrombinique. Il peut également allonger le TQ."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation le PPSB est-il notamment utilisé ?",
+      "choices": [
+        "Correction rapide d’un déficit en facteurs vitamine K-dépendants lors d’un surdosage grave en antivitamine K.",
+        "Traitement de première intention d’un déficit isolé en facteur XII sans syndrome hémorragique.",
+        "Exploration de la voie intrinsèque de la coagulation.",
+        "Inhibition physiologique des facteurs Va et VIIIa."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le PPSB contient les facteurs II, VII, IX et X et est utilisé pour corriger rapidement un déficit en facteurs vitamine K-dépendants, notamment en cas de surdosage grave en antivitamine K ou d’hémorragie nécessitant une réversion urgente."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont citées comme facteurs prédisposant à la thrombose ?",
+      "choices": [
+        "Résistance à la protéine C activée",
+        "Déficit congénital en protéine S",
+        "Déficit en protéine C",
+        "Déficit congénital en facteur VII"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite comme facteurs prédisposant à la thrombose la résistance à la protéine C activée, le déficit congénital en protéine S et le déficit en protéine C. Le déficit en facteur VII est cité parmi les déficits responsables d’un risque hémorragique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies associées au risque thrombotique selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le déficit en antithrombine est un facteur prédisposant à la thrombose",
+        "Certaines dysfibrinogénémies peuvent prédisposer à la thrombose",
+        "Le déficit en facteur XII est généralement responsable d’un syndrome hémorragique",
+        "Le déficit en fibrinogène est classé parmi les facteurs prédisposant à la thrombose"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne le déficit en antithrombine et certaines dysfibrinogénémies parmi les facteurs prédisposant à la thrombose. Le déficit en fibrinogène est cité comme facteur de risque hémorragique, tandis que le déficit en facteur XII n’est généralement pas responsable d’un syndrome hémorragique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du fibrinogène dans les troubles de la coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "Une anomalie quantitative du fibrinogène peut s’accompagner d’un allongement du TQ et du TCK",
+        "Une anomalie qualitative du fibrinogène peut s’accompagner d’un allongement du TQ et du TCK",
+        "Le déficit en fibrinogène est cité parmi les déficits responsables d’un risque hémorragique",
+        "Toute dysfibrinogénémie est présentée comme exclusivement hémorragique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique qu’une anomalie quantitative ou qualitative du fibrinogène peut allonger le TQ et le TCK. Le déficit en fibrinogène expose à un risque hémorragique. Certaines dysfibrinogénémies sont aussi citées parmi les facteurs prédisposant à la thrombose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les indications biologiques du TCA/TCK selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est utilisé pour explorer les déficits en facteur VIII",
+        "Il est utilisé pour explorer les déficits en facteur IX",
+        "Il est utilisé pour explorer les déficits en facteurs XI et XII",
+        "Il peut servir à surveiller certains traitements anticoagulants, notamment l’héparine non fractionnée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le TCA/TCK explore notamment les déficits en facteurs VIII, IX, XI et XII. Il est également utilisé pour surveiller certains traitements anticoagulants, en particulier l’héparine non fractionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont associées à un allongement du TCA/TCK dans le texte ?",
+      "choices": [
+        "Traitement par héparine",
+        "Traitement par antivitamine K dans certains cas",
+        "Insuffisance hépatique avancée",
+        "Inhibiteur anti-facteur VII isolé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement par héparine, le traitement par antivitamine K dans certains cas et l’insuffisance hépatique avancée sont cités parmi les situations associées à un allongement du TCA/TCK. L’inhibiteur anti-facteur VII est cité dans le cadre d’un TQ allongé avec TCK normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la maladie de Willebrand telle qu’elle est évoquée dans l’interprétation biologique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être évoquée devant un TCK allongé avec TQ normal si le facteur VIII est diminué",
+        "Elle est associée dans ce contexte à un allongement du temps de saignement",
+        "Elle correspond dans le texte à un déficit en facteur IX",
+        "La diminution du facteur VIII est une condition mentionnée pour l’allongement du TCK"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte mentionne la maladie de Willebrand parmi les causes de TCK allongé avec TQ normal si le facteur VIII est diminué et associé à un allongement du temps de saignement. Le déficit en facteur IX correspond à l’hémophilie B."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des hémophilies dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le déficit en facteur VIII correspond à l’hémophilie A",
+        "Le déficit en facteur IX correspond à l’hémophilie B",
+        "Les hémophilies A et B sont citées parmi les situations pouvant allonger le TCA/TCK",
+        "Le déficit en facteur VII correspond à l’hémophilie B"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hémophilie A correspond au déficit en facteur VIII et l’hémophilie B au déficit en facteur IX. Ces deux situations sont citées parmi celles associées à un allongement du TCA/TCK. Le facteur VII n’est pas l’hémophilie B."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les antivitamines K dans les anomalies biologiques de coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "Un début de traitement par antivitamine K peut donner un TQ allongé avec TCK normal",
+        "Un traitement par antivitamine K peut donner un allongement conjoint du TQ et du TCK",
+        "Un traitement par antivitamine K peut être associé à un allongement du TCA/TCK dans certains cas",
+        "Un surdosage grave en antivitamine K peut nécessiter une correction rapide par PPSB"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne le début de traitement par AVK comme cause de TQ allongé avec TCK normal, le traitement par AVK comme cause possible d’allongement des deux tests, et l’allongement du TCA/TCK dans certains cas. Le PPSB est utilisé notamment en cas de surdosage grave en AVK."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’héparine dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le traitement par héparine peut être associé à un allongement du TQ et du TCK",
+        "Le traitement par héparine est cité parmi les situations associées à un allongement du TCA/TCK",
+        "Le TCA/TCK peut surveiller certains traitements anticoagulants, en particulier l’héparine non fractionnée",
+        "Le cofacteur de l’héparine II inhibe principalement le facteur VIIIa"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement par héparine peut allonger le TQ et le TCK, et il est cité parmi les situations associées à un allongement du TCA/TCK. Le TCA/TCK surveille notamment l’héparine non fractionnée. Le cofacteur de l’héparine II est un inhibiteur de la thrombine dépendant de l’héparine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les concentrés de facteurs de coagulation dérivés du sang, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être obtenus à partir de plasma humain",
+        "Ils peuvent être fractionnés et purifiés par différentes méthodes",
+        "Ils peuvent subir une inactivation virale par solvant-détergent",
+        "Ils sont administrés par voie orale après reconstitution"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les concentrés de facteurs de coagulation peuvent être issus du plasma humain, fractionnés, purifiés et subir une inactivation virale par solvant-détergent. Les solutions reconstituées s’administrent par voie intraveineuse."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des solutions reconstituées de concentrés de facteurs de l’hémostase, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles s’administrent par voie intraveineuse",
+        "Certains produits peuvent subir une nanofiltration",
+        "Tous les produits subissent obligatoirement une nanofiltration selon le texte",
+        "Elles contiennent des facteurs de l’hémostase"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise que les solutions reconstituées s’administrent par voie intraveineuse. Certains concentrés peuvent subir une nanofiltration, mais ce n’est pas présenté comme obligatoire pour tous. Ces médicaments contiennent des facteurs de l’hémostase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la composition nominative du PPSB, quelles associations sont exactes ?",
+      "choices": [
+        "Facteur II : prothrombine",
+        "Facteur VII : proconvertine",
+        "Facteur IX : facteur antihémophilique B",
+        "Facteur X : facteur Stuart"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le PPSB contient les facteurs II, VII, IX et X, respectivement appelés prothrombine, proconvertine, facteur antihémophilique B et facteur Stuart."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déficits des inhibiteurs physiologiques et leur orientation clinique selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le déficit en protéine C est cité comme facteur prédisposant à la thrombose",
+        "Le déficit congénital en protéine S est cité comme facteur prédisposant à la thrombose",
+        "Le déficit en antithrombine est cité comme facteur prédisposant à la thrombose",
+        "Le déficit en protéine S est cité parmi les déficits responsables d’un risque hémorragique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits en protéine C, en protéine S et en antithrombine sont cités parmi les facteurs prédisposant à la thrombose. Le texte ne classe pas le déficit en protéine S parmi les déficits hémorragiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le système contact et les éléments associés à la coagulation dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le TCA/TCK explore la voie intrinsèque déclenchée par l’activation du système contact",
+        "La kallikréine est citée parmi les éléments de la coagulation",
+        "Le kininogène de haut poids moléculaire est cité parmi les éléments de la coagulation",
+        "Le facteur tissulaire initie la voie extrinsèque après exposition au sang"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le TCA/TCK explore la voie intrinsèque déclenchée par l’activation du système contact. La kallikréine et le kininogène de haut poids moléculaire sont cités parmi les éléments de la coagulation. Le facteur tissulaire initie la voie extrinsèque après exposition au sang."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur de coagulation est appelé proconvertine dans la composition du PPSB ?",
+      "choices": [
+        "Facteur II",
+        "Facteur VII",
+        "Facteur IX",
+        "Facteur X"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans le PPSB, le facteur VII correspond à la proconvertine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle méthode d’inactivation virale est explicitement citée pour certains concentrés de facteurs de coagulation ?",
+      "choices": [
+        "Solvant-détergent",
+        "Pasteurisation systématique",
+        "Irradiation gamma",
+        "Filtration leucocytaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte mentionne une inactivation virale par solvant-détergent. La nanofiltration est également citée pour certains produits, mais comme procédé distinct."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement anticoagulant est particulièrement cité comme pouvant être surveillé par le TCA/TCK ?",
+      "choices": [
+        "Antivitamine K",
+        "Héparine non fractionnée",
+        "Antiagrégant plaquettaire",
+        "Fibrinolytique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le TCA/TCK est utilisé pour surveiller certains traitements anticoagulants, en particulier l’héparine non fractionnée."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la maladie de Willebrand évoquée par le texte, la diminution de quel facteur est associée à l’allongement du TCK ?",
+      "choices": [
+        "Facteur V",
+        "Facteur VII",
+        "Facteur VIII",
+        "Facteur XII"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que la maladie de Willebrand peut être évoquée si le facteur VIII est diminué, associé à un allongement du temps de saignement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur du PPSB correspond au facteur Stuart ?",
+      "choices": [
+        "Facteur II",
+        "Facteur VII",
+        "Facteur IX",
+        "Facteur X"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le facteur X est appelé facteur Stuart dans la composition du PPSB."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la voie d’administration des solutions reconstituées de concentrés de facteurs de coagulation selon le texte ?",
+      "choices": [
+        "Voie orale",
+        "Voie intramusculaire",
+        "Voie intraveineuse",
+        "Voie sous-cutanée"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les solutions reconstituées de concentrés de facteurs de coagulation s’administrent par voie intraveineuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le caillot de fibrine formé au terme de la coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à un réseau de fibrine insoluble.",
+        "Il résulte de la transformation du fibrinogène plasmatique soluble.",
+        "Il consolide le thrombus plaquettaire.",
+        "Il se forme avant l’hémostase primaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La coagulation transforme le fibrinogène soluble en fibrine insoluble, consolidant le thrombus plaquettaire. Elle succède à l’hémostase primaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du facteur Va dans la coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "Il entre dans la composition du complexe prothrombinase.",
+        "Il est inhibé par la protéine C activée.",
+        "Il n’est pas cité parmi les facteurs vitamine K-dépendants.",
+        "Il est transformé en thrombine au cours de la thrombinoformation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complexe prothrombinase contient Xa, Va, calcium et phospholipides. La protéine C activée inhibe Va et VIIIa. La thrombine provient de la prothrombine, facteur II."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le système protéine C-protéine S, quelles propositions sont exactes ?",
+      "choices": [
+        "La protéine C activée inhibe les facteurs Va et VIIIa.",
+        "La protéine S est le cofacteur de la protéine C activée.",
+        "Les protéines C et S sont vitamine K-dépendantes.",
+        "La protéine S transforme directement le fibrinogène en fibrine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les protéines C et S sont vitamine K-dépendantes. La protéine S est cofacteur de la protéine C activée, qui inhibe Va et VIIIa. La transformation du fibrinogène en fibrine est assurée par la thrombine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fibrinogène dans les anomalies de coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "Un déficit en fibrinogène expose à un risque hémorragique.",
+        "Une anomalie quantitative du fibrinogène peut allonger le TQ et le TCK.",
+        "Une anomalie qualitative du fibrinogène peut allonger le TQ et le TCK.",
+        "Le fibrinogène est un constituant du PPSB."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les anomalies quantitatives ou qualitatives du fibrinogène parmi les causes d’allongement conjoint du TQ et du TCK, et le déficit en fibrinogène parmi les déficits hémorragiques. Le PPSB contient II, VII, IX et X."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déficits des facteurs VIII, IX, XI et XII, quelles propositions sont exactes ?",
+      "choices": [
+        "Le déficit en facteur VIII correspond à l’hémophilie A.",
+        "Le déficit en facteur IX correspond à l’hémophilie B.",
+        "Le déficit en facteur XI peut allonger le TCK avec TQ normal.",
+        "Le déficit en facteur XII est généralement responsable d’un syndrome hémorragique sévère."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits en VIII, IX, XI et XII peuvent allonger le TCK avec TQ normal. Le déficit en XII allonge le TCK mais n’est généralement pas hémorragique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’interprétation d’un TCK allongé évoquant une maladie de Willebrand, quelles propositions sont exactes ?",
+      "choices": [
+        "Une diminution du facteur VIII est mentionnée.",
+        "Un allongement du temps de saignement est associé dans le texte.",
+        "Le TCK peut être allongé dans ce contexte.",
+        "L’anomalie repose sur un déficit congénital isolé en facteur VII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte évoque la maladie de Willebrand si le facteur VIII est diminué avec allongement du temps de saignement. Le déficit isolé en facteur VII donne plutôt un TQ allongé avec TCK normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les antivitamines K et la carence en vitamine K, quelles propositions sont exactes ?",
+      "choices": [
+        "Un début de traitement par antivitamine K peut donner un TQ allongé avec TCK normal.",
+        "Un traitement par antivitamine K peut allonger à la fois le TQ et le TCK.",
+        "Une carence en vitamine K peut allonger à la fois le TQ et le TCK.",
+        "Le début de traitement par antivitamine K est spécifiquement cité comme cause de TCK isolé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le début d’AVK est cité parmi les causes de TQ allongé avec TCK normal. Les AVK et la carence en vitamine K peuvent aussi allonger TQ et TCK."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’antithrombine et le cofacteur de l’héparine II, quelles propositions sont exactes ?",
+      "choices": [
+        "L’antithrombine inhibe principalement la thrombine et le facteur Xa.",
+        "Le déficit en antithrombine est cité parmi les facteurs prédisposant à la thrombose.",
+        "Le cofacteur de l’héparine II inhibe la thrombine de manière dépendante de l’héparine.",
+        "L’antithrombine est explicitement citée comme protéine vitamine K-dépendante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’antithrombine inhibe surtout la thrombine et Xa, et son déficit prédispose à la thrombose. Le cofacteur de l’héparine II est un inhibiteur de la thrombine dépendant de l’héparine. Les protéines C et S sont les inhibiteurs cités comme vitamine K-dépendants."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le PPSB, quelles propositions sont exactes ?",
+      "choices": [
+        "Il contient les facteurs II, VII, IX et X.",
+        "Il ne contient pas le facteur V dans la composition donnée.",
+        "Il permet une correction rapide d’un déficit en facteurs vitamine K-dépendants.",
+        "Il contient le fibrinogène comme constituant principal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le PPSB contient II, VII, IX et X, tous facteurs vitamine K-dépendants, et sert à corriger rapidement leur déficit. Le facteur V et le fibrinogène ne sont pas cités dans sa composition."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les situations pouvant perturber globalement les tests de coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "L’insuffisance hépatique est citée parmi les causes de TQ et TCK allongés.",
+        "La coagulation intravasculaire disséminée est citée parmi les causes de TQ et TCK allongés.",
+        "Le traitement par héparine est cité parmi les causes de TQ et TCK allongés.",
+        "Le début de traitement par antivitamine K est spécifiquement une cause de TCK isolé avec TQ normal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Insuffisance hépatique, CIVD et héparine sont citées parmi les situations avec TQ et TCK allongés. Le début d’AVK est cité pour un TQ allongé avec TCK normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant un déficit majeur en facteur X, quelles propositions sont exactes ?",
+      "choices": [
+        "Il entraîne un allongement du TCK.",
+        "Il diminue le taux du complexe prothrombinique.",
+        "Il peut également allonger le TQ.",
+        "Il donne exclusivement un allongement isolé du TQ."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit majeur en facteur X allonge le TCK, diminue le complexe prothrombinique et peut aussi allonger le TQ. Il n’est donc pas limité à un TQ isolé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le TCA/TCK, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est réalisé sur plasma citraté.",
+        "Il explore la voie intrinsèque déclenchée par l’activation du système contact.",
+        "Il peut servir à surveiller l’héparine non fractionnée.",
+        "Il explore spécifiquement la voie extrinsèque initiée par le facteur tissulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le TCA/TCK est réalisé sur plasma citraté, explore la voie intrinsèque via le système contact et surveille notamment l’héparine non fractionnée. La voie extrinsèque est initiée par le facteur tissulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le facteur VII, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est vitamine K-dépendant.",
+        "Il appartient au complexe prothrombinique contenu dans le PPSB.",
+        "Son déficit congénital peut donner un TQ allongé avec TCK normal.",
+        "Il est appelé facteur antihémophilique B."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le facteur VII est vitamine K-dépendant, contenu dans le PPSB et son déficit peut allonger isolément le TQ. Le facteur antihémophilique B correspond au facteur IX."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les concentrés de facteurs de coagulation dérivés du sang, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être obtenus à partir de plasma humain.",
+        "Ils peuvent être fractionnés et purifiés par différentes méthodes.",
+        "Ils peuvent subir une inactivation virale par solvant-détergent.",
+        "Les solutions reconstituées s’administrent par voie orale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les concentrés peuvent provenir du plasma humain, être fractionnés et purifiés, et subir une inactivation virale par solvant-détergent. Les solutions reconstituées s’administrent par voie intraveineuse."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les facteurs du complexe prothrombinique classique II, V, VII et X, lequel n’est pas cité comme vitamine K-dépendant ?",
+      "choices": [
+        "Facteur II",
+        "Facteur V",
+        "Facteur VII",
+        "Facteur X"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans le complexe prothrombinique classique II, V, VII et X, les facteurs II, VII et X sont vitamine K-dépendants ; le facteur V ne l’est pas dans le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément suivant n’est pas cité parmi les éléments de la coagulation dans le texte ?",
+      "choices": [
+        "Calcium",
+        "Kallikréine",
+        "Plasmine",
+        "Kininogène de haut poids moléculaire"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte cite le calcium, la kallikréine et le kininogène de haut poids moléculaire. La plasmine n’est pas citée parmi les éléments de la coagulation."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le déroulement de la coagulation, quelle étape suit immédiatement la génération de la prothrombinase ?",
+      "choices": [
+        "Fibrinolyse",
+        "Thrombinoformation",
+        "Fibrinoformation",
+        "Formation du thrombus plaquettaire primaire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le déroulement décrit est : génération de la prothrombinase, thrombinoformation, puis fibrinoformation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel inhibiteur physiologique est décrit comme inhibiteur de la thrombine dépendant de l’héparine ?",
+      "choices": [
+        "Protéine S",
+        "Protéine C activée",
+        "Cofacteur de l’héparine II",
+        "Facteur tissulaire"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le cofacteur de l’héparine II est défini dans le texte comme un inhibiteur de la thrombine dépendant de l’héparine."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le cadre d’un TCK allongé avec diminution du facteur VIII et allongement du temps de saignement, quelle affection est évoquée ?",
+      "choices": [
+        "Maladie de Willebrand",
+        "Déficit congénital isolé en facteur VII",
+        "Surdosage grave en antivitamine K",
+        "Déficit en antithrombine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte évoque la maladie de Willebrand lorsque le facteur VIII est diminué avec allongement du temps de saignement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel produit est cité pour corriger rapidement un déficit en facteurs vitamine K-dépendants lors d’un surdosage grave en antivitamine K ou d’une hémorragie nécessitant une réversion urgente ?",
+      "choices": [
+        "PPSB",
+        "Facteur tissulaire purifié",
+        "Kallikréine",
+        "Protéine C activée seule"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le PPSB est utilisé pour corriger rapidement un déficit en facteurs vitamine K-dépendants, notamment en cas de surdosage grave en AVK ou d’hémorragie nécessitant une réversion urgente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la consolidation du thrombus plaquettaire par la coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle repose sur la formation d’un réseau de fibrine insoluble.",
+        "Elle transforme le fibrinogène plasmatique soluble en fibrine.",
+        "Elle correspond à une étape située avant l’hémostase primaire.",
+        "Elle survient après la fibrinolyse."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La coagulation succède à l’hémostase primaire, consolide le thrombus plaquettaire par la fibrine et précède la fibrinolyse."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’initiation de la voie extrinsèque, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est initiée par le facteur tissulaire après exposition au sang.",
+        "Le facteur tissulaire est présent dans la paroi vasculaire.",
+        "Elle est déclenchée par l’activation du système contact.",
+        "Elle dépend d’un facteur tissulaire normalement décrit comme plasmatique circulant."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le facteur tissulaire est localisé dans la paroi vasculaire et initie la voie extrinsèque lorsqu’il est exposé au sang. Le système contact concerne la voie intrinsèque explorée par le TCA/TCK."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les protéines vitamine K-dépendantes ayant un rôle anticoagulant physiologique, quelles propositions sont exactes ?",
+      "choices": [
+        "La protéine C est vitamine K-dépendante.",
+        "La protéine S est vitamine K-dépendante.",
+        "La protéine S est un cofacteur de la protéine C activée.",
+        "L’antithrombine est citée comme vitamine K-dépendante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les protéines C et S sont vitamine K-dépendantes. La protéine S est le cofacteur de la protéine C activée. L’antithrombine n’est pas citée parmi les protéines vitamine K-dépendantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le complexe prothrombinase et sa fonction, quelles propositions sont exactes ?",
+      "choices": [
+        "Il contient le facteur Xa.",
+        "Il contient le facteur Va.",
+        "Il participe à la transformation de la prothrombine en thrombine.",
+        "Il est constitué de fibrinogène, de thrombine, de kallikréine et de facteur tissulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complexe d’activation de la prothrombine associe facteur Xa, facteur Va, calcium et phospholipides. Il permet la thrombinoformation, c’est-à-dire la transformation de la prothrombine en thrombine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les antivitamines K et leur retentissement biologique ou thérapeutique, quelles propositions sont exactes ?",
+      "choices": [
+        "Un début de traitement par antivitamine K peut donner un TQ allongé avec TCK normal.",
+        "Un traitement par antivitamine K peut être associé à un allongement simultané du TQ et du TCK.",
+        "Le PPSB peut être utilisé pour une réversion urgente en cas d’hémorragie sous antivitamine K.",
+        "Les antivitamines K n’affectent jamais les facteurs du complexe prothrombinique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite le début d’AVK comme cause de TQ isolément allongé, et le traitement AVK comme cause possible de TQ et TCK allongés. Le PPSB corrige rapidement les déficits en facteurs vitamine K-dépendants, notamment en cas de surdosage grave ou d’hémorragie nécessitant une réversion urgente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’héparine dans les troubles de la coagulation décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Un traitement par héparine peut être associé à un TQ et un TCK allongés.",
+        "Un traitement par héparine est cité parmi les situations associées à un allongement du TCA/TCK.",
+        "Le TCA/TCK peut surveiller certains traitements anticoagulants, en particulier l’héparine non fractionnée.",
+        "Le cofacteur de l’héparine II est un inhibiteur de la thrombine indépendant de l’héparine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’héparine est citée comme cause possible d’allongement du TQ et du TCK, et comme situation associée à un allongement du TCA/TCK. Le TCA/TCK sert notamment à surveiller l’héparine non fractionnée. Le cofacteur de l’héparine II est dépendant de l’héparine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies du fibrinogène, quelles propositions sont exactes ?",
+      "choices": [
+        "Une anomalie quantitative du fibrinogène peut allonger à la fois le TQ et le TCK.",
+        "Une anomalie qualitative du fibrinogène peut allonger à la fois le TQ et le TCK.",
+        "Un déficit en fibrinogène est cité parmi les déficits responsables d’un risque hémorragique.",
+        "Le fibrinogène est l’un des facteurs contenus dans le PPSB."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anomalies quantitatives ou qualitatives du fibrinogène peuvent allonger TQ et TCK. Le déficit en fibrinogène expose à un risque hémorragique. Le PPSB contient les facteurs II, VII, IX et X, pas le fibrinogène."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le déficit en facteur XII, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut allonger le TCK avec TQ normal.",
+        "Il n’est généralement pas responsable d’un syndrome hémorragique.",
+        "Il fait partie des déficits explorés par le TCA/TCK.",
+        "Il est cité parmi les déficits responsables d’un risque hémorragique majeur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit en facteur XII allonge le TCK avec TQ normal, est exploré par le TCA/TCK, mais n’est généralement pas responsable d’un syndrome hémorragique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déficits de la voie intrinsèque responsables d’un TCK allongé avec TQ normal, quelles propositions sont exactes ?",
+      "choices": [
+        "Le déficit en facteur VIII correspond à l’hémophilie A.",
+        "Le déficit en facteur IX correspond à l’hémophilie B.",
+        "Le déficit en facteur XI est cité parmi les déficits responsables d’un risque hémorragique.",
+        "Le déficit en facteur XII correspond à une hémophilie responsable habituellement d’un syndrome hémorragique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits en VIII, IX, XI et XII peuvent allonger le TCK avec TQ normal. VIII correspond à l’hémophilie A, IX à l’hémophilie B. Le déficit en XI est hémorragique, contrairement au déficit en XII généralement non hémorragique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les situations pouvant traduire une perturbation globale de la coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "La coagulation intravasculaire disséminée peut être associée à un allongement du TQ et du TCK.",
+        "L’insuffisance hépatique peut être associée à un allongement du TQ et du TCK.",
+        "L’insuffisance hépatique avancée est citée parmi les situations associées à un allongement du TCA/TCK.",
+        "Un déficit isolé en facteur VII est classiquement cité dans le texte comme cause d’un TCK allongé avec TQ normal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La CIVD et l’insuffisance hépatique peuvent allonger TQ et TCK. L’insuffisance hépatique avancée est aussi citée parmi les causes d’allongement du TCA/TCK. Le déficit en facteur VII donne un TQ allongé avec TCK normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les concentrés de facteurs de coagulation dérivés du sang, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être obtenus à partir de plasma humain.",
+        "Ils peuvent être fractionnés et purifiés par différentes méthodes.",
+        "Ils peuvent subir une inactivation virale par solvant-détergent.",
+        "Leurs solutions reconstituées s’administrent par voie orale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les concentrés peuvent provenir de plasma humain, être fractionnés, purifiés et subir une inactivation virale par solvant-détergent. Les solutions reconstituées s’administrent par voie intraveineuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le PPSB et sa logique d’utilisation, quelles propositions sont exactes ?",
+      "choices": [
+        "Il contient les facteurs II, VII, IX et X.",
+        "Il corrige rapidement un déficit en facteurs vitamine K-dépendants.",
+        "Il peut être utilisé en cas de surdosage grave en antivitamine K.",
+        "Il contient systématiquement le facteur V comme composant principal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le PPSB contient les facteurs II, VII, IX et X, tous vitamine K-dépendants. Il est utilisé pour corriger rapidement ces déficits, notamment lors d’un surdosage grave en antivitamine K. Le facteur V n’est pas un composant du PPSB décrit."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le système contact et l’exploration par TCA/TCK, quelles propositions sont exactes ?",
+      "choices": [
+        "Le TCA/TCK explore la voie intrinsèque déclenchée par l’activation du système contact.",
+        "La kallikréine fait partie des éléments de la coagulation cités.",
+        "Le kininogène de haut poids moléculaire fait partie des éléments de la coagulation cités.",
+        "Le facteur tissulaire initie la voie intrinsèque par activation du système contact."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le TCA/TCK explore la voie intrinsèque activée par le système contact. La kallikréine et le kininogène de haut poids moléculaire sont cités parmi les éléments de la coagulation. Le facteur tissulaire initie la voie extrinsèque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies prédisposant à la thrombose par atteinte des systèmes anticoagulants physiologiques, quelles propositions sont exactes ?",
+      "choices": [
+        "La résistance à la protéine C activée est un facteur prédisposant à la thrombose.",
+        "Le déficit congénital en protéine S est un facteur prédisposant à la thrombose.",
+        "Le déficit en antithrombine est un facteur prédisposant à la thrombose.",
+        "Le déficit en facteur XII est cité comme facteur prédisposant à la thrombose."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la résistance à la protéine C activée, les déficits en protéine S, protéine C et antithrombine comme facteurs prédisposant à la thrombose. Le déficit en facteur XII n’est pas cité dans cette liste."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule plasmatique soluble est transformée en fibrine insoluble au terme de la coagulation ?",
+      "choices": [
+        "La prothrombine",
+        "Le fibrinogène",
+        "La protéine C",
+        "L’antithrombine"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La coagulation transforme le fibrinogène plasmatique soluble en réseau de fibrine insoluble."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le déroulement de la coagulation, quelle étape précède immédiatement la fibrinoformation ?",
+      "choices": [
+        "La thrombinoformation",
+        "La fibrinolyse",
+        "L’hémostase primaire",
+        "La nanofiltration"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La séquence décrite est : génération de la prothrombinase, thrombinoformation, puis fibrinoformation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur activé est principalement inhibé par l’antithrombine en plus de la thrombine ?",
+      "choices": [
+        "Facteur Va",
+        "Facteur VIIIa",
+        "Facteur Xa",
+        "Facteur VII"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’antithrombine inhibe principalement la thrombine et le facteur Xa."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est localisé dans la paroi vasculaire et déclenche la voie extrinsèque après exposition au sang ?",
+      "choices": [
+        "Le facteur tissulaire",
+        "Le kininogène de haut poids moléculaire",
+        "La protéine S",
+        "Le facteur XII"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le facteur tissulaire est présent dans la paroi vasculaire et initie la voie extrinsèque après exposition au sang."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le PPSB, quel facteur correspond à la prothrombine ?",
+      "choices": [
+        "Facteur II",
+        "Facteur VII",
+        "Facteur IX",
+        "Facteur X"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le PPSB contient le facteur II, appelé prothrombine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel test est utilisé notamment pour explorer les déficits en facteurs VIII, IX, XI et XII ?",
+      "choices": [
+        "Le temps de céphaline avec activateur",
+        "Le dosage du facteur tissulaire pariétal",
+        "La mesure isolée du calcium plasmatique",
+        "La recherche d’une nanofiltration"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le TCA/TCK explore la voie intrinsèque et est utilisé notamment pour rechercher les déficits en facteurs VIII, IX, XI et XII."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un raisonnement d’orientation devant un allongement conjoint du TQ et du TCK, quels déficits sont compatibles avec le texte ?",
+      "choices": [
+        "Déficit en facteur V",
+        "Déficit en facteur II",
+        "Déficit en facteur X",
+        "Déficit congénital isolé en facteur VII"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un allongement conjoint du TQ et du TCK peut être observé en cas de déficit en facteur V, X ou II. Le déficit congénital en facteur VII donne plutôt un TQ allongé avec TCK normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre risque hémorragique et anomalie biologique isolée, quelles propositions sont exactes ?",
+      "choices": [
+        "Le déficit en facteur XII allonge le TCK sans être généralement responsable d’un syndrome hémorragique",
+        "Le déficit en facteur VIII fait partie des déficits responsables d’un risque hémorragique",
+        "Le déficit en fibrinogène fait partie des déficits responsables d’un risque hémorragique",
+        "La résistance à la protéine C activée est citée comme un déficit responsable d’un risque hémorragique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le facteur XII allonge le TCK mais n’entraîne généralement pas de syndrome hémorragique. Les déficits en fibrinogène et en facteur VIII sont hémorragiques. La résistance à la protéine C activée est citée parmi les facteurs prédisposant à la thrombose."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un TCK allongé avec TQ normal, quelles associations diagnostiques sont conformes au texte ?",
+      "choices": [
+        "Déficit en facteur VIII : hémophilie A",
+        "Déficit en facteur IX : hémophilie B",
+        "Maladie de Willebrand si le facteur VIII est diminué avec allongement du temps de saignement",
+        "Déficit congénital en facteur VII : hémophilie A"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un TCK allongé avec TQ normal évoque notamment les déficits en VIII, IX, XI, XII. La maladie de Willebrand est évoquée si le facteur VIII est diminué avec temps de saignement allongé. Le facteur VII relève du TQ isolé."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des antivitamines K et de la carence en vitamine K, quelles propositions sont exactes ?",
+      "choices": [
+        "Un début de traitement par antivitamine K peut donner un TQ allongé avec TCK normal",
+        "Un traitement par antivitamine K peut être associé à un allongement du TQ et du TCK",
+        "Une carence en vitamine K peut être associée à un allongement du TQ et du TCK",
+        "Le PPSB peut être utilisé pour corriger rapidement un déficit en facteurs vitamine K-dépendants"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise le TQ isolé au début des AVK, l’allongement conjoint possible sous AVK ou carence en vitamine K, et l’utilisation du PPSB pour corriger rapidement les déficits en facteurs vitamine K-dépendants."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fibrinogène et ses anomalies, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fibrinogène plasmatique soluble est transformé en fibrine insoluble",
+        "Une anomalie quantitative ou qualitative du fibrinogène peut allonger le TQ et le TCK",
+        "Un déficit en fibrinogène est responsable d’un risque hémorragique",
+        "Le caillot final correspond à un réseau de fibrine insoluble"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La fibrinoformation transforme le fibrinogène soluble en fibrine insoluble. Les anomalies du fibrinogène peuvent allonger TQ et TCK, et le déficit en fibrinogène expose à un risque hémorragique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les concentrés de facteurs de coagulation dérivés du sang, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être obtenus à partir de plasma humain",
+        "Ils peuvent être fractionnés et purifiés par différentes méthodes",
+        "Ils peuvent subir une inactivation virale par solvant-détergent",
+        "Certaines préparations peuvent subir une nanofiltration"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte indique que ces concentrés peuvent provenir de plasma humain, être fractionnés et purifiés, subir une inactivation virale par solvant-détergent et, pour certains, une nanofiltration."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le PPSB, quelles propositions sont exactes d’après sa composition décrite ?",
+      "choices": [
+        "Il contient les facteurs II, VII, IX et X",
+        "Il contient des facteurs procoagulants vitamine K-dépendants",
+        "Il contient le facteur V du complexe prothrombinique classique",
+        "Il contient le facteur IX, appelé facteur antihémophilique B"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le PPSB contient les facteurs II, VII, IX et X, tous vitamine K-dépendants. Le facteur IX est le facteur antihémophilique B. Le facteur V n’est pas cité dans la composition du PPSB."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le complexe d’activation de la prothrombine, quelles propositions sont exactes ?",
+      "choices": [
+        "Il comprend le facteur Xa",
+        "Il comprend le facteur Va",
+        "Il comprend du calcium et des phospholipides",
+        "Il est identique au PPSB"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complexe prothrombinase est constitué du facteur Xa, du facteur Va, de calcium et de phospholipides. Il ne correspond pas au PPSB."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le calcium et les phospholipides dans la coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "Le calcium est nécessaire aux réactions enzymatiques de la coagulation",
+        "Le calcium permet la fixation des facteurs vitamine K-dépendants aux phospholipides",
+        "Les phospholipides font partie du complexe d’activation de la prothrombine",
+        "Le facteur tissulaire est un constituant du complexe prothrombinase"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcium participe aux réactions enzymatiques et à la fixation des facteurs vitamine K-dépendants aux phospholipides. Les phospholipides appartiennent au complexe prothrombinase. Le facteur tissulaire initie la voie extrinsèque mais n’est pas cité comme constituant de ce complexe."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont citées comme prédisposant à la thrombose ?",
+      "choices": [
+        "Résistance à la protéine C activée",
+        "Déficit congénital en protéine S",
+        "Déficit en antithrombine",
+        "Certaines dysfibrinogénémies"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme facteurs prédisposant à la thrombose la résistance à la protéine C activée, les déficits en protéine S, protéine C, antithrombine, ainsi que certaines dysfibrinogénémies."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les situations de perturbation globale de la coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "La coagulation intravasculaire disséminée peut allonger le TQ et le TCK",
+        "L’insuffisance hépatique peut être associée à un allongement du TQ et du TCK",
+        "Le traitement par héparine est cité parmi les situations pouvant allonger le TQ et le TCK",
+        "La coagulation intravasculaire disséminée donne uniquement un TQ allongé avec TCK normal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La CIVD, l’insuffisance hépatique et le traitement par héparine sont cités parmi les causes possibles d’allongement conjoint du TQ et du TCK. La CIVD n’est pas décrite comme un allongement isolé du TQ."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déficits en facteur VII et en facteur X, quelles propositions sont exactes ?",
+      "choices": [
+        "Le déficit congénital en facteur VII peut donner un TQ allongé avec TCK normal",
+        "Un inhibiteur anti-facteur VII peut donner un TQ allongé avec TCK normal",
+        "Un déficit majeur en facteur X entraîne un allongement du TCK avec diminution du taux du complexe prothrombinique",
+        "Le déficit en facteur VII n’est pas cité parmi les déficits à risque hémorragique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le facteur VII donne un allongement isolé du TQ en cas de déficit congénital ou d’inhibiteur. Le déficit majeur en facteur X allonge le TCK, diminue le complexe prothrombinique et peut allonger le TQ. Le facteur VII est bien cité parmi les déficits hémorragiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs vitamine K-dépendants et les protéines associées, quelles propositions sont exactes ?",
+      "choices": [
+        "Les facteurs II, VII, IX et X sont vitamine K-dépendants",
+        "Les protéines C et S sont vitamine K-dépendantes",
+        "Le facteur V n’est pas listé parmi les facteurs vitamine K-dépendants",
+        "Le calcium permet la fixation des facteurs vitamine K-dépendants aux phospholipides"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte liste les facteurs II, VII, IX, X et les protéines C et S comme vitamine K-dépendants. Le facteur V n’en fait pas partie. Le calcium permet leur fixation aux phospholipides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le TCA/TCK et le système contact, quelles propositions sont exactes ?",
+      "choices": [
+        "Le TCA explore la voie intrinsèque de la coagulation",
+        "Cette exploration est déclenchée par l’activation du système contact",
+        "Le TCA/TCK est réalisé sur plasma citraté",
+        "Le TCA/TCK explore spécifiquement la voie extrinsèque initiée par le facteur tissulaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le TCA/TCK explore la voie intrinsèque déclenchée par le système contact et se réalise sur plasma citraté. La voie extrinsèque est initiée par le facteur tissulaire, mais ce n’est pas l’objet spécifique du TCA/TCK."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le PPSB, quel facteur est appelé facteur antihémophilique B ?",
+      "choices": [
+        "Facteur II",
+        "Facteur VII",
+        "Facteur IX",
+        "Facteur X"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans le PPSB, le facteur IX correspond au facteur antihémophilique B."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle succession correspond correctement au déroulement de la coagulation décrit dans le texte ?",
+      "choices": [
+        "Fibrinoformation, thrombinoformation, génération de la prothrombinase",
+        "Génération de la prothrombinase, thrombinoformation, fibrinoformation",
+        "Thrombinoformation, fibrinolyse, génération de la prothrombinase",
+        "Activation plaquettaire, fibrinolyse, thrombinoformation"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le déroulement décrit est : génération de la prothrombinase, transformation de la prothrombine en thrombine, puis transformation du fibrinogène en fibrine."
+    },
+    {
+      "type": "QCS",
+      "question": "La protéine S est le cofacteur de quel inhibiteur physiologique de la coagulation ?",
+      "choices": [
+        "Antithrombine",
+        "Protéine C activée",
+        "Cofacteur de l’héparine II",
+        "Facteur tissulaire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La protéine S est le cofacteur de la protéine C activée, qui inhibe les facteurs Va et VIIIa."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil biologique est spécifiquement cité au début d’un traitement par antivitamine K ?",
+      "choices": [
+        "TQ normal avec TCK allongé",
+        "TQ allongé avec TCK normal",
+        "TQ normal avec TCK normal",
+        "TQ raccourci avec TCK allongé"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le début de traitement par antivitamine K est cité parmi les causes de TQ allongé avec TCK normal."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément ionique entre dans la constitution du complexe d’activation de la prothrombine ?",
+      "choices": [
+        "Calcium",
+        "Kallikréine",
+        "Kininogène de haut poids moléculaire",
+        "Facteur tissulaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le complexe prothrombinase comprend le facteur Xa, le facteur Va, le calcium et les phospholipides."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel inhibiteur physiologique inhibe les facteurs Va et VIIIa ?",
+      "choices": [
+        "Antithrombine",
+        "Protéine C activée",
+        "Cofacteur de l’héparine II",
+        "Facteur tissulaire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La protéine C activée inhibe les facteurs Va et VIIIa."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un allongement simultané du TQ et du TCK, quelles orientations diagnostiques sont compatibles avec le texte ?",
+      "choices": [
+        "Un déficit en facteur V",
+        "Une insuffisance hépatique",
+        "Un déficit congénital isolé en facteur VII",
+        "Une hémophilie A isolée"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’allongement conjoint du TQ et du TCK est décrit en cas de déficit en facteur V, X ou II, insuffisance hépatique, AVK, carence en vitamine K, héparine, anomalie du fibrinogène ou CIVD. Le déficit isolé en facteur VII allonge le TQ avec TCK normal ; l’hémophilie A allonge le TCK avec TQ normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un TCK allongé avec TQ normal, quels éléments orientent vers une maladie de Willebrand selon le texte ?",
+      "choices": [
+        "Une diminution du facteur VIII",
+        "Un allongement du temps de saignement",
+        "Une diminution isolée du facteur IX",
+        "Un allongement associé du TQ"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La maladie de Willebrand est évoquée si le facteur VIII est diminué et associé à un allongement du temps de saignement. Une diminution du facteur IX oriente vers l’hémophilie B."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déficits en facteurs XI et XII, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent s’accompagner d’un TCK allongé avec TQ normal",
+        "Le déficit en facteur XI est cité parmi les déficits responsables d’un risque hémorragique",
+        "Le déficit en facteur XII n’est généralement pas responsable d’un syndrome hémorragique",
+        "Ils entraînent tous deux une diminution du taux du complexe prothrombinique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits en XI et XII sont cités parmi les causes de TCK allongé avec TQ normal. Le déficit en XI expose à un risque hémorragique, alors que le déficit en XII allonge le TCK sans syndrome hémorragique habituel. La diminution du complexe prothrombinique est mentionnée pour le déficit majeur en facteur X."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du complexe prothrombinase, quelles propositions sont exactes ?",
+      "choices": [
+        "Il contient le facteur Xa et le facteur Va",
+        "Il contient du calcium et des phospholipides",
+        "Sa génération précède la thrombinoformation",
+        "Il est constitué du facteur VII et du facteur tissulaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complexe d’activation de la prothrombine comprend Xa, Va, calcium et phospholipides. Sa génération est la première étape du déroulement décrit, suivie de la thrombinoformation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les antivitamines K et la vitamine K, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Un traitement par antivitamine K peut allonger à la fois le TQ et le TCK",
+        "Le début d’un traitement par antivitamine K peut donner un TQ allongé avec TCK normal",
+        "Une carence en vitamine K peut être associée à un allongement du TQ et du TCK",
+        "Les facteurs II, VII, IX et X ainsi que les protéines C et S sont vitamine K-dépendants"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite le début de traitement par AVK dans le TQ allongé isolé, le traitement AVK et la carence en vitamine K dans l’allongement conjoint TQ-TCK, et précise les facteurs et protéines vitamine K-dépendants."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le PPSB, quelles propositions sont exactes ?",
+      "choices": [
+        "Il contient les facteurs II, VII, IX et X",
+        "Il permet une correction rapide d’un déficit en facteurs vitamine K-dépendants",
+        "Il n’est pas présenté comme un concentré de fibrinogène ou de facteur V",
+        "Il peut être utilisé en cas de surdosage grave en antivitamine K"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le PPSB contient II, VII, IX et X. Il sert à corriger rapidement les déficits en facteurs vitamine K-dépendants, notamment lors d’un surdosage grave en AVK ou d’une hémorragie nécessitant une réversion urgente."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont associées à un allongement du TCA/TCK dans le texte ?",
+      "choices": [
+        "Traitement par héparine",
+        "Insuffisance hépatique avancée",
+        "Coagulation intravasculaire disséminée",
+        "Hémophilie B"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite explicitement l’héparine, l’insuffisance hépatique avancée, la CIVD et l’hémophilie B parmi les situations associées à un allongement du TCA/TCK."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’inhibition physiologique de la thrombine, quelles propositions sont exactes ?",
+      "choices": [
+        "L’antithrombine inhibe principalement la thrombine",
+        "Le cofacteur de l’héparine II inhibe la thrombine de manière dépendante de l’héparine",
+        "La protéine C activée est décrite comme inhibiteur principal direct de la thrombine",
+        "La protéine S inhibe directement le facteur Xa"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’antithrombine inhibe principalement la thrombine et Xa. Le cofacteur de l’héparine II est un inhibiteur de la thrombine dépendant de l’héparine. La protéine C activée inhibe Va et VIIIa, avec la protéine S comme cofacteur."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles anomalies sont citées comme prédisposant à la thrombose ?",
+      "choices": [
+        "Résistance à la protéine C activée",
+        "Certaines dysfibrinogénémies",
+        "Déficit en facteur VIII",
+        "Déficit en facteur VII"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les facteurs prédisposant à la thrombose cités sont la résistance à la protéine C activée, les déficits en protéine S, protéine C, antithrombine, et certaines dysfibrinogénémies. Les déficits en VIII et VII sont cités comme hémorragiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fibrinogène, quelles propositions sont exactes ?",
+      "choices": [
+        "Une anomalie quantitative du fibrinogène peut s’accompagner d’un allongement du TQ et du TCK",
+        "Une anomalie qualitative du fibrinogène peut s’accompagner d’un allongement du TQ et du TCK",
+        "Le déficit en fibrinogène est cité parmi les déficits responsables d’un risque hémorragique",
+        "Le fibrinogène est l’un des facteurs contenus dans le PPSB"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anomalies quantitatives ou qualitatives du fibrinogène font partie des causes d’allongement conjoint TQ-TCK. Le déficit en fibrinogène est hémorragique. Le PPSB contient II, VII, IX et X, pas le fibrinogène."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du facteur VII dans les troubles de la coagulation décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Son déficit congénital peut donner un TQ allongé avec TCK normal",
+        "Un inhibiteur anti-facteur VII peut donner un TQ allongé avec TCK normal",
+        "Il appartient aux facteurs vitamine K-dépendants",
+        "Son déficit est cité parmi les déficits responsables d’un risque hémorragique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le facteur VII est vitamine K-dépendant. Son déficit congénital ou un inhibiteur anti-VII peuvent donner un TQ allongé avec TCK normal. Son déficit est cité parmi les déficits hémorragiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les concentrés de facteurs de coagulation dérivés du sang, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être obtenus à partir de plasma humain",
+        "Ils peuvent être fractionnés et purifiés",
+        "Ils peuvent subir une inactivation virale par solvant-détergent",
+        "Leurs solutions reconstituées s’administrent par voie intraveineuse"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que les concentrés peuvent être obtenus à partir de plasma humain, fractionnés et purifiés, subir une inactivation virale par solvant-détergent, et être administrés par voie intraveineuse après reconstitution."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le calcium dans la cascade de coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est nécessaire aux réactions enzymatiques de la coagulation",
+        "Il permet la fixation des facteurs vitamine K-dépendants aux phospholipides",
+        "Il fait partie du complexe d’activation de la prothrombine",
+        "Il initie la voie extrinsèque après exposition au sang"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcium est nécessaire aux réactions enzymatiques, permet la fixation des facteurs vitamine K-dépendants aux phospholipides, et entre dans le complexe prothrombinase. L’initiation de la voie extrinsèque revient au facteur tissulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes activées et leurs cibles dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le facteur IIa correspond à la thrombine",
+        "Le facteur Xa participe au complexe prothrombinase",
+        "Le facteur Va participe au complexe prothrombinase",
+        "Le facteur VIIIa est inhibé par la protéine C activée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le facteur IIa est la thrombine. Le complexe prothrombinase comprend Xa et Va. La protéine C activée inhibe les facteurs Va et VIIIa."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient présente un TCK allongé avec TQ normal et un déficit en facteur IX. Quel diagnostic est le plus compatible ?",
+      "choices": [
+        "Hémophilie A",
+        "Hémophilie B",
+        "Déficit congénital en facteur VII",
+        "Déficit majeur en facteur X"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le déficit en facteur IX correspond à l’hémophilie B et donne un TCK allongé avec TQ normal."
+    },
+    {
+      "type": "QCS",
+      "question": "La thrombinoformation correspond à quelle transformation ?",
+      "choices": [
+        "Transformation du fibrinogène en fibrine",
+        "Transformation de la prothrombine en thrombine",
+        "Transformation du facteur X en facteur Xa",
+        "Transformation du thrombus plaquettaire en fibrinogène"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La thrombinoformation est la transformation de la prothrombine en thrombine. La fibrinoformation correspond à la transformation du fibrinogène en fibrine."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le texte, quelle situation est compatible avec un TQ allongé et un TCK allongé au cours d’une atteinte acquise globale ?",
+      "choices": [
+        "Insuffisance hépatique",
+        "Déficit isolé en facteur XII",
+        "Déficit isolé en facteur VII",
+        "Hémophilie B"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’insuffisance hépatique est citée parmi les causes d’allongement conjoint du TQ et du TCK. Les déficits en XII, IX ou VIII donnent plutôt un TCK allongé avec TQ normal, et le déficit en VII un TQ allongé isolé."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément du complexe prothrombinase correspond au support lipidique mentionné dans le texte ?",
+      "choices": [
+        "Calcium",
+        "Phospholipides",
+        "Facteur Va",
+        "Facteur Xa"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le complexe prothrombinase est constitué de Xa, Va, calcium et phospholipides. Les phospholipides constituent l’élément lipidique cité."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans un déficit majeur en facteur X, quelle anomalie biologique est explicitement mentionnée comme présente ?",
+      "choices": [
+        "TCK allongé avec diminution du taux du complexe prothrombinique",
+        "TCK normal avec TQ normal",
+        "TQ allongé isolé sans autre anomalie",
+        "Temps de saignement isolément allongé"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le déficit majeur en facteur X entraîne un allongement du TCK et une diminution du taux du complexe prothrombinique ; il peut également allonger le TQ."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle protéine est décrite comme cofacteur de la protéine C activée ?",
+      "choices": [
+        "Antithrombine",
+        "Protéine S",
+        "Kallikréine",
+        "Kininogène de haut poids moléculaire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La protéine S est le cofacteur de la protéine C activée, qui inhibe les facteurs Va et VIIIa."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon le texte, quelles associations entre anomalie biologique et orientation diagnostique sont correctes ?",
+      "choices": [
+        "Un déficit congénital en facteur VII peut donner un TQ allongé avec TCK normal.",
+        "Un déficit en facteur VIII explique classiquement un TQ allongé isolé.",
+        "Une anomalie quantitative ou qualitative du fibrinogène peut allonger à la fois le TQ et le TCK.",
+        "Un déficit en facteur XII peut donner un TCK allongé avec TQ normal."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le facteur VII est exploré par le TQ isolé ; les anomalies du fibrinogène peuvent perturber globalement TQ et TCK ; le facteur XII allonge le TCK isolément. Le déficit en facteur VIII relève de la voie intrinsèque et allonge le TCK, non le TQ isolé."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un allongement conjoint du TQ et du TCK, quelles situations acquises citées dans le texte doivent être évoquées ?",
+      "choices": [
+        "Insuffisance hépatique.",
+        "Coagulation intravasculaire disséminée.",
+        "Déficit congénital isolé en facteur VII.",
+        "Traitement par héparine."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’insuffisance hépatique, la CIVD et le traitement par héparine sont cités parmi les causes d’allongement conjoint du TQ et du TCK. Le déficit congénital en facteur VII donne plutôt un TQ allongé avec TCK normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la place de la coagulation dans la séquence hémostatique décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle succède à l’hémostase primaire.",
+        "Elle précède la fibrinolyse.",
+        "Elle consolide le thrombus plaquettaire par la fibrine.",
+        "Elle aboutit à un réseau de fibrinogène insoluble."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La coagulation succède à l’hémostase primaire, précède la fibrinolyse et consolide le thrombus plaquettaire par la fibrine. Le produit final est un réseau de fibrine insoluble, non de fibrinogène insoluble."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du TCA/TCK tel qu’il est décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Il explore la voie intrinsèque déclenchée par l’activation du système contact.",
+        "Il est réalisé sur plasma citraté.",
+        "Il peut servir à surveiller l’héparine non fractionnée.",
+        "Il constitue le test de référence d’un déficit isolé en facteur VII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le TCA/TCK explore la voie intrinsèque, se fait sur plasma citraté et peut surveiller certains anticoagulants, notamment l’héparine non fractionnée. Le déficit en facteur VII donne plutôt un TQ allongé isolé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs contenus dans le PPSB et leur dénomination, quelles propositions sont exactes ?",
+      "choices": [
+        "Le facteur II correspond à la prothrombine.",
+        "Le facteur VII correspond à la proconvertine.",
+        "Le facteur IX correspond au facteur antihémophilique B.",
+        "Le facteur V fait partie du PPSB décrit."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le PPSB décrit contient les facteurs II, VII, IX et X : prothrombine, proconvertine, facteur antihémophilique B et facteur Stuart. Le facteur V n’en fait pas partie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le risque hémorragique ou thrombotique associé aux déficits cités, quelles propositions sont exactes ?",
+      "choices": [
+        "Le déficit en fibrinogène est cité comme responsable d’un risque hémorragique.",
+        "Le déficit en facteur IX est cité comme responsable d’un risque hémorragique.",
+        "Le déficit en facteur XII allonge le TCK mais n’est généralement pas responsable d’un syndrome hémorragique.",
+        "Le déficit en antithrombine est cité comme un déficit hémorragique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits en fibrinogène et en facteur IX exposent au risque hémorragique. Le déficit en facteur XII allonge le TCK sans syndrome hémorragique habituel. Le déficit en antithrombine est cité parmi les facteurs prédisposant à la thrombose."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les anomalies suivantes, lesquelles sont citées comme prédisposant à la thrombose ?",
+      "choices": [
+        "Résistance à la protéine C activée.",
+        "Déficit en protéine C.",
+        "Déficit en antithrombine.",
+        "Déficit en facteur XII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La résistance à la protéine C activée, le déficit en protéine C et le déficit en antithrombine sont des facteurs prédisposant à la thrombose. Le déficit en facteur XII est cité comme anomalie allongeant le TCK sans syndrome hémorragique habituel, pas comme thrombophilie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les inhibiteurs physiologiques de la coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "L’antithrombine inhibe principalement la thrombine et le facteur Xa.",
+        "La protéine C activée inhibe les facteurs Va et VIIIa.",
+        "La protéine S est le cofacteur de la protéine C activée.",
+        "Le cofacteur de l’héparine II inhibe principalement le facteur VIIa."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’antithrombine cible surtout la thrombine et Xa ; la protéine C activée inhibe Va et VIIIa ; la protéine S est son cofacteur. Le cofacteur de l’héparine II est décrit comme inhibiteur de la thrombine dépendant de l’héparine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le complexe d’activation de la prothrombine, quelles propositions sont exactes ?",
+      "choices": [
+        "Il comprend le facteur Xa.",
+        "Il comprend le facteur Va.",
+        "Il est constitué uniquement de protéines plasmatiques, sans calcium ni phospholipides.",
+        "Il intervient dans la transformation de la prothrombine en thrombine."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le complexe prothrombinase associe Xa, Va, calcium et phospholipides. Il permet l’activation de la prothrombine en thrombine. Il n’est donc pas uniquement protéique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont vitamine K-dépendants selon le texte ?",
+      "choices": [
+        "Les facteurs II, VII, IX et X.",
+        "Les protéines C et S.",
+        "Le fibrinogène et le facteur V.",
+        "L’antithrombine."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les facteurs II, VII, IX et X sont vitamine K-dépendants, de même que les protéines C et S. Le fibrinogène, le facteur V et l’antithrombine ne sont pas cités comme vitamine K-dépendants."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le déficit majeur en facteur X, quelles propositions sont exactes ?",
+      "choices": [
+        "Il entraîne un allongement du TCK.",
+        "Il entraîne une diminution du taux du complexe prothrombinique.",
+        "Il peut également allonger le TQ.",
+        "Il respecte toujours le TQ."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit majeur en facteur X allonge le TCK, diminue le taux du complexe prothrombinique et peut allonger le TQ. Dire qu’il respecte toujours le TQ est faux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les concentrés de facteurs de coagulation dérivés du sang, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être obtenus à partir de plasma humain.",
+        "Ils peuvent être fractionnés et purifiés par différentes méthodes.",
+        "Ils peuvent subir une inactivation virale par solvant-détergent.",
+        "Les solutions reconstituées s’administrent par voie orale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les concentrés peuvent provenir du plasma humain, être fractionnés et purifiés, et subir une inactivation virale par solvant-détergent. Les solutions reconstituées s’administrent par voie intraveineuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’interprétation biologique évoquant une maladie de Willebrand, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle peut être évoquée devant un TCK allongé avec TQ normal.",
+        "Elle suppose une diminution du facteur VIII dans ce contexte.",
+        "Elle est associée à un allongement du temps de saignement dans la situation décrite.",
+        "Elle est définie dans le texte par un déficit isolé en facteur IX."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie de Willebrand est évoquée devant un TCK allongé avec TQ normal si le facteur VIII est diminué et associé à un allongement du temps de saignement. Le déficit en facteur IX correspond à l’hémophilie B."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le déclenchement des voies de coagulation mentionnées, quelles propositions sont exactes ?",
+      "choices": [
+        "Le facteur tissulaire exposé au sang initie la voie extrinsèque.",
+        "Le TCA/TCK explore la voie intrinsèque déclenchée par le système contact.",
+        "La kallikréine et le kininogène de haut poids moléculaire sont cités parmi les éléments de la coagulation.",
+        "Le facteur tissulaire est décrit comme un inhibiteur physiologique soluble."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le facteur tissulaire initie la voie extrinsèque après exposition au sang. Le TCA/TCK explore la voie intrinsèque liée au système contact. La kallikréine et le kininogène de haut poids moléculaire font partie des éléments cités. Le facteur tissulaire n’est pas décrit comme inhibiteur physiologique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil biologique est le plus compatible avec un inhibiteur anti-facteur VII selon le texte ?",
+      "choices": [
+        "TQ allongé avec TCK normal.",
+        "TCK allongé avec TQ normal.",
+        "TQ normal avec TCK normal.",
+        "Allongement isolé du temps de saignement."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’inhibiteur anti-facteur VII est cité parmi les causes de TQ allongé avec TCK normal."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur du complexe prothrombinique classique II, V, VII, X n’est pas contenu dans le PPSB décrit ?",
+      "choices": [
+        "Facteur V.",
+        "Facteur VII.",
+        "Facteur IX.",
+        "Facteur X."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le PPSB décrit contient II, VII, IX et X. Le facteur V n’est pas inclus."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est décrit comme un inhibiteur physiologique vitamine K-dépendant ?",
+      "choices": [
+        "Protéine C.",
+        "Kallikréine.",
+        "Fibrinogène.",
+        "Facteur V."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La protéine C est à la fois un inhibiteur physiologique de la coagulation et une protéine vitamine K-dépendante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur activé correspond à la thrombine ?",
+      "choices": [
+        "Facteur IIa.",
+        "Facteur VIIa.",
+        "Facteur Xa.",
+        "Facteur VIIIa."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que le facteur IIa est la thrombine."
+    },
+    {
+      "type": "QCS",
+      "question": "Un TCK allongé avec TQ normal lié à une hémophilie B correspond à quel déficit ?",
+      "choices": [
+        "Déficit en facteur IX.",
+        "Déficit en facteur VIII.",
+        "Déficit en facteur VII.",
+        "Déficit en fibrinogène."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hémophilie B correspond à un déficit en facteur IX et se manifeste biologiquement par un TCK allongé avec TQ normal."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément permet, grâce au calcium, la fixation des facteurs vitamine K-dépendants ?",
+      "choices": [
+        "Les phospholipides.",
+        "Le fibrinogène.",
+        "La thrombine.",
+        "La protéine S."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le calcium permet la fixation des facteurs vitamine K-dépendants aux phospholipides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition et la finalité de la coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "La coagulation correspond au passage du sang de l’état liquide à l’état de gel.",
+        "Elle permet la consolidation du thrombus plaquettaire par la fibrine.",
+        "Elle aboutit à la formation d’un réseau de fibrine insoluble.",
+        "Elle survient après la fibrinolyse dans la séquence hémostatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La coagulation succède à l’hémostase primaire et précède la fibrinolyse. Elle transforme le fibrinogène soluble en fibrine insoluble consolidant le thrombus plaquettaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des rôles respectifs du calcium et du facteur tissulaire dans la coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "Le facteur tissulaire initie la voie extrinsèque après exposition au sang.",
+        "Le calcium est nécessaire aux réactions enzymatiques de la coagulation.",
+        "Le calcium permet la fixation des facteurs vitamine K-dépendants aux phospholipides.",
+        "La kallikréine est décrite comme l’élément initiateur de la voie extrinsèque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le facteur tissulaire initie la voie extrinsèque. Le calcium participe aux réactions enzymatiques et à la fixation des facteurs vitamine K-dépendants aux phospholipides."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les ensembles suivants, lesquels ne comportent que des éléments explicitement cités comme vitamine K-dépendants ?",
+      "choices": [
+        "Facteurs II, VII, IX et X.",
+        "Protéines C et S.",
+        "Facteurs II, V et X.",
+        "Facteur VII, facteur X, protéine C et protéine S."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les facteurs II, VII, IX, X ainsi que les protéines C et S sont vitamine K-dépendants. Le facteur V n’est pas cité comme vitamine K-dépendant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le complexe prothrombinique et les facteurs vitamine K-dépendants, quelles propositions sont exactes ?",
+      "choices": [
+        "Le complexe prothrombinique comprend les facteurs II, VII, IX et X.",
+        "Dans le complexe prothrombinique classique II, V, VII et X, les facteurs II, VII et X sont vitamine K-dépendants.",
+        "Le facteur V est cité comme facteur vitamine K-dépendant.",
+        "Les protéines C et S sont vitamine K-dépendantes mais ne sont pas listées dans le PPSB décrit."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte distingue le complexe prothrombinique II, VII, IX, X et rappelle que les protéines C et S sont vitamine K-dépendantes. Le facteur V n’est pas cité comme vitamine K-dépendant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le complexe d’activation de la prothrombine, quelles propositions sont exactes ?",
+      "choices": [
+        "Il comprend le facteur Xa.",
+        "Il comprend le facteur Va.",
+        "Il comprend du calcium et des phospholipides.",
+        "Il est constitué du facteur VIIa, du facteur tissulaire, du fibrinogène et de la thrombine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complexe prothrombinase est constitué du facteur Xa, du facteur Va, de calcium et de phospholipides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les inhibiteurs physiologiques de la coagulation, quelles associations sont exactes ?",
+      "choices": [
+        "Antithrombine : inhibition principalement de la thrombine et du facteur Xa.",
+        "Protéine C activée : inhibition des facteurs Va et VIIIa.",
+        "Protéine S : cofacteur de la protéine C activée.",
+        "Cofacteur de l’héparine II : inhibition du facteur VII dépendante de l’héparine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’antithrombine inhibe surtout la thrombine et Xa. La protéine C activée inhibe Va et VIIIa, avec la protéine S comme cofacteur. Le cofacteur de l’héparine II inhibe la thrombine."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un TQ allongé avec TCK normal, quelles orientations sont conformes au texte ?",
+      "choices": [
+        "Déficit congénital en facteur VII.",
+        "Inhibiteur anti-facteur VII.",
+        "Début de traitement par antivitamine K.",
+        "Déficit isolé en facteur VIII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un TQ allongé avec TCK normal oriente vers un déficit ou inhibiteur du facteur VII, ou le début d’un traitement par AVK. Le déficit en facteur VIII allonge plutôt le TCK avec TQ normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les causes suivantes, lesquelles sont citées comme pouvant donner un allongement conjoint du TQ et du TCK ?",
+      "choices": [
+        "Traitement par antivitamine K.",
+        "Traitement par héparine.",
+        "Insuffisance hépatique.",
+        "Déficit isolé en facteur XII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les AVK, l’héparine et l’insuffisance hépatique parmi les causes de TQ et TCK allongés. Le déficit isolé en facteur XII donne un TCK allongé avec TQ normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un TCK allongé avec TQ normal, quelles étiologies sont explicitement compatibles avec le texte ?",
+      "choices": [
+        "Hémophilie A.",
+        "Hémophilie B.",
+        "Déficit en facteur XI.",
+        "Déficit en facteur V."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un TCK allongé avec TQ normal peut correspondre à un déficit en VIII, IX, XI ou XII. Le déficit en facteur V est associé à un allongement conjoint du TQ et du TCK."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les déficits suivants, lesquels sont explicitement responsables d’un risque hémorragique selon le texte ?",
+      "choices": [
+        "Déficit en fibrinogène.",
+        "Déficit en facteur V.",
+        "Déficit en facteur XI.",
+        "Déficit en facteur XII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits en fibrinogène, V et XI sont cités comme responsables d’un risque hémorragique. Le déficit en XII allonge le TCK mais n’est généralement pas hémorragique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant un déficit majeur en facteur X, quelles propositions sont exactes ?",
+      "choices": [
+        "Il entraîne un allongement du TCK.",
+        "Il entraîne une diminution du taux du complexe prothrombinique.",
+        "Il peut également allonger le TQ.",
+        "Il impose dans le texte un allongement du temps de saignement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit majeur en facteur X allonge le TCK, diminue le taux du complexe prothrombinique et peut allonger le TQ. Le temps de saignement n’est pas mentionné dans ce contexte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le TCA/TCK, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est réalisé sur plasma citraté.",
+        "Il explore la voie intrinsèque déclenchée par l’activation du système contact.",
+        "Il peut être utilisé pour surveiller l’héparine non fractionnée.",
+        "Il est principalement destiné à explorer un déficit isolé en facteur VII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le TCA/TCK est réalisé sur plasma citraté, explore la voie intrinsèque via le système contact et sert notamment à surveiller l’héparine non fractionnée. Le facteur VII relève de la voie extrinsèque."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles peuvent allonger le TCA/TCK sans correspondre à une hémophilie A ou B ?",
+      "choices": [
+        "Traitement par héparine.",
+        "Traitement par antivitamine K dans certains cas.",
+        "Insuffisance hépatique avancée.",
+        "Déficit congénital isolé en facteur VII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’héparine, certains traitements par AVK, l’insuffisance hépatique avancée et la CIVD parmi les situations associées à un TCA/TCK allongé. Le déficit isolé en VII donne plutôt un TQ allongé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les concentrés de facteurs de coagulation dérivés du sang, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être obtenus à partir de plasma humain.",
+        "Ils peuvent être fractionnés et purifiés par différentes méthodes.",
+        "Ils peuvent subir une inactivation virale par solvant-détergent.",
+        "La nanofiltration est obligatoire pour tous les concentrés selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les concentrés peuvent provenir du plasma humain, être fractionnés, purifiés et subir une inactivation virale par solvant-détergent. La nanofiltration est mentionnée seulement pour certains."
+    },
+    {
+      "type": "QCS",
+      "question": "Sur quel type de plasma le TCA/TCK est-il réalisé selon le texte ?",
+      "choices": [
+        "Plasma citraté.",
+        "Plasma hépariné.",
+        "Sérum coagulé.",
+        "Sang total non anticoagulé."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le TCA/TCK est réalisé sur plasma citraté."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément ne fait pas partie du complexe d’activation de la prothrombine décrit dans le texte ?",
+      "choices": [
+        "Facteur Xa.",
+        "Facteur Va.",
+        "Calcium.",
+        "Facteur VIIa."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le complexe prothrombinase comprend Xa, Va, calcium et phospholipides. Le facteur VIIa n’en fait pas partie dans la description donnée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil biologique est le plus compatible avec un déficit congénital isolé en facteur VII selon le texte ?",
+      "choices": [
+        "TQ allongé avec TCK normal.",
+        "TQ normal avec TCK allongé.",
+        "TQ et TCK allongés.",
+        "TQ et TCK normaux avec temps de saignement allongé."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le déficit congénital en facteur VII est cité parmi les causes de TQ allongé avec TCK normal."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le texte, quel facteur activé correspond à la thrombine ?",
+      "choices": [
+        "Facteur IIa.",
+        "Facteur Va.",
+        "Facteur VIIa.",
+        "Facteur Xa."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le facteur IIa est la thrombine."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’évocation d’une maladie de Willebrand devant un TCK allongé avec TQ normal, quel élément doit être associé à la diminution du facteur VIII ?",
+      "choices": [
+        "Allongement du temps de saignement.",
+        "Diminution du facteur VII.",
+        "Diminution du facteur X.",
+        "Diminution du taux du complexe prothrombinique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La maladie de Willebrand est évoquée si le facteur VIII est diminué avec allongement du temps de saignement."
+    },
+    {
+      "type": "QCS",
+      "question": "Concernant les anomalies du fibrinogène dans l’interprétation biologique, quelle formulation est conforme au texte ?",
+      "choices": [
+        "Elles peuvent être quantitatives ou qualitatives et s’associer à un allongement du TQ et du TCK.",
+        "Elles donnent uniquement un TCK allongé avec TQ normal.",
+        "Elles sont exclusivement thrombogènes et jamais hémorragiques.",
+        "Elles sont toujours corrigées par PPSB selon le texte."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite les anomalies quantitatives ou qualitatives du fibrinogène parmi les causes d’allongement conjoint du TQ et du TCK."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une analyse chronologique de l’hémostase, quelles propositions sont exactes concernant la place de la coagulation ?",
+      "choices": [
+        "Elle intervient après l’hémostase primaire.",
+        "Elle précède la fibrinolyse.",
+        "Elle consolide le thrombus plaquettaire par un réseau de fibrine.",
+        "Elle correspond à la dissolution enzymatique du caillot de fibrine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La coagulation succède à l’hémostase primaire, précède la fibrinolyse et consolide le thrombus plaquettaire par la fibrine. La dissolution du caillot correspond à la fibrinolyse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les composants impliqués dans l’activation du système contact et l’exploration par TCA/TCK, quelles propositions sont exactes ?",
+      "choices": [
+        "La kallikréine fait partie des éléments de la coagulation cités.",
+        "Le kininogène de haut poids moléculaire fait partie des éléments cités.",
+        "Le TCA/TCK explore la voie intrinsèque déclenchée par l’activation du système contact.",
+        "Le facteur tissulaire est l’élément déclenchant la voie intrinsèque explorée par le TCA/TCK."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la kallikréine et le kininogène de haut poids moléculaire. Le TCA/TCK explore la voie intrinsèque déclenchée par le système contact. Le facteur tissulaire initie la voie extrinsèque."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du calcium dans la coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est nécessaire aux réactions enzymatiques de la coagulation.",
+        "Il permet la fixation des facteurs vitamine K-dépendants aux phospholipides.",
+        "Il entre dans la constitution du complexe d’activation de la prothrombine.",
+        "Il est décrit comme l’inhibiteur principal du facteur Xa."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcium intervient dans les réactions enzymatiques, permet la fixation des facteurs vitamine K-dépendants aux phospholipides et fait partie du complexe prothrombinase. L’inhibiteur principal du facteur Xa cité est l’antithrombine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le facteur tissulaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est présent dans la paroi vasculaire.",
+        "Il initie la voie extrinsèque après exposition au sang.",
+        "Il est inclus dans le complexe prothrombinase.",
+        "Il est cité comme inhibiteur physiologique de la coagulation."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le facteur tissulaire est localisé dans la paroi vasculaire et initie la voie extrinsèque après exposition au sang. Il ne fait pas partie du complexe prothrombinase et n’est pas un inhibiteur physiologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations suivantes entre facteur et propriété vitaminique K-dépendante, lesquelles sont exactes selon le texte ?",
+      "choices": [
+        "Facteur II : vitamine K-dépendant.",
+        "Facteur IX : vitamine K-dépendant.",
+        "Protéine C : vitamine K-dépendante.",
+        "Facteur V : vitamine K-dépendant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs II, VII, IX et X sont vitamine K-dépendants, de même que les protéines C et S. Le facteur V n’est pas cité comme vitamine K-dépendant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le complexe d’activation de la prothrombine, quelles propositions sont exactes ?",
+      "choices": [
+        "Il contient le facteur Xa.",
+        "Il contient le facteur Va.",
+        "Il contient du calcium et des phospholipides.",
+        "Il contient obligatoirement le facteur VIIa selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complexe prothrombinase est constitué du facteur Xa, du facteur Va, du calcium et des phospholipides. Le facteur VIIa n’est pas cité comme constituant de ce complexe."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le déroulement de la coagulation décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "La génération de la prothrombinase précède la thrombinoformation.",
+        "La thrombinoformation correspond à la transformation de la prothrombine en thrombine.",
+        "La fibrinoformation correspond à la transformation du fibrinogène en fibrine.",
+        "La fibrinoformation précède la génération de la prothrombinase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ordre décrit est : génération de la prothrombinase, thrombinoformation, puis fibrinoformation. La fibrinoformation ne précède donc pas la génération de la prothrombinase."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la thrombine, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond au facteur IIa.",
+        "Elle transforme le fibrinogène en fibrine.",
+        "Elle est principalement inhibée par l’antithrombine.",
+        "Elle est le cofacteur de la protéine C activée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La thrombine est le facteur IIa, transforme le fibrinogène en fibrine et est principalement inhibée par l’antithrombine. La protéine S est le cofacteur de la protéine C activée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les inhibiteurs physiologiques de la coagulation, quelles propositions sont exactes ?",
+      "choices": [
+        "L’antithrombine inhibe principalement la thrombine et le facteur Xa.",
+        "La protéine C activée inhibe les facteurs Va et VIIIa.",
+        "La protéine S est un cofacteur de la protéine C activée.",
+        "Le cofacteur de l’héparine II inhibe les facteurs Va et VIIIa."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’antithrombine cible surtout la thrombine et le facteur Xa. La protéine C activée inhibe Va et VIIIa, avec la protéine S comme cofacteur. Le cofacteur de l’héparine II est un inhibiteur de la thrombine dépendant de l’héparine."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un TQ allongé avec TCK normal, quelles hypothèses sont compatibles avec le texte ?",
+      "choices": [
+        "Déficit congénital en facteur VII.",
+        "Inhibiteur anti-facteur VII.",
+        "Début de traitement par antivitamine K.",
+        "Déficit isolé en facteur XII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un TQ allongé avec TCK normal oriente vers un déficit congénital en facteur VII, un inhibiteur anti-facteur VII ou le début d’un traitement par AVK. Le déficit en facteur XII donne un TCK allongé avec TQ normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un allongement simultané du TQ et du TCK, quelles situations sont citées comme possibles ?",
+      "choices": [
+        "Déficit en facteur II.",
+        "Insuffisance hépatique.",
+        "Coagulation intravasculaire disséminée.",
+        "Déficit isolé en facteur XII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un allongement conjoint du TQ et du TCK peut être observé dans les déficits en facteurs V, X ou II, l’insuffisance hépatique et la CIVD. Le déficit isolé en facteur XII allonge le TCK avec TQ normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le profil TCK allongé avec TQ normal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut révéler une hémophilie A par déficit en facteur VIII.",
+        "Il peut révéler une hémophilie B par déficit en facteur IX.",
+        "Il peut s’observer dans un déficit en facteur XI.",
+        "Il correspond typiquement à un déficit congénital isolé en facteur VII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un TCK allongé avec TQ normal peut correspondre à un déficit en facteurs VIII, IX, XI ou XII, ou à une maladie de Willebrand dans certaines conditions. Le déficit isolé en facteur VII donne plutôt un TQ allongé avec TCK normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le déficit majeur en facteur X, quelles propositions sont exactes ?",
+      "choices": [
+        "Il entraîne un allongement du TCK.",
+        "Il entraîne une diminution du taux du complexe prothrombinique.",
+        "Il peut également allonger le TQ.",
+        "Il est décrit comme dépourvu de risque hémorragique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un déficit majeur en facteur X allonge le TCK, diminue le taux du complexe prothrombinique et peut allonger le TQ. Le facteur X fait partie des déficits responsables d’un risque hémorragique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le PPSB, quelles propositions sont exactes ?",
+      "choices": [
+        "Il contient le facteur II, appelé prothrombine.",
+        "Il contient le facteur VII, appelé proconvertine.",
+        "Il contient le facteur IX, appelé facteur antihémophilique B.",
+        "Il contient le facteur VIII, appelé facteur Stuart."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le PPSB contient les facteurs II, VII, IX et X : prothrombine, proconvertine, facteur antihémophilique B et facteur Stuart. Le facteur Stuart correspond au facteur X, non au facteur VIII."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’examen réalisé sur plasma citraté qui explore la voie intrinsèque de la coagulation ?",
+      "choices": [
+        "Temps de céphaline avec activateur.",
+        "Temps de saignement.",
+        "Dosage isolé du fibrinogène.",
+        "Taux du complexe prothrombinique seul."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le TCA/TCK est réalisé sur plasma citraté et explore la voie intrinsèque déclenchée par l’activation du système contact."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie biologique associée à une diminution du facteur VIII permet d’évoquer une maladie de Willebrand dans le texte ?",
+      "choices": [
+        "Allongement du temps de saignement.",
+        "Diminution isolée du facteur VII.",
+        "Augmentation du taux du complexe prothrombinique.",
+        "Raccourcissement du TCK."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La maladie de Willebrand est évoquée devant un TCK allongé avec facteur VIII diminué associé à un allongement du temps de saignement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur du PPSB est appelé facteur Stuart ?",
+      "choices": [
+        "Facteur II.",
+        "Facteur VII.",
+        "Facteur IX.",
+        "Facteur X."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Dans le PPSB, le facteur X correspond au facteur Stuart."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel déficit allonge généralement le TCK sans être habituellement responsable d’un syndrome hémorragique selon le texte ?",
+      "choices": [
+        "Déficit en facteur VIII.",
+        "Déficit en facteur IX.",
+        "Déficit en facteur XII.",
+        "Déficit en facteur X."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le déficit en facteur XII allonge le TCK mais n’est généralement pas responsable d’un syndrome hémorragique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement anticoagulant est particulièrement surveillé par le TCA/TCK selon le texte ?",
+      "choices": [
+        "Héparine non fractionnée.",
+        "Antivitamine K en relais stable uniquement.",
+        "Antiagrégant plaquettaire.",
+        "Fibrinolytique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le TCA/TCK est utilisé pour surveiller certains traitements anticoagulants, en particulier l’héparine non fractionnée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel produit est spécifiquement utilisé pour corriger rapidement un déficit en facteurs vitamine K-dépendants lors d’une réversion urgente ?",
+      "choices": [
+        "PPSB.",
+        "Calcium seul.",
+        "Kallikréine purifiée.",
+        "Kininogène de haut poids moléculaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le PPSB corrige rapidement un déficit en facteurs vitamine K-dépendants, notamment en cas de surdosage grave en AVK ou d’hémorragie nécessitant une réversion urgente."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments explicitement cités comme participant à la coagulation, en dehors des facteurs de coagulation eux-mêmes, lesquels sont exacts ?",
+      "choices": [
+        "Le facteur tissulaire",
+        "Le calcium",
+        "La kallikréine",
+        "Le kininogène de haut poids moléculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite parmi les éléments de la coagulation : facteur tissulaire, calcium, kallikréine, kininogène de haut poids moléculaire et inhibiteurs physiologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Un raisonnement confond voie extrinsèque et système contact. Quelles corrections sont conformes au texte ?",
+      "choices": [
+        "Le facteur tissulaire est présent dans la paroi vasculaire",
+        "Le facteur tissulaire initie la voie extrinsèque après exposition au sang",
+        "Le TCA/TCK explore la voie intrinsèque déclenchée par l’activation du système contact",
+        "Le facteur tissulaire est décrit comme un inhibiteur physiologique de la coagulation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le facteur tissulaire initie la voie extrinsèque après exposition au sang. Le TCA/TCK explore la voie intrinsèque déclenchée par le système contact. Le facteur tissulaire n’est pas un inhibiteur physiologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs et protéines vitamine K-dépendants, quelles propositions sont exactes ?",
+      "choices": [
+        "Les facteurs II, VII, IX et X sont vitamine K-dépendants",
+        "Les protéines C et S sont également vitamine K-dépendantes",
+        "Le calcium permet la fixation des facteurs vitamine K-dépendants aux phospholipides",
+        "Le facteur V est cité parmi les facteurs vitamine K-dépendants"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs II, VII, IX, X ainsi que les protéines C et S sont vitamine K-dépendants. Le calcium permet leur fixation aux phospholipides. Le facteur V n’est pas cité comme vitamine K-dépendant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la constitution du complexe d’activation de la prothrombine, quelles propositions sont exactes ?",
+      "choices": [
+        "Il comprend le facteur Xa",
+        "Il comprend le facteur Va",
+        "Il comprend du calcium",
+        "Il comprend des phospholipides"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le complexe prothrombinase est constitué du facteur Xa, du facteur Va, de calcium et de phospholipides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la thrombine dans la coagulation et son inhibition, quelles propositions sont exactes ?",
+      "choices": [
+        "Le facteur IIa correspond à la thrombine",
+        "La thrombine transforme le fibrinogène en fibrine",
+        "L’antithrombine inhibe principalement la thrombine et le facteur Xa",
+        "Le cofacteur de l’héparine II est un inhibiteur de la thrombine dépendant de l’héparine"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le facteur IIa est la thrombine. Elle transforme le fibrinogène en fibrine. Elle est inhibée notamment par l’antithrombine et par le cofacteur de l’héparine II."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du système protéine C-protéine S et de ses implications, quelles propositions sont exactes ?",
+      "choices": [
+        "La protéine C activée inhibe les facteurs Va et VIIIa",
+        "La protéine S est un cofacteur de la protéine C activée",
+        "La protéine C est vitamine K-dépendante",
+        "Un déficit en protéine C est cité comme facteur prédisposant à la thrombose"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La protéine C activée inhibe Va et VIIIa, avec la protéine S comme cofacteur. La protéine C est vitamine K-dépendante, et son déficit prédispose à la thrombose."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un TQ allongé avec TCK normal, quelles orientations sont explicitement citées ?",
+      "choices": [
+        "Un déficit congénital en facteur VII",
+        "Un inhibiteur anti-facteur VII",
+        "Un début de traitement par antivitamine K",
+        "Un déficit isolé en facteur VIII"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le TQ allongé avec TCK normal oriente vers un déficit congénital en facteur VII, un inhibiteur anti-facteur VII ou un début de traitement par AVK. Le déficit en facteur VIII donne plutôt un TCK allongé avec TQ normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un allongement conjoint du TQ et du TCK, quels déficits en facteurs sont compatibles avec le texte ?",
+      "choices": [
+        "Déficit en facteur V",
+        "Déficit en facteur X",
+        "Déficit en facteur II",
+        "Déficit en facteur XI isolé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un allongement conjoint du TQ et du TCK peut être observé lors d’un déficit en facteur V, X ou II. Le déficit en facteur XI est cité dans les causes de TCK allongé avec TQ normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations acquises ou globales sont citées comme pouvant s’accompagner d’un allongement simultané du TQ et du TCK ?",
+      "choices": [
+        "Traitement par antivitamine K",
+        "Carence en vitamine K",
+        "Insuffisance hépatique",
+        "Coagulation intravasculaire disséminée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite le traitement par AVK, la carence en vitamine K, l’insuffisance hépatique et la CIVD parmi les situations pouvant allonger simultanément TQ et TCK."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles peuvent allonger le TCA/TCK sans correspondre à une hémophilie A ou B ?",
+      "choices": [
+        "Déficit en facteur XI",
+        "Déficit en facteur XII",
+        "Traitement par héparine",
+        "Insuffisance hépatique avancée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le déficit en facteur XI, le déficit en facteur XII, le traitement par héparine et l’insuffisance hépatique avancée sont cités parmi les situations associées à un allongement du TCA/TCK."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le lien entre déficit de coagulation et risque hémorragique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le déficit en fibrinogène est cité comme responsable d’un risque hémorragique",
+        "Le déficit en facteur II est cité comme responsable d’un risque hémorragique",
+        "Le déficit en facteur XI est cité comme responsable d’un risque hémorragique",
+        "Le déficit en facteur XII est généralement responsable d’un syndrome hémorragique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits en fibrinogène, II et XI font partie des déficits responsables d’un risque hémorragique. Le déficit en facteur XII allonge le TCK mais n’est généralement pas responsable d’un syndrome hémorragique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le déficit majeur en facteur X, quelles propositions sont exactes ?",
+      "choices": [
+        "Il entraîne un allongement du TCK",
+        "Il entraîne une diminution du taux du complexe prothrombinique",
+        "Il peut également allonger le TQ",
+        "Le déficit en facteur X est cité parmi les déficits responsables d’un risque hémorragique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Un déficit majeur en facteur X allonge le TCK, diminue le taux du complexe prothrombinique et peut allonger le TQ. Le déficit en facteur X est aussi cité parmi les déficits hémorragiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les concentrés de facteurs de coagulation dérivés du sang, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être obtenus à partir de plasma humain",
+        "Ils peuvent être fractionnés et purifiés par différentes méthodes",
+        "Ils peuvent subir une inactivation virale par solvant-détergent",
+        "Pour certains, une nanofiltration peut être réalisée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les concentrés de facteurs peuvent provenir de plasma humain, être fractionnés et purifiés, subir une inactivation virale par solvant-détergent et parfois une nanofiltration."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le PPSB dans une stratégie de correction rapide, quelles propositions sont exactes ?",
+      "choices": [
+        "Il corrige rapidement un déficit en facteurs vitamine K-dépendants",
+        "Il peut être utilisé en cas de surdosage grave en antivitamine K",
+        "Il contient le facteur IX, appelé facteur antihémophilique B",
+        "Il contient le facteur V"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le PPSB contient les facteurs II, VII, IX et X, tous vitamine K-dépendants, et est utilisé notamment en cas de surdosage grave en AVK ou d’hémorragie nécessitant une réversion urgente. Il ne contient pas le facteur V."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le PPSB, quel facteur est appelé proconvertine ?",
+      "choices": [
+        "Facteur II",
+        "Facteur VII",
+        "Facteur IX",
+        "Facteur X"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans le PPSB, le facteur VII correspond à la proconvertine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur appartient au complexe prothrombinique défini dans le texte, mais n’appartient pas au complexe prothrombinique classique II, V, VII et X ?",
+      "choices": [
+        "Facteur V",
+        "Facteur IX",
+        "Facteur II",
+        "Facteur VII"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le complexe prothrombinique du texte comprend II, VII, IX et X. Le complexe prothrombinique classique cité comprend II, V, VII et X. Le facteur IX distingue donc le premier ensemble."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, quel mécanisme déclenche la voie intrinsèque explorée par le TCA/TCK ?",
+      "choices": [
+        "L’exposition du facteur tissulaire au sang",
+        "L’activation du système contact",
+        "La transformation du fibrinogène en fibrine",
+        "L’inhibition des facteurs Va et VIIIa"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le TCA/TCK explore la voie intrinsèque de la coagulation déclenchée par l’activation du système contact."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel diagnostic correspond au déficit en facteur VIII dans le profil TCK allongé avec TQ normal ?",
+      "choices": [
+        "Hémophilie B",
+        "Hémophilie A",
+        "Déficit en facteur XII",
+        "Déficit en facteur VII"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le déficit en facteur VIII correspond à l’hémophilie A et donne un TCK allongé avec TQ normal."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel inhibiteur de la thrombine est explicitement décrit comme dépendant de l’héparine ?",
+      "choices": [
+        "Protéine S",
+        "Protéine C activée",
+        "Cofacteur de l’héparine II",
+        "Facteur tissulaire"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le cofacteur de l’héparine II est décrit comme un inhibiteur de la thrombine dépendant de l’héparine."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les anomalies du fibrinogène, laquelle est citée comme facteur prédisposant à la thrombose ?",
+      "choices": [
+        "Déficit en fibrinogène",
+        "Anomalie quantitative du fibrinogène",
+        "Certaines dysfibrinogénémies",
+        "Fibrinoformation"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte cite certaines dysfibrinogénémies parmi les facteurs prédisposant à la thrombose."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-03T23:25:55.181Z"
+}

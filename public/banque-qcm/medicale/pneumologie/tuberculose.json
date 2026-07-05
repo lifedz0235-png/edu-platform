@@ -1,0 +1,3113 @@
+{
+  "category": "medicale",
+  "module": "pneumologie",
+  "courseId": 216,
+  "courseTitle": "Tuberculose",
+  "supportTitle": "tuberculose",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/medicale-pdf/pneumologie/tuberculose.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la définition et les principes généraux de la pneumonie aiguë communautaire de l’adulte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une infection aiguë du parenchyme pulmonaire.",
+        "Elle est dite communautaire si elle est acquise en milieu extrahospitalier.",
+        "Elle est dite communautaire si elle se révèle après 7 jours d’hospitalisation.",
+        "Le traitement initial est probabiliste."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La PAC est une infection aiguë du parenchyme pulmonaire, acquise en extrahospitalier ou révélée dans les 48 premières heures d’hospitalisation. Le traitement initial est probabiliste."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments cliniques peuvent faire partie du tableau diagnostique d’une pneumonie aiguë communautaire ?",
+      "choices": [
+        "Toux et expectoration.",
+        "Dyspnée et douleur pleurale.",
+        "Myalgies, troubles digestifs ou neurologiques.",
+        "Bradycardie isolée comme signe spécifique d’un agent causal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PAC peut associer des symptômes respiratoires, une altération de l’état général et des signes extra-thoraciques. Aucun signe clinique isolé n’est spécifique d’un agent déterminé."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la radiographie thoracique dans la pneumonie aiguë communautaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle constitue l’examen de référence.",
+        "Elle peut montrer une condensation alvéolaire souvent lobaire ou systématisée.",
+        "Elle peut objectiver un bronchogramme aérien.",
+        "Elle permet d’identifier avec certitude l’agent causal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La radiographie thoracique est l’examen de référence et peut montrer des opacités alvéolaires, une condensation, des images interstitielles ou un bronchogramme aérien. Elle ne permet pas d’identifier de manière certaine l’agent causal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles anomalies radiologiques peuvent être observées ou compliquer une PAC selon le texte ?",
+      "choices": [
+        "Atteinte bilatérale possible en cas de pneumonie interstitielle.",
+        "Épanchement pleural.",
+        "Abcès pulmonaire.",
+        "Atélectasie obligatoire et constante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une atteinte bilatérale peut exister dans les pneumonies interstitielles. Les complications radiologiques citées sont l’épanchement pleural et l’abcès pulmonaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’évaluation initiale d’une pneumonie aiguë communautaire, quels objectifs doivent être poursuivis ?",
+      "choices": [
+        "Confirmer le diagnostic de PAC.",
+        "Évaluer le terrain et les comorbidités.",
+        "Rechercher des signes de gravité.",
+        "Reporter systématiquement l’antibiothérapie jusqu’à obtention du diagnostic bactériologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’évaluation initiale vise à confirmer le diagnostic, apprécier le terrain, rechercher les signes de gravité, orienter le patient et choisir une antibiothérapie probabiliste. Le traitement ne doit pas être systématiquement retardé."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels critères appartiennent au score CRB65 utilisé dans l’orientation initiale d’une PAC ?",
+      "choices": [
+        "Confusion mentale.",
+        "Fréquence respiratoire > 30/min.",
+        "Pression artérielle systolique < 90 mmHg.",
+        "Température < 35 °C ou ≥ 40 °C."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le CRB65 comprend la confusion, la fréquence respiratoire > 30/min, la pression artérielle systolique < 90 mmHg et l’âge > 65 ans. La température extrême appartient au score de Fine/PSI."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le score de Fine/PSI dans la PAC, quels éléments font partie des facteurs pris en compte ?",
+      "choices": [
+        "Vie en institution.",
+        "Néoplasie.",
+        "Maladie rénale.",
+        "Antécédent d’allergie aux macrolides."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le PSI intègre notamment l’âge, le sexe, la vie en institution et certaines comorbidités comme néoplasie, hépatopathie, insuffisance cardiaque, maladie cérébrovasculaire et maladie rénale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles données cliniques sont intégrées au score de Fine/PSI selon le texte ?",
+      "choices": [
+        "Altération des fonctions supérieures.",
+        "Fréquence respiratoire ≥ 30/min.",
+        "Fréquence cardiaque ≥ 125/min.",
+        "Expectoration purulente isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le PSI prend en compte l’altération des fonctions supérieures, la fréquence respiratoire ≥ 30/min, la PAS < 90 mmHg, les températures extrêmes et la fréquence cardiaque ≥ 125/min."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations terrain-agent étiologique sont conformes aux éléments d’orientation du texte ?",
+      "choices": [
+        "Âge < 60 ans : infection virale ou Mycoplasma pneumoniae plus probable.",
+        "Tabagisme : Legionella pneumophila ou Chlamydiae pneumoniae plus probable.",
+        "Atteinte neurologique : pneumonie d’inhalation à anaérobies.",
+        "Absence de comorbidité : bacilles Gram négatif ou Pseudomonas aeruginosa plus probables."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’âge < 60 ans oriente vers virus ou Mycoplasma, le tabagisme vers Legionella ou Chlamydiae, et l’atteinte neurologique vers une inhalation à anaérobies. Les bacilles Gram négatif/Pseudomonas sont plutôt évoqués en cas de pathologie pulmonaire chronique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les agents étiologiques fréquents de PAC cités dans le texte, lesquels sont inclus ?",
+      "choices": [
+        "Streptococcus pneumoniae.",
+        "Legionella pneumophila.",
+        "Virus respiratoires.",
+        "Candida albicans."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les agents fréquents cités incluent notamment Streptococcus pneumoniae, Legionella pneumophila, Mycoplasma pneumoniae, Chlamydiae pneumoniae, les virus respiratoires, Staphylococcus aureus et les bacilles Gram négatif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le diagnostic microbiologique d’une PAC, quelles propositions sont exactes ?",
+      "choices": [
+        "L’examen cytobactériologique des crachats n’est pas systématique.",
+        "Les hémocultures peuvent faire partie du diagnostic microbiologique.",
+        "L’antigénurie Legionella pneumophila sérogroupe 1 peut être utilisée.",
+        "Le diagnostic bactériologique est obtenu dans plus de 90 % des cas."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ECBC n’est pas systématique. Les hémocultures et l’antigénurie Legionella pneumophila sérogroupe 1 font partie des outils possibles. Le diagnostic bactériologique n’est obtenu que dans 30 à 50 % des cas."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels examens ou techniques sont cités comme pouvant contribuer au diagnostic microbiologique d’une PAC ?",
+      "choices": [
+        "Lavage bronchoalvéolaire.",
+        "Antigène pneumococcique urinaire ou pleural.",
+        "PCR pour Legionella, Chlamydiae, Mycoplasma ou virus pneumotropes.",
+        "Dosage systématique des D-dimères."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les prélèvements bronchiques dont le lavage bronchoalvéolaire, les antigènes pneumococciques urinaire ou pleural et certaines PCR sont cités. Les D-dimères ne sont pas mentionnés comme outil microbiologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels principes généraux de l’antibiothérapie probabiliste d’une PAC sont exacts ?",
+      "choices": [
+        "Elle doit être instaurée dès le diagnostic, idéalement dans les 4 heures.",
+        "Elle doit couvrir les germes les plus fréquents, en particulier Streptococcus pneumoniae.",
+        "Son efficacité doit être réévaluée après 48-72 heures.",
+        "La voie intraveineuse doit être systématique, même si la voie orale est possible."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement doit être précoce, probabiliste, couvrir notamment le pneumocoque, et être réévalué à 48-72 heures. La voie orale doit être privilégiée lorsqu’elle est possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient ambulatoire sans comorbidité, quelles stratégies thérapeutiques sont conformes au texte ?",
+      "choices": [
+        "En cas de suspicion de pneumocoque, l’amoxicilline est le traitement de première intention.",
+        "En cas de suspicion de germe atypique, un macrolide est proposé en première intention.",
+        "En cas d’échec à 48 heures sous amoxicilline, un macrolide ou une fluoroquinolone antipneumococcique peut être proposé.",
+        "En cas de suspicion de germe atypique, l’amoxicilline-acide clavulanique est toujours le traitement de première intention."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez l’ambulatoire sans comorbidité, l’amoxicilline est privilégiée si suspicion pneumococcique, le macrolide si suspicion de germe atypique. En cas d’échec à 48 h, une adaptation est indiquée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel délai définit une pneumonie comme communautaire lorsqu’elle se révèle après l’admission à l’hôpital ?",
+      "choices": [
+        "Dans les 24 premières heures.",
+        "Dans les 48 premières heures.",
+        "Dans les 72 premières heures.",
+        "Dans les 7 premiers jours."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Une pneumonie est dite communautaire si elle est acquise en milieu extrahospitalier ou se révèle dans les 48 premières heures d’une hospitalisation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’interprétation d’un score CRB65 égal à 0 selon le texte ?",
+      "choices": [
+        "Admission systématique en soins intensifs.",
+        "Hospitalisation conventionnelle obligatoire.",
+        "Traitement ambulatoire possible.",
+        "Antibiothérapie différée jusqu’aux résultats microbiologiques."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Un score CRB65 à 0 autorise un traitement ambulatoire possible, sous réserve du jugement clinique."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la classification du score de Fine/PSI, à quelle classe correspond un score de 91 à 130 ?",
+      "choices": [
+        "Classe II.",
+        "Classe III.",
+        "Classe IV.",
+        "Classe V."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La classe IV correspond à un score PSI de 91 à 130 et est associée à une mortalité élevée."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quel contexte la tomodensitométrie thoracique peut-elle être indiquée selon le texte ?",
+      "choices": [
+        "De manière systématique devant toute toux fébrile.",
+        "En cas de diagnostic difficile ou de maladie pulmonaire sous-jacente.",
+        "Uniquement après confirmation microbiologique.",
+        "Uniquement chez les patients de moins de 60 ans."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La TDM thoracique peut être indiquée en cas de diagnostic difficile ou de maladie pulmonaire sous-jacente."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient âgé ou avec comorbidité sans signe de gravité, quel traitement est cité comme option thérapeutique ?",
+      "choices": [
+        "Amoxicilline-acide clavulanique.",
+        "Macrolide seul obligatoire.",
+        "Aucun antibiotique avant 72 heures.",
+        "Antifongique systématique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Chez le patient âgé ou avec comorbidité sans signe de gravité, les options citées sont amoxicilline-acide clavulanique, ceftriaxone ou fluoroquinolone antipneumococcique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation résume correctement la valeur de la présentation clinico-radiologique dans l’orientation étiologique d’une PAC ?",
+      "choices": [
+        "Elle identifie toujours Streptococcus pneumoniae.",
+        "Elle permet de distinguer avec certitude les germes atypiques des virus.",
+        "Elle n’oriente pas de manière fiable vers un agent causal à elle seule.",
+        "Elle remplace le diagnostic microbiologique dans plus de 90 % des cas."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que la présentation clinico-radiologique seule n’oriente pas de manière fiable vers un agent causal."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient admis en réanimation selon le schéma thérapeutique initial présenté hors facteurs de risque de Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+      "choices": [
+        "La ceftriaxone peut être utilisée comme céphalosporine de 3e génération",
+        "Le cefotaxime peut être utilisé comme céphalosporine de 3e génération",
+        "L’antibiothérapie peut associer un macrolide intraveineux",
+        "Une monothérapie par aminoside est le traitement recommandé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite une céphalosporine de 3e génération, ceftriaxone ou cefotaxime, associée à un macrolide IV ou à une fluoroquinolone IV. La monothérapie par aminoside n’est pas indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs de risque de Pseudomonas aeruginosa sont explicitement cités chez un patient admis en réanimation ?",
+      "choices": [
+        "Dilatation des bronches",
+        "Exacerbation de BPCO",
+        "Immunodépression isolée",
+        "Tabagisme actif isolé"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les facteurs de risque cités sont la dilatation des bronches et l’exacerbation de BPCO. Le tabagisme est cité dans la prévention via le sevrage, pas comme facteur de risque de Pseudomonas dans ce passage."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient admis en réanimation avec facteurs de risque de Pseudomonas aeruginosa, quelles bêta-lactamines sont proposées ?",
+      "choices": [
+        "Pipéracilline-tazobactam",
+        "Céfépime",
+        "Carbapénème",
+        "Amoxicilline seule"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement repose sur une bêta-lactamine antipseudomonas : pipéracilline-tazobactam, céfépime ou carbapénème. L’amoxicilline seule n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’association antibiotique chez le patient admis en réanimation avec facteurs de risque de Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+      "choices": [
+        "Un aminoside est associé pendant 5 jours",
+        "Un macrolide intraveineux peut être associé",
+        "Une fluoroquinolone intraveineuse peut être associée",
+        "L’aminoside doit être poursuivi pendant 14 à 21 jours"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande une bêta-lactamine antipseudomonas associée à un aminoside pendant 5 jours, plus un macrolide IV ou une fluoroquinolone IV."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la légionellose documentée non grave, quels macrolides sont cités comme options thérapeutiques ?",
+      "choices": [
+        "Azithromycine",
+        "Clarithromycine",
+        "Josamycine",
+        "Lévofloxacine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En forme non grave, le texte cite une monothérapie par macrolide : azithromycine, clarithromycine, josamycine, spiramycine ou érythromycine IV. La lévofloxacine est une fluoroquinolone."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une légionellose documentée grave ou chez un patient immunodéprimé, quelles stratégies sont conformes au texte ?",
+      "choices": [
+        "Monothérapie par fluoroquinolone",
+        "Association de deux antibiotiques",
+        "Association possible d’un macrolide et d’une fluoroquinolone",
+        "Durée de traitement de 14 à 21 jours"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte propose soit une monothérapie par fluoroquinolone, soit une association macrolide-fluoroquinolone, pour une durée de 14 à 21 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles fluoroquinolones sont citées dans le traitement de la légionellose grave ou chez l’immunodéprimé ?",
+      "choices": [
+        "Lévofloxacine",
+        "Ofloxacine",
+        "Ciprofloxacine",
+        "Moxifloxacine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les fluoroquinolones citées sont la lévofloxacine, l’ofloxacine et la ciprofloxacine. La moxifloxacine n’est pas mentionnée dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les durées d’antibiothérapie selon l’agent infectieux, quelles propositions sont exactes ?",
+      "choices": [
+        "Pneumocoque : 7 jours",
+        "Staphylocoque : plus de 7 jours",
+        "Pseudomonas aeruginosa : plus de 7 jours",
+        "Bactérie atypique : 10 à 20 jours"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise : pneumocoque 7 jours, staphylocoque ou Pseudomonas aeruginosa plus de 7 jours, bactérie atypique 10 à 20 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments doivent faire adapter la durée de l’antibiothérapie selon le texte ?",
+      "choices": [
+        "L’évolution clinique",
+        "Le terrain",
+        "La gravité",
+        "Les résultats microbiologiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La durée de l’antibiothérapie doit être adaptée à l’évolution clinique, au terrain, à la gravité et aux résultats microbiologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures de prévention sont citées dans le texte ?",
+      "choices": [
+        "Vaccination",
+        "Sevrage tabagique",
+        "Antibiothérapie préventive systématique",
+        "Aminoside préventif chez les patients BPCO"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les mesures préventives citées sont la vaccination et le sevrage tabagique. Aucune antibiothérapie préventive systématique n’est mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la réévaluation thérapeutique mentionnée dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est prévue à 48-72 heures",
+        "Elle concerne le schéma avec céphalosporine de 3e génération associée",
+        "Elle concerne aussi le schéma avec facteurs de risque de Pseudomonas aeruginosa",
+        "Elle est réservée uniquement aux légionelloses documentées"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne une réévaluation à 48-72 heures pour les schémas de réanimation, y compris avec risque de Pseudomonas. Elle n’est pas présentée comme réservée à la légionellose."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une légionellose documentée non grave, quelles propositions sont exactes ?",
+      "choices": [
+        "Le traitement repose sur une monothérapie par macrolide",
+        "La durée est de 8 à 14 jours",
+        "L’érythromycine intraveineuse fait partie des options citées",
+        "Un aminoside pendant 5 jours est systématiquement requis"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme non grave relève d’une monothérapie par macrolide pendant 8 à 14 jours ; l’érythromycine IV est citée. L’aminoside n’est pas requis dans ce cadre."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient de réanimation avec facteurs de risque de Pseudomonas aeruginosa, quelles associations sont compatibles avec le texte ?",
+      "choices": [
+        "Pipéracilline-tazobactam + aminoside 5 jours + macrolide intraveineux",
+        "Céfépime + aminoside 5 jours + fluoroquinolone intraveineuse",
+        "Carbapénème + aminoside 5 jours + macrolide intraveineux",
+        "Ceftriaxone seule sans autre antibiotique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande une bêta-lactamine antipseudomonas, associée à un aminoside pendant 5 jours, plus macrolide IV ou fluoroquinolone IV. La ceftriaxone seule n’est pas conforme."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles différences thérapeutiques entre légionellose non grave et légionellose grave/immunodéprimée sont exactes selon le texte ?",
+      "choices": [
+        "La forme non grave peut être traitée par macrolide seul",
+        "La forme grave peut être traitée par fluoroquinolone seule",
+        "La forme grave peut relever d’une association macrolide-fluoroquinolone",
+        "La forme non grave impose toujours une bithérapie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme non grave relève d’une monothérapie par macrolide. La forme grave ou chez l’immunodéprimé peut relever d’une fluoroquinolone seule ou d’une association macrolide-fluoroquinolone."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle n’est pas citée comme bêta-lactamine antipseudomonas dans le texte ?",
+      "choices": [
+        "Pipéracilline-tazobactam",
+        "Céfépime",
+        "Carbapénème",
+        "Ceftriaxone"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Pour le risque de Pseudomonas aeruginosa, le texte cite pipéracilline-tazobactam, céfépime ou carbapénème. La ceftriaxone est citée dans un autre schéma, mais pas comme bêta-lactamine antipseudomonas."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle durée d’antibiothérapie est indiquée pour une pneumonie à pneumocoque selon le texte ?",
+      "choices": [
+        "5 jours",
+        "7 jours",
+        "10 à 20 jours",
+        "14 à 21 jours"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La durée indiquée pour le pneumocoque est de 7 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée du traitement d’une légionellose documentée non grave selon le texte ?",
+      "choices": [
+        "3 à 5 jours",
+        "5 à 7 jours",
+        "8 à 14 jours",
+        "21 à 28 jours"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La légionellose documentée non grave est traitée par macrolide pendant 8 à 14 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle durée d’administration de l’aminoside est indiquée chez un patient admis en réanimation avec facteurs de risque de Pseudomonas aeruginosa ?",
+      "choices": [
+        "48 heures",
+        "5 jours",
+        "10 jours",
+        "14 à 21 jours"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise une association avec un aminoside pendant 5 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle durée est indiquée pour une légionellose documentée grave ou chez un patient immunodéprimé ?",
+      "choices": [
+        "5 jours",
+        "7 jours",
+        "8 à 14 jours",
+        "14 à 21 jours"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "En cas de forme grave ou chez un patient immunodéprimé, la durée indiquée est de 14 à 21 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à une mesure de prévention explicitement citée ?",
+      "choices": [
+        "Vaccination",
+        "Cefotaxime systématique",
+        "Aminoside prophylactique",
+        "Fluoroquinolone préventive"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les mesures de prévention citées sont la vaccination et le sevrage tabagique. Les antibiotiques préventifs ne sont pas mentionnés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’admission en réanimation au cours d’une pneumonie aiguë communautaire de l’adulte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est indiquée en cas de détresse vitale.",
+        "Elle peut être indiquée en cas de pneumonie grave.",
+        "Les scores d’orientation ne remplacent pas le jugement clinique.",
+        "Elle est exclue si un score d’orientation est bas, quelle que soit la situation clinique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que l’admission en réanimation est indiquée en cas de détresse vitale ou de pneumonie grave, et que les scores ne remplacent pas le jugement clinique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des classes de risque du score de Fine/PSI, quelles propositions sont exactes ?",
+      "choices": [
+        "La classe II correspond à un score ≤ 70 avec mortalité faible.",
+        "La classe III correspond à un score de 71 à 90 avec mortalité faible à modérée.",
+        "La classe IV correspond à une mortalité faible.",
+        "La classe V correspond à un score > 130 avec mortalité très élevée."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La classe IV correspond à une mortalité élevée, et non faible. Les autres propositions reprennent les seuils et niveaux de risque du texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient hospitalisé en médecine pour PAC, quelles modalités thérapeutiques sont conformes au texte ?",
+      "choices": [
+        "Un traitement similaire à celui de l’ambulatoire peut être utilisé selon la gravité et le terrain.",
+        "Une bêta-lactamine orale ou intraveineuse peut être utilisée.",
+        "Un macrolide peut être associé en cas de suspicion de germe atypique.",
+        "Un aminoside est systématiquement requis dès l’hospitalisation en médecine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En hospitalisation conventionnelle, le texte mentionne un traitement similaire à l’ambulatoire selon le contexte, une bêta-lactamine orale ou IV, et l’association à un macrolide si suspicion de germe atypique."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas d’échec d’une bêta-lactamine chez un patient hospitalisé en médecine pour PAC, quelles conduites sont citées ?",
+      "choices": [
+        "Ajouter un macrolide.",
+        "Substituer par une fluoroquinolone antipneumococcique.",
+        "Réévaluer à 48-72 heures.",
+        "Poursuivre obligatoirement la même bêta-lactamine sans modification."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique qu’en cas d’échec d’une bêta-lactamine, on peut ajouter un macrolide ou substituer par une fluoroquinolone antipneumococcique, avec réévaluation à 48-72 heures."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient âgé ou avec comorbidité, sans signe de gravité, quelles cibles microbiologiques sont citées ?",
+      "choices": [
+        "Pneumocoque.",
+        "Staphylocoque.",
+        "Entérobactéries.",
+        "Anaérobies."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Dans ce contexte, le texte cite comme cibles : pneumocoque, staphylocoque, entérobactéries et anaérobies."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient âgé ou avec comorbidité sans signe de gravité, quelles options thérapeutiques sont citées ?",
+      "choices": [
+        "Amoxicilline-acide clavulanique.",
+        "Ceftriaxone.",
+        "Fluoroquinolone antipneumococcique.",
+        "Hospitalisation à envisager selon le terrain et l’évolution."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte propose l’amoxicilline-acide clavulanique, la ceftriaxone ou une fluoroquinolone antipneumococcique, avec hospitalisation à envisager selon le terrain et l’évolution."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tests antigéniques dans le diagnostic microbiologique d’une PAC, quelles propositions sont exactes ?",
+      "choices": [
+        "L’antigénurie Legionella pneumophila sérogroupe 1 est citée.",
+        "L’antigène pneumococcique urinaire est cité.",
+        "L’antigène pneumococcique pleural est cité.",
+        "L’antigénurie Legionella concerne explicitement tous les sérogroupes dans le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’antigénurie Legionella pneumophila sérogroupe 1 et l’antigène pneumococcique urinaire ou pleural. Il ne mentionne pas tous les sérogroupes."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les agents ou groupes d’agents suivants, lesquels sont cités comme cibles possibles de la PCR dans le diagnostic microbiologique d’une PAC ?",
+      "choices": [
+        "Legionella.",
+        "Chlamydiae.",
+        "Bordetella.",
+        "Virus pneumotropes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite la PCR pour Legionella, Chlamydiae, Mycoplasma, Bordetella et les virus pneumotropes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles sérologies sont mentionnées comme pouvant contribuer au diagnostic microbiologique d’une PAC ?",
+      "choices": [
+        "Sérologie des virus.",
+        "Sérologie Legionella.",
+        "Sérologie Coxiella.",
+        "Sérologie Mycoplasma."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les sérologies citées sont : virus, Legionella, Coxiella, Chlamydiae et Mycoplasma."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les prélèvements microbiologiques au cours d’une PAC, quelles propositions sont exactes ?",
+      "choices": [
+        "L’examen cytobactériologique des crachats n’est pas systématique.",
+        "L’aspiration bronchique fait partie des prélèvements bronchiques cités.",
+        "Le lavage bronchoalvéolaire fait partie des prélèvements bronchiques cités.",
+        "Les hémocultures sont citées."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que l’ECBC n’est pas systématique et cite les prélèvements bronchiques, incluant aspiration bronchique et lavage bronchoalvéolaire, ainsi que les hémocultures."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient admis en réanimation pour PAC, quelles cibles microbiologiques sont explicitement citées dans le texte ?",
+      "choices": [
+        "Pneumocoque.",
+        "Legionella pneumophila.",
+        "Entérobactéries.",
+        "Staphylococcus aureus."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Pour le patient admis en réanimation, le texte cite comme cibles : pneumocoque, Legionella pneumophila, entérobactéries et Staphylococcus aureus."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie d’administration des antibiotiques dans la PAC, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie orale doit être privilégiée lorsqu’elle est possible.",
+        "Chez le patient hospitalisé en médecine, une bêta-lactamine orale ou intraveineuse peut être utilisée.",
+        "Chez le patient hospitalisé en médecine, une fluoroquinolone antipneumococcique orale ou intraveineuse est citée comme alternative.",
+        "La voie intraveineuse est obligatoire pour toute PAC, y compris ambulatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte privilégie la voie orale lorsqu’elle est possible et cite, en hospitalisation médicale, les bêta-lactamines et fluoroquinolones antipneumococciques par voie orale ou intraveineuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient ambulatoire sans comorbidité avec suspicion initiale de pneumocoque, quelles conduites sont conformes au texte en cas d’évolution défavorable ?",
+      "choices": [
+        "En cas d’échec à 48 heures, un macrolide peut être utilisé.",
+        "En cas d’échec à 48 heures, une fluoroquinolone antipneumococcique peut être utilisée.",
+        "En cas d’échec à 48 heures, la pristinamycine ou la télithromycine peuvent être utilisées.",
+        "Une hospitalisation est indiquée si un nouvel échec survient."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Dans la suspicion de pneumocoque, après échec à 48 heures, le texte cite macrolide, fluoroquinolone antipneumococcique, pristinamycine ou télithromycine, puis hospitalisation en cas de nouvel échec."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient ambulatoire sans comorbidité avec suspicion de germe atypique, quelles propositions thérapeutiques sont exactes selon le texte ?",
+      "choices": [
+        "La première intention repose sur un macrolide.",
+        "En cas d’échec à 48 heures, l’amoxicilline peut être utilisée.",
+        "En cas d’échec à 48 heures, une fluoroquinolone antipneumococcique peut être utilisée.",
+        "Une hospitalisation est prévue si un nouvel échec survient."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "En cas de suspicion de germe atypique chez un patient ambulatoire sans comorbidité, le texte indique un macrolide en première intention, puis amoxicilline, fluoroquinolone antipneumococcique, pristinamycine ou télithromycine en cas d’échec à 48 heures, avec hospitalisation si nouvel échec."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le score de Fine/PSI, à quelle classe correspond un score de 71 à 90 ?",
+      "choices": [
+        "Classe II.",
+        "Classe III.",
+        "Classe IV.",
+        "Classe V."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Un score de 71 à 90 correspond à la classe III, avec mortalité faible à modérée."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le score de Fine/PSI, quelle classe correspond à un score strictement supérieur à 130 ?",
+      "choices": [
+        "Classe II.",
+        "Classe III.",
+        "Classe IV.",
+        "Classe V."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Un score > 130 correspond à la classe V, associée à une mortalité très élevée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement les seuils de fréquence respiratoire dans le CRB65 et le score de Fine/PSI ?",
+      "choices": [
+        "CRB65 : fréquence respiratoire > 30/min ; PSI : fréquence respiratoire ≥ 30/min.",
+        "CRB65 : fréquence respiratoire ≥ 30/min ; PSI : fréquence respiratoire > 30/min.",
+        "CRB65 : fréquence respiratoire > 20/min ; PSI : fréquence respiratoire ≥ 25/min.",
+        "CRB65 et PSI utilisent tous deux uniquement le seuil > 40/min."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le CRB65 retient une fréquence respiratoire > 30/min, tandis que le PSI retient une fréquence respiratoire ≥ 30/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil thermique fait partie des données cliniques du score de Fine/PSI ?",
+      "choices": [
+        "Température < 35 °C ou ≥ 40 °C.",
+        "Température < 36 °C ou ≥ 38 °C.",
+        "Température ≤ 37 °C ou ≥ 39 °C.",
+        "Température < 34 °C ou ≥ 41 °C."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le PSI prend en compte une température < 35 °C ou ≥ 40 °C."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle proportion le diagnostic bactériologique d’une PAC est-il obtenu selon le texte ?",
+      "choices": [
+        "10 à 20 % des cas.",
+        "30 à 50 % des cas.",
+        "60 à 80 % des cas.",
+        "Plus de 90 % des cas."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique que le diagnostic bactériologique est obtenu dans 30 à 50 % des cas."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’interprétation d’un score CRB65 comportant au moins un critère ?",
+      "choices": [
+        "Traitement ambulatoire obligatoire.",
+        "Hospitalisation à envisager.",
+        "Admission systématique en réanimation.",
+        "Absence de nécessité de réévaluation."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Selon le texte, un score CRB65 ≥ 1 critère impose d’envisager une hospitalisation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la réévaluation après instauration du traitement antibiotique chez les patients admis en réanimation pour pneumonie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est prévue à 48-72 heures dans le schéma avec céphalosporine de 3e génération associée à un macrolide ou une fluoroquinolone intraveineuse.",
+        "Elle est également prévue à 48-72 heures en présence de facteurs de risque de Pseudomonas aeruginosa.",
+        "Elle permet de réapprécier la stratégie après le traitement probabiliste initial.",
+        "Elle est remplacée par un arrêt systématique des antibiotiques au cinquième jour."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne une réévaluation à 48-72 heures dans les schémas de réanimation, avec ou sans facteurs de risque de Pseudomonas aeruginosa. Aucun arrêt systématique au cinquième jour n’est indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient admis en réanimation avec facteurs de risque de Pseudomonas aeruginosa, quels éléments font partie du schéma thérapeutique décrit ?",
+      "choices": [
+        "Une bêta-lactamine antipseudomonas.",
+        "Un aminoside pendant 5 jours.",
+        "Un macrolide intraveineux ou une fluoroquinolone intraveineuse en association.",
+        "Une monothérapie par macrolide pendant 8 à 14 jours."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas de facteurs de risque de Pseudomonas aeruginosa, le traitement associe une bêta-lactamine antipseudomonas, un aminoside pendant 5 jours, et un macrolide IV ou une fluoroquinolone IV. La monothérapie par macrolide 8-14 jours concerne la légionellose documentée non grave."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont explicitement citées comme facteurs de risque de Pseudomonas aeruginosa chez un patient admis en réanimation ?",
+      "choices": [
+        "Dilatation des bronches.",
+        "Exacerbation de BPCO.",
+        "Immunodépression.",
+        "Tabagisme actif isolé."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte cite uniquement la dilatation des bronches et l’exacerbation de BPCO comme facteurs de risque de Pseudomonas aeruginosa dans ce contexte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la légionellose documentée non grave, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le traitement repose sur une monothérapie par macrolide.",
+        "La durée recommandée est de 8 à 14 jours.",
+        "L’azithromycine fait partie des macrolides proposés.",
+        "Le traitement impose une association systématique avec une fluoroquinolone."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La légionellose documentée non grave relève d’une monothérapie par macrolide pendant 8 à 14 jours. L’azithromycine est citée. L’association avec une fluoroquinolone concerne les formes graves ou l’immunodépression comme option."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une légionellose documentée grave ou chez un patient immunodéprimé, quelles modalités thérapeutiques sont citées ?",
+      "choices": [
+        "Monothérapie par fluoroquinolone.",
+        "Association de deux antibiotiques.",
+        "Association possible d’un macrolide et d’une fluoroquinolone.",
+        "Durée de traitement de 7 jours."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les formes graves ou chez l’immunodéprimé, le texte propose une monothérapie par fluoroquinolone ou une association de deux antibiotiques, notamment macrolide et fluoroquinolone. La durée indiquée est de 14 à 21 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles différences entre légionellose documentée non grave et légionellose grave ou sur terrain immunodéprimé sont exactes selon le texte ?",
+      "choices": [
+        "La forme non grave est traitée par monothérapie par macrolide.",
+        "La forme grave ou chez l’immunodéprimé peut être traitée par fluoroquinolone.",
+        "La durée de la forme grave ou chez l’immunodéprimé est de 14 à 21 jours.",
+        "La forme non grave impose toujours deux antibiotiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme non grave est traitée par macrolide seul pendant 8 à 14 jours. Les formes graves ou chez l’immunodéprimé peuvent recevoir une fluoroquinolone, seule ou associée, pendant 14 à 21 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les durées d’antibiothérapie selon l’agent infectieux, quelles associations sont exactes ?",
+      "choices": [
+        "Pneumocoque : 7 jours.",
+        "Staphylocoque : plus de 7 jours.",
+        "Pseudomonas aeruginosa : plus de 7 jours.",
+        "Bactérie atypique : 3 à 5 jours."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique 7 jours pour le pneumocoque, plus de 7 jours pour le staphylocoque ou Pseudomonas aeruginosa, et 10 à 20 jours pour les bactéries atypiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels paramètres doivent faire adapter la durée de l’antibiothérapie d’une pneumonie selon le texte ?",
+      "choices": [
+        "L’évolution clinique.",
+        "Le terrain du patient.",
+        "La gravité.",
+        "Les résultats microbiologiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La durée de l’antibiothérapie doit être adaptée à l’évolution clinique, au terrain, à la gravité et aux résultats microbiologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prévention mentionnée dans le texte, quelles mesures sont citées ?",
+      "choices": [
+        "Vaccination.",
+        "Sevrage tabagique.",
+        "Antibiothérapie préventive systématique.",
+        "Traitement antiviral prolongé."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les seules mesures préventives citées sont la vaccination et le sevrage tabagique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi ces macrolides, lesquels sont cités dans la monothérapie de la légionellose documentée non grave sans être les macrolides retenus pour l’association des formes graves selon le texte ?",
+      "choices": [
+        "Azithromycine.",
+        "Clarithromycine.",
+        "Josamycine.",
+        "Spiramycine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Azithromycine, clarithromycine et josamycine sont citées dans la forme non grave. La spiramycine est aussi citée comme macrolide possible dans l’association des formes graves."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’association antibiotique proposée pour légionellose documentée grave ou chez l’immunodéprimé, quelles molécules sont explicitement citées ?",
+      "choices": [
+        "Spiramycine.",
+        "Érythromycine.",
+        "Ciprofloxacine.",
+        "Azithromycine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pour l’association des formes graves ou chez l’immunodéprimé, les macrolides cités sont spiramycine ou érythromycine, et les fluoroquinolones citées incluent notamment la ciprofloxacine. L’azithromycine est citée dans la forme non grave."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les voies d’administration précisées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Un macrolide intraveineux peut être associé à une céphalosporine de 3e génération dans le schéma de réanimation décrit.",
+        "Une fluoroquinolone intraveineuse peut être utilisée dans le schéma de réanimation décrit.",
+        "L’érythromycine intraveineuse est citée dans la légionellose documentée non grave.",
+        "L’aminoside est proposé en monothérapie dans les situations à risque de Pseudomonas aeruginosa."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne un macrolide IV ou une fluoroquinolone IV dans les schémas de réanimation, et l’érythromycine IV parmi les macrolides de la légionellose non grave. L’aminoside est utilisé en association, non en monothérapie."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les bêta-lactamines suivantes, lesquelles sont citées comme options antipseudomonas dans le texte ?",
+      "choices": [
+        "Pipéracilline-tazobactam.",
+        "Céfépime.",
+        "Carbapénème.",
+        "Ceftriaxone."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les bêta-lactamines antipseudomonas citées sont pipéracilline-tazobactam, céfépime ou carbapénème. La ceftriaxone est citée comme céphalosporine de 3e génération dans un autre schéma."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations les fluoroquinolones sont-elles mentionnées par le texte ?",
+      "choices": [
+        "En association intraveineuse avec une céphalosporine de 3e génération dans le schéma de réanimation décrit.",
+        "En association possible dans le schéma avec facteurs de risque de Pseudomonas aeruginosa.",
+        "En monothérapie possible dans la légionellose documentée grave ou chez l’immunodéprimé.",
+        "Comme traitement obligatoire de toute légionellose documentée non grave."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les fluoroquinolones sont mentionnées dans les schémas de réanimation et dans la légionellose grave ou chez l’immunodéprimé. La légionellose non grave est traitée par macrolide en monothérapie."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les molécules suivantes, laquelle est citée comme céphalosporine de 3e génération dans le schéma de réanimation décrit ?",
+      "choices": [
+        "Cefotaxime.",
+        "Céfépime.",
+        "Pipéracilline-tazobactam.",
+        "Ciprofloxacine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite ceftriaxone ou cefotaxime comme céphalosporines de 3e génération. Le céfépime et la pipéracilline-tazobactam sont cités comme options antipseudomonas."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel macrolide est explicitement cité avec une administration intraveineuse dans la légionellose documentée non grave ?",
+      "choices": [
+        "Azithromycine.",
+        "Clarithromycine.",
+        "Érythromycine.",
+        "Josamycine."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans la légionellose documentée non grave, le texte cite notamment l’érythromycine intraveineuse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle durée est indiquée pour le traitement d’une légionellose documentée grave ou chez un patient immunodéprimé ?",
+      "choices": [
+        "5 jours.",
+        "7 jours.",
+        "8 à 14 jours.",
+        "14 à 21 jours."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Pour la légionellose documentée grave ou chez l’immunodéprimé, la durée indiquée est de 14 à 21 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à un facteur de risque de Pseudomonas aeruginosa explicitement cité ?",
+      "choices": [
+        "Exacerbation de BPCO.",
+        "Fièvre isolée.",
+        "Pneumocoque documenté.",
+        "Bactérie atypique suspectée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les facteurs de risque cités sont la dilatation des bronches et l’exacerbation de BPCO."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle durée d’antibiothérapie est indiquée pour une pneumonie à staphylocoque ou à Pseudomonas aeruginosa ?",
+      "choices": [
+        "3 jours.",
+        "5 jours exactement.",
+        "7 jours exactement.",
+        "Plus de 7 jours."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte indique une durée supérieure à 7 jours pour les pneumonies à staphylocoque ou à Pseudomonas aeruginosa."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les molécules suivantes, laquelle est une fluoroquinolone citée dans la prise en charge d’une légionellose documentée grave ou chez l’immunodéprimé ?",
+      "choices": [
+        "Lévofloxacine.",
+        "Spiramycine.",
+        "Azithromycine.",
+        "Ceftriaxone."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les fluoroquinolones citées dans ce contexte sont lévofloxacine, ofloxacine ou ciprofloxacine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les limites de l’identification étiologique initiale au cours d’une pneumonie aiguë communautaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il n’existe pas de critères clinico-radiologiques ou biologiques spécifiques d’un agent déterminé.",
+        "Le diagnostic bactériologique est obtenu dans 30 à 50 % des cas.",
+        "Le traitement initial est probabiliste.",
+        "La présentation clinico-radiologique seule n’oriente pas de manière fiable vers un agent causal."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte insiste sur l’absence de spécificité clinico-radiologique ou biologique, le faible rendement bactériologique global et la nécessité d’un traitement probabiliste initial."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les manifestations suivantes, lesquelles sont citées comme signes extra-thoraciques possibles d’une pneumonie aiguë communautaire ?",
+      "choices": [
+        "Myalgies.",
+        "Troubles digestifs.",
+        "Troubles neurologiques.",
+        "Hippocratisme digital."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les signes extra-thoraciques possibles cités sont les myalgies, les troubles digestifs et les troubles neurologiques. L’hippocratisme digital n’est pas mentionné."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des aspects radiographiques pouvant être observés dans une pneumonie aiguë communautaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Une opacité alvéolaire systématisée ou multiple peut être observée.",
+        "Une condensation alvéolaire peut être lobaire ou systématisée.",
+        "Un bronchogramme aérien peut être présent.",
+        "Un pneumothorax est cité comme aspect radiologique de référence."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les opacités alvéolaires, la condensation souvent lobaire ou systématisée et le bronchogramme aérien. Le pneumothorax n’est pas cité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tomodensitométrie thoracique dans la pneumonie aiguë communautaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être indiquée en cas de diagnostic difficile.",
+        "Elle peut être indiquée en cas de maladie pulmonaire sous-jacente.",
+        "Elle remplace systématiquement la radiographie thoracique comme examen de référence.",
+        "Elle est obligatoire avant toute antibiothérapie probabiliste."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La TDM thoracique est indiquée dans certaines situations : diagnostic difficile ou maladie pulmonaire sous-jacente. La radiographie thoracique reste l’examen de référence."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les seuils utilisés dans les scores d’orientation d’une pneumonie aiguë communautaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le score CRB65 retient une fréquence respiratoire strictement supérieure à 30/min.",
+        "Le score de Fine/PSI retient une fréquence respiratoire supérieure ou égale à 30/min.",
+        "Une pression artérielle systolique inférieure à 90 mmHg est retenue dans le CRB65 et dans le score de Fine/PSI.",
+        "L’âge supérieur à 65 ans est un critère chiffré du score de Fine/PSI."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le CRB65 utilise FR > 30/min, alors que le PSI utilise FR ≥ 30/min. Les deux intègrent une PAS < 90 mmHg. Dans le PSI, l’âge est pris en compte, mais le texte ne donne pas le seuil > 65 ans comme critère chiffré du PSI."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le score de Fine/PSI, quels facteurs généraux non directement cliniques sont pris en compte selon le texte ?",
+      "choices": [
+        "Âge.",
+        "Sexe.",
+        "Vie en institution.",
+        "Statut vaccinal antipneumococcique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le score de Fine/PSI prend en compte l’âge, le sexe et la vie en institution. Le statut vaccinal n’est pas cité."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les comorbidités suivantes, lesquelles sont explicitement intégrées au score de Fine/PSI ?",
+      "choices": [
+        "Néoplasie.",
+        "Hépatopathie.",
+        "Insuffisance cardiaque congestive.",
+        "Maladie rénale."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les comorbidités citées dans le PSI comprennent la néoplasie, l’hépatopathie, l’insuffisance cardiaque congestive, la maladie cérébrovasculaire et la maladie rénale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les éléments d’orientation étiologique selon le terrain, quelles associations sont exactes ?",
+      "choices": [
+        "Pathologie pulmonaire chronique : bacilles Gram négatif, voire Pseudomonas aeruginosa.",
+        "Atteinte neurologique : pneumonie d’inhalation à anaérobies.",
+        "Forme sévère : Streptococcus pneumoniae ou bacilles Gram négatif.",
+        "Atteinte hépatique ou alcoolisme : Streptococcus pneumoniae plus probable."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces associations terrain-agent étiologique sont toutes citées comme éléments d’orientation, sans valeur de certitude diagnostique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les agents suivants, lesquels figurent dans la liste des agents étiologiques fréquents de pneumonie aiguë communautaire ?",
+      "choices": [
+        "Staphylococcus aureus.",
+        "Virus respiratoires.",
+        "Anaérobies en cas d’inhalation.",
+        "Coxiella burnetii."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Staphylococcus aureus, les virus respiratoires et les anaérobies en cas d’inhalation sont cités parmi les agents fréquents. Coxiella est citée dans les sérologies, pas dans la liste des agents fréquents."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les prélèvements et examens microbiologiques pouvant être utilisés dans une pneumonie aiguë communautaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’examen cytobactériologique des crachats n’est pas systématique.",
+        "L’aspiration bronchique fait partie des prélèvements bronchiques cités.",
+        "Le lavage bronchoalvéolaire fait partie des prélèvements bronchiques cités.",
+        "Les hémocultures sont mentionnées."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que l’ECBC n’est pas systématique et cite les prélèvements bronchiques, dont l’aspiration bronchique et le lavage bronchoalvéolaire, ainsi que les hémocultures."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles sérologies sont mentionnées comme pouvant contribuer au diagnostic microbiologique d’une pneumonie aiguë communautaire ?",
+      "choices": [
+        "Sérologie des virus.",
+        "Sérologie Legionella.",
+        "Sérologie Coxiella.",
+        "Sérologie Mycoplasma."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les sérologies citées sont : virus, Legionella, Coxiella, Chlamydiae et Mycoplasma."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient ambulatoire sans comorbidité avec suspicion de pneumocoque, quelles molécules sont citées comme alternative en cas d’allergie ou comme option alternative ?",
+      "choices": [
+        "Macrolide.",
+        "Pristinamycine.",
+        "Télithromycine.",
+        "Fluoroquinolone antipneumococcique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "En cas d’allergie ou comme alternative à l’amoxicilline, le texte cite macrolide, pristinamycine, télithromycine ou fluoroquinolone antipneumococcique."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient âgé ou avec comorbidité, sans signe de gravité, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les cibles incluent le pneumocoque, le staphylocoque, les entérobactéries et les anaérobies.",
+        "L’amoxicilline-acide clavulanique est une option thérapeutique.",
+        "La ceftriaxone est une option thérapeutique.",
+        "L’hospitalisation peut être envisagée selon le terrain et l’évolution."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise ces cibles microbiologiques et cite l’amoxicilline-acide clavulanique, la ceftriaxone ou une fluoroquinolone antipneumococcique, avec hospitalisation à envisager selon le terrain et l’évolution."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient hospitalisé en médecine pour pneumonie aiguë communautaire, quelles modalités sont citées ?",
+      "choices": [
+        "Une bêta-lactamine peut être administrée par voie orale ou intraveineuse.",
+        "Un macrolide peut être associé en cas de suspicion de germe atypique.",
+        "Une fluoroquinolone antipneumococcique orale ou intraveineuse peut constituer une alternative.",
+        "Une réévaluation à 48-72 heures est nécessaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le traitement en médecine repose sur l’adaptation à la gravité et au terrain : bêta-lactamine orale ou IV, association possible à un macrolide, alternative par fluoroquinolone antipneumococcique, et réévaluation à 48-72 heures."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les signes suivants, lequel est explicitement cité comme symptôme respiratoire de pneumonie aiguë communautaire ?",
+      "choices": [
+        "Hémoptysie.",
+        "Toux.",
+        "Sibilants diffus.",
+        "Hippocratisme digital."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La toux fait partie des symptômes respiratoires cités, avec expectoration, dyspnée, douleur pleurale, râles bronchiques ou ronchi."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle ne fait pas partie des critères du score CRB65 selon le texte ?",
+      "choices": [
+        "Confusion mentale.",
+        "Fréquence respiratoire > 30/min.",
+        "Saturation en oxygène < 90 %.",
+        "Pression artérielle systolique < 90 mmHg."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le score CRB65 comprend confusion, FR > 30/min, PAS < 90 mmHg et âge > 65 ans. La saturation en oxygène n’est pas citée dans ce score."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la classification du score de Fine/PSI présentée, à quelle classe correspond un score inférieur ou égal à 70 ?",
+      "choices": [
+        "Classe I.",
+        "Classe II.",
+        "Classe III.",
+        "Classe IV."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique : classe II pour un score ≤ 70, associée à une mortalité faible."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un adulte de moins de 60 ans, quel agent bactérien est indiqué comme plus probable selon les éléments d’orientation étiologique ?",
+      "choices": [
+        "Mycoplasma pneumoniae.",
+        "Staphylococcus aureus.",
+        "Pseudomonas aeruginosa.",
+        "Anaérobies."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Chez un sujet de moins de 60 ans, une infection virale ou à Mycoplasma pneumoniae est indiquée comme plus probable."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient ambulatoire sans comorbidité avec suspicion de germe atypique, quel traitement est indiqué en première intention ?",
+      "choices": [
+        "Amoxicilline.",
+        "Macrolide.",
+        "Ceftriaxone.",
+        "Aminoside."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En cas de suspicion de germe atypique chez un patient ambulatoire sans comorbidité, le traitement de première intention cité est un macrolide."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon les principes de l’antibiothérapie probabiliste d’une pneumonie aiguë communautaire, quelle voie d’administration doit être privilégiée lorsqu’elle est possible ?",
+      "choices": [
+        "Voie intramusculaire.",
+        "Voie orale.",
+        "Voie intra-artérielle.",
+        "Voie intrathécale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que la voie orale doit être privilégiée lorsqu’elle est possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les schémas thérapeutiques de réanimation décrits, quels éléments sont communs aux situations avec et sans facteurs de risque de Pseudomonas aeruginosa ?",
+      "choices": [
+        "Une réévaluation à 48-72 heures est prévue",
+        "Une association à un macrolide intraveineux ou à une fluoroquinolone intraveineuse peut être utilisée",
+        "Un aminoside pendant 5 jours est systématiquement mentionné dans les deux situations",
+        "La ceftriaxone ou le cefotaxime sont les bêta-lactamines de référence dans les deux situations"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La réévaluation à 48-72 heures et l’association possible à un macrolide IV ou à une fluoroquinolone IV sont communes. L’aminoside 5 jours et les bêta-lactamines antipseudomonas concernent la situation avec risque de Pseudomonas."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient admis en réanimation avec facteurs de risque de Pseudomonas aeruginosa, quels éléments appartiennent spécifiquement au schéma décrit ?",
+      "choices": [
+        "La présence d’une dilatation des bronches est un facteur de risque retenu",
+        "Une bêta-lactamine antipseudomonas est indiquée",
+        "L’association comprend un aminoside pendant 5 jours",
+        "La céphalosporine de 3e génération ceftriaxone est l’option antipseudomonas citée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs de risque cités sont la dilatation des bronches et l’exacerbation de BPCO. Le traitement repose sur une bêta-lactamine antipseudomonas associée notamment à un aminoside 5 jours. La ceftriaxone n’est pas citée comme bêta-lactamine antipseudomonas."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre molécule et contexte thérapeutique sont conformes au texte ?",
+      "choices": [
+        "Cefotaxime : schéma de réanimation sans facteurs de risque de Pseudomonas aeruginosa",
+        "Pipéracilline-tazobactam : schéma de réanimation avec facteurs de risque de Pseudomonas aeruginosa",
+        "Céfépime : bêta-lactamine antipseudomonas citée",
+        "Carbapénème : option du schéma sans facteurs de risque de Pseudomonas aeruginosa"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Cefotaxime et ceftriaxone sont cités dans le schéma avec céphalosporine de 3e génération. Pipéracilline-tazobactam, céfépime et carbapénème sont cités dans le schéma antipseudomonas."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les voies d’administration explicitement précisées, quelles propositions sont exactes ?",
+      "choices": [
+        "Le macrolide associé en réanimation est mentionné comme intraveineux",
+        "La fluoroquinolone associée en réanimation est mentionnée comme intraveineuse",
+        "L’érythromycine est citée comme intraveineuse dans la légionellose documentée non grave",
+        "La voie intraveineuse est explicitement exigée pour toutes les bêta-lactamines antipseudomonas citées"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise macrolide IV ou fluoroquinolone IV en réanimation, et érythromycine IV dans les formes non graves de légionellose. Il ne précise pas explicitement la voie pour toutes les bêta-lactamines antipseudomonas."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les macrolides cités dans la légionellose documentée non grave, lesquels ne sont pas repris comme macrolides de l’association proposée dans les formes graves ou chez l’immunodéprimé ?",
+      "choices": [
+        "Azithromycine",
+        "Clarithromycine",
+        "Josamycine",
+        "Spiramycine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’association des formes graves ou chez l’immunodéprimé, les macrolides cités sont spiramycine ou érythromycine. Azithromycine, clarithromycine et josamycine sont citées pour la forme non grave."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la légionellose documentée grave ou chez un patient immunodéprimé, quels couples correspondent à l’association de deux antibiotiques décrite ?",
+      "choices": [
+        "Spiramycine + lévofloxacine",
+        "Érythromycine + ofloxacine",
+        "Spiramycine + ciprofloxacine",
+        "Clarithromycine + lévofloxacine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’association repose sur un macrolide parmi spiramycine ou érythromycine, et une fluoroquinolone parmi lévofloxacine, ofloxacine ou ciprofloxacine. La clarithromycine n’est pas citée dans cette association."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour une légionellose documentée grave ou sur terrain immunodéprimé, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Une monothérapie par fluoroquinolone peut être proposée",
+        "Une association de deux antibiotiques peut être proposée",
+        "La durée indiquée est de 14 à 21 jours",
+        "La monothérapie par macrolide pendant 8 à 14 jours est le schéma de référence de cette situation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les formes graves ou chez l’immunodéprimé relèvent d’une fluoroquinolone seule ou d’une association macrolide-fluoroquinolone, pour 14 à 21 jours. La monothérapie par macrolide 8 à 14 jours concerne la forme non grave."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles correspondances entre agent infectieux et durée d’antibiothérapie sont exactes ?",
+      "choices": [
+        "Pneumocoque : 7 jours",
+        "Staphylocoque : plus de 7 jours",
+        "Pseudomonas aeruginosa : plus de 7 jours",
+        "Bactérie atypique : 3 à 5 jours"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique 7 jours pour le pneumocoque, plus de 7 jours pour staphylocoque ou Pseudomonas aeruginosa, et 10 à 20 jours pour une bactérie atypique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels paramètres doivent intervenir dans l’adaptation de la durée de l’antibiothérapie ?",
+      "choices": [
+        "L’évolution clinique",
+        "Le terrain du patient",
+        "La gravité",
+        "Les résultats microbiologiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La durée doit être adaptée à l’évolution clinique, au terrain, à la gravité et aux résultats microbiologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les durées liées aux bactéries atypiques et à la légionellose documentée, quelles propositions sont exactes ?",
+      "choices": [
+        "Une bactérie atypique relève d’une durée de 10 à 20 jours",
+        "Une légionellose documentée non grave relève d’un macrolide pendant 8 à 14 jours",
+        "Une légionellose documentée grave relève d’une durée de 14 à 21 jours",
+        "Toute bactérie atypique impose une durée fixe de 8 jours"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les bactéries atypiques relèvent de 10 à 20 jours. La légionellose non grave est traitée par macrolide 8 à 14 jours, tandis que les formes graves ou chez l’immunodéprimé durent 14 à 21 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles fluoroquinolones sont citées dans l’association thérapeutique de la légionellose documentée grave ou chez l’immunodéprimé ?",
+      "choices": [
+        "Lévofloxacine",
+        "Ofloxacine",
+        "Ciprofloxacine",
+        "Céfépime"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les fluoroquinolones citées dans cette association sont lévofloxacine, ofloxacine et ciprofloxacine. Le céfépime est une bêta-lactamine antipseudomonas, non une fluoroquinolone."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels macrolides sont à la fois cités dans la légionellose documentée non grave et utilisables dans l’association des formes graves ou chez l’immunodéprimé ?",
+      "choices": [
+        "Spiramycine",
+        "Érythromycine",
+        "Azithromycine",
+        "Josamycine"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La spiramycine et l’érythromycine figurent dans les deux parties. L’azithromycine et la josamycine sont citées dans la forme non grave mais pas dans l’association des formes graves."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la réévaluation à 48-72 heures, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est mentionnée après le schéma de réanimation avec céphalosporine de 3e génération",
+        "Elle est mentionnée après le schéma de réanimation avec facteurs de risque de Pseudomonas aeruginosa",
+        "Elle est présentée comme une règle spécifique de prévention",
+        "Elle est indiquée comme durée totale du traitement de la légionellose non grave"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La réévaluation à 48-72 heures est indiquée dans les schémas de réanimation, avec ou sans facteurs de risque de Pseudomonas. Elle ne correspond ni à une mesure de prévention ni à une durée de traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels relèvent de la prévention selon le texte ?",
+      "choices": [
+        "Vaccination",
+        "Sevrage tabagique",
+        "Aminoside pendant 5 jours",
+        "Association macrolide-fluoroquinolone"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les seules mesures de prévention citées sont la vaccination et le sevrage tabagique. Les associations antibiotiques relèvent du traitement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond au traitement d’une légionellose documentée non grave ?",
+      "choices": [
+        "Monothérapie par macrolide pendant 8 à 14 jours",
+        "Association systématique macrolide-aminoside pendant 5 jours",
+        "Bêta-lactamine antipseudomonas pendant plus de 7 jours",
+        "Monothérapie par fluoroquinolone pendant 14 à 21 jours"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La forme non grave de légionellose documentée relève d’une monothérapie par macrolide pendant 8 à 14 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient admis en réanimation avec dilatation des bronches, quelle bêta-lactamine est conforme au schéma avec risque de Pseudomonas aeruginosa ?",
+      "choices": [
+        "Pipéracilline-tazobactam",
+        "Ceftriaxone",
+        "Cefotaxime",
+        "Azithromycine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La dilatation des bronches est un facteur de risque de Pseudomonas aeruginosa. Le texte cite notamment pipéracilline-tazobactam comme bêta-lactamine antipseudomonas."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le schéma de réanimation sans facteurs de risque de Pseudomonas aeruginosa, quelle paire de céphalosporines de 3e génération est citée ?",
+      "choices": [
+        "Ceftriaxone ou cefotaxime",
+        "Céfépime ou carbapénème",
+        "Ceftriaxone ou pipéracilline-tazobactam",
+        "Cefotaxime ou ciprofloxacine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite une céphalosporine de 3e génération, ceftriaxone ou cefotaxime, associée à un macrolide IV ou à une fluoroquinolone IV."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple antibiotique est conforme à l’association proposée dans la légionellose documentée grave ou chez l’immunodéprimé ?",
+      "choices": [
+        "Érythromycine + ciprofloxacine",
+        "Clarithromycine + lévofloxacine",
+        "Josamycine + ofloxacine",
+        "Spiramycine + azithromycine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans les formes graves ou chez l’immunodéprimé, l’association comprend un macrolide parmi spiramycine ou érythromycine et une fluoroquinolone parmi lévofloxacine, ofloxacine ou ciprofloxacine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle durée d’antibiothérapie est indiquée pour une pneumonie à staphylocoque ou à Pseudomonas aeruginosa ?",
+      "choices": [
+        "Exactement 7 jours",
+        "Plus de 7 jours",
+        "8 à 14 jours",
+        "14 à 21 jours uniquement"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique une durée supérieure à 7 jours pour staphylocoque ou Pseudomonas aeruginosa."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel binôme reprend intégralement les mesures de prévention citées ?",
+      "choices": [
+        "Vaccination et sevrage tabagique",
+        "Vaccination et aminoside pendant 5 jours",
+        "Sevrage tabagique et macrolide intraveineux",
+        "Fluoroquinolone intraveineuse et vaccination"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les mesures de prévention citées sont la vaccination et le sevrage tabagique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les manifestations suivantes, lesquelles relèvent de l’altération de l’état général dans la PAC selon le texte ?",
+      "choices": [
+        "Fièvre",
+        "Asthénie",
+        "Douleur pleurale",
+        "Myalgies"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’altération de l’état général comprend la fièvre et l’asthénie. La douleur pleurale est un symptôme respiratoire et les myalgies sont des signes extra-thoraciques possibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le caractère conditionnel ou non systématique de certaines démarches dans la PAC, quelles propositions sont exactes ?",
+      "choices": [
+        "L’examen cytobactériologique des crachats n’est pas systématique",
+        "La tomodensitométrie thoracique peut être indiquée en cas de diagnostic difficile",
+        "Chez le patient âgé ou avec comorbidité sans gravité, l’hospitalisation peut être envisagée selon le terrain et l’évolution",
+        "L’antibiothérapie doit être différée jusqu’à l’obtention du diagnostic bactériologique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ECBC est non systématique, la TDM est réservée à certaines situations, et l’hospitalisation dépend du terrain et de l’évolution. Le traitement initial est probabiliste et ne doit pas attendre l’identification bactériologique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des atteintes interstitielles au cours d’une PAC, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Des images interstitielles peuvent être observées à la radiographie thoracique",
+        "L’atteinte peut être bilatérale en cas de pneumonie interstitielle",
+        "Le bronchogramme aérien définit spécifiquement une atteinte interstitielle",
+        "L’abcès pulmonaire constitue la forme habituelle d’une pneumonie interstitielle"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte cite les images interstitielles et précise que l’atteinte peut être bilatérale en cas de pneumonie interstitielle. Le bronchogramme aérien est un signe radiologique possible mais non spécifique de l’interstitiel ; l’abcès est une complication."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont pris en compte par le score de Fine/PSI mais ne font pas partie du score CRB65 ?",
+      "choices": [
+        "Le sexe",
+        "La vie en institution",
+        "Une fréquence cardiaque ≥ 125/min",
+        "Une néoplasie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le score de Fine/PSI intègre notamment le sexe, la vie en institution, certaines comorbidités comme la néoplasie et des données cliniques comme la fréquence cardiaque. Ces éléments ne figurent pas dans le CRB65."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels paramètres sont communs, sous une forme proche, au score CRB65 et au score de Fine/PSI ?",
+      "choices": [
+        "L’âge",
+        "La pression artérielle systolique < 90 mmHg",
+        "La fréquence respiratoire autour de 30/min",
+        "La température corporelle"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’âge, l’hypotension systolique et la fréquence respiratoire sont pris en compte dans les deux scores. La température corporelle est intégrée au score de Fine/PSI mais pas au CRB65."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les éléments d’orientation étiologique selon le terrain ou la sévérité, quelles propositions sont exactes ?",
+      "choices": [
+        "Une forme sévère oriente vers Streptococcus pneumoniae ou des bacilles Gram négatif",
+        "Une pathologie pulmonaire chronique oriente vers des bacilles Gram négatif, voire Pseudomonas aeruginosa",
+        "Une atteinte neurologique oriente vers une pneumonie d’inhalation à anaérobies",
+        "L’alcoolisme oriente préférentiellement vers Legionella pneumophila"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les formes sévères évoquent le pneumocoque ou des bacilles Gram négatif ; la pathologie pulmonaire chronique peut évoquer Pseudomonas ; l’atteinte neurologique évoque l’inhalation à anaérobies. L’atteinte hépatique ou l’alcoolisme orientent vers Streptococcus pneumoniae."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les agents suivants, lesquels figurent dans la liste des agents étiologiques fréquents de PAC ?",
+      "choices": [
+        "Anaérobies en cas d’inhalation",
+        "Virus respiratoires",
+        "Staphylococcus aureus",
+        "Coxiella"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les agents fréquents cités comprennent les virus respiratoires, Staphylococcus aureus et les anaérobies en cas d’inhalation. Coxiella est citée dans les sérologies, mais pas dans la liste des agents fréquents."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations examen-agent sont conformes au diagnostic microbiologique décrit ?",
+      "choices": [
+        "Antigénurie Legionella pneumophila sérogroupe 1",
+        "Antigène pneumococcique urinaire ou pleural",
+        "Sérologie Coxiella",
+        "PCR Bordetella"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces associations sont explicitement citées dans le texte parmi les outils microbiologiques possibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels prélèvements sont spécifiquement cités comme prélèvements bronchiques dans le diagnostic microbiologique de la PAC ?",
+      "choices": [
+        "Aspiration bronchique",
+        "Lavage bronchoalvéolaire",
+        "Hémocultures",
+        "Antigénurie"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les prélèvements bronchiques cités sont l’aspiration bronchique et le lavage bronchoalvéolaire. Les hémocultures et l’antigénurie sont d’autres examens microbiologiques, non des prélèvements bronchiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quels contextes une fluoroquinolone antipneumococcique est-elle citée comme option thérapeutique ?",
+      "choices": [
+        "Alternative en cas d’allergie ou d’alternative chez l’ambulatoire sans comorbidité avec suspicion de pneumocoque",
+        "Option en cas d’échec à 48 heures chez l’ambulatoire sans comorbidité avec suspicion de germe atypique",
+        "Traitement possible chez le patient âgé ou avec comorbidité sans signe de gravité",
+        "Alternative orale ou intraveineuse chez le patient hospitalisé en médecine"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La fluoroquinolone antipneumococcique est citée dans ces différents contextes thérapeutiques, selon le terrain, l’évolution et le lieu de prise en charge."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels usages des macrolides sont explicitement mentionnés dans la prise en charge thérapeutique ?",
+      "choices": [
+        "Alternative en cas d’allergie ou d’alternative chez un ambulatoire sans comorbidité avec suspicion de pneumocoque",
+        "Option en cas d’échec à 48 heures après amoxicilline dans une suspicion de pneumocoque",
+        "Première intention chez un ambulatoire sans comorbidité avec suspicion de germe atypique",
+        "Association à une bêta-lactamine chez un patient hospitalisé en médecine en cas de suspicion de germe atypique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les macrolides dans toutes ces situations : alternative, relais après échec, première intention pour germe atypique et association en hospitalisation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations font envisager une hospitalisation selon les éléments du texte ?",
+      "choices": [
+        "Un nouvel échec thérapeutique chez un ambulatoire sans comorbidité traité initialement pour suspicion de pneumocoque",
+        "Un nouvel échec thérapeutique chez un ambulatoire sans comorbidité traité initialement pour suspicion de germe atypique",
+        "La présence d’au moins un critère CRB65",
+        "Un score CRB65 égal à 0 dans tous les cas"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hospitalisation est à envisager en cas de nouvel échec ou si le CRB65 comporte au moins un critère. Un CRB65 à 0 autorise un traitement ambulatoire possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cibles microbiologiques selon le contexte de prise en charge, quelles propositions sont exactes ?",
+      "choices": [
+        "En réanimation, les cibles citées comprennent le pneumocoque, Legionella pneumophila, les entérobactéries et Staphylococcus aureus",
+        "Chez le patient âgé ou avec comorbidité sans gravité, les cibles citées comprennent le pneumocoque, le staphylocoque, les entérobactéries et les anaérobies",
+        "Chez l’ambulatoire sans comorbidité avec suspicion de germe atypique, l’amoxicilline est citée en première intention",
+        "L’antibiothérapie probabiliste doit couvrir les germes les plus fréquents, en particulier Streptococcus pneumoniae"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les cibles varient selon le contexte, avec une couverture prioritaire du pneumocoque. En suspicion de germe atypique chez l’ambulatoire sans comorbidité, le traitement de première intention est un macrolide, non l’amoxicilline."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions traduisent les limites de l’identification étiologique initiale dans la PAC ?",
+      "choices": [
+        "Le diagnostic bactériologique n’est obtenu que dans 30 à 50 % des cas",
+        "L’examen cytobactériologique des crachats n’est pas systématique",
+        "Il n’existe pas de critères clinico-radiologiques ou biologiques spécifiques d’un agent déterminé",
+        "La présentation clinico-radiologique seule permet une identification fiable de l’agent causal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’identification étiologique initiale est limitée par le rendement microbiologique incomplet, l’absence de spécificité clinico-radio-biologique et le caractère non systématique de certains examens. La présentation seule n’est pas fiable."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel délai idéal d’instauration de l’antibiothérapie est indiqué après le diagnostic de PAC ?",
+      "choices": [
+        "Dans les 2 heures",
+        "Dans les 4 heures",
+        "Dans les 12 heures",
+        "Après confirmation microbiologique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le traitement antibiotique doit être instauré dès le diagnostic, idéalement dans les 4 heures."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent est ciblé par l’antigénurie explicitement décrite avec précision de sérogroupe ?",
+      "choices": [
+        "Streptococcus pneumoniae",
+        "Legionella pneumophila sérogroupe 1",
+        "Mycoplasma pneumoniae",
+        "Staphylococcus aureus"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte cite l’antigénurie Legionella pneumophila sérogroupe 1."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les comorbidités suivantes, laquelle n’est pas listée comme comorbidité du score de Fine/PSI dans le texte ?",
+      "choices": [
+        "Néoplasie",
+        "Hépatopathie",
+        "Insuffisance cardiaque congestive",
+        "Pathologie pulmonaire chronique"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le score de Fine/PSI cité inclut néoplasie, hépatopathie, insuffisance cardiaque congestive, maladie cérébrovasculaire et maladie rénale. La pathologie pulmonaire chronique est citée comme élément d’orientation étiologique, pas comme comorbidité du PSI dans ce texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient âgé ou avec comorbidité sans signe de gravité, quelle cible n’est pas citée dans le texte ?",
+      "choices": [
+        "Pneumocoque",
+        "Staphylocoque",
+        "Entérobactéries",
+        "Legionella pneumophila"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Dans ce contexte, les cibles citées sont pneumocoque, staphylocoque, entérobactéries et anaérobies. Legionella pneumophila n’est pas listée dans cette rubrique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent est cité comme cible de PCR sans figurer dans la liste des agents étiologiques fréquents de PAC ?",
+      "choices": [
+        "Bordetella",
+        "Streptococcus pneumoniae",
+        "Staphylococcus aureus",
+        "Anaérobies"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Bordetella est citée parmi les cibles de PCR, mais ne figure pas dans la liste des agents étiologiques fréquents fournie dans le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est cité parmi les signes respiratoires de PAC ?",
+      "choices": [
+        "Ronchi",
+        "Asthénie",
+        "Myalgies",
+        "Troubles digestifs"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les ronchi font partie des signes respiratoires cités, avec notamment la toux, l’expectoration, la dyspnée, la douleur pleurale et les râles bronchiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient admis en réanimation sans facteur de risque de Pseudomonas aeruginosa, quelles propositions sont conformes au schéma thérapeutique décrit ?",
+      "choices": [
+        "Une céphalosporine de 3e génération peut être la ceftriaxone ou le cefotaxime.",
+        "La céphalosporine de 3e génération est associée à un macrolide intraveineux ou à une fluoroquinolone intraveineuse.",
+        "Un aminoside pendant 5 jours est systématiquement associé.",
+        "Une réévaluation est prévue à 48-72 heures."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Sans facteur de risque de Pseudomonas aeruginosa, le texte propose ceftriaxone ou cefotaxime associée à un macrolide IV ou une fluoroquinolone IV, avec réévaluation à 48-72 heures. L’aminoside pendant 5 jours concerne le schéma avec facteur de risque de Pseudomonas."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient admis en réanimation avec facteur de risque de Pseudomonas aeruginosa, quelles prescriptions sont non conformes au schéma décrit ?",
+      "choices": [
+        "Piperacilline-tazobactam seule, sans aminoside ni macrolide ou fluoroquinolone intraveineuse.",
+        "Céfépime associé à un aminoside pendant 5 jours et à une fluoroquinolone intraveineuse.",
+        "Carbapénème associé à un aminoside pendant 5 jours et à un macrolide intraveineux.",
+        "Ceftriaxone associée uniquement à un macrolide intraveineux."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "explanation": "En présence d’un facteur de risque de Pseudomonas, le texte indique une bêta-lactamine antipseudomonas avec aminoside 5 jours et macrolide IV ou fluoroquinolone IV. La piperacilline-tazobactam seule et l’association ceftriaxone + macrolide IV ne respectent pas ce schéma."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la légionellose documentée non grave, quelles prescriptions respectent à la fois la classe, la molécule et la durée indiquées ?",
+      "choices": [
+        "Azithromycine pendant 8 à 14 jours.",
+        "Clarithromycine pendant 14 à 21 jours.",
+        "Josamycine pendant 8 à 14 jours.",
+        "Érythromycine intraveineuse pendant 8 à 14 jours."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La forme non grave relève d’une monothérapie par macrolide pendant 8 à 14 jours : azithromycine, clarithromycine, josamycine, spiramycine ou érythromycine IV. La durée 14 à 21 jours correspond aux formes graves ou à l’immunodépression."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la légionellose documentée grave ou sur terrain immunodéprimé, quelles propositions sont exactes ?",
+      "choices": [
+        "Une monothérapie par fluoroquinolone est possible.",
+        "Une association de deux antibiotiques peut être proposée.",
+        "L’association repose sur un macrolide limité à l’azithromycine ou à la clarithromycine.",
+        "Les fluoroquinolones citées dans l’association sont la lévofloxacine, l’ofloxacine ou la ciprofloxacine."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Dans les formes graves ou chez l’immunodéprimé, le texte mentionne soit une monothérapie par fluoroquinolone, soit une association de deux antibiotiques. Les macrolides de l’association sont la spiramycine ou l’érythromycine, et les fluoroquinolones citées sont lévofloxacine, ofloxacine ou ciprofloxacine."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’association de deux antibiotiques proposée pour une légionellose documentée grave ou chez un patient immunodéprimé, quels couples sont conformes au texte ?",
+      "choices": [
+        "Spiramycine + lévofloxacine.",
+        "Érythromycine + ofloxacine.",
+        "Érythromycine + ciprofloxacine.",
+        "Josamycine + lévofloxacine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’association décrite combine un macrolide, spiramycine ou érythromycine, avec une fluoroquinolone, lévofloxacine, ofloxacine ou ciprofloxacine. La josamycine n’est pas citée comme macrolide de cette association."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les durées d’antibiothérapie mentionnées, quelles propositions sont exactes ?",
+      "choices": [
+        "La pneumonie à pneumocoque est traitée pendant 7 jours.",
+        "La pneumonie à staphylocoque ou à Pseudomonas aeruginosa nécessite plus de 7 jours.",
+        "Une bactérie atypique relève d’une durée de 10 à 20 jours.",
+        "Une légionellose documentée grave est traitée pendant 8 à 14 jours."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique : pneumocoque 7 jours, staphylocoque ou Pseudomonas aeruginosa plus de 7 jours, bactérie atypique 10 à 20 jours. La légionellose documentée grave ou chez l’immunodéprimé nécessite 14 à 21 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments doivent intervenir dans l’adaptation de la durée de l’antibiothérapie selon le texte ?",
+      "choices": [
+        "L’évolution clinique.",
+        "Le terrain.",
+        "La gravité.",
+        "Les résultats microbiologiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La durée de l’antibiothérapie doit être adaptée à l’évolution clinique, au terrain, à la gravité et aux résultats microbiologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles correspondent à des mesures de prévention citées dans le texte ?",
+      "choices": [
+        "Vaccination.",
+        "Sevrage tabagique.",
+        "Réévaluation à 48-72 heures.",
+        "Aminoside pendant 5 jours."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les mesures de prévention explicitement citées sont la vaccination et le sevrage tabagique. La réévaluation et l’aminoside relèvent de la prise en charge thérapeutique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les voies d’administration explicitement précisées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Un macrolide intraveineux est mentionné dans le schéma de réanimation sans facteur de risque de Pseudomonas aeruginosa.",
+        "Une fluoroquinolone intraveineuse est mentionnée dans le schéma de réanimation sans facteur de risque de Pseudomonas aeruginosa.",
+        "Un macrolide intraveineux ou une fluoroquinolone intraveineuse est mentionné dans le schéma de réanimation avec facteur de risque de Pseudomonas aeruginosa.",
+        "La voie intraveineuse est explicitement précisée pour la piperacilline-tazobactam."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise la voie intraveineuse pour le macrolide ou la fluoroquinolone dans les schémas de réanimation. Il ne précise pas explicitement la voie d’administration de la piperacilline-tazobactam."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’aminoside dans le schéma avec facteur de risque de Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est mentionné dans le traitement du patient admis en réanimation avec facteur de risque de Pseudomonas aeruginosa.",
+        "Sa durée d’administration indiquée est de 5 jours.",
+        "Il est associé à une bêta-lactamine antipseudomonas.",
+        "Il est listé dans la monothérapie de la légionellose documentée non grave."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans le schéma avec facteur de risque de Pseudomonas aeruginosa, l’aminoside est associé pendant 5 jours à une bêta-lactamine antipseudomonas, avec macrolide IV ou fluoroquinolone IV. Il n’est pas cité dans la monothérapie de la légionellose non grave."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre médicament et catégorie thérapeutique sont conformes au texte ?",
+      "choices": [
+        "Céfépime : bêta-lactamine antipseudomonas.",
+        "Ceftriaxone : céphalosporine de 3e génération du schéma de réanimation sans facteur de risque de Pseudomonas aeruginosa.",
+        "Ciprofloxacine : fluoroquinolone possible dans l’association de la légionellose documentée grave.",
+        "Spiramycine : fluoroquinolone utilisable dans la légionellose documentée grave."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le céfépime est cité comme bêta-lactamine antipseudomonas ; la ceftriaxone comme céphalosporine de 3e génération ; la ciprofloxacine comme fluoroquinolone possible dans la légionellose grave. La spiramycine est un macrolide, non une fluoroquinolone."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la légionellose documentée, quelles propositions sont exactes ?",
+      "choices": [
+        "La forme non grave peut être traitée par macrolide en monothérapie.",
+        "La forme grave ou le terrain immunodéprimé relèvent d’une durée de 14 à 21 jours.",
+        "La forme grave est traitée par macrolide en monothérapie selon le texte.",
+        "La forme grave ou le terrain immunodéprimé peuvent relever d’une association de deux antibiotiques."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La forme non grave est traitée par macrolide en monothérapie pendant 8 à 14 jours. Les formes graves ou chez l’immunodéprimé sont traitées 14 à 21 jours par fluoroquinolone seule ou par association de deux antibiotiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les différences entre les schémas de réanimation avec et sans facteur de risque de Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+      "choices": [
+        "En l’absence de facteur de risque de Pseudomonas aeruginosa, le texte cite ceftriaxone ou cefotaxime.",
+        "En présence de facteur de risque de Pseudomonas aeruginosa, le texte remplace ce schéma par une bêta-lactamine antipseudomonas.",
+        "Les deux schémas comportent une réévaluation à 48-72 heures.",
+        "Les deux schémas comportent un aminoside pendant 5 jours."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Sans facteur de risque, le texte cite une C3G, ceftriaxone ou cefotaxime. Avec facteur de risque, il cite une bêta-lactamine antipseudomonas avec aminoside 5 jours. Les deux situations prévoient une réévaluation à 48-72 heures."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions de durée sont incompatibles avec les durées indiquées dans le texte ?",
+      "choices": [
+        "Pneumocoque : plus de 7 jours.",
+        "Staphylocoque : 7 jours.",
+        "Bactérie atypique : 8 jours.",
+        "Légionellose documentée non grave : 10 jours."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le pneumocoque relève de 7 jours, le staphylocoque de plus de 7 jours, et une bactérie atypique de 10 à 20 jours. Une légionellose documentée non grave traitée 10 jours est compatible avec l’intervalle 8 à 14 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la légionellose documentée grave ou chez un patient immunodéprimé, quelle classe peut constituer une monothérapie selon le texte ?",
+      "choices": [
+        "Macrolide.",
+        "Aminoside.",
+        "Fluoroquinolone.",
+        "Céphalosporine de 3e génération."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique une monothérapie par fluoroquinolone dans la légionellose documentée grave ou chez le patient immunodéprimé."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le schéma de réanimation sans facteur de risque de Pseudomonas aeruginosa, quelle molécule est citée comme céphalosporine de 3e génération ?",
+      "choices": [
+        "Cefotaxime.",
+        "Céfépime.",
+        "Piperacilline-tazobactam.",
+        "Carbapénème."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le schéma sans facteur de risque de Pseudomonas aeruginosa cite une céphalosporine de 3e génération : ceftriaxone ou cefotaxime."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel délai de réévaluation est mentionné dans les schémas thérapeutiques de réanimation ?",
+      "choices": [
+        "5 jours.",
+        "7 jours.",
+        "48-72 heures.",
+        "14-21 jours."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les schémas de réanimation mentionnent une réévaluation à 48-72 heures."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule appartient à la liste des bêta-lactamines antipseudomonas citées ?",
+      "choices": [
+        "Ceftriaxone.",
+        "Piperacilline-tazobactam.",
+        "Azithromycine.",
+        "Lévofloxacine."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les bêta-lactamines antipseudomonas citées sont piperacilline-tazobactam, céfépime ou carbapénème."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle durée d’antibiothérapie est indiquée pour une infection à bactérie atypique ?",
+      "choices": [
+        "5 jours.",
+        "7 jours.",
+        "8 à 14 jours.",
+        "10 à 20 jours."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte indique une durée de 10 à 20 jours pour une bactérie atypique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association correspond à l’association de deux antibiotiques proposée dans la légionellose documentée grave ou chez l’immunodéprimé ?",
+      "choices": [
+        "Spiramycine + ciprofloxacine.",
+        "Ceftriaxone + azithromycine.",
+        "Piperacilline-tazobactam + aminoside.",
+        "Azithromycine + clarithromycine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans la légionellose documentée grave ou chez l’immunodéprimé, l’association possible combine un macrolide, spiramycine ou érythromycine, avec une fluoroquinolone, lévofloxacine, ofloxacine ou ciprofloxacine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition et les principes généraux d’une pneumonie aiguë communautaire de l’adulte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une infection aiguë du parenchyme pulmonaire.",
+        "Elle est communautaire si elle est acquise en milieu extrahospitalier ou révélée dans les 48 premières heures d’une hospitalisation.",
+        "Le traitement initial doit attendre l’identification microbiologique de l’agent causal.",
+        "Des critères clinico-radiologiques spécifiques permettent habituellement d’identifier avec certitude l’agent responsable."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La PAC est une infection aiguë du parenchyme pulmonaire acquise hors hôpital ou révélée dans les 48 premières heures d’hospitalisation. Le traitement initial est probabiliste, car il n’existe pas de critères clinico-radiologiques spécifiques d’un agent donné."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la radiographie thoracique dans la pneumonie aiguë communautaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle constitue l’examen de référence.",
+        "Elle peut montrer une opacité alvéolaire systématisée ou multiple.",
+        "Elle peut objectiver un bronchogramme aérien.",
+        "Elle peut révéler des complications comme un épanchement pleural ou un abcès pulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La radiographie thoracique est l’examen de référence. Les images possibles incluent opacités alvéolaires, images interstitielles, condensation lobaire ou systématisée, bronchogramme aérien, et certaines complications radiologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tomodensitométrie thoracique au cours d’une pneumonie aiguë communautaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être indiquée lorsque le diagnostic est difficile.",
+        "Elle peut être indiquée en cas de maladie pulmonaire sous-jacente.",
+        "Elle remplace systématiquement la radiographie thoracique comme examen de première intention.",
+        "Elle permet à elle seule d’orienter de façon fiable vers l’agent causal."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La TDM thoracique peut être indiquée en cas de diagnostic difficile ou de maladie pulmonaire sous-jacente. Elle n’est pas présentée comme examen systématique ni comme outil d’identification étiologique fiable."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’évaluation initiale d’une pneumonie aiguë communautaire, quels objectifs sont explicitement mentionnés ?",
+      "choices": [
+        "Évaluer le terrain et les comorbidités.",
+        "Rechercher des signes de gravité.",
+        "Déterminer le lieu de prise en charge : ambulatoire, hospitalisation conventionnelle ou soins intensifs.",
+        "Choisir une antibiothérapie probabiliste."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’évaluation initiale vise à confirmer le diagnostic, apprécier le terrain, rechercher la gravité, orienter le patient vers le bon niveau de soins et choisir l’antibiothérapie probabiliste."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le score CRB65 dans l’orientation d’une pneumonie aiguë communautaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Un score à 0 critère rend possible un traitement ambulatoire.",
+        "L’âge strictement supérieur à 65 ans fait partie des critères.",
+        "Une fréquence respiratoire strictement supérieure à 30/min fait partie des critères.",
+        "La présence d’au moins un critère impose automatiquement une admission en réanimation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le CRB65 comprend confusion, FR > 30/min, PAS < 90 mmHg et âge > 65 ans. Un score à 0 permet d’envisager l’ambulatoire ; au moins un critère fait envisager l’hospitalisation, sans imposer automatiquement la réanimation."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels correspondent à des données cliniques intégrées au score de Fine/PSI selon le texte ?",
+      "choices": [
+        "Altération des fonctions supérieures.",
+        "Température < 35 °C ou ≥ 40 °C.",
+        "Fréquence cardiaque ≥ 125/min.",
+        "Expectoration purulente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le score de Fine/PSI intègre notamment l’altération des fonctions supérieures, la FR ≥ 30/min, la PAS < 90 mmHg, les extrêmes thermiques et la FC ≥ 125/min. L’expectoration purulente n’est pas citée comme donnée du score."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles comorbidités sont prises en compte dans le score de Fine/PSI tel que présenté ?",
+      "choices": [
+        "Néoplasie.",
+        "Hépatopathie.",
+        "Maladie rénale.",
+        "Diabète sucré."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les comorbidités citées dans le PSI sont : néoplasie, hépatopathie, insuffisance cardiaque congestive, maladie cérébrovasculaire et maladie rénale. Le diabète n’est pas mentionné dans cette liste."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les éléments d’orientation étiologique selon le terrain ou la présentation, quelles propositions sont exactes ?",
+      "choices": [
+        "Une pathologie pulmonaire chronique oriente vers des bacilles Gram négatif, voire Pseudomonas aeruginosa.",
+        "Une atteinte neurologique oriente vers une pneumonie d’inhalation à anaérobies.",
+        "Une forme sévère oriente notamment vers Streptococcus pneumoniae ou des bacilles Gram négatif.",
+        "L’absence de comorbidité oriente préférentiellement vers Staphylococcus aureus."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte associe pathologie pulmonaire chronique aux bacilles Gram négatif/Pseudomonas, atteinte neurologique aux anaérobies par inhalation, et forme sévère au pneumocoque ou aux bacilles Gram négatif. L’absence de comorbidité oriente plutôt vers virus ou germe atypique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les agents suivants, lesquels appartiennent aux agents étiologiques fréquents de pneumonie aiguë communautaire cités dans le texte ?",
+      "choices": [
+        "Virus respiratoires.",
+        "Staphylococcus aureus.",
+        "Anaérobies en cas d’inhalation.",
+        "Aspergillus fumigatus."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les agents fréquents cités incluent les virus respiratoires, Staphylococcus aureus, les bacilles Gram négatif, les atypiques, le pneumocoque, Legionella et les anaérobies en cas d’inhalation. Aspergillus n’est pas cité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les examens microbiologiques utilisables dans la pneumonie aiguë communautaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’examen cytobactériologique des crachats est non systématique.",
+        "Les prélèvements bronchiques peuvent comprendre une aspiration bronchique.",
+        "Le lavage bronchoalvéolaire fait partie des prélèvements bronchiques cités.",
+        "L’antigène pneumococcique peut être recherché dans les urines ou dans le liquide pleural."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite l’ECBC comme non systématique, les prélèvements bronchiques incluant aspiration bronchique et lavage bronchoalvéolaire, ainsi que l’antigène pneumococcique urinaire ou pleural."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes de diagnostic microbiologique par PCR ou sérologie, quelles propositions sont exactes ?",
+      "choices": [
+        "Bordetella est citée parmi les cibles possibles de la PCR.",
+        "Les virus pneumotropes sont cités parmi les cibles possibles de la PCR.",
+        "Coxiella est citée parmi les sérologies possibles.",
+        "Staphylococcus aureus est explicitement cité comme cible de PCR dans le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PCR peut cibler Legionella, Chlamydiae, Mycoplasma, Bordetella et les virus pneumotropes. Les sérologies citées incluent notamment virus, Legionella, Coxiella, Chlamydiae et Mycoplasma. Staphylococcus aureus n’est pas cité comme cible de PCR."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les principes de l’antibiothérapie probabiliste d’une pneumonie aiguë communautaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle doit être instaurée dès le diagnostic, idéalement dans les 4 heures.",
+        "Elle doit couvrir les germes les plus fréquents, notamment Streptococcus pneumoniae.",
+        "Son efficacité doit être réévaluée après 48-72 heures.",
+        "Elle doit être systématiquement retardée jusqu’à obtention du diagnostic bactériologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’antibiothérapie est probabiliste, instaurée rapidement, idéalement dans les 4 heures, avec couverture des germes fréquents dont le pneumocoque. Une réévaluation à 48-72 heures est nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient ambulatoire sans comorbidité avec suspicion de pneumocoque, quelles propositions thérapeutiques sont conformes au texte ?",
+      "choices": [
+        "L’amoxicilline est le traitement de première intention.",
+        "En cas d’allergie ou comme alternative, un macrolide, la pristinamycine, la télithromycine ou une fluoroquinolone antipneumococcique peuvent être proposés.",
+        "En cas d’échec à 48 heures, un macrolide, une fluoroquinolone antipneumococcique, la pristinamycine ou la télithromycine peuvent être utilisés.",
+        "Une association initiale amoxicilline-acide clavulanique et aminoside est indiquée d’emblée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans ce contexte, l’amoxicilline est indiquée en première intention. Les alternatives ou options après échec à 48 heures sont celles citées. L’association avec aminoside n’est pas mentionnée pour ce contexte ambulatoire simple."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient âgé ou porteur de comorbidité sans signe de gravité, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Les cibles incluent pneumocoque, staphylocoque, entérobactéries et anaérobies.",
+        "L’amoxicilline-acide clavulanique fait partie des traitements possibles.",
+        "La ceftriaxone ou une fluoroquinolone antipneumococcique peuvent être utilisées.",
+        "Une monothérapie par macrolide est obligatoire en première intention."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez le patient âgé ou comorbide sans gravité, les cibles sont pneumocoque, staphylocoque, entérobactéries et anaérobies. Les options citées sont amoxicilline-acide clavulanique, ceftriaxone ou fluoroquinolone antipneumococcique."
+    },
+    {
+      "type": "QCS",
+      "question": "Une pneumonie se révèle 36 heures après le début d’une hospitalisation. Selon la définition donnée, quelle qualification est correcte ?",
+      "choices": [
+        "Pneumonie aiguë communautaire.",
+        "Pneumonie nosocomiale certaine.",
+        "Pneumonie ne pouvant être classée qu’après hémocultures.",
+        "Pneumonie exclue en l’absence d’identification microbiologique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une pneumonie révélée dans les 48 premières heures d’une hospitalisation entre dans la définition de pneumonie aiguë communautaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation constitue une indication d’admission en réanimation selon le texte ?",
+      "choices": [
+        "Détresse vitale ou pneumonie grave.",
+        "Présence isolée d’une toux productive.",
+        "Toute pneumonie chez un patient de moins de 60 ans.",
+        "Toute pneumonie avec radiographie thoracique anormale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’admission en réanimation est indiquée en cas de détresse vitale ou de pneumonie grave. Les scores ne remplacent pas le jugement clinique."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la classification Fine/PSI présentée, un score de 95 correspond à quelle classe de risque ?",
+      "choices": [
+        "Classe II.",
+        "Classe III.",
+        "Classe IV.",
+        "Classe V."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La classe IV correspond à un score de 91 à 130 et est associée à une mortalité élevée."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient tabagique présentant une pneumonie aiguë communautaire, quel groupe d’agents est indiqué comme plus probable selon les éléments d’orientation étiologique ?",
+      "choices": [
+        "Legionella pneumophila ou Chlamydiae pneumoniae.",
+        "Anaérobies strictement liés à l’inhalation.",
+        "Streptococcus pneumoniae exclusivement.",
+        "Bacilles Gram négatif uniquement."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le tabagisme est associé dans le texte à une probabilité accrue de Legionella pneumophila ou Chlamydiae pneumoniae."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient hospitalisé en médecine pour PAC, quelle conduite est explicitement possible en cas d’échec d’une bêta-lactamine ?",
+      "choices": [
+        "Arrêter toute antibiothérapie en attendant les résultats sérologiques.",
+        "Ajouter un macrolide.",
+        "Associer systématiquement un antifongique.",
+        "Remplacer par un antiviral seul."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En cas d’échec d’une bêta-lactamine chez un patient hospitalisé en médecine, le texte propose l’ajout d’un macrolide ou la substitution par une fluoroquinolone antipneumococcique."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le diagnostic microbiologique d’une pneumonie aiguë communautaire, quel examen est expressément décrit comme non systématique ?",
+      "choices": [
+        "Examen cytobactériologique des crachats.",
+        "Hémocultures.",
+        "Antigénurie Legionella pneumophila sérogroupe 1.",
+        "Sérologie Mycoplasma."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’examen cytobactériologique des crachats est explicitement indiqué comme non systématique dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient admis en réanimation sans facteur de risque de Pseudomonas aeruginosa, quelles associations sont conformes au schéma antibiotique décrit ?",
+      "choices": [
+        "Ceftriaxone associée à un macrolide intraveineux",
+        "Cefotaxime associé à une fluoroquinolone intraveineuse",
+        "Piperacilline-tazobactam associée à un aminoside pendant 5 jours",
+        "Céfépime associé à un aminoside pendant 5 jours"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "En réanimation sans facteur de risque de Pseudomonas aeruginosa, le texte cite une céphalosporine de 3e génération, ceftriaxone ou cefotaxime, associée à un macrolide IV ou à une fluoroquinolone IV."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient admis en réanimation avec dilatation des bronches, quelles modalités thérapeutiques sont conformes au texte ?",
+      "choices": [
+        "Utilisation d’une bêta-lactamine antipseudomonas",
+        "Possibilité d’utiliser la piperacilline-tazobactam",
+        "Association à un aminoside pendant 5 jours",
+        "Association à un macrolide intraveineux ou à une fluoroquinolone intraveineuse"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La dilatation des bronches est un facteur de risque de Pseudomonas aeruginosa. Le schéma comprend une bêta-lactamine antipseudomonas, un aminoside pendant 5 jours, et un macrolide IV ou une fluoroquinolone IV."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une légionellose documentée grave ou chez un patient immunodéprimé, quelles options sont explicitement compatibles avec le texte ?",
+      "choices": [
+        "Monothérapie par fluoroquinolone",
+        "Association spiramycine et lévofloxacine",
+        "Association érythromycine et ciprofloxacine",
+        "Monothérapie par macrolide pendant 8 à 14 jours"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pour les formes graves ou chez l’immunodéprimé, le texte autorise une monothérapie par fluoroquinolone ou une association macrolide-fluoroquinolone. La monothérapie par macrolide 8 à 14 jours concerne la forme non grave."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les macrolides cités dans la légionellose documentée non grave, lesquels ne sont pas retenus comme macrolides de l’association des formes graves ou chez l’immunodéprimé ?",
+      "choices": [
+        "Azithromycine",
+        "Clarithromycine",
+        "Josamycine",
+        "Érythromycine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les formes graves ou chez l’immunodéprimé, les macrolides cités pour l’association sont la spiramycine et l’érythromycine. L’azithromycine, la clarithromycine et la josamycine sont citées dans la forme non grave."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations infectieuses ont une durée d’antibiothérapie explicitement supérieure ou potentiellement supérieure à 7 jours selon le texte ?",
+      "choices": [
+        "Pneumonie à staphylocoque",
+        "Pneumonie à Pseudomonas aeruginosa",
+        "Infection à bactérie atypique",
+        "Pneumonie à pneumocoque"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le staphylocoque et Pseudomonas aeruginosa nécessitent plus de 7 jours, et les bactéries atypiques 10 à 20 jours. Le pneumocoque est traité 7 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments doivent intervenir dans l’adaptation de la durée de l’antibiothérapie d’après le texte ?",
+      "choices": [
+        "L’évolution clinique",
+        "Le terrain",
+        "La gravité",
+        "Les résultats microbiologiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que la durée doit être adaptée à l’évolution clinique, au terrain, à la gravité et aux résultats microbiologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les voies intraveineuses explicitement mentionnées, quelles propositions sont exactes ?",
+      "choices": [
+        "En réanimation sans facteur de risque de Pseudomonas aeruginosa, le macrolide associé est intraveineux",
+        "En réanimation avec facteur de risque de Pseudomonas aeruginosa, la fluoroquinolone associée est intraveineuse",
+        "Dans la légionellose documentée non grave, l’érythromycine est citée comme intraveineuse",
+        "Dans la légionellose documentée non grave, tous les macrolides listés sont précisés comme intraveineux"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne un macrolide IV ou une fluoroquinolone IV dans les schémas de réanimation. Dans la légionellose non grave, seule l’érythromycine est explicitement qualifiée d’intraveineuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les molécules suivantes, lesquelles sont des fluoroquinolones citées dans l’association de deux antibiotiques pour légionellose documentée grave ou chez l’immunodéprimé ?",
+      "choices": [
+        "Lévofloxacine",
+        "Ofloxacine",
+        "Ciprofloxacine",
+        "Céfépime"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les fluoroquinolones citées dans cette association sont la lévofloxacine, l’ofloxacine et la ciprofloxacine. Le céfépime est une bêta-lactamine antipseudomonas."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations le texte permet-il explicitement une monothérapie antibiotique ?",
+      "choices": [
+        "Légionellose documentée non grave par macrolide",
+        "Légionellose documentée grave ou chez l’immunodéprimé par fluoroquinolone",
+        "Patient admis en réanimation sans facteur de risque de Pseudomonas aeruginosa par céphalosporine de 3e génération seule",
+        "Patient admis en réanimation avec facteur de risque de Pseudomonas aeruginosa par bêta-lactamine antipseudomonas seule"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La monothérapie est citée pour la légionellose non grave par macrolide et pour la légionellose grave ou chez l’immunodéprimé par fluoroquinolone. Les schémas de réanimation sont des associations."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quels contextes une réévaluation à 48-72 heures est-elle explicitement indiquée ?",
+      "choices": [
+        "Patient admis en réanimation sans facteur de risque de Pseudomonas aeruginosa",
+        "Patient admis en réanimation avec facteur de risque de Pseudomonas aeruginosa",
+        "Légionellose documentée non grave",
+        "Prévention par vaccination"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La réévaluation à 48-72 heures est mentionnée dans les deux schémas de réanimation, avec ou sans facteur de risque de Pseudomonas aeruginosa."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont explicitement cités comme facteurs de risque de Pseudomonas aeruginosa dans le texte ?",
+      "choices": [
+        "Dilatation des bronches",
+        "Exacerbation de BPCO",
+        "Immunodépression",
+        "Tabagisme"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les deux facteurs de risque cités sont la dilatation des bronches et l’exacerbation de BPCO. L’immunodépression est mentionnée dans la légionellose grave, et le tabagisme dans la prévention."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bêta-lactamines et céphalosporines citées, quelles propositions sont exactes ?",
+      "choices": [
+        "La ceftriaxone et le cefotaxime sont cités comme céphalosporines de 3e génération",
+        "Le céfépime est cité parmi les bêta-lactamines antipseudomonas",
+        "La piperacilline-tazobactam est citée parmi les bêta-lactamines antipseudomonas",
+        "Le carbapénème est cité comme céphalosporine de 3e génération"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Ceftriaxone et cefotaxime sont les C3G citées. Piperacilline-tazobactam, céfépime et carbapénème sont cités comme options antipseudomonas. Le carbapénème n’est pas une C3G."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles correspondances entre agent infectieux ou situation et durée d’antibiothérapie sont exactes ?",
+      "choices": [
+        "Pneumocoque : 7 jours",
+        "Staphylocoque : plus de 7 jours",
+        "Bactérie atypique : 10 à 20 jours",
+        "Légionellose documentée grave : 8 à 14 jours"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le pneumocoque relève de 7 jours, le staphylocoque de plus de 7 jours, et les bactéries atypiques de 10 à 20 jours. La légionellose grave ou chez l’immunodéprimé relève de 14 à 21 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments relèvent explicitement de la prévention dans le texte ?",
+      "choices": [
+        "Vaccination",
+        "Sevrage tabagique",
+        "Réévaluation à 48-72 heures",
+        "Adaptation de la durée aux résultats microbiologiques"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La prévention mentionnée repose sur la vaccination et le sevrage tabagique. La réévaluation et l’adaptation de durée relèvent de la prise en charge thérapeutique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement la place de l’aminoside dans le schéma thérapeutique du texte ?",
+      "choices": [
+        "Il est utilisé en monothérapie dans la légionellose documentée non grave",
+        "Il est associé systématiquement dans le schéma de réanimation sans facteur de risque de Pseudomonas aeruginosa",
+        "Il est associé pendant 5 jours chez le patient admis en réanimation avec facteur de risque de Pseudomonas aeruginosa",
+        "Il est utilisé pendant 7 jours dans la pneumonie à pneumocoque"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’aminoside est explicitement cité dans le schéma avec facteur de risque de Pseudomonas aeruginosa, pour une durée de 5 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel macrolide de la légionellose documentée non grave est explicitement accompagné de la mention intraveineuse ?",
+      "choices": [
+        "Azithromycine",
+        "Clarithromycine",
+        "Spiramycine",
+        "Érythromycine"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Dans la liste des macrolides utilisables en monothérapie dans la légionellose non grave, l’érythromycine est explicitement mentionnée comme intraveineuse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle durée est indiquée pour une légionellose documentée grave ou sur terrain immunodéprimé ?",
+      "choices": [
+        "7 jours",
+        "8 à 14 jours",
+        "10 à 20 jours",
+        "14 à 21 jours"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte indique une durée de 14 à 21 jours pour la légionellose documentée grave ou chez le patient immunodéprimé."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les options antipseudomonas citées, laquelle est formulée dans le texte comme une classe thérapeutique plutôt que comme une molécule précise ?",
+      "choices": [
+        "Piperacilline-tazobactam",
+        "Céfépime",
+        "Carbapénème",
+        "Cefotaxime"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Piperacilline-tazobactam et céfépime sont des molécules citées, tandis que le carbapénème est mentionné comme classe thérapeutique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond au traitement d’une légionellose documentée non grave selon le texte ?",
+      "choices": [
+        "Monothérapie par macrolide pendant 8 à 14 jours",
+        "Association macrolide et aminoside pendant 5 jours",
+        "Monothérapie par céphalosporine de 3e génération pendant 7 jours",
+        "Association bêta-lactamine antipseudomonas et fluoroquinolone pendant 14 à 21 jours"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La légionellose documentée non grave est traitée par monothérapie par macrolide pendant 8 à 14 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition reprend intégralement les critères d’adaptation de la durée de l’antibiothérapie cités dans le texte ?",
+      "choices": [
+        "Évolution clinique, terrain, gravité et résultats microbiologiques",
+        "Terrain, vaccination, gravité et sevrage tabagique",
+        "Résultats microbiologiques, vaccination, macrolide et fluoroquinolone",
+        "Évolution clinique, céphalosporine de 3e génération, aminoside et terrain"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La durée doit être adaptée à l’évolution clinique, au terrain, à la gravité et aux résultats microbiologiques."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-03T01:47:06.500Z"
+}

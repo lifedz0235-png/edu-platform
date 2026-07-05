@@ -1,0 +1,3121 @@
+{
+  "category": "medicale",
+  "module": "gastrologie",
+  "courseId": 147,
+  "courseTitle": "Digestion Absorption",
+  "supportTitle": "digestion-absorption-intestinale",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/medicale-pdf/GASTRO/digestion-absorption-intestinale.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les définitions de la digestion et de l’absorption, quelles propositions sont exactes ?",
+      "choices": [
+        "La digestion correspond à la dégradation des grosses molécules alimentaires en unités de base assimilables.",
+        "L’absorption correspond au passage des produits de la digestion vers la circulation sanguine ou lymphatique.",
+        "La digestion et l’absorption sont deux mécanismes successifs, indépendants et non simultanés.",
+        "Un nutriment est une substance nutritive d’origine alimentaire circulant dans le sang et utilisable par les organes."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La digestion transforme les grosses molécules en unités assimilables. L’absorption fait passer les produits digestifs vers le sang ou la lymphe. Les deux mécanismes sont distincts mais simultanés et indissociables."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les phénomènes suivants, lesquels relèvent de la digestion mécanique selon le texte ?",
+      "choices": [
+        "La mastication.",
+        "Les contractions gastriques.",
+        "L’action des enzymes digestives.",
+        "Les contractions intestinales."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La digestion mécanique comprend la mastication, les contractions gastriques et intestinales. L’action enzymatique appartient à la digestion chimique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sites de digestion, quelles propositions sont exactes ?",
+      "choices": [
+        "La digestion extracellulaire se déroule dans la lumière du tube digestif.",
+        "La digestion membranaire se déroule au niveau de la bordure en brosse.",
+        "La digestion intracellulaire dépend d’enzymes cytoplasmiques et lysosomiales.",
+        "La digestion membranaire produit exclusivement des macromolécules alimentaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La digestion extracellulaire a lieu dans la lumière digestive, la digestion membranaire au niveau de la bordure en brosse, et la digestion intracellulaire fait intervenir des enzymes cytoplasmiques et lysosomiales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modes de transfert membranaire décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "La diffusion passive peut se faire à travers des pores.",
+        "Le transport facilité se fait dans le sens du gradient.",
+        "Le transport actif se fait contre le gradient et nécessite de l’ATP.",
+        "Le transport facilité du fructose nécessite obligatoirement de l’ATP."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue diffusion passive, transport facilité dans le sens du gradient, et transport actif contre gradient nécessitant de l’ATP. Le fructose est donné comme exemple de transport facilité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la digestion des glucides, quelles propositions sont exactes ?",
+      "choices": [
+        "Les monosaccharides sont les seules formes absorbables par les entérocytes.",
+        "Une digestion complète des glucides est nécessaire pour permettre leur absorption.",
+        "Chez l’adulte, il existe normalement une absorption significative des di-, tri- et polysaccharides.",
+        "Les glucides sont exclusivement absorbés sous forme de monosaccharides."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Seuls les monosaccharides sont absorbés par les entérocytes. Il n’y a normalement pas d’absorption significative des di-, tri- ou polysaccharides chez l’adulte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les enzymes de la bordure en brosse impliquées dans la digestion glucidique, quelles associations sont exactes ?",
+      "choices": [
+        "Maltase : maltose en deux molécules de glucose.",
+        "Lactase : lactose en glucose et galactose.",
+        "Sucrase : saccharose en glucose et fructose.",
+        "Isomaltase : lactose en glucose et galactose."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maltase hydrolyse le maltose en glucose + glucose, la lactase le lactose en glucose + galactose, la sucrase le saccharose en glucose + fructose. L’isomaltase hydrolyse les dextrines limites."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’amylase et la digestion de l’amidon, quelles propositions sont exactes ?",
+      "choices": [
+        "L’amylase salivaire participe à l’hydrolyse de l’amidon.",
+        "L’amylase salivaire est inactivée pour un pH inférieur à 4,5.",
+        "L’amylase pancréatique réalise rapidement l’essentiel de la digestion de l’amidon et du glycogène.",
+        "L’amylase pancréatique transforme directement tous les glucides en monosaccharides absorbables."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amylase salivaire débute l’hydrolyse de l’amidon mais est inactivée à pH inférieur à 4,5. L’amylase pancréatique assure l’essentiel de la digestion de l’amidon et du glycogène en maltose et oligosaccharides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la digestion des protéines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle débute par la mastication.",
+        "Elle se poursuit dans l’estomac sous l’effet du brassage, de l’acide chlorhydrique et de la pepsine.",
+        "Elle continue dans l’intestin grâce aux enzymes pancréatiques et aux enzymes de la bordure en brosse.",
+        "Elle se limite à l’action exclusive des enzymes salivaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La digestion protéique commence par la mastication, se poursuit dans l’estomac avec brassage, HCl et pepsine, puis continue dans l’intestin par les enzymes pancréatiques et de la bordure en brosse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les peptidases impliquées dans la digestion protéique, quelles propositions sont exactes ?",
+      "choices": [
+        "La pepsine est une endopeptidase gastrique.",
+        "La trypsine, l’élastase et la chymotrypsine sont d’origine pancréatique.",
+        "Les carboxypeptidases et aminopeptidases clivent les liaisons peptidiques terminales.",
+        "Les exopeptidases clivent les protéines uniquement en leur centre."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les endopeptidases clivent les protéines en petits polypeptides. La pepsine agit dans l’estomac, tandis que trypsine, élastase et chymotrypsine sont pancréatiques. Les exopeptidases agissent sur les liaisons terminales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les produits finaux et l’absorption des protéines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les produits finaux comprennent des acides aminés libres.",
+        "Les produits finaux comprennent des dipeptides et des tripeptides.",
+        "Environ deux tiers des produits absorbés le sont sous forme de peptides.",
+        "Les petits peptides ne constituent qu’une forme négligeable d’absorption."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les produits finaux de la digestion protéique sont des acides aminés libres, des dipeptides et des tripeptides. Les petits peptides représentent une forme majeure d’absorption, environ deux tiers des produits absorbés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes d’absorption des produits de digestion protéique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les acides aminés libres sont absorbés par cotransport avec le sodium.",
+        "Les dipeptides et tripeptides sont absorbés par transport actif secondaire dépendant d’un gradient de protons H+.",
+        "Les dipeptides et tripeptides sont hydrolysés en acides aminés dans le cytoplasme entérocytaire.",
+        "Les dipeptides et tripeptides sont libérés inchangés dans le sang selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les acides aminés utilisent un cotransport avec le sodium. Les di- et tripeptides utilisent un transport actif secondaire dépendant de H+, puis sont hydrolysés en acides aminés dans l’entérocyte avant libération sanguine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lipides alimentaires et leur digestion, quelles propositions sont exactes ?",
+      "choices": [
+        "Les triglycérides font partie des principales classes de lipides alimentaires.",
+        "Les phospholipides font partie des principales classes de lipides alimentaires.",
+        "Le cholestérol fait partie des principales classes de lipides alimentaires.",
+        "La digestion lipidique repose essentiellement sur les disaccharidases de la bordure en brosse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les principales classes de lipides alimentaires citées sont les triglycérides, les phospholipides et le cholestérol. Les disaccharidases concernent la digestion glucidique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les enzymes et facteurs intervenant dans la digestion des lipides, quelles propositions sont exactes ?",
+      "choices": [
+        "La lipase linguale intervient dans la digestion lipidique.",
+        "La lipase gastrique intervient dans la digestion lipidique.",
+        "La lipase pancréatique assure l’essentiel de l’hydrolyse lipidique.",
+        "Les sels biliaires sont synthétisés par le pancréas."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La digestion lipidique implique les lipases linguale, gastrique et surtout pancréatique. Les sels biliaires sont synthétisés par le foie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sels biliaires et les micelles, quelles propositions sont exactes ?",
+      "choices": [
+        "Les sels biliaires assurent l’émulsification des graisses.",
+        "Les sels biliaires participent à la formation de micelles.",
+        "L’émulsification augmente la surface de contact des graisses avec les enzymes pancréatiques.",
+        "Les micelles empêchent le contact des lipides avec la muqueuse intestinale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les sels biliaires émulsifient les graisses et permettent la formation des micelles. L’émulsification augmente la surface de contact avec les enzymes pancréatiques. Les micelles favorisent au contraire le contact avec la muqueuse intestinale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal site d’absorption des nutriments selon le texte ?",
+      "choices": [
+        "L’estomac.",
+        "L’intestin grêle.",
+        "Le côlon distal.",
+        "L’œsophage."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les nutriments solubles sont absorbés principalement au niveau de l’intestin grêle grâce à une surface richement vascularisée avec replis et villosités."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel monosaccharide est cité comme exemple de transport facilité ?",
+      "choices": [
+        "Glucose.",
+        "Galactose.",
+        "Fructose.",
+        "Mannose."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte cite le fructose comme exemple de molécule utilisant un transport facilité dans le sens du gradient."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’adulte, quel est le site principal d’absorption des monosaccharides ?",
+      "choices": [
+        "Duodénum et jéjunum.",
+        "Iléon terminal uniquement.",
+        "Cæco-côlon.",
+        "Estomac."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les monosaccharides sont principalement absorbés dans le duodénum et le jéjunum."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme hydrolyse les dextrines limites selon le texte ?",
+      "choices": [
+        "Lactase.",
+        "Sucrase.",
+        "Isomaltase.",
+        "Pepsine."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’isomaltase est l’enzyme de la bordure en brosse qui hydrolyse les dextrines limites."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel acide gras est cité comme acide gras essentiel non synthétisé majoritairement par le foie ?",
+      "choices": [
+        "Acide linoléique.",
+        "Acide palmitique.",
+        "Acide stéarique.",
+        "Acide oléique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que le foie synthétise la majorité des acides gras, sauf les acides gras essentiels comme l’acide linoléique et l’acide linolénique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel événement survient dans l’entérocyte au cours de l’absorption lipidique ?",
+      "choices": [
+        "Résynthèse des triglycérides.",
+        "Transformation des monosaccharides en disaccharides.",
+        "Hydrolyse des protéines par la pepsine.",
+        "Inactivation des amylases salivaires."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans l’entérocyte, le texte décrit la résynthèse des triglycérides, leur association à des protéines porteuses et la formation de chylomicrons."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les chylomicrons, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des lipoprotéines formées en période de digestion.",
+        "Ils transportent les lipides exogènes de l’intestin grêle vers les tissus périphériques.",
+        "Ils participent notamment au transport vers le tissu adipeux.",
+        "Ils assurent principalement le transport des sels biliaires vers l’iléon."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chylomicrons sont formés en période digestive et transportent les lipides exogènes depuis l’intestin grêle vers les tissus périphériques, notamment le tissu adipeux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étapes de la digestion lipidique décrites, quelles propositions sont exactes ?",
+      "choices": [
+        "L’étape gastrique est peu importante.",
+        "L’étape intestinale est essentielle.",
+        "L’étape intestinale implique l’émulsion micellaire par les sels biliaires.",
+        "L’étape cellulaire correspond uniquement à une hydrolyse enzymatique intraluminale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase gastrique est peu importante, la phase intestinale est essentielle avec émulsion micellaire, tandis que l’étape cellulaire comporte diffusion, resynthèse, incorporation dans les chylomicrons et excrétion lymphatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments intervenant dans l’étape intestinale de la digestion lipidique, lesquels sont cités dans le texte ?",
+      "choices": [
+        "La lipase pancréatique.",
+        "La colipase.",
+        "La phospholipase A2.",
+        "Le facteur intrinsèque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’étape intestinale de la digestion lipidique fait intervenir les sels biliaires, la lipase pancréatique, la colipase, le calcium, la phospholipase A2 et la cholestérol estérase. Le facteur intrinsèque concerne la vitamine B12."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’étape cellulaire de l’absorption lipidique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comprend une diffusion des produits lipidiques.",
+        "Elle comporte une resynthèse des triglycérides.",
+        "Elle comporte une resynthèse des phospholipides.",
+        "Elle se termine par une excrétion exclusivement sanguine directe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’étape cellulaire comprend diffusion, resynthèse des triglycérides et phospholipides, incorporation dans les chylomicrons puis excrétion lymphatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les volumes hydriques digestifs et leur réabsorption, quelles propositions sont exactes ?",
+      "choices": [
+        "Environ 2 litres d’eau sont ingérés par jour.",
+        "Environ 7 litres de sécrétions digestives s’ajoutent à l’eau ingérée.",
+        "Plus de 99 % de cette eau est réabsorbée.",
+        "La majorité de l’eau digestive est éliminée sans réabsorption."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique environ 2 L d’eau ingérés et 7 L de sécrétions digestives, avec une réabsorption de plus de 99 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la répartition segmentaire des transferts hydriques intestinaux, quelles propositions sont exactes ?",
+      "choices": [
+        "La majeure partie des transferts hydriques se fait dans l’intestin grêle.",
+        "Le côlon assure une régulation fine de l’absorption hydrique.",
+        "Le duodénum est un lieu d’importants transferts par voie paracellulaire.",
+        "L’iléon est présenté comme le principal site exclusif des transferts hydriques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les transferts hydriques se font surtout dans l’intestin grêle ; le côlon assure la régulation fine ; le duodénum présente d’importants transferts par voie paracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le jéjunum, l’iléon et le côlon dans l’absorption de l’eau, quelles propositions sont exactes ?",
+      "choices": [
+        "Le jéjunum absorbe davantage en raison de sa perméabilité et de l’osmolarité du chyme.",
+        "Dans l’iléon, l’absorption du sodium et de l’eau est indépendante de celle des sucres et des acides aminés.",
+        "Le côlon absorbe environ 90 % de l’eau qui lui parvient.",
+        "Le côlon absorbe l’eau surtout au niveau de ses parties descendante et sigmoïde."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le jéjunum absorbe davantage, l’iléon absorbe sodium et eau indépendamment des sucres et acides aminés, et le côlon absorbe environ 90 % de l’eau reçue, surtout dans les parties ascendante et transverse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bicarbonates dans le tube digestif, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont sécrétés dans le duodénum.",
+        "Le pancréas participe à leur sécrétion.",
+        "Les voies biliaires participent à leur sécrétion.",
+        "Ils sont principalement absorbés dans l’estomac."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les bicarbonates sont sécrétés dans le duodénum par le pancréas et les voies biliaires, puis absorbés dans le jéjunum."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption des vitamines hydrosolubles, quelles propositions sont exactes ?",
+      "choices": [
+        "La riboflavine B2 est absorbée par diffusion passive.",
+        "La pyridoxine B6 est absorbée par diffusion passive.",
+        "La thiamine B1 utilise un transport actif à faible concentration.",
+        "Les folates sont absorbés uniquement par un mécanisme nécessitant les sels biliaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "B2, B6, PP et C sont absorbées par diffusion passive. La thiamine B1 a un transport passif à forte concentration et actif à faible concentration. Les folates utilisent un mécanisme passif ou une diffusion facilitée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vitamines liposolubles A, D, E et K, quelles propositions sont exactes ?",
+      "choices": [
+        "Leur absorption suit les mécanismes d’absorption des lipides.",
+        "Les sels biliaires participent à leur absorption.",
+        "La formation de micelles intervient dans leur absorption.",
+        "Leur absorption physiologique nécessite la liaison au facteur intrinsèque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vitamines A, D, E et K sont absorbées selon les mécanismes lipidiques, avec participation des sels biliaires et formation de micelles. Le facteur intrinsèque concerne la vitamine B12."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la vitamine B12, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est aussi appelée cobalamine.",
+        "Elle peut être absorbée par diffusion passive à fortes concentrations.",
+        "Aux concentrations physiologiques, son absorption nécessite le facteur intrinsèque.",
+        "Le facteur intrinsèque est sécrété par les cellules de la bordure en brosse iléale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine B12 ou cobalamine peut diffuser passivement à fortes concentrations. Aux concentrations physiologiques, elle nécessite le facteur intrinsèque, sécrété par les cellules pariétales gastriques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fer ferreux Fe2+ est absorbé plus rapidement que le fer ferrique Fe3+.",
+        "L’acide chlorhydrique gastrique favorise la solubilisation du fer.",
+        "La vitamine C augmente l’absorption du fer.",
+        "Le fer minéral est absorbé plus facilement que le fer héminique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le Fe2+ est mieux absorbé que le Fe3+, l’acide chlorhydrique favorise la solubilisation et la vitamine C augmente l’absorption. Le fer héminique est plus facilement absorbé que le fer minéral."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les réserves et la régulation de l’absorption du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "L’organisme contient environ 4 g de fer.",
+        "Environ 2 à 2,5 g de fer sont sous forme d’hémoglobine.",
+        "Le foie est un site important de stockage du fer.",
+        "La régulation de l’absorption du fer dépend uniquement de la calcitonine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise environ 4 g de fer corporel, dont 2 à 2,5 g sous forme d’hémoglobine, avec un stockage important hépatique. La régulation dépend de l’érythropoïèse et de l’état des stocks."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la physiopathologie des syndromes de maldigestion et de malabsorption, quelles propositions sont exactes ?",
+      "choices": [
+        "La maldigestion peut être due à un déficit enzymatique acquis ou congénital.",
+        "Un court-circuit chirurgical peut entraîner un déficit enzymatique fonctionnel.",
+        "La malabsorption pariétale peut être liée à une diminution de la surface d’absorption.",
+        "La malabsorption post-cellulaire est favorisée par une compression des voies de drainage lymphatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions correspondent aux mécanismes décrits : déficit enzymatique, court-circuit chirurgical, atteinte pariétale par diminution de surface, et atteinte post-cellulaire par obstacle lymphatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel segment assure la régulation fine de l’absorption hydrique selon le texte ?",
+      "choices": [
+        "Le duodénum",
+        "Le jéjunum",
+        "L’iléon",
+        "Le côlon"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La majeure partie des transferts hydriques se fait dans l’intestin grêle, mais le côlon assure la régulation fine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le niveau colique où l’absorption de l’eau est surtout réalisée ?",
+      "choices": [
+        "Parties ascendante et transverse",
+        "Parties transverse et descendante",
+        "Parties descendante et sigmoïde",
+        "Parties sigmoïde et rectale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le côlon absorbe environ 90 % de l’eau qui lui parvient, surtout au niveau des parties ascendante et transverse."
+    },
+    {
+      "type": "QCS",
+      "question": "À concentration physiologique, quelle condition est nécessaire à l’absorption de la vitamine B12 ?",
+      "choices": [
+        "La liaison au facteur intrinsèque",
+        "La liaison à la cholestérol estérase",
+        "La présence obligatoire de calcium ionisé",
+        "La transformation en fer ferreux"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Aux concentrations physiologiques, la vitamine B12 nécessite sa liaison au facteur intrinsèque sécrété par les cellules pariétales gastriques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mode d’absorption du calcium dépend de la vitamine D ?",
+      "choices": [
+        "La diffusion passive par forte concentration",
+        "La diffusion facilitée sans dépense énergétique",
+        "Le transport actif",
+        "L’émulsion micellaire"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le calcium peut être absorbé par voie passive, diffusion facilitée ou transport actif ; le transport actif dépend de la vitamine D."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie correspond à une cause de malabsorption post-cellulaire selon le texte ?",
+      "choices": [
+        "Déficit enzymatique congénital",
+        "Atrophie de la surface d’absorption",
+        "Déficit enzymatique de la bordure en brosse",
+        "Compression des voies de drainage lymphatique"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La malabsorption post-cellulaire peut être due à une agénésie ou à une compression des voies de drainage lymphatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle structure est décrite comme l’unité fonctionnelle principale de la digestion-absorption intestinale ?",
+      "choices": [
+        "L’entérocyte",
+        "Le chylomicron",
+        "Le facteur intrinsèque",
+        "La transferrine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que l’entérocyte est l’unité fonctionnelle principale de la digestion-absorption intestinale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les notions générales de digestion, d’absorption et de nutriment, quelles propositions sont exactes ?",
+      "choices": [
+        "La digestion correspond à la dégradation des grosses molécules alimentaires en unités de base facilement assimilables.",
+        "L’absorption correspond au passage des produits de la digestion vers la circulation sanguine ou lymphatique.",
+        "Un nutriment est une substance nutritive d’origine alimentaire circulant dans le sang et utilisable par les organes.",
+        "La digestion et l’absorption sont deux mécanismes successifs, totalement indépendants l’un de l’autre."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte définit la digestion, l’absorption et le nutriment. Il précise que digestion et absorption sont distinctes, simultanées et indissociables."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la progression des aliments et leur transformation en nutriments absorbables, quelles propositions sont exactes ?",
+      "choices": [
+        "Les aliments progressent le long du tube digestif.",
+        "Les actions mécaniques et chimiques des sucs digestifs transforment les aliments en nutriments solubles.",
+        "L’absorption se fait principalement au niveau de l’intestin grêle.",
+        "La surface d’absorption principale est pauvrement vascularisée afin de limiter le passage sanguin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les aliments deviennent des nutriments solubles absorbés surtout dans l’intestin grêle, dont la surface est richement vascularisée avec replis et villosités."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la localisation des processus digestifs, quelles propositions sont exactes ?",
+      "choices": [
+        "La digestion extracellulaire se déroule dans la lumière du tube digestif.",
+        "La digestion membranaire se déroule au niveau de la bordure en brosse.",
+        "La digestion intracellulaire fait intervenir des enzymes cytoplasmiques et lysosomiales.",
+        "La digestion membranaire est définie par l’action exclusive des enzymes pancréatiques dans la lumière intestinale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue digestion extracellulaire luminale, digestion membranaire au niveau de la bordure en brosse et digestion intracellulaire enzymatique cytoplasmique et lysosomiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques énergétiques et directionnelles des transferts membranaires décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Le transport facilité se fait dans le sens du gradient.",
+        "Le transport actif se fait contre le gradient et nécessite de l’ATP.",
+        "Le transport glucose-Na+ est cité comme exemple de transport couplé au métabolisme de la molécule transportée.",
+        "La pinocytose est présentée comme le mécanisme principal d’absorption de tous les monosaccharides."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite le transport facilité dans le sens du gradient, le transport actif ATP-dépendant contre le gradient, le transport glucose-Na+ et la pinocytose notamment pour certains acides gras."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la digestion glucidique chez les omnivores et les herbivores, quelles propositions sont exactes ?",
+      "choices": [
+        "Chez les omnivores, les glucides alimentaires sont digérés par des enzymes digestives.",
+        "Chez les herbivores, les fermentations microbiennes interviennent dans la digestion des glucides.",
+        "Les fermentations microbiennes chez les herbivores produisent des acides gras volatils dans le caeco-côlon.",
+        "Chez les herbivores, les polysaccharides sont absorbés directement sans transformation préalable."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte oppose la digestion enzymatique des omnivores aux fermentations microbiennes des herbivores, avec production d’acides gras volatils dans le caeco-côlon."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la nécessité d’une digestion complète des glucides, quelles propositions sont exactes ?",
+      "choices": [
+        "Seuls les monosaccharides peuvent être absorbés par les entérocytes.",
+        "La digestion complète des glucides est nécessaire pour leur absorption.",
+        "Chez l’adulte, il n’y a normalement pas d’absorption significative de di-, tri- ou polysaccharides.",
+        "Les disaccharides représentent normalement la forme dominante d’absorption glucidique chez l’adulte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que les glucides sont exclusivement absorbés sous forme de monosaccharides et qu’il n’existe pas normalement d’absorption significative de di-, tri- ou polysaccharides chez l’adulte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’action des amylases dans la digestion des polysaccharides, quelles propositions sont exactes ?",
+      "choices": [
+        "L’amylase salivaire peut initier l’hydrolyse de l’amidon.",
+        "Les amylases salivaires sont inactivées lorsque le pH est inférieur à 4,5.",
+        "L’amylase pancréatique réalise rapidement l’essentiel de la digestion de l’amidon et du glycogène.",
+        "L’amylase pancréatique transforme directement tous les disaccharides en monosaccharides au niveau de la bordure en brosse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amylase salivaire peut agir avant l’intestin mais est inactivée à pH inférieur à 4,5. L’amylase pancréatique hydrolyse surtout amidon et glycogène en maltose et oligosaccharides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les premières étapes de la digestion protéique, quelles propositions sont exactes ?",
+      "choices": [
+        "La digestion des protéines débute par la mastication.",
+        "Dans l’estomac, le brassage participe à la digestion des protéines.",
+        "Dans l’estomac, l’acide chlorhydrique et la pepsine interviennent dans la digestion protéique.",
+        "La digestion des protéines ne commence qu’après l’arrivée du chyme dans l’intestin grêle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que la digestion des protéines débute par la mastication puis se poursuit dans l’estomac sous l’effet du brassage, de l’HCl et de la pepsine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les endopeptidases impliquées dans la digestion des protéines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les endopeptidases clivent les protéines en petits polypeptides.",
+        "La pepsine est une endopeptidase active dans l’estomac.",
+        "La trypsine, l’élastase et la chymotrypsine sont d’origine pancréatique.",
+        "Les carboxypeptidases sont classées dans le texte parmi les endopeptidases."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les endopeptidases citées sont la pepsine gastrique et les enzymes pancréatiques trypsine, élastase et chymotrypsine. Les carboxypeptidases sont des exopeptidases."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les exopeptidases du suc intestinal, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles clivent les liaisons peptidiques terminales.",
+        "Les carboxypeptidases font partie des exopeptidases citées.",
+        "Les aminopeptidases font partie des exopeptidases citées.",
+        "La pepsine est l’exopeptidase principale du suc intestinal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les exopeptidases du suc intestinal clivent les liaisons terminales ; le texte cite les carboxypeptidases et les aminopeptidases."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes finales issues de la digestion protéique et leur importance relative à l’absorption, quelles propositions sont exactes ?",
+      "choices": [
+        "Les produits finaux comprennent des acides aminés libres.",
+        "Les produits finaux comprennent des dipeptides et des tripeptides.",
+        "Les petits peptides représentent une forme majeure d’absorption par les entérocytes.",
+        "La totalité des produits absorbés l’est sous forme d’acides aminés libres."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les produits finaux sont acides aminés libres, dipeptides et tripeptides. Environ deux tiers des produits absorbés le sont sous forme de peptides et un tiers sous forme d’acides aminés libres."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes d’entrée entérocytaire des produits de digestion protéique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les acides aminés libres sont absorbés par cotransport avec le sodium.",
+        "Les dipeptides sont absorbés par transport actif secondaire dépendant d’un gradient de protons H+.",
+        "Les tripeptides sont absorbés par transport actif secondaire dépendant d’un gradient de protons H+.",
+        "Les dipeptides et tripeptides sont libérés inchangés dans la lymphe après leur absorption."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les acides aminés libres utilisent un cotransport avec le sodium. Les dipeptides et tripeptides utilisent un transport actif secondaire dépendant des protons H+, puis sont hydrolysés en acides aminés dans l’entérocyte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les acteurs enzymatiques et biliaires de la digestion lipidique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lipases linguale et gastrique ont une contribution modeste.",
+        "La lipase pancréatique assure l’essentiel de l’hydrolyse lipidique.",
+        "Les sels biliaires sont synthétisés par le foie.",
+        "La lipase pancréatique assure la synthèse des sels biliaires dans la lumière intestinale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue une contribution modeste aux lipases linguale et gastrique, un rôle majeur à la lipase pancréatique et précise que les sels biliaires sont synthétisés par le foie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le comportement des graisses dans le milieu intestinal et le rôle des micelles, quelles propositions sont exactes ?",
+      "choices": [
+        "Les graisses hydrophobes tendent à former des amas dans le milieu aqueux intestinal.",
+        "Les sels biliaires fragmentent les graisses en fines gouttelettes.",
+        "L’émulsification augmente la surface de contact des graisses avec les enzymes pancréatiques.",
+        "Les micelles empêchent le contact des lipides avec la muqueuse de l’intestin grêle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les sels biliaires émulsifient les graisses, augmentent leur surface de contact et les micelles facilitent au contraire le contact des lipides avec la muqueuse intestinale."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les fermentations microbiennes des glucides chez les herbivores, quel site est explicitement cité pour la production d’acides gras volatils ?",
+      "choices": [
+        "L’estomac",
+        "Le duodénum",
+        "Le caeco-côlon",
+        "Le foie"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique que les fermentations microbiennes chez les herbivores produisent des acides gras volatils dans le caeco-côlon."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme de transfert membranaire nécessite explicitement de l’ATP selon le texte ?",
+      "choices": [
+        "La diffusion passive à travers des pores",
+        "Le transport facilité dans le sens du gradient",
+        "Le transport actif contre le gradient",
+        "La pinocytose des monosaccharides"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le transport actif contre le gradient est décrit comme nécessitant de l’ATP."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme est citée comme intervenant dans la digestion gastrique des protéines avec l’acide chlorhydrique ?",
+      "choices": [
+        "La pepsine",
+        "La sucrase",
+        "La maltase",
+        "La lactase"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans l’estomac, la digestion protéique se poursuit sous l’effet du brassage, de l’acide chlorhydrique et de la pepsine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme est citée comme hydrolysant le saccharose en glucose et fructose ?",
+      "choices": [
+        "La lactase",
+        "La maltase",
+        "La sucrase",
+        "L’isomaltase"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La sucrase hydrolyse le saccharose en glucose et fructose."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la structure des micelles, où sont regroupées les portions non polaires selon le texte ?",
+      "choices": [
+        "À la surface externe de la micelle",
+        "Au centre de la micelle",
+        "Dans la circulation sanguine",
+        "Dans la lumière gastrique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les micelles regroupent sels biliaires, acides gras et monoglycérides avec leur portion non polaire au centre."
+    },
+    {
+      "type": "QCS",
+      "question": "Après absorption entérocytaire, en quoi les dipeptides et tripeptides sont-ils hydrolysés dans le cytoplasme ?",
+      "choices": [
+        "En triglycérides",
+        "En monosaccharides",
+        "En acides aminés",
+        "En sels biliaires"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans le cytoplasme entérocytaire, les dipeptides et tripeptides sont hydrolysés en acides aminés puis libérés dans le sang."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des chylomicrons dans la période digestive, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des lipoprotéines formées en période de digestion.",
+        "Ils transportent des lipides exogènes à partir de l’intestin grêle.",
+        "Le tissu adipeux fait partie des tissus périphériques vers lesquels ils transportent les lipides.",
+        "Ils constituent le mécanisme principal d’absorption iléale de la vitamine B12."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chylomicrons sont formés en période digestive et transportent les lipides exogènes de l’intestin grêle vers les tissus périphériques, notamment le tissu adipeux. La vitamine B12 relève d’un mécanisme spécifique avec le facteur intrinsèque."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’étape cellulaire de l’absorption lipidique, quels phénomènes sont décrits ?",
+      "choices": [
+        "Diffusion des produits lipidiques dans l’entérocyte.",
+        "Resynthèse des triglycérides et des phospholipides.",
+        "Incorporation des lipides dans les chylomicrons.",
+        "Lipolyse intraluminale par la lipase pancréatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’étape cellulaire comporte la diffusion, la resynthèse des triglycérides et phospholipides, l’incorporation dans les chylomicrons puis l’excrétion lymphatique. La lipolyse par la lipase pancréatique appartient à l’étape intestinale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les particularités segmentaires des transferts hydriques intestinaux, quelles propositions sont exactes ?",
+      "choices": [
+        "Le duodénum est un lieu d’importants transferts par voie paracellulaire.",
+        "Le jéjunum absorbe davantage en raison de sa perméabilité et de l’osmolarité du chyme.",
+        "Dans l’iléon, l’absorption du sodium et de l’eau est indépendante de celle des sucres et des acides aminés.",
+        "Dans l’iléon, l’absorption du sodium et de l’eau dépend obligatoirement de celle des sucres et des acides aminés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise le rôle paracellulaire du duodénum, l’absorption jéjunale liée à la perméabilité et à l’osmolarité, et l’indépendance iléale de l’absorption de l’eau et du sodium vis-à-vis des sucres et acides aminés."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du rôle du côlon dans l’absorption hydrique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il absorbe environ 90 % de l’eau qui lui parvient.",
+        "L’absorption colique de l’eau prédomine dans les parties ascendante et transverse.",
+        "Il assure la régulation fine de l’absorption hydrique.",
+        "Il réalise la majeure partie de tous les transferts hydriques digestifs."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le côlon absorbe environ 90 % de l’eau qui lui arrive, surtout dans ses parties ascendante et transverse, et assure la régulation fine. La majeure partie des transferts hydriques se fait dans l’intestin grêle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bicarbonates dans le tube digestif, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont sécrétés dans le duodénum par le pancréas.",
+        "Ils sont sécrétés dans le duodénum par les voies biliaires.",
+        "Ils sont ensuite absorbés dans le jéjunum.",
+        "Leur absorption principale est décrite au niveau de l’estomac."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les bicarbonates sont sécrétés dans le duodénum par le pancréas et les voies biliaires, puis absorbés dans le jéjunum."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités d’absorption des vitamines hydrosolubles citées, quelles propositions sont exactes ?",
+      "choices": [
+        "La riboflavine B2, la pyridoxine B6, la nicotinamide PP et la vitamine C sont absorbées par diffusion passive.",
+        "La thiamine B1 utilise un transport passif à forte concentration.",
+        "La thiamine B1 utilise un transport actif à faible concentration.",
+        "Les folates sont absorbés uniquement par un transport actif dépendant de la vitamine D."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "B2, B6, PP et C sont absorbées par diffusion passive. La thiamine B1 a un transport passif à forte concentration et actif à faible concentration. Les folates relèvent d’un mécanisme passif ou d’une diffusion facilitée."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas d’altération des mécanismes d’absorption lipidique dépendant des sels biliaires et des micelles, quelles vitamines sont directement concernées selon le texte ?",
+      "choices": [
+        "Vitamine A.",
+        "Vitamine D.",
+        "Vitamine E.",
+        "Vitamine K."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les vitamines liposolubles A, D, E et K sont absorbées selon les mécanismes d’absorption des lipides, avec participation des sels biliaires et formation de micelles."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’absorption de la vitamine B12, quelles propositions sont exactes ?",
+      "choices": [
+        "À fortes concentrations, elle peut être absorbée par diffusion passive.",
+        "Aux concentrations physiologiques, elle nécessite une liaison au facteur intrinsèque.",
+        "Le facteur intrinsèque est sécrété par les cellules pariétales gastriques.",
+        "Aux concentrations physiologiques, elle est absorbée sans intervention du facteur intrinsèque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine B12 peut diffuser passivement à fortes concentrations. Aux concentrations physiologiques, elle doit se lier au facteur intrinsèque sécrété par les cellules pariétales gastriques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la répartition du fer dans l’organisme, quelles propositions sont exactes ?",
+      "choices": [
+        "L’organisme contient environ 4 g de fer.",
+        "Environ 2 à 2,5 g de fer sont sous forme d’hémoglobine.",
+        "Le foie est un site important de stockage du fer.",
+        "La majeure partie du fer de l’organisme est décrite comme libre dans la lumière intestinale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique environ 4 g de fer total, dont 2 à 2,5 g sous forme d’hémoglobine, avec le foie comme site important de stockage."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs favorisent l’absorption du fer selon le texte ?",
+      "choices": [
+        "La forme ferreuse Fe2+ par rapport à la forme ferrique Fe3+.",
+        "L’acide chlorhydrique gastrique par solubilisation du fer.",
+        "Les réducteurs, notamment la vitamine C.",
+        "Le caractère héminique du fer provenant de l’hémoglobine."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le fer Fe2+ est absorbé plus rapidement que Fe3+, l’acide chlorhydrique favorise la solubilisation, la vitamine C augmente l’absorption et le fer héminique est mieux absorbé que le fer minéral."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation et les déterminants entérocytaires de l’absorption du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "L’érythropoïèse participe à la régulation de l’absorption du fer.",
+        "L’état des stocks en fer intervient dans cette régulation.",
+        "Il existe des récepteurs à la transferrine sur la membrane entérocytaire.",
+        "La calcitonine est présentée comme le principal régulateur de l’absorption du fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’absorption du fer est régulée par l’érythropoïèse et l’état des stocks. Le texte mentionne des récepteurs à la transferrine sur la membrane entérocytaire. La calcitonine concerne la régulation calcique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conditions et modes d’absorption du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "Le calcium doit être ionisé pour être absorbé.",
+        "La solubilité du calcium est favorisée par un pH acide.",
+        "Une absorption passive est possible en cas de forte concentration.",
+        "La diffusion facilitée nécessite un transporteur sans dépense énergétique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le calcium doit être ionisé donc soluble, ce qui est favorisé par un pH acide. Les modes décrits incluent l’absorption passive à forte concentration et la diffusion facilitée sans dépense énergétique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments participent à la régulation de l’absorption du calcium selon le texte ?",
+      "choices": [
+        "Vitamine D.",
+        "Calcitonine.",
+        "Parathormone.",
+        "Érythropoïèse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La régulation de l’absorption calcique dépend notamment de la vitamine D, de la calcitonine et de la parathormone. L’érythropoïèse est citée pour la régulation de l’absorption du fer."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la classification physiopathologique des troubles de digestion-absorption, quelles associations sont exactes ?",
+      "choices": [
+        "Déficit enzymatique acquis ou congénital : maldigestion.",
+        "Déficit enzymatique fonctionnel après court-circuit chirurgical : maldigestion.",
+        "Atrophie ou ulcérations diminuant la surface d’absorption : malabsorption pariétale.",
+        "Compression des voies de drainage lymphatique : malabsorption post-cellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue la maldigestion par déficit enzymatique, la malabsorption pariétale par réduction de surface ou déficit de bordure en brosse, et la malabsorption post-cellulaire par anomalie des voies de drainage."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel volume total d’eau atteint approximativement le tube digestif chaque jour en additionnant l’eau ingérée et les sécrétions digestives ?",
+      "choices": [
+        "2 litres.",
+        "4 litres.",
+        "7 litres.",
+        "9 litres."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Environ 2 litres d’eau sont ingérés par jour, auxquels s’ajoutent environ 7 litres de sécrétions digestives, soit environ 9 litres."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quel segment l’absorption du sodium et de l’eau est-elle indépendante de celle des sucres et des acides aminés ?",
+      "choices": [
+        "Duodénum.",
+        "Iléon.",
+        "Côlon transverse.",
+        "Estomac."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que, dans l’iléon, l’absorption du sodium et de l’eau est indépendante de celle des sucres et des acides aminés."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel segment est le principal site d’absorption des sels biliaires et de la vitamine B12 selon l’exception mentionnée ?",
+      "choices": [
+        "Duodénum.",
+        "Jéjunum.",
+        "Iléon.",
+        "Côlon descendant."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La digestion et l’absorption se déroulent surtout dans le duodénum et le jéjunum, sauf pour les sels biliaires et la vitamine B12, principalement absorbés au niveau iléal."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle vitamine hydrosoluble utilise un transport passif à forte concentration et un transport actif à faible concentration ?",
+      "choices": [
+        "Thiamine B1.",
+        "Riboflavine B2.",
+        "Pyridoxine B6.",
+        "Acide ascorbique C."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La thiamine B1 est absorbée par transport passif à forte concentration et par transport actif à faible concentration."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur augmente les besoins calciques selon le texte ?",
+      "choices": [
+        "La croissance.",
+        "La diminution de l’érythropoïèse.",
+        "La formation des chylomicrons.",
+        "La sécrétion biliaire de bicarbonates."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que les besoins en calcium sont augmentés pendant la croissance."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelles cellules sécrètent le facteur intrinsèque nécessaire à l’absorption physiologique de la vitamine B12 ?",
+      "choices": [
+        "Cellules pariétales gastriques.",
+        "Entérocytes jéjunaux.",
+        "Cellules pancréatiques.",
+        "Cellules des voies biliaires."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Aux concentrations physiologiques, la vitamine B12 doit se lier au facteur intrinsèque, sécrété par les cellules pariétales gastriques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments anatomiques ou fonctionnels expliquent, selon le texte, l’efficacité de l’absorption au niveau de l’intestin grêle ?",
+      "choices": [
+        "Une surface richement vascularisée",
+        "La présence de replis et de villosités",
+        "Une absorption principalement assurée par l’estomac",
+        "La transformation préalable des aliments en nutriments solubles"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise que les nutriments solubles sont absorbés principalement dans l’intestin grêle grâce à une surface richement vascularisée, avec replis et villosités."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des niveaux où s’effectue la digestion, quelles propositions sont exactes ?",
+      "choices": [
+        "La digestion extracellulaire se déroule dans la lumière digestive",
+        "La digestion membranaire se déroule au niveau de la bordure en brosse",
+        "La digestion intracellulaire fait intervenir des enzymes cytoplasmiques et lysosomiales",
+        "La digestion intracellulaire correspond à l’action des enzymes pancréatiques dans la lumière intestinale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La digestion extracellulaire est luminale, la digestion membranaire se fait au niveau de la bordure en brosse, et la digestion intracellulaire implique des enzymes cytoplasmiques et lysosomiales."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour les transferts membranaires digestifs cités dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La diffusion passive peut se faire à travers des pores",
+        "Le transport facilité se fait dans le sens du gradient",
+        "Le transport actif se fait contre le gradient et nécessite de l’ATP",
+        "Le couplage glucose-Na+ correspond à une pinocytose"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la diffusion passive à travers des pores, le transport facilité dans le sens du gradient et le transport actif contre le gradient avec ATP. Le glucose-Na+ relève d’un transport couplé, non d’une pinocytose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’activité de l’amylase salivaire dans la digestion glucidique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est inactivée lorsque le pH devient inférieur à 4,5",
+        "Son action peut donc être limitée par l’acidité gastrique",
+        "Elle assure à elle seule toute la digestion de l’amidon avant l’intestin",
+        "Une partie de l’amidon peut être digérée avant l’arrivée dans l’intestin"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les amylases salivaires sont inactivées pour un pH inférieur à 4,5. Une partie de l’amidon peut être digérée avant l’intestin, mais l’essentiel est réalisé ensuite par l’amylase pancréatique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’action de l’amylase pancréatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle intervient dans la digestion de l’amidon",
+        "Elle intervient dans la digestion du glycogène",
+        "Elle transforme directement l’ensemble des polysaccharides en monosaccharides libres",
+        "Elle produit notamment du maltose et des oligosaccharides"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’amylase pancréatique réalise rapidement l’essentiel de la digestion de l’amidon et du glycogène en maltose et oligosaccharides, sans produire directement uniquement des monosaccharides."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez l’adulte, quelles affirmations sont exactes concernant l’absorption des glucides ?",
+      "choices": [
+        "Les glucides sont exclusivement absorbés sous forme de monosaccharides",
+        "L’absorption significative des disaccharides est normalement importante",
+        "Les monosaccharides sont principalement absorbés dans le duodénum et le jéjunum",
+        "La digestion complète des glucides est nécessaire à leur absorption"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Seuls les monosaccharides sont absorbés de façon significative chez l’adulte, principalement dans le duodénum et le jéjunum, ce qui impose une digestion complète."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités de digestion des glucides selon le type d’organisme décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Chez les omnivores, les glucides alimentaires sont digérés par des enzymes digestives",
+        "Chez les herbivores, les fermentations microbiennes interviennent dans la digestion glucidique",
+        "Les fermentations microbiennes produisent des acides gras volatils dans le caeco-côlon",
+        "Les fermentations microbiennes transforment directement les glucides en chylomicrons"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte oppose la digestion enzymatique chez les omnivores aux fermentations microbiennes chez les herbivores, avec production d’acides gras volatils dans le caeco-côlon."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la digestion des protéines, quelles étapes ou acteurs sont correctement décrits ?",
+      "choices": [
+        "La mastication participe au début de la digestion protéique",
+        "Dans l’estomac interviennent le brassage, l’acide chlorhydrique et la pepsine",
+        "Dans l’intestin interviennent des enzymes pancréatiques et des enzymes de la bordure en brosse",
+        "La phase intestinale est inutile si la phase gastrique est normale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La digestion protéique commence par la mastication, se poursuit dans l’estomac avec brassage, HCl et pepsine, puis continue dans l’intestin grâce aux enzymes pancréatiques et de la bordure en brosse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le mode d’action des peptidases citées, quelles propositions sont exactes ?",
+      "choices": [
+        "Les endopeptidases clivent les protéines en petits polypeptides",
+        "La pepsine est une endopeptidase intervenant dans l’estomac",
+        "Les carboxypeptidases et aminopeptidases clivent des liaisons peptidiques terminales",
+        "L’élastase est une exopeptidase du suc intestinal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les endopeptidases incluent la pepsine, la trypsine, l’élastase et la chymotrypsine. Les exopeptidases du suc intestinal, carboxypeptidases et aminopeptidases, clivent les liaisons terminales."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’importance relative des formes absorbées issues de la digestion protéique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les petits peptides constituent une forme majeure d’absorption",
+        "Environ deux tiers des produits absorbés le sont sous forme de peptides",
+        "Environ un tiers des produits absorbés le sont sous forme d’acides aminés libres",
+        "Les acides aminés libres ne sont jamais absorbés par les entérocytes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que les petits peptides sont une forme majeure d’absorption : environ deux tiers sous forme de peptides et un tiers sous forme d’acides aminés libres."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le devenir entérocytaire des dipeptides et tripeptides, quelles propositions sont exactes ?",
+      "choices": [
+        "Leur absorption dépend d’un gradient de protons H+",
+        "Elle relève d’un transport actif secondaire",
+        "Ils sont libérés dans le sang sous forme intacte prédominante",
+        "Ils sont hydrolysés en acides aminés dans le cytoplasme entérocytaire"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les dipeptides et tripeptides sont absorbés par transport actif secondaire dépendant d’un gradient H+, puis hydrolysés en acides aminés dans le cytoplasme avant libération sanguine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lipides alimentaires et les acides gras, quelles propositions sont exactes ?",
+      "choices": [
+        "Les triglycérides font partie des principales classes de lipides alimentaires citées",
+        "Les phospholipides et le cholestérol sont également cités",
+        "Le foie synthétise la majorité des acides gras",
+        "Les acides linoléique et linolénique sont présentés comme non essentiels"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les principales classes citées sont triglycérides, phospholipides et cholestérol. Le foie synthétise la majorité des acides gras, sauf les acides gras essentiels comme les acides linoléique et linolénique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la digestion lipidique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lipases linguale et gastrique ont une contribution modeste",
+        "La lipase pancréatique assure l’essentiel de l’hydrolyse lipidique",
+        "Les sels biliaires sont synthétisés par le foie",
+        "Les sels biliaires hydrolysent directement les triglycérides en acides aminés"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lipases linguale et gastrique contribuent modestement, tandis que la lipase pancréatique est principale. Les sels biliaires sont synthétisés par le foie et agissent par émulsification et formation de micelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les micelles lipidiques intestinales, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent contenir des monoglycérides et des acides gras à longue chaîne",
+        "Elles favorisent le contact des lipides avec la muqueuse de l’intestin grêle",
+        "Au contact de la muqueuse, elles libèrent leur contenu qui diffuse dans l’entérocyte",
+        "Elles sont formées dans le sang après association aux protéines porteuses"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les micelles contiennent notamment monoglycérides, acides gras à longue chaîne, phospholipides, cholestérol et vitamines liposolubles. Elles amènent les lipides à la muqueuse et libèrent leur contenu pour diffusion entérocytaire."
+    },
+    {
+      "type": "QCS",
+      "question": "À partir de quel seuil de pH l’amylase salivaire est-elle inactivée selon le texte ?",
+      "choices": [
+        "pH inférieur à 6,5",
+        "pH inférieur à 5,5",
+        "pH inférieur à 4,5",
+        "pH inférieur à 3,0"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que les amylases salivaires sont inactivées pour un pH inférieur à 4,5."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel produit final de la digestion protéique est absorbé comme petit peptide avant hydrolyse cytoplasmique ?",
+      "choices": [
+        "Glucose",
+        "Dipeptide",
+        "Monoglycéride",
+        "Acide gras à longue chaîne"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les dipeptides et tripeptides sont des produits finaux absorbés par les entérocytes puis hydrolysés en acides aminés dans le cytoplasme."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme sépare les chaînes d’acides gras du glycérol des triglycérides ?",
+      "choices": [
+        "Lactase",
+        "Pepsine",
+        "Lipase pancréatique",
+        "Isomaltase"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La lipase pancréatique sépare les chaînes d’acides gras du glycérol des triglycérides."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’entérocyte, quelle étape est explicitement placée juste avant la formation des chylomicrons ?",
+      "choices": [
+        "L’association à des protéines porteuses",
+        "L’émulsification par les sels biliaires",
+        "L’inactivation par un pH inférieur à 4,5",
+        "L’hydrolyse en acides aminés"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte décrit dans l’entérocyte : resynthèse des triglycérides, association à des protéines porteuses, formation de chylomicrons, puis passage lymphatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la structure des micelles, quel élément est regroupé au centre ?",
+      "choices": [
+        "Les portions non polaires",
+        "Les enzymes pancréatiques",
+        "Les ions sodium",
+        "Les peptides terminaux"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les micelles sont constituées avec les portions non polaires regroupées au centre."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association enzyme-substrat-produit de la bordure en brosse est correcte ?",
+      "choices": [
+        "Maltase : maltose → glucose + glucose",
+        "Lactase : saccharose → glucose + fructose",
+        "Sucrase : lactose → glucose + galactose",
+        "Isomaltase : amidon → acides aminés"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La maltase hydrolyse le maltose en deux molécules de glucose. Les autres associations proposées sont incorrectes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le bilan hydrique digestif quotidien décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Environ 2 litres d’eau sont ingérés par jour.",
+        "Environ 7 litres de sécrétions digestives s’ajoutent à l’eau ingérée.",
+        "Plus de 99 % de cette eau est réabsorbée.",
+        "La majeure partie des transferts hydriques se fait dans le côlon."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique 2 L ingérés, 7 L de sécrétions digestives et une réabsorption de plus de 99 %. La majorité des transferts hydriques se fait dans l’intestin grêle, non dans le côlon."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer les rôles segmentaires dans l’absorption de l’eau, quelles affirmations sont justes ?",
+      "choices": [
+        "Le jéjunum absorbe davantage en raison de la perméabilité et de l’osmolarité du chyme.",
+        "Dans l’iléon, l’absorption du sodium et de l’eau est indépendante de celle des sucres et des acides aminés.",
+        "Le côlon absorbe environ 90 % de l’eau qui lui parvient.",
+        "Le côlon assure la majorité des transferts hydriques de tout le tube digestif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le jéjunum, l’iléon et le côlon ont les rôles indiqués. La majorité des transferts hydriques globaux est réalisée par l’intestin grêle."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des bicarbonates digestifs, quelles propositions respectent le texte ?",
+      "choices": [
+        "Ils sont sécrétés dans le duodénum par le pancréas.",
+        "Ils sont également apportés par les voies biliaires au niveau du duodénum.",
+        "Ils sont principalement sécrétés par le côlon ascendant et transverse.",
+        "Ils sont absorbés dans le jéjunum."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les bicarbonates sont sécrétés dans le duodénum par le pancréas et les voies biliaires, puis absorbés dans le jéjunum."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certains modes d’absorption des vitamines hydrosolubles, quelles associations sont correctes ?",
+      "choices": [
+        "Riboflavine B2 : diffusion passive.",
+        "Pyridoxine B6 : diffusion passive.",
+        "Nicotinamide PP : diffusion passive.",
+        "Thiamine B1 : transport exclusivement actif à forte concentration."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "B2, B6, PP et C sont absorbées par diffusion passive. La thiamine B1 utilise un transport passif à forte concentration et actif à faible concentration."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour la vitamine B12, quelles données sont exactes selon les mécanismes décrits ?",
+      "choices": [
+        "La vitamine B12 est aussi appelée cobalamine.",
+        "Elle peut être absorbée par diffusion passive à fortes concentrations.",
+        "Aux concentrations physiologiques, elle nécessite une liaison au facteur intrinsèque.",
+        "Le complexe vitamine B12-facteur intrinsèque se fixe sur des récepteurs spécifiques de la bordure en brosse jéjunale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine B12 est la cobalamine ; à fortes concentrations, elle peut diffuser passivement. Aux concentrations physiologiques, elle nécessite le facteur intrinsèque et se fixe sur des récepteurs de la bordure en brosse iléale."
+    },
+    {
+      "type": "QCM",
+      "question": "Si l’on analyse l’absorption des vitamines liposolubles, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle concerne les vitamines A, D, E et K.",
+        "Elle suit les mécanismes d’absorption des lipides.",
+        "Elle fait intervenir les sels biliaires et la formation de micelles.",
+        "Elle est décrite comme indépendante des mécanismes d’absorption lipidique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vitamines A, D, E et K sont absorbées selon les mécanismes lipidiques, avec participation des sels biliaires et formation de micelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les facteurs favorisant l’absorption du fer, lesquels sont mentionnés ?",
+      "choices": [
+        "Le fer ferreux Fe2+ est absorbé plus rapidement que le fer ferrique Fe3+.",
+        "L’acide chlorhydrique gastrique favorise la solubilisation du fer.",
+        "La vitamine C augmente l’absorption du fer.",
+        "Le fer minéral est absorbé plus facilement que le fer héminique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Fe2+, l’acide chlorhydrique et les réducteurs comme la vitamine C favorisent l’absorption. Le fer héminique est mieux absorbé que le fer minéral."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du contenu corporel en fer et de sa régulation, quelles affirmations sont exactes ?",
+      "choices": [
+        "L’organisme contient environ 4 g de fer.",
+        "Environ 2 à 2,5 g de fer sont sous forme d’hémoglobine.",
+        "L’absorption du fer est régulée par l’érythropoïèse et l’état des stocks en fer.",
+        "La membrane entérocytaire est dépourvue de récepteurs à la transferrine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise environ 4 g de fer total, dont 2 à 2,5 g sous forme d’hémoglobine. La régulation dépend de l’érythropoïèse et des stocks ; des récepteurs à la transferrine existent sur la membrane entérocytaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conditions générales d’absorption du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "Les apports calciques proviennent de l’alimentation et des sources endogènes.",
+        "Les besoins calciques sont augmentés pendant la croissance.",
+        "Le calcium doit être ionisé, donc soluble, pour être absorbé.",
+        "Un pH acide favorise l’ionisation du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions reprennent les conditions et déterminants décrits pour l’absorption du calcium."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la maldigestion, quelles causes sont correctement classées ?",
+      "choices": [
+        "Déficit enzymatique acquis.",
+        "Déficit enzymatique congénital.",
+        "Déficit enzymatique fonctionnel après court-circuit chirurgical.",
+        "Compression des voies de drainage lymphatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maldigestion peut être due à un déficit enzymatique acquis, congénital ou fonctionnel, notamment après court-circuit chirurgical. La compression lymphatique relève de la malabsorption post-cellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour classer une malabsorption selon le niveau atteint, quelles associations sont exactes ?",
+      "choices": [
+        "Atrophie ou ulcérations : malabsorption pariétale.",
+        "Déficit enzymatique de la bordure en brosse : malabsorption pariétale.",
+        "Agénésie des voies de drainage : malabsorption post-cellulaire.",
+        "Compression des voies de drainage lymphatique : malabsorption post-cellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte classe la diminution de surface et les déficits de bordure en brosse dans la malabsorption pariétale, et les anomalies des voies de drainage dans la malabsorption post-cellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "En intégrant l’unité fonctionnelle et les principaux sites d’absorption, quelles propositions sont exactes ?",
+      "choices": [
+        "L’entérocyte est l’unité fonctionnelle principale de la digestion-absorption intestinale.",
+        "La digestion et l’absorption se déroulent principalement dans le duodénum et le jéjunum.",
+        "Les sels biliaires et la vitamine B12 constituent des exceptions avec absorption principalement iléale.",
+        "La vitamine B12 est principalement absorbée au niveau colique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’entérocyte est l’unité fonctionnelle principale. Les processus se déroulent surtout dans le duodénum et le jéjunum, sauf sels biliaires et vitamine B12, absorbés surtout dans l’iléon."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des chylomicrons, quelles caractéristiques sont exactes ?",
+      "choices": [
+        "Ce sont des lipoprotéines formées en période de digestion.",
+        "Ils transportent les lipides exogènes de l’intestin grêle vers les tissus périphériques.",
+        "Le tissu adipeux est cité parmi les tissus périphériques concernés.",
+        "Ils se forment avant la resynthèse entérocytaire des triglycérides et des phospholipides."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chylomicrons sont des lipoprotéines digestives transportant les lipides exogènes vers les tissus périphériques, notamment le tissu adipeux. Leur incorporation suit la resynthèse des triglycérides et phospholipides."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’étape intestinale de la digestion lipidique, quels éléments sont correctement cités ?",
+      "choices": [
+        "Elle est essentielle.",
+        "Elle comporte une émulsion micellaire par les sels biliaires.",
+        "Elle comporte une lipolyse faisant intervenir la lipase pancréatique, la colipase et le calcium.",
+        "La phospholipase A2 et la cholestérol estérase sont citées parmi les intervenants."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’étape intestinale est essentielle et associe émulsion micellaire par les sels biliaires et lipolyse par les enzymes et facteurs cités."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel volume approximatif de sécrétions digestives s’ajoute chaque jour à l’eau ingérée ?",
+      "choices": [
+        "2 litres",
+        "4 litres",
+        "7 litres",
+        "12 litres"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique qu’environ 7 litres de sécrétions digestives s’ajoutent aux 2 litres d’eau ingérés quotidiennement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle étape de la digestion lipidique est décrite comme peu importante ?",
+      "choices": [
+        "L’étape gastrique",
+        "L’étape intestinale",
+        "L’étape cellulaire",
+        "L’excrétion lymphatique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’étape gastrique de la digestion lipidique est décrite comme peu importante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel organe est cité comme site important de stockage du fer ?",
+      "choices": [
+        "La rate",
+        "Le foie",
+        "Le côlon",
+        "Le pancréas"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le foie est mentionné comme un site important de stockage du fer."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme d’absorption est attribué aux folates ?",
+      "choices": [
+        "Transport actif dépendant de la vitamine D",
+        "Mécanisme passif ou diffusion facilitée",
+        "Absorption uniquement liée au facteur intrinsèque",
+        "Incorporation obligatoire dans les chylomicrons"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les folates sont absorbés par mécanisme passif ou diffusion facilitée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mode d’absorption du calcium nécessite un transporteur sans dépense énergétique ?",
+      "choices": [
+        "Absorption passive à forte concentration",
+        "Diffusion facilitée",
+        "Transport actif dépendant de la vitamine D",
+        "Excrétion lymphatique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La diffusion facilitée nécessite un transporteur sans dépense énergétique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel segment est décrit comme un lieu d’importants transferts hydriques par voie paracellulaire ?",
+      "choices": [
+        "Le duodénum",
+        "L’iléon terminal",
+        "Le côlon sigmoïde",
+        "Le rectum"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le duodénum est indiqué comme un lieu d’importants transferts hydriques par voie paracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’interprétation physiologique de l’absorption digestive, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle correspond au passage des produits de digestion depuis la lumière digestive vers une circulation.",
+        "Elle peut aboutir à un passage dans la circulation sanguine ou lymphatique.",
+        "Elle précède toujours la digestion chimique des aliments.",
+        "Elle porte sur des produits rendus assimilables par les étapes digestives."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’absorption est le passage des produits de digestion vers la circulation sanguine ou lymphatique. Elle est distincte mais simultanée et indissociable de la digestion, et ne la précède pas systématiquement."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des différents niveaux de digestion, quelles associations sont exactes ?",
+      "choices": [
+        "Digestion extracellulaire : lumière du tube digestif.",
+        "Digestion membranaire : bordure en brosse.",
+        "Digestion intracellulaire : enzymes cytoplasmiques et lysosomiales.",
+        "Digestion membranaire : exclusivement enzymes pancréatiques intraluminales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La digestion extracellulaire se fait dans la lumière, la digestion membranaire au niveau de la bordure en brosse, et la digestion intracellulaire grâce aux enzymes cytoplasmiques et lysosomiales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modes de transfert membranaire cités, quelles propositions sont exactes ?",
+      "choices": [
+        "La diffusion passive peut se faire à travers des pores.",
+        "Le transport facilité se fait dans le sens du gradient.",
+        "La pinocytose est mentionnée notamment pour certains acides gras.",
+        "Le transport actif se fait toujours dans le sens du gradient."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la diffusion passive à travers des pores, le transport facilité dans le sens du gradient et la pinocytose pour certains acides gras. Le transport actif se fait contre le gradient et nécessite de l’ATP."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez l’adulte, face à un contenu intestinal riche en glucides partiellement hydrolysés, quelles affirmations sont exactes ?",
+      "choices": [
+        "Les disaccharides doivent être transformés en monosaccharides avant absorption significative.",
+        "Les disaccharidases de la bordure en brosse achèvent la digestion glucidique.",
+        "Les trisaccharides sont normalement absorbés de façon importante.",
+        "Les monosaccharides sont les formes absorbables par les entérocytes."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Chez l’adulte, les glucides sont absorbés exclusivement sous forme de monosaccharides ; il n’y a normalement pas d’absorption significative de di-, tri- ou polysaccharides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hydrolyse de l’amidon et du glycogène, quelles propositions respectent le texte ?",
+      "choices": [
+        "L’amylase pancréatique réalise rapidement l’essentiel de leur digestion.",
+        "Les produits intermédiaires comprennent le maltose et des oligosaccharides.",
+        "L’amylase salivaire peut permettre une digestion partielle avant l’arrivée dans l’intestin.",
+        "Les amylases transforment directement tous les polysaccharides en acides gras volatils chez l’omnivore."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amylase salivaire peut débuter la digestion de l’amidon, tandis que l’amylase pancréatique assure l’essentiel de la digestion de l’amidon et du glycogène en maltose et oligosaccharides."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour la digestion des protéines avant leur absorption, quelles étapes ou facteurs sont mentionnés ?",
+      "choices": [
+        "La mastication intervient au début du processus.",
+        "Le brassage gastrique participe à la digestion protéique.",
+        "L’acide chlorhydrique et la pepsine interviennent dans l’estomac.",
+        "La digestion protéique est exclusivement intracellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La digestion protéique débute par la mastication, se poursuit dans l’estomac avec le brassage, l’acide chlorhydrique et la pepsine, puis continue dans l’intestin."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la distinction entre endopeptidases et exopeptidases, quelles propositions sont exactes ?",
+      "choices": [
+        "Les endopeptidases clivent les protéines en petits polypeptides.",
+        "La pepsine est une endopeptidase gastrique.",
+        "Les carboxypeptidases et aminopeptidases clivent des liaisons peptidiques terminales.",
+        "La trypsine, l’élastase et la chymotrypsine sont des exopeptidases du suc intestinal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les endopeptidases comprennent la pepsine, la trypsine, l’élastase et la chymotrypsine. Les exopeptidases, comme carboxypeptidases et aminopeptidases, clivent les liaisons terminales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’entrée entérocytaire des produits de digestion protéique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les acides aminés libres utilisent un cotransport avec le sodium.",
+        "Les dipeptides et tripeptides utilisent un transport actif secondaire.",
+        "Le transport des petits peptides dépend d’un gradient de protons H+.",
+        "Les dipeptides sont libérés tels quels dans le sang sans hydrolyse intracellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les acides aminés libres sont absorbés avec le sodium. Les dipeptides et tripeptides utilisent un transport actif secondaire dépendant du gradient H+, puis sont hydrolysés en acides aminés dans l’entérocyte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la préparation intraluminale des lipides à l’action enzymatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les graisses hydrophobes tendent à former des amas dans le milieu aqueux intestinal.",
+        "Les sels biliaires fragmentent les graisses en fines gouttelettes.",
+        "L’émulsification augmente la surface de contact des lipides.",
+        "Les sels biliaires remplacent totalement l’action de la lipase pancréatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les sels biliaires émulsifient les graisses hydrophobes en fines gouttelettes, augmentant la surface de contact et facilitant l’action des enzymes pancréatiques, sans remplacer la lipase pancréatique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des micelles lipidiques intestinales, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles participent au contact des lipides avec la muqueuse de l’intestin grêle.",
+        "Elles contiennent notamment des monoglycérides et des acides gras à longue chaîne.",
+        "Elles peuvent transporter du cholestérol et des vitamines liposolubles.",
+        "Elles sont constituées uniquement de protéines porteuses."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les micelles contiennent notamment monoglycérides, acides gras à longue chaîne, phospholipides, cholestérol et vitamines liposolubles. Elles favorisent le contact avec la muqueuse intestinale."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’entérocyte, après diffusion du contenu micellaire, quels phénomènes sont décrits ?",
+      "choices": [
+        "Resynthèse des triglycérides.",
+        "Association à des protéines porteuses.",
+        "Formation de chylomicrons.",
+        "Transformation des triglycérides en dextrines limites."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après entrée dans l’entérocyte, le texte décrit la resynthèse des triglycérides, leur association à des protéines porteuses, puis la formation des chylomicrons."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lipides alimentaires et les acides gras, quelles propositions sont exactes ?",
+      "choices": [
+        "Les triglycérides font partie des principales classes de lipides alimentaires.",
+        "Les phospholipides font partie des principales classes de lipides alimentaires.",
+        "Le cholestérol fait partie des principales classes de lipides alimentaires.",
+        "L’acide linoléique et l’acide linolénique sont cités comme acides gras synthétisés majoritairement par le foie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les principales classes citées sont les triglycérides, phospholipides et cholestérol. Les acides linoléique et linolénique sont des acides gras essentiels, non inclus dans la synthèse majoritaire hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Si l’action des sels biliaires est insuffisante, quels mécanismes décrits seraient directement compromis ?",
+      "choices": [
+        "L’émulsification des graisses.",
+        "La formation de micelles.",
+        "L’augmentation de la surface de contact des graisses avec les enzymes pancréatiques.",
+        "La synthèse gastrique de la pepsine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les sels biliaires assurent l’émulsification, la formation des micelles et facilitent l’action enzymatique en augmentant la surface de contact. Ils ne participent pas à la synthèse de la pepsine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes absorbées des protéines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les acides aminés libres font partie des produits finaux de digestion.",
+        "Les dipeptides font partie des produits finaux de digestion.",
+        "Les tripeptides font partie des produits finaux de digestion.",
+        "Les protéines intactes constituent la forme majeure d’absorption entérocytaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les produits finaux de la digestion protéique sont les acides aminés libres, dipeptides et tripeptides. Les petits peptides représentent une forme majeure d’absorption, non les protéines intactes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mode de transfert est explicitement cité pour certains acides gras ?",
+      "choices": [
+        "Transport facilité.",
+        "Pinocytose.",
+        "Cotransport avec le sodium.",
+        "Transport actif primaire ATP-dépendant."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte mentionne la pinocytose notamment pour certains acides gras."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le produit attendu de la digestion membranaire selon le texte ?",
+      "choices": [
+        "Des oligomères et des monomères.",
+        "Des chylomicrons circulants.",
+        "Des protéines alimentaires intactes.",
+        "Des amas hydrophobes non émulsifiés."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La digestion membranaire, au niveau de la bordure en brosse, produit des oligomères et des monomères."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement le devenir des micelles au contact de la muqueuse intestinale ?",
+      "choices": [
+        "Elles libèrent leur contenu, qui diffuse dans l’entérocyte.",
+        "Elles sont absorbées intactes dans le sang portal.",
+        "Elles hydrolysent directement les protéines alimentaires.",
+        "Elles transforment les monosaccharides en disaccharides."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Au contact de la muqueuse intestinale, les micelles libèrent leur contenu lipidique, qui diffuse ensuite dans l’entérocyte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la contribution des lipases linguale et gastrique dans la digestion lipidique ?",
+      "choices": [
+        "Essentielle et majoritaire.",
+        "Modeste.",
+        "Nulle selon le texte.",
+        "Supérieure à celle de la lipase pancréatique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que les lipases linguale et gastrique ont une contribution modeste, alors que la lipase pancréatique assure l’essentiel de l’hydrolyse lipidique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle forme glucidique n’est normalement pas absorbée de façon significative chez l’adulte ?",
+      "choices": [
+        "Glucose.",
+        "Fructose.",
+        "Galactose.",
+        "Disaccharide."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Chez l’adulte, seuls les monosaccharides sont absorbés de façon significative ; les disaccharides doivent être hydrolysés avant absorption."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule est produite dans l’entérocyte à partir des dipeptides et tripeptides absorbés ?",
+      "choices": [
+        "Acides aminés.",
+        "Acides gras volatils.",
+        "Monoglycérides.",
+        "Dextrines limites."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les dipeptides et tripeptides absorbés sont hydrolysés dans le cytoplasme entérocytaire en acides aminés, ensuite libérés dans le sang."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le bilan quotidien de l’eau dans le tube digestif, quelles propositions sont exactes ?",
+      "choices": [
+        "Les apports oraux sont d’environ 2 litres par jour.",
+        "Les sécrétions digestives ajoutent environ 7 litres par jour.",
+        "Moins de 50 % de l’eau présente dans la lumière digestive est réabsorbée.",
+        "La réabsorption globale dépasse 99 %."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte indique 2 L ingérés, 7 L de sécrétions digestives, et une réabsorption de plus de 99 %."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des particularités segmentaires de l’absorption hydrique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le duodénum est un site d’importants transferts par voie paracellulaire.",
+        "Le jéjunum absorbe davantage en raison de la perméabilité et de l’osmolarité du chyme.",
+        "Le côlon absorbe environ 90 % de l’eau qui lui parvient.",
+        "Dans l’iléon, l’absorption de l’eau dépend obligatoirement de celle des sucres et des acides aminés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le duodénum, le jéjunum et le côlon ont les rôles décrits. Dans l’iléon, l’absorption du sodium et de l’eau est indépendante de celle des sucres et acides aminés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vitamines hydrosolubles citées, quelles associations sont correctes ?",
+      "choices": [
+        "Riboflavine B2 : diffusion passive.",
+        "Pyridoxine B6 : diffusion passive.",
+        "Thiamine B1 : transport actif à forte concentration uniquement.",
+        "Folates : mécanisme passif ou diffusion facilitée."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "B2 et B6 sont absorbées par diffusion passive. Les folates utilisent un mécanisme passif ou une diffusion facilitée. La thiamine a un transport passif à forte concentration et actif à faible concentration."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption de la cobalamine, quelles propositions sont exactes ?",
+      "choices": [
+        "À fortes concentrations, elle peut être absorbée par diffusion passive.",
+        "À concentration physiologique, elle nécessite le facteur intrinsèque.",
+        "Le facteur intrinsèque est sécrété par les cellules pariétales gastriques.",
+        "Le complexe vitamine B12-facteur intrinsèque se fixe sur des récepteurs coliques spécifiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine B12 peut diffuser passivement à forte concentration. Physiologiquement, elle nécessite le facteur intrinsèque sécrété par les cellules pariétales gastriques, puis se fixe sur des récepteurs de la bordure en brosse iléale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les données quantitatives et les sites de stockage du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "L’organisme contient environ 4 g de fer.",
+        "Environ 2 à 2,5 g de fer sont sous forme d’hémoglobine.",
+        "Le foie est un site important de stockage du fer.",
+        "La totalité du fer corporel est localisée dans les récepteurs entérocytaires à la transferrine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise un contenu corporel d’environ 4 g, dont 2 à 2,5 g dans l’hémoglobine, avec le foie comme site important de stockage."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments augmentent ou favorisent l’absorption intestinale du fer selon le texte ?",
+      "choices": [
+        "La forme ferreuse Fe2+ par rapport à la forme ferrique Fe3+.",
+        "L’acide chlorhydrique gastrique par solubilisation du fer.",
+        "Les réducteurs, notamment la vitamine C.",
+        "La forme minérale par rapport au fer héminique de l’hémoglobine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Fe2+, l’acide chlorhydrique et les réducteurs comme la vitamine C favorisent l’absorption. Le fer héminique est absorbé plus facilement que le fer minéral."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conditions physicochimiques nécessaires à l’absorption du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "Le calcium doit être ionisé pour être absorbé.",
+        "La solubilité du calcium est nécessaire à son absorption.",
+        "Un pH acide favorise l’ionisation du calcium.",
+        "Le calcium est absorbé uniquement sous forme non soluble."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcium doit être ionisé, donc soluble, et cette ionisation est favorisée par un pH acide."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modes d’absorption du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "Une absorption passive existe en cas de forte concentration.",
+        "Une diffusion facilitée nécessite un transporteur sans dépense énergétique.",
+        "Un transport actif dépend de la vitamine D.",
+        "La calcitonine est décrite comme le transporteur membranaire de la diffusion facilitée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit trois modes : passive à forte concentration, diffusion facilitée avec transporteur sans dépense énergétique, et transport actif dépendant de la vitamine D."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation de l’absorption calcique, quels éléments sont cités ?",
+      "choices": [
+        "Vitamine D.",
+        "Calcitonine.",
+        "Parathormone.",
+        "Facteur intrinsèque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La régulation de l’absorption du calcium dépend notamment de la vitamine D, de la calcitonine et de la parathormone. Le facteur intrinsèque concerne la vitamine B12."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles relèvent d’une maldigestion selon la classification du texte ?",
+      "choices": [
+        "Déficit enzymatique acquis.",
+        "Déficit enzymatique congénital.",
+        "Déficit enzymatique fonctionnel après court-circuit chirurgical.",
+        "Agénésie des voies de drainage lymphatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maldigestion peut être due à un déficit enzymatique acquis ou congénital, ou fonctionnel notamment après court-circuit chirurgical. L’agénésie des voies de drainage relève d’une malabsorption post-cellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles causes sont rattachées à une malabsorption pariétale selon le texte ?",
+      "choices": [
+        "Diminution de la surface d’absorption.",
+        "Atrophie ou ulcérations.",
+        "Déficit enzymatique de la bordure en brosse.",
+        "Compression des voies de drainage lymphatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La malabsorption pariétale est liée à une diminution de surface, par exemple atrophie ou ulcérations, ou à un déficit enzymatique de la bordure en brosse. La compression lymphatique est post-cellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’étape cellulaire de l’absorption lipidique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comporte une diffusion.",
+        "Elle comporte une resynthèse des triglycérides.",
+        "Elle comporte une incorporation dans les chylomicrons.",
+        "Elle se termine par une excrétion exclusivement urinaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’étape cellulaire comprend diffusion, resynthèse des triglycérides et phospholipides, incorporation dans les chylomicrons, puis excrétion lymphatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fonctions attribuées à l’iléon dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il porte les récepteurs spécifiques du complexe vitamine B12-facteur intrinsèque sur la bordure en brosse.",
+        "Il est le principal site d’absorption des sels biliaires.",
+        "Il est le principal site d’absorption de la vitamine B12.",
+        "Il sécrète les bicarbonates d’origine pancréatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complexe B12-facteur intrinsèque se fixe sur des récepteurs de la bordure en brosse iléale. Les sels biliaires et la vitamine B12 sont principalement absorbés au niveau iléal. Les bicarbonates sont sécrétés dans le duodénum par le pancréas et les voies biliaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption des vitamines liposolubles, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle concerne les vitamines A, D, E et K.",
+        "Elle suit les mécanismes d’absorption des lipides.",
+        "Elle implique la participation des sels biliaires.",
+        "Elle est indépendante de la formation de micelles."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vitamines A, D, E et K sont absorbées selon les mécanismes des lipides, avec participation des sels biliaires et formation de micelles."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle catégorie physiopathologique correspond à une compression des voies de drainage lymphatique ?",
+      "choices": [
+        "Maldigestion enzymatique congénitale.",
+        "Maldigestion fonctionnelle.",
+        "Malabsorption pariétale.",
+        "Malabsorption post-cellulaire."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La compression des voies de drainage lymphatique est classée dans les causes de malabsorption post-cellulaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel complexe se fixe sur les récepteurs spécifiques de la bordure en brosse iléale ?",
+      "choices": [
+        "Fer-transferrine.",
+        "Vitamine B12-facteur intrinsèque.",
+        "Calcium-vitamine D.",
+        "Cholestérol-sels biliaires."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Aux concentrations physiologiques, la vitamine B12 liée au facteur intrinsèque se fixe sur des récepteurs spécifiques de la bordure en brosse iléale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation augmente les besoins en calcium selon le texte ?",
+      "choices": [
+        "La croissance.",
+        "La diminution des stocks en fer.",
+        "La forte concentration en thiamine.",
+        "La sécrétion biliaire de bicarbonates."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les besoins calciques sont augmentés pendant la croissance."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple de sécrétions est responsable de l’apport de bicarbonates dans le duodénum ?",
+      "choices": [
+        "Sécrétions pancréatiques et voies biliaires.",
+        "Sécrétions gastriques et coliques.",
+        "Sécrétions iléales et jéjunales.",
+        "Sécrétions salivaires et pariétales gastriques."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les bicarbonates sont sécrétés dans le duodénum par le pancréas et les voies biliaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition résume correctement la régulation de l’absorption du fer ?",
+      "choices": [
+        "Elle dépend uniquement du pH colique.",
+        "Elle est régulée par l’érythropoïèse et l’état des stocks en fer.",
+        "Elle dépend exclusivement de la vitamine D.",
+        "Elle est assurée seulement par la calcitonine."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’absorption du fer est régulée par l’érythropoïèse et par l’état des stocks en fer."
+    },
+    {
+      "type": "QCS",
+      "question": "En dehors des sels biliaires et de la vitamine B12, où se déroulent principalement la digestion et l’absorption ?",
+      "choices": [
+        "Dans le duodénum et le jéjunum.",
+        "Dans l’estomac et le côlon descendant.",
+        "Dans le côlon sigmoïde et le rectum.",
+        "Uniquement dans l’iléon terminal."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La digestion et l’absorption se déroulent principalement dans le duodénum et le jéjunum, sauf pour les sels biliaires et la vitamine B12, principalement absorbés dans l’iléon."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les limites conceptuelles entre digestion, absorption et nutriment, quelles propositions sont exactes ?",
+      "choices": [
+        "La digestion transforme les grosses molécules alimentaires en unités de base facilement assimilables.",
+        "L’absorption correspond au passage des produits de la digestion vers la circulation sanguine ou lymphatique.",
+        "Un nutriment est une substance d’origine alimentaire utilisable par les organes après passage dans le sang.",
+        "La digestion et l’absorption sont deux mécanismes successifs, indépendants et non simultanés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte définit la digestion, l’absorption et le nutriment. Il précise que digestion et absorption sont distinctes mais simultanées et indissociables."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des niveaux cellulaires ou luminal de la digestion, quelles propositions respectent le texte ?",
+      "choices": [
+        "La digestion extracellulaire se déroule dans la lumière du tube digestif.",
+        "La digestion extracellulaire fait intervenir notamment les enzymes pancréatiques.",
+        "La digestion intracellulaire dépend d’enzymes cytoplasmiques et lysosomiales.",
+        "La digestion membranaire se déroule principalement dans la circulation lymphatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La digestion extracellulaire est luminale, la digestion membranaire siège à la bordure en brosse et la digestion intracellulaire fait intervenir des enzymes cytoplasmiques et lysosomiales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les exemples de transferts membranaires cités, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fructose est cité comme exemple de transport facilité dans le sens du gradient.",
+        "Le transport actif contre le gradient nécessite de l’ATP.",
+        "Le transport glucose-Na+ est donné comme exemple de transport couplé au métabolisme de la molécule transportée.",
+        "La pinocytose est citée notamment pour certains acides gras."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les quatre propositions reprennent les modes de transfert explicitement cités : diffusion facilitée, transport actif, transport couplé et pinocytose."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la digestion glucidique, quelles propositions constituent des enchaînements corrects ?",
+      "choices": [
+        "Les polysaccharides sont hydrolysés par les amylases en disaccharides, trisaccharides et oligosaccharides.",
+        "Les disaccharidases de la bordure en brosse transforment les disaccharides en monosaccharides.",
+        "Les glucides sont absorbés exclusivement sous forme de monosaccharides.",
+        "Chez l’adulte, l’absorption significative des polysaccharides est normale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur la nécessité d’une digestion complète des glucides jusqu’aux monosaccharides ; il n’existe normalement pas d’absorption significative de di-, tri- ou polysaccharides chez l’adulte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’amidon et le glycogène dans la digestion glucidique, quelles propositions sont exactes ?",
+      "choices": [
+        "Une partie de l’amidon peut être digérée avant l’arrivée dans l’intestin.",
+        "L’amylase pancréatique réalise rapidement l’essentiel de la digestion de l’amidon et du glycogène.",
+        "L’amylase pancréatique produit notamment du maltose et des oligosaccharides.",
+        "Les amylases salivaires deviennent plus actives lorsque le pH est inférieur à 4,5."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amylase salivaire peut débuter la digestion de l’amidon mais elle est inactivée pour un pH inférieur à 4,5. L’amylase pancréatique assure rapidement l’essentiel de la digestion de l’amidon et du glycogène."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des enzymes de la bordure en brosse impliquées dans la digestion des glucides, quelles propositions sont exactes ?",
+      "choices": [
+        "La maltase hydrolyse le maltose en deux molécules de glucose.",
+        "La lactase hydrolyse le lactose en glucose et galactose.",
+        "La sucrase hydrolyse le saccharose en glucose et fructose.",
+        "L’isomaltase hydrolyse les dextrines limites."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces associations enzyme-substrat-produit correspondent aux données du texte sur la digestion glucidique membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la progression de la digestion des protéines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle débute par la mastication.",
+        "Elle se poursuit dans l’estomac sous l’effet du brassage, de l’acide chlorhydrique et de la pepsine.",
+        "Elle continue dans l’intestin grâce aux enzymes pancréatiques.",
+        "Elle implique aussi des enzymes de la bordure en brosse."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit une digestion protéique débutant mécaniquement par la mastication, poursuivie dans l’estomac puis complétée dans l’intestin par les enzymes pancréatiques et de la bordure en brosse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les peptidases et leur mode d’action, quelles propositions sont exactes ?",
+      "choices": [
+        "Les endopeptidases clivent les protéines en petits polypeptides.",
+        "La pepsine est une endopeptidase gastrique.",
+        "La trypsine, l’élastase et la chymotrypsine sont d’origine pancréatique.",
+        "Les carboxypeptidases et aminopeptidases clivent des liaisons peptidiques terminales."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue les endopeptidases, dont la pepsine et certaines enzymes pancréatiques, des exopeptidases du suc intestinal agissant sur les extrémités peptidiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption intestinale des produits de digestion protéique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les acides aminés libres sont absorbés par cotransport avec le sodium.",
+        "Les dipeptides et tripeptides sont absorbés par transport actif secondaire dépendant d’un gradient de protons H+.",
+        "Les dipeptides et tripeptides absorbés sont hydrolysés en acides aminés dans le cytoplasme entérocytaire.",
+        "Les acides aminés issus de cette hydrolyse sont ensuite libérés dans le sang."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise les deux modalités d’entrée entérocytaire des produits protéiques et le devenir cytoplasmique des petits peptides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les acteurs de la digestion lipidique, quelles propositions sont exactes ?",
+      "choices": [
+        "La lipase linguale intervient dans la digestion des lipides.",
+        "La lipase gastrique intervient dans la digestion des lipides.",
+        "La lipase pancréatique assure l’essentiel de l’hydrolyse lipidique.",
+        "Les sels biliaires sont synthétisés par le foie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les lipases linguale et gastrique ont une contribution modeste, tandis que la lipase pancréatique est majeure. Les sels biliaires sont synthétisés par le foie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du comportement des lipides dans le milieu intestinal aqueux, quelles propositions sont exactes ?",
+      "choices": [
+        "Les graisses hydrophobes tendent à former des amas.",
+        "Les sels biliaires fragmentent les graisses en fines gouttelettes.",
+        "L’émulsification augmente la surface de contact avec les enzymes pancréatiques.",
+        "Les micelles empêchent tout contact des lipides avec la muqueuse intestinale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les sels biliaires émulsifient les graisses, facilitant l’action enzymatique. Les micelles favorisent au contraire le contact des lipides avec la muqueuse intestinale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le contenu et le rôle des micelles lipidiques intestinales, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent contenir des monoglycérides.",
+        "Elles peuvent contenir des acides gras à longue chaîne.",
+        "Elles peuvent contenir du cholestérol et des vitamines liposolubles.",
+        "Elles libèrent leur contenu au contact de la muqueuse intestinale."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les micelles regroupent plusieurs produits lipidiques et vitamines liposolubles, puis libèrent leur contenu qui diffuse dans l’entérocyte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la synthèse et les classes lipidiques mentionnées, quelles propositions sont exactes ?",
+      "choices": [
+        "Les triglycérides font partie des principales classes de lipides alimentaires.",
+        "Les phospholipides font partie des principales classes de lipides alimentaires.",
+        "Le cholestérol fait partie des principales classes de lipides alimentaires.",
+        "L’acide linoléique et l’acide linolénique sont cités comme exceptions à la synthèse hépatique de la majorité des acides gras."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les triglycérides, phospholipides et cholestérol comme classes alimentaires, et précise que le foie synthétise la majorité des acides gras sauf les acides gras essentiels comme les acides linoléique et linolénique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étapes entérocytaires de l’absorption lipidique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les triglycérides sont resynthétisés dans l’entérocyte.",
+        "Les lipides sont associés à des protéines porteuses.",
+        "Des chylomicrons sont formés dans l’entérocyte.",
+        "Les chylomicrons passent dans la circulation lymphatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Après diffusion du contenu micellaire dans l’entérocyte, le texte décrit la resynthèse des triglycérides, l’association à des protéines porteuses, la formation de chylomicrons et leur passage lymphatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mode de transfert est explicitement associé au fructose dans le texte ?",
+      "choices": [
+        "Diffusion passive à travers des pores",
+        "Transport facilité dans le sens du gradient",
+        "Transport actif primaire contre le gradient avec ATP",
+        "Pinocytose"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le fructose est donné comme exemple de transport facilité dans le sens du gradient."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme de la bordure en brosse est associée à l’hydrolyse des dextrines limites ?",
+      "choices": [
+        "Maltase",
+        "Lactase",
+        "Sucrase",
+        "Isomaltase"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte précise que l’isomaltase hydrolyse les dextrines limites."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, quelle forme représente environ deux tiers des produits protéiques absorbés ?",
+      "choices": [
+        "Acides aminés libres",
+        "Petits peptides",
+        "Polypeptides longs",
+        "Protéines intactes"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Environ deux tiers des produits absorbés le sont sous forme de peptides, contre un tiers sous forme d’acides aminés libres."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel acide gras est cité comme acide gras essentiel ?",
+      "choices": [
+        "Acide linoléique",
+        "Acide gastrique",
+        "Acide chlorhydrique",
+        "Acide aminé libre"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite l’acide linoléique et l’acide linolénique comme acides gras essentiels."
+    },
+    {
+      "type": "QCS",
+      "question": "Où les monosaccharides sont-ils principalement absorbés selon le texte ?",
+      "choices": [
+        "Dans l’estomac",
+        "Dans le duodénum et le jéjunum",
+        "Dans le caeco-côlon",
+        "Dans la circulation lymphatique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les monosaccharides sont principalement absorbés dans le duodénum et le jéjunum."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement le devenir immédiat du contenu micellaire au contact de la muqueuse intestinale ?",
+      "choices": [
+        "Il est hydrolysé en monosaccharides.",
+        "Il est libéré puis diffuse dans l’entérocyte.",
+        "Il est transformé directement en acides aminés.",
+        "Il reste fixé aux sels biliaires sans absorption."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Au contact de la muqueuse intestinale, les micelles libèrent leur contenu, qui diffuse dans l’entérocyte."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une anomalie de la phase luminale intestinale de la digestion lipidique, quels mécanismes peuvent être directement concernés selon le texte ?",
+      "choices": [
+        "L’émulsion micellaire dépendante des sels biliaires",
+        "La lipolyse impliquant la lipase pancréatique et la colipase",
+        "L’action de la phospholipase A2 et de la cholestérol estérase",
+        "La resynthèse entérocytaire des triglycérides"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’étape intestinale comprend l’émulsion micellaire par les sels biliaires et la lipolyse par les enzymes pancréatiques citées. La resynthèse des triglycérides appartient à l’étape cellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant une atteinte post-cellulaire de l’absorption digestive, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "Elle peut résulter d’une agénésie des voies de drainage",
+        "Elle peut être liée à une compression des voies de drainage lymphatique",
+        "Elle correspond à un défaut de lipase pancréatique",
+        "Elle peut perturber l’évacuation lymphatique des chylomicrons"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La malabsorption post-cellulaire concerne les voies de drainage, notamment lymphatiques. Le déficit en lipase pancréatique relève plutôt d’une maldigestion."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour interpréter le bilan hydrique digestif quotidien, quelles affirmations sont exactes ?",
+      "choices": [
+        "L’eau ingérée représente environ 2 litres par jour",
+        "Les sécrétions digestives ajoutent environ 7 litres par jour",
+        "Plus de 99 % de l’eau présente dans le tube digestif est réabsorbée",
+        "Le côlon est responsable de la majeure partie des transferts hydriques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le total est d’environ 9 litres par jour, dont plus de 99 % sont réabsorbés. La majeure partie des transferts hydriques a lieu dans l’intestin grêle, le côlon assurant la régulation fine."
+    },
+    {
+      "type": "QCM",
+      "question": "Au niveau du duodénum, quels phénomènes sont décrits dans le texte ?",
+      "choices": [
+        "Des transferts hydriques importants par voie paracellulaire",
+        "La réception de bicarbonates sécrétés par le pancréas",
+        "La réception de bicarbonates provenant des voies biliaires",
+        "L’absorption indépendante du sodium et de l’eau par rapport aux sucres et aux acides aminés"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le duodénum est un lieu d’importants transferts paracellulaires et reçoit les bicarbonates pancréatiques et biliaires. L’absorption indépendante du sodium et de l’eau est attribuée à l’iléon."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles substances peuvent être absorbées par un mécanisme passif lorsque leur concentration est élevée, selon le texte ?",
+      "choices": [
+        "La thiamine B1",
+        "La vitamine B12",
+        "Le calcium",
+        "Les vitamines liposolubles A, D, E et K sans micelles"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La thiamine B1 a un transport passif à forte concentration, la vitamine B12 peut diffuser passivement à fortes concentrations, et le calcium peut être absorbé passivement en cas de forte concentration. Les vitamines liposolubles nécessitent les mécanismes d’absorption lipidique avec micelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les phénomènes faisant intervenir un partenaire de transport, de liaison ou de régulation, quelles propositions sont exactes ?",
+      "choices": [
+        "Aux concentrations physiologiques, la vitamine B12 nécessite le facteur intrinsèque",
+        "Les vitamines liposolubles nécessitent la participation des sels biliaires et des micelles",
+        "Le transport actif du calcium dépend de la vitamine D",
+        "L’absorption physiologique de la vitamine B12 dépend de la cholestérol estérase"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La B12 physiologique dépend du facteur intrinsèque, les vitamines liposolubles suivent l’absorption lipidique avec sels biliaires et micelles, et le transport actif du calcium dépend de la vitamine D."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour améliorer l’absorption intestinale du fer, quels éléments sont favorables selon le texte ?",
+      "choices": [
+        "La forme ferreuse Fe2+ par rapport à la forme ferrique Fe3+",
+        "L’acide chlorhydrique gastrique",
+        "Les réducteurs comme la vitamine C",
+        "La forme minérale par rapport au fer héminique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer Fe2+ est absorbé plus rapidement, l’acide chlorhydrique favorise sa solubilisation, et les réducteurs comme la vitamine C augmentent l’absorption. Le fer héminique est plus facilement absorbé que le fer minéral."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles régulations ou influences physiologiques sont correctement attribuées ?",
+      "choices": [
+        "L’absorption du fer dépend de l’érythropoïèse",
+        "L’absorption du fer dépend de l’état des stocks en fer",
+        "L’absorption du calcium est régulée notamment par la vitamine D, la calcitonine et la parathormone",
+        "L’absorption de la vitamine B12 est régulée par la calcitonine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer est régulé par l’érythropoïèse et les stocks. Le calcium dépend notamment de la vitamine D, de la calcitonine et de la parathormone. Aucun rôle de la calcitonine n’est décrit pour la B12."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la classification des troubles de digestion-absorption, quelles associations sont exactes ?",
+      "choices": [
+        "Déficit enzymatique acquis : maldigestion",
+        "Déficit enzymatique congénital : maldigestion",
+        "Atrophie ou ulcérations diminuant la surface : malabsorption pariétale",
+        "Déficit enzymatique de la bordure en brosse : malabsorption post-cellulaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits enzymatiques acquis ou congénitaux relèvent de la maldigestion. La diminution de surface correspond à une malabsorption pariétale. Le déficit enzymatique de la bordure en brosse est pariétal, non post-cellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du court-circuit chirurgical cité dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut entraîner un déficit enzymatique fonctionnel",
+        "Il est classé parmi les causes de maldigestion",
+        "Il est défini dans le texte comme une compression lymphatique",
+        "Il ne correspond pas, dans cette classification, à une malabsorption post-cellulaire"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le court-circuit chirurgical est cité comme exemple de déficit enzymatique fonctionnel, donc de maldigestion. La compression lymphatique appartient à la malabsorption post-cellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Si l’on raisonne sur les fonctions attribuées à l’iléon, quelles propositions sont exactes ?",
+      "choices": [
+        "Il porte des récepteurs spécifiques pour le complexe vitamine B12-facteur intrinsèque",
+        "Il est le principal site d’absorption des sels biliaires",
+        "Il présente une absorption du sodium et de l’eau indépendante de celle des sucres et des acides aminés",
+        "Il est le site principal de l’absorption des bicarbonates"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’iléon intervient pour la B12 liée au facteur intrinsèque, les sels biliaires et l’absorption indépendante sodium-eau. Les bicarbonates sont absorbés dans le jéjunum."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les chylomicrons, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont formés en période de digestion",
+        "Ils transportent des lipides exogènes",
+        "Ils assurent un transport de l’intestin grêle vers les tissus périphériques",
+        "Ils sont excrétés directement dans la circulation porte selon le texte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chylomicrons sont formés pendant la digestion et transportent les lipides exogènes de l’intestin grêle vers les tissus périphériques. Leur excrétion est lymphatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conditions d’absorption du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "Le calcium doit être ionisé pour être absorbé",
+        "Le calcium doit être soluble pour être absorbé",
+        "Un pH acide favorise son ionisation",
+        "Le transport actif du calcium est indépendant de la vitamine D"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcium doit être ionisé et soluble, ce qui est favorisé par un pH acide. Son transport actif dépend de la vitamine D."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vitamines et leurs modalités d’absorption, quelles associations sont exactes ?",
+      "choices": [
+        "Riboflavine B2 : diffusion passive",
+        "Folates : mécanisme passif ou diffusion facilitée",
+        "Vitamines A, D, E et K : mécanismes d’absorption des lipides",
+        "Vitamine B12 à concentration physiologique : absorption sans facteur intrinsèque"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La B2 est absorbée par diffusion passive, les folates par mécanisme passif ou diffusion facilitée, et les vitamines liposolubles suivent l’absorption lipidique. La B12 physiologique nécessite le facteur intrinsèque."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation correspond le mieux à une malabsorption post-cellulaire selon le texte ?",
+      "choices": [
+        "Déficit congénital en enzyme digestive",
+        "Agénésie des voies de drainage",
+        "Atrophie de la muqueuse intestinale",
+        "Déficit enzymatique de la bordure en brosse"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La malabsorption post-cellulaire est liée à une atteinte des voies de drainage, comme leur agénésie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur est explicitement nécessaire au transport actif du calcium ?",
+      "choices": [
+        "La vitamine D",
+        "La vitamine C",
+        "Le facteur intrinsèque",
+        "La transferrine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le transport actif du calcium est dépendant de la vitamine D."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel segment assure la régulation fine de l’absorption hydrique digestive ?",
+      "choices": [
+        "Le duodénum",
+        "Le jéjunum",
+        "L’iléon",
+        "Le côlon"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La majeure partie des transferts hydriques a lieu dans l’intestin grêle, mais la régulation fine est assurée par le côlon."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle forme de fer est absorbée plus facilement que le fer minéral ?",
+      "choices": [
+        "Le fer ferrique Fe3+",
+        "Le fer héminique de l’hémoglobine",
+        "Le fer lié à la calcitonine",
+        "Le fer insoluble en milieu acide"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que le fer héminique de l’hémoglobine est absorbé plus facilement que le fer minéral."
+    },
+    {
+      "type": "QCS",
+      "question": "Où les bicarbonates digestifs sont-ils absorbés selon le texte ?",
+      "choices": [
+        "Dans le jéjunum",
+        "Dans l’estomac",
+        "Dans le côlon transverse",
+        "Dans les voies biliaires"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les bicarbonates sont sécrétés dans le duodénum par le pancréas et les voies biliaires, puis absorbés dans le jéjunum."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle structure cellulaire est désignée comme l’unité fonctionnelle principale de la digestion-absorption intestinale ?",
+      "choices": [
+        "Le chylomicron",
+        "L’entérocyte",
+        "La cellule pariétale gastrique",
+        "Le récepteur à la transferrine"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique que l’entérocyte est l’unité fonctionnelle principale de la digestion-absorption intestinale."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-03T21:31:58.671Z"
+}
