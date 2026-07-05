@@ -581,7 +581,31 @@ function getCourseFromUrl() {
 }
 
 function getWatchedCourses() {
-  return JSON.parse(localStorage.getItem("watchedCourses") || "[]");
+  try {
+    const a = JSON.parse(localStorage.getItem("watchedCourses") || "[]");
+    const b = JSON.parse(localStorage.getItem("watched_courses") || "[]");
+    return [...new Set([...a, ...b])];
+  } catch {
+    return [];
+  }
+}
+
+function getCompletedModules() {
+  return JSON.parse(localStorage.getItem("completedModules") || "[]");
+}
+
+function markModuleCompleted(categoryId, moduleId) {
+  const key = `${categoryId}:${moduleId}`;
+  const completed = getCompletedModules();
+
+  if (!completed.includes(key)) {
+    completed.push(key);
+    localStorage.setItem("completedModules", JSON.stringify(completed));
+  }
+}
+
+function isModuleCompleted(categoryId, moduleId) {
+  return getCompletedModules().includes(`${categoryId}:${moduleId}`);
 }
 
 function setWatchedCourses(data) {
@@ -678,7 +702,67 @@ function loadModulesPage() {
   renderModules(category.modules, categoryId);
 }
 
-function renderModules(modules, categoryId) {
+async function hasQcmBank(categoryId, moduleId) {
+  try {
+    const res = await fetch(`/banque-qcm/${categoryId}/${moduleId}/index.json`);
+    return res.ok;
+  } catch {
+    return false;
+  }
+}
+
+function getGlobalCourseIndex(categoryId, moduleId, courseIndex) {
+  let global = 0;
+
+  for (const cat of platformData.categories) {
+    for (const mod of cat.modules) {
+      for (let i = 0; i < mod.courses.length; i++) {
+        if (cat.id === categoryId && mod.id === moduleId && i === courseIndex) {
+          return global;
+        }
+        global++;
+      }
+    }
+  }
+
+  return -1;
+}
+
+function getModuleProgress(module, categoryId) {
+  if (isModuleCompleted(categoryId, module.id)) {
+    return { total: module.courses.length, watchedCount: module.courses.length, percent: 100 };
+  }
+
+  const watched = getWatchedCourses();
+  const total = module.courses.length;
+
+  let watchedCount = 0;
+
+  module.courses.forEach((course, index) => {
+    const globalIndex = getGlobalCourseIndex(categoryId, module.id, index);
+
+    const ok = watched.some(w =>
+      w === course.id ||
+      w === String(course.id) ||
+      w === index ||
+      w === String(index) ||
+      w === globalIndex ||
+      w === String(globalIndex)
+    );
+
+    if (ok) watchedCount++;
+  });
+
+  const percent = total === 0 ? 0 : Math.round((watchedCount / total) * 100);
+
+  if (percent === 100) {
+    markModuleCompleted(categoryId, module.id);
+  }
+
+  return { total, watchedCount, percent };
+}
+
+async function renderModules(modules, categoryId) {
   const list = document.getElementById("modulesList");
   if (!list) return;
 
@@ -692,16 +776,53 @@ function renderModules(modules, categoryId) {
     return;
   }
 
-  list.innerHTML = modules
-    .map(
-      (module) => `
-        <a class="module-card" href="../cours/player.html?category=${categoryId}&module=${module.id}&course=0">
-          <div class="module-card-title">${module.title}</div>
-          <div class="module-card-count">${module.courses.length} cours</div>
+  list.innerHTML = "";
+
+  for (const module of modules) {
+    const { total, percent } = getModuleProgress(module, categoryId);
+    const qcmExists = await hasQcmBank(categoryId, module.id);
+    const unlocked = percent >= 100 && qcmExists;
+
+    const card = document.createElement("div");
+card.className = `module-card module-card-qcm module-${categoryId}`;
+
+    card.innerHTML = `
+      <div class="module-card-title">${module.title}</div>
+      <div class="module-card-count">${total} cours</div>
+
+      <div class="module-progress">
+        <div class="module-progress-bar">
+          <div class="module-progress-fill" style="width:${percent}%"></div>
+        </div>
+        <span>${percent}% terminé</span>
+      </div>
+
+      <div class="module-actions">
+        <a class="module-course-btn"
+           href="../cours/player.html?category=${categoryId}&module=${module.id}&course=0">
+          ▶ Continuer les cours
         </a>
-      `
-    )
-    .join("");
+
+        <button class="module-qcm-btn ${unlocked ? "" : "locked"}">
+          ${unlocked ? "📝 Banque QCM" : "🔒 Banque QCM"}
+        </button>
+
+        ${unlocked ? "" : `<small>Terminez 100% des vidéos pour débloquer.</small>`}
+      </div>
+    `;
+
+    card.querySelector(".module-qcm-btn").addEventListener("click", () => {
+      if (!unlocked) {
+        alert("Complétez 100% des vidéos de ce module pour débloquer la Banque QCM.");
+        return;
+      }
+
+      window.location.href =
+        `/pages/qcm/module-qcm.html?category=${categoryId}&module=${module.id}`;
+    });
+
+    list.appendChild(card);
+  }
 }
 
 function filterModules() {
@@ -1159,6 +1280,8 @@ renderSupports();
     } else {
       clearAutoNextTimers();
 
+      markModuleCompleted(categoryId, moduleId);
+
       if (courseEndTitle) courseEndTitle.textContent = "🎉 Module terminé";
       if (courseEndText) courseEndText.textContent = "Bravo, tu as terminé ce module.";
       if (nextCourseBtn) nextCourseBtn.style.display = "none";
@@ -1199,9 +1322,10 @@ async function setupAutoNextAndModuleCelebration() {
     const moduleDone = mod.courses.every(c => watched.includes(c.id));
 
     if (moduleDone) {
-      showModuleCompletedCelebration(category);
-      return;
-    }
+  markModuleCompleted(category, moduleName);
+  showModuleCompletedCelebration(category);
+  return;
+}
 
     const nextIndex = courseIndex + 1;
 

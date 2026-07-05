@@ -2435,3 +2435,636 @@ button[onclick*="mark"]{
   color:gold;
   font-size:48px;
 }
+
+.module-card-qcm {
+  display: block;
+}
+
+.module-progress {
+  margin-top: 14px;
+}
+
+.module-progress-bar {
+  width: 100%;
+  height: 8px;
+  background: #333;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.module-progress-fill {
+  height: 100%;
+  background: #facc15;
+}
+
+.module-actions {
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.module-course-btn,
+.module-qcm-btn {
+  text-align: center;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.module-course-btn {
+  background: #2563eb;
+  color: white;
+}
+
+.module-qcm-btn {
+  background: #16a34a;
+  color: white;
+}
+
+.module-qcm-btn.locked {
+  background: #555;
+  cursor: not-allowed;
+}
+
+.module-actions small {
+  color: #aaa;
+  font-size: 12px;
+}
+
+.modules-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 22px;
+  padding: 25px;
+}
+
+.module-card {
+  width: auto !important;
+  min-height: 230px;
+  background: linear-gradient(180deg, #141414, #0b0b0b);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 22px;
+  padding: 24px;
+  transition: 0.25s ease;
+}
+
+.module-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(250,204,21,0.45);
+  box-shadow: 0 18px 40px rgba(250,204,21,0.08);
+}
+
+.module-card-title {
+  font-size: 22px;
+  font-weight: 900;
+  margin-bottom: 6px;
+}
+
+.module-card-count {
+  color: #bdbdbd;
+  margin-bottom: 18px;
+}
+
+.module-progress-bar {
+  height: 10px;
+  background: #262626;
+  border-radius: 999px;
+}
+
+.module-progress-fill {
+  background: linear-gradient(90deg, #facc15, #eab308);
+}
+
+.module-progress span {
+  display: block;
+  margin-top: 7px;
+  color: #facc15;
+  font-weight: 700;
+}
+
+.module-actions {
+  margin-top: 22px;
+  gap: 12px;
+}
+
+.module-course-btn,
+.module-qcm-btn {
+  width: 100%;
+  border-radius: 14px;
+  padding: 13px 16px;
+  font-size: 15px;
+}
+
+.module-course-btn {
+  background: linear-gradient(135deg, #4f46e5, #2563eb);
+}
+
+.module-qcm-btn {
+  background: linear-gradient(135deg, #22c55e, #16a34a);
+}
+
+.module-qcm-btn.locked {
+  background: #2f2f2f;
+  color: #aaa;
+}
+
+.module-actions small {
+  color: #8f8f8f;
+  line-height: 1.4;
+}
+
+.modules-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(310px, 1fr)) !important;
+  gap: 26px !important;
+  padding: 34px !important;
+}
+
+.module-card {
+  width: auto !important;
+  min-height: 245px !important;
+  background: linear-gradient(145deg, rgba(24,24,27,.95), rgba(9,9,11,.98)) !important;
+  border: 1px solid rgba(250,204,21,.12) !important;
+  border-radius: 26px !important;
+  padding: 26px !important;
+  box-shadow: 0 20px 55px rgba(0,0,0,.35) !important;
+}
+
+.module-card:hover {
+  transform: translateY(-5px);
+  border-color: rgba(250,204,21,.45) !important;
+}
+
+.module-card-title {
+  font-size: 24px !important;
+  font-weight: 900 !important;
+}
+
+.module-card-count {
+  color: #cbd5e1 !important;
+}
+
+.module-progress-bar {
+  height: 9px !important;
+  background: #27272a !important;
+  border-radius: 999px !important;
+}
+
+.module-progress-fill {
+  background: linear-gradient(90deg, #facc15, #f97316) !important;
+}
+
+.module-progress span {
+  color: #fde047 !important;
+  font-weight: 800 !important;
+}
+
+.module-course-btn,
+.module-qcm-btn {
+  border-radius: 16px !important;
+  padding: 14px !important;
+  font-size: 15px !important;
+}
+
+.module-course-btn {
+  background: linear-gradient(135deg, #4f46e5, #2563eb) !important;
+}
+
+.module-qcm-btn {
+  background: linear-gradient(135deg, #22c55e, #15803d) !important;
+}
+
+.module-qcm-btn.locked {
+  background: #3f3f46 !important;
+  color: #a1a1aa !important;
+}
+
+body .modules-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)) !important;
+  gap: 28px !important;
+  padding: 38px !important;
+}
+
+body .module-card {
+  width: auto !important;
+  min-height: 250px !important;
+  background: linear-gradient(145deg, rgba(24,24,27,.96), rgba(3,7,18,.98)) !important;
+  border: 1px solid rgba(250,204,21,.18) !important;
+  border-radius: 28px !important;
+  padding: 28px !important;
+  box-shadow: 0 25px 65px rgba(0,0,0,.45) !important;
+}
+
+body .module-card-title {
+  font-size: 26px !important;
+  font-weight: 900 !important;
+}
+
+body .module-course-btn,
+body .module-qcm-btn {
+  border-radius: 18px !important;
+  padding: 15px !important;
+  font-size: 16px !important;
+}
+
+/* ===== MODERN MODULE CARDS ===== */
+
+.modules-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(285px, 1fr)) !important;
+  gap: 26px !important;
+  padding: 36px !important;
+}
+
+.module-card {
+  min-height: 245px !important;
+  padding: 26px !important;
+  border-radius: 26px !important;
+  background: linear-gradient(145deg, #111, #050505) !important;
+  border: 1px solid rgba(255,255,255,0.08) !important;
+  box-shadow: 0 18px 45px rgba(0,0,0,.45) !important;
+  transition: .25s ease !important;
+}
+
+.module-card:hover {
+  transform: translateY(-6px) scale(1.01);
+}
+
+.module-biologie {
+  border-color: rgba(168,85,247,.45) !important;
+  box-shadow: 0 0 35px rgba(168,85,247,.12) !important;
+}
+
+.module-biologie:hover {
+  box-shadow: 0 0 45px rgba(168,85,247,.45) !important;
+}
+
+.module-chirurgie {
+  border-color: rgba(59,130,246,.45) !important;
+  box-shadow: 0 0 35px rgba(59,130,246,.12) !important;
+}
+
+.module-chirurgie:hover {
+  box-shadow: 0 0 45px rgba(59,130,246,.45) !important;
+}
+
+.module-medicale {
+  border-color: rgba(34,197,94,.45) !important;
+  box-shadow: 0 0 35px rgba(34,197,94,.12) !important;
+}
+
+.module-medicale:hover {
+  box-shadow: 0 0 45px rgba(34,197,94,.45) !important;
+}
+
+.module-card-title {
+  font-size: 25px !important;
+  font-weight: 900 !important;
+  color: white !important;
+}
+
+.module-card-count {
+  color: #cbd5e1 !important;
+  margin-bottom: 22px !important;
+}
+
+.module-progress-bar {
+  height: 9px !important;
+  background: #2a2a2a !important;
+  border-radius: 999px !important;
+  overflow: hidden !important;
+}
+
+.module-biologie .module-progress-fill {
+  background: linear-gradient(90deg, #a855f7, #d946ef) !important;
+}
+
+.module-chirurgie .module-progress-fill {
+  background: linear-gradient(90deg, #2563eb, #38bdf8) !important;
+}
+
+.module-medicale .module-progress-fill {
+  background: linear-gradient(90deg, #22c55e, #86efac) !important;
+}
+
+.module-progress span {
+  display: block;
+  margin-top: 8px;
+  font-weight: 800;
+}
+
+.module-biologie .module-progress span { color: #d946ef !important; }
+.module-chirurgie .module-progress span { color: #38bdf8 !important; }
+.module-medicale .module-progress span { color: #86efac !important; }
+
+.module-actions {
+  margin-top: 22px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 12px !important;
+}
+
+.module-course-btn,
+.module-qcm-btn {
+  border-radius: 16px !important;
+  padding: 14px !important;
+  font-size: 15px !important;
+  font-weight: 900 !important;
+  border: none !important;
+}
+
+.module-biologie .module-course-btn {
+  background: linear-gradient(135deg, #9333ea, #6d28d9) !important;
+}
+
+.module-chirurgie .module-course-btn {
+  background: linear-gradient(135deg, #2563eb, #1d4ed8) !important;
+}
+
+.module-medicale .module-course-btn {
+  background: linear-gradient(135deg, #16a34a, #15803d) !important;
+}
+
+.module-qcm-btn {
+  background: rgba(255,255,255,.12) !important;
+  color: #aaa !important;
+}
+
+.module-qcm-btn:not(.locked) {
+  color: white !important;
+}
+
+.module-biologie .module-qcm-btn:not(.locked) {
+  background: linear-gradient(135deg, #a855f7, #7e22ce) !important;
+  box-shadow: 0 0 22px rgba(168,85,247,.45) !important;
+}
+
+.module-chirurgie .module-qcm-btn:not(.locked) {
+  background: linear-gradient(135deg, #2563eb, #0284c7) !important;
+  box-shadow: 0 0 22px rgba(59,130,246,.45) !important;
+}
+
+.module-medicale .module-qcm-btn:not(.locked) {
+  background: linear-gradient(135deg, #22c55e, #15803d) !important;
+  box-shadow: 0 0 22px rgba(34,197,94,.45) !important;
+}
+
+.module-qcm-btn.locked {
+  background: #3f3f46 !important;
+  color: #9ca3af !important;
+  box-shadow: none !important;
+}
+
+.module-actions small {
+  color: #9ca3af !important;
+}
+
+/* ===== MODULE PAGE PREMIUM BACKGROUND ===== */
+
+body {
+  background:
+    radial-gradient(circle at 20% 10%, rgba(168,85,247,.18), transparent 28%),
+    radial-gradient(circle at 80% 15%, rgba(34,197,94,.14), transparent 30%),
+    radial-gradient(circle at 50% 80%, rgba(59,130,246,.12), transparent 35%),
+    linear-gradient(180deg, #020617, #000) !important;
+  overflow-x: hidden;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    radial-gradient(#ffffff 1px, transparent 1px),
+    radial-gradient(#facc15 1px, transparent 1px);
+  background-size: 90px 90px, 140px 140px;
+  background-position: 0 0, 40px 60px;
+  opacity: .18;
+  animation: starsMove 35s linear infinite;
+  z-index: 0;
+}
+
+@keyframes starsMove {
+  from { transform: translateY(0); }
+  to { transform: translateY(-120px); }
+}
+
+.modules-grid,
+.modules-page,
+main {
+  position: relative;
+  z-index: 1;
+}
+
+/* ===== MODULE CARDS PREMIUM ===== */
+
+body .modules-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(310px, 1fr)) !important;
+  gap: 30px !important;
+  padding: 48px !important;
+}
+
+body .module-card {
+  position: relative;
+  overflow: hidden;
+  min-height: 260px !important;
+  padding: 30px !important;
+  border-radius: 30px !important;
+  background: rgba(15, 15, 20, .72) !important;
+  backdrop-filter: blur(18px);
+  border: 1px solid rgba(255,255,255,.08) !important;
+  box-shadow: 0 25px 70px rgba(0,0,0,.55) !important;
+  transition: .28s ease !important;
+}
+
+body .module-card::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  opacity: .16;
+  pointer-events: none;
+}
+
+body .module-card:hover {
+  transform: translateY(-8px) scale(1.015);
+}
+
+/* COLORS BY CATEGORY */
+
+body .module-biologie {
+  border-color: rgba(168,85,247,.38) !important;
+}
+body .module-biologie::before {
+  background: radial-gradient(circle at top left, #a855f7, transparent 45%);
+}
+body .module-biologie:hover {
+  box-shadow: 0 0 55px rgba(168,85,247,.42) !important;
+}
+
+body .module-chirurgie {
+  border-color: rgba(59,130,246,.38) !important;
+}
+body .module-chirurgie::before {
+  background: radial-gradient(circle at top left, #2563eb, transparent 45%);
+}
+body .module-chirurgie:hover {
+  box-shadow: 0 0 55px rgba(59,130,246,.42) !important;
+}
+
+body .module-medicale {
+  border-color: rgba(34,197,94,.38) !important;
+}
+body .module-medicale::before {
+  background: radial-gradient(circle at top left, #22c55e, transparent 45%);
+}
+body .module-medicale:hover {
+  box-shadow: 0 0 55px rgba(34,197,94,.42) !important;
+}
+
+/* TEXT */
+
+body .module-card-title {
+  position: relative;
+  font-size: 27px !important;
+  font-weight: 950 !important;
+  color: white !important;
+  letter-spacing: -.5px;
+}
+
+body .module-card-count {
+  position: relative;
+  color: #cbd5e1 !important;
+  margin: 8px 0 22px !important;
+}
+
+/* PROGRESS */
+
+body .module-progress-bar {
+  position: relative;
+  height: 9px !important;
+  background: rgba(255,255,255,.12) !important;
+  border-radius: 999px !important;
+  overflow: hidden;
+}
+
+body .module-biologie .module-progress-fill {
+  background: linear-gradient(90deg, #a855f7, #ec4899) !important;
+}
+body .module-chirurgie .module-progress-fill {
+  background: linear-gradient(90deg, #2563eb, #38bdf8) !important;
+}
+body .module-medicale .module-progress-fill {
+  background: linear-gradient(90deg, #22c55e, #86efac) !important;
+}
+
+body .module-progress span {
+  display: block;
+  margin-top: 9px;
+  font-weight: 900;
+}
+
+body .module-biologie .module-progress span { color: #d946ef !important; }
+body .module-chirurgie .module-progress span { color: #38bdf8 !important; }
+body .module-medicale .module-progress span { color: #86efac !important; }
+
+/* BUTTONS */
+
+body .module-actions {
+  position: relative;
+  margin-top: 24px !important;
+  display: grid !important;
+  grid-template-columns: 1fr !important;
+  gap: 12px !important;
+}
+
+body .module-course-btn,
+body .module-qcm-btn {
+  border-radius: 18px !important;
+  padding: 15px !important;
+  font-size: 16px !important;
+  font-weight: 900 !important;
+  text-align: center;
+}
+
+body .module-biologie .module-course-btn {
+  background: linear-gradient(135deg, #9333ea, #7e22ce) !important;
+}
+body .module-chirurgie .module-course-btn {
+  background: linear-gradient(135deg, #2563eb, #1d4ed8) !important;
+}
+body .module-medicale .module-course-btn {
+  background: linear-gradient(135deg, #16a34a, #15803d) !important;
+}
+
+body .module-qcm-btn.locked {
+  background: rgba(255,255,255,.13) !important;
+  color: #9ca3af !important;
+  box-shadow: none !important;
+}
+
+body .module-qcm-btn:not(.locked) {
+  color: white !important;
+}
+
+body .module-biologie .module-qcm-btn:not(.locked) {
+  background: linear-gradient(135deg, #a855f7, #ec4899) !important;
+  box-shadow: 0 0 28px rgba(168,85,247,.55) !important;
+}
+
+body .module-chirurgie .module-qcm-btn:not(.locked) {
+  background: linear-gradient(135deg, #2563eb, #38bdf8) !important;
+  box-shadow: 0 0 28px rgba(59,130,246,.55) !important;
+}
+
+body .module-medicale .module-qcm-btn:not(.locked) {
+  background: linear-gradient(135deg, #22c55e, #16a34a) !important;
+  box-shadow: 0 0 28px rgba(34,197,94,.55) !important;
+}
+
+body .module-actions small {
+  color: #94a3b8 !important;
+  line-height: 1.45;
+}
+
+/* ===== FINAL MODULE PAGE POLISH ===== */
+
+body .modules-grid {
+  padding-top: 34px !important;
+  align-items: stretch !important;
+}
+
+body .module-card {
+  min-height: 235px !important;
+}
+
+body .module-card-title {
+  line-height: 1.1 !important;
+}
+
+body .module-actions small {
+  font-size: 12px !important;
+  opacity: .8 !important;
+}
+
+#moduleSearch {
+  margin: 28px 0 10px 44px !important;
+  width: 420px !important;
+  height: 50px !important;
+  border-radius: 16px !important;
+  background: rgba(10,10,12,.75) !important;
+  border: 1px solid rgba(255,255,255,.16) !important;
+  color: white !important;
+  padding: 0 18px !important;
+}
+
+#categoryTitle {
+  font-size: 30px !important;
+  text-shadow: 0 0 22px rgba(250,204,21,.45) !important;
+}

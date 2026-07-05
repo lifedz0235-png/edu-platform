@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Banque QCM Module</title>
+  <link rel="stylesheet" href="/css/module-qcm.css" />
+</head>
+<body>
+  <main class="qcm-page">
+    <a href="/" class="back-btn">← Accueil</a>
+
+    <section class="qcm-header">
+      <h1 id="moduleTitle">Banque QCM</h1>
+      <p id="moduleInfo">Chargement...</p>
+    </section>
+
+    <section class="qcm-actions">
+      <button id="startBtn">🚀 Commencer QCM aléatoire</button>
+      <button id="showAllBtn">📚 Afficher toutes les questions</button>
+    </section>
+
+    <section id="quizBox" class="quiz-box hidden">
+      <div id="questionCounter"></div>
+      <h2 id="questionText"></h2>
+      <div id="choicesBox"></div>
+
+      <button id="validateBtn">Valider</button>
+      <button id="nextBtn" class="hidden">Question suivante</button>
+
+      <p id="explanation"></p>
+    </section>
+
+    <section id="resultBox" class="result-box hidden"></section>
+  </main>
+
+  <script src="/js/module-qcm.js"></script>
+</body>
+</html>
