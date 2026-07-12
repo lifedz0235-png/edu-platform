@@ -1,11 +1,11 @@
-const params = new URLSearchParams(window.location.search);
+const SESSION_SIZE = 50;
 
+const params = new URLSearchParams(window.location.search);
 const category = params.get("category");
 const moduleName = params.get("module");
 
 const moduleTitle = document.getElementById("moduleTitle");
 const moduleInfo = document.getElementById("moduleInfo");
-const stats = document.getElementById("stats");
 
 const startBtn = document.getElementById("startBtn");
 const showAllBtn = document.getElementById("showAllBtn");
@@ -17,20 +17,95 @@ const choicesBox = document.getElementById("choicesBox");
 const validateBtn = document.getElementById("validateBtn");
 const nextBtn = document.getElementById("nextBtn");
 const explanation = document.getElementById("explanation");
+
 const resultBox = document.getElementById("resultBox");
+const lockBox = document.getElementById("lockBox");
+const progressText = document.getElementById("progressText");
+const progressFill = document.getElementById("progressFill");
 
 let allQuestions = [];
 let quizQuestions = [];
 let currentIndex = 0;
 let score = 0;
+let wrongCount = 0;
+let consecutiveWrong = 0;
+
+let selectedAnswers = [];
+
+const storageKey = `qcm_progress_${category}_${moduleName}`;
+const lockKey = `qcm_lock_${category}_${moduleName}`;
 
 function shuffle(array) {
   return array.sort(() => Math.random() - 0.5);
 }
 
+function getProgress() {
+  return JSON.parse(localStorage.getItem(storageKey)) || {
+    done: 0,
+    scores: [],
+    errors: []
+  };
+}
+
+function saveProgress(progress) {
+  localStorage.setItem(storageKey, JSON.stringify(progress));
+}
+
+function getLock() {
+  return Number(localStorage.getItem(lockKey)) || 0;
+}
+
+function setLock(hours) {
+  const until = Date.now() + hours * 60 * 60 * 1000;
+  localStorage.setItem(lockKey, until);
+}
+
+function clearLock() {
+  localStorage.removeItem(lockKey);
+}
+
+function formatTime(ms) {
+  const totalMinutes = Math.ceil(ms / 60000);
+  const h = Math.floor(totalMinutes / 60);
+  const m = totalMinutes % 60;
+  return `${h}h ${m}min`;
+}
+
+function goToCourses() {
+  window.location.href = `/pages/cours/player.html?category=${category}&module=${moduleName}`;
+}
+
+function checkLock() {
+  const lockedUntil = getLock();
+
+  if (Date.now() < lockedUntil) {
+    const remaining = lockedUntil - Date.now();
+
+    lockBox.classList.remove("hidden");
+    lockBox.innerHTML = `
+      <h2>🔒 QCM bloqués temporairement</h2>
+      <p>Veuillez revenir aux cours avant de continuer.</p>
+      <p>Temps restant : <strong>${formatTime(remaining)}</strong></p>
+      <button class="continue-btn" onclick="goToCourses()">Revenir aux cours</button>
+    `;
+
+    quizBox.classList.add("hidden");
+    resultBox.classList.add("hidden");
+    startBtn.disabled = true;
+    showAllBtn.disabled = true;
+
+    return true;
+  }
+
+  clearLock();
+  lockBox.classList.add("hidden");
+  startBtn.disabled = false;
+  showAllBtn.disabled = false;
+  return false;
+}
+
 async function loadQcmManifest() {
   const basePath = `/banque-qcm/${category}/${moduleName}`;
-
   const response = await fetch(basePath + "/index.json");
 
   if (!response.ok) {
@@ -38,7 +113,6 @@ async function loadQcmManifest() {
   }
 
   const files = await response.json();
-
   const loaded = [];
 
   for (const file of files) {
@@ -58,22 +132,48 @@ async function loadQcmManifest() {
   return loaded;
 }
 
-function renderStats() {
-  const qcm = allQuestions.filter(q => q.type === "QCM").length;
-  const qcs = allQuestions.filter(q => q.type === "QCS").length;
+function updateProgressBar() {
+  const progress = getProgress();
+  const done = progress.done;
+  const total = allQuestions.length;
+  const percent = total > 0 ? Math.round((done / total) * 100) : 0;
 
-  stats.innerHTML = `
-    <h3>Statistiques</h3>
-    <p>Total questions : <strong>${allQuestions.length}</strong></p>
-    <p>QCM : <strong>${qcm}</strong></p>
-    <p>QCS : <strong>${qcs}</strong></p>
-  `;
+  progressText.textContent = `${done} / ${total} QCM réalisés - ${percent}%`;
+  progressFill.style.width = `${percent}%`;
 }
 
 function startQuiz() {
-  quizQuestions = shuffle([...allQuestions]); // كل الأسئلة، ليس 50 فقط
+  if (checkLock()) return;
+
+  const progress = getProgress();
+
+  if (progress.done >= allQuestions.length) {
+    showBankCompleted();
+    return;
+  }
+
+  quizQuestions = allQuestions.slice(progress.done, progress.done + SESSION_SIZE);
+
   currentIndex = 0;
   score = 0;
+  wrongCount = 0;
+  consecutiveWrong = 0;
+
+  resultBox.classList.add("hidden");
+  quizBox.classList.remove("hidden");
+
+  showQuestion();
+}
+
+function showAllQuestions() {
+  if (checkLock()) return;
+
+  quizQuestions = shuffle([...allQuestions]).slice(0, SESSION_SIZE);
+
+  currentIndex = 0;
+  score = 0;
+  wrongCount = 0;
+  consecutiveWrong = 0;
 
   resultBox.classList.add("hidden");
   quizBox.classList.remove("hidden");
@@ -83,19 +183,21 @@ function startQuiz() {
 
 function showQuestion() {
   const q = quizQuestions[currentIndex];
+  selectedAnswers = [];
 
   questionCounter.textContent = `Question ${currentIndex + 1}/${quizQuestions.length}`;
   questionText.textContent = q.question;
   explanation.textContent = "";
-
   choicesBox.innerHTML = "";
+
+  const inputType = String(q.type).toUpperCase() === "QCS" ? "radio" : "checkbox";
 
   q.choices.forEach((choice, index) => {
     const label = document.createElement("label");
     label.className = "choice";
 
     label.innerHTML = `
-      <input type="${String(q.type).toUpperCase() === "QCS" ? "radio" : "checkbox"}" name="choice" value="${index}">
+      <input type="${inputType}" name="choice" value="${index}">
       ${choice}
     `;
 
@@ -118,7 +220,23 @@ function validateAnswer() {
     selected.length === correct.length &&
     selected.every(v => correct.includes(v));
 
-  if (isCorrect) score++;
+  if (isCorrect) {
+    score++;
+    consecutiveWrong = 0;
+  } else {
+    wrongCount++;
+    consecutiveWrong++;
+
+    const progress = getProgress();
+    progress.errors.push({
+      module: moduleName,
+      category,
+      question: q.question,
+      correctAnswers: correct.map(i => q.choices[i]),
+      date: new Date().toISOString()
+    });
+    saveProgress(progress);
+  }
 
   [...document.querySelectorAll(".choice")].forEach((label, index) => {
     if (correct.includes(index)) label.classList.add("correct");
@@ -129,6 +247,31 @@ function validateAnswer() {
 
   validateBtn.classList.add("hidden");
   nextBtn.classList.remove("hidden");
+
+  if (consecutiveWrong >= 5) {
+    setLock(5);
+    showBlockedMessage(5, "Vous avez fait 5 réponses fausses consécutives");
+    return;
+  }
+
+  if (currentIndex + 1 >= 20 && wrongCount >= 5) {
+    setLock(2);
+    showBlockedMessage(2, "Vous avez fait 5 erreurs dans les 20 premières questions");
+    return;
+  }
+}
+
+function showBlockedMessage(hours, reason) {
+  quizBox.classList.add("hidden");
+  resultBox.classList.add("hidden");
+
+  lockBox.classList.remove("hidden");
+  lockBox.innerHTML = `
+    <h2>⚠️ Revenir aux cours</h2>
+    <p>${reason}.</p>
+    <p>Les QCM sont bloqués pendant <strong>${hours} heures</strong>.</p>
+    <button class="continue-btn" onclick="goToCourses()">Revenir aux cours</button>
+  `;
 }
 
 function nextQuestion() {
@@ -143,25 +286,76 @@ function nextQuestion() {
 }
 
 function endQuiz() {
+  const progress = getProgress();
+
+  progress.done += quizQuestions.length;
+  progress.scores.push({
+    score,
+    total: quizQuestions.length,
+    date: new Date().toISOString()
+  });
+
+  if (progress.done > allQuestions.length) {
+    progress.done = allQuestions.length;
+  }
+
+  saveProgress(progress);
+  updateProgressBar();
+
+  const remaining = allQuestions.length - progress.done;
+  const percent = Math.round((score / quizQuestions.length) * 100);
+
   quizBox.classList.add("hidden");
   resultBox.classList.remove("hidden");
 
   resultBox.innerHTML = `
-    <h2>Résultat</h2>
+    <h2>🎉 Session terminée</h2>
+
     <p>Score : <strong>${score}/${quizQuestions.length}</strong></p>
-    <button onclick="location.reload()">Recommencer</button>
+    <p>Pourcentage : <strong>${percent}%</strong></p>
+
+    <hr>
+
+    <p>Vous avez terminé <strong>${progress.done}</strong> QCM sur <strong>${allQuestions.length}</strong>.</p>
+    <p>Il reste encore <strong>${remaining}</strong> QCM à découvrir.</p>
+
+    ${
+      remaining > 0
+        ? `<button class="continue-btn" onclick="startQuiz()">▶ Continuer la série</button>`
+        : `<button class="continue-btn" onclick="showBankCompleted()">Voir le bilan final</button>`
+    }
+
+    <button class="continue-btn" onclick="goToCourses()">Revenir aux cours</button>
   `;
 }
 
-function showAllQuestions() {
-  quizQuestions = shuffle([...allQuestions]);
-  currentIndex = 0;
-  score = 0;
+function showBankCompleted() {
+  const progress = getProgress();
 
-  resultBox.classList.add("hidden");
-  quizBox.classList.remove("hidden");
+  const totalSessions = progress.scores.length;
+  const totalScore = progress.scores.reduce((sum, s) => sum + s.score, 0);
+  const totalQuestions = progress.scores.reduce((sum, s) => sum + s.total, 0);
+  const average = totalQuestions > 0 ? Math.round((totalScore / totalQuestions) * 100) : 0;
 
-  showQuestion();
+  quizBox.classList.add("hidden");
+  resultBox.classList.remove("hidden");
+
+  resultBox.innerHTML = `
+    <h2>🏆 Banque QCM terminée</h2>
+
+    <p>Vous avez terminé toute la banque : <strong>${allQuestions.length} QCM</strong>.</p>
+    <p>Nombre de sessions : <strong>${totalSessions}</strong></p>
+    <p>Moyenne générale : <strong>${average}%</strong></p>
+
+    <button class="continue-btn" onclick="restartBank()">Nouvelle série</button>
+    <button class="continue-btn" onclick="goToCourses()">Revenir aux cours</button>
+  `;
+}
+
+function restartBank() {
+  localStorage.removeItem(storageKey);
+  localStorage.removeItem(lockKey);
+  window.location.reload();
 }
 
 async function init() {
@@ -181,7 +375,9 @@ async function init() {
       return;
     }
 
-    // renderStats();
+    updateProgressBar();
+    checkLock();
+
   } catch (err) {
     moduleInfo.textContent = "Erreur: " + err.message;
   }
@@ -191,5 +387,10 @@ startBtn.addEventListener("click", startQuiz);
 showAllBtn.addEventListener("click", showAllQuestions);
 validateBtn.addEventListener("click", validateAnswer);
 nextBtn.addEventListener("click", nextQuestion);
+
+const backToModules = document.getElementById("backToModules");
+if (backToModules) {
+ backToModules.href = `/pages/cours/player.html?category=${category}&module=${moduleName}`; 
+}
 
 init();

@@ -802,3 +802,111 @@
     opacity:0;
   }
 }
+
+.dashboard-profile-card {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+
+  margin-bottom: 24px;
+  padding: 20px 22px;
+
+  border: 1px solid rgba(148, 163, 184, 0.2);
+  border-radius: 22px;
+
+  background:
+    linear-gradient(
+      145deg,
+      rgba(25, 25, 45, 0.95),
+      rgba(15, 19, 36, 0.95)
+    );
+}
+
+.dashboard-profile-avatar {
+  width: 72px;
+  height: 72px;
+  flex: 0 0 72px;
+
+  display: grid;
+  place-items: center;
+
+  overflow: hidden;
+
+  border: 2px solid rgba(139, 92, 246, 0.6);
+  border-radius: 22px;
+
+  color: white;
+  font-size: 28px;
+  font-weight: 900;
+
+  background:
+    linear-gradient(
+      135deg,
+      #7c3aed,
+      #3b82f6
+    );
+}
+
+.dashboard-profile-avatar img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.dashboard-profile-info h2 {
+  margin: 0 0 5px;
+  color: white;
+}
+
+.dashboard-profile-info p {
+  margin: 0 0 5px;
+  color: #c4b5fd;
+  font-weight: 800;
+}
+
+.dashboard-profile-info small {
+  color: #94a3b8;
+}
+
+/* ==============================
+   PROFIL DASHBOARD COMPACT
+============================== */
+
+.dashboard-profile-card {
+  width: fit-content;
+  min-width: 320px;
+  max-width: 520px;
+
+  margin: 18px 0 28px 58px;
+  padding: 16px 20px;
+
+  border-radius: 20px;
+}
+
+.dashboard-profile-avatar {
+  width: 64px;
+  height: 64px;
+  flex-basis: 64px;
+}
+
+.dashboard-profile-info h2 {
+  margin: 0 0 4px;
+  font-size: 24px;
+}
+
+.dashboard-profile-info p {
+  margin: 0 0 4px;
+}
+
+.dashboard-profile-info small {
+  display: block;
+}
+
+@media (max-width: 700px) {
+  .dashboard-profile-card {
+    width: calc(100% - 32px);
+    min-width: 0;
+    margin: 16px auto 24px;
+  }
+}

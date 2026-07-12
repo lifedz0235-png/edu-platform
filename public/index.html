@@ -24,11 +24,31 @@
     </a>
 
     <div class="pro-menu">
+      <a
+  href="/pages/profile/profile.html"
+  class="nav-link nav-profile-link"
+>
+  <span id="navProfileAvatar" class="nav-profile-avatar">
+    P
+  </span>
+
+  <span id="navProfileName">
+    Profil
+  </span>
+</a>
       <a class="active" href="./index.html">Accueil</a>
       <a href="./pages/modules/modules.html?category=biologie">Cours</a>
-      <a href="#">Communauté</a>
-      <a href="#">QCM</a>
-      <a class="ia-link" href="#">✦ IA <small>NOUVEAU</small></a>
+      <a href="./pages/community/community.html">Communauté</a>
+      <a
+  id="adminNavBtn"
+  href="/pages/admin/admin.html"
+  class="nav-btn"
+  style="display: none;"
+>
+  👑 Admin
+</a>
+      <a href="#">EXAMEN TYPE</a>
+    <button id="logoutBtn" class="logout-btn">Déconnexion</button>
       <a href="./pages/dashboard/dashboard.html">Dashboard</a>
     </div>
   </nav>
@@ -120,6 +140,8 @@
 
   </main>
 
-  <script src="./js/app.js"></script>
+  <script src="/js/auth-guard.js"></script>
+<script src="/js/user-storage.js"></script>
+<script src="/js/app.js"></script>
 </body>
 </html>

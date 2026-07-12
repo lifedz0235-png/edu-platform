@@ -5,7 +5,7 @@ function getMergedFavorites() {
 
   FAVORITE_KEYS.forEach((key) => {
     try {
-      const data = JSON.parse(localStorage.getItem(key) || "[]");
+      const data = getUserData(key, []);
       if (Array.isArray(data)) result = result.concat(data);
     } catch {}
   });

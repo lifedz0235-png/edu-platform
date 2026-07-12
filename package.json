@@ -4,9 +4,11 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
+  "start": "node server.js",
+  "dev": "node --watch server.js",
+  "check": "node --check server.js",
+  "production-check": "node check-production.js"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -17,6 +19,7 @@
     "express": "^5.2.1",
     "fast-xml-parser": "^5.9.3",
     "mammoth": "^1.12.0",
+    "multer": "^2.2.0",
     "openai": "^6.45.0",
     "pdf-parse": "^1.1.4",
     "pptx2json": "^0.0.10",

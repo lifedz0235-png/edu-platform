@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Profil utilisateur - PCR</title>
+
+  <link rel="stylesheet" href="/css/profile.css" />
+</head>
+
+<body class="auth-checking">
+
+  <main class="profile-page">
+
+    <a href="/" class="back-link">← Accueil</a>
+
+    <section class="profile-card">
+
+      <div class="profile-top">
+
+        <div class="profile-photo-area">
+
+          <div id="profilePhotoWrapper" class="profile-photo-wrapper">
+
+            <img
+              id="profilePhoto"
+              class="profile-photo hidden"
+              alt="Photo de profil"
+            />
+
+            <div id="profileInitial" class="profile-initial">
+              P
+            </div>
+
+          </div>
+
+          <div class="photo-actions">
+
+            <label for="profilePhotoInput" class="photo-upload-btn">
+              📷 Choisir une photo
+            </label>
+
+            <input
+              id="profilePhotoInput"
+              type="file"
+              accept="image/jpeg,image/png,image/webp"
+              hidden
+            />
+
+            <button
+              id="deletePhotoBtn"
+              class="delete-photo-btn"
+              type="button"
+            >
+              Supprimer la photo
+            </button>
+
+          </div>
+
+        </div>
+
+        <div class="profile-identity">
+
+          <h1 id="profileDisplayName">
+            Utilisateur PCR
+          </h1>
+
+          <p id="profileRole">
+            Étudiant
+          </p>
+
+          <p id="profileEmail" class="profile-email">
+            email@pcr.dz
+          </p>
+
+        </div>
+
+      </div>
+
+      <form id="profileForm" class="profile-form">
+
+        <div class="form-group">
+
+          <label for="profileName">
+            Nom complet
+          </label>
+
+          <input
+            id="profileName"
+            type="text"
+            maxlength="100"
+            placeholder="Votre nom complet"
+            required
+          />
+
+        </div>
+
+        <div class="form-group">
+
+          <label for="profileBio">
+            Bio
+          </label>
+
+          <textarea
+            id="profileBio"
+            maxlength="500"
+            placeholder="Présentez-vous en quelques mots..."
+          ></textarea>
+
+          <div class="bio-counter">
+            <span id="bioCount">0</span>/500
+          </div>
+
+        </div>
+
+        <div class="profile-grid">
+
+          <div class="form-group">
+
+            <label for="profileUniversity">
+              Université
+            </label>
+
+            <input
+              id="profileUniversity"
+              type="text"
+              maxlength="150"
+              placeholder="Université"
+            />
+
+          </div>
+
+          <div class="form-group">
+
+            <label for="profilePromotion">
+              Promotion
+            </label>
+
+            <input
+              id="profilePromotion"
+              type="text"
+              maxlength="150"
+              placeholder="Exemple : Résidanat 2026"
+            />
+
+          </div>
+
+        </div>
+
+        <div id="selectedPhotoPreview" class="selected-photo-preview hidden">
+
+          <img
+            id="selectedPhotoImage"
+            alt="Aperçu de la nouvelle photo"
+          />
+
+          <div>
+            <strong>Nouvelle photo sélectionnée</strong>
+            <p id="selectedPhotoName"></p>
+          </div>
+
+          <button
+            id="cancelSelectedPhoto"
+            type="button"
+          >
+            ×
+          </button>
+
+        </div>
+
+        <button
+          id="saveProfileBtn"
+          class="save-profile-btn"
+          type="submit"
+        >
+          Enregistrer le profil
+        </button>
+
+        <p id="profileMessage" class="profile-message"></p>
+
+      </form>
+
+    </section>
+
+    <section class="profile-stats">
+
+      <article class="stat-card">
+
+        <strong id="publicationsCount">0</strong>
+
+        <span>Publications</span>
+
+      </article>
+
+      <article class="stat-card">
+
+        <strong id="commentsCount">0</strong>
+
+        <span>Commentaires</span>
+
+      </article>
+
+      <article class="stat-card">
+
+        <strong id="likesReceivedCount">0</strong>
+
+        <span>Likes reçus</span>
+
+      </article>
+
+    </section>
+
+  </main>
+
+  <script src="/js/auth-guard.js"></script>
+  <script src="/js/profile.js"></script>
+
+</body>
+</html>

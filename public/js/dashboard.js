@@ -1,12 +1,27 @@
 const WATCHED_KEYS = ["watched_courses", "watchedCourses", "watched_courses_v1"];
 const FAVORITE_KEYS = ["favoriteCourses", "favorite_courses", "favorites", "favorite_courses_v1"];
+const dashboardProfileAvatar = document.getElementById(
+  "dashboardProfileAvatar"
+);
+
+const dashboardProfileName = document.getElementById(
+  "dashboardProfileName"
+);
+
+const dashboardProfileRole = document.getElementById(
+  "dashboardProfileRole"
+);
+
+const dashboardProfileMeta = document.getElementById(
+  "dashboardProfileMeta"
+);
 
 function getMergedStorageArray(keys) {
   let result = [];
 
   keys.forEach((key) => {
     try {
-      const data = JSON.parse(localStorage.getItem(key) || "[]");
+      const data = getUserData(key, []);
       if (Array.isArray(data)) result = result.concat(data);
     } catch {}
   });
@@ -16,7 +31,7 @@ function getMergedStorageArray(keys) {
 
 function getStorageArray(key) {
   try {
-    const data = JSON.parse(localStorage.getItem(key) || "[]");
+    const data = getUserData(key, []);
     return Array.isArray(data) ? data : [];
   } catch {
     return [];
@@ -161,3 +176,87 @@ function updateRank(percent) {
     logo.src = rank.img;
     
 }
+
+async function loadDashboardProfile() {
+  let currentUser = null;
+
+  try {
+    currentUser = JSON.parse(
+      localStorage.getItem("pcr_current_user")
+    );
+  } catch {
+    currentUser = null;
+  }
+
+  if (!currentUser) return;
+
+  try {
+    const res = await fetch(
+      `/api/profile/${currentUser.id}`
+    );
+
+    const profile = await res.json();
+
+    if (!res.ok) {
+      throw new Error(
+        profile.error || "Profil indisponible"
+      );
+    }
+
+    dashboardProfileName.textContent =
+      profile.name || "Utilisateur PCR";
+
+    dashboardProfileRole.textContent =
+      String(profile.role || "").toLowerCase() === "admin"
+        ? "Administrateur"
+        : "Étudiant";
+
+    const metaParts = [];
+
+    if (profile.university) {
+      metaParts.push(profile.university);
+    }
+
+    if (profile.promotion) {
+      metaParts.push(profile.promotion);
+    }
+
+    dashboardProfileMeta.textContent =
+      metaParts.join(" • ");
+
+    if (profile.photoUrl) {
+      dashboardProfileAvatar.innerHTML = `
+        <img
+          src="${profile.photoUrl}"
+          alt="${profile.name || "Profil"}"
+        >
+      `;
+    } else {
+      dashboardProfileAvatar.textContent =
+        String(profile.name || "P")
+          .charAt(0)
+          .toUpperCase();
+    }
+
+  } catch (error) {
+    console.error(
+      "Erreur profil dashboard :",
+      error
+    );
+
+    dashboardProfileName.textContent =
+      currentUser.name || "Utilisateur PCR";
+
+    dashboardProfileRole.textContent =
+      String(currentUser.role || "").toLowerCase() === "admin"
+        ? "Administrateur"
+        : "Étudiant";
+
+    dashboardProfileAvatar.textContent =
+      String(currentUser.name || "P")
+        .charAt(0)
+        .toUpperCase();
+  }
+}
+
+loadDashboardProfile();

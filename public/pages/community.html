@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Communauté PCR</title>
+  <link rel="stylesheet" href="/css/community.css" />
+</head>
+<body>
+
+<main class="community-page">
+
+  <a href="/" class="back-btn">← Accueil</a>
+
+  <section class="community-header">
+    <h1>Communauté PCR</h1>
+    <p>Partagez vos idées, questions et conseils avec les étudiants.</p>
+  </section>
+
+  <section class="create-post">
+    <textarea id="postText" placeholder="Que voulez-vous partager ?"></textarea>
+
+    <input type="file" id="postImage" accept="image/*" />
+
+    <button id="publishBtn">Publier</button>
+  </section>
+
+  <section id="postsList" class="posts-list"></section>
+
+</main>
+
+<script type="module" src="/js/community.js"></script>
+</body>
+</html>

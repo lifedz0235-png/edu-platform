@@ -582,8 +582,8 @@ function getCourseFromUrl() {
 
 function getWatchedCourses() {
   try {
-    const a = JSON.parse(localStorage.getItem("watchedCourses") || "[]");
-    const b = JSON.parse(localStorage.getItem("watched_courses") || "[]");
+    const a = getUserData("watchedCourses", []);
+const b = getUserData("watched_courses", []);
     return [...new Set([...a, ...b])];
   } catch {
     return [];
@@ -591,7 +591,7 @@ function getWatchedCourses() {
 }
 
 function getCompletedModules() {
-  return JSON.parse(localStorage.getItem("completedModules") || "[]");
+  return getUserData("completedModules", []);
 }
 
 function markModuleCompleted(categoryId, moduleId) {
@@ -600,7 +600,7 @@ function markModuleCompleted(categoryId, moduleId) {
 
   if (!completed.includes(key)) {
     completed.push(key);
-    localStorage.setItem("completedModules", JSON.stringify(completed));
+    setUserData("completedModules", completed);
   }
 }
 
@@ -609,15 +609,15 @@ function isModuleCompleted(categoryId, moduleId) {
 }
 
 function setWatchedCourses(data) {
-  localStorage.setItem("watchedCourses", JSON.stringify(data));
+  setUserData("watchedCourses", data);
 }
 
 function getFavoriteCourses() {
-  return JSON.parse(localStorage.getItem("favoriteCourses") || "[]");
+  return getUserData("favoriteCourses", []);
 }
 
 function setFavoriteCourses(data) {
-  localStorage.setItem("favoriteCourses", JSON.stringify(data));
+  setUserData("favoriteCourses", data);
 }
 
 function isWatched(courseId) {
@@ -762,6 +762,91 @@ function getModuleProgress(module, categoryId) {
   return { total, watchedCount, percent };
 }
 
+function getModuleColor(moduleId, categoryId) {
+  const colors = {
+    cardiologie: "#ff2d55",
+    dermatologie: "#38bdf8",
+    endocrinologie: "#d946ef",
+    epidemiologie: "#22c55e",
+    gastrologie: "#fb923c",
+    hematologie: "#ff2d55",
+    infectieux: "#22c55e",
+    "medecine-travail": "#f59e0b",
+    "medecine-legale": "#a855f7",
+    nephrologie: "#22d3ee",
+    neurologie: "#3b82f6",
+    pediatrie: "#ec4899",
+    pneumologie: "#22d3ee",
+    psychiatrie: "#818cf8",
+    rhumatologie: "#fb923c",
+
+    anatomopathologie: "#d946ef",
+    biochimie: "#ec4899",
+    genetique: "#a855f7",
+    "histologie-embriologie": "#d946ef",
+    immunologie: "#ec4899",
+    microbiologie: "#a855f7",
+    neurophysiologie: "#818cf8",
+    physiologie: "#ec4899",
+
+    cci: "#38bdf8",
+    "chirurgie-generale": "#3b82f6",
+    gynecologie: "#38bdf8",
+    neurochirurgie: "#60a5fa",
+    ophtalmologie: "#38bdf8",
+    orl: "#60a5fa",
+    traumatologie: "#3b82f6",
+    urologie: "#38bdf8"
+  };
+
+  return colors[moduleId] || (
+    categoryId === "biologie" ? "#d946ef" :
+    categoryId === "chirurgie" ? "#38bdf8" :
+    "#22c55e"
+  );
+}
+
+function getModuleIcon(moduleId) {
+  const icons = {
+    anatomopathologie: "🔬",
+    biochimie: "🧪",
+    genetique: "🧬",
+    "histologie-embriologie": "🧫",
+    immunologie: "🛡️",
+    microbiologie: "🦠",
+    neurophysiologie: "🧠",
+    physiologie: "❤️",
+
+    cci: "🚑",
+    "chirurgie-generale": "🔪",
+    gynecologie: "🤰",
+    neurochirurgie: "🧠",
+    ophtalmologie: "👁️",
+    orl: "👂",
+    traumatologie: "🦴",
+    urologie: "🫘",
+
+    cardiologie: "❤️",
+    dermatologie: "🧴",
+    endocrinologie: "🦋",
+    epidemiologie: "📊",
+    gastrologie: "🫃",
+    hematologie: "🩸",
+    infectieux: "🦠",
+    "medecine-travail": "🏭",
+    "medecine-legale": "⚖️",
+    nephrologie: "🫘",
+    neurologie: "🧠",
+    pediatrie: "👶",
+    pneumologie: "🫁",
+    psychiatrie: "💭",
+    rhumatologie: "🦴"
+  };
+
+  return icons[moduleId] || "📚";
+}
+  
+
 async function renderModules(modules, categoryId) {
   const list = document.getElementById("modulesList");
   if (!list) return;
@@ -785,9 +870,14 @@ async function renderModules(modules, categoryId) {
 
     const card = document.createElement("div");
 card.className = `module-card module-card-qcm module-${categoryId}`;
+card.style.setProperty("--module-color", getModuleColor(module.id, categoryId));
 
     card.innerHTML = `
-      <div class="module-card-title">${module.title}</div>
+      <div class="module-card-title">
+  <span class="module-icon">${getModuleIcon(module.id)}</span>
+  <span>${module.title}</span>
+</div>
+
       <div class="module-card-count">${total} cours</div>
 
       <div class="module-progress">
@@ -1340,8 +1430,8 @@ async function setupAutoNextAndModuleCelebration() {
 
 function getWatchedCoursesAuto() {
   try {
-    const a = JSON.parse(localStorage.getItem("watchedCourses") || "[]");
-    const b = JSON.parse(localStorage.getItem("watched_courses") || "[]");
+    const a = getUserData("watchedCourses", []);
+const b = getUserData("watched_courses", []);
     return [...new Set([...a, ...b])];
   } catch {
     return [];
@@ -1355,8 +1445,8 @@ function markCourseAsWatchedAuto(courseId) {
     watched.push(courseId);
   }
 
-  localStorage.setItem("watchedCourses", JSON.stringify(watched));
-  localStorage.setItem("watched_courses", JSON.stringify(watched));
+  setUserData("watchedCourses", watched);
+setUserData("watched_courses", watched);
 }
 
 function showModuleCompletedCelebration(category) {
@@ -1429,3 +1519,125 @@ async function setupAutoNextAndModuleCelebration() {
     }
   });
 }
+
+const logoutBtn = document.getElementById("logoutBtn");
+
+if (logoutBtn) {
+  logoutBtn.addEventListener("click", async () => {
+    const user = JSON.parse(localStorage.getItem("pcr_current_user"));
+    const deviceId = localStorage.getItem("pcr_device_id");
+
+    if (user) {
+      await fetch("/api/auth/logout", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          userId: user.id,
+          deviceId
+        })
+      });
+    }
+
+    localStorage.removeItem("pcr_current_user");
+    localStorage.removeItem("pcr_user_profile");
+
+    window.location.href = "/pages/auth/login.html";
+  });
+}
+
+const adminNavBtn = document.getElementById("adminNavBtn");
+
+if (adminNavBtn) {
+  let currentUser = null;
+
+  try {
+    currentUser = JSON.parse(
+      localStorage.getItem("pcr_current_user")
+    );
+  } catch (error) {
+    currentUser = null;
+  }
+
+  const role = String(currentUser?.role || "").toLowerCase();
+
+  if (role === "admin") {
+    adminNavBtn.style.display = "";
+  } else {
+    adminNavBtn.style.display = "none";
+  }
+}
+
+async function loadNavbarProfile() {
+  const navProfileAvatar = document.getElementById(
+    "navProfileAvatar"
+  );
+
+  const navProfileName = document.getElementById(
+    "navProfileName"
+  );
+
+  if (!navProfileAvatar || !navProfileName) {
+    return;
+  }
+
+  let currentUser = null;
+
+  try {
+    currentUser = JSON.parse(
+      localStorage.getItem("pcr_current_user")
+    );
+  } catch (error) {
+    currentUser = null;
+  }
+
+  if (!currentUser) {
+    return;
+  }
+
+  try {
+    const res = await fetch(
+      `/api/profile/${currentUser.id}`
+    );
+
+    const profile = await res.json();
+
+    if (!res.ok) {
+      throw new Error(
+        profile.error || "Profil indisponible"
+      );
+    }
+
+    navProfileName.textContent =
+      profile.name || "Profil";
+
+    if (profile.photoUrl) {
+      navProfileAvatar.innerHTML = `
+        <img
+          src="${profile.photoUrl}"
+          alt="${profile.name || "Profil"}"
+        >
+      `;
+    } else {
+      navProfileAvatar.textContent =
+        String(profile.name || "P")
+          .charAt(0)
+          .toUpperCase();
+    }
+
+  } catch (error) {
+    console.error(
+      "Erreur chargement profil navbar :",
+      error
+    );
+
+    navProfileName.textContent =
+      currentUser.name || "Profil";
+
+    navProfileAvatar.textContent =
+      String(currentUser.name || "P")
+        .charAt(0)
+        .toUpperCase();
+  }
+}
+
+loadNavbarProfile();

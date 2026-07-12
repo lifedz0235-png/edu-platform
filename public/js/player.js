@@ -74,7 +74,7 @@ function getWatched() {
 
   WATCHED_KEYS.forEach(key => {
     try {
-      const data = JSON.parse(localStorage.getItem(key) || "[]");
+      const data = getUserData(key, []);
       if (Array.isArray(data)) result = result.concat(data);
     } catch {}
   });
@@ -90,7 +90,7 @@ function saveWatched(courseId) {
   }
 
   WATCHED_KEYS.forEach(key => {
-    localStorage.setItem(key, JSON.stringify(watched));
+    setUserData(key, watched);
   });
 }
 
@@ -102,7 +102,7 @@ function isWatched(courseId) {
 
 function getFavorites() {
   try {
-    const data = JSON.parse(localStorage.getItem("favoriteCourses") || "[]");
+    const data = getUserData("favoriteCourses", []);
     return Array.isArray(data) ? data : [];
   } catch {
     return [];
@@ -132,7 +132,7 @@ function setupFavoriteButton() {
       });
     }
 
-    localStorage.setItem("favoriteCourses", JSON.stringify(favs));
+    setUserData("favoriteCourses", favs);
     updateFavoriteButton();
     renderSidebar();
   };
