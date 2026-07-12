@@ -708,28 +708,6 @@ app.post("/api/community/notifications/read", (req, res) => {
   res.json({ ok: true });
 });
 
-app.post("/api/community/notifications/read", (req, res) => {
-  const notifications = readNotifications();
-  const { userId } = req.body;
-
-  if (!userId) {
-    return res.status(400).json({
-      error: "userId manquant"
-    });
-  }
-
-  notifications.forEach(notification => {
-    if (
-      String(notification.recipientId) === String(userId)
-    ) {
-      notification.read = true;
-    }
-  });
-
-  saveNotifications(notifications);
-
-  res.json({ ok: true });
-});
 
 const usersDataPath = path.join(process.cwd(), "public/data/users.json");
 

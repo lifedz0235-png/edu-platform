@@ -678,28 +678,93 @@ function getAllCoursesFlat() {
   return result;
 }
 
-function loadModulesPage() {
+async function loadModulesPage() {
   const categoryId = getCategoryFromUrl();
-  const category = findCategory(categoryId);
 
   const title = document.getElementById("categoryTitle");
   const list = document.getElementById("modulesList");
 
   if (!title || !list) return;
 
-  if (!category) {
-    title.textContent = "Catégorie introuvable";
+  list.innerHTML = `
+    <div class="module-card">
+      <div class="module-card-title">Chargement...</div>
+    </div>
+  `;
+
+  try {
+    const response = await fetch(
+      `/data/cours.json?v=${Date.now()}`
+    );
+
+    if (!response.ok) {
+      throw new Error(
+        `Erreur chargement cours.json: ${response.status}`
+      );
+    }
+
+    const data = await response.json();
+
+    const freshCategory = data.find(
+      category =>
+        String(category.category) === String(categoryId)
+    );
+
+    if (!freshCategory) {
+      title.textContent = "Catégorie introuvable";
+
+      list.innerHTML = `
+        <div class="module-card">
+          <div class="module-card-title">Erreur</div>
+          <div class="module-card-count">
+            La catégorie demandée n'existe pas.
+          </div>
+        </div>
+      `;
+
+      return;
+    }
+
+    title.textContent =
+      freshCategory.title ||
+      findCategory(categoryId)?.title ||
+      categoryId;
+
+    const freshModules = (
+      freshCategory.modules || []
+    ).map(module => ({
+      id: module.name || module.id,
+      title:
+        module.title ||
+        slugToTitle(module.name || module.id),
+      courses: Array.isArray(module.courses)
+        ? module.courses
+        : []
+    }));
+
+    await renderModules(
+      freshModules,
+      categoryId
+    );
+
+  } catch (error) {
+    console.error(
+      "Erreur chargement des modules :",
+      error
+    );
+
     list.innerHTML = `
       <div class="module-card">
-        <div class="module-card-title">Erreur</div>
-        <div class="module-card-count">La catégorie demandée n'existe pas.</div>
+        <div class="module-card-title">
+          Erreur de chargement
+        </div>
+
+        <div class="module-card-count">
+          Impossible de charger les modules.
+        </div>
       </div>
     `;
-    return;
   }
-
-  title.textContent = category.title;
-  renderModules(category.modules, categoryId);
 }
 
 async function hasQcmBank(categoryId, moduleId) {
@@ -729,37 +794,38 @@ function getGlobalCourseIndex(categoryId, moduleId, courseIndex) {
 }
 
 function getModuleProgress(module, categoryId) {
-  if (isModuleCompleted(categoryId, module.id)) {
-    return { total: module.courses.length, watchedCount: module.courses.length, percent: 100 };
+  if (!module || !Array.isArray(module.courses)) {
+    return {
+      total: 0,
+      watchedCount: 0,
+      percent: 0
+    };
   }
 
   const watched = getWatchedCourses();
   const total = module.courses.length;
 
-  let watchedCount = 0;
+  const watchedCount = module.courses.filter(course =>
+    watched.some(
+      watchedId =>
+        String(watchedId) === String(course.id)
+    )
+  ).length;
 
-  module.courses.forEach((course, index) => {
-    const globalIndex = getGlobalCourseIndex(categoryId, module.id, index);
-
-    const ok = watched.some(w =>
-      w === course.id ||
-      w === String(course.id) ||
-      w === index ||
-      w === String(index) ||
-      w === globalIndex ||
-      w === String(globalIndex)
-    );
-
-    if (ok) watchedCount++;
-  });
-
-  const percent = total === 0 ? 0 : Math.round((watchedCount / total) * 100);
+  const percent =
+    total === 0
+      ? 0
+      : Math.round((watchedCount / total) * 100);
 
   if (percent === 100) {
     markModuleCompleted(categoryId, module.id);
   }
 
-  return { total, watchedCount, percent };
+  return {
+    total,
+    watchedCount,
+    percent
+  };
 }
 
 function getModuleColor(moduleId, categoryId) {
@@ -1470,55 +1536,7 @@ function showModuleCompletedCelebration(category) {
 
 setupAutoNextAndModuleCelebration();
 
-async function setupAutoNextAndModuleCelebration() {
-  const video = document.getElementById("videoPlayer");
-  if (!video) return;
 
-  const params = new URLSearchParams(window.location.search);
-  const category = params.get("category");
-  const moduleName = params.get("module");
-  const courseIndex = Number(params.get("course") || 0);
-
-  const res = await fetch("../../data/cours.json?v=" + Date.now());
-  const data = await res.json();
-
-  const cat = data.find(c => c.category === category);
-  const mod = cat?.modules.find(m => m.name === moduleName);
-  const currentCourse = mod?.courses[courseIndex];
-  if (!cat || !mod || !currentCourse) return;
-
-  let triggered = false;
-
-  video.addEventListener("timeupdate", () => {
-    if (triggered) return;
-    if (!video.duration) return;
-
-    const remaining = video.duration - video.currentTime;
-
-    if (remaining <= 5) {
-      triggered = true;
-
-      markCourseAsWatchedAuto(currentCourse.id);
-
-      const watched = getWatchedCoursesAuto();
-      const moduleDone = mod.courses.every(c => watched.includes(c.id));
-
-      if (moduleDone) {
-        showModuleCompletedCelebration(category);
-        return;
-      }
-
-      const nextIndex = courseIndex + 1;
-
-      if (nextIndex < mod.courses.length) {
-        setTimeout(() => {
-          window.location.href =
-            `player.html?category=${category}&module=${moduleName}&course=${nextIndex}`;
-        }, 5000);
-      }
-    }
-  });
-}
 
 const logoutBtn = document.getElementById("logoutBtn");
 
