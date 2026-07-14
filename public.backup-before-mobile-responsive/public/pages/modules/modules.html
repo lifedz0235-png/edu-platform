@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Modules</title>
+  <link rel="stylesheet" href="../../css/style.css" />
+</head>
+<body onload="loadModulesPage()">
+  <header class="topbar">
+    <a class="back-link" href="../../index.html">← Accueil</a>
+    <h1 class="title" id="categoryTitle">Modules</h1>
+  </header>
+
+  <main class="modules-page">
+    <div class="search-box">
+      <input
+        type="text"
+        id="moduleSearch"
+        placeholder="Rechercher un module..."
+        oninput="filterModules()"
+      />
+    </div>
+
+    <div id="modulesList" class="modules-grid"></div>
+  </main>
+
+  <script src="/js/auth-guard.js"></script>
+<script src="/js/user-storage.js"></script>
+<script src="/js/course-pdf-map.js"></script>
+<script src="/js/app.js"></script>
+</body>
+</html>

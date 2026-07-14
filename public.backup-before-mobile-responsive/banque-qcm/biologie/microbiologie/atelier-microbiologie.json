@@ -1,0 +1,3126 @@
+{
+  "category": "biologie",
+  "module": "microbiologie",
+  "courseId": 49,
+  "courseTitle": "Atelier Microbiologie",
+  "supportTitle": "atelier-microbiologie",
+  "supportType": "pptx",
+  "supportUrl": "/pdfs/biologie-pdf/MICROBIOlogie/atelier-microbiologie.pptx",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la structure générale d’une bactérie, quels éléments sont obligatoires selon le texte ?",
+      "choices": [
+        "Le chromosome",
+        "Les ribosomes",
+        "La capsule",
+        "La membrane cytoplasmique"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les éléments obligatoires d’une bactérie sont le chromosome, le cytoplasme, les ribosomes, la membrane cytoplasmique et la paroi. La capsule est inconstante."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont absents chez les bactéries selon le texte ?",
+      "choices": [
+        "Un véritable noyau",
+        "Des mitochondries",
+        "Des ribosomes",
+        "Un appareil de Golgi"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les bactéries sont des procaryotes : elles ne possèdent pas de véritable noyau, de mitochondries, de réticulum endoplasmique ni d’appareil de Golgi. Elles possèdent des ribosomes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des virus, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils comportent toujours un génome constitué soit d’ADN, soit d’ARN",
+        "Leur génome peut être monocaténaire ou bicaténaire",
+        "Ils possèdent des ribosomes fonctionnels",
+        "Ils peuvent infecter les bactéries"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Un virus possède toujours un génome ADN ou ARN, mono- ou bicaténaire. Il ne possède pas de ribosomes et certains virus peuvent infecter les bactéries."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition explique principalement la forte variabilité génétique de certains virus comme le VIH et le virus de l’hépatite C ?",
+      "choices": [
+        "La présence d’une capside polyédrique",
+        "La réplication généralement moins fidèle du génome des virus à ARN",
+        "La présence obligatoire d’une enveloppe virale",
+        "La réplication exclusive dans le noyau"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La réplication du génome des virus à ARN est généralement moins fidèle que celle des virus à ADN, expliquant leur forte variabilité génétique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la capside et la nucléocapside virales, quelles propositions sont exactes ?",
+      "choices": [
+        "La capside est une structure protéique protégeant le génome viral",
+        "La nucléocapside correspond à l’ensemble capside et génome viral",
+        "La nucléocapside ne peut être que tubulaire",
+        "L’icosaèdre possède 20 faces triangulaires équilatérales et 12 sommets"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La capside protège le génome viral. L’ensemble capside-génome forme la nucléocapside, qui peut être tubulaire/hélicoïdale ou polyédrique. L’icosaèdre a 20 faces et 12 sommets."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’enveloppe virale ou péplos, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle dérive de membranes cellulaires cytoplasmique, golgienne ou nucléaire selon les virus",
+        "Les virus enveloppés sortent souvent de la cellule par bourgeonnement",
+        "Elle rend généralement le virus plus résistant à la dessiccation",
+        "Elle rend les virus sensibles au pH acide gastrique"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’enveloppe dérive de membranes cellulaires et la sortie se fait souvent par bourgeonnement. Elle fragilise le virus, notamment vis-à-vis de la dessiccation et du pH acide gastrique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel type de virus est le plus favorisé dans une transmission oro-fécale par sa résistance dans les selles ?",
+      "choices": [
+        "Les virus enveloppés",
+        "Les virus nus",
+        "Les rétrovirus enveloppés",
+        "Les virus à enveloppe dérivée de la membrane nucléaire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les virus nus sont plus résistants, notamment dans les selles, ce qui favorise la transmission oro-fécale."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les virus à ADN suivants, lesquels sont correctement classés selon le texte ?",
+      "choices": [
+        "Herpes simplex virus 1 et 2 : virus enveloppés",
+        "Adénovirus : virus nus",
+        "Virus de l’hépatite B : virus nu",
+        "Papillomavirus : virus enveloppé"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les herpesvirus et le virus de l’hépatite B sont des virus à ADN enveloppés. Les adénovirus et papillomavirus sont des virus à ADN nus."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les virus à ARN suivants, quelles classifications sont exactes selon le texte ?",
+      "choices": [
+        "Flavivirus : virus enveloppé",
+        "Virus de l’hépatite A : virus nu",
+        "Rotavirus : virus enveloppé",
+        "Virus de la rage : virus nu"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les flavivirus et le virus de la rage sont des virus à ARN enveloppés. Le virus de l’hépatite A et le rotavirus sont des virus à ARN nus."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle description correspond au virus de l’hépatite D selon le texte ?",
+      "choices": [
+        "Virus nu à ADN bicaténaire",
+        "Génome et core sous enveloppe du virus de l’hépatite B contenant l’Ag HBs",
+        "Virus enveloppé identique au virus de l’hépatite C",
+        "Virus nu classé parmi les picornavirus"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le virus de l’hépatite D est décrit comme un génome et un core sous enveloppe du virus de l’hépatite B contenant l’Ag HBs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le VIH, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "C’est un rétrovirus responsable du SIDA",
+        "Il est détruit par l’alcool",
+        "Il est détruit par l’eau de Javel",
+        "La transmission mère-enfant est impossible"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le VIH est un rétrovirus responsable du SIDA. Il est détruit par l’alcool et l’eau de Javel. La transmission mère-enfant est possible."
+    },
+    {
+      "type": "QCS",
+      "question": "À quel stade les anticorps neutralisants agissent-ils principalement lors de l’infection virale ?",
+      "choices": [
+        "Décapsidation",
+        "Attachement viral",
+        "Réplication du génome",
+        "Libération par bourgeonnement"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les anticorps neutralisants agissent principalement au stade de l’attachement viral."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour quels virus la réplication de l’ADN viral a-t-elle lieu dans le noyau selon le texte ?",
+      "choices": [
+        "Herpesvirus et adénovirus",
+        "Papillomavirus et parvovirus",
+        "Virus influenza et coronavirus",
+        "VIH et virus de l’hépatite C"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La réplication de l’ADN viral a lieu dans le noyau pour les herpesvirus et les adénovirus."
+    },
+    {
+      "type": "QCM",
+      "question": "Le diagnostic direct en virologie peut reposer sur quelles méthodes ?",
+      "choices": [
+        "Isolement viral en culture cellulaire avec recherche d’un effet cytopathogène",
+        "Détection immunologique des antigènes viraux par immunofluorescence ou ELISA",
+        "Détection ou quantification du génome viral par PCR, RT-PCR ou PCR en temps réel",
+        "Recherche exclusive d’anticorps par western blot"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic direct met en évidence le virus ou ses constituants : culture, antigènes, génome, typage ou mutations. La recherche d’anticorps relève du diagnostic indirect."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le diagnostic indirect en virologie, quelles propositions sont exactes ?",
+      "choices": [
+        "Il repose sur la mise en évidence des anticorps synthétisés après infection virale",
+        "Il peut utiliser l’ELISA",
+        "Il peut utiliser le western blot",
+        "Il consiste à isoler le virus en culture cellulaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic indirect virologique recherche les anticorps post-infection, notamment par ELISA ou western blot. La culture cellulaire relève du diagnostic direct."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour quelles bactéries la PCR est-elle particulièrement utile du fait d’une croissance lente, difficile ou impossible selon le texte ?",
+      "choices": [
+        "Bordetella pertussis",
+        "Chlamydia trachomatis",
+        "Mycobacterium tuberculosis",
+        "Staphylococcus aureus"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite notamment Bordetella pertussis, Chlamydia trachomatis et Mycobacterium tuberculosis. Staphylococcus aureus n’est pas cité dans cette indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’identification bactérienne par PCR, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Des amorces spécifiques peuvent détecter directement des fragments de génome bactérien dans les produits pathologiques",
+        "Des amorces universelles peuvent aider à identifier une bactérie inconnue dans les tissus infectés ou en culture",
+        "Certains gènes bactériens comme sod ou rpoB peuvent être ciblés",
+        "La PCR bactérienne repose uniquement sur la mise en évidence d’anticorps spécifiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PCR détecte des fragments génomiques bactériens par amorces spécifiques, universelles ou ciblant certains gènes comme sod ou rpoB. Elle ne repose pas sur les anticorps."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour quels virus la culture sur systèmes cellulaires est-elle couramment utilisée selon le texte ?",
+      "choices": [
+        "Poliovirus et échovirus",
+        "VIH et virus de l’hépatite C",
+        "Virus de la rougeole et virus des oreillons",
+        "Papillomavirus et polyomavirus"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La culture sur systèmes cellulaires est couramment utilisée pour isoler les poliovirus et les échovirus."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le diagnostic bactériologique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le diagnostic direct vise à isoler et identifier le germe responsable à partir de produits pathologiques",
+        "Le diagnostic indirect peut rechercher une réponse immune spécifique contre le germe suspecté",
+        "Le diagnostic direct repose uniquement sur la sérologie",
+        "La PCR peut être utile si un diagnostic rapide est nécessaire, notamment dans les méningites"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le diagnostic bactériologique direct isole et identifie le germe. Le diagnostic indirect recherche une réponse immune. La PCR peut être utile lorsqu’un diagnostic rapide est requis, notamment dans les méningites."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la détection de l’ADN étranger et le séquençage, quelles propositions sont exactes ?",
+      "choices": [
+        "La détection d’un ADN étranger peut signer une infection",
+        "Cette détection doit être réalisée dans le sang ou dans le tissu cible du micro-organisme",
+        "Les techniques d’amplification comme la PCR permettent la détection de l’ADN",
+        "Le séquençage permet uniquement de quantifier les anticorps"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La détection d’un ADN étranger peut signer une infection si elle est réalisée dans le sang ou le tissu cible. La PCR permet cette détection. Le séquençage permet le typage et le suivi épidémiologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations suivantes, lesquelles correspondent à la classification bactérienne indiquée dans le texte ?",
+      "choices": [
+        "Corynebacterium diphtheriae : bacille à Gram positif aérobie",
+        "Listeria monocytogenes : bacille à Gram positif aérobie",
+        "Clostridium difficile : bacille à Gram positif anaérobie",
+        "Bacillus anthracis : bacille à Gram positif anaérobie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Corynebacterium diphtheriae, Listeria monocytogenes et Bacillus anthracis sont classés parmi les bacilles à Gram positif aérobies, tandis que Clostridium difficile est un bacille à Gram positif anaérobie."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les bactéries suivantes, lesquelles sont classées comme cocci à Gram négatif dans le texte ?",
+      "choices": [
+        "Neisseria meningitidis",
+        "Neisseria gonorrhoeae",
+        "Moraxella lacunata",
+        "Haemophilus influenzae"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cocci à Gram négatif cités sont Neisseria meningitidis, Neisseria gonorrhoeae, Moraxella lacunata et Branhamella catarrhalis. Haemophilus influenzae est décrit comme un coccobacille à Gram négatif exigeant."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les genres bactériens suivants, lesquels appartiennent aux entérobactéries selon le texte ?",
+      "choices": [
+        "Escherichia",
+        "Serratia",
+        "Yersinia",
+        "Vibrio"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les entérobactéries citées comprennent notamment Escherichia, Serratia et Yersinia. Vibrio cholerae est cité parmi les bacilles à Gram négatif non exigeants, mais pas parmi les entérobactéries."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mycobactéries, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des bacilles fins acido-alcoolo-résistants",
+        "Elles peuvent être visualisées par coloration à l’auramine",
+        "Elles ne se décolorent ni sous l’action des acides forts ni sous l’action de l’alcool",
+        "Elles sont définies dans le texte comme des cocci à Gram négatif"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les mycobactéries sont des bacilles fins acido-alcoolo-résistants, non décolorés par les acides forts ni par l’alcool, et visualisables par coloration à l’auramine."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de Mycobacterium tuberculosis et de la tuberculose, quelles propositions sont exactes ?",
+      "choices": [
+        "Mycobacterium tuberculosis possède une paroi lipidique épaisse participant à sa résistance aux antibiotiques courants",
+        "L’infection à Mycobacterium tuberculosis fait l’objet d’une déclaration obligatoire",
+        "Le réservoir de Mycobacterium tuberculosis est humain",
+        "Le traitement des mycobactéries repose toujours sur une monothérapie antibiotique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise la paroi lipidique épaisse de M. tuberculosis, la déclaration obligatoire, le réservoir humain et le recours possible à l’association de plusieurs antibiotiques, non à une monothérapie obligatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bactéries atypiques citées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les mycoplasmes sont caractérisés par l’absence de paroi cellulaire",
+        "Les rickettsies sont de petites bactéries parasites intracellulaires obligatoires",
+        "Les chlamydies sont de petites bactéries parasites intracellulaires obligatoires non colorables au Gram",
+        "Les mycoplasmes sont décrits comme des bacilles acido-alcoolo-résistants"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les mycoplasmes n’ont pas de paroi cellulaire. Les rickettsies et les chlamydies sont des parasites intracellulaires obligatoires ; les rickettsies sont colorables au Giemsa et les chlamydies ne sont pas colorables au Gram."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bactéries anaérobies strictes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles ne peuvent pas se développer en présence d’oxygène",
+        "Elles nécessitent souvent des milieux de culture complexes",
+        "Certaines appartiennent aux flores endogènes",
+        "Les entérocoques sont des anaérobies stricts"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anaérobies strictes ne se développent pas en présence d’oxygène, nécessitent souvent des milieux complexes et certaines appartiennent aux flores endogènes. Les entérocoques ne sont pas des anaérobies stricts."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des mutations bactériennes génotypiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont stables, rares, spontanées, indépendantes et transmissibles héréditairement",
+        "Une mutation correspond à un changement dans la séquence des bases de l’ADN",
+        "Elles sont naturellement provoquées par les antibiotiques",
+        "Elles sont naturellement provoquées par les plasmides de résistance"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les mutations bactériennes sont décrites comme stables, rares, spontanées, indépendantes et transmissibles. Elles correspondent à une modification de la séquence des bases de l’ADN et ne sont pas naturellement provoquées par les antibiotiques ou les plasmides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la résistance chromosomique aux antibiotiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est acquise par mutation",
+        "Elle peut être sélectionnée sous pression antibiotique",
+        "Elle représente la majorité des résistances acquises",
+        "Elle justifie l’intérêt des associations d’antibiotiques"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La résistance chromosomique est liée à une mutation, peut être sélectionnée sous pression antibiotique, concerne une faible proportion des résistances acquises et justifie l’intérêt des associations d’antibiotiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la résistance plasmidique aux antibiotiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle concerne de nombreux antibiotiques",
+        "Elle se rencontre notamment chez les bacilles à Gram négatif",
+        "Elle peut se transférer entre bactéries d’espèces différentes",
+        "Elle est définie comme une résistance exclusivement chromosomique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La résistance plasmidique concerne de nombreux antibiotiques, notamment chez les bacilles à Gram négatif, et peut être transférée entre espèces bactériennes différentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations peuvent expliquer l’inefficacité d’un traitement antibiotique selon le texte ?",
+      "choices": [
+        "Résistance de la bactérie traitée",
+        "Posologie insuffisante",
+        "Mauvaise diffusion de l’antibiotique dans le foyer infectieux",
+        "Substitution par un germe de surinfection résistant"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces quatre mécanismes comme causes possibles d’échec d’un traitement antibiotique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Staphylococcus aureus, quelles propositions sont exactes ?",
+      "choices": [
+        "Il pousse sur milieu de Chapman",
+        "Il peut produire de l’exfoliatine",
+        "Il peut être responsable de toxi-infections alimentaires",
+        "Il n’existe pas de portage sain de Staphylococcus aureus"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Staphylococcus aureus pousse sur milieu de Chapman, peut produire de l’exfoliatine, peut causer des toxi-infections alimentaires et peut exister à l’état de portage sain."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les enzymes ou facteurs suivants, lesquels peuvent être élaborés par Staphylococcus aureus selon le texte ?",
+      "choices": [
+        "Hyaluronidase",
+        "ADNase",
+        "Fibrinolysine",
+        "Coagulase"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne que Staphylococcus aureus peut élaborer notamment hyaluronidase, exfoliatine, ADNase, fibrinolysine et coagulase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Pseudomonas aeruginosa, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est un agent d’infections nosocomiales",
+        "Il n’est pas une entérobactérie",
+        "Il n’est pas sensible aux aminopénicillines",
+        "Il est une bactérie aéro-anaérobie facultative"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pseudomonas aeruginosa est impliqué dans les infections nosocomiales, n’est pas une entérobactérie, n’est pas sensible aux aminopénicillines et n’est pas une bactérie aéro-anaérobie facultative."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle bactérie est décrite comme un coccobacille à Gram négatif exigeant pouvant être responsable de méningite chez l’enfant ?",
+      "choices": [
+        "Haemophilus influenzae",
+        "Bacteroides fragilis",
+        "Listeria monocytogenes",
+        "Brucella melitensis"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Haemophilus influenzae est décrit comme un coccobacille à Gram négatif exigeant et peut être responsable de méningite chez l’enfant."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle bactérie est souvent intraleucocytaire à l’examen direct selon le texte ?",
+      "choices": [
+        "Neisseria meningitidis",
+        "Neisseria gonorrhoeae",
+        "Streptococcus pneumoniae",
+        "Pseudomonas aeruginosa"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Neisseria gonorrhoeae est souvent intraleucocytaire à l’examen direct."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition est exacte concernant Neisseria meningitidis ?",
+      "choices": [
+        "C’est un diplocoque à Gram positif",
+        "Il est toujours dépourvu de capsule",
+        "Il est oxydase positif",
+        "Il est résistant aux variations de température"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Neisseria meningitidis est un diplocoque à Gram négatif, peut posséder une capsule, est oxydase positif et est sensible aux variations de température."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition est exacte concernant Streptococcus pneumoniae ?",
+      "choices": [
+        "Il produit la toxine de Panton-Valentine",
+        "Il est catalase négatif",
+        "Il est toujours anaérobie strict",
+        "Il ne possède pas de capsule"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Streptococcus pneumoniae possède une capsule, est catalase négatif, peut survivre en aérobiose et en anaérobiose, et ne produit pas la toxine de Panton-Valentine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le rôle de la sporulation bactérienne selon le texte ?",
+      "choices": [
+        "Permettre à certaines bactéries pathogènes de survivre dans un environnement hostile",
+        "Provoquer naturellement les mutations chromosomiques",
+        "Transformer une bactérie en virus enveloppé",
+        "Rendre les entérocoques anaérobies stricts"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La sporulation permet à certaines bactéries pathogènes de survivre dans un environnement hostile."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition est exacte concernant l’ampicilline selon le texte ?",
+      "choices": [
+        "Elle a un spectre étroit et résiste à la pénicillinase du staphylocoque",
+        "Elle a un spectre large et est détruite par la pénicillinase du staphylocoque",
+        "Elle est habituellement bactériostatique",
+        "Elle est spécifiquement active sur Pseudomonas aeruginosa"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que l’ampicilline a un spectre large et qu’elle est détruite par la pénicillinase du staphylocoque."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles anomalies du LCR orientent, selon le texte, vers une étiologie bactérienne d’une méningite ?",
+      "choices": [
+        "Hypoglycorachie",
+        "Hypochlorurorachie",
+        "Présence de polynucléaires neutrophiles en amas",
+        "Hyperglycorachie isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’hypoglycorachie, l’hypochlorurorachie et la présence de polynucléaires neutrophiles en amas comme anomalies du LCR orientant vers une étiologie bactérienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la toxine tétanique, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle est protéique",
+        "Elle est antigénique",
+        "Elle est neurotrope",
+        "Elle est thermolabile"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La toxine tétanique est décrite comme protéique, antigénique, neurotrope et thermolabile."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du caractère pyrogène de la toxine tétanique, quelles propositions sont exactes ?",
+      "choices": [
+        "La toxine tétanique n’est pas pyrogène",
+        "La fièvre n’est pas l’élément retenu dans le texte pour expliquer la symptomatologie du tétanos",
+        "La symptomatologie est attribuée à la fixation d’une toxine sur le système nerveux",
+        "La toxine tétanique est présentée comme une toxine pyrogène majeure"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que la toxine tétanique n’est pas pyrogène et que la symptomatologie du tétanos est due à la fixation de la toxine sur le système nerveux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la vaccination antitétanique, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle utilise une anatoxine",
+        "L’anatoxine est obtenue par traitement de la toxine tétanique par le formol",
+        "L’anatoxine est obtenue par traitement de la toxine tétanique par la chaleur",
+        "Elle repose sur une souche vivante atténuée de Mycobacterium bovis"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vaccination antitétanique utilise une anatoxine obtenue par traitement de la toxine tétanique par le formol et la chaleur. La souche vivante atténuée de Mycobacterium bovis correspond au BCG."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions caractérisent correctement l’immunité induite par l’injection d’anatoxine tétanique ?",
+      "choices": [
+        "Elle est active",
+        "Elle est spécifique",
+        "Elle est dirigée contre le tétanos",
+        "Elle est décrite comme une immunité passive immédiate"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’injection d’anatoxine induit une immunité active spécifique contre le tétanos, et non une immunité passive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le vaccin BCG, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Il correspond à une souche vivante atténuée",
+        "La souche vaccinale est Mycobacterium bovis",
+        "Il s’agit d’un vaccin mentionné dans le texte",
+        "Il correspond à une anatoxine tétanique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le BCG est décrit comme une souche vivante atténuée de Mycobacterium bovis. Il ne s’agit pas d’une anatoxine tétanique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Corynebacterium diphtheriae, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "La protection efficace repose sur des anticorps antitoxiques",
+        "Le mécanisme protecteur cité est dirigé contre une toxine",
+        "Les anticorps antitoxiques sont explicitement mentionnés dans le texte",
+        "La protection est attribuée à la lyse bactérienne par le lysozyme salivaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que la protection lors d’une infection à Corynebacterium diphtheriae est assurée efficacement par des anticorps antitoxiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le lysozyme, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "C’est une enzyme antibactérienne",
+        "Il est présent dans les larmes",
+        "Il est présent dans la salive",
+        "Il est décrit comme une toxine neurotrope"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le lysozyme est une enzyme antibactérienne présente dans les larmes et la salive. Il n’est pas décrit comme une toxine neurotrope."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la lutte contre la COVID-19, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Les mesures barrières sont mentionnées",
+        "La vaccination est mentionnée",
+        "Ces mesures visent l’endiguement de l’infection",
+        "Ces mesures sont présentées comme un diagnostic direct de l’infection"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que, dans la lutte contre la COVID-19, les mesures barrières et la vaccination visent l’endiguement de l’infection."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations agent ou produit biologique–caractéristique sont correctes selon le texte ?",
+      "choices": [
+        "BCG — souche vivante atténuée de Mycobacterium bovis",
+        "Corynebacterium diphtheriae — protection par anticorps antitoxiques",
+        "Toxine tétanique — neurotrope et thermolabile",
+        "Lysozyme — anatoxine obtenue par le formol et la chaleur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le BCG est une souche vivante atténuée de Mycobacterium bovis, la protection antidiphtérique repose sur des anticorps antitoxiques et la toxine tétanique est neurotrope et thermolabile. L’anatoxine obtenue par formol et chaleur concerne la toxine tétanique, pas le lysozyme."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions relient correctement une toxine à ses effets ou à son utilisation vaccinale ?",
+      "choices": [
+        "La symptomatologie du tétanos est causée par la fixation d’une toxine sur le système nerveux",
+        "La toxine tétanique peut être transformée en anatoxine par le formol et la chaleur",
+        "L’anatoxine tétanique induit une immunité active spécifique",
+        "La toxine tétanique est utilisée comme souche vivante atténuée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte relie le tétanos à la fixation d’une toxine sur le système nerveux et précise que la vaccination utilise une anatoxine obtenue par formol et chaleur, induisant une immunité active spécifique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles opposent correctement BCG et anatoxine tétanique selon le texte ?",
+      "choices": [
+        "Le BCG correspond à une souche vivante atténuée",
+        "L’anatoxine tétanique est obtenue par traitement de la toxine par le formol et la chaleur",
+        "Le BCG est lié à Mycobacterium bovis",
+        "L’anatoxine tétanique est décrite comme une souche vivante atténuée de Mycobacterium bovis"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le BCG est une souche vivante atténuée de Mycobacterium bovis, tandis que l’anatoxine tétanique est obtenue à partir de la toxine tétanique traitée par le formol et la chaleur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les indices biologiques et immunologiques cités dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Des polynucléaires neutrophiles en amas dans le LCR orientent vers une étiologie bactérienne",
+        "L’hypoglycorachie est une anomalie du LCR orientant vers une étiologie bactérienne",
+        "Les anticorps antitoxiques assurent efficacement la protection lors d’une infection à Corynebacterium diphtheriae",
+        "L’hyperchlorurorachie est citée comme anomalie bactérienne du LCR"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les polynucléaires neutrophiles en amas, l’hypoglycorachie et l’hypochlorurorachie comme éléments du LCR en faveur d’une étiologie bactérienne. Il mentionne aussi les anticorps antitoxiques dans la diphtérie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions sont conformes au texte concernant la prévention ou la protection contre des infections ?",
+      "choices": [
+        "Le BCG est un vaccin constitué d’une souche vivante atténuée de Mycobacterium bovis",
+        "La vaccination antitétanique induit une immunité active spécifique",
+        "La protection contre Corynebacterium diphtheriae est efficacement assurée par des anticorps antitoxiques",
+        "La lutte contre la COVID-19 repose uniquement sur la présence de lysozyme salivaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne le BCG, l’immunité active spécifique induite par l’anatoxine tétanique et les anticorps antitoxiques dans la diphtérie. Pour la COVID-19, il cite les mesures barrières et la vaccination."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel vaccin correspond, selon le texte, à une souche vivante atténuée de Mycobacterium bovis ?",
+      "choices": [
+        "Vaccin BCG",
+        "Vaccin antitétanique",
+        "Vaccin antidiphtérique",
+        "Vaccin contre la COVID-19"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que le vaccin BCG correspond à une souche vivante atténuée de Mycobacterium bovis."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme assure efficacement la protection lors d’une infection à Corynebacterium diphtheriae selon le texte ?",
+      "choices": [
+        "Anticorps antitoxiques",
+        "Polynucléaires neutrophiles en amas",
+        "Lysozyme lacrymal seul",
+        "Hypochlorurorachie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La protection lors d’une infection à Corynebacterium diphtheriae est assurée efficacement par des anticorps antitoxiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme explique la symptomatologie du tétanos selon le texte ?",
+      "choices": [
+        "Fixation d’une toxine sur le système nerveux",
+        "Hypoglycorachie isolée",
+        "Action pyrogène de la toxine tétanique",
+        "Destruction bactérienne par le lysozyme"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La symptomatologie du tétanos est causée par la fixation d’une toxine sur le système nerveux."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle n’est pas une propriété de la toxine tétanique selon le texte ?",
+      "choices": [
+        "Protéique",
+        "Antigénique",
+        "Neurotrope",
+        "Pyrogène"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La toxine tétanique est protéique, antigénique, neurotrope et thermolabile ; elle n’est pas pyrogène."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément du LCR cité dans le texte oriente vers une étiologie bactérienne ?",
+      "choices": [
+        "Hypoglycorachie",
+        "Hyperglycorachie",
+        "Hyperchlorurorachie",
+        "Absence de polynucléaires neutrophiles"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hypoglycorachie fait partie des anomalies du LCR orientant vers une étiologie bactérienne."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la lutte contre la COVID-19, quel est l’objectif des mesures barrières et de la vaccination selon le texte ?",
+      "choices": [
+        "Endiguement de l’infection",
+        "Diagnostic indirect de l’infection",
+        "Transformation du virus en anatoxine",
+        "Induction d’une hypochlorurorachie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que les mesures barrières et la vaccination visent l’endiguement de l’infection."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels peuvent être présents de façon inconstante chez une bactérie ?",
+      "choices": [
+        "Plasmides",
+        "Capsule",
+        "Flagelles",
+        "Mitochondries"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les plasmides, la capsule et les flagelles sont des éléments inconstants. Les mitochondries sont absentes chez les bactéries."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation morphologique des virus, quelles propositions sont exactes ?",
+      "choices": [
+        "La capside protège le génome viral",
+        "La nucléocapside correspond à l’ensemble capside-génome",
+        "L’icosaèdre possède 20 faces triangulaires équilatérales et 12 sommets",
+        "La nucléocapside est toujours entourée d’une enveloppe"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La capside protège le génome, et avec lui forme la nucléocapside. L’icosaèdre a 20 faces et 12 sommets. Tous les virus ne sont pas enveloppés."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’enveloppe virale, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle peut dériver de la membrane cytoplasmique",
+        "Elle peut dériver des membranes golgienne ou nucléaire",
+        "Les virus enveloppés sortent souvent par bourgeonnement",
+        "Elle augmente la résistance du virus au pH acide gastrique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’enveloppe peut provenir des membranes cytoplasmique, golgienne ou nucléaire, et la sortie se fait souvent par bourgeonnement. Elle rend le virus fragile, notamment vis-à-vis du pH acide gastrique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les poxvirus selon la classification simplifiée donnée, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des virus à ADN",
+        "Ils possèdent une enveloppe complexe",
+        "Ils sont décrits comme résistants",
+        "Ils appartiennent aux virus à ARN nus"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les poxvirus sont classés parmi les virus à ADN à enveloppe complexe, résistants. Ils ne sont pas des virus à ARN nus."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le diagnostic direct virologique, quelles approches relèvent spécifiquement de la mise en évidence ou de l’étude du génome viral ?",
+      "choices": [
+        "PCR, RT-PCR ou PCR en temps réel",
+        "Typage des génomes viraux",
+        "Recherche de mutations génomiques de résistance aux traitements",
+        "Western blot recherchant des anticorps antiviraux"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PCR, le typage génomique et la recherche de mutations de résistance relèvent de l’étude directe du génome viral. Le western blot recherchant des anticorps correspond au diagnostic indirect."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le diagnostic indirect en virologie, quelles propositions sont exactes ?",
+      "choices": [
+        "Il repose sur la mise en évidence d’anticorps synthétisés après infection virale",
+        "Il peut utiliser l’ELISA",
+        "Il peut utiliser le western blot",
+        "Il repose sur la recherche d’un effet cytopathogène en culture cellulaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic indirect recherche les anticorps post-infectieux, notamment par ELISA ou western blot. L’effet cytopathogène en culture appartient au diagnostic direct."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour quelles infections virales le diagnostic sérologique est-il cité comme utilisable dans le texte ?",
+      "choices": [
+        "Varicelle",
+        "Oreillons",
+        "Rougeole",
+        "Infection à coronavirus"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la varicelle, les oreillons, la rougeole et la poliomyélite. L’infection à coronavirus n’est pas citée dans cette indication sérologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la détection d’un ADN étranger, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut signer une infection",
+        "Elle doit être réalisée dans le sang ou dans le tissu cible du micro-organisme",
+        "Elle peut faire appel à des techniques d’amplification comme la PCR",
+        "Elle doit toujours être réalisée dans les selles"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La détection d’un ADN étranger peut signer une infection et doit être réalisée dans le sang ou le tissu cible. La PCR permet cette détection. Le texte ne dit pas qu’elle doit toujours être faite dans les selles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’utilisation de la PCR en bactériologie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut détecter directement des fragments de génome bactérien dans les produits pathologiques",
+        "Elle peut être utile lorsqu’un diagnostic rapide est nécessaire, notamment dans les méningites",
+        "Elle peut aider à identifier une bactérie inconnue par amorces universelles ou ciblant sod ou rpoB",
+        "Elle n’est utilisable qu’après isolement préalable en culture pure"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PCR peut détecter directement l’ADN bactérien dans les prélèvements, être utile en urgence et permettre l’identification par amorces universelles ou gènes ciblés. Elle n’exige pas toujours une culture pure préalable."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations agent infectieux–maladie sont exactes selon le texte ?",
+      "choices": [
+        "Bordetella pertussis — coqueluche",
+        "Rickettsia spp. — typhus",
+        "Tropheryma whipplei — maladie de Whipple",
+        "Treponema pallidum — typhus"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Bordetella pertussis est l’agent de la coqueluche, Rickettsia spp. celui des typhus, et Tropheryma whipplei celui de la maladie de Whipple. Treponema pallidum est l’agent de la syphilis."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certaines bactéries à diagnostic moléculaire utile, quelles propositions sont exactes ?",
+      "choices": [
+        "Chlamydia trachomatis et Chlamydia pneumoniae sont associées à des infections génitales, oculaires et pulmonaires",
+        "Mycoplasma pneumoniae et Ureaplasma urealyticum sont associés à des infections pulmonaires et génitales",
+        "Treponema pallidum est l’agent de la syphilis",
+        "Rickettsia spp. est l’agent de la maladie de Whipple"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premières associations sont conformes au texte. Rickettsia spp. est associé aux typhus, tandis que la maladie de Whipple est due à Tropheryma whipplei."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les groupes suivants, lesquels correspondent à des virus à ARN enveloppés cités dans le texte ?",
+      "choices": [
+        "Virus influenza A, B et C ; virus parainfluenza 1 à 4",
+        "Virus respiratoire syncytial ; coronavirus",
+        "Virus des oreillons ; virus de la rougeole",
+        "Adénovirus ; rhinovirus"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les virus influenza, parainfluenza, respiratoire syncytial, coronavirus, oreillons et rougeole sont classés parmi les virus à ARN enveloppés. Les adénovirus sont des virus à ADN nus et les rhinovirus des virus à ARN nus."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les virus suivants, lesquels sont classés comme virus à ARN nus dans le texte ?",
+      "choices": [
+        "Virus de l’hépatite A et virus de l’hépatite E",
+        "Poliovirus, coxsackievirus et échovirus",
+        "Rotavirus et calicivirus",
+        "Virus de l’hépatite B et virus de l’hépatite C"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les virus de l’hépatite A et E, les poliovirus, coxsackievirus, échovirus, rotavirus et calicivirus sont des virus à ARN nus. Le VHB est un virus à ADN enveloppé et le VHC un virus à ARN enveloppé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification simplifiée des virus à ADN, quelles propositions sont exactes ?",
+      "choices": [
+        "Les herpesvirus cités sont des virus à ADN enveloppés",
+        "Les adénovirus sont des virus à ADN nus",
+        "Les papillomavirus, polyomavirus et parvovirus sont des virus à ADN nus",
+        "Les coronavirus sont des virus à ADN enveloppés"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les herpesvirus sont des virus à ADN enveloppés, tandis que les adénovirus, papillomavirus, polyomavirus et parvovirus sont des virus à ADN nus. Les coronavirus sont classés parmi les virus à ARN enveloppés."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle méthode correspond au diagnostic indirect d’une infection virale ?",
+      "choices": [
+        "Isolement viral avec recherche d’effet cytopathogène",
+        "Détection du génome viral par PCR",
+        "Recherche d’anticorps antiviraux par western blot",
+        "Détection d’antigènes viraux par immunofluorescence"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le diagnostic indirect repose sur la recherche d’anticorps, notamment par ELISA ou western blot."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent est responsable de la maladie de Whipple selon le texte ?",
+      "choices": [
+        "Rickettsia spp.",
+        "Tropheryma whipplei",
+        "Treponema pallidum",
+        "Bordetella pertussis"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Tropheryma whipplei est l’agent de la maladie de Whipple."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent bactérien est cité comme responsable de la coqueluche ?",
+      "choices": [
+        "Bordetella pertussis",
+        "Chlamydia pneumoniae",
+        "Mycoplasma pneumoniae",
+        "Ureaplasma urealyticum"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Bordetella pertussis est l’agent de la coqueluche."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle technique est la plus directement adaptée, parmi les choix proposés, à la détection d’un génome viral à ARN ?",
+      "choices": [
+        "RT-PCR",
+        "Coloration de Gram",
+        "Recherche de capsule bactérienne",
+        "Culture sur milieu bactériologique standard"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La RT-PCR fait partie des techniques citées pour détecter ou quantifier le génome viral, notamment lorsqu’il s’agit d’un génome à ARN."
+    },
+    {
+      "type": "QCS",
+      "question": "Quels gènes sont cités comme cibles possibles pour identifier une bactérie inconnue par amplification moléculaire ?",
+      "choices": [
+        "sod ou rpoB",
+        "Ag HBs ou Ag HBe",
+        "gag ou pol",
+        "HA ou NA"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite des amorces universelles ou ciblant certains gènes bactériens comme sod ou rpoB."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à un virus à ADN nu cité dans le texte ?",
+      "choices": [
+        "Virus de l’hépatite B",
+        "Virus Epstein-Barr",
+        "Poxvirus",
+        "Papillomavirus"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le papillomavirus est classé parmi les virus à ADN nus. Le VHB et l’EBV sont enveloppés, et les poxvirus ont une enveloppe complexe."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations classification bactérienne–espèce suivantes, lesquelles sont conformes au texte ?",
+      "choices": [
+        "Corynebacterium diphtheriae : bacille à Gram positif aérobie",
+        "Clostridium botulinum : bacille à Gram positif anaérobie",
+        "Bacteroides fragilis : bacille à Gram négatif anaérobie",
+        "Vibrio cholerae : bacille à Gram positif anaérobie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Corynebacterium diphtheriae est classé parmi les bacilles à Gram positif aérobies, Clostridium botulinum parmi les bacilles à Gram positif anaérobies et Bacteroides fragilis parmi les bacilles à Gram négatif anaérobies. Vibrio cholerae est un bacille à Gram négatif non exigeant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bacilles à Gram négatif cités dans le texte, quelles associations sont exactes ?",
+      "choices": [
+        "Acinetobacter baumannii : bacille à Gram négatif non exigeant",
+        "Legionella pneumophila : bacille à Gram négatif difficilement ou non cultivable",
+        "Brucella melitensis : entérobactérie",
+        "Campylobacter jejuni : bacille à Gram négatif difficilement ou non cultivable"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Acinetobacter baumannii est cité parmi les bacilles à Gram négatif non exigeants. Legionella pneumophila et Campylobacter jejuni sont cités parmi les bacilles à Gram négatif difficilement ou non cultivables. Brucella melitensis n’est pas classée comme entérobactérie dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des mycoplasmes selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont caractérisés par l’absence de paroi cellulaire",
+        "Mycoplasma genitalium en fait partie",
+        "Ureaplasma urealyticum en fait partie",
+        "Ils sont définis comme des parasites intracellulaires obligatoires colorables par le Giemsa"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les mycoplasmes sont caractérisés par l’absence de paroi cellulaire. Le texte cite Mycoplasma genitalium, Mycoplasma hominis et Ureaplasma urealyticum. La définition de parasites intracellulaires obligatoires colorables par le Giemsa concerne les rickettsies."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rickettsies et les chlamydies, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les rickettsies sont de petites bactéries parasites intracellulaires obligatoires",
+        "Les rickettsies sont incapables de prendre la coloration de Gram et sont colorables par le Giemsa",
+        "Les chlamydies sont de petites bactéries parasites intracellulaires obligatoires",
+        "Les chlamydies sont colorables au Gram"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les rickettsies sont de petites bactéries intracellulaires obligatoires, non colorables au Gram et colorables par le Giemsa. Les chlamydies sont aussi de petites bactéries parasites intracellulaires obligatoires, mais non colorables au Gram."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des bactéries anaérobies strictes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles ne peuvent pas se développer en présence d’oxygène",
+        "Elles nécessitent souvent des milieux de culture complexes",
+        "Certaines appartiennent aux flores endogènes",
+        "Les entérocoques sont des anaérobies stricts"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anaérobies strictes ne se développent pas en présence d’oxygène, nécessitent souvent des milieux complexes et certaines appartiennent aux flores endogènes. Le texte précise que les entérocoques ne sont pas des anaérobies stricts."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la sporulation bactérienne, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle permet à certaines bactéries pathogènes de survivre dans un environnement hostile",
+        "Elle concerne certaines bactéries pathogènes",
+        "Elle correspond à un changement dans la séquence des bases de l’ADN",
+        "Elle est décrite comme le mécanisme du portage sain de Staphylococcus aureus"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La sporulation permet à certaines bactéries pathogènes de survivre dans un environnement hostile. Le changement de séquence des bases de l’ADN définit une mutation, et non la sporulation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont explicitement cités comme ne provoquant pas naturellement les mutations bactériennes ?",
+      "choices": [
+        "Les antibiotiques",
+        "Les antiseptiques",
+        "Les plasmides de résistance",
+        "Les conditions de croissance rencontrées chez l’hôte"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que les mutations bactériennes ne sont pas provoquées naturellement par les antibiotiques, les antiseptiques, les plasmides de résistance ou les conditions de croissance rencontrées chez l’hôte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la résistance plasmidique aux antibiotiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle concerne de nombreux antibiotiques",
+        "Elle se rencontre notamment chez les bacilles à Gram négatif",
+        "Elle peut se transférer entre bactéries d’espèces différentes",
+        "Elle est toujours liée à une mutation chromosomique brusque"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La résistance plasmidique concerne de nombreux antibiotiques, se rencontre notamment chez les bacilles à Gram négatif et peut se transférer entre espèces bactériennes différentes. La mutation chromosomique relève de la résistance chromosomique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certains antibiotiques cités dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le chloramphénicol est habituellement bactériostatique",
+        "L’ampicilline a un spectre large",
+        "L’ampicilline est détruite par la pénicillinase du staphylocoque",
+        "Le chloramphénicol est habituellement bactéricide"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le chloramphénicol est habituellement bactériostatique. L’ampicilline a un spectre large et est détruite par la pénicillinase du staphylocoque."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des antibiotiques habituellement actifs sur le staphylocoque doré selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les pénicillines antistaphylococciques en font partie",
+        "La pristinamycine en fait partie",
+        "Ces antibiotiques sont cités comme habituellement actifs sur Staphylococcus aureus",
+        "Les aminopénicillines sont citées comme habituellement actives sur Pseudomonas aeruginosa"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les pénicillines antistaphylococciques et la pristinamycine comme antibiotiques habituellement actifs sur le staphylocoque doré. Il précise par ailleurs que Pseudomonas aeruginosa n’est pas sensible aux aminopénicillines."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles bactéries sont citées comme fréquemment impliquées dans les infections nosocomiales ?",
+      "choices": [
+        "Pseudomonas aeruginosa",
+        "Escherichia coli",
+        "Staphylococcus aureus",
+        "Neisseria gonorrhoeae"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les bactéries fréquemment impliquées dans les infections nosocomiales citées dans le texte sont Pseudomonas aeruginosa, Escherichia coli et Staphylococcus aureus."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Neisseria gonorrhoeae, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle est souvent intraleucocytaire à l’examen direct",
+        "Sa culture n’est pas facile sur milieux ordinaires",
+        "Elle peut sécréter une bêta-lactamase",
+        "Elle confère une immunité protectrice durable"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Neisseria gonorrhoeae est souvent intraleucocytaire à l’examen direct, sa culture n’est pas facile sur milieux ordinaires et elle peut sécréter une bêta-lactamase. Le texte précise qu’elle ne confère pas d’immunité protectrice durable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Neisseria meningitidis, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est oxydase positive",
+        "Elle apparaît rose après une coloration de Gram correctement réalisée",
+        "Elle est sensible aux variations de température",
+        "Elle est toujours dépourvue de capsule"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Neisseria meningitidis est oxydase positive, apparaît rose après coloration de Gram correctement réalisée et est sensible aux variations de température. Le texte indique qu’elle peut posséder une capsule."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de Streptococcus pneumoniae, quelles propositions sont exactes ?",
+      "choices": [
+        "Il possède une capsule",
+        "Il est catalase négatif",
+        "Il peut survivre en aérobiose et en anaérobiose",
+        "Il produit la toxine de Panton-Valentine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Streptococcus pneumoniae possède une capsule, est catalase négatif et peut survivre en aérobiose comme en anaérobiose. Il ne produit pas la toxine de Panton-Valentine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent est classé parmi les bacilles à Gram négatif anaérobies dans le texte ?",
+      "choices": [
+        "Bacteroides fragilis",
+        "Pseudomonas aeruginosa",
+        "Haemophilus influenzae",
+        "Vibrio cholerae"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Bacteroides fragilis est le bacille à Gram négatif anaérobie cité dans le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle bactérie est classée parmi les bacilles à Gram positif aérobies ?",
+      "choices": [
+        "Listeria monocytogenes",
+        "Clostridium tetani",
+        "Bacteroides fragilis",
+        "Neisseria meningitidis"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Listeria monocytogenes est citée parmi les bacilles à Gram positif aérobies. Clostridium tetani est un bacille à Gram positif anaérobie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent cité dans le texte peut être responsable de méningite tout en étant viral ?",
+      "choices": [
+        "Herpes simplex virus de type 2",
+        "Vibrio cholerae",
+        "Clostridium difficile",
+        "Staphylococcus aureus"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite Herpes simplex virus de type 2 parmi les agents pouvant être responsables de méningites."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel antibiotique est habituellement bactériostatique selon le texte ?",
+      "choices": [
+        "Chloramphénicol",
+        "Ampicilline",
+        "Pristinamycine",
+        "Pénicilline antistaphylococcique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le chloramphénicol est décrit comme habituellement bactériostatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le réservoir de Mycobacterium tuberculosis selon le texte ?",
+      "choices": [
+        "Humain",
+        "Environnemental strict",
+        "Hydrique",
+        "Tellurique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que le réservoir de Mycobacterium tuberculosis est humain."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle caractéristique de Mycobacterium tuberculosis explique en partie sa résistance aux antibiotiques courants ?",
+      "choices": [
+        "Une paroi lipidique épaisse",
+        "Une absence de paroi cellulaire",
+        "Une production de toxine de Panton-Valentine",
+        "Une sécrétion systématique de bêta-lactamase"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Mycobacterium tuberculosis possède une paroi lipidique épaisse, ce qui explique en partie sa résistance aux antibiotiques courants."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un contexte de méningite suspectée, quels éléments du LCR sont cités comme orientant vers une étiologie bactérienne ?",
+      "choices": [
+        "Hypoglycorachie",
+        "Hypochlorurorachie",
+        "Présence de polynucléaires neutrophiles en amas",
+        "Présence de lysozyme dans les larmes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’hypoglycorachie, l’hypochlorurorachie et les polynucléaires neutrophiles en amas comme anomalies du LCR orientant vers une étiologie bactérienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles correspondent à des associations exactes entre un moyen biologique ou vaccinal et sa description ?",
+      "choices": [
+        "Le BCG correspond à une souche vivante atténuée de Mycobacterium bovis",
+        "Le vaccin antitétanique utilise une anatoxine",
+        "Le lysozyme est une enzyme antibactérienne présente dans les larmes et la salive",
+        "Les mesures barrières correspondent à des anticorps antitoxiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le BCG est une souche vivante atténuée de Mycobacterium bovis, le vaccin antitétanique utilise une anatoxine, et le lysozyme est une enzyme antibactérienne présente dans les larmes et la salive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes de protection ou de pathogénicité cités, quelles propositions sont exactes ?",
+      "choices": [
+        "La protection contre Corynebacterium diphtheriae est efficacement assurée par des anticorps antitoxiques",
+        "La symptomatologie du tétanos est causée par la fixation d’une toxine sur le système nerveux",
+        "L’injection d’anatoxine tétanique induit une immunité active spécifique",
+        "Le BCG assure la protection par des anticorps antitoxiques antidiphtériques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue les anticorps antitoxiques dans la diphtérie, la fixation de la toxine sur le système nerveux dans le tétanos, et l’immunité active spécifique induite par l’anatoxine."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’immunité induite ou impliquée dans les situations citées, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "L’anatoxine tétanique induit une immunité active spécifique contre le tétanos",
+        "Les anticorps antitoxiques participent efficacement à la protection lors d’une infection à Corynebacterium diphtheriae",
+        "Le lysozyme est présenté comme une enzyme antibactérienne",
+        "L’hypochlorurorachie correspond à une immunité active spécifique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anatoxine induit une immunité active spécifique, les anticorps antitoxiques protègent contre la diphtérie, et le lysozyme est une enzyme antibactérienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propriétés de la toxine tétanique sont explicitement mentionnées ?",
+      "choices": [
+        "Protéique",
+        "Antigénique",
+        "Neurotrope",
+        "Thermolabile"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La toxine tétanique est décrite comme protéique, antigénique, neurotrope et thermolabile."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la toxine tétanique et sa transformation vaccinale, quelles propositions sont exactes ?",
+      "choices": [
+        "La symptomatologie du tétanos est liée à la fixation de la toxine sur le système nerveux",
+        "La toxine tétanique est neurotrope",
+        "La toxine tétanique n’est pas pyrogène",
+        "L’anatoxine vaccinale est obtenue par traitement de la toxine par le formol et la chaleur"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise le tropisme neurologique, l’absence de caractère pyrogène et l’obtention de l’anatoxine par formol et chaleur."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du lysozyme selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une enzyme",
+        "Il possède une activité antibactérienne",
+        "Il est présent dans les larmes",
+        "Il est présent dans la salive"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le lysozyme est une enzyme antibactérienne présente dans les larmes et la salive."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la lutte contre la COVID-19, quelles propositions reprennent correctement les éléments du texte ?",
+      "choices": [
+        "Les mesures barrières sont citées",
+        "La vaccination est citée",
+        "L’objectif mentionné est l’endiguement de l’infection",
+        "L’objectif mentionné est l’orientation bactérienne du LCR"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que les mesures barrières et la vaccination visent l’endiguement de l’infection dans la lutte contre la COVID-19."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations sont exactes selon le texte ?",
+      "choices": [
+        "BCG — souche vivante atténuée de Mycobacterium bovis",
+        "Vaccin antitétanique — anatoxine",
+        "Anatoxine tétanique — obtenue par formol et chaleur",
+        "Lysozyme — présent dans les larmes et la salive"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces associations sont explicitement conformes au texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments relèvent d’une modification ou d’une préparation vaccinale citée dans le texte ?",
+      "choices": [
+        "Le BCG est une souche vivante atténuée",
+        "L’anatoxine tétanique est obtenue après traitement par le formol et la chaleur",
+        "Le vaccin antitétanique utilise une anatoxine",
+        "Le lysozyme est obtenu par traitement de la toxine tétanique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le BCG est une souche atténuée, et l’anatoxine utilisée pour la vaccination antitétanique est obtenue par traitement de la toxine par formol et chaleur."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles évitent les pièges terminologiques du texte ?",
+      "choices": [
+        "L’hypoglycorachie oriente vers une étiologie bactérienne du LCR",
+        "L’hypochlorurorachie oriente vers une étiologie bactérienne du LCR",
+        "Les polynucléaires neutrophiles en amas orientent vers une étiologie bactérienne du LCR",
+        "Le caractère pyrogène est une propriété de la toxine tétanique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La toxine tétanique n’est pas pyrogène ; les trois autres propositions correspondent aux anomalies du LCR citées."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles relations agent, maladie ou mécanisme sont conformes au texte ?",
+      "choices": [
+        "Listeria monocytogenes — méningite évoquée par un trouble cité",
+        "Corynebacterium diphtheriae — protection par anticorps antitoxiques",
+        "Mycobacterium bovis — souche vivante atténuée du BCG",
+        "Tétanos — symptomatologie liée à une toxine fixée sur le système nerveux"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre relations reprennent les associations explicitement présentes dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels énoncés correspondent à une défense, une protection ou une prévention mentionnée dans le texte ?",
+      "choices": [
+        "Les anticorps antitoxiques protègent efficacement lors d’une infection à Corynebacterium diphtheriae",
+        "Le vaccin BCG correspond à une souche vivante atténuée",
+        "L’injection d’anatoxine induit une immunité active spécifique contre le tétanos",
+        "Le lysozyme est présenté comme une enzyme antibactérienne"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces quatre éléments dans des contextes de protection, prévention ou défense antibactérienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre toxine tétanique et anatoxine tétanique, quelles propositions sont exactes ?",
+      "choices": [
+        "La toxine tétanique est responsable de la symptomatologie par fixation sur le système nerveux",
+        "L’anatoxine tétanique est utilisée dans la vaccination antitétanique",
+        "L’anatoxine est obtenue par traitement de la toxine par le formol et la chaleur",
+        "L’anatoxine est décrite comme responsable de la symptomatologie par fixation sur le système nerveux"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La symptomatologie est attribuée à la toxine, tandis que l’anatoxine traitée par formol et chaleur est utilisée pour la vaccination."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association mécanisme-protection est exacte selon le texte ?",
+      "choices": [
+        "Corynebacterium diphtheriae — anticorps antitoxiques",
+        "Corynebacterium diphtheriae — hypochlorurorachie",
+        "Corynebacterium diphtheriae — BCG",
+        "Corynebacterium diphtheriae — lysozyme salivaire uniquement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La protection lors d’une infection à Corynebacterium diphtheriae est assurée efficacement par des anticorps antitoxiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle combinaison correspond entièrement aux anomalies du LCR orientant vers une étiologie bactérienne ?",
+      "choices": [
+        "Hypoglycorachie, hypochlorurorachie, polynucléaires neutrophiles en amas",
+        "Lysozyme, anticorps antitoxiques, hypochlorurorachie",
+        "Hypoglycorachie, BCG, polynucléaires neutrophiles en amas",
+        "Anatoxine, formol, chaleur"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les trois anomalies citées sont l’hypoglycorachie, l’hypochlorurorachie et la présence de polynucléaires neutrophiles en amas."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel produit est obtenu par traitement de la toxine tétanique par le formol et la chaleur ?",
+      "choices": [
+        "BCG",
+        "Anatoxine tétanique",
+        "Lysozyme",
+        "Anticorps antitoxique antidiphtérique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’anatoxine tétanique est obtenue par traitement de la toxine tétanique par le formol et la chaleur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formulation décrit correctement le vaccin BCG selon le texte ?",
+      "choices": [
+        "Une anatoxine obtenue par formol et chaleur",
+        "Une enzyme antibactérienne des larmes",
+        "Une souche vivante atténuée de Mycobacterium bovis",
+        "Un anticorps antitoxique"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le vaccin BCG correspond à une souche vivante atténuée de Mycobacterium bovis."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est défini comme une enzyme antibactérienne présente dans les larmes et la salive ?",
+      "choices": [
+        "Lysozyme",
+        "Anatoxine tétanique",
+        "BCG",
+        "Toxine tétanique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le lysozyme est une enzyme antibactérienne présente dans les larmes et la salive."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la lutte contre la COVID-19, quel objectif est attribué aux mesures barrières et à la vaccination ?",
+      "choices": [
+        "Induire une hypochlorurorachie",
+        "Endiguer l’infection",
+        "Transformer une toxine en anatoxine",
+        "Mettre en évidence des polynucléaires neutrophiles en amas"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que les mesures barrières et la vaccination visent l’endiguement de l’infection."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certaines propriétés générales des virus citées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils ne possèdent pas de ribosomes.",
+        "Ils contiennent des protéines.",
+        "Ils peuvent modifier les propriétés de surface des cellules infectées.",
+        "Ils peuvent infecter les bactéries."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que les virus contiennent des protéines, ne possèdent pas de ribosomes, peuvent modifier les propriétés de surface des cellules infectées et peuvent infecter les bactéries."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du génome viral, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Il est toujours constitué soit d’ADN, soit d’ARN.",
+        "Il peut être monocaténaire.",
+        "Il peut être bicaténaire.",
+        "La moindre fidélité de réplication des virus à ARN participe à leur variabilité génétique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le génome viral est constitué d’ADN ou d’ARN, peut être mono- ou bicaténaire, et la réplication moins fidèle des virus à ARN explique leur forte variabilité génétique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les structures capsidiques virales, quelles propositions sont exactes ?",
+      "choices": [
+        "La capside protège le génome viral.",
+        "La capside est une structure protéique.",
+        "La nucléocapside correspond à l’association du génome viral et de la capside.",
+        "L’icosaèdre possède 20 faces triangulaires équilatérales et 12 sommets."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La capside est protéique et protège le génome ; avec celui-ci, elle forme la nucléocapside. L’icosaèdre est défini par 20 faces triangulaires équilatérales et 12 sommets."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’origine et les conséquences biologiques de l’enveloppe virale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut dériver de la membrane cytoplasmique.",
+        "Elle peut dériver de membranes golgiennes.",
+        "Elle peut dériver de membranes nucléaires.",
+        "Elle rend habituellement le virus plus fragile dans le milieu extérieur."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le péplos peut dériver des membranes cytoplasmique, golgienne ou nucléaire. Sa présence rend les virus sensibles aux agressions physico-chimiques et donc fragiles dans le milieu extérieur."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les virus à ADN suivants, lesquels sont classés comme virus enveloppés dans le texte ?",
+      "choices": [
+        "Herpesvirus humains 6, 7 et 8.",
+        "Herpesvirus simiae.",
+        "Virus de l’hépatite B.",
+        "Adénovirus."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les herpesvirus humains 6, 7 et 8, Herpesvirus simiae et le virus de l’hépatite B sont des virus à ADN enveloppés. L’adénovirus est classé parmi les virus à ADN nus."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les virus à ARN enveloppés cités dans le texte, lesquels sont correctement identifiés ?",
+      "choices": [
+        "Virus de la rage.",
+        "Virus de la rubéole.",
+        "Virus Marburg et Ebola.",
+        "Hantavirus."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le virus de la rage, le virus de la rubéole, les filovirus dont Marburg et Ebola, ainsi que les hantavirus sont classés parmi les virus à ARN enveloppés."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les virus à ARN nus cités dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les picornavirus sont des virus à ARN nus.",
+        "Le virus de l’hépatite A est un virus à ARN nu.",
+        "Les rhinovirus sont des virus à ARN nus.",
+        "Les rotavirus sont des virus à ARN nus."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les picornavirus, le virus de l’hépatite A, les rhinovirus et les rotavirus sont tous classés dans le texte parmi les virus à ARN nus."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les virus des hépatites mentionnés, quelles propositions sont exactes ?",
+      "choices": [
+        "Le virus de l’hépatite B est un virus à ADN enveloppé.",
+        "Le virus de l’hépatite C est un virus à ARN enveloppé.",
+        "Le virus de l’hépatite A est un virus à ARN nu.",
+        "Le virus de l’hépatite E est un virus à ARN nu."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le VHB est classé parmi les virus à ADN enveloppés ; le VHC parmi les virus à ARN enveloppés ; les VHA et VHE parmi les virus à ARN nus."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le diagnostic direct virologique, quelles approches correspondent à une étude du génome viral selon le texte ?",
+      "choices": [
+        "Détection du génome viral par PCR.",
+        "Détection du génome viral par RT-PCR.",
+        "Quantification du génome viral par PCR en temps réel.",
+        "Recherche de mutations génomiques de résistance aux traitements."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le diagnostic direct peut inclure la PCR, la RT-PCR, la PCR en temps réel, le typage génomique et la recherche de mutations de résistance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les méthodes immunologiques en virologie, quelles propositions sont exactes ?",
+      "choices": [
+        "L’immunofluorescence peut détecter des antigènes viraux.",
+        "L’ELISA peut détecter des antigènes viraux dans une approche directe.",
+        "L’ELISA peut être utilisé pour mettre en évidence des anticorps antiviraux.",
+        "Le western blot peut participer au diagnostic indirect virologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’immunofluorescence et l’ELISA peuvent détecter des antigènes viraux en diagnostic direct. L’ELISA et le western blot peuvent aussi rechercher des anticorps en diagnostic indirect."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la détection d’un ADN étranger et le séquençage, quelles propositions sont exactes ?",
+      "choices": [
+        "La détection d’un ADN étranger peut signer une infection.",
+        "La recherche doit être réalisée dans le sang ou dans le tissu cible du micro-organisme.",
+        "Les techniques d’amplification comme la PCR permettent la détection de l’ADN.",
+        "Le séquençage permet le typage du micro-organisme et le suivi épidémiologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte indique que l’ADN étranger peut signer une infection, doit être recherché dans le sang ou le tissu cible, peut être détecté par PCR, et que le séquençage sert au typage et au suivi épidémiologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les bactéries suivantes, lesquelles sont citées comme relevant particulièrement d’une PCR utile en raison d’une croissance lente, difficile ou impossible ?",
+      "choices": [
+        "Bordetella pertussis.",
+        "Rickettsia spp.",
+        "Tropheryma whipplei.",
+        "Treponema pallidum."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces bactéries figurent toutes dans la liste des agents pour lesquels la PCR est particulièrement utile du fait d’une croissance lente, difficile ou impossible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les associations bactérie–type d’infection mentionnées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Chlamydia trachomatis peut être responsable d’infections génitales et oculaires.",
+        "Chlamydia pneumoniae peut être responsable d’infections pulmonaires.",
+        "Mycoplasma pneumoniae peut être responsable d’infections pulmonaires.",
+        "Ureaplasma urealyticum peut être responsable d’infections génitales."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte relie les Chlamydia à des infections génitales, oculaires et pulmonaires, et Mycoplasma pneumoniae ainsi qu’Ureaplasma urealyticum à des infections pulmonaires et génitales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la stratégie du diagnostic bactériologique décrite dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le diagnostic direct vise à isoler le germe responsable.",
+        "Le diagnostic direct vise à identifier le germe responsable.",
+        "Les produits pathologiques sont utilisés pour rechercher le germe responsable.",
+        "Le diagnostic indirect peut rechercher une réponse immune spécifique contre le germe suspecté."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le diagnostic bactériologique direct consiste à isoler et identifier le germe à partir de produits pathologiques ; le diagnostic indirect recherche une réponse immune spécifique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le mieux une bactérie selon le texte ?",
+      "choices": [
+        "Une cellule eucaryote dépourvue de paroi.",
+        "Une particule acellulaire incapable de contenir des ribosomes.",
+        "Une cellule procaryote capable de se reproduire de façon autonome.",
+        "Un micro-organisme possédant toujours un noyau et des mitochondries."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte définit la bactérie comme une cellule procaryote capable de se reproduire de façon autonome."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme de sortie cellulaire est fréquemment utilisé par les virus enveloppés selon le texte ?",
+      "choices": [
+        "Bourgeonnement.",
+        "Sporulation.",
+        "Phagocytose inverse.",
+        "Division binaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les virus enveloppés sortent souvent de la cellule par bourgeonnement."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les virus suivants, lequel est classé comme virus à ADN nu dans le texte ?",
+      "choices": [
+        "Polyomavirus.",
+        "Virus de l’hépatite B.",
+        "Cytomégalovirus.",
+        "Virus Epstein-Barr."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le polyomavirus est classé parmi les virus à ADN nus. Le VHB, le cytomégalovirus et le virus Epstein-Barr sont des virus à ADN enveloppés."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les agents suivants, lequel est classé comme virus à ARN enveloppé dans le texte ?",
+      "choices": [
+        "Calicivirus.",
+        "Papillomavirus.",
+        "Virus de la chorioméningite.",
+        "Adénovirus."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le virus de la chorioméningite est cité parmi les virus à ARN enveloppés. Le calicivirus est un virus à ARN nu, tandis que papillomavirus et adénovirus sont des virus à ADN nus."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour laquelle des infections suivantes le diagnostic sérologique est explicitement cité comme utilisable dans le texte ?",
+      "choices": [
+        "Varicelle.",
+        "Rage.",
+        "Hépatite C.",
+        "Infection à rhinovirus."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite la varicelle, les oreillons, la rougeole et la poliomyélite comme infections pour lesquelles le diagnostic sérologique peut être utilisé."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quel type de prélèvement la détection d’un ADN étranger doit-elle être réalisée selon le texte ?",
+      "choices": [
+        "Uniquement dans les selles, quel que soit l’agent suspecté.",
+        "Dans le sang ou dans le tissu cible du micro-organisme.",
+        "Uniquement dans la salive.",
+        "Exclusivement dans les urines."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que la détection d’un ADN étranger doit être réalisée dans le sang ou dans le tissu cible du micro-organisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les bactéries suivantes, lesquelles sont citées dans le texte parmi les cocci à Gram positif ?",
+      "choices": [
+        "Streptococcus pyogenes",
+        "Streptococcus agalactiae",
+        "Enterococcus faecium",
+        "Neisseria meningitidis"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte classe Streptococcus pyogenes, Streptococcus agalactiae et Enterococcus faecium parmi les cocci à Gram positif. Neisseria meningitidis est un cocci à Gram négatif."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations bactérie–groupe respiratoire sont conformes à la classification donnée ?",
+      "choices": [
+        "Corynebacterium diphtheriae — bacille à Gram positif aérobie",
+        "Bacillus anthracis — bacille à Gram positif aérobie",
+        "Clostridium tetani — bacille à Gram positif anaérobie",
+        "Listeria monocytogenes — bacille à Gram positif anaérobie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Corynebacterium diphtheriae, Listeria monocytogenes et Bacillus anthracis sont classés parmi les bacilles à Gram positif aérobies. Les Clostridium, dont Clostridium tetani, sont des bacilles à Gram positif anaérobies."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les bacilles à Gram négatif suivants, lesquels sont classés comme difficilement ou non cultivables dans le texte ?",
+      "choices": [
+        "Campylobacter jejuni",
+        "Helicobacter pylori",
+        "Legionella pneumophila",
+        "Vibrio cholerae"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Campylobacter jejuni, Helicobacter pylori et Legionella pneumophila sont cités parmi les bacilles à Gram négatif difficilement ou non cultivables. Vibrio cholerae est classé parmi les bacilles à Gram négatif non exigeants."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bacilles à Gram négatif non exigeants cités, quelles propositions sont exactes ?",
+      "choices": [
+        "Pseudomonas aeruginosa en fait partie",
+        "Acinetobacter baumannii en fait partie",
+        "Vibrio cholerae en fait partie",
+        "Bacteroides fragilis en fait partie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les bacilles à Gram négatif non exigeants cités sont notamment Pseudomonas aeruginosa, Acinetobacter baumannii, les entérobactéries et Vibrio cholerae. Bacteroides fragilis est classé parmi les bacilles à Gram négatif anaérobies."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le texte, quels agents appartiennent aux bacilles tuberculeux ?",
+      "choices": [
+        "Mycobacterium tuberculosis",
+        "Mycobacterium bovis",
+        "Mycobacterium africanum",
+        "Mycobacterium leprae"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les bacilles tuberculeux comprennent Mycobacterium tuberculosis, Mycobacterium bovis et Mycobacterium africanum. Mycobacterium leprae est une mycobactérie, mais n’est pas cité parmi les bacilles tuberculeux."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la mise en évidence et de l’étude de Mycobacterium tuberculosis, quelles propositions sont exactes ?",
+      "choices": [
+        "Son identification peut être réalisée par biologie moléculaire",
+        "La détection de gènes de résistance peut être réalisée par biologie moléculaire",
+        "Sa mise en évidence nécessite des techniques spécifiques",
+        "Sa mise en évidence repose uniquement sur une culture ordinaire facile"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que l’identification de Mycobacterium tuberculosis et la détection de gènes de résistance peuvent être réalisées par biologie moléculaire, et que sa mise en évidence nécessite des techniques spécifiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mycoplasmes cités, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont caractérisés par l’absence de paroi cellulaire",
+        "Mycoplasma genitalium est cité comme exemple",
+        "Mycoplasma hominis est cité comme exemple",
+        "Ureaplasma urealyticum est cité comme exemple"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les mycoplasmes sont définis dans le texte par l’absence de paroi cellulaire. Les exemples cités sont Mycoplasma genitalium, Mycoplasma hominis et Ureaplasma urealyticum."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des rickettsies et des chlamydies, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les rickettsies sont de petites bactéries parasites intracellulaires obligatoires",
+        "Les rickettsies sont colorables par le Giemsa",
+        "Les chlamydies sont de petites bactéries parasites intracellulaires obligatoires",
+        "Les chlamydies sont facilement colorables au Gram"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les rickettsies sont de petites bactéries intracellulaires obligatoires, non colorables au Gram et colorables par le Giemsa. Les chlamydies sont également intracellulaires obligatoires et non colorables au Gram."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bactéries anaérobies strictes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles ne peuvent pas se développer en présence d’oxygène",
+        "Elles nécessitent souvent des milieux de culture complexes",
+        "Certaines appartiennent aux flores endogènes",
+        "Les entérocoques sont des anaérobies stricts"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anaérobies strictes ne se développent pas en présence d’oxygène, nécessitent souvent des milieux complexes, et certaines appartiennent aux flores endogènes. Les entérocoques ne sont pas des anaérobies stricts."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions caractérisent la résistance chromosomique aux antibiotiques selon le texte ?",
+      "choices": [
+        "Elle est acquise par mutation",
+        "Elle peut être brusque",
+        "Elle concerne une faible proportion des résistances acquises",
+        "Elle se transfère typiquement entre bactéries d’espèces différentes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La résistance chromosomique est acquise par mutation, peut être brusque, concerne une faible proportion des résistances acquises et justifie l’intérêt des associations d’antibiotiques. Le transfert entre espèces différentes caractérise plutôt la résistance plasmidique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la résistance plasmidique aux antibiotiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle concerne de nombreux antibiotiques",
+        "Elle se rencontre notamment chez les bacilles à Gram négatif",
+        "Elle peut se transférer entre bactéries d’espèces différentes",
+        "Elle correspond exclusivement à une mutation chromosomique non transférable"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La résistance plasmidique concerne de nombreux antibiotiques, se rencontre notamment chez les bacilles à Gram négatif et peut être transférée entre bactéries d’espèces différentes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de certains antibiotiques cités, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ampicilline a un spectre large",
+        "L’ampicilline est détruite par la pénicillinase du staphylocoque",
+        "Le chloramphénicol est habituellement bactériostatique",
+        "L’ampicilline est toujours protégée de la pénicillinase staphylococcique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que l’ampicilline a un spectre large et qu’elle est détruite par la pénicillinase du staphylocoque. Le chloramphénicol est habituellement bactériostatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Staphylococcus aureus, quelles propositions sont exactes ?",
+      "choices": [
+        "Il pousse sur milieu de Chapman",
+        "Il peut produire de l’exfoliatine",
+        "Il peut être responsable de toxi-infections alimentaires",
+        "Il peut exister un portage sain"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Staphylococcus aureus pousse sur milieu de Chapman, peut produire de l’exfoliatine, peut être responsable de toxi-infections alimentaires et peut faire l’objet d’un portage sain."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Pseudomonas aeruginosa, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Il peut être impliqué dans des infections nosocomiales",
+        "Il n’appartient pas aux entérobactéries",
+        "Il n’est pas sensible aux aminopénicillines",
+        "Il n’est pas une bactérie aéro-anaérobie facultative"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Pseudomonas aeruginosa est un agent d’infections nosocomiales. Le texte précise qu’il n’est pas une entérobactérie, qu’il n’est pas sensible aux aminopénicillines et qu’il n’est pas aéro-anaérobie facultatif."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent est décrit comme un coccobacille à Gram négatif exigeant pouvant donner une méningite chez l’enfant ?",
+      "choices": [
+        "Haemophilus influenzae",
+        "Neisseria gonorrhoeae",
+        "Bacteroides fragilis",
+        "Vibrio cholerae"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Haemophilus influenzae est décrit comme un coccobacille à Gram négatif exigeant pouvant être responsable de méningite chez l’enfant."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent associe, selon le texte, examen direct souvent intraleucocytaire, culture difficile sur milieux ordinaires et absence d’immunité protectrice durable ?",
+      "choices": [
+        "Neisseria gonorrhoeae",
+        "Neisseria meningitidis",
+        "Streptococcus pneumoniae",
+        "Moraxella lacunata"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Neisseria gonorrhoeae est souvent intraleucocytaire à l’examen direct, sa culture n’est pas facile sur milieux ordinaires et il ne confère pas d’immunité protectrice durable."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel microorganisme est décrit comme diplocoque à Gram négatif, oxydase positif et sensible aux variations de température ?",
+      "choices": [
+        "Neisseria meningitidis",
+        "Streptococcus pneumoniae",
+        "Enterococcus faecalis",
+        "Haemophilus influenzae"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Neisseria meningitidis est un diplocoque à Gram négatif, oxydase positif, sensible aux variations de température et pouvant exister à l’état de portage sain."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle bactérie possède une capsule, est catalase négative, peut survivre en aérobiose et en anaérobiose, et est hémolytique sur gélose au sang ?",
+      "choices": [
+        "Streptococcus pneumoniae",
+        "Staphylococcus aureus",
+        "Pseudomonas aeruginosa",
+        "Bordetella pertussis"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Streptococcus pneumoniae possède une capsule, est catalase négatif, peut survivre en aérobiose et en anaérobiose, et est hémolytique sur gélose au sang."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les agents suivants, lequel est classé comme bacille à Gram négatif anaérobie dans le texte ?",
+      "choices": [
+        "Bacteroides fragilis",
+        "Acinetobacter baumannii",
+        "Legionella pneumophila",
+        "Brucella melitensis"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Bacteroides fragilis est cité comme bacille à Gram négatif anaérobie. Les autres propositions correspondent à d’autres catégories de bacilles à Gram négatif."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent infectieux cité peut être responsable de méningite tout en étant de nature virale ?",
+      "choices": [
+        "Herpes simplex virus de type 2",
+        "Streptococcus pneumoniae",
+        "Haemophilus influenzae",
+        "Neisseria meningitidis"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite Herpes simplex virus de type 2 parmi les agents pouvant être responsables de méningites. Les autres agents proposés sont bactériens."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une lecture clinique et biologique du texte, quelles propositions gardent le lien correct avec une méningite ?",
+      "choices": [
+        "Le trouble mentionné évoque une méningite à Listeria monocytogenes.",
+        "Une hypoglycorachie peut orienter vers une étiologie bactérienne.",
+        "Les anticorps antitoxiques constituent une anomalie du LCR orientant vers une méningite bactérienne.",
+        "Le vaccin BCG est cité comme argument diagnostique d’une méningite bactérienne."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte relie le trouble à une méningite à Listeria monocytogenes et cite l’hypoglycorachie parmi les anomalies du LCR orientant vers une étiologie bactérienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions respectent la distinction entre toxine tétanique et anatoxine tétanique ?",
+      "choices": [
+        "La toxine tétanique est protéique, antigénique, neurotrope et thermolabile.",
+        "L’anatoxine tétanique est obtenue par traitement de la toxine par le formol et la chaleur.",
+        "La vaccination antitétanique utilise directement la toxine tétanique non modifiée.",
+        "L’anatoxine est décrite comme responsable de la fixation sur le système nerveux causant la symptomatologie du tétanos."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte décrit les propriétés de la toxine tétanique et précise que la vaccination utilise une anatoxine obtenue après traitement par formol et chaleur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes immunologiques ou préventifs explicitement cités, quelles propositions sont exactes ?",
+      "choices": [
+        "La protection lors d’une infection à Corynebacterium diphtheriae est assurée efficacement par des anticorps antitoxiques.",
+        "L’injection d’anatoxine tétanique induit une immunité active spécifique contre le tétanos.",
+        "Le lysozyme est présenté comme le support de l’immunité active antitétanique.",
+        "Dans la COVID-19, les mesures barrières et la vaccination visent l’endiguement de l’infection."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte cite les anticorps antitoxiques pour la diphtérie, l’immunité active spécifique induite par l’anatoxine contre le tétanos, et l’endiguement de la COVID-19 par mesures barrières et vaccination."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des pièges terminologiques autour de la toxine tétanique, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "La toxine tétanique n’est pas pyrogène.",
+        "La toxine tétanique est thermolabile.",
+        "La chaleur intervient dans l’obtention de l’anatoxine tétanique.",
+        "Le caractère pyrogène explique la symptomatologie du tétanos."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que la toxine tétanique est thermolabile et non pyrogène ; la chaleur, avec le formol, permet d’obtenir l’anatoxine vaccinale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre agent, produit ou mécanisme sont correctement formulées selon le texte ?",
+      "choices": [
+        "BCG — souche vivante atténuée de Mycobacterium bovis.",
+        "Listeria monocytogenes — méningite évoquée par le trouble mentionné.",
+        "Corynebacterium diphtheriae — protection efficace par anticorps antitoxiques.",
+        "Mycobacterium bovis — cause de la symptomatologie du tétanos par fixation nerveuse d’une toxine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le BCG correspond à une souche vivante atténuée de Mycobacterium bovis ; Listeria monocytogenes est liée à la méningite évoquée ; la protection antidiphtérique repose sur les anticorps antitoxiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels énoncés associent correctement un compartiment biologique ou une localisation à l’élément cité ?",
+      "choices": [
+        "Le LCR peut présenter des anomalies orientant vers une étiologie bactérienne.",
+        "Le lysozyme est présent dans les larmes et la salive.",
+        "La toxine tétanique se fixe sur le système nerveux pour causer la symptomatologie du tétanos.",
+        "L’hypochlorurorachie correspond à une anomalie décrite dans les larmes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne les anomalies du LCR, la présence du lysozyme dans les larmes et la salive, ainsi que la fixation de la toxine tétanique sur le système nerveux."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles correspondent à une intervention vaccinale ou sanitaire citée dans le texte ?",
+      "choices": [
+        "La vaccination antitétanique utilisant une anatoxine.",
+        "Les mesures barrières et la vaccination dans la lutte contre la COVID-19.",
+        "Le vaccin BCG constitué d’une souche vivante atténuée.",
+        "L’hypoglycorachie comme moyen d’endiguement de l’infection."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la vaccination antitétanique, le vaccin BCG, et les mesures barrières avec vaccination contre la COVID-19. L’hypoglycorachie est une anomalie du LCR, non une intervention."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont correctement qualifiés par leur nature dans le texte ?",
+      "choices": [
+        "La toxine tétanique est de nature protéique.",
+        "Le lysozyme est une enzyme antibactérienne.",
+        "Le BCG est une souche vivante atténuée.",
+        "Les anticorps antitoxiques sont décrits comme une anomalie du LCR."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte qualifie la toxine tétanique de protéique, le lysozyme d’enzyme antibactérienne et le BCG de souche vivante atténuée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles relations de causalité ou de finalité sont exactes selon le texte ?",
+      "choices": [
+        "La symptomatologie du tétanos est causée par la fixation d’une toxine sur le système nerveux.",
+        "Les anticorps antitoxiques assurent efficacement la protection lors d’une infection à Corynebacterium diphtheriae.",
+        "Les mesures barrières et la vaccination contre la COVID-19 visent l’endiguement de l’infection.",
+        "Les anomalies du LCR citées sont la cause directe de la production du BCG."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte établit trois liens : toxine tétanique et système nerveux, anticorps antitoxiques et protection antidiphtérique, mesures barrières/vaccination et endiguement de la COVID-19."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’on analyse uniquement la partie consacrée au tétanos, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La toxine tétanique est neurotrope.",
+        "La toxine tétanique n’est pas pyrogène.",
+        "La vaccination repose sur une anatoxine.",
+        "L’anatoxine injectée induit une immunité active spécifique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions sont explicitement mentionnées dans le passage concernant la toxine tétanique et la vaccination antitétanique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels énoncés distinguent correctement microorganismes, produits biologiques et enzymes dans le texte ?",
+      "choices": [
+        "Listeria monocytogenes est citée en rapport avec une méningite.",
+        "L’anatoxine tétanique est un produit obtenu à partir de la toxine tétanique traitée.",
+        "Le lysozyme est présenté comme un microorganisme atténué.",
+        "Mycobacterium bovis est l’espèce dont dérive la souche vivante atténuée du BCG."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Listeria monocytogenes est associée à une méningite ; l’anatoxine provient de la toxine traitée ; le BCG est dérivé d’une souche vivante atténuée de Mycobacterium bovis. Le lysozyme est une enzyme."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions sont explicitement liées à une dimension bactérienne dans le texte ?",
+      "choices": [
+        "Les anomalies du LCR citées orientent vers une étiologie bactérienne.",
+        "Le lysozyme est qualifié d’enzyme antibactérienne.",
+        "Corynebacterium diphtheriae est mentionné dans le cadre d’une protection par anticorps antitoxiques.",
+        "Les mesures barrières contre la COVID-19 sont décrites comme des anomalies bactériennes du LCR."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte emploie explicitement la notion bactérienne pour l’étiologie du LCR et pour le lysozyme ; Corynebacterium diphtheriae est également une bactérie citée avec sa protection antitoxique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la séquence logique de la vaccination antitétanique, quelles étapes ou conséquences sont conformes au texte ?",
+      "choices": [
+        "La toxine tétanique peut être traitée par le formol et la chaleur.",
+        "Le traitement de la toxine tétanique permet d’obtenir une anatoxine.",
+        "L’injection d’anatoxine induit une immunité active spécifique contre le tétanos.",
+        "Le BCG est obtenu par le même traitement formol-chaleur de la toxine tétanique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit la transformation de la toxine tétanique par formol et chaleur en anatoxine, puis l’induction d’une immunité active spécifique après injection."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles reformulations restent strictement compatibles avec le texte ?",
+      "choices": [
+        "L’endiguement de la COVID-19 est l’objectif attribué aux mesures barrières et à la vaccination.",
+        "La toxine tétanique est pyrogène mais non antigénique.",
+        "L’hypochlorurorachie fait partie des anomalies du LCR orientant vers une étiologie bactérienne.",
+        "La protection antidiphtérique efficace repose sur des anticorps dirigés contre la toxine."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne l’endiguement de la COVID-19, l’hypochlorurorachie parmi les anomalies du LCR, et les anticorps antitoxiques dans la protection contre Corynebacterium diphtheriae. La toxine tétanique n’est pas pyrogène et elle est antigénique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel diagnostic est évoqué par le trouble mentionné au début du texte ?",
+      "choices": [
+        "Une méningite à Listeria monocytogenes.",
+        "Une infection à Corynebacterium diphtheriae.",
+        "Une infection tétanique localisée.",
+        "Une infection à Mycobacterium bovis vaccinal."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que le trouble évoque une méningite à Listeria monocytogenes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple agent–mécanisme de protection est correctement formulé selon le texte ?",
+      "choices": [
+        "Corynebacterium diphtheriae — anticorps antitoxiques.",
+        "Listeria monocytogenes — anatoxine tétanique.",
+        "Mycobacterium bovis — lysozyme salivaire.",
+        "Toxine tétanique — anticorps antitoxiques antidiphtériques."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La protection lors d’une infection à Corynebacterium diphtheriae est assurée efficacement par des anticorps antitoxiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement la pyrogénicité de la toxine tétanique ?",
+      "choices": [
+        "Elle est fortement pyrogène.",
+        "Elle n’est pas pyrogène.",
+        "Elle devient pyrogène après transformation en BCG.",
+        "Elle est pyrogène uniquement dans le LCR."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise explicitement que la toxine tétanique n’est pas pyrogène."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel produit est utilisé dans la vaccination antitétanique selon le texte ?",
+      "choices": [
+        "Une souche vivante atténuée de Mycobacterium bovis.",
+        "Une enzyme antibactérienne présente dans les larmes.",
+        "Une anatoxine obtenue par traitement de la toxine tétanique par le formol et la chaleur.",
+        "Des polynucléaires neutrophiles en amas."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La vaccination antitétanique utilise une anatoxine obtenue à partir de la toxine tétanique traitée par le formol et la chaleur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel objectif est attribué aux mesures barrières et à la vaccination dans la lutte contre la COVID-19 ?",
+      "choices": [
+        "L’endiguement de l’infection.",
+        "La transformation de la toxine en anatoxine.",
+        "L’induction d’une hypochlorurorachie.",
+        "La production du lysozyme lacrymal."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que les mesures barrières et la vaccination visent l’endiguement de l’infection dans la lutte contre la COVID-19."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle définition correspond au lysozyme dans le texte ?",
+      "choices": [
+        "Une souche vivante atténuée de Mycobacterium bovis.",
+        "Une enzyme antibactérienne présente dans les larmes et la salive.",
+        "Une toxine neurotrope thermolabile responsable du tétanos.",
+        "Un anticorps antitoxique protégeant contre Corynebacterium diphtheriae."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le lysozyme est défini dans le texte comme une enzyme antibactérienne présente dans les larmes et la salive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation cellulaire bactérienne décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "Une bactérie ne possède pas de véritable noyau.",
+        "Une bactérie ne possède pas de mitochondries.",
+        "Une bactérie ne possède ni réticulum endoplasmique ni appareil de Golgi.",
+        "Une bactérie est dépourvue de ribosomes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bactérie est une cellule procaryote : elle n’a pas de vrai noyau, pas de mitochondries, pas de réticulum endoplasmique ni d’appareil de Golgi. En revanche, les ribosomes sont des éléments obligatoires."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des propriétés générales des virus, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Un virus comporte toujours un génome constitué soit d’ADN, soit d’ARN.",
+        "Les virus contiennent des protéines.",
+        "Les virus ne possèdent pas de ribosomes.",
+        "Certains virus peuvent infecter les bactéries."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que les virus ont toujours un génome ADN ou ARN, contiennent des protéines, ne possèdent pas de ribosomes et peuvent infecter les bactéries."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la variabilité génétique des virus à ARN, quelles propositions sont exactes ?",
+      "choices": [
+        "La réplication du génome des virus à ARN est généralement moins fidèle que celle des virus à ADN.",
+        "Cette moindre fidélité explique une forte variabilité génétique.",
+        "Le VIH et le virus de l’hépatite C sont cités comme exemples de virus à forte variabilité génétique.",
+        "La forte variabilité des virus à ARN est attribuée dans le texte à la présence obligatoire d’une capside icosaédrique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forte variabilité génétique des virus à ARN est liée à une réplication généralement moins fidèle que celle des virus à ADN, avec le VIH et le VHC comme exemples. La capside icosaédrique n’est pas donnée comme mécanisme explicatif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la capside, la nucléocapside et l’icosaèdre, quelles propositions sont exactes ?",
+      "choices": [
+        "La capside est une structure protéique protégeant le génome viral.",
+        "La nucléocapside correspond à l’ensemble formé par la capside et le génome.",
+        "La nucléocapside peut être tubulaire ou hélicoïdale, ou polyédrique.",
+        "L’icosaèdre est défini comme un polyèdre à 12 faces triangulaires et 20 sommets."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La capside protège le génome. Capside et génome forment la nucléocapside, pouvant être tubulaire/hélicoïdale ou polyédrique. L’icosaèdre possède 20 faces triangulaires équilatérales et 12 sommets."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’enveloppe virale ou péplos, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut dériver de la membrane cytoplasmique cellulaire.",
+        "Elle peut dériver de membranes golgiennes ou nucléaires selon les virus.",
+        "Les virus enveloppés sortent souvent de la cellule par bourgeonnement.",
+        "La présence d’une enveloppe rend habituellement le virus plus résistant au pH acide gastrique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’enveloppe virale dérive de membranes cellulaires cytoplasmique, golgienne ou nucléaire. Les virus enveloppés sortent souvent par bourgeonnement. L’enveloppe rend au contraire le virus fragile, notamment au pH acide gastrique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la résistance des virus enveloppés et des virus nus dans l’environnement, quelles propositions sont exactes ?",
+      "choices": [
+        "Les virus enveloppés sont sensibles à la température et à la dessiccation.",
+        "Les virus enveloppés résistent mal dans le milieu extérieur et dans le tube digestif.",
+        "Les virus nus sont plus résistants, notamment dans les selles.",
+        "La résistance des virus enveloppés dans les selles favorise préférentiellement leur transmission oro-fécale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les virus enveloppés sont fragiles : température, dessiccation, enzymes digestives et pH acide gastrique. Les virus nus résistent mieux, notamment dans les selles, favorisant la transmission oro-fécale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le virus de l’hépatite D selon la classification simplifiée, quelles propositions sont exactes ?",
+      "choices": [
+        "Il possède un génome et un core situés sous une enveloppe du virus de l’hépatite B.",
+        "Il est présenté comme un virus nu à ARN dans la liste des picornavirus.",
+        "Son enveloppe contient l’Ag HBs.",
+        "Sa description le relie à l’enveloppe du virus de l’hépatite B."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le virus de l’hépatite D est décrit comme ayant un génome et un core sous enveloppe du virus de l’hépatite B contenant l’Ag HBs. Il n’est pas classé avec les picornavirus."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le VIH, quelles propositions sont exactes ?",
+      "choices": [
+        "Le VIH est un rétrovirus.",
+        "Le VIH est responsable du SIDA.",
+        "Le VIH est détruit par l’alcool et l’eau de Javel.",
+        "Le VIH est un virus nu à ADN."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le VIH est un rétrovirus responsable du SIDA. Il est détruit par l’alcool et l’eau de Javel. Il n’est pas présenté comme un virus nu à ADN."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les interactions virus–cellule hôte et les anticorps neutralisants, quelles propositions sont exactes ?",
+      "choices": [
+        "Les virus peuvent modifier les propriétés de surface des cellules infectées.",
+        "Les anticorps neutralisants agissent principalement au stade de l’attachement viral.",
+        "La mise en évidence d’antigènes viraux peut relever du diagnostic direct.",
+        "La mise en évidence d’anticorps antiviraux constitue une méthode de diagnostic direct."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les virus peuvent modifier la surface des cellules infectées. Les anticorps neutralisants agissent surtout lors de l’attachement viral. Les antigènes viraux relèvent du diagnostic direct, tandis que les anticorps relèvent du diagnostic indirect."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la réplication de l’ADN viral dans le noyau, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle a lieu dans le noyau pour les herpesvirus.",
+        "Elle a lieu dans le noyau pour les adénovirus.",
+        "Elle est citée pour le virus de l’hépatite C.",
+        "Elle est citée pour le VIH dans le texte."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne explicitement que la réplication de l’ADN viral a lieu dans le noyau pour les herpesvirus et les adénovirus."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les méthodes suivantes, lesquelles relèvent du diagnostic direct virologique décrit ?",
+      "choices": [
+        "Isolement viral en culture cellulaire avec recherche d’un effet cytopathogène.",
+        "Détection immunologique des antigènes viraux par immunofluorescence ou ELISA.",
+        "Typage des génomes viraux.",
+        "Recherche de mutations génomiques de résistance aux traitements."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le diagnostic direct virologique vise à mettre en évidence le virus ou ses constituants, incluant culture, antigènes, génome, typage et mutations de résistance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la détection d’un ADN étranger et les techniques moléculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "La détection d’un ADN étranger peut signer une infection.",
+        "Elle doit être réalisée dans le sang ou dans le tissu cible du micro-organisme.",
+        "La PCR permet la détection de l’ADN.",
+        "Le séquençage permet uniquement de mesurer la réponse anticorps."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La détection d’ADN étranger peut signer une infection et doit être faite dans un site pertinent. La PCR détecte l’ADN. Le séquençage sert au typage du micro-organisme et au suivi épidémiologique, non à mesurer les anticorps."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la stratégie du diagnostic bactériologique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le diagnostic bactériologique direct consiste à isoler et identifier le germe responsable à partir de produits pathologiques.",
+        "Le diagnostic indirect peut rechercher une réponse immune spécifique contre le germe suspecté.",
+        "La PCR peut détecter directement des fragments de génome bactérien dans les produits pathologiques.",
+        "Le diagnostic indirect bactériologique repose exclusivement sur l’isolement du germe en culture."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic direct isole et identifie le germe ; le diagnostic indirect recherche une réponse immune spécifique. La PCR peut détecter des fragments de génome bactérien dans les produits pathologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les indications et modalités de la PCR en bactériologie selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être utile lorsqu’un diagnostic doit être rapidement établi, notamment dans les méningites.",
+        "Elle peut aider à identifier une bactérie inconnue dans des tissus infectés ou en culture.",
+        "Elle peut utiliser des amorces universelles ou cibler des gènes bactériens comme sod ou rpoB.",
+        "Elle est réservée aux bactéries dont la culture est toujours facile et rapide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PCR est utile en urgence, notamment dans les méningites, et peut identifier des bactéries inconnues via amorces universelles ou gènes comme sod/rpoB. Elle est surtout utile pour des bactéries à croissance lente, difficile ou impossible."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle membrane n’est pas citée comme origine possible de l’enveloppe virale ?",
+      "choices": [
+        "Membrane cytoplasmique.",
+        "Membrane golgienne.",
+        "Membrane mitochondriale.",
+        "Membrane nucléaire."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte cite les membranes cytoplasmique, golgienne et nucléaire comme origines possibles de l’enveloppe virale, mais pas la membrane mitochondriale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quels virus sont cités comme couramment isolés par culture sur systèmes cellulaires ?",
+      "choices": [
+        "Poliovirus et échovirus.",
+        "VIH et virus de l’hépatite C.",
+        "Papillomavirus et parvovirus.",
+        "Virus de la rage et virus Ebola."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la culture sur systèmes cellulaires est couramment utilisée pour isoler les poliovirus et les échovirus."
+    },
+    {
+      "type": "QCS",
+      "question": "À quel stade les anticorps neutralisants agissent-ils principalement selon le texte ?",
+      "choices": [
+        "Au stade de l’attachement viral.",
+        "Au stade de l’assemblage de la capside.",
+        "Au stade du bourgeonnement viral.",
+        "Au stade de la synthèse des ribosomes viraux."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les anticorps neutralisants agissent principalement au stade de l’attachement viral."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement l’icosaèdre viral ?",
+      "choices": [
+        "Un polyèdre à 20 faces triangulaires équilatérales et 12 sommets.",
+        "Un polyèdre à 12 faces triangulaires équilatérales et 20 sommets.",
+        "Une structure tubulaire dépourvue de faces.",
+        "Une membrane dérivée de l’appareil de Golgi."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’icosaèdre est défini comme un polyèdre à 20 faces triangulaires équilatérales et 12 sommets."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent est cité comme responsable des typhus ?",
+      "choices": [
+        "Rickettsia spp.",
+        "Treponema pallidum.",
+        "Tropheryma whipplei.",
+        "Ureaplasma urealyticum."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite Rickettsia spp. comme agents des typhus."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple agent–maladie est correctement formulé selon le texte ?",
+      "choices": [
+        "Treponema pallidum – syphilis.",
+        "Chlamydia pneumoniae – maladie de Whipple.",
+        "Mycoplasma pneumoniae – coqueluche.",
+        "Bordetella pertussis – typhus."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Treponema pallidum est cité comme agent de la syphilis. Bordetella pertussis est l’agent de la coqueluche, Tropheryma whipplei celui de la maladie de Whipple, et Rickettsia spp. les agents des typhus."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-04T12:47:58.887Z"
+}

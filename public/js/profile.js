@@ -164,9 +164,13 @@ async function loadProfile() {
 
     updateProfileInterface(result);
 
-  } catch (error) {
-    console.error(error);
-    setMessage(error.message, "error");
+    } catch (error) {
+    console.error("Erreur chargement profil :", error);
+
+    setMessage(
+      "Impossible de charger le profil pour le moment.",
+      "error"
+    );
   }
 }
 
@@ -343,9 +347,13 @@ profileForm.addEventListener("submit", async event => {
       "success"
     );
 
-  } catch (error) {
-    console.error(error);
-    setMessage(error.message, "error");
+    } catch (error) {
+    console.error("Erreur enregistrement profil :", error);
+
+    setMessage(
+      "Impossible d’enregistrer le profil pour le moment.",
+      "error"
+    );
 
   } finally {
     saveProfileBtn.disabled = false;
@@ -416,9 +424,13 @@ deletePhotoBtn.addEventListener("click", async () => {
       "success"
     );
 
-  } catch (error) {
-    console.error(error);
-    setMessage(error.message, "error");
+    } catch (error) {
+    console.error("Erreur suppression photo :", error);
+
+    setMessage(
+      "Impossible de supprimer la photo pour le moment.",
+      "error"
+    );
 
   } finally {
     deletePhotoBtn.disabled = false;

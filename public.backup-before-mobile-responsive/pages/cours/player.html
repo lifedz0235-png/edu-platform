@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lecteur de cours</title>
+  <link rel="stylesheet" href="../../css/style.css" />
+</head>
+<body onload="loadPlayerPage()">
+
+  <header class="topbar">
+    <a class="back-link" id="backToModules" href="../modules/modules.html">← Modules</a>
+    <h1 class="title">🎬 Lecteur de cours</h1>
+  </header>
+
+  <main class="player-layout">
+    <section class="player-main">
+      <video
+        id="videoPlayer"
+    
+        controls
+        controlsList="nodownload noremoteplayback"
+        disablePictureInPicture
+        playsinline
+        oncontextmenu="return false;"
+      ></video>
+<div id="nextMiniature" class="next-miniature">
+  <div class="mini-thumb">▶</div>
+  <div>
+    <strong>Vidéo suivante</strong>
+    <p id="nextMiniTitle">...</p>
+    <small>dans <span id="nextMiniCountdown">5</span>s</small>
+  </div>
+</div>
+      <div class="player-actions">
+        <button id="watchedBtn" class="btn btn-gold" type="button">✔ Déjà vu</button>
+
+        <div class="pdf-actions" id="quickSupports"></div>
+
+        <button id="favoriteBtn" class="btn btn-dark" type="button">⭐ Favoris</button>
+      </div>
+
+      <section id="pdfSection" class="pdf-section hidden">
+        <div class="pdf-section-header">
+          <h3>Support PDF</h3>
+        </div>
+
+        <div id="pdfUnavailable" class="pdf-unavailable hidden">
+    Aucun support disponible pour ce cours.
+</div>
+
+<div id="supportsList" class="supports-list"></div>
+
+<iframe
+    id="pdfViewer"
+    class="pdf-viewer hidden"
+    title="Aperçu du PDF"
+></iframe>
+      </section>
+
+      <div id="courseEndBox" class="course-end-box hidden">
+        <h3 id="courseEndTitle">Cours terminé</h3>
+        <p id="courseEndText">Tu peux passer au cours suivant.</p>
+
+        <div id="autoNextInfo" class="auto-next-info hidden">
+          Passage automatique dans <span id="autoNextCountdown">5</span>s...
+        </div>
+
+        <div class="course-end-actions">
+          <button id="nextCourseBtn" class="btn btn-gold" type="button">
+            ▶ Cours suivant
+          </button>
+
+          <a id="backToModuleBtn" class="btn btn-dark back-module-btn" href="../modules/modules.html">
+            ← Retour aux modules
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <aside class="player-sidebar">
+      <h2 id="moduleName" class="sidebar-title">Module</h2>
+
+      <div class="progress-box">
+        <div class="progress-text" id="progressText">0 / 0 cours vus - 0%</div>
+        <div class="progress-bar">
+          <div class="progress-fill" id="progressFill"></div>
+        </div>
+      </div>
+
+      <input
+        type="text"
+        id="courseSearch"
+        placeholder="Rechercher un cours..."
+        oninput="filterCourses()"
+        class="search-input"
+      />
+
+      <div id="videoList" class="course-list"></div>
+    </aside>
+  </main>
+
+
+    <script src="../../js/course-pdf-map.js"></script>
+  <script src="../../js/app.js"></script>
+  <div id="nextVideoPopup" class="next-video-popup">
+
+    <h3>▶ Vidéo suivante</h3>
+
+    <p id="nextVideoTitle"></p>
+
+    <div class="next-countdown">
+        Démarrage dans
+        <span id="nextCountdown">5</span>s
+    </div>
+
+    <div class="next-buttons">
+        <button id="playNextNow">
+            Passer maintenant
+        </button>
+
+        <button id="cancelNext">
+            Annuler
+        </button>
+    </div>
+
+</div>
+<script src="/js/auth-guard.js"></script>
+<script src="/js/user-storage.js"></script>
+<script src="/js/player.js"></script>
+</body>
+</html>

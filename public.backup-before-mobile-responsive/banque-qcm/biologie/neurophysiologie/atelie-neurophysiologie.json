@@ -1,0 +1,3126 @@
+{
+  "category": "biologie",
+  "module": "neurophysiologie",
+  "courseId": 53,
+  "courseTitle": "Atelier Neurophysiologie",
+  "supportTitle": "atelie-neurophysiologie",
+  "supportType": "docx",
+  "supportUrl": "/pdfs/biologie-pdf/NEUROPHYSIO/atelie-neurophysiologie.docx",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les potentiels postsynaptiques excitateurs dans le système nerveux central, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des potentiels locaux graduables.",
+        "Ils résultent le plus souvent d’une augmentation de la perméabilité membranaire aux cations, notamment au sodium.",
+        "Ils s’installent rapidement puis décroissent progressivement de façon exponentielle.",
+        "Ils répondent à la loi du tout ou rien."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les PPSE sont des potentiels locaux graduables, brefs, à décroissance exponentielle, liés le plus souvent à une entrée cationique notamment sodique. Ils ne répondent pas à la loi du tout ou rien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les potentiels postsynaptiques inhibiteurs, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont des potentiels locaux graduables.",
+        "Ils peuvent résulter d’une augmentation de la perméabilité membranaire au chlore ou au potassium.",
+        "Ils entraînent une hyperpolarisation ou une stabilisation du potentiel membranaire.",
+        "Ils augmentent la probabilité de déclenchement d’un potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les PPSI sont locaux et graduables, souvent liés au chlore ou au potassium, induisant hyperpolarisation ou stabilisation membranaire. Ils diminuent la probabilité de déclenchement d’un potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du déclenchement du potentiel d’action d’un neurone du système nerveux central, quelles propositions sont exactes ?",
+      "choices": [
+        "Il apparaît lorsque la dépolarisation membranaire atteint le seuil.",
+        "Le seuil est atteint au niveau de la zone gâchette.",
+        "La sommation spatiale et temporelle de plusieurs PPSE peut contribuer au déclenchement.",
+        "Un PPSE isolé obéit à la loi du tout ou rien et déclenche toujours un potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel d’action neuronal apparaît au seuil, au niveau de la zone gâchette, souvent grâce à la sommation spatiale et temporelle des PPSE. Les PPSE sont graduables et ne déclenchent pas toujours un potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le potentiel de plaque motrice, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’un potentiel local graduable de la jonction neuromusculaire.",
+        "Il est déclenché par la fixation de l’acétylcholine sur les récepteurs nicotiniques de la membrane musculaire.",
+        "Il résulte principalement d’une entrée de sodium associée à une sortie de potassium.",
+        "S’il atteint le seuil, il déclenche un potentiel d’action musculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le potentiel de plaque motrice est local, graduable, cholinergique nicotinique, principalement lié à une entrée de sodium avec sortie de potassium, et peut déclencher un potentiel d’action musculaire si le seuil est atteint."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’acétylcholine à la jonction neuromusculaire et ses récepteurs, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est synthétisée dans la terminaison axonale.",
+        "Elle est formée à partir de choline et d’acétyl-CoA.",
+        "Elle est stockée dans des vésicules synaptiques.",
+        "Ses récepteurs nicotiniques sont des canaux ioniques pentamériques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "À la jonction neuromusculaire, l’acétylcholine est synthétisée dans la terminaison axonale à partir de choline et d’acétyl-CoA, stockée en vésicules, et agit sur des récepteurs nicotiniques canaux ioniques pentamériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le système nerveux autonome, quelles propositions sont exactes ?",
+      "choices": [
+        "Il appartient au système nerveux périphérique.",
+        "Il contrôle des fonctions viscérales involontaires.",
+        "Il intervient dans l’activité des muscles lisses, du muscle cardiaque et des glandes.",
+        "Il assure la motricité volontaire des muscles striés squelettiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système nerveux autonome est périphérique et contrôle les fonctions viscérales involontaires, notamment muscles lisses, cœur et glandes. La motricité volontaire des muscles striés squelettiques n’en relève pas."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les divisions du système nerveux autonome et la transmission ganglionnaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système nerveux sympathique a une origine thoraco-lombaire.",
+        "Le système nerveux parasympathique a une origine cranio-sacrée.",
+        "La transmission ganglionnaire autonome est cholinergique.",
+        "Dans les ganglions autonomes, l’acétylcholine agit sur des récepteurs nicotiniques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le sympathique est thoraco-lombaire, le parasympathique cranio-sacré. La transmission ganglionnaire autonome est cholinergique via l’acétylcholine sur récepteurs nicotiniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les voies sensitives et les fibres Aβ, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie des colonnes dorsales véhicule la sensibilité tactile épicritique.",
+        "La voie des colonnes dorsales véhicule la vibration et la proprioception consciente.",
+        "Les fibres Aβ véhiculent principalement le tact fin, la pression, la vibration et le mouvement des poils.",
+        "Les fibres Aβ véhiculent principalement la douleur et la température."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les colonnes dorsales transmettent tact épicritique, vibration et proprioception consciente. Les fibres Aβ sont surtout mécanoréceptrices cutanées et ne véhiculent pas principalement douleur ni température."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bases ioniques du potentiel d’action, quelles propositions sont exactes ?",
+      "choices": [
+        "Pendant la phase ascendante, la membrane devient beaucoup plus perméable au sodium qu’au potassium.",
+        "La phase ascendante s’accompagne d’une entrée massive de sodium.",
+        "La repolarisation est liée à l’inactivation des canaux sodiques.",
+        "La repolarisation est liée à l’augmentation de la perméabilité au potassium."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La phase ascendante du potentiel d’action dépend d’une forte perméabilité sodique avec entrée de sodium. La repolarisation dépend de l’inactivation sodique et de l’augmentation de la perméabilité potassique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la myéline et les modes de conduction nerveuse, quelles propositions sont exactes ?",
+      "choices": [
+        "La destruction de la myéline ralentit la conduction nerveuse.",
+        "La destruction de la myéline peut entraîner un bloc de conduction.",
+        "Dans les fibres myélinisées, la conduction saltatoire se fait de nœud de Ranvier en nœud de Ranvier.",
+        "La conduction de proche en proche est plus rapide que la conduction saltatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La myéline permet une conduction rapide saltatoire entre les nœuds de Ranvier. Sa destruction ralentit la conduction et peut provoquer un bloc. La conduction de proche en proche est plus lente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la conduction nerveuse de proche en proche, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle concerne surtout les fibres amyéliniques.",
+        "Elle repose sur les courants locaux membranaires.",
+        "Elle est plus lente que la conduction saltatoire.",
+        "Elle correspond à la propagation du potentiel d’action d’un nœud de Ranvier au suivant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La conduction de proche en proche concerne surtout les fibres amyéliniques, repose sur les courants locaux membranaires et est plus lente que la conduction saltatoire. Le passage de nœud en nœud définit la conduction saltatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cellule de Renshaw, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un interneurone inhibiteur de la moelle épinière.",
+        "Elle est activée par une collatérale d’un axone de motoneurone alpha.",
+        "Elle exerce une inhibition récurrente sur les motoneurones.",
+        "Elle est le corps cellulaire d’une fibre sensitive situé dans le ganglion spinal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cellule de Renshaw est un interneurone inhibiteur spinal activé par une collatérale d’un motoneurone alpha et responsable d’une inhibition récurrente. Les corps cellulaires sensitifs sont dans les ganglions spinaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les racines rachidiennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Les racines antérieures contiennent principalement des fibres efférentes motrices.",
+        "Les racines antérieures contiennent notamment les axones des motoneurones alpha et gamma.",
+        "Les racines postérieures contiennent des fibres afférentes sensitives.",
+        "Les corps cellulaires des fibres sensitives des racines postérieures sont situés dans les ganglions spinaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les racines antérieures sont surtout motrices efférentes, incluant les axones des motoneurones alpha et gamma. Les racines postérieures sont sensitives afférentes, avec corps cellulaires dans les ganglions spinaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fuseau neuromusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un récepteur proprioceptif intramusculaire.",
+        "Il est sensible à l’étirement du muscle.",
+        "Il est activé par l’étirement du muscle homonyme.",
+        "Ses afférences principales sont les fibres Ia."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le fuseau neuromusculaire est un récepteur proprioceptif intramusculaire sensible à l’étirement, activé par l’étirement du muscle homonyme, et ses afférences principales sont les fibres Ia."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le mieux l’unité motrice ?",
+      "choices": [
+        "L’ensemble formé par un motoneurone alpha et toutes les fibres musculaires extrafusales qu’il innerve.",
+        "L’ensemble formé par une fibre Aβ et les récepteurs cutanés qu’elle innerve.",
+        "L’ensemble formé par une cellule de Renshaw et les motoneurones qu’elle inhibe.",
+        "L’ensemble formé par une racine postérieure et son ganglion spinal."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’unité motrice correspond à un motoneurone alpha et à toutes les fibres musculaires extrafusales qu’il innerve."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à la voie finale commune du contrôle moteur ?",
+      "choices": [
+        "Le fuseau neuromusculaire et ses afférences Ia.",
+        "Le motoneurone de la corne antérieure de la moelle épinière dont l’axone innerve les fibres musculaires extrafusales.",
+        "La racine rachidienne postérieure contenant les afférences sensitives.",
+        "La voie des colonnes dorsales véhiculant la proprioception consciente."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La voie finale commune du contrôle moteur est le motoneurone de la corne antérieure, dont l’axone innerve les fibres musculaires extrafusales."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit correctement l’effet d’une baisse de température sur la conduction nerveuse ?",
+      "choices": [
+        "Elle accélère la conduction saltatoire uniquement.",
+        "Elle accélère la conduction de proche en proche uniquement.",
+        "Elle ralentit la conduction nerveuse.",
+        "Elle transforme une fibre amyélinique en fibre myélinisée."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que la baisse de température ralentit la conduction nerveuse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition distingue correctement la conduction saltatoire ?",
+      "choices": [
+        "Elle concerne les fibres myélinisées et le potentiel d’action se propage d’un nœud de Ranvier au suivant.",
+        "Elle concerne surtout les fibres amyéliniques et repose uniquement sur une progression continue locale.",
+        "Elle est plus lente que la conduction de proche en proche.",
+        "Elle apparaît lorsque la myéline est détruite."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La conduction saltatoire concerne les fibres myélinisées et se fait de nœud de Ranvier en nœud de Ranvier, ce qui augmente la vitesse de conduction."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition est exacte concernant les fibres Aβ ?",
+      "choices": [
+        "Elles véhiculent principalement la douleur.",
+        "Elles véhiculent principalement la température.",
+        "Elles véhiculent principalement des informations de mécanoréception cutanée.",
+        "Elles constituent les axones des motoneurones alpha."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les fibres Aβ véhiculent surtout des informations de mécanoréception cutanée : tact fin, pression, vibration et mouvement des poils."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la transmission ganglionnaire du système nerveux autonome, quel couple médiateur-récepteur est correct ?",
+      "choices": [
+        "Acétylcholine — récepteur nicotinique.",
+        "Acétylcholine — fibre Aβ.",
+        "Sodium — récepteur nicotinique.",
+        "Potassium — canal pentamérique présynaptique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La transmission ganglionnaire autonome est cholinergique : l’acétylcholine agit sur des récepteurs nicotiniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’intégration synaptique d’un neurone du système nerveux central, quelles propositions sont exactes ?",
+      "choices": [
+        "Le seuil du potentiel d’action est atteint au niveau de la zone gâchette.",
+        "La sommation spatiale de plusieurs potentiels postsynaptiques excitateurs peut contribuer au déclenchement du potentiel d’action.",
+        "Les potentiels postsynaptiques inhibiteurs augmentent la probabilité de déclenchement d’un potentiel d’action.",
+        "Les potentiels postsynaptiques excitateurs sont des potentiels locaux graduables."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action apparaît lorsque la dépolarisation atteint le seuil au niveau de la zone gâchette, souvent par sommation spatiale et temporelle des PPSE. Les PPSI diminuent au contraire la probabilité de déclenchement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution temporelle des potentiels postsynaptiques locaux, quelles propositions sont exactes ?",
+      "choices": [
+        "Les potentiels postsynaptiques excitateurs s’installent rapidement puis décroissent progressivement de façon exponentielle.",
+        "Les potentiels postsynaptiques inhibiteurs peuvent également décroître progressivement de façon exponentielle.",
+        "Les potentiels postsynaptiques excitateurs répondent à la loi du tout ou rien.",
+        "Les potentiels postsynaptiques inhibiteurs sont des potentiels locaux graduables."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les PPSE et PPSI sont des potentiels locaux graduables, brefs, à installation rapide et décroissance exponentielle. Les PPSE ne répondent pas à la loi du tout ou rien."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des bases ioniques des potentiels locaux décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Un potentiel postsynaptique excitateur résulte souvent d’une augmentation de la perméabilité membranaire aux cations, notamment au sodium.",
+        "Un potentiel postsynaptique inhibiteur peut résulter d’une augmentation de la perméabilité membranaire au chlore ou au potassium.",
+        "Le potentiel de plaque motrice résulte principalement d’une entrée de sodium associée à une sortie de potassium.",
+        "La repolarisation du potentiel d’action est due exclusivement à une augmentation persistante de la perméabilité au sodium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les PPSE sont liés à une entrée cationique dépolarisante, les PPSI à une perméabilité accrue au chlore ou au potassium. Le potentiel de plaque motrice implique surtout l’entrée de sodium et une sortie de potassium. La repolarisation dépend de l’inactivation sodique et de l’augmentation de perméabilité potassique."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant les différentes phases du potentiel d’action neuronal, quelles propositions sont exactes ?",
+      "choices": [
+        "Durant la phase ascendante, la membrane devient beaucoup plus perméable au sodium qu’au potassium.",
+        "La phase ascendante s’accompagne d’une entrée massive de sodium.",
+        "La repolarisation est liée à l’inactivation des canaux sodiques.",
+        "La repolarisation est favorisée par l’augmentation de la perméabilité au potassium."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La phase ascendante repose sur une forte augmentation de perméabilité au sodium avec entrée massive de sodium. La repolarisation implique l’inactivation des canaux sodiques et l’augmentation de la perméabilité au potassium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’acétylcholine à la jonction neuromusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est synthétisée dans la terminaison axonale.",
+        "Elle est formée à partir de choline et d’acétyl-CoA.",
+        "Elle est stockée dans des vésicules synaptiques.",
+        "Elle agit sur des récepteurs muscariniques de la membrane musculaire striée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À la jonction neuromusculaire, l’acétylcholine est synthétisée dans la terminaison axonale à partir de choline et d’acétyl-CoA, puis stockée dans des vésicules synaptiques. Elle agit sur des récepteurs nicotiniques de la membrane musculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du potentiel de plaque motrice, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un potentiel local graduable de la jonction neuromusculaire.",
+        "Il est déclenché par la fixation de l’acétylcholine sur les récepteurs nicotiniques musculaires.",
+        "Il provoque une dépolarisation locale pouvant déclencher un potentiel d’action musculaire si le seuil est atteint.",
+        "Il résulte principalement d’une entrée de chlore responsable d’une hyperpolarisation musculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel de plaque motrice est un potentiel local graduable déclenché par l’acétylcholine sur les récepteurs nicotiniques. Il dépolarise localement la membrane par entrée de sodium associée à une sortie de potassium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le champ d’action du système nerveux autonome, quelles propositions sont exactes ?",
+      "choices": [
+        "Il appartient au système nerveux périphérique.",
+        "Il contrôle des fonctions viscérales involontaires.",
+        "Il intervient sur l’activité des muscles lisses, du muscle cardiaque et des glandes.",
+        "Il assure la motricité volontaire des muscles striés squelettiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système nerveux autonome appartient au système nerveux périphérique et contrôle les fonctions viscérales involontaires, notamment muscles lisses, cœur et glandes. Il n’assure pas la motricité volontaire des muscles striés squelettiques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’organisation du système nerveux autonome, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système nerveux sympathique a une origine thoraco-lombaire.",
+        "Le système nerveux parasympathique a une origine cranio-sacrée.",
+        "La transmission ganglionnaire autonome est cholinergique nicotinique.",
+        "Le système parasympathique a une origine exclusivement thoraco-lombaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le sympathique est thoraco-lombaire, le parasympathique cranio-sacré. La transmission ganglionnaire autonome est médiée par l’acétylcholine agissant sur des récepteurs nicotiniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités sensitives véhiculées par la voie des colonnes dorsales, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle véhicule la sensibilité tactile épicritique.",
+        "Elle véhicule la vibration.",
+        "Elle véhicule la proprioception consciente.",
+        "Elle véhicule principalement la douleur et la température."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie des colonnes dorsales transmet le tact épicritique, la vibration et la proprioception consciente. La douleur et la température ne sont pas les modalités principales indiquées dans ce texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les informations sensitives suivantes, lesquelles sont principalement véhiculées par les fibres Aβ selon le texte ?",
+      "choices": [
+        "Le tact fin.",
+        "La pression.",
+        "La vibration.",
+        "Le mouvement des poils."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les fibres Aβ véhiculent principalement les informations de mécanoréception cutanée : tact fin, pression, vibration et mouvement des poils."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la myéline et ses conséquences fonctionnelles, quelles propositions sont exactes ?",
+      "choices": [
+        "La destruction de la myéline ralentit la conduction nerveuse.",
+        "La destruction de la myéline peut entraîner un bloc de conduction.",
+        "Dans les fibres myélinisées, la propagation est saltatoire entre les nœuds de Ranvier.",
+        "La conduction de proche en proche est le mode rapide caractéristique des fibres myélinisées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La myéline permet une conduction rapide saltatoire entre les nœuds de Ranvier. Sa destruction ralentit la conduction et peut provoquer un bloc. La conduction de proche en proche concerne surtout les fibres amyéliniques."
+    },
+    {
+      "type": "QCM",
+      "question": "En comparant conduction de proche en proche et conduction saltatoire, quelles propositions sont exactes ?",
+      "choices": [
+        "La conduction de proche en proche concerne surtout les fibres amyéliniques.",
+        "La conduction de proche en proche repose sur des courants locaux membranaires.",
+        "La conduction de proche en proche est plus lente que la conduction saltatoire.",
+        "La conduction saltatoire se fait indépendamment des nœuds de Ranvier."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La conduction de proche en proche est surtout amyélinique, repose sur les courants locaux membranaires et est plus lente. La conduction saltatoire se fait d’un nœud de Ranvier au suivant."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la composition fonctionnelle des racines rachidiennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Les racines rachidiennes antérieures contiennent principalement des fibres efférentes motrices.",
+        "Les racines antérieures contiennent notamment les axones des motoneurones alpha et gamma.",
+        "Les racines rachidiennes postérieures contiennent des fibres afférentes sensitives.",
+        "Les corps cellulaires des fibres afférentes des racines postérieures sont situés dans la corne antérieure médullaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les racines antérieures sont surtout motrices efférentes avec axones alpha et gamma. Les racines postérieures sont sensitives afférentes, avec corps cellulaires dans les ganglions spinaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’inhibition récurrente médullaire et le fuseau neuromusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La cellule de Renshaw est un interneurone inhibiteur de la moelle épinière.",
+        "La cellule de Renshaw est activée par une collatérale d’un axone de motoneurone alpha.",
+        "Le fuseau neuromusculaire est un récepteur proprioceptif intramusculaire sensible à l’étirement.",
+        "Les afférences principales du fuseau neuromusculaire sont les fibres Aβ."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cellule de Renshaw est un interneurone inhibiteur activé par une collatérale d’un motoneurone alpha. Le fuseau neuromusculaire est un récepteur proprioceptif intramusculaire sensible à l’étirement, dont les afférences principales sont les fibres Ia."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans un neurone du système nerveux central, quel site est généralement celui où l’atteinte du seuil déclenche le potentiel d’action ?",
+      "choices": [
+        "La membrane des fibres musculaires extrafusales.",
+        "La zone gâchette.",
+        "Le ganglion spinal.",
+        "Le récepteur nicotinique de la plaque motrice."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le potentiel d’action neuronal apparaît lorsque la dépolarisation atteint le seuil au niveau de la zone gâchette."
+    },
+    {
+      "type": "QCS",
+      "question": "À la jonction neuromusculaire, à partir de quels précurseurs l’acétylcholine est-elle synthétisée ?",
+      "choices": [
+        "Sodium et potassium.",
+        "Chlore et potassium.",
+        "Choline et acétyl-CoA.",
+        "Myéline et choline."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’acétylcholine est synthétisée dans la terminaison axonale à partir de choline et d’acétyl-CoA."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement les récepteurs nicotiniques de l’acétylcholine selon le texte ?",
+      "choices": [
+        "Ce sont des canaux ioniques pentamériques.",
+        "Ce sont des récepteurs intracellulaires nucléaires.",
+        "Ce sont des canaux exclusivement perméables au chlore.",
+        "Ce sont des transporteurs vésiculaires de sodium."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les récepteurs nicotiniques de l’acétylcholine sont décrits comme des canaux ioniques pentamériques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle origine anatomofonctionnelle correspond au système nerveux sympathique ?",
+      "choices": [
+        "Cranio-sacrée.",
+        "Thoraco-lombaire.",
+        "Exclusivement cervicale.",
+        "Exclusivement sacrée."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le système nerveux sympathique a une origine thoraco-lombaire, tandis que le parasympathique a une origine cranio-sacrée."
+    },
+    {
+      "type": "QCS",
+      "question": "Où sont situés les corps cellulaires des fibres afférentes sensitives des racines rachidiennes postérieures ?",
+      "choices": [
+        "Dans les ganglions spinaux.",
+        "Dans les plaques motrices.",
+        "Dans les nœuds de Ranvier.",
+        "Dans les terminaisons axonales cholinergiques."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les racines rachidiennes postérieures contiennent des fibres afférentes sensitives dont les corps cellulaires sont situés dans les ganglions spinaux."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’afférence principale du fuseau neuromusculaire ?",
+      "choices": [
+        "Les fibres Ia.",
+        "Les fibres Aβ.",
+        "Les axones des motoneurones alpha.",
+        "Les fibres efférentes des racines antérieures."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le fuseau neuromusculaire possède comme afférences principales les fibres Ia."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propriétés suivantes, lesquelles sont communes aux potentiels postsynaptiques excitateurs et inhibiteurs du système nerveux central ?",
+      "choices": [
+        "Ce sont des potentiels locaux graduables",
+        "Ils s’installent rapidement",
+        "Ils décroissent progressivement de façon exponentielle",
+        "Ils ont une durée brève"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les PPSE et les PPSI sont tous deux des potentiels locaux graduables, d’installation rapide, de durée brève, avec décroissance exponentielle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conditions de déclenchement d’un potentiel d’action dans un neurone du système nerveux central, quelles propositions sont exactes ?",
+      "choices": [
+        "La dépolarisation doit atteindre le seuil au niveau de la zone gâchette",
+        "La sommation spatiale de plusieurs PPSE peut participer au déclenchement",
+        "La sommation temporelle de plusieurs PPSE peut participer au déclenchement",
+        "Un PPSI isolé augmente directement la probabilité de déclenchement du potentiel d’action"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel d’action apparaît lorsque le seuil est atteint à la zone gâchette, souvent par sommation spatiale et temporelle de PPSE. Les PPSI diminuent cette probabilité."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la séquence physiologique au niveau de la jonction neuromusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La fixation de l’acétylcholine sur les récepteurs nicotiniques déclenche le potentiel de plaque motrice",
+        "Le potentiel de plaque motrice résulte principalement d’une entrée de sodium associée à une sortie de potassium",
+        "Le potentiel de plaque motrice provoque une dépolarisation locale",
+        "Le potentiel de plaque motrice répond toujours à la loi du tout ou rien"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel de plaque motrice est local et graduable. Il est déclenché par l’acétylcholine sur les récepteurs nicotiniques et repose surtout sur l’entrée de sodium avec sortie de potassium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la synthèse, le stockage et la cible de l’acétylcholine à la jonction neuromusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’acétylcholine est synthétisée dans la terminaison axonale",
+        "Ses précurseurs sont la choline et l’acétyl-CoA",
+        "Elle est stockée dans des vésicules synaptiques",
+        "Elle agit sur des récepteurs nicotiniques qui sont des canaux ioniques pentamériques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "À la jonction neuromusculaire, l’acétylcholine est synthétisée à partir de choline et d’acétyl-CoA dans la terminaison axonale, stockée en vésicules, puis agit sur des récepteurs nicotiniques pentamériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes relatives à l’unité motrice et à la voie finale commune du contrôle moteur, lesquelles sont exactes ?",
+      "choices": [
+        "L’unité motrice comprend un motoneurone alpha et les fibres musculaires extrafusales qu’il innerve",
+        "La voie finale commune correspond au motoneurone de la corne antérieure de la moelle épinière",
+        "L’axone de la voie finale commune innerve les fibres musculaires extrafusales",
+        "L’unité motrice correspond à un motoneurone gamma et aux fibres afférentes Ia"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’unité motrice est formée d’un motoneurone alpha et de ses fibres extrafusales. La voie finale commune est le motoneurone de la corne antérieure dont l’axone innerve ces fibres."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le champ d’action du système nerveux autonome, quelles propositions sont exactes ?",
+      "choices": [
+        "Il appartient au système nerveux périphérique",
+        "Il contrôle des fonctions viscérales involontaires",
+        "Il intervient dans l’activité des muscles lisses, du muscle cardiaque et des glandes",
+        "Il assure la motricité volontaire des muscles striés squelettiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système nerveux autonome appartient au système nerveux périphérique et contrôle les fonctions viscérales involontaires. Il n’assure pas la motricité volontaire des muscles striés squelettiques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’organisation générale du système nerveux autonome, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système nerveux sympathique a une origine thoraco-lombaire",
+        "Le système nerveux parasympathique a une origine cranio-sacrée",
+        "La transmission ganglionnaire autonome est cholinergique",
+        "Au niveau ganglionnaire, l’acétylcholine agit sur des récepteurs nicotiniques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le sympathique est thoraco-lombaire, le parasympathique cranio-sacré. La transmission ganglionnaire autonome est cholinergique via l’acétylcholine sur des récepteurs nicotiniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les informations sensitives véhiculées par les colonnes dorsales et les fibres Aβ, quelles propositions sont exactes ?",
+      "choices": [
+        "Les colonnes dorsales véhiculent la sensibilité tactile épicritique",
+        "Les colonnes dorsales véhiculent la vibration et la proprioception consciente",
+        "Les fibres Aβ véhiculent principalement le tact fin, la pression, la vibration et le mouvement des poils",
+        "Les fibres Aβ véhiculent principalement la douleur et la température"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie des colonnes dorsales véhicule tact épicritique, vibration et proprioception consciente. Les fibres Aβ sont surtout impliquées dans la mécanoréception cutanée, non dans la douleur ou la température."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant les phases du potentiel d’action neuronal, quelles propositions sont exactes ?",
+      "choices": [
+        "La phase ascendante est liée à une forte augmentation de la perméabilité au sodium",
+        "Durant la phase ascendante, la perméabilité au sodium devient beaucoup plus importante que celle au potassium",
+        "La repolarisation implique l’inactivation des canaux sodiques",
+        "La repolarisation implique une augmentation de la perméabilité au potassium"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La phase ascendante résulte d’une entrée massive de sodium par forte perméabilité sodique. La repolarisation dépend de l’inactivation sodique et de l’augmentation de la perméabilité potassique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la myéline et ses conséquences sur la conduction nerveuse, quelles propositions sont exactes ?",
+      "choices": [
+        "La myéline favorise une conduction saltatoire rapide",
+        "Dans les fibres myélinisées, le potentiel d’action se propage d’un nœud de Ranvier au suivant",
+        "La destruction de la myéline ralentit la conduction nerveuse",
+        "La destruction de la myéline peut entraîner un bloc de conduction"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La myéline permet la conduction saltatoire entre les nœuds de Ranvier, augmentant la vitesse. Sa destruction ralentit la conduction et peut provoquer un bloc."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la conduction nerveuse de proche en proche, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle concerne surtout les fibres amyéliniques",
+        "Elle repose sur les courants locaux membranaires",
+        "Elle est plus lente que la conduction saltatoire",
+        "Elle correspond à une propagation d’un nœud de Ranvier au suivant"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La conduction de proche en proche concerne surtout les fibres amyéliniques, repose sur les courants locaux membranaires et est plus lente que la conduction saltatoire. La propagation nodale caractérise la conduction saltatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cellule de Renshaw, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un interneurone inhibiteur de la moelle épinière",
+        "Elle est activée par une collatérale d’un axone de motoneurone alpha",
+        "Elle exerce une inhibition récurrente sur les motoneurones",
+        "Elle correspond à un récepteur proprioceptif intramusculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cellule de Renshaw est un interneurone inhibiteur médullaire activé par une collatérale de motoneurone alpha, exerçant une inhibition récurrente. Le récepteur proprioceptif intramusculaire est le fuseau neuromusculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la composition fonctionnelle des racines rachidiennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Les racines antérieures contiennent principalement des fibres efférentes motrices",
+        "Les racines antérieures contiennent notamment les axones des motoneurones alpha et gamma",
+        "Les racines postérieures contiennent des fibres afférentes sensitives",
+        "Les corps cellulaires des fibres afférentes des racines postérieures sont situés dans les ganglions spinaux"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les racines antérieures sont principalement motrices efférentes, avec axones alpha et gamma. Les racines postérieures sont sensitives afférentes, avec corps cellulaires dans les ganglions spinaux."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du fuseau neuromusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un récepteur proprioceptif intramusculaire",
+        "Il est sensible à l’étirement du muscle",
+        "Il est activé par l’étirement du muscle homonyme",
+        "Sa sensibilité est réglée par l’activité des motoneurones gamma"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le fuseau neuromusculaire est un récepteur proprioceptif intramusculaire sensible à l’étirement, activé par l’étirement du muscle homonyme et modulé par les motoneurones gamma."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel événement survient si le seuil est atteint après un potentiel de plaque motrice ?",
+      "choices": [
+        "Un potentiel d’action musculaire est déclenché",
+        "Un potentiel postsynaptique inhibiteur est déclenché",
+        "La conduction saltatoire est bloquée",
+        "La cellule de Renshaw est activée directement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "À la jonction neuromusculaire, si le potentiel de plaque motrice atteint le seuil, il déclenche un potentiel d’action musculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit le mieux le mécanisme ionique principal du potentiel de plaque motrice ?",
+      "choices": [
+        "Entrée principale de sodium associée à une sortie de potassium",
+        "Entrée principale de potassium associée à une sortie de sodium",
+        "Augmentation isolée de la perméabilité au chlore",
+        "Inactivation des canaux sodiques suivie d’une hyperpolarisation"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le potentiel de plaque motrice résulte surtout d’une entrée de sodium, associée à une sortie de potassium, provoquant une dépolarisation locale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément règle la sensibilité du fuseau neuromusculaire selon le texte ?",
+      "choices": [
+        "L’activité des motoneurones gamma",
+        "La destruction de la myéline",
+        "La sortie de potassium au niveau de la plaque motrice",
+        "La sommation temporelle des PPSI"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les motoneurones gamma règlent la sensibilité du fuseau neuromusculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’origine anatomofonctionnelle du système nerveux parasympathique ?",
+      "choices": [
+        "Thoraco-lombaire",
+        "Cranio-sacrée",
+        "Médullaire antérieure exclusivement",
+        "Ganglionnaire spinale exclusivement"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le système nerveux parasympathique a une origine cranio-sacrée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme participe directement à la repolarisation du potentiel d’action neuronal ?",
+      "choices": [
+        "Augmentation de la perméabilité au potassium",
+        "Entrée massive de sodium par perméabilité sodique dominante",
+        "Fixation de l’acétylcholine sur les récepteurs nicotiniques musculaires",
+        "Sommation spatiale de PPSE au niveau de la zone gâchette"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La repolarisation est liée à l’inactivation des canaux sodiques et à l’augmentation de la perméabilité au potassium."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé caractérise le mieux la conséquence d’une destruction de la myéline ?",
+      "choices": [
+        "Accélération de la conduction saltatoire",
+        "Ralentissement de la conduction avec possibilité de bloc",
+        "Transformation des fibres amyéliniques en fibres myélinisées",
+        "Déclenchement systématique d’un potentiel de plaque motrice"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La destruction de la myéline ralentit la conduction nerveuse et peut entraîner un bloc de conduction."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’activation simultanée de plusieurs synapses excitatrices sur un neurone central, quelles propositions sont exactes ?",
+      "choices": [
+        "La sommation spatiale peut contribuer à atteindre le seuil au niveau de la zone gâchette.",
+        "Le potentiel d’action apparaît dès qu’un seul potentiel postsynaptique excitateur est généré, quelle que soit son amplitude.",
+        "La sommation temporelle de potentiels postsynaptiques excitateurs peut participer au déclenchement du potentiel d’action.",
+        "Les potentiels postsynaptiques excitateurs obéissent à la loi du tout ou rien."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Dans le SNC, le potentiel d’action apparaît lorsque la dépolarisation atteint le seuil au niveau de la zone gâchette, généralement par sommation spatiale et temporelle de plusieurs PPSE. Les PPSE sont graduables et ne répondent pas à la loi du tout ou rien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant un potentiel postsynaptique local de durée brève, à installation rapide puis décroissance exponentielle, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "Il peut correspondre à un potentiel postsynaptique excitateur.",
+        "Il peut correspondre à un potentiel postsynaptique inhibiteur.",
+        "Il est nécessairement un potentiel d’action.",
+        "Il est obligatoirement non graduable."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les PPSE et les PPSI sont des potentiels locaux graduables, brefs, s’installant rapidement puis décroissant progressivement de façon exponentielle. Ils ne sont pas des potentiels d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer les effets membranaires d’un PPSE et d’un PPSI, quelles propositions sont exactes ?",
+      "choices": [
+        "Un PPSE résulte le plus souvent d’une augmentation de la perméabilité aux cations, notamment au sodium.",
+        "Un PPSI résulte souvent d’une augmentation de la perméabilité au chlore ou au potassium.",
+        "Un PPSI entraîne habituellement une dépolarisation facilitant le déclenchement du potentiel d’action.",
+        "Un PPSE provoque le plus souvent une hyperpolarisation membranaire."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le PPSE est généralement lié à une entrée de cations, surtout sodium, entraînant une dépolarisation. Le PPSI est souvent lié au chlore ou au potassium, entraînant une hyperpolarisation ou une stabilisation du potentiel membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des étapes pré- et post-synaptiques de la jonction neuromusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’acétylcholine est synthétisée dans la terminaison axonale à partir de choline et d’acétyl-CoA.",
+        "L’acétylcholine est stockée dans des vésicules synaptiques.",
+        "La fixation de l’acétylcholine sur les récepteurs nicotiniques musculaires déclenche le potentiel de plaque motrice.",
+        "Les récepteurs nicotiniques musculaires sont décrits comme des récepteurs intracellulaires nucléaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À la jonction neuromusculaire, l’acétylcholine est synthétisée à partir de choline et d’acétyl-CoA, stockée dans des vésicules, puis agit sur les récepteurs nicotiniques de la membrane musculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les récepteurs nicotiniques et les flux ioniques responsables du potentiel de plaque motrice, quelles propositions sont exactes ?",
+      "choices": [
+        "Les récepteurs nicotiniques de l’acétylcholine sont des canaux ioniques pentamériques.",
+        "Le potentiel de plaque motrice résulte principalement d’une entrée de sodium associée à une sortie de potassium.",
+        "Le potentiel de plaque motrice est une dépolarisation locale graduable.",
+        "Le potentiel de plaque motrice est principalement dû à une entrée de chlore entraînant une hyperpolarisation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les récepteurs nicotiniques sont des canaux ioniques pentamériques. Leur activation provoque surtout une entrée de sodium, associée à une sortie de potassium, générant une dépolarisation locale graduable."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour différencier système nerveux autonome et commande motrice somatique volontaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système nerveux autonome appartient au système nerveux périphérique.",
+        "Le système nerveux autonome contrôle des fonctions viscérales involontaires.",
+        "Le système nerveux autonome n’assure pas la motricité volontaire des muscles striés squelettiques.",
+        "Le système nerveux autonome innerve directement les fibres musculaires extrafusales dans le cadre de l’unité motrice."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système nerveux autonome est périphérique et contrôle les muscles lisses, le muscle cardiaque et les glandes. La motricité volontaire des muscles striés squelettiques relève du système moteur somatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation anatomofonctionnelle du système nerveux autonome, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système sympathique a une origine thoraco-lombaire.",
+        "Le système parasympathique a une origine cranio-sacrée.",
+        "La transmission ganglionnaire autonome est cholinergique par récepteurs nicotiniques.",
+        "La transmission ganglionnaire autonome est principalement médiée par l’acétylcholine sur des récepteurs muscariniques selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise l’origine thoraco-lombaire du sympathique, cranio-sacrée du parasympathique, et une transmission ganglionnaire cholinergique nicotinique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités sensitives véhiculées par les colonnes dorsales et les fibres Aβ, quelles propositions sont exactes ?",
+      "choices": [
+        "Les colonnes dorsales véhiculent la sensibilité tactile épicritique.",
+        "Les colonnes dorsales véhiculent la vibration et la proprioception consciente.",
+        "Les fibres Aβ véhiculent principalement le tact fin, la pression, la vibration et le mouvement des poils.",
+        "Les fibres Aβ véhiculent principalement la douleur et la température."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les colonnes dorsales transmettent tact épicritique, vibration et proprioception consciente. Les fibres Aβ transportent surtout des informations de mécanoréception cutanée, et non principalement douleur ou température."
+    },
+    {
+      "type": "QCM",
+      "question": "En comparant les différents modes de propagation de l’influx nerveux, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans les fibres myélinisées, la conduction saltatoire se fait d’un nœud de Ranvier au suivant.",
+        "La conduction de proche en proche concerne surtout les fibres amyéliniques.",
+        "La destruction de la myéline peut ralentir la conduction et entraîner un bloc de conduction.",
+        "La baisse de température augmente la vitesse de conduction nerveuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La myéline permet une conduction saltatoire rapide entre nœuds de Ranvier. Les fibres amyéliniques conduisent surtout de proche en proche. La démyélinisation et la baisse de température ralentissent la conduction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bases ioniques des phases du potentiel d’action neuronal, quelles propositions sont exactes ?",
+      "choices": [
+        "Pendant la phase ascendante, la membrane devient beaucoup plus perméable au sodium qu’au potassium.",
+        "La phase ascendante est liée à une entrée massive de sodium.",
+        "La repolarisation implique l’inactivation des canaux sodiques et l’augmentation de la perméabilité au potassium.",
+        "La repolarisation est due à une augmentation isolée de la perméabilité au sodium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La montée du potentiel d’action est liée à une forte perméabilité au sodium et à son entrée massive. La repolarisation dépend de l’inactivation sodique et de l’augmentation de la perméabilité potassique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le circuit d’inhibition récurrente médullaire impliquant la cellule de Renshaw, quelles propositions sont exactes ?",
+      "choices": [
+        "La cellule de Renshaw est un interneurone inhibiteur de la moelle épinière.",
+        "Elle est activée par une collatérale d’un axone de motoneurone alpha.",
+        "Elle exerce une inhibition récurrente sur les motoneurones.",
+        "Elle correspond au corps cellulaire sensitif situé dans le ganglion spinal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cellule de Renshaw est un interneurone inhibiteur médullaire activé par une collatérale d’un motoneurone alpha et responsable d’une inhibition récurrente des motoneurones."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la composition fonctionnelle des racines rachidiennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Les racines antérieures contiennent principalement des fibres efférentes motrices.",
+        "Les racines antérieures contiennent notamment les axones des motoneurones alpha et gamma.",
+        "Les racines postérieures contiennent des fibres afférentes sensitives.",
+        "Les corps cellulaires des fibres afférentes des racines postérieures sont situés dans la corne antérieure de la moelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les racines antérieures sont surtout motrices, avec axones alpha et gamma. Les racines postérieures sont sensitives, avec corps cellulaires dans les ganglions spinaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fuseau neuromusculaire comme récepteur proprioceptif, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est intramusculaire.",
+        "Il est sensible à l’étirement du muscle.",
+        "Il peut être activé par l’étirement du muscle homonyme.",
+        "Sa sensibilité est réglée par l’activité des motoneurones gamma."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le fuseau neuromusculaire est un récepteur proprioceptif intramusculaire sensible à l’étirement, activé par l’étirement du muscle homonyme et modulé par les motoneurones gamma."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’unité motrice et la voie finale commune du contrôle moteur, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie finale commune correspond au motoneurone de la corne antérieure de la moelle épinière.",
+        "L’axone de ce motoneurone innerve les fibres musculaires extrafusales.",
+        "L’unité motrice associe un motoneurone alpha et toutes les fibres musculaires extrafusales qu’il innerve.",
+        "L’unité motrice comprend les glandes contrôlées par le système nerveux autonome."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie finale commune est le motoneurone de la corne antérieure dont l’axone innerve les fibres extrafusales. L’unité motrice est constituée par un motoneurone alpha et toutes les fibres extrafusales qu’il innerve."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans un neurone central, quel événement conditionne directement l’apparition d’un potentiel d’action selon le texte ?",
+      "choices": [
+        "L’atteinte du seuil de dépolarisation au niveau de la zone gâchette.",
+        "L’ouverture isolée de canaux potassiques responsables d’une hyperpolarisation.",
+        "La génération d’un seul PPSI de grande durée.",
+        "La fixation de l’acétylcholine sur une fibre musculaire extrafusale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le potentiel d’action neuronal central apparaît lorsque la dépolarisation membranaire atteint le seuil au niveau de la zone gâchette."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit le mieux l’effet fonctionnel d’un potentiel postsynaptique inhibiteur ?",
+      "choices": [
+        "Il augmente systématiquement la probabilité de déclenchement d’un potentiel d’action.",
+        "Il diminue la probabilité de déclenchement d’un potentiel d’action.",
+        "Il déclenche toujours un potentiel d’action musculaire.",
+        "Il correspond à une entrée massive de sodium pendant la phase ascendante du potentiel d’action."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le PPSI entraîne une hyperpolarisation ou une stabilisation du potentiel membranaire, ce qui diminue la probabilité de déclenchement d’un potentiel d’action."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une fibre musculaire à la jonction neuromusculaire, que provoque le potentiel de plaque motrice si le seuil est atteint ?",
+      "choices": [
+        "Un potentiel d’action musculaire.",
+        "Une inhibition récurrente des motoneurones.",
+        "Une conduction saltatoire entre deux nœuds de Ranvier.",
+        "Une stabilisation inhibitrice par entrée de chlore."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le potentiel de plaque motrice est local et graduable ; s’il atteint le seuil, il déclenche un potentiel d’action musculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association entre une structure et sa fonction est correcte ?",
+      "choices": [
+        "Ganglion spinal — corps cellulaires des fibres afférentes sensitives des racines postérieures.",
+        "Racine antérieure — principale voie afférente sensitive cutanée.",
+        "Cellule de Renshaw — récepteur proprioceptif intramusculaire sensible à l’étirement.",
+        "Fuseau neuromusculaire — canal ionique pentamérique activé par l’acétylcholine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les corps cellulaires des fibres afférentes sensitives des racines postérieures sont situés dans les ganglions spinaux."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité est typiquement rattachée aux fibres Aβ selon le texte ?",
+      "choices": [
+        "Température douloureuse.",
+        "Douleur aiguë.",
+        "Mouvement des poils.",
+        "Motricité volontaire des muscles striés squelettiques."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les fibres Aβ véhiculent principalement les informations de mécanoréception cutanée, notamment tact fin, pression, vibration et mouvement des poils."
+    },
+    {
+      "type": "QCS",
+      "question": "Lorsqu’un axone conduit l’influx de manière saltatoire, quelle description est correcte ?",
+      "choices": [
+        "Le potentiel d’action se propage d’un nœud de Ranvier au suivant.",
+        "La conduction concerne surtout les fibres amyéliniques.",
+        "La propagation est plus lente que la conduction de proche en proche.",
+        "Elle repose sur une destruction préalable de la myéline."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La conduction saltatoire concerne les fibres myélinisées et correspond à une propagation du potentiel d’action d’un nœud de Ranvier au suivant, ce qui augmente la vitesse de conduction."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une variation membranaire postsynaptique centrale d’amplitude variable, quelles caractéristiques orientent vers un potentiel local plutôt que vers un potentiel d’action ?",
+      "choices": [
+        "Elle est graduable selon l’intensité de la stimulation synaptique",
+        "Elle obéit strictement à la loi du tout ou rien",
+        "Elle peut s’installer rapidement puis décroître progressivement",
+        "Elle correspond obligatoirement à une propagation saltatoire entre nœuds de Ranvier"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Les potentiels postsynaptiques centraux sont locaux, graduables, d’installation rapide et de décroissance exponentielle. Ils ne répondent pas à la loi du tout ou rien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes membranaires pouvant diminuer l’excitabilité d’un neurone central, quelles propositions sont exactes ?",
+      "choices": [
+        "Une augmentation de la perméabilité au chlore peut participer à un potentiel postsynaptique inhibiteur",
+        "Une augmentation de la perméabilité au potassium peut stabiliser ou hyperpolariser la membrane",
+        "Un potentiel postsynaptique inhibiteur augmente la probabilité de déclenchement d’un potentiel d’action",
+        "Un potentiel postsynaptique inhibiteur est un potentiel local graduable"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les PPSI sont des potentiels locaux graduables liés souvent à une augmentation de perméabilité au chlore ou au potassium, entraînant hyperpolarisation ou stabilisation membranaire, donc une baisse de la probabilité de potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour qu’un potentiel d’action apparaisse dans un neurone du système nerveux central, quelles conditions ou circonstances sont compatibles avec le texte ?",
+      "choices": [
+        "La dépolarisation doit atteindre le seuil au niveau de la zone gâchette",
+        "La sommation temporelle de potentiels postsynaptiques excitateurs peut y contribuer",
+        "La sommation spatiale de potentiels postsynaptiques excitateurs peut y contribuer",
+        "Le déclenchement se fait habituellement au niveau des récepteurs nicotiniques musculaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel d’action neuronal central apparaît lorsque la dépolarisation atteint le seuil à la zone gâchette, généralement grâce à la sommation spatiale et temporelle de PPSE."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du potentiel de plaque motrice et de ses conséquences, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’un potentiel local graduable de la jonction neuromusculaire",
+        "Il est déclenché par la fixation de l’acétylcholine sur des récepteurs nicotiniques musculaires",
+        "Il provoque directement et systématiquement un potentiel d’action musculaire, indépendamment du seuil",
+        "Il résulte d’une dépolarisation locale principalement liée à une entrée de sodium associée à une sortie de potassium"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel de plaque motrice est local, graduable, déclenché par l’acétylcholine sur les récepteurs nicotiniques. Il dépolarise localement par entrée de Na+ et sortie de K+. Le potentiel d’action musculaire n’apparaît que si le seuil est atteint."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la préparation présynaptique de l’acétylcholine à la jonction neuromusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est synthétisée dans la terminaison axonale",
+        "Elle est formée à partir de choline et d’acétyl-CoA",
+        "Elle est stockée dans des vésicules synaptiques",
+        "Elle est synthétisée dans les fibres musculaires extrafusales avant d’être libérée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À la jonction neuromusculaire, l’acétylcholine est synthétisée dans la terminaison axonale à partir de choline et d’acétyl-CoA, puis stockée dans des vésicules synaptiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les transmissions cholinergiques impliquant des récepteurs nicotiniques, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "La jonction neuromusculaire met en jeu l’acétylcholine sur des récepteurs nicotiniques de la membrane musculaire",
+        "La transmission ganglionnaire autonome est cholinergique",
+        "Dans les ganglions autonomes, l’acétylcholine agit sur des récepteurs nicotiniques",
+        "Les récepteurs nicotiniques de l’acétylcholine sont décrits comme des canaux ioniques pentamériques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte relie la jonction neuromusculaire et la transmission ganglionnaire autonome à l’acétylcholine et aux récepteurs nicotiniques ; les récepteurs nicotiniques sont des canaux ioniques pentamériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour reconnaître une fonction relevant du système nerveux autonome, quelles propositions sont exactes ?",
+      "choices": [
+        "Contrôle de l’activité des muscles lisses",
+        "Contrôle du muscle cardiaque",
+        "Contrôle des glandes",
+        "Commande volontaire directe des muscles striés squelettiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système nerveux autonome contrôle les fonctions viscérales involontaires : muscles lisses, muscle cardiaque et glandes. Il n’assure pas la motricité volontaire des muscles striés squelettiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification anatomofonctionnelle du système nerveux autonome, quelles propositions sont exactes ?",
+      "choices": [
+        "Il appartient au système nerveux périphérique",
+        "Le sympathique a une origine thoraco-lombaire",
+        "Le parasympathique a une origine cranio-sacrée",
+        "Il constitue la voie principale de la motricité volontaire somatique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système nerveux autonome appartient au système nerveux périphérique. Ses deux divisions ont une origine thoraco-lombaire pour le sympathique et cranio-sacrée pour le parasympathique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités sensitives non douloureuses mentionnées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie des colonnes dorsales véhicule la sensibilité tactile épicritique",
+        "La voie des colonnes dorsales véhicule la vibration",
+        "Les fibres Aβ véhiculent principalement le tact fin, la pression, la vibration et le mouvement des poils",
+        "Les fibres Aβ véhiculent principalement la douleur et la température"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les colonnes dorsales véhiculent tact épicritique, vibration et proprioception consciente. Les fibres Aβ véhiculent surtout des informations de mécanoréception cutanée, non principalement la douleur ni la température."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant le potentiel d’action neuronal, quelles propositions décrivent correctement les changements de perméabilité ionique ?",
+      "choices": [
+        "La phase ascendante comporte une perméabilité membranaire au sodium nettement augmentée",
+        "La phase ascendante s’accompagne d’une entrée massive de sodium",
+        "La repolarisation est liée notamment à l’inactivation des canaux sodiques",
+        "La repolarisation est liée à une diminution de la perméabilité au potassium"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase ascendante est due à une forte augmentation de perméabilité au sodium avec entrée massive de Na+. La repolarisation dépend de l’inactivation sodique et de l’augmentation de la perméabilité au potassium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs ralentissant la conduction nerveuse, quelles propositions sont exactes ?",
+      "choices": [
+        "La baisse de température ralentit la conduction nerveuse",
+        "La destruction de la myéline ralentit la conduction nerveuse",
+        "La destruction de la myéline peut entraîner un bloc de conduction",
+        "La baisse de température transforme une fibre amyélinique en fibre myélinisée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que la baisse de température ralentit la conduction. La destruction de la myéline ralentit également la conduction et peut provoquer un bloc de conduction."
+    },
+    {
+      "type": "QCM",
+      "question": "En comparant les deux modes de propagation de l’influx nerveux, quelles propositions sont exactes ?",
+      "choices": [
+        "La conduction de proche en proche concerne surtout les fibres amyéliniques",
+        "La conduction de proche en proche repose sur les courants locaux membranaires",
+        "La conduction saltatoire concerne les fibres myélinisées",
+        "La conduction saltatoire est plus lente que la conduction de proche en proche"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La conduction de proche en proche, surtout amyélinique, repose sur les courants locaux et est plus lente. La conduction saltatoire concerne les fibres myélinisées et augmente la vitesse de conduction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’inhibition récurrente médullaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La cellule de Renshaw est un interneurone inhibiteur de la moelle épinière",
+        "Elle est activée par une collatérale d’un axone de motoneurone alpha",
+        "Elle exerce une inhibition récurrente sur les motoneurones",
+        "Elle constitue l’afférence principale du fuseau neuromusculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cellule de Renshaw est un interneurone inhibiteur médullaire, activé par une collatérale d’un motoneurone alpha, et responsable d’une inhibition récurrente des motoneurones."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les éléments périphériques du contrôle moteur spinal et de la proprioception, quelles propositions sont exactes ?",
+      "choices": [
+        "Les racines rachidiennes antérieures contiennent principalement des fibres efférentes motrices",
+        "Les axones des motoneurones alpha et gamma passent notamment par les racines antérieures",
+        "Les racines rachidiennes postérieures contiennent des fibres afférentes sensitives",
+        "Les corps cellulaires des fibres afférentes sensitives des racines postérieures sont situés dans la corne antérieure"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les racines antérieures sont surtout motrices, avec axones alpha et gamma. Les racines postérieures sont sensitives, avec corps cellulaires dans les ganglions spinaux, non dans la corne antérieure."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit le plus précisément le mécanisme habituel d’un potentiel postsynaptique excitateur central ?",
+      "choices": [
+        "Augmentation de la perméabilité aux cations, notamment au sodium, entraînant une dépolarisation",
+        "Augmentation exclusive de la perméabilité au chlore entraînant une hyperpolarisation",
+        "Inactivation des canaux sodiques suivie d’une sortie de potassium",
+        "Fixation de l’acétylcholine sur la membrane musculaire uniquement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le PPSE résulte le plus souvent d’une augmentation de la perméabilité membranaire aux cations, notamment au sodium, ce qui provoque une dépolarisation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle structure contient les corps cellulaires des fibres afférentes sensitives des racines rachidiennes postérieures ?",
+      "choices": [
+        "La corne antérieure de la moelle épinière",
+        "Les ganglions spinaux",
+        "La plaque motrice",
+        "Les nœuds de Ranvier"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les fibres afférentes sensitives des racines postérieures ont leurs corps cellulaires dans les ganglions spinaux."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’afférence principale du fuseau neuromusculaire selon le texte ?",
+      "choices": [
+        "Les fibres Ia",
+        "Les fibres Aβ",
+        "Les axones des motoneurones alpha",
+        "Les collatérales des cellules de Renshaw"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que les afférences principales du fuseau neuromusculaire sont les fibres Ia."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel rôle est attribué aux motoneurones gamma au niveau du fuseau neuromusculaire ?",
+      "choices": [
+        "Déclencher directement la contraction des fibres musculaires extrafusales",
+        "Régler la sensibilité du fuseau neuromusculaire",
+        "Former la voie des colonnes dorsales",
+        "Assurer la transmission ganglionnaire autonome"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le fuseau neuromusculaire est activé par l’étirement du muscle homonyme et par l’activité des motoneurones gamma, qui règlent sa sensibilité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à l’origine du système nerveux parasympathique ?",
+      "choices": [
+        "Thoraco-lombaire",
+        "Cranio-sacrée",
+        "Strictement cervicale",
+        "Strictement lombaire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le système nerveux parasympathique a une origine cranio-sacrée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement la conduction nerveuse de proche en proche ?",
+      "choices": [
+        "Elle concerne surtout les fibres amyéliniques et repose sur des courants locaux membranaires",
+        "Elle correspond au saut du potentiel d’action d’un nœud de Ranvier au suivant",
+        "Elle est rendue rapide par la myéline",
+        "Elle est plus rapide que la conduction saltatoire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La conduction de proche en proche concerne surtout les fibres amyéliniques, repose sur les courants locaux membranaires et est plus lente que la conduction saltatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les phénomènes décrits dans le texte, lesquels correspondent à des potentiels locaux graduables ?",
+      "choices": [
+        "Le potentiel postsynaptique excitateur",
+        "Le potentiel postsynaptique inhibiteur",
+        "Le potentiel de plaque motrice",
+        "Le potentiel d’action neuronal propagé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les PPSE, les PPSI et le potentiel de plaque motrice sont explicitement décrits comme des potentiels locaux graduables. Le potentiel d’action n’est pas un potentiel local graduable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conditions d’apparition d’un potentiel d’action neuronal central, quelles propositions sont exactes ?",
+      "choices": [
+        "La dépolarisation doit atteindre le seuil au niveau de la zone gâchette",
+        "La sommation spatiale de plusieurs PPSE peut contribuer à atteindre le seuil",
+        "La sommation temporelle de PPSE peut participer au déclenchement",
+        "Un PPSI isolé déclenche habituellement le potentiel d’action"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel d’action apparaît lorsque la dépolarisation atteint le seuil au niveau de la zone gâchette, généralement par sommation spatiale et temporelle de PPSE. Le PPSI diminue au contraire la probabilité de déclenchement."
+    },
+    {
+      "type": "QCM",
+      "question": "Sélectionner les associations mécanisme-conséquence exactes selon le texte.",
+      "choices": [
+        "Augmentation de la perméabilité au sodium lors d’un PPSE : dépolarisation",
+        "Augmentation de la perméabilité au chlore ou au potassium lors d’un PPSI : hyperpolarisation ou stabilisation membranaire",
+        "Entrée de sodium avec sortie de potassium au niveau de la plaque motrice : dépolarisation locale",
+        "Inactivation des canaux sodiques pendant la phase ascendante : entrée massive de sodium"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte associe PPSE et entrée cationique notamment sodique, PPSI et perméabilité au chlore ou potassium, et potentiel de plaque motrice à une entrée de sodium avec sortie de potassium. L’inactivation sodique intervient surtout dans la repolarisation."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des récepteurs nicotiniques de l’acétylcholine mentionnés dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils interviennent dans la transmission ganglionnaire du système nerveux autonome",
+        "Ils sont présents sur la membrane musculaire au niveau de la jonction neuromusculaire",
+        "Ils sont décrits comme des canaux ioniques pentamériques",
+        "Ils sont responsables de la transmission principale de la douleur et de la température"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les récepteurs nicotiniques interviennent à la jonction neuromusculaire et dans la transmission ganglionnaire autonome. Ils sont des canaux ioniques pentamériques. La douleur et la température ne relèvent pas de ces récepteurs dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour classer les modalités sensitives décrites, quelles propositions sont exactes ?",
+      "choices": [
+        "La vibration est véhiculée par la voie des colonnes dorsales",
+        "La proprioception consciente est véhiculée par la voie des colonnes dorsales",
+        "Le tact fin fait partie des informations principalement véhiculées par les fibres Aβ",
+        "La température est principalement véhiculée par les fibres Aβ"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les colonnes dorsales véhiculent le tact épicritique, la vibration et la proprioception consciente. Les fibres Aβ véhiculent notamment le tact fin, mais pas principalement la température."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’organisation motrice périphérique décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "L’unité motrice comprend un motoneurone alpha et les fibres musculaires extrafusales qu’il innerve",
+        "Les racines rachidiennes antérieures contiennent notamment les axones des motoneurones alpha",
+        "Les racines rachidiennes antérieures contiennent notamment les axones des motoneurones gamma",
+        "La voie finale commune du contrôle moteur correspond au motoneurone de la corne antérieure"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions reprennent les éléments moteurs décrits : unité motrice, contenu moteur des racines antérieures et rôle du motoneurone spinal comme voie finale commune."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le circuit impliquant la cellule de Renshaw, quelles propositions sont exactes ?",
+      "choices": [
+        "La cellule de Renshaw est un interneurone inhibiteur médullaire",
+        "Elle est activée par une collatérale d’un axone de motoneurone alpha",
+        "Elle exerce une inhibition récurrente sur les motoneurones",
+        "Elle constitue l’afférence principale du fuseau neuromusculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cellule de Renshaw est un interneurone inhibiteur spinal activé par une collatérale de motoneurone alpha et responsable d’une inhibition récurrente. L’afférence principale du fuseau est la fibre Ia."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments peuvent être retenus concernant la vitesse de conduction nerveuse ?",
+      "choices": [
+        "La destruction de la myéline ralentit la conduction",
+        "La destruction de la myéline peut entraîner un bloc de conduction",
+        "La baisse de température ralentit la conduction nerveuse",
+        "La conduction de proche en proche est plus rapide que la conduction saltatoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La démyélinisation ralentit la conduction et peut provoquer un bloc. La baisse de température ralentit aussi la conduction. La conduction de proche en proche est plus lente que la conduction saltatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour interpréter le contenu fonctionnel des racines rachidiennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Les racines antérieures contiennent principalement des fibres efférentes motrices",
+        "Les racines postérieures contiennent des fibres afférentes sensitives",
+        "Les corps cellulaires des fibres afférentes sensitives des racines postérieures sont situés dans les ganglions spinaux",
+        "Les racines postérieures contiennent principalement les axones des motoneurones alpha et gamma"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les racines antérieures sont principalement motrices efférentes. Les racines postérieures sont sensitives afférentes, avec corps cellulaires dans les ganglions spinaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’intégration des signaux excitateurs et inhibiteurs au niveau neuronal central, quelles propositions sont exactes ?",
+      "choices": [
+        "Les PPSE augmentent la probabilité d’atteindre le seuil lorsqu’ils se somment",
+        "Les PPSI diminuent la probabilité de déclenchement d’un potentiel d’action",
+        "La zone gâchette est le site où le seuil doit être atteint pour initier le potentiel d’action",
+        "Les PPSI sont décrits comme des potentiels répondant à la loi du tout ou rien"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les PPSE peuvent se sommer pour atteindre le seuil à la zone gâchette. Les PPSI diminuent l’excitabilité. Les PPSI sont des potentiels locaux graduables, non décrits comme tout ou rien."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions décrivent correctement les variations de perméabilité ionique mentionnées ?",
+      "choices": [
+        "Pendant la phase ascendante du potentiel d’action, la perméabilité au sodium devient très supérieure à celle au potassium",
+        "La phase ascendante s’accompagne d’une entrée massive de sodium",
+        "La repolarisation dépend de l’inactivation des canaux sodiques",
+        "La repolarisation dépend aussi de l’augmentation de la perméabilité au potassium"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit la phase ascendante comme liée à une forte perméabilité sodique avec entrée massive de sodium, puis la repolarisation comme liée à l’inactivation sodique et à l’augmentation de la perméabilité potassique."
+    },
+    {
+      "type": "QCM",
+      "question": "À la jonction neuromusculaire, quelles étapes sont conformes au texte ?",
+      "choices": [
+        "L’acétylcholine est synthétisée dans la terminaison axonale",
+        "L’acétylcholine est formée à partir de choline et d’acétyl-CoA",
+        "L’acétylcholine est stockée dans des vésicules synaptiques",
+        "La fixation de l’acétylcholine sur les récepteurs nicotiniques peut déclencher un potentiel de plaque motrice"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces étapes sont explicitement indiquées : synthèse présynaptique à partir de choline et d’acétyl-CoA, stockage vésiculaire, puis action sur les récepteurs nicotiniques musculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le système nerveux autonome tel qu’il est décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Il appartient au système nerveux périphérique",
+        "Il contrôle des fonctions viscérales involontaires",
+        "Le système sympathique a une origine thoraco-lombaire",
+        "Le système parasympathique a une origine cranio-sacrée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte rattache le système nerveux autonome au système nerveux périphérique, lui attribue le contrôle viscéral involontaire et précise les origines thoraco-lombaire sympathique et cranio-sacrée parasympathique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fuseau neuromusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un récepteur proprioceptif intramusculaire",
+        "Il est sensible à l’étirement du muscle",
+        "Il est activé par l’étirement du muscle homonyme",
+        "Ses afférences principales sont les fibres Ia"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le fuseau neuromusculaire est un récepteur proprioceptif intramusculaire sensible à l’étirement, activé par l’étirement du muscle homonyme, avec des afférences principales Ia."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle est incompatible avec les propriétés des potentiels postsynaptiques excitateurs ?",
+      "choices": [
+        "Ils sont locaux",
+        "Ils sont graduables",
+        "Ils répondent à la loi du tout ou rien",
+        "Ils ont une durée brève"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les PPSE sont des potentiels locaux graduables, de durée brève, et ne répondent pas à la loi du tout ou rien."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit le mieux le rôle de la myéline dans les fibres myélinisées ?",
+      "choices": [
+        "Elle impose une conduction exclusivement de proche en proche",
+        "Elle favorise la propagation saltatoire entre les nœuds de Ranvier",
+        "Elle ralentit physiologiquement la conduction nerveuse",
+        "Elle transforme les fibres myélinisées en fibres amyéliniques"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans les fibres myélinisées, la myéline permet une conduction rapide en favorisant la propagation saltatoire entre les nœuds de Ranvier."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition attribue à tort une fonction au système nerveux autonome ?",
+      "choices": [
+        "Contrôle de l’activité des muscles lisses",
+        "Contrôle de l’activité du muscle cardiaque",
+        "Contrôle de l’activité des glandes",
+        "Commande volontaire des muscles striés squelettiques"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le système nerveux autonome contrôle des fonctions viscérales involontaires, mais n’assure pas la motricité volontaire des muscles striés squelettiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à une information principalement véhiculée par les fibres Aβ ?",
+      "choices": [
+        "Douleur aiguë",
+        "Température",
+        "Mouvement des poils",
+        "Douleur viscérale"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les fibres Aβ véhiculent principalement des informations de mécanoréception cutanée, dont le tact fin, la pression, la vibration et le mouvement des poils."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le potentiel d’action neuronal, quel événement participe directement à la repolarisation selon le texte ?",
+      "choices": [
+        "Augmentation isolée de la perméabilité membranaire au sodium",
+        "Fixation de l’acétylcholine sur les récepteurs nicotiniques",
+        "Inactivation des canaux sodiques avec augmentation de la perméabilité au potassium",
+        "Sommation spatiale de potentiels de plaque motrice"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La repolarisation est liée à l’inactivation des canaux sodiques et à l’augmentation de la perméabilité au potassium."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé distingue correctement la conduction de proche en proche ?",
+      "choices": [
+        "Elle concerne surtout les fibres amyéliniques",
+        "Elle se fait d’un nœud de Ranvier au suivant",
+        "Elle est plus rapide que la conduction saltatoire",
+        "Elle nécessite la présence de myéline"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La conduction de proche en proche concerne surtout les fibres amyéliniques, repose sur les courants locaux membranaires et est plus lente que la conduction saltatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une dépolarisation postsynaptique centrale qui reste sous le seuil au niveau de la zone gâchette, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle ne déclenche pas de potentiel d’action neuronal.",
+        "Elle peut participer au déclenchement d’un potentiel d’action si elle se somme à d’autres PPSE.",
+        "Elle correspond à un phénomène local graduable lorsqu’il s’agit d’un PPSE.",
+        "Elle obéit nécessairement à la loi du tout ou rien."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel d’action apparaît seulement si le seuil est atteint à la zone gâchette. Les PPSE sont locaux, graduables et peuvent se sommer spatialement et temporellement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution temporelle des potentiels postsynaptiques centraux excitateurs et inhibiteurs, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils s’installent rapidement.",
+        "Ils décroissent progressivement de façon exponentielle.",
+        "Leur durée est brève.",
+        "Ils sont des réponses tout ou rien."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les PPSE et PPSI sont des potentiels locaux graduables, brefs, à installation rapide et décroissance exponentielle ; ils ne sont pas tout ou rien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes membranaires d’un potentiel postsynaptique inhibiteur, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut résulter d’une augmentation de la perméabilité au chlore.",
+        "Il peut résulter d’une augmentation de la perméabilité au potassium.",
+        "Il peut entraîner une hyperpolarisation ou une stabilisation du potentiel membranaire.",
+        "Il augmente la probabilité de déclenchement d’un potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le PPSI diminue l’excitabilité neuronale, souvent par augmentation de perméabilité au chlore ou au potassium, avec hyperpolarisation ou stabilisation membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "En comparant un PPSE central et un potentiel de plaque motrice, quelles propositions sont exactes ?",
+      "choices": [
+        "Tous deux sont des potentiels locaux graduables.",
+        "Tous deux peuvent provoquer une dépolarisation locale.",
+        "Le potentiel de plaque motrice peut déclencher un potentiel d’action musculaire si le seuil est atteint.",
+        "Tous deux correspondent directement à des potentiels d’action tout ou rien."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le PPSE et le potentiel de plaque motrice sont des potentiels locaux graduables. Le potentiel de plaque motrice peut conduire à un potentiel d’action musculaire si le seuil est atteint."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les transmissions cholinergiques nicotiniques décrites, quelles propositions sont exactes ?",
+      "choices": [
+        "La transmission ganglionnaire du système nerveux autonome est médiée par l’acétylcholine agissant sur des récepteurs nicotiniques.",
+        "À la jonction neuromusculaire, les récepteurs nicotiniques sont situés sur la membrane musculaire.",
+        "À la jonction neuromusculaire, l’acétylcholine est synthétisée à partir de choline et d’acétyl-CoA puis stockée dans des vésicules.",
+        "Les récepteurs nicotiniques décrits sont des récepteurs nucléaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit des transmissions cholinergiques nicotiniques au niveau ganglionnaire autonome et neuromusculaire. Les récepteurs nicotiniques sont des canaux ioniques pentamériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effecteurs contrôlés par le système nerveux autonome, quelles propositions sont exactes ?",
+      "choices": [
+        "Les muscles lisses font partie de ses cibles.",
+        "Le muscle cardiaque fait partie de ses cibles.",
+        "Les glandes font partie de ses cibles.",
+        "Il assure la motricité volontaire des muscles striés squelettiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système nerveux autonome contrôle les fonctions viscérales involontaires : muscles lisses, muscle cardiaque et glandes. Il n’assure pas la motricité volontaire squelettique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation anatomofonctionnelle du système nerveux autonome, quelles propositions sont exactes ?",
+      "choices": [
+        "Il appartient au système nerveux périphérique.",
+        "Le système nerveux sympathique a une origine thoraco-lombaire.",
+        "Le système nerveux parasympathique a une origine cranio-sacrée.",
+        "Sa transmission ganglionnaire est exclusivement décrite comme sodique non cholinergique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le SNA appartient au système nerveux périphérique. Le sympathique est thoraco-lombaire, le parasympathique cranio-sacré, et la transmission ganglionnaire est cholinergique nicotinique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités sensitives véhiculées par les colonnes dorsales et les fibres Aβ, quelles propositions sont exactes ?",
+      "choices": [
+        "Les colonnes dorsales véhiculent la sensibilité tactile épicritique.",
+        "Les colonnes dorsales véhiculent la vibration.",
+        "Les fibres Aβ véhiculent principalement le tact fin, la pression, la vibration et le mouvement des poils.",
+        "Les fibres Aβ véhiculent principalement la douleur et la température."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie des colonnes dorsales véhicule tact épicritique, vibration et proprioception consciente. Les fibres Aβ transmettent surtout des informations de mécanoréception cutanée, non la douleur ni la température."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les situations ralentissant ou altérant la conduction nerveuse, quelles propositions sont exactes ?",
+      "choices": [
+        "La destruction de la myéline ralentit la conduction nerveuse.",
+        "La destruction de la myéline peut entraîner un bloc de conduction.",
+        "La baisse de température ralentit la conduction nerveuse.",
+        "La destruction de la myéline accélère la conduction saltatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La myéline accélère la conduction saltatoire ; sa destruction ralentit la conduction et peut provoquer un bloc. La baisse de température ralentit également la conduction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les deux modes de propagation de l’influx nerveux décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "La conduction de proche en proche concerne surtout les fibres amyéliniques.",
+        "La conduction de proche en proche repose sur les courants locaux membranaires.",
+        "La conduction saltatoire concerne les fibres myélinisées et se fait de nœud de Ranvier en nœud de Ranvier.",
+        "La conduction de proche en proche est plus rapide que la conduction saltatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La conduction de proche en proche est surtout amyélinique et lente. La conduction saltatoire est myélinisée, nodale, et plus rapide."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les variations de perméabilité pendant le potentiel d’action neuronal, quelles propositions sont exactes ?",
+      "choices": [
+        "Pendant la phase ascendante, la membrane devient beaucoup plus perméable au sodium qu’au potassium.",
+        "La phase ascendante s’accompagne d’une entrée massive de sodium.",
+        "La repolarisation implique l’inactivation des canaux sodiques et l’augmentation de la perméabilité au potassium.",
+        "La repolarisation est principalement expliquée par une entrée massive de chlore selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La dépolarisation rapide est liée à l’entrée de sodium. La repolarisation résulte de l’inactivation sodique et de l’augmentation de perméabilité au potassium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’inhibition récurrente médullaire impliquant la cellule de Renshaw, quelles propositions sont exactes ?",
+      "choices": [
+        "La cellule de Renshaw est un interneurone inhibiteur de la moelle épinière.",
+        "Elle est activée par une collatérale d’un axone de motoneurone alpha.",
+        "Elle exerce une inhibition récurrente sur les motoneurones.",
+        "Elle correspond au corps cellulaire des fibres sensitives des racines postérieures."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cellule de Renshaw est un interneurone médullaire inhibiteur activé par une collatérale de motoneurone alpha et responsable d’une inhibition récurrente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le contenu fonctionnel des racines rachidiennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Les racines rachidiennes antérieures contiennent principalement des fibres efférentes motrices.",
+        "Les racines antérieures contiennent notamment les axones des motoneurones alpha et gamma.",
+        "Les racines postérieures contiennent des fibres afférentes sensitives dont les corps cellulaires sont dans les ganglions spinaux.",
+        "Les racines postérieures contiennent principalement les axones des motoneurones alpha."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les racines antérieures sont principalement motrices efférentes. Les racines postérieures sont sensitives afférentes, avec corps cellulaires dans les ganglions spinaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fuseau neuromusculaire et sa régulation, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un récepteur proprioceptif intramusculaire sensible à l’étirement.",
+        "Il est activé par l’étirement du muscle homonyme.",
+        "Son activité peut être influencée par les motoneurones gamma, qui règlent sa sensibilité.",
+        "Ses afférences principales sont les fibres Ia."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le fuseau neuromusculaire est un récepteur proprioceptif intramusculaire sensible à l’étirement, activé par l’étirement du muscle homonyme et modulé par les motoneurones gamma. Ses afférences principales sont Ia."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans un neurone du système nerveux central, quel site est déterminant pour l’apparition du potentiel d’action lorsque la dépolarisation atteint le seuil ?",
+      "choices": [
+        "La zone gâchette",
+        "La plaque motrice",
+        "Le ganglion spinal",
+        "Le fuseau neuromusculaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le potentiel d’action neuronal apparaît lorsque la dépolarisation atteint le seuil au niveau de la zone gâchette."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel enchaînement correspond le mieux au mécanisme du potentiel de plaque motrice ?",
+      "choices": [
+        "Fixation de l’acétylcholine sur des récepteurs nicotiniques, entrée principale de sodium avec sortie de potassium, puis dépolarisation locale",
+        "Fixation de dopamine sur la membrane musculaire, entrée de chlore, puis hyperpolarisation",
+        "Activation des motoneurones gamma, sortie de sodium, puis bloc de conduction",
+        "Augmentation isolée de la perméabilité au potassium, puis dépolarisation tout ou rien immédiate"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le potentiel de plaque motrice est déclenché par l’acétylcholine sur les récepteurs nicotiniques, avec entrée principale de sodium, sortie de potassium et dépolarisation locale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement l’unité motrice selon le texte ?",
+      "choices": [
+        "Un motoneurone gamma et les fibres intrafusales qu’il module",
+        "Un motoneurone alpha et toutes les fibres musculaires extrafusales qu’il innerve",
+        "Une racine postérieure et son ganglion spinal",
+        "Une cellule de Renshaw et les motoneurones qu’elle inhibe"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’unité motrice est constituée d’un motoneurone alpha et de toutes les fibres musculaires extrafusales qu’il innerve."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à une information principalement véhiculée par les fibres Aβ ?",
+      "choices": [
+        "Température cutanée",
+        "Douleur aiguë",
+        "Tact fin",
+        "Activité glandulaire viscérale"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les fibres Aβ véhiculent principalement des informations de mécanoréception cutanée comme le tact fin, la pression, la vibration et le mouvement des poils."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise correctement les récepteurs nicotiniques de l’acétylcholine décrits dans le texte ?",
+      "choices": [
+        "Ce sont des canaux ioniques pentamériques.",
+        "Ce sont des enzymes cytoplasmiques de synthèse de l’acétylcholine.",
+        "Ce sont des protéines de la myéline responsables de la conduction saltatoire.",
+        "Ce sont des corps cellulaires sensitifs situés dans les ganglions spinaux."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que les récepteurs nicotiniques de l’acétylcholine sont des canaux ioniques pentamériques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle structure correspond à la voie finale commune du contrôle moteur ?",
+      "choices": [
+        "Le motoneurone de la corne antérieure de la moelle épinière",
+        "La cellule de Renshaw",
+        "Le ganglion spinal",
+        "La fibre Aβ cutanée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La voie finale commune du contrôle moteur correspond au motoneurone de la corne antérieure, dont l’axone innerve les fibres musculaires extrafusales."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un neurone central recevant une dépolarisation postsynaptique insuffisante isolément, quels mécanismes peuvent favoriser l’atteinte du seuil à la zone gâchette ?",
+      "choices": [
+        "La sommation temporelle de potentiels postsynaptiques excitateurs rapprochés",
+        "La sommation spatiale de plusieurs potentiels postsynaptiques excitateurs",
+        "L’association à des potentiels postsynaptiques inhibiteurs augmentant la perméabilité au chlore ou au potassium",
+        "Une augmentation locale de la perméabilité aux cations, notamment au sodium"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel d’action central apparaît lorsque la dépolarisation atteint le seuil à la zone gâchette, généralement par sommation spatiale et temporelle de PPSE. Les PPSI diminuent au contraire cette probabilité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant un phénomène postsynaptique central responsable d’une stabilisation ou d’une hyperpolarisation membranaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut résulter d’une augmentation de la perméabilité membranaire au chlore",
+        "Il peut résulter d’une augmentation de la perméabilité membranaire au potassium",
+        "Il diminue la probabilité de déclenchement d’un potentiel d’action",
+        "Il repose principalement sur une entrée massive de sodium"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un PPSI est un potentiel local graduable lié souvent à une augmentation de perméabilité au chlore ou au potassium, entraînant hyperpolarisation ou stabilisation membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À la jonction neuromusculaire, quelles étapes appartiennent à la transmission cholinergique décrite ?",
+      "choices": [
+        "La synthèse de l’acétylcholine dans la terminaison axonale",
+        "La formation de l’acétylcholine à partir de choline et d’acétyl-CoA",
+        "Le stockage de l’acétylcholine dans des vésicules synaptiques",
+        "La synthèse principale de l’acétylcholine dans la fibre musculaire extrafusale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’acétylcholine est synthétisée dans la terminaison axonale à partir de choline et d’acétyl-CoA, puis stockée dans des vésicules synaptiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le potentiel local déclenché au niveau de la plaque motrice, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est induit par la fixation de l’acétylcholine sur des récepteurs nicotiniques musculaires",
+        "Il résulte principalement d’une entrée de sodium",
+        "Il est associé à une sortie de potassium",
+        "Il correspond directement à un potentiel d’action musculaire selon la loi du tout ou rien"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel de plaque motrice est un potentiel local graduable provoqué par l’acétylcholine sur les récepteurs nicotiniques ; il associe surtout entrée de sodium et sortie de potassium."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des récepteurs nicotiniques de l’acétylcholine mentionnés dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont présents sur la membrane musculaire au niveau de la jonction neuromusculaire",
+        "Ils interviennent dans la transmission ganglionnaire du système nerveux autonome",
+        "Ils sont des canaux ioniques pentamériques",
+        "Ils sont absents de la transmission ganglionnaire autonome"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les récepteurs nicotiniques sont des canaux ioniques pentamériques impliqués à la jonction neuromusculaire et dans la transmission ganglionnaire autonome."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour différencier contrôle viscéral autonome et contrôle moteur somatique décrit dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système nerveux autonome contrôle notamment les glandes",
+        "Le système nerveux autonome ne commande pas la motricité volontaire des muscles striés squelettiques",
+        "La voie finale commune motrice correspond à un motoneurone de la corne antérieure",
+        "L’unité motrice est constituée par un motoneurone gamma et les fibres intrafusales qu’il innerve"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système nerveux autonome contrôle les fonctions viscérales involontaires. La voie finale commune motrice est le motoneurone de la corne antérieure ; l’unité motrice implique un motoneurone alpha et des fibres extrafusales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation fonctionnelle des racines rachidiennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Les racines antérieures contiennent principalement des fibres efférentes motrices",
+        "Les racines antérieures comprennent notamment les axones des motoneurones alpha et gamma",
+        "Les racines postérieures contiennent des fibres afférentes sensitives",
+        "Les corps cellulaires des fibres sensitives des racines postérieures sont situés dans la corne antérieure"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les racines antérieures sont surtout motrices efférentes. Les racines postérieures sont sensitives afférentes, avec corps cellulaires dans les ganglions spinaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fuseau neuromusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un récepteur proprioceptif intramusculaire",
+        "Il est sensible à l’étirement du muscle",
+        "Son activation peut dépendre de l’étirement du muscle homonyme",
+        "Ses afférences principales sont les fibres C"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fuseau neuromusculaire est un récepteur proprioceptif intramusculaire sensible à l’étirement, activé par l’étirement du muscle homonyme. Ses afférences principales sont les fibres Ia."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le circuit médullaire impliquant la cellule de Renshaw, quelles propositions sont exactes ?",
+      "choices": [
+        "La cellule de Renshaw est un interneurone inhibiteur",
+        "Elle est située dans la moelle épinière",
+        "Elle est activée par une collatérale d’un axone de motoneurone alpha",
+        "Elle assure une excitation récurrente des motoneurones"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cellule de Renshaw est un interneurone inhibiteur médullaire activé par une collatérale d’un axone de motoneurone alpha ; elle exerce une inhibition récurrente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les informations sensitives non douloureuses décrites, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie des colonnes dorsales véhicule la sensibilité tactile épicritique",
+        "La voie des colonnes dorsales véhicule la vibration",
+        "Les fibres Aβ véhiculent principalement la pression et le tact fin",
+        "Les fibres Aβ véhiculent principalement la douleur thermique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les colonnes dorsales véhiculent tact épicritique, vibration et proprioception consciente. Les fibres Aβ véhiculent surtout la mécanoréception cutanée, non la douleur ni la température."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant le potentiel d’action neuronal, quelles propositions sont conformes aux variations de perméabilité décrites ?",
+      "choices": [
+        "La phase ascendante est liée à une forte augmentation de la perméabilité au sodium",
+        "Pendant la phase ascendante, la membrane devient beaucoup plus perméable au sodium qu’au potassium",
+        "La repolarisation implique l’inactivation des canaux sodiques",
+        "La repolarisation est due uniquement à la persistance d’une entrée massive de sodium"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase ascendante correspond à une entrée massive de sodium. La repolarisation dépend de l’inactivation des canaux sodiques et de l’augmentation de la perméabilité au potassium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modes de propagation de l’influx nerveux, quelles propositions sont exactes ?",
+      "choices": [
+        "La conduction saltatoire concerne les fibres myélinisées",
+        "Dans la conduction saltatoire, le potentiel d’action se propage d’un nœud de Ranvier au suivant",
+        "La conduction de proche en proche repose sur des courants locaux membranaires",
+        "La conduction de proche en proche est plus rapide que la conduction saltatoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La conduction saltatoire, propre aux fibres myélinisées, est rapide et se fait de nœud en nœud. La conduction de proche en proche est plus lente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs capables d’altérer la vitesse de conduction nerveuse, quelles propositions sont exactes ?",
+      "choices": [
+        "La destruction de la myéline ralentit la conduction nerveuse",
+        "La destruction de la myéline peut entraîner un bloc de conduction",
+        "La baisse de température ralentit la conduction nerveuse",
+        "La baisse de température accélère la propagation saltatoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La démyélinisation ralentit la conduction et peut provoquer un bloc. La baisse de température ralentit également la conduction nerveuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation du système nerveux autonome décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système nerveux sympathique a une origine thoraco-lombaire",
+        "Le système nerveux parasympathique a une origine cranio-sacrée",
+        "La transmission ganglionnaire autonome est cholinergique nicotinique",
+        "Le système nerveux autonome appartient exclusivement au système nerveux central"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le sympathique est thoraco-lombaire, le parasympathique cranio-sacré. La transmission ganglionnaire autonome est cholinergique via des récepteurs nicotiniques. Le SNA appartient au système nerveux périphérique."
+    },
+    {
+      "type": "QCS",
+      "question": "À la jonction neuromusculaire, dans quel compartiment l’acétylcholine est-elle stockée avant d’agir sur la membrane musculaire ?",
+      "choices": [
+        "Dans des vésicules synaptiques",
+        "Dans le noyau de la fibre musculaire",
+        "Dans les ganglions spinaux",
+        "Dans les nœuds de Ranvier"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Après sa synthèse dans la terminaison axonale, l’acétylcholine est stockée dans des vésicules synaptiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel potentiel local est caractérisé par une entrée principale de sodium associée à une sortie de potassium après fixation de l’acétylcholine ?",
+      "choices": [
+        "Le potentiel postsynaptique inhibiteur central",
+        "Le potentiel de repos neuronal",
+        "Le potentiel de plaque motrice",
+        "Le potentiel d’action saltatoire"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le potentiel de plaque motrice résulte principalement d’une entrée de sodium associée à une sortie de potassium, provoquant une dépolarisation locale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément règle la sensibilité du fuseau neuromusculaire selon le texte ?",
+      "choices": [
+        "L’activité des motoneurones gamma",
+        "L’inactivation des canaux sodiques",
+        "La cellule de Renshaw seule",
+        "La transmission ganglionnaire autonome"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les motoneurones gamma règlent la sensibilité du fuseau neuromusculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une fibre myélinisée, entre quelles structures le potentiel d’action se propage-t-il lors de la conduction saltatoire ?",
+      "choices": [
+        "Entre deux ganglions spinaux",
+        "Entre deux nœuds de Ranvier",
+        "Entre deux plaques motrices",
+        "Entre deux cellules de Renshaw"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans la conduction saltatoire, le potentiel d’action se propage d’un nœud de Ranvier au suivant."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans un neurone central, quelle conséquence directe survient lorsque la dépolarisation atteint le seuil au niveau de la zone gâchette ?",
+      "choices": [
+        "Une hyperpolarisation inhibitrice obligatoire",
+        "Le déclenchement d’un potentiel d’action neuronal",
+        "La synthèse d’acétylcholine à partir de potassium",
+        "La formation d’un ganglion spinal"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le potentiel d’action d’un neurone central apparaît lorsque la dépolarisation atteint le seuil au niveau de la zone gâchette."
+    },
+    {
+      "type": "QCS",
+      "question": "Au sein de l’unité motrice décrite, quel neurone innerve les fibres musculaires extrafusales ?",
+      "choices": [
+        "Le motoneurone alpha",
+        "Le motoneurone gamma exclusivement",
+        "La cellule de Renshaw",
+        "Le neurone sensitif du ganglion spinal"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’unité motrice est constituée par un motoneurone alpha et toutes les fibres musculaires extrafusales qu’il innerve."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une synapse centrale, une augmentation de la perméabilité membranaire aux cations, notamment au sodium, peut correspondre à quelles caractéristiques fonctionnelles ?",
+      "choices": [
+        "Une dépolarisation locale de la membrane postsynaptique",
+        "Un phénomène graduable susceptible de participer à une sommation",
+        "Un phénomène obéissant obligatoirement à la loi du tout ou rien",
+        "Un mécanisme habituel de potentiel postsynaptique excitateur"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le PPSE est un potentiel local graduable, souvent lié à une augmentation de perméabilité aux cations, surtout au sodium, entraînant une dépolarisation. Il ne répond pas à la loi du tout ou rien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant un potentiel postsynaptique inhibiteur central, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut résulter d’une augmentation de la perméabilité au chlore",
+        "Il peut résulter d’une augmentation de la perméabilité au potassium",
+        "Il diminue la probabilité de déclenchement d’un potentiel d’action",
+        "Il correspond à une dépolarisation obligatoire par entrée massive de sodium"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le PPSI est souvent lié à une perméabilité accrue au chlore ou au potassium, entraînant hyperpolarisation ou stabilisation membranaire, ce qui diminue la probabilité de potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "En comparant le potentiel de plaque motrice et les potentiels postsynaptiques excitateurs centraux, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potentiel de plaque motrice est un potentiel local graduable",
+        "Le potentiel de plaque motrice est déclenché par l’acétylcholine sur des récepteurs nicotiniques musculaires",
+        "Les PPSE centraux résultent le plus souvent d’une augmentation de perméabilité aux cations",
+        "Les PPSE centraux déclenchent directement un potentiel d’action musculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel de plaque motrice est local et graduable, déclenché par l’acétylcholine sur les récepteurs nicotiniques musculaires. Les PPSE centraux concernent le neurone et participent au déclenchement d’un potentiel d’action neuronal si le seuil est atteint."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des transmissions cholinergiques nicotiniques décrites, quelles propositions sont exactes ?",
+      "choices": [
+        "La jonction neuromusculaire utilise l’acétylcholine comme médiateur",
+        "La transmission ganglionnaire du système nerveux autonome est cholinergique",
+        "Les récepteurs nicotiniques de l’acétylcholine sont des canaux ioniques pentamériques",
+        "La transmission ganglionnaire autonome assure la motricité volontaire des muscles striés squelettiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’acétylcholine agit sur des récepteurs nicotiniques à la jonction neuromusculaire et dans les ganglions autonomes. Ces récepteurs sont des canaux ioniques pentamériques. La motricité volontaire squelettique ne relève pas du système nerveux autonome."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le champ fonctionnel du système nerveux autonome, quelles propositions sont exactes ?",
+      "choices": [
+        "Il appartient au système nerveux périphérique",
+        "Il contrôle des fonctions viscérales involontaires",
+        "Il intervient dans l’activité des muscles lisses, du muscle cardiaque et des glandes",
+        "Il assure la motricité volontaire des muscles striés squelettiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système nerveux autonome est périphérique et contrôle les fonctions viscérales involontaires : muscles lisses, muscle cardiaque et glandes. Il n’assure pas la motricité volontaire des muscles striés squelettiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation sympathique et parasympathique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système nerveux sympathique a une origine thoraco-lombaire",
+        "Le système nerveux parasympathique a une origine cranio-sacrée",
+        "La transmission ganglionnaire autonome met en jeu l’acétylcholine",
+        "Le système parasympathique a une origine exclusivement thoraco-lombaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le sympathique est thoraco-lombaire, le parasympathique cranio-sacré. La transmission ganglionnaire autonome est cholinergique nicotinique."
+    },
+    {
+      "type": "QCM",
+      "question": "En confrontant les colonnes dorsales et les fibres Aβ, quelles propositions sont exactes ?",
+      "choices": [
+        "La vibration est une modalité mentionnée pour la voie des colonnes dorsales et pour les fibres Aβ",
+        "La proprioception consciente est véhiculée par la voie des colonnes dorsales",
+        "Les fibres Aβ véhiculent principalement la douleur et la température",
+        "Les fibres Aβ participent principalement à la mécanoréception cutanée"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les colonnes dorsales véhiculent tact épicritique, vibration et proprioception consciente. Les fibres Aβ véhiculent surtout tact fin, pression, vibration et mouvement des poils, mais pas principalement douleur ni température."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs et modes de conduction nerveuse, quelles propositions sont exactes ?",
+      "choices": [
+        "La conduction saltatoire concerne les fibres myélinisées",
+        "La conduction de proche en proche concerne surtout les fibres amyéliniques",
+        "La destruction de la myéline peut provoquer un bloc de conduction",
+        "La baisse de température accélère la conduction nerveuse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La conduction saltatoire est propre aux fibres myélinisées, alors que la conduction de proche en proche est surtout amyélinique et plus lente. La démyélinisation ralentit la conduction et peut la bloquer. Le froid la ralentit."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant le potentiel d’action neuronal, quelles propositions sont conformes aux mécanismes ioniques décrits ?",
+      "choices": [
+        "La phase ascendante comporte une forte augmentation relative de la perméabilité au sodium",
+        "La phase ascendante s’accompagne d’une entrée massive de sodium",
+        "La repolarisation implique l’inactivation des canaux sodiques",
+        "La repolarisation est due au maintien prédominant d’une perméabilité sodique élevée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase ascendante est liée à une perméabilité au sodium beaucoup plus importante que celle au potassium, avec entrée massive de sodium. La repolarisation dépend de l’inactivation sodique et de l’augmentation de la perméabilité potassique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cellule de Renshaw, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un interneurone inhibiteur de la moelle épinière",
+        "Elle est activée par une collatérale d’un axone de motoneurone alpha",
+        "Elle exerce une inhibition récurrente sur les motoneurones",
+        "Elle correspond au corps cellulaire d’une fibre sensitive dans le ganglion spinal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cellule de Renshaw est un interneurone inhibiteur médullaire activé par une collatérale d’un axone de motoneurone alpha ; elle exerce une inhibition récurrente sur les motoneurones."
+    },
+    {
+      "type": "QCM",
+      "question": "En reliant racines rachidiennes, unité motrice et voie finale commune, quelles propositions sont exactes ?",
+      "choices": [
+        "Les racines rachidiennes antérieures contiennent notamment des axones de motoneurones alpha et gamma",
+        "Les racines rachidiennes postérieures contiennent des fibres afférentes sensitives",
+        "L’unité motrice associe un motoneurone alpha aux fibres musculaires extrafusales qu’il innerve",
+        "La voie finale commune du contrôle moteur correspond au motoneurone de la corne antérieure"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les racines antérieures sont principalement motrices efférentes, les postérieures sensitives afférentes. L’unité motrice est formée par un motoneurone alpha et ses fibres extrafusales. Le motoneurone de la corne antérieure représente la voie finale commune."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fuseau neuromusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un récepteur proprioceptif intramusculaire",
+        "Il est sensible à l’étirement du muscle",
+        "Son activation peut être liée à l’activité des motoneurones gamma",
+        "Ses afférences principales sont les fibres Aβ"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fuseau neuromusculaire est un récepteur proprioceptif intramusculaire sensible à l’étirement. Il est activé par l’étirement du muscle homonyme et par les motoneurones gamma. Ses afférences principales sont les fibres Ia."
+    },
+    {
+      "type": "QCM",
+      "question": "À la jonction neuromusculaire, quelles propositions décrivent correctement le devenir de l’acétylcholine et l’effet postsynaptique ?",
+      "choices": [
+        "L’acétylcholine est synthétisée dans la terminaison axonale",
+        "Elle est formée à partir de choline et d’acétyl-CoA",
+        "Elle est stockée dans des vésicules synaptiques",
+        "Son action provoque principalement une entrée de chlore responsable d’une hyperpolarisation musculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À la jonction neuromusculaire, l’acétylcholine est synthétisée dans la terminaison axonale à partir de choline et d’acétyl-CoA, puis stockée en vésicules. Son effet provoque surtout une entrée de sodium associée à une sortie de potassium, entraînant une dépolarisation locale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’atteinte du seuil dans les tissus nerveux et musculaire décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans le neurone central, le potentiel d’action apparaît si la dépolarisation atteint le seuil à la zone gâchette",
+        "Dans le neurone central, l’atteinte du seuil résulte généralement d’une sommation spatiale et temporelle de plusieurs PPSE",
+        "À la plaque motrice, si le seuil est atteint, un potentiel d’action musculaire est déclenché",
+        "Un PPSI augmente directement la probabilité de déclenchement d’un potentiel d’action"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le neurone central déclenche un potentiel d’action lorsque le seuil est atteint à la zone gâchette, souvent par sommation des PPSE. À la jonction neuromusculaire, le potentiel de plaque peut déclencher un potentiel d’action musculaire si le seuil est atteint. Le PPSI diminue cette probabilité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé correspond le mieux au mécanisme d’un potentiel postsynaptique inhibiteur central ?",
+      "choices": [
+        "Augmentation de la perméabilité au sodium entraînant une dépolarisation",
+        "Augmentation de la perméabilité au chlore ou au potassium entraînant hyperpolarisation ou stabilisation membranaire",
+        "Fixation de l’acétylcholine sur les récepteurs nicotiniques musculaires",
+        "Entrée massive de sodium pendant la phase ascendante du potentiel d’action"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le PPSI résulte souvent d’une augmentation de perméabilité au chlore ou au potassium, responsable d’une hyperpolarisation ou d’une stabilisation du potentiel membranaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle combinaison de modalités correspond à la voie des colonnes dorsales selon le texte ?",
+      "choices": [
+        "Douleur, température et tact grossier",
+        "Tact épicritique, vibration et proprioception consciente",
+        "Tact fin, douleur et mouvement des poils",
+        "Pression, température et douleur"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La voie des colonnes dorsales véhicule la sensibilité tactile épicritique, la vibration et la proprioception consciente."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise correctement la conduction nerveuse de proche en proche ?",
+      "choices": [
+        "Elle concerne surtout les fibres amyéliniques et repose sur les courants locaux membranaires",
+        "Elle correspond au saut du potentiel d’action d’un nœud de Ranvier au suivant",
+        "Elle est plus rapide que la conduction saltatoire",
+        "Elle nécessite la présence d’une gaine de myéline intacte"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La conduction de proche en proche concerne surtout les fibres amyéliniques, repose sur les courants locaux membranaires et est plus lente que la conduction saltatoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association concernant les racines rachidiennes est exacte ?",
+      "choices": [
+        "Racine antérieure : fibres afférentes sensitives à corps cellulaires ganglionnaires",
+        "Racine postérieure : fibres efférentes motrices alpha et gamma",
+        "Racine postérieure : fibres afférentes sensitives dont les corps cellulaires sont dans les ganglions spinaux",
+        "Racine antérieure : afférences proprioceptives principales du fuseau neuromusculaire"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les racines postérieures contiennent des fibres afférentes sensitives dont les corps cellulaires sont situés dans les ganglions spinaux. Les racines antérieures sont principalement motrices efférentes."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une fibre myélinisée normale, quel mécanisme explique l’augmentation de la vitesse de conduction ?",
+      "choices": [
+        "Propagation du potentiel d’action d’un nœud de Ranvier au suivant",
+        "Propagation continue sur toute la membrane axonale sans interruption",
+        "Blocage de la perméabilité potassique pendant toute la conduction",
+        "Transmission directe par les fibres Aβ de la douleur et de la température"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans les fibres myélinisées, la conduction est saltatoire : le potentiel d’action se propage d’un nœud de Ranvier au suivant, ce qui augmente la vitesse de conduction."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé définit le mieux la voie finale commune du contrôle moteur décrite ?",
+      "choices": [
+        "Le fuseau neuromusculaire activé par les fibres Ia",
+        "Le motoneurone de la corne antérieure dont l’axone innerve les fibres musculaires extrafusales",
+        "La cellule de Renshaw exerçant une inhibition récurrente",
+        "La racine postérieure contenant les corps cellulaires sensitifs"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La voie finale commune du contrôle moteur correspond au motoneurone de la corne antérieure de la moelle épinière, dont l’axone innerve les fibres musculaires extrafusales."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les phénomènes électriques décrits, lesquels sont explicitement des potentiels locaux graduables ?",
+      "choices": [
+        "Le potentiel postsynaptique excitateur central",
+        "Le potentiel postsynaptique inhibiteur central",
+        "Le potentiel de plaque motrice",
+        "Le potentiel d’action neuronal central"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les PPSE, les PPSI et le potentiel de plaque motrice sont des potentiels locaux graduables. Le potentiel d’action n’est pas un potentiel local graduable."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une réponse postsynaptique centrale brève diminuant l’excitabilité neuronale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut résulter d’une augmentation de perméabilité au chlore",
+        "Elle peut résulter d’une augmentation de perméabilité au potassium",
+        "Elle diminue la probabilité de déclenchement d’un potentiel d’action",
+        "Elle correspond nécessairement à une entrée massive de sodium"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le PPSI est lié souvent à une augmentation de perméabilité au chlore ou au potassium, entraînant hyperpolarisation ou stabilisation membranaire, ce qui réduit la probabilité de potentiel d’action. L’entrée massive de sodium relève de la phase ascendante du potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un neurone central soumis à plusieurs signaux excitateurs insuffisants isolément, quels éléments favorisent l’apparition d’un potentiel d’action ?",
+      "choices": [
+        "La sommation temporelle des potentiels postsynaptiques excitateurs",
+        "La sommation spatiale des potentiels postsynaptiques excitateurs",
+        "L’atteinte du seuil au niveau de la zone gâchette",
+        "Le caractère tout ou rien de chaque potentiel postsynaptique excitateur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel d’action apparaît lorsque la dépolarisation atteint le seuil à la zone gâchette, généralement par sommation spatiale et temporelle des PPSE. Les PPSE sont graduables et ne répondent pas à la loi du tout ou rien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les récepteurs nicotiniques cités dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils interviennent dans la transmission ganglionnaire du système nerveux autonome",
+        "Ils sont activés par l’acétylcholine",
+        "Ils sont décrits comme des canaux ioniques pentamériques",
+        "Ils assurent directement la motricité volontaire des muscles striés squelettiques au niveau autonome"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les récepteurs nicotiniques de l’acétylcholine sont des canaux ioniques pentamériques. Ils interviennent à la jonction neuromusculaire et dans la transmission ganglionnaire autonome. Le système nerveux autonome n’assure pas la motricité volontaire des muscles striés squelettiques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la préparation de l’acétylcholine à la jonction neuromusculaire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle est synthétisée dans la terminaison axonale",
+        "Sa synthèse utilise la choline et l’acétyl-CoA",
+        "Elle est stockée dans des vésicules synaptiques",
+        "Elle est synthétisée dans les fibres musculaires extrafusales"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À la jonction neuromusculaire, l’acétylcholine est synthétisée dans la terminaison axonale à partir de choline et d’acétyl-CoA, puis stockée dans des vésicules synaptiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les motoneurones alpha et gamma mentionnés dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les axones des motoneurones alpha appartiennent aux fibres efférentes des racines antérieures",
+        "Les axones des motoneurones gamma appartiennent aux fibres efférentes des racines antérieures",
+        "Le motoneurone alpha entre dans la définition de l’unité motrice",
+        "Les motoneurones gamma règlent la sensibilité du fuseau neuromusculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les racines antérieures contiennent notamment les axones des motoneurones alpha et gamma. L’unité motrice comprend un motoneurone alpha et les fibres extrafusales qu’il innerve. Les motoneurones gamma règlent la sensibilité du fuseau neuromusculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour caractériser les racines rachidiennes postérieures selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles contiennent des fibres afférentes sensitives",
+        "Les corps cellulaires de leurs fibres sensitives sont situés dans les ganglions spinaux",
+        "Elles contiennent principalement les axones des motoneurones alpha",
+        "Elles constituent principalement une voie efférente motrice"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les racines rachidiennes postérieures contiennent des fibres afférentes sensitives dont les corps cellulaires sont situés dans les ganglions spinaux. Les axones des motoneurones alpha et gamma sont dans les racines antérieures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fuseau neuromusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un récepteur proprioceptif intramusculaire",
+        "Il est sensible à l’étirement du muscle",
+        "Il peut être activé par l’étirement du muscle homonyme",
+        "Ses afférences principales sont les fibres Ia"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le fuseau neuromusculaire est un récepteur proprioceptif intramusculaire sensible à l’étirement. Il est activé par l’étirement du muscle homonyme, et ses afférences principales sont les fibres Ia."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les informations sensitives non douloureuses décrites, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie des colonnes dorsales véhicule la sensibilité tactile épicritique",
+        "La voie des colonnes dorsales véhicule la vibration et la proprioception consciente",
+        "Les fibres Aβ véhiculent principalement la douleur et la température",
+        "Les fibres Aβ participent à la mécanoréception cutanée, dont le tact fin et la pression"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les colonnes dorsales véhiculent tact épicritique, vibration et proprioception consciente. Les fibres Aβ véhiculent surtout tact fin, pression, vibration et mouvement des poils, et non principalement douleur ou température."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des modalités de conduction nerveuse et de leurs déterminants, quelles propositions sont exactes ?",
+      "choices": [
+        "La conduction de proche en proche concerne surtout les fibres amyéliniques",
+        "La conduction saltatoire concerne les fibres myélinisées",
+        "La baisse de température ralentit la conduction nerveuse",
+        "La destruction de la myéline peut entraîner un bloc de conduction"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La conduction de proche en proche est surtout amyélinique et plus lente. La conduction saltatoire concerne les fibres myélinisées. La baisse de température ralentit la conduction, et la destruction de la myéline peut provoquer un bloc."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant le potentiel d’action neuronal, quelles propositions sont conformes aux mécanismes ioniques décrits ?",
+      "choices": [
+        "La phase ascendante comporte une augmentation majeure de perméabilité au sodium",
+        "La phase ascendante entraîne une entrée massive de sodium",
+        "La repolarisation implique l’inactivation des canaux sodiques",
+        "La repolarisation est liée exclusivement à une diminution de perméabilité au potassium"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pendant la phase ascendante, la membrane devient beaucoup plus perméable au sodium, entraînant une entrée massive de sodium. La repolarisation dépend de l’inactivation des canaux sodiques et de l’augmentation de la perméabilité au potassium."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour délimiter le champ du système nerveux autonome tel qu’il est décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Il appartient au système nerveux périphérique",
+        "Il contrôle des fonctions viscérales involontaires",
+        "Il intervient dans l’activité des muscles lisses, du muscle cardiaque et des glandes",
+        "Il assure la motricité volontaire des muscles striés squelettiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système nerveux autonome appartient au système nerveux périphérique et contrôle les fonctions viscérales involontaires, notamment muscles lisses, muscle cardiaque et glandes. Il n’assure pas la motricité volontaire des muscles striés squelettiques."
+    },
+    {
+      "type": "QCM",
+      "question": "En distinguant unité motrice et voie finale commune du contrôle moteur, quelles propositions sont exactes ?",
+      "choices": [
+        "L’unité motrice associe un motoneurone alpha à toutes les fibres musculaires extrafusales qu’il innerve",
+        "La voie finale commune correspond au motoneurone de la corne antérieure médullaire",
+        "L’axone de la voie finale commune innerve les fibres musculaires extrafusales",
+        "L’unité motrice est définie par un motoneurone gamma et les fibres sensitives Ia"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’unité motrice comprend un motoneurone alpha et les fibres musculaires extrafusales qu’il innerve. La voie finale commune correspond au motoneurone de la corne antérieure dont l’axone innerve les fibres extrafusales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le potentiel de plaque motrice à la jonction neuromusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est déclenché par la fixation de l’acétylcholine sur des récepteurs nicotiniques",
+        "Il résulte principalement d’une entrée de sodium associée à une sortie de potassium",
+        "Il provoque une dépolarisation locale",
+        "Il répond par lui-même à la loi du tout ou rien"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel de plaque motrice est un potentiel local graduable déclenché par l’acétylcholine sur les récepteurs nicotiniques. Il résulte surtout d’une entrée de sodium avec sortie de potassium, provoquant une dépolarisation locale. Il n’est pas lui-même un phénomène tout ou rien."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit correctement la transmission ganglionnaire du système nerveux autonome selon le texte ?",
+      "choices": [
+        "Elle est adrénergique et médiée par des récepteurs nucléaires",
+        "Elle est cholinergique et médiée par l’acétylcholine sur des récepteurs nicotiniques",
+        "Elle est assurée par les fibres Aβ",
+        "Elle dépend principalement des récepteurs de la douleur et de la température"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La transmission ganglionnaire du système nerveux autonome est cholinergique, médiée par l’acétylcholine agissant sur des récepteurs nicotiniques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association d’origine anatomofonctionnelle est exacte ?",
+      "choices": [
+        "Sympathique cranio-sacré et parasympathique thoraco-lombaire",
+        "Sympathique thoraco-lombaire et parasympathique cranio-sacré",
+        "Sympathique uniquement sacré et parasympathique uniquement lombaire",
+        "Sympathique spinal postérieur et parasympathique ganglionnaire sensitif"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le système nerveux sympathique a une origine thoraco-lombaire, tandis que le système nerveux parasympathique a une origine cranio-sacrée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle fibre est principalement impliquée dans le tact fin, la pression, la vibration et le mouvement des poils selon le texte ?",
+      "choices": [
+        "La fibre Aβ",
+        "La fibre Ia",
+        "L’axone du motoneurone gamma",
+        "La collatérale du motoneurone alpha destinée à la cellule de Renshaw"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les fibres Aβ véhiculent principalement les informations de mécanoréception cutanée : tact fin, pression, vibration et mouvement des poils."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément active directement la cellule de Renshaw dans le circuit médullaire décrit ?",
+      "choices": [
+        "Une fibre Aβ de mécanoréception cutanée",
+        "Une collatérale d’un axone de motoneurone alpha",
+        "Une racine rachidienne postérieure sensitive",
+        "Une fibre Ia issue des colonnes dorsales"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La cellule de Renshaw est activée par une collatérale d’un axone de motoneurone alpha et exerce une inhibition récurrente sur les motoneurones."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme est retenu pour la repolarisation du potentiel d’action neuronal ?",
+      "choices": [
+        "Activation isolée des récepteurs nicotiniques musculaires",
+        "Inactivation des canaux sodiques et augmentation de la perméabilité au potassium",
+        "Diminution de la perméabilité au chlore uniquement",
+        "Sommation spatiale des potentiels inhibiteurs au niveau du ganglion spinal"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La repolarisation du potentiel d’action neuronal est liée à l’inactivation des canaux sodiques et à l’augmentation de la perméabilité au potassium."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle conséquence peut suivre la destruction de la myéline selon le texte ?",
+      "choices": [
+        "Accélération de la conduction saltatoire",
+        "Ralentissement de la conduction avec possibilité de bloc de conduction",
+        "Transformation des fibres Aβ en fibres douloureuses principales",
+        "Déclenchement obligatoire d’un potentiel de plaque motrice"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La destruction de la myéline ralentit la conduction nerveuse et peut entraîner un bloc de conduction."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-04T06:48:29.234Z"
+}

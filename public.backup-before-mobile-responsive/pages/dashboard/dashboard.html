@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PCR Dashboard</title>
+
+  <link rel="stylesheet" href="../../css/style.css">
+  <link rel="stylesheet" href="../../css/dashboard.css">
+</head>
+
+<body class="dashboard-pro">
+  <nav class="dash-nav">
+    <a href="../../index.html">← Accueil</a>
+    <h1>📊 Dashboard</h1>
+  </nav>
+
+  <section class="dashboard-profile-card">
+
+  <div id="dashboardProfileAvatar" class="dashboard-profile-avatar">
+    P
+  </div>
+
+  <div class="dashboard-profile-info">
+    <h2 id="dashboardProfileName">Utilisateur PCR</h2>
+
+    <p id="dashboardProfileRole">Étudiant</p>
+
+    <small id="dashboardProfileMeta"></small>
+  </div>
+
+</section>
+
+  <main class="dash-container">
+    <section class="dash-hero">
+      <div>
+        <span class="dash-badge">Progression PCR</span>
+        <h2>Votre tableau de bord</h2>
+        <p>Suivez vos cours vus, favoris et progression par catégorie.</p>
+      </div>
+<div class="rank-card">
+  <img id="rankLogo" class="rank-logo" src="../../images/logo-metal.png" alt="Rank PCR">
+</div>
+    
+  </div>
+</div>
+      <div class="dash-circle">
+        <span id="globalPercent">0%</span>
+        <small>Progression</small>
+      </div>
+    </section>
+
+    <section class="dash-stats">
+      <div class="dash-card"><span>🎥</span><b id="totalCourses">0</b><p>Total cours</p></div>
+      <div class="dash-card"><span>✅</span><b id="watchedCourses">0</b><p>Cours vus</p></div>
+      <div class="dash-card"><span>⭐</span><b id="favoriteCourses">0</b><p>Favoris</p></div>
+      <div class="dash-card"><span>🔥</span><b id="remainingCourses">0</b><p>Restants</p></div>
+    </section>
+
+    <section class="dash-section">
+      <h3>Progression par catégorie</h3>
+      <div id="categoryProgress" class="category-progress"></div>
+    </section>
+
+    <section class="dash-section">
+      <h3>Derniers favoris</h3>
+      <div id="favoriteList" class="favorite-list"></div>
+    </section>
+  </main>
+
+  <script src="/js/auth-guard.js"></script>
+<script src="/js/user-storage.js"></script>
+<script src="/js/dashboard.js"></script>
+</body>
+</html>

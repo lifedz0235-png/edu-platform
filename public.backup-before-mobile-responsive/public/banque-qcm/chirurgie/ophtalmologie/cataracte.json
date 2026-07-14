@@ -1,0 +1,3110 @@
+{
+  "category": "chirurgie",
+  "module": "ophtalmologie",
+  "courseId": null,
+  "courseTitle": null,
+  "supportTitle": "cataracte.pdf",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/cataracte.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la définition et l’évolution habituelle de la cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à l’opacification de tout ou partie du cristallin.",
+        "Elle est le plus souvent liée à l’âge.",
+        "Son évolution non traitée est habituellement rapide et douloureuse.",
+        "Elle entraîne une baisse progressivement invalidante de la vision de loin et/ou de près."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La cataracte est une opacification cristallinienne, le plus souvent liée à l’âge, d’évolution lente en l’absence de traitement, avec baisse progressive de la vision."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes fonctionnels peuvent révéler une cataracte ?",
+      "choices": [
+        "Baisse progressive de l’acuité visuelle prédominant généralement en vision de loin.",
+        "Halos colorés autour des lumières.",
+        "Photophobie.",
+        "Diplopie binoculaire fréquente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les signes d’appel incluent la baisse progressive de vision, les halos colorés, la photophobie, la gêne nocturne, plus rarement une diplopie monoculaire. La diplopie binoculaire fréquente n’est pas décrite."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’interrogatoire d’un patient suspect de cataracte, quels éléments doivent être recherchés ?",
+      "choices": [
+        "L’âge, la profession et le retentissement fonctionnel.",
+        "Les antécédents généraux, notamment le diabète.",
+        "Une prise prolongée de corticoïdes.",
+        "Une douleur oculaire aiguë comme signe typique de cataracte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’interrogatoire recherche l’âge, la profession, le retentissement fonctionnel, les antécédents ophtalmologiques et généraux, notamment le diabète, ainsi qu’une corticothérapie prolongée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la mesure de l’acuité visuelle dans le bilan d’une cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est réalisée œil par œil puis en binoculaire.",
+        "Elle évalue la vision de loin et la vision de près.",
+        "Elle doit être faite avec une correction optique adaptée.",
+        "Elle n’a d’intérêt qu’après dilatation pharmacologique des pupilles."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mesure de l’acuité visuelle quantifie la gêne fonctionnelle : œil par œil puis en binoculaire, de loin et de près, avec correction optique adaptée."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la cataracte nucléaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle atteint le noyau cristallinien.",
+        "Elle entraîne une baisse d’acuité visuelle prédominant de loin.",
+        "Elle peut s’accompagner d’une myopie d’indice.",
+        "Elle se définit par une aire pupillaire blanche visible à l’œil nu."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cataracte nucléaire touche le noyau cristallinien, avec baisse visuelle surtout de loin et myopie d’indice. L’aire pupillaire blanche correspond à une cataracte totale très évoluée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cataracte sous-capsulaire postérieure, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à une opacification en soucoupe en avant de la capsule postérieure.",
+        "Elle gêne la vision de loin et la vision de près.",
+        "Elle doit faire rechercher une origine métabolique ou iatrogène.",
+        "Elle correspond à une opacification exclusive du cortex cristallinien."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cataracte sous-capsulaire postérieure est une opacification en soucoupe en avant de la capsule postérieure, gênant de loin et de près, et doit faire rechercher une cause métabolique ou iatrogène."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’examen à la lampe à fente d’une cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’examen est réalisé avant et après dilatation pharmacologique des pupilles.",
+        "La rétine doit être examinée après dilatation, notamment à la recherche d’une DMLA ou d’une déchirure rétinienne.",
+        "La mesure du tonus oculaire recherche une hypertonie oculaire ou un glaucome.",
+        "La présence d’une pathologie cornéenne associée n’a aucune influence possible sur le pronostic visuel."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen à la lampe à fente se fait avant et après dilatation. Il recherche aussi des pathologies associées de la cornée, iris, vitré et rétine, et mesure le tonus oculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’issue de l’examen d’une cataracte, quels points doivent être déterminés ?",
+      "choices": [
+        "Si l’opacification du cristallin explique la baisse d’acuité visuelle.",
+        "Si la gêne fonctionnelle justifie une indication chirurgicale.",
+        "S’il existe une pathologie oculaire associée pouvant compromettre le résultat postopératoire.",
+        "Si un traitement médical curatif doit être instauré en première intention."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen doit établir le lien entre cataracte et baisse visuelle, apprécier l’indication chirurgicale et rechercher une pathologie associée influençant le pronostic. Il n’existe pas de traitement médical curatif démontré."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les examens complémentaires dans la cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le diagnostic est clinique et ne nécessite habituellement aucun examen complémentaire.",
+        "Une échographie en mode B peut être indiquée si la cataracte dense rend le fond d’œil inaccessible.",
+        "L’échographie en mode B peut aider à éliminer un décollement de rétine ou une tumeur intraoculaire.",
+        "Une échographie en mode B est systématique devant toute cataracte liée à l’âge."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic de cataracte est clinique. L’échographie B est indiquée en cas de cataracte dense avec fond d’œil inaccessible afin d’éliminer notamment décollement de rétine ou tumeur intraoculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de décision chirurgicale pour cataracte, quelles propositions concernant l’implant intraoculaire sont exactes ?",
+      "choices": [
+        "Le cristallin a une puissance réfractive d’environ 20 dioptries.",
+        "La kératométrie mesure la puissance réfractive de la cornée.",
+        "La longueur axiale de l’œil peut être mesurée par échographie en mode A ou par biométrie.",
+        "Les implants toriques sont destinés principalement à corriger les myodésopsies."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcul de l’implant repose notamment sur la kératométrie et la longueur axiale. Les implants toriques visent la correction de l’astigmatisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cataractes liées à l’âge et traumatiques, quelles propositions sont exactes ?",
+      "choices": [
+        "La cataracte liée à l’âge est la cause la plus fréquente.",
+        "La cataracte liée à l’âge est généralement bilatérale et globalement symétrique.",
+        "Une cataracte contusive peut apparaître plusieurs années après un traumatisme à globe fermé.",
+        "Après traumatisme perforant, il faut rechercher un corps étranger intraoculaire, surtout chez l’enfant."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La cataracte sénile est la plus fréquente, souvent bilatérale et symétrique. Les formes traumatiques peuvent suivre une contusion ancienne ou un traumatisme perforant avec recherche de corps étranger intraoculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations ophtalmologiques peuvent être associées à une cataracte secondaire ?",
+      "choices": [
+        "Uvéites chroniques, notamment postérieures.",
+        "Myopie forte.",
+        "Rétinopathies pigmentaires.",
+        "Conjonctivite aiguë isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cataractes secondaires peuvent être liées aux uvéites chroniques, à la myopie forte, aux rétinopathies pigmentaires ou à des antécédents de chirurgie oculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étiologies métaboliques, iatrogènes, génétiques ou congénitales de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le diabète et l’hypoparathyroïdie font partie des causes métaboliques ou endocriniennes.",
+        "La corticothérapie locale ou générale prolongée peut entraîner une cataracte, souvent sous-capsulaire postérieure.",
+        "La radiothérapie orbitaire est une cause iatrogène possible.",
+        "Les cataractes congénitales sont toujours liées au vieillissement cristallinien."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diabète, l’hypoparathyroïdie, les corticoïdes prolongés et la radiothérapie orbitaire sont des causes reconnues. Les cataractes congénitales peuvent être embryopathiques, notamment rubéoleuses, ou héréditaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement et la préparation préopératoire de la cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le traitement de la cataracte est exclusivement chirurgical.",
+        "La chirurgie est le plus souvent réalisée en ambulatoire sous anesthésie topique ou locorégionale.",
+        "La chirurgie est réalisée sous dilatation pupillaire maximale par collyres mydriatiques.",
+        "Un traitement médical préventif ou curatif a une efficacité démontrée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement est chirurgical, généralement ambulatoire, avec anesthésie topique ou locorégionale et dilatation pupillaire maximale. Aucun traitement médical préventif ou curatif n’est démontré."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’étiologie la plus fréquente de la cataracte ?",
+      "choices": [
+        "Cataracte diabétique.",
+        "Cataracte liée à l’âge.",
+        "Cataracte traumatique perforante.",
+        "Cataracte congénitale héréditaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La cataracte liée à l’âge est la cause la plus fréquente."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel symptôme associé, recherché à l’interrogatoire, doit orienter vers une autre pathologie oculaire plutôt que vers la cataracte seule ?",
+      "choices": [
+        "Photophobie.",
+        "Halos colorés autour des lumières.",
+        "Métamorphopsies.",
+        "Gêne à la conduite de nuit."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les métamorphopsies, comme les myodésopsies, sont des symptômes associés à rechercher car ils orientent vers une autre pathologie oculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle description correspond à une cataracte totale ?",
+      "choices": [
+        "Atteinte isolée du noyau cristallinien avec myopie d’indice.",
+        "Opacification en soucoupe en avant de la capsule postérieure.",
+        "Opacification du cortex cristallinien uniquement.",
+        "Cataracte très évoluée visible à l’œil nu avec aire pupillaire blanche."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La cataracte totale est une forme très évoluée, visible à l’œil nu, avec aire pupillaire blanche."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen complémentaire peut être indiqué en cas de cataracte dense avec fond d’œil inaccessible ?",
+      "choices": [
+        "Échographie en mode B.",
+        "Kératométrie seule.",
+        "Mesure isolée de l’acuité visuelle de près.",
+        "Examen à la lampe à fente sans dilatation."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’échographie en mode B peut être indiquée si le fond d’œil est inaccessible, afin d’éliminer notamment un décollement de rétine ou une tumeur intraoculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité définit l’anesthésie topique en chirurgie de la cataracte ?",
+      "choices": [
+        "Injection rétrobulbaire.",
+        "Injection péribulbaire.",
+        "Instillation d’un collyre anesthésiant avant l’intervention.",
+        "Anesthésie générale systématique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’anesthésie topique correspond à l’instillation d’un collyre anesthésiant avant l’intervention."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la méthode chirurgicale de référence dans le traitement de la cataracte selon le texte ?",
+      "choices": [
+        "Extraction intracapsulaire sans implant.",
+        "Extraction extracapsulaire par phacoémulsification.",
+        "Vitrectomie première systématique.",
+        "Traitement médical prolongé par collyres."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La méthode de référence est l’extraction extracapsulaire par phacoémulsification."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étapes initiales de la chirurgie de la cataracte décrites dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La désinfection cutanée et conjonctivale fait partie des premières étapes.",
+        "L’incision cornéenne est tunnélisée.",
+        "L’ablation systématique de la capsule postérieure est une étape prévue de l’intervention.",
+        "L’ouverture de la capsule antérieure du cristallin est circulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les étapes comprennent la désinfection cutanée et conjonctivale, l’incision cornéenne tunnélisée et l’ouverture circulaire de la capsule antérieure. La capsule postérieure n’est pas retirée systématiquement."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la phacoémulsification et de la fin de l’intervention de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "La phacoémulsification utilise les ultrasons.",
+        "Elle permet de retirer le contenu du sac cristallinien.",
+        "L’implantation du cristallin artificiel se fait dans le sac capsulaire.",
+        "La suture cornéenne est obligatoire dans tous les cas."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phacoémulsification par ultrasons retire le contenu du sac cristallinien, puis un implant est placé dans le sac capsulaire. La suture n’est réalisée que si nécessaire, notamment si l’incision n’est pas autoétanche."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement et la surveillance postopératoires après chirurgie de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Des collyres anti-inflammatoires et antibiotiques sont généralement prescrits.",
+        "La durée habituelle du traitement postopératoire est d’environ un mois.",
+        "Le suivi postopératoire comprend au moins deux contrôles dans le mois suivant l’intervention.",
+        "Une antibiothérapie générale prolongée est systématique pendant un mois."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne un traitement local par collyres anti-inflammatoires et antibiotiques pendant environ un mois, avec au moins deux contrôles postopératoires dans le mois. L’antibiothérapie générale systématique prolongée n’est pas indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’aphakie et ses moyens de correction, quelles propositions sont exactes ?",
+      "choices": [
+        "L’aphakie correspond à l’absence de cristallin.",
+        "Sa correction repose principalement sur un implant intraoculaire de chambre postérieure.",
+        "Un implant de chambre antérieure peut être utilisé en cas de rupture de la capsule postérieure.",
+        "En l’absence d’implant possible, une correction par lentilles de contact ou lunettes peut être envisagée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’aphakie est l’absence de cristallin. La correction privilégiée est l’implant de chambre postérieure ; un implant de chambre antérieure peut être utilisé dans certaines situations, et les lentilles ou lunettes sont des alternatives si l’implantation est impossible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les implants sphériques monofocaux, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils corrigent les amétropies sphériques comme la myopie.",
+        "Ils corrigent les amétropies sphériques comme l’hypermétropie.",
+        "Ils restaurent l’accommodation physiologique.",
+        "Ils nécessitent généralement une correction optique de près après l’intervention."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les implants sphériques monofocaux corrigent myopie ou hypermétropie, mais ne restaurent pas l’accommodation ; une correction de près est généralement nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des implants toriques et multifocaux, quelles propositions sont exactes ?",
+      "choices": [
+        "Les implants toriques corrigent les amétropies sphériques et l’astigmatisme.",
+        "Les implants toriques possèdent une composante cylindrique.",
+        "Les implants toriques doivent être positionnés selon un axe précis.",
+        "Les implants multifocaux ne peuvent jamais être toriques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les implants toriques corrigent les amétropies sphériques et l’astigmatisme grâce à une composante cylindrique et nécessitent un positionnement axial précis. Les implants multifocaux peuvent être sphériques ou toriques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les implants multifocaux, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils permettent une correction de la vision de loin.",
+        "Ils permettent une correction de la vision de près.",
+        "Ils peuvent être sphériques ou toriques.",
+        "Ils améliorent toujours le contraste par rapport aux implants monofocaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les implants multifocaux corrigent la vision de loin et de près, et peuvent être sphériques ou toriques. Ils peuvent au contraire diminuer certaines performances visuelles, notamment le contraste, et provoquer des halos."
+    },
+    {
+      "type": "QCM",
+      "question": "Si aucun implant intraoculaire ne peut être posé, quelles propositions concernant la correction par lentilles de contact sont exactes ?",
+      "choices": [
+        "Elle peut permettre une fonction visuelle correcte.",
+        "Elle expose aux contraintes de manipulation.",
+        "Elle expose à un risque d’intolérance.",
+        "Elle peut se compliquer d’ulcère cornéen traumatique ou d’abcès cornéen infectieux."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La correction de l’aphakie par lentilles peut donner une fonction visuelle correcte, mais comporte des contraintes de manipulation et des risques d’intolérance ou de complications cornéennes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la correction de l’aphakie par lunettes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle nécessite des verres très puissants et épais.",
+        "Elle entraîne des aberrations optiques importantes.",
+        "Elle réduit le champ visuel utile.",
+        "Elle constitue la méthode habituelle de première intention après chirurgie de cataracte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La correction par lunettes nécessite des verres très puissants et épais, entraîne des aberrations optiques importantes et réduit le champ visuel utile. Elle reste exceptionnelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les indications chirurgicales de la cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’indication opératoire dépend principalement de la gêne fonctionnelle.",
+        "Une chirurgie est souvent envisagée lorsque l’acuité visuelle descend autour de 5/10.",
+        "Une chirurgie peut être proposée plus tôt selon les besoins visuels et l’activité professionnelle.",
+        "La décision opératoire repose exclusivement sur l’aspect morphologique du cristallin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’indication dépend surtout de la gêne fonctionnelle. Le seuil d’environ 5/10 est fréquent, mais la chirurgie peut être proposée plus tôt selon l’âge, l’activité, les besoins visuels, la gêne et les pathologies associées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la récupération fonctionnelle après chirurgie de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est généralement rapide et excellente en l’absence de pathologie oculaire associée.",
+        "Elle peut être compromise par une complication postopératoire.",
+        "Une nouvelle correction optique peut être prescrite en moyenne un mois après la chirurgie.",
+        "Elle est toujours excellente même en présence d’une pathologie oculaire associée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La récupération est habituellement rapide et excellente s’il n’existe ni pathologie oculaire associée ni complication. Une nouvelle correction optique peut être prescrite environ un mois après l’intervention."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’opacification de la capsule postérieure après chirurgie de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est aussi appelée cataracte secondaire.",
+        "Elle correspond à une prolifération de cellules cristalliniennes résiduelles sur la capsule postérieure.",
+        "Elle peut entraîner une baisse progressive de l’acuité visuelle.",
+        "Son traitement repose sur une antibiothérapie générale prolongée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’opacification capsulaire postérieure, ou cataracte secondaire, est due à la prolifération de cellules cristalliniennes résiduelles. Elle peut diminuer progressivement l’acuité visuelle. Son traitement est la capsulotomie au laser YAG."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’endophtalmie postopératoire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une infection intraoculaire sévère.",
+        "Elle peut compromettre définitivement la fonction visuelle.",
+        "Elle survient généralement entre le 2e et le 7e jour postopératoire.",
+        "Elle ne nécessite qu’une surveillance simple si la douleur est modérée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’endophtalmie est une infection intraoculaire sévère, potentiellement responsable d’une perte visuelle définitive. Elle survient typiquement entre J2 et J7 et impose une prise en charge urgente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les complications rétiniennes ou maculaires après chirurgie de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le risque de décollement de rétine augmente en cas de rupture peropératoire de la capsule postérieure.",
+        "Le risque de décollement de rétine augmente chez les patients fortement myopes.",
+        "L’œdème maculaire postopératoire est aussi appelé œdème d’Irvine-Gass.",
+        "L’œdème d’Irvine-Gass correspond à une décompensation œdémateuse de la cornée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le décollement de rétine est favorisé par la rupture peropératoire de la capsule postérieure et la forte myopie. L’œdème maculaire postopératoire est l’œdème d’Irvine-Gass ; la décompensation cornéenne correspond à la kératite bulleuse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le délai habituel de survenue de l’endophtalmie postopératoire après chirurgie de cataracte ?",
+      "choices": [
+        "Dans les premières heures uniquement.",
+        "Entre le 2e et le 7e jour postopératoire.",
+        "Après le 3e mois postopératoire.",
+        "Uniquement après un an."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que l’endophtalmie survient généralement entre le 2e et le 7e jour postopératoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le traitement de référence de l’opacification de la capsule postérieure ?",
+      "choices": [
+        "Capsulotomie au laser YAG.",
+        "Antibiothérapie locale isolée.",
+        "Remplacement systématique de l’implant.",
+        "Correction par lunettes épaisses."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’opacification de la capsule postérieure se traite par capsulotomie au laser YAG."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation un implant de chambre antérieure peut-il être utilisé selon le texte ?",
+      "choices": [
+        "En cas de rupture de la capsule postérieure.",
+        "Devant toute myopie forte isolée.",
+        "Pour restaurer l’accommodation.",
+        "Pour traiter une opacification capsulaire postérieure."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Un implant de chambre antérieure peut être utilisé notamment en cas de rupture de la capsule postérieure ou de cataracte traumatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel type d’implant doit être positionné selon un axe précis ?",
+      "choices": [
+        "Implant sphérique monofocal.",
+        "Implant torique.",
+        "Implant de chambre antérieure non torique.",
+        "Lentille de contact d’aphakie."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les implants toriques comportent une composante cylindrique et doivent être positionnés selon un axe précis."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel effet indésirable fonctionnel est spécifiquement rapporté avec les implants multifocaux par rapport aux monofocaux ?",
+      "choices": [
+        "Diminution possible du contraste avec halos.",
+        "Décollement de rétine systématique.",
+        "Absence totale de vision de près.",
+        "Nécessité constante de verres très puissants et épais."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les implants multifocaux peuvent diminuer la performance visuelle par rapport aux monofocaux, notamment en contraste, et provoquer des halos."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle circonstance une suture cornéenne peut-elle être nécessaire à la fin de la chirurgie ?",
+      "choices": [
+        "Lorsque l’incision n’est pas autoétanche.",
+        "Chaque fois qu’un implant monofocal est posé.",
+        "Uniquement en cas d’implant multifocal.",
+        "Lorsque la capsule postérieure est normalement transparente."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La suture cornéenne est réalisée si nécessaire, notamment si l’incision cornéenne n’est pas autoétanche."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les troubles visuels liés à la diffraction et à la perception sensorielle dans la cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les halos colorés autour des lumières sont liés à la diffraction lumineuse par les opacités cristalliniennes.",
+        "Une modification de la perception des couleurs avec jaunissement peut être rapportée.",
+        "Une gêne à la conduite nocturne peut faire partie du tableau fonctionnel.",
+        "Les halos colorés traduisent obligatoirement une pathologie rétinienne associée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cataracte peut entraîner halos colorés par diffraction, photophobie, gêne à la conduite de nuit et jaunissement des couleurs. Les halos ne traduisent pas obligatoirement une atteinte rétinienne."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la myopisation pouvant accompagner une cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est liée à une modification de l’indice de réfraction du cristallin.",
+        "Elle correspond à une myopie d’indice.",
+        "Elle est particulièrement décrite dans la cataracte nucléaire.",
+        "Elle résulte d’un allongement axial obligatoire de l’œil."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La myopisation de la cataracte est due à une modification de l’indice de réfraction cristallinien, notamment dans la cataracte nucléaire. Le texte ne la rattache pas à un allongement axial."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’évaluation d’une cataracte, quelles structures doivent être examinées à la recherche d’une pathologie associée pouvant modifier le pronostic visuel ?",
+      "choices": [
+        "La cornée et l’iris.",
+        "Le vitré.",
+        "La rétine après dilatation pupillaire.",
+        "Le nerf facial."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen recherche une pathologie associée de la cornée, de l’iris, du vitré et de la rétine après dilatation. Le nerf facial n’est pas cité dans ce bilan."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la mesure du tonus oculaire au cours du bilan d’une cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle recherche une hypertonie oculaire.",
+        "Elle recherche un glaucome.",
+        "Elle remplace l’examen du fond d’œil lorsque celui-ci est accessible.",
+        "Elle participe à l’identification d’une pathologie oculaire associée."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La mesure du tonus oculaire sert à rechercher une hypertonie oculaire ou un glaucome, qui peuvent influencer le pronostic. Elle ne remplace pas l’examen rétinien lorsqu’il est possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’échographie en mode B dans le contexte d’une cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être indiquée si la cataracte est dense et rend le fond d’œil inaccessible.",
+        "Elle peut servir à éliminer un décollement de rétine.",
+        "Elle peut servir à éliminer une tumeur intraoculaire.",
+        "Elle est indispensable au diagnostic habituel de toute cataracte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic de cataracte est clinique. L’échographie B est réservée notamment aux cataractes denses avec fond d’œil inaccessible pour rechercher un décollement de rétine ou une tumeur intraoculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour le calcul de la puissance sphérique d’un implant intraoculaire avant chirurgie de cataracte, quelles données sont nécessaires selon le texte ?",
+      "choices": [
+        "La kératométrie.",
+        "La longueur axiale de l’œil.",
+        "Une mesure par échographie en mode A ou par biométrie pour la longueur axiale.",
+        "La mesure du tonus oculaire comme paramètre principal de puissance de l’implant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La puissance sphérique de l’implant est calculée à partir de la kératométrie et de la longueur axiale mesurée par échographie A ou biométrie. Le tonus oculaire n’est pas un paramètre de calcul de puissance de l’implant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cataracte liée à l’âge, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle constitue la cause la plus fréquente de cataracte.",
+        "Elle est généralement bilatérale.",
+        "Elle est globalement symétrique.",
+        "Elle se manifeste typiquement par une atteinte aiguë strictement unilatérale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cataracte liée à l’âge est la plus fréquente, généralement bilatérale et globalement symétrique. Le texte ne décrit pas une forme aiguë strictement unilatérale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cataractes contusives, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent survenir après une contusion violente à globe fermé.",
+        "Un traumatisme ancien peut être en cause.",
+        "Elles sont souvent sous-capsulaires postérieures, parfois en rosace.",
+        "Leur apparition est toujours immédiate après le traumatisme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cataractes contusives surviennent après contusion violente à globe fermé, même ancienne. Elles sont souvent sous-capsulaires postérieures, parfois en rosace, et peuvent apparaître de quelques heures à plusieurs années après le traumatisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une cataracte après traumatisme perforant, quelles propositions sont exactes ?",
+      "choices": [
+        "Il faut rechercher un corps étranger intraoculaire.",
+        "Le traumatisme peut être passé inaperçu.",
+        "La recherche d’un corps étranger intraoculaire est particulièrement importante chez l’enfant.",
+        "L’absence de douleur initiale élimine formellement un corps étranger intraoculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après traumatisme perforant, il faut rechercher un corps étranger intraoculaire, notamment si le traumatisme est passé inaperçu, surtout chez l’enfant. L’absence de douleur n’est pas mentionnée comme critère d’exclusion."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les affections ophtalmologiques suivantes, lesquelles peuvent être associées à une cataracte secondaire selon le texte ?",
+      "choices": [
+        "Les uvéites chroniques, notamment postérieures.",
+        "La myopie forte.",
+        "Les rétinopathies pigmentaires.",
+        "La conjonctivite aiguë simple."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les uvéites chroniques, la myopie forte et les rétinopathies pigmentaires sont citées comme causes possibles de cataractes secondaires à des maladies ophtalmologiques. La conjonctivite aiguë simple n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les antécédents de chirurgie oculaire associés à la survenue d’une cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "La chirurgie du décollement de rétine est citée comme antécédent possible.",
+        "La vitrectomie est citée comme antécédent possible.",
+        "Les antécédents de chirurgie oculaire doivent être recherchés dans l’enquête étiologique.",
+        "Une chirurgie oculaire antérieure exclut une origine ophtalmologique de cataracte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les antécédents de chirurgie oculaire, notamment chirurgie du décollement de rétine ou vitrectomie, peuvent être associés à une cataracte secondaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les causes métaboliques, endocriniennes, génétiques ou congénitales de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le diabète est une cause métabolique possible.",
+        "L’hypoparathyroïdie est une cause endocrinienne possible.",
+        "La rubéole congénitale peut être impliquée dans une cataracte congénitale.",
+        "L’hypothyroïdie est explicitement citée comme cause dans le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diabète, l’hypoparathyroïdie et la rubéole congénitale sont mentionnés. L’hypothyroïdie n’est pas citée dans le texte fourni."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cataractes iatrogènes, quelles propositions sont exactes ?",
+      "choices": [
+        "Une corticothérapie locale prolongée peut être en cause.",
+        "Une corticothérapie générale prolongée peut être en cause.",
+        "La forme sous-capsulaire postérieure est souvent rapportée avec les corticoïdes prolongés.",
+        "La radiothérapie orbitaire peut être en cause."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les cataractes iatrogènes peuvent être dues à une corticothérapie locale ou générale prolongée, souvent responsable d’une forme sous-capsulaire postérieure, ainsi qu’à la radiothérapie orbitaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les principes thérapeutiques généraux de la cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le traitement est exclusivement chirurgical.",
+        "Il n’existe pas de traitement médical préventif ou curatif démontré.",
+        "Aucune mesure préventive efficace n’est démontrée dans le texte.",
+        "La chirurgie est systématiquement réalisée sous anesthésie générale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement de la cataracte est chirurgical. Aucun traitement médical préventif ou curatif démontré ni mesure préventive efficace n’est rapporté. L’anesthésie générale est exceptionnelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle donnée est fournie par la kératométrie dans le bilan préopératoire d’une cataracte ?",
+      "choices": [
+        "La puissance réfractive de la cornée.",
+        "La longueur axiale de l’œil.",
+        "La présence d’une tumeur intraoculaire.",
+        "La profondeur de l’anesthésie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La kératométrie mesure la puissance réfractive de la cornée, utilisée pour le calcul de l’implant intraoculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité correspond à une anesthésie locorégionale possible en chirurgie de la cataracte ?",
+      "choices": [
+        "Instillation isolée d’un collyre anesthésiant.",
+        "Injection sous-ténonienne.",
+        "Anesthésie générale systématique.",
+        "Instillation de collyres mydriatiques seuls."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’anesthésie locorégionale peut être péribulbaire, rétrobulbaire ou sous-ténonienne. L’instillation d’un collyre anesthésiant correspond à l’anesthésie topique."
+    },
+    {
+      "type": "QCS",
+      "question": "Avant l’intervention de cataracte, comment est obtenue la dilatation pupillaire maximale ?",
+      "choices": [
+        "Par collyres mydriatiques.",
+        "Par échographie en mode B.",
+        "Par kératométrie.",
+        "Par mesure du tonus oculaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La chirurgie est réalisée sous dilatation pupillaire maximale obtenue par collyres mydriatiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément fait partie de l’information préopératoire à délivrer au patient avant chirurgie de cataracte ?",
+      "choices": [
+        "Le suivi postopératoire.",
+        "La garantie d’absence de complications.",
+        "La possibilité d’un traitement médical curatif équivalent.",
+        "L’absence de nécessité de bilan préopératoire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le patient doit être informé des modalités opératoires, des résultats fonctionnels attendus, des complications potentielles et du suivi postopératoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour un implant torique destiné à corriger l’astigmatisme, quel calcul supplémentaire est nécessaire ?",
+      "choices": [
+        "La puissance cylindrique et l’axe de positionnement.",
+        "La couleur de l’iris.",
+        "Le degré de photophobie.",
+        "La présence d’une aire pupillaire blanche."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Pour les implants toriques, un calcul supplémentaire détermine la puissance cylindrique et l’axe de positionnement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation est explicitement citée comme cause possible de cataracte congénitale ?",
+      "choices": [
+        "La rubéole congénitale.",
+        "La dégénérescence maculaire liée à l’âge.",
+        "La radiothérapie orbitaire.",
+        "La myopie forte."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les cataractes congénitales peuvent être secondaires à une embryopathie, notamment la rubéole congénitale, ou être héréditaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’enchaînement des gestes opératoires dans la chirurgie de la cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "La désinfection cutanée et conjonctivale précède l’incision cornéenne.",
+        "L’ouverture circulaire de la capsule antérieure est réalisée après la phacoémulsification.",
+        "L’hydrodissection des tissus cristalliniens précède la phacoémulsification.",
+        "L’implantation du cristallin artificiel est effectuée avant le retrait du contenu du sac cristallinien."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Les étapes décrites débutent par la désinfection, suivie de l’incision, de l’ouverture capsulaire antérieure, de l’hydrodissection puis de la phacoémulsification. L’implant est mis en place après retrait du contenu du sac cristallinien."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la gestion capsulaire et du sac cristallinien pendant l’intervention, quelles propositions sont exactes ?",
+      "choices": [
+        "Une ouverture circulaire de la capsule antérieure du cristallin est réalisée.",
+        "La phacoémulsification vise à retirer la capsule postérieure.",
+        "Le cristallin artificiel est implanté dans le sac capsulaire.",
+        "L’hydrodissection concerne les tissus cristalliniens."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise l’ouverture circulaire de la capsule antérieure, l’hydrodissection des tissus cristalliniens et l’implantation dans le sac capsulaire. La phacoémulsification retire le contenu du sac cristallinien, pas la capsule postérieure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les soins et le suivi après chirurgie de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Un traitement par collyres anti-inflammatoires et antibiotiques est généralement prescrit.",
+        "La durée habituelle du traitement postopératoire est d’environ un mois.",
+        "Le suivi comprend au moins deux contrôles dans le mois suivant l’intervention.",
+        "La nouvelle correction optique est prescrite systématiquement dès le lendemain de l’intervention."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne des collyres anti-inflammatoires et antibiotiques pendant environ un mois, avec au moins deux contrôles postopératoires dans le mois. Une nouvelle correction optique peut être prescrite en moyenne un mois après la chirurgie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’aphakie, concernant le choix entre implant de chambre postérieure et implant de chambre antérieure, quelles propositions sont exactes ?",
+      "choices": [
+        "La correction repose principalement sur un implant intraoculaire de chambre postérieure.",
+        "Un implant de chambre antérieure peut être envisagé en cas de rupture de la capsule postérieure.",
+        "Un implant de chambre antérieure peut être utilisé dans certaines cataractes traumatiques.",
+        "L’implant de chambre antérieure constitue la solution de première intention dans toute aphakie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La correction de l’aphakie repose surtout sur l’implant de chambre postérieure. L’implant de chambre antérieure est réservé à certaines situations, notamment rupture capsulaire postérieure ou cataracte traumatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les implants sphériques monofocaux, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils corrigent les amétropies sphériques telles que la myopie.",
+        "Ils corrigent les amétropies sphériques telles que l’hypermétropie.",
+        "Ils restaurent l’accommodation physiologique.",
+        "Ils nécessitent généralement une correction optique de près après l’intervention."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les implants sphériques monofocaux corrigent les amétropies sphériques, myopie ou hypermétropie, mais ne restaurent pas l’accommodation. Une correction de près est donc généralement nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les implants toriques, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils corrigent les amétropies sphériques.",
+        "Ils corrigent l’astigmatisme.",
+        "Ils possèdent une composante cylindrique.",
+        "Leur positionnement ne dépend pas d’un axe précis."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les implants toriques corrigent les amétropies sphériques et l’astigmatisme grâce à une composante cylindrique. Ils doivent être positionnés selon un axe précis."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des implants multifocaux, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent permettre une correction de la vision de loin et de près.",
+        "Ils peuvent être sphériques.",
+        "Ils peuvent être toriques.",
+        "Ils garantissent toujours une meilleure performance visuelle que les implants monofocaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les implants multifocaux corrigent la vision de loin et de près et peuvent être sphériques ou toriques. Ils peuvent toutefois diminuer certaines performances visuelles, notamment le contraste, ou induire des halos."
+    },
+    {
+      "type": "QCM",
+      "question": "Si aucun implant intraoculaire ne peut être posé, concernant la correction par lentilles de contact, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut permettre une fonction visuelle correcte.",
+        "Elle expose à des contraintes de manipulation.",
+        "Elle peut exposer à un ulcère cornéen traumatique.",
+        "Elle supprime tout risque d’intolérance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lentilles de contact peuvent donner une fonction visuelle correcte mais exposent aux contraintes de manipulation et à des complications comme l’ulcère cornéen traumatique, l’abcès cornéen infectieux ou l’intolérance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la correction de l’aphakie par lunettes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle nécessite des verres très puissants.",
+        "Elle entraîne des aberrations optiques importantes.",
+        "Elle réduit le champ visuel utile.",
+        "Elle constitue la modalité habituelle de correction de l’aphakie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La correction par lunettes impose des verres puissants et épais, des aberrations optiques importantes et une réduction du champ visuel utile. Elle reste exceptionnelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la décision opératoire dans la cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle dépend principalement de la gêne fonctionnelle.",
+        "Une chirurgie est souvent envisagée lorsque l’acuité visuelle descend autour de 5/10.",
+        "Elle peut être proposée plus tôt selon les besoins visuels du patient.",
+        "Elle repose uniquement sur la mesure chiffrée de l’acuité visuelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’indication dépend surtout de la gêne fonctionnelle. Le seuil d’environ 5/10 est indicatif, mais la chirurgie peut être discutée plus tôt selon l’âge, l’activité professionnelle, les besoins visuels, la gêne et les pathologies associées."
+    },
+    {
+      "type": "QCM",
+      "question": "Après chirurgie de la cataracte, concernant la récupération fonctionnelle et la correction optique, quelles propositions sont exactes ?",
+      "choices": [
+        "La récupération est généralement rapide en l’absence de pathologie oculaire associée.",
+        "La récupération est généralement excellente en l’absence de complication.",
+        "Une nouvelle correction optique peut être prescrite en moyenne un mois après la chirurgie.",
+        "La présence d’une pathologie oculaire associée n’influence pas la récupération attendue."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La récupération est généralement rapide et excellente si aucune pathologie oculaire associée ni complication n’est présente. Une nouvelle correction optique peut être prescrite en moyenne un mois après l’intervention."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’opacification de la capsule postérieure, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est aussi appelée cataracte secondaire.",
+        "Elle correspond à une prolifération de cellules cristalliniennes résiduelles.",
+        "Elle peut provoquer une baisse progressive de l’acuité visuelle.",
+        "Elle correspond à une infection intraoculaire sévère."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’opacification de la capsule postérieure, ou cataracte secondaire, résulte de la prolifération de cellules cristalliniennes résiduelles sur la capsule postérieure et peut entraîner une baisse visuelle progressive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’endophtalmie après chirurgie de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une infection intraoculaire sévère.",
+        "Elle peut compromettre définitivement la fonction visuelle.",
+        "Elle impose une prise en charge urgente.",
+        "Elle est traitée uniquement par une surveillance simple si elle survient précocement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’endophtalmie est une infection intraoculaire grave, menaçant le pronostic visuel, nécessitant une prise en charge urgente avec antibiothérapie locale et générale, souvent en hospitalisation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les complications rétiniennes, maculaires et cornéennes postopératoires, quelles propositions sont exactes ?",
+      "choices": [
+        "Le risque de décollement de rétine augmente en cas de rupture peropératoire de la capsule postérieure.",
+        "Le risque de décollement de rétine augmente chez les patients fortement myopes.",
+        "L’œdème d’Irvine-Gass peut entraîner une baisse de vision après chirurgie.",
+        "La kératite bulleuse correspond à une infection intraoculaire purulente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le décollement de rétine est favorisé par la rupture capsulaire postérieure et la forte myopie. L’œdème maculaire postopératoire ou Irvine-Gass peut réduire la vision. La kératite bulleuse est une décompensation œdémateuse cornéenne."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la séquence opératoire décrite, quel geste suit immédiatement l’ouverture circulaire de la capsule antérieure ?",
+      "choices": [
+        "L’hydrodissection des tissus cristalliniens.",
+        "La suture cornéenne systématique.",
+        "L’implantation du cristallin artificiel.",
+        "La prescription d’une correction optique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Après l’ouverture circulaire de la capsule antérieure, le texte décrit l’hydrodissection des tissus cristalliniens avant la phacoémulsification."
+    },
+    {
+      "type": "QCS",
+      "question": "Après une chirurgie de cataracte, quel délai moyen est mentionné pour prescrire une nouvelle correction optique ?",
+      "choices": [
+        "Le jour même de l’intervention.",
+        "En moyenne une semaine après l’intervention.",
+        "En moyenne un mois après l’intervention.",
+        "Uniquement après six mois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique qu’une nouvelle correction optique peut être prescrite en moyenne un mois après la chirurgie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle correction de l’aphakie est décrite comme exceptionnelle en raison de verres très puissants, d’aberrations optiques et d’une réduction du champ visuel utile ?",
+      "choices": [
+        "Les lunettes.",
+        "L’implant de chambre postérieure.",
+        "L’implant multifocal.",
+        "L’implant torique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La correction de l’aphakie par lunettes nécessite des verres épais et puissants, entraîne des aberrations optiques et réduit le champ visuel utile ; elle reste exceptionnelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme explique l’opacification de la capsule postérieure après chirurgie de cataracte ?",
+      "choices": [
+        "Une prolifération de cellules cristalliniennes résiduelles sur la capsule postérieure.",
+        "Une décompensation œdémateuse primitive de la cornée.",
+        "Une rupture systématique de la capsule antérieure.",
+        "Une infection intraoculaire bactérienne précoce obligatoire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’opacification capsulaire postérieure correspond à la prolifération de cellules cristalliniennes résiduelles sur la capsule postérieure."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel terme désigne l’œdème maculaire postopératoire pouvant entraîner une baisse de vision après chirurgie de cataracte ?",
+      "choices": [
+        "Œdème d’Irvine-Gass.",
+        "Cataracte secondaire.",
+        "Kératite bulleuse.",
+        "Endophtalmie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’œdème maculaire postopératoire est aussi appelé œdème d’Irvine-Gass et peut provoquer une baisse visuelle après chirurgie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle complication correspond à une décompensation œdémateuse de la cornée avec douleur, baisse visuelle et bulles épithéliales cornéennes ?",
+      "choices": [
+        "Kératite bulleuse.",
+        "Endophtalmie.",
+        "Décollement de rétine.",
+        "Opacification de la capsule postérieure."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La kératite bulleuse est définie dans le texte comme une décompensation œdémateuse cornéenne pouvant entraîner douleur, baisse visuelle et bulles épithéliales."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient présentant une opacification cristallinienne, quels éléments doivent faire suspecter qu’une autre pathologie oculaire participe aux symptômes visuels ?",
+      "choices": [
+        "La présence de myodésopsies",
+        "La présence de métamorphopsies",
+        "Une gêne à la conduite de nuit isolée",
+        "Des halos colorés autour des lumières"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les myodésopsies et les métamorphopsies sont des symptômes associés qui doivent orienter vers une autre pathologie oculaire. Les halos et la gêne nocturne sont des signes fonctionnels compatibles avec la cataracte."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une cataracte sous-capsulaire postérieure, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle réalise une opacification en soucoupe en avant de la capsule postérieure",
+        "Elle peut gêner à la fois la vision de loin et la vision de près",
+        "Elle doit faire rechercher une origine métabolique ou iatrogène",
+        "Elle correspond à une opacification limitée au cortex cristallinien"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cataracte sous-capsulaire postérieure est décrite comme une opacification en soucoupe en avant de la capsule postérieure, gênant la vision de loin et de près, et imposant de rechercher une cause métabolique ou iatrogène. L’opacification du cortex définit la cataracte corticale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre type de cataracte et description anatomoclinique sont exactes ?",
+      "choices": [
+        "Cataracte nucléaire : atteinte du noyau cristallinien",
+        "Cataracte corticale : opacification du cortex cristallinien",
+        "Cataracte totale : aire pupillaire blanche visible à l’œil nu",
+        "Cataracte sous-capsulaire postérieure : opacification primitive de l’iris"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cataracte nucléaire touche le noyau, la cataracte corticale touche le cortex, et la cataracte totale est très évoluée avec aire pupillaire blanche. La cataracte sous-capsulaire postérieure concerne le cristallin, non l’iris."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations étiologiques sont correctement rapportées dans le texte ?",
+      "choices": [
+        "Corticothérapie prolongée : cataracte souvent sous-capsulaire postérieure",
+        "Radiothérapie orbitaire : cataracte iatrogène possible",
+        "Hypoparathyroïdie : cataracte métabolique ou endocrinienne possible",
+        "Rubéole congénitale : cause typique de cataracte liée à l’âge"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La corticothérapie prolongée, locale ou générale, peut donner une forme sous-capsulaire postérieure ; la radiothérapie orbitaire est une cause iatrogène ; l’hypoparathyroïdie est une cause métabolique ou endocrinienne. La rubéole congénitale relève des cataractes congénitales par embryopathie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations faut-il envisager une cataracte traumatique selon le texte ?",
+      "choices": [
+        "Après contusion violente à globe fermé, même ancienne",
+        "Devant une cataracte apparue quelques heures après un traumatisme contusif",
+        "Devant une cataracte apparue plusieurs années après une contusion oculaire",
+        "Devant toute cataracte bilatérale globalement symétrique du sujet âgé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cataractes contusives peuvent survenir après contusion violente à globe fermé, même ancienne, avec apparition possible en quelques heures ou plusieurs années. Une cataracte bilatérale globalement symétrique du sujet âgé évoque plutôt une cataracte liée à l’âge."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le calcul préopératoire de l’implant intraoculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La kératométrie renseigne la puissance réfractive de la cornée",
+        "La longueur axiale de l’œil peut être mesurée par échographie en mode A",
+        "La longueur axiale de l’œil peut être mesurée par biométrie",
+        "La puissance sphérique de l’implant est calculée uniquement à partir du tonus oculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcul de la puissance sphérique de l’implant utilise notamment la kératométrie et la longueur axiale, mesurée par échographie en mode A ou biométrie. Le tonus oculaire n’est pas utilisé pour ce calcul."
+    },
+    {
+      "type": "QCM",
+      "question": "À la fin du bilan clinique d’une cataracte, quels éléments doivent être appréciés avant de conclure ?",
+      "choices": [
+        "Le lien entre l’opacification cristallinienne et la baisse d’acuité visuelle",
+        "Le retentissement fonctionnel justifiant ou non une chirurgie",
+        "L’existence d’une pathologie oculaire associée pouvant altérer le résultat postopératoire",
+        "La nécessité systématique d’une échographie en mode B, quelle que soit la visibilité du fond d’œil"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan doit déterminer si la cataracte explique la baisse visuelle, si la gêne fonctionnelle justifie une chirurgie, et s’il existe une pathologie oculaire associée. L’échographie B n’est indiquée qu’en cas de cataracte dense avec fond d’œil inaccessible."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions reflètent correctement la place des examens complémentaires dans une cataracte typique ?",
+      "choices": [
+        "Le diagnostic est avant tout clinique",
+        "Aucun examen complémentaire n’est habituellement nécessaire pour poser le diagnostic",
+        "Une échographie en mode B peut être utile si le fond d’œil est inaccessible",
+        "La confirmation diagnostique impose systématiquement une imagerie intraoculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic de cataracte est clinique. Les examens complémentaires ne sont pas nécessaires habituellement. L’échographie B est réservée aux cataractes denses empêchant l’examen du fond d’œil."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la préparation et l’anesthésie de la chirurgie de la cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "La dilatation pupillaire maximale est obtenue par collyres mydriatiques",
+        "Une consultation préanesthésique est réalisée avant l’intervention",
+        "L’anesthésie générale est décrite comme exceptionnelle",
+        "L’anesthésie topique correspond à une injection rétrobulbaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La chirurgie se fait sous dilatation maximale par collyres mydriatiques, après consultation préanesthésique. L’anesthésie générale est exceptionnelle. L’anesthésie topique correspond à l’instillation d’un collyre anesthésiant, non à une injection rétrobulbaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cataracte liée à l’âge, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle constitue la cause la plus fréquente de cataracte",
+        "Elle est généralement bilatérale",
+        "Elle est globalement symétrique",
+        "Elle survient typiquement après un traumatisme perforant passé inaperçu"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cataracte liée à l’âge est la cause la plus fréquente, généralement bilatérale et globalement symétrique. Le traumatisme perforant passé inaperçu relève des cataractes traumatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont citées comme pouvant être responsables d’une cataracte secondaire à une maladie ophtalmologique ou à son contexte ?",
+      "choices": [
+        "Uvéites chroniques, notamment postérieures",
+        "Myopie forte",
+        "Rétinopathies pigmentaires",
+        "Hypoparathyroïdie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les uvéites chroniques, la myopie forte et les rétinopathies pigmentaires sont citées parmi les causes ophtalmologiques de cataracte secondaire. L’hypoparathyroïdie est une cause métabolique ou endocrinienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions classent correctement certaines causes de cataracte ?",
+      "choices": [
+        "Diabète : cause métabolique ou endocrinienne possible",
+        "Dystrophie myotonique de Steinert : maladie génétique associée possible",
+        "Trisomie 21 : maladie génétique associée possible",
+        "Radiothérapie orbitaire : cause héréditaire de cataracte congénitale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diabète est une cause métabolique ou endocrinienne. La dystrophie myotonique de Steinert et la trisomie 21 sont des maladies génétiques associées. La radiothérapie orbitaire est une cause iatrogène."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels troubles fonctionnels sont expliqués par une atteinte de la qualité de transmission lumineuse ou de la perception chromatique dans la cataracte ?",
+      "choices": [
+        "Photophobie",
+        "Halos colorés autour des lumières",
+        "Gêne à la conduite de nuit",
+        "Jaunissement de la perception des couleurs"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La cataracte peut entraîner photophobie, halos colorés par diffraction lumineuse, gêne à la conduite de nuit et modification de la perception des couleurs, notamment un jaunissement."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors du bilan d’une cataracte, quels éléments peuvent révéler une pathologie associée susceptible d’influencer le pronostic visuel ?",
+      "choices": [
+        "Une atteinte cornéenne",
+        "Une anomalie de l’iris",
+        "Une pathologie rétinienne après dilatation",
+        "Une hypertonie oculaire ou un glaucome"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’examen recherche des atteintes de la cornée, de l’iris, du vitré et de la rétine ; la mesure du tonus oculaire recherche une hypertonie ou un glaucome. Ces éléments peuvent influencer le pronostic visuel."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle mesure préopératoire peut être obtenue par échographie en mode A pour le calcul de l’implant ?",
+      "choices": [
+        "La longueur axiale de l’œil",
+        "La pression intraoculaire",
+        "L’épaisseur de l’iris",
+        "La transparence de la capsule postérieure"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La longueur axiale de l’œil est mesurée par échographie en mode A ou par biométrie pour le calcul de la puissance de l’implant."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les causes suivantes, laquelle est classée dans les cataractes métaboliques ou endocriniennes ?",
+      "choices": [
+        "Radiothérapie orbitaire",
+        "Hypoparathyroïdie",
+        "Rubéole congénitale",
+        "Chirurgie du décollement de rétine"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’hypoparathyroïdie est citée comme cause métabolique ou endocrinienne de cataracte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité anesthésique est décrite comme exceptionnelle dans la chirurgie de la cataracte ?",
+      "choices": [
+        "Anesthésie topique",
+        "Anesthésie péribulbaire",
+        "Anesthésie sous-ténonienne",
+        "Anesthésie générale"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La chirurgie de la cataracte est le plus souvent réalisée sous anesthésie topique ou locorégionale ; l’anesthésie générale est exceptionnelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation correspond à la conduite diagnostique habituelle devant une cataracte ?",
+      "choices": [
+        "Le diagnostic repose habituellement sur l’examen clinique",
+        "Le diagnostic nécessite toujours une échographie en mode B",
+        "Le diagnostic repose sur le dosage de la glycémie",
+        "Le diagnostic impose une imagerie avant toute mesure d’acuité visuelle"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le diagnostic de cataracte est clinique et ne nécessite habituellement aucun examen complémentaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel type de cataracte est particulièrement associé à une gêne en vision de loin et de près ?",
+      "choices": [
+        "Cataracte nucléaire",
+        "Cataracte sous-capsulaire postérieure",
+        "Cataracte corticale",
+        "Cataracte totale congénitale uniquement"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La cataracte sous-capsulaire postérieure peut gêner la vision de loin et de près, contrairement à la cataracte nucléaire où la baisse prédomine en vision de loin."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors de l’examen rétinien après dilatation chez un patient cataracté, quelle affection est explicitement recherchée dans le texte ?",
+      "choices": [
+        "DMLA",
+        "Kératite herpétique",
+        "Sclérite antérieure",
+        "Blépharite chronique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Après dilatation pupillaire, l’examen de la rétine recherche notamment une DMLA ou une déchirure rétinienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’incision et la fermeture cornéenne au cours de la chirurgie de la cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’incision cornéenne décrite est tunnélisée",
+        "La suture cornéenne est systématique en fin d’intervention",
+        "Une suture peut être réalisée lorsque l’incision n’est pas autoétanche",
+        "La désinfection cutanée et conjonctivale fait partie des étapes opératoires"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit une désinfection cutanée et conjonctivale, une incision cornéenne tunnélisée, puis une suture seulement si nécessaire, notamment si l’incision n’est pas autoétanche."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la gestion du sac cristallinien pendant l’intervention, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ouverture circulaire concerne la capsule antérieure du cristallin",
+        "L’hydrodissection précède la phacoémulsification dans la séquence décrite",
+        "La phacoémulsification par ultrasons permet de retirer le contenu du sac cristallinien",
+        "Le cristallin artificiel est implanté en dehors du sac capsulaire dans la technique décrite"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La séquence comporte l’ouverture circulaire de la capsule antérieure, l’hydrodissection, puis la phacoémulsification par ultrasons retirant le contenu du sac, avant implantation dans le sac capsulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prescription et la surveillance précoces après chirurgie de la cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Des collyres anti-inflammatoires sont généralement prescrits",
+        "Des collyres antibiotiques sont généralement associés",
+        "La durée habituelle du traitement postopératoire est d’environ un mois",
+        "Le suivi postopératoire ne comporte aucun contrôle systématique dans le premier mois"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement postopératoire associe généralement collyres anti-inflammatoires et antibiotiques pendant environ un mois. Le suivi comprend au moins deux contrôles dans le mois suivant l’intervention."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la correction de l’aphakie, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "L’aphakie correspond à l’absence de cristallin",
+        "La correction repose principalement sur un implant intraoculaire de chambre postérieure",
+        "Un implant de chambre antérieure peut être utilisé en cas de rupture de la capsule postérieure",
+        "La cataracte traumatique exclut toute possibilité d’implant de chambre antérieure"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’aphakie est l’absence de cristallin. La correction principale est l’implant de chambre postérieure ; un implant de chambre antérieure peut être utilisé notamment en cas de rupture capsulaire postérieure ou de cataracte traumatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Si aucun implant intraoculaire ne peut être posé, quelles propositions sont exactes concernant les lentilles de contact ?",
+      "choices": [
+        "Elles peuvent permettre une fonction visuelle correcte",
+        "Elles exposent à des contraintes de manipulation",
+        "Elles peuvent exposer à une intolérance",
+        "Elles suppriment le risque de complication cornéenne infectieuse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lentilles de contact peuvent corriger l’aphakie avec une fonction visuelle correcte, mais exposent aux contraintes de manipulation, à l’intolérance et à des complications comme l’ulcère cornéen traumatique ou l’abcès cornéen infectieux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la correction de l’aphakie par lunettes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle nécessite des verres très puissants",
+        "Elle entraîne des aberrations optiques importantes",
+        "Elle réduit le champ visuel utile",
+        "Elle constitue la modalité habituelle de correction de l’aphakie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La correction par lunettes nécessite des verres très puissants et épais, entraîne des aberrations optiques importantes et réduit le champ visuel utile. Elle reste exceptionnelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments peuvent faire proposer une chirurgie de cataracte plus tôt que le seuil souvent évoqué d’acuité visuelle ?",
+      "choices": [
+        "Les besoins visuels du patient",
+        "L’activité professionnelle",
+        "La gêne ressentie",
+        "L’absence obligatoire de toute gêne fonctionnelle"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La chirurgie peut être proposée plus tôt selon l’âge, l’activité professionnelle, les besoins visuels, la gêne ressentie et les pathologies oculaires associées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la récupération fonctionnelle après chirurgie de la cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est généralement rapide en l’absence de pathologie oculaire associée",
+        "Elle est généralement excellente en l’absence de complication",
+        "Une nouvelle correction optique peut être prescrite en moyenne un mois après la chirurgie",
+        "Elle est toujours excellente même en présence d’une complication"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La récupération est généralement rapide et excellente s’il n’existe pas de pathologie oculaire associée ni de complication. Une nouvelle correction optique peut être prescrite en moyenne après un mois."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une baisse visuelle progressive après chirurgie de cataracte liée à une atteinte capsulaire postérieure, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut correspondre à une prolifération de cellules cristalliniennes résiduelles",
+        "Elle peut être favorisée fonctionnellement par des opacités centrales",
+        "Elle correspond à ce que le texte appelle aussi cataracte secondaire",
+        "Son traitement repose sur une phacoémulsification systématique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’opacification de la capsule postérieure, ou cataracte secondaire, est due à la prolifération de cellules cristalliniennes résiduelles. Les opacités centrales peuvent être gênantes. Le traitement repose sur la capsulotomie au laser YAG."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’endophtalmie après chirurgie de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une infection intraoculaire sévère",
+        "Elle peut compromettre définitivement la fonction visuelle",
+        "Elle survient généralement entre le 2e et le 7e jour postopératoire",
+        "Elle relève uniquement d’une simple surveillance sans antibiothérapie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’endophtalmie est une infection intraoculaire sévère pouvant compromettre définitivement la vision. Elle survient généralement entre J2 et J7 et impose une prise en charge urgente avec antibiothérapie locale et générale, souvent en hospitalisation."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles circonstances le risque de décollement de rétine est-il augmenté après chirurgie de cataracte selon le texte ?",
+      "choices": [
+        "Rupture peropératoire de la capsule postérieure",
+        "Forte myopie",
+        "Implantation d’un implant sphérique monofocal",
+        "Prescription de collyres anti-inflammatoires postopératoires"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne un risque accru de décollement de rétine en cas de rupture peropératoire de la capsule postérieure et chez les patients fortement myopes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les complications maculaires et cornéennes postopératoires citées, quelles propositions sont exactes ?",
+      "choices": [
+        "L’œdème maculaire postopératoire est aussi appelé œdème d’Irvine-Gass",
+        "L’œdème d’Irvine-Gass peut entraîner une baisse de vision après chirurgie",
+        "La kératite bulleuse correspond à une décompensation œdémateuse de la cornée",
+        "La kératite bulleuse est définie par une prolifération de cellules cristalliniennes sur la capsule postérieure"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’œdème maculaire postopératoire est l’œdème d’Irvine-Gass et peut entraîner une baisse visuelle. La kératite bulleuse correspond à une décompensation œdémateuse cornéenne ; la prolifération capsulaire définit l’opacification de la capsule postérieure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les implants multifocaux, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils permettent une correction de la vision de loin et de près",
+        "Ils peuvent être sphériques",
+        "Ils peuvent être toriques",
+        "Ils améliorent toujours le contraste par rapport aux implants monofocaux"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les implants multifocaux corrigent la vision de loin et de près, et peuvent être sphériques ou toriques. Ils peuvent toutefois diminuer la performance visuelle par rapport aux monofocaux, notamment en contraste ou avec halos."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les différences entre implants sphériques monofocaux et implants toriques, quelles propositions sont exactes ?",
+      "choices": [
+        "Les implants sphériques monofocaux corrigent les amétropies sphériques",
+        "Les implants sphériques monofocaux restaurent l’accommodation",
+        "Les implants toriques possèdent une composante cylindrique",
+        "Les implants toriques corrigent l’astigmatisme"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Les implants sphériques monofocaux corrigent myopie ou hypermétropie mais ne restaurent pas l’accommodation. Les implants toriques ont une composante cylindrique et corrigent l’astigmatisme."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le nombre minimal de contrôles postopératoires dans le mois suivant une chirurgie de cataracte selon le texte ?",
+      "choices": [
+        "Un seul contrôle",
+        "Au moins deux contrôles",
+        "Un contrôle uniquement à trois mois",
+        "Aucun contrôle si l’acuité visuelle s’améliore"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le suivi postopératoire comprend au moins deux contrôles dans le mois suivant l’intervention."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la séquence opératoire décrite, quel geste précède immédiatement la phacoémulsification du cristallin ?",
+      "choices": [
+        "La capsulotomie au laser YAG",
+        "L’hydrodissection des tissus cristalliniens",
+        "La prescription d’une correction optique",
+        "La mise en place de lentilles de contact"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Après l’ouverture circulaire de la capsule antérieure, le texte décrit l’hydrodissection, puis la phacoémulsification par ultrasons."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément caractérise spécifiquement un implant torique dans le texte ?",
+      "choices": [
+        "Une composante cylindrique",
+        "Une absence de correction de l’astigmatisme",
+        "Une correction exclusive de la vision de près",
+        "Une indication uniquement en cas d’absence de cristallin artificiel"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’implant torique possède une composante cylindrique, corrige l’astigmatisme et doit être positionné selon un axe précis."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal déterminant de l’indication opératoire d’une cataracte selon le texte ?",
+      "choices": [
+        "La gêne fonctionnelle",
+        "La présence systématique d’une forte myopie",
+        "La nécessité d’un implant multifocal",
+        "La prescription préalable de lunettes d’aphakie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’indication opératoire dépend principalement de la gêne fonctionnelle, même si l’acuité visuelle et le contexte du patient interviennent également."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement est indiqué en cas d’opacification de la capsule postérieure responsable d’une gêne visuelle ?",
+      "choices": [
+        "Capsulotomie au laser YAG",
+        "Lentilles de contact thérapeutiques seules",
+        "Implant torique systématique",
+        "Antibiothérapie générale isolée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le traitement de l’opacification de la capsule postérieure repose sur une capsulotomie au laser YAG."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle complication postopératoire associe une décompensation œdémateuse cornéenne, une douleur possible, une baisse visuelle et des bulles épithéliales cornéennes ?",
+      "choices": [
+        "Kératite bulleuse",
+        "Opacification de la capsule postérieure",
+        "Décollement de rétine",
+        "Endophtalmie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La kératite bulleuse correspond à une décompensation œdémateuse de la cornée pouvant entraîner douleur, baisse visuelle et bulles épithéliales cornéennes."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient cataracté, quels éléments orientent vers une participation possible d’une autre pathologie oculaire à la baisse visuelle ?",
+      "choices": [
+        "La présence de métamorphopsies à l’interrogatoire",
+        "La présence de myodésopsies à l’interrogatoire",
+        "La découverte d’une DMLA à l’examen du fond d’œil après dilatation",
+        "Une myopisation liée à la modification de l’indice de réfraction du cristallin"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les myodésopsies et métamorphopsies sont des symptômes associés orientant vers une autre pathologie oculaire. La recherche de DMLA fait partie de l’examen car elle peut influencer le pronostic visuel. La myopisation peut accompagner la cataracte elle-même."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’une opacification cristallinienne est observée, quelles situations doivent faire discuter que la cataracte n’est pas l’unique déterminant du pronostic fonctionnel ?",
+      "choices": [
+        "Une anomalie cornéenne associée à l’examen",
+        "Une atteinte vitréenne retrouvée lors du bilan",
+        "Une déchirure rétinienne recherchée après dilatation pupillaire",
+        "Une cataracte nucléaire isolée avec myopie d’indice"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen recherche des pathologies associées de la cornée, de l’iris, du vitré et de la rétine, notamment DMLA ou déchirure rétinienne, car elles peuvent compromettre le résultat postopératoire. Une cataracte nucléaire isolée avec myopie d’indice correspond à une présentation classique de cataracte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions décrivent correctement l’intérêt pratique de l’interrogatoire avant de retenir une indication opératoire de cataracte ?",
+      "choices": [
+        "Il précise la profession du patient et le retentissement fonctionnel de la baisse visuelle",
+        "Il recherche des antécédents généraux, en particulier un diabète",
+        "Il recherche une corticothérapie prolongée pouvant orienter l’étiologie",
+        "Il remplace l’examen à la lampe à fente lorsque l’acuité visuelle est diminuée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’interrogatoire évalue le retentissement fonctionnel, les antécédents ophtalmologiques et généraux, notamment le diabète, ainsi qu’une prise prolongée de corticoïdes. Il ne remplace pas l’examen clinique à la lampe à fente."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la vision de près dans les différentes formes de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est souvent relativement conservée dans la cataracte habituelle",
+        "Elle peut être gênée dans la cataracte sous-capsulaire postérieure",
+        "Elle doit être mesurée avec correction optique adaptée",
+        "Elle n’a pas d’intérêt si la plainte prédomine en vision de loin"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vision de près est souvent relativement conservée, sauf notamment en cas de cataracte sous-capsulaire postérieure. L’acuité visuelle doit être mesurée de loin et de près, avec correction optique adaptée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le cadre d’une cataracte secondaire à une uvéite chronique, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les uvéites chroniques, notamment postérieures, peuvent être en cause",
+        "La corticothérapie prolongée utilisée dans ce contexte peut aussi favoriser la cataracte",
+        "Une cataracte sous-capsulaire postérieure peut être favorisée par les corticoïdes prolongés",
+        "L’existence d’une uvéite exclut la nécessité d’évaluer les autres structures oculaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les uvéites chroniques, surtout postérieures, peuvent être associées à une cataracte. La corticothérapie prolongée, locale ou générale, est aussi une cause iatrogène, souvent sous-capsulaire postérieure. L’examen doit toujours rechercher les atteintes associées."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une cataracte survenant après un traumatisme oculaire, quelles données sont exactes ?",
+      "choices": [
+        "Une contusion violente à globe fermé peut être responsable même si elle est ancienne",
+        "La cataracte contusive peut apparaître plusieurs années après le traumatisme",
+        "Une forme en rosace est possible après contusion",
+        "Un traumatisme perforant passé inaperçu élimine la possibilité d’un corps étranger intraoculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cataractes contusives peuvent suivre une contusion violente ancienne, apparaître en quelques heures ou plusieurs années, et être parfois en rosace. Après traumatisme perforant, il faut au contraire rechercher un corps étranger intraoculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions décrivent correctement l’utilisation des échographies dans le bilan de cataracte ?",
+      "choices": [
+        "L’échographie en mode B peut être indiquée si le fond d’œil est inaccessible",
+        "Le mode B vise notamment à éliminer un décollement de rétine",
+        "La longueur axiale de l’œil peut être mesurée par échographie en mode A",
+        "L’échographie en mode A est l’examen habituel nécessaire au diagnostic clinique de cataracte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic de cataracte est clinique. Le mode B est indiqué en cas de cataracte dense avec fond d’œil inaccessible pour éliminer notamment un décollement de rétine ou une tumeur intraoculaire. Le mode A peut mesurer la longueur axiale pour le calcul d’implant."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour le choix d’un implant intraoculaire avant chirurgie, quelles propositions sont exactes ?",
+      "choices": [
+        "La kératométrie renseigne sur la puissance réfractive de la cornée",
+        "La longueur axiale de l’œil participe au calcul de la puissance sphérique de l’implant",
+        "Un implant remplace un cristallin dont la puissance réfractive est d’environ 20 dioptries",
+        "Le calcul de la puissance cylindrique est nécessaire pour tous les implants intraoculaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcul de l’implant repose sur la kératométrie et la longueur axiale pour déterminer la puissance sphérique. Le cristallin a une puissance d’environ 20 dioptries. La puissance cylindrique et l’axe concernent spécifiquement les implants toriques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les implants toriques destinés à la chirurgie de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont destinés à corriger l’astigmatisme",
+        "Ils nécessitent un calcul de puissance cylindrique",
+        "Ils nécessitent la détermination d’un axe de positionnement",
+        "Ils sont calculés uniquement à partir de l’âge du patient"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les implants toriques corrigent l’astigmatisme et nécessitent un calcul supplémentaire déterminant la puissance cylindrique et l’axe de positionnement. L’âge seul ne permet pas le calcul."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la préparation immédiate d’une chirurgie de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "La chirurgie est réalisée sous dilatation pupillaire maximale",
+        "La dilatation pupillaire est obtenue par collyres mydriatiques",
+        "Une consultation préanesthésique est réalisée avant l’intervention",
+        "La dilatation pupillaire maximale dispense d’informer le patient des complications potentielles"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La chirurgie se fait sous dilatation pupillaire maximale par collyres mydriatiques. Une consultation préanesthésique et un bilan préopératoire sont réalisés. L’information sur les complications potentielles reste indispensable."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles informations doivent être délivrées au patient avant une chirurgie de cataracte ?",
+      "choices": [
+        "Les modalités opératoires",
+        "Les résultats fonctionnels attendus",
+        "Les complications potentielles",
+        "L’existence d’un traitement médical curatif démontré permettant d’éviter l’intervention"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le patient doit être informé des modalités opératoires, des résultats fonctionnels attendus, des complications potentielles et du suivi postopératoire. Il n’existe pas de traitement médical curatif démontré de la cataracte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions classent correctement les étiologies de cataracte citées dans le texte ?",
+      "choices": [
+        "Le diabète fait partie des causes métaboliques ou endocriniennes",
+        "L’hypoparathyroïdie fait partie des causes métaboliques ou endocriniennes",
+        "La radiothérapie orbitaire fait partie des causes iatrogènes",
+        "La trisomie 21 est classée parmi les causes traumatiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diabète et l’hypoparathyroïdie sont cités comme causes métaboliques ou endocriniennes. La radiothérapie orbitaire est une cause iatrogène. La trisomie 21 est citée parmi les maladies génétiques associées."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des cataractes congénitales ou associées à des maladies génétiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Une rubéole congénitale peut être impliquée par embryopathie",
+        "Une forme héréditaire est possible",
+        "La dystrophie myotonique de Steinert est une maladie génétique associée",
+        "La rubéole congénitale est classée comme cataracte traumatique perforante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cataractes congénitales peuvent être secondaires à une embryopathie, notamment rubéole congénitale, ou être héréditaires. La dystrophie myotonique de Steinert est citée parmi les maladies génétiques associées."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments rendent correcte la conduite diagnostique devant une suspicion de cataracte non compliquée ?",
+      "choices": [
+        "Le diagnostic repose habituellement sur la clinique",
+        "L’examen à la lampe à fente met en évidence des opacités cristalliniennes",
+        "Aucun examen complémentaire n’est habituellement nécessaire pour affirmer le diagnostic",
+        "Une échographie en mode B est systématique même lorsque le fond d’œil est accessible"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cataracte est diagnostiquée cliniquement, notamment par l’examen à la lampe à fente montrant les opacités du cristallin. Les examens complémentaires ne sont pas habituellement nécessaires ; le mode B est réservé notamment aux cataractes denses avec fond d’œil inaccessible."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme explique la myopisation parfois observée chez un patient cataracté ?",
+      "choices": [
+        "Une modification de l’indice de réfraction du cristallin",
+        "Une augmentation de la puissance réfractive de la cornée mesurée par kératométrie",
+        "Une hypertonie oculaire associée",
+        "Une opacification du vitré"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La myopisation décrite dans la cataracte est liée à une modification de l’indice de réfraction du cristallin."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel tableau correspond le mieux à une cataracte sous-capsulaire postérieure selon le texte ?",
+      "choices": [
+        "Opacification en soucoupe en avant de la capsule postérieure avec gêne de loin et de près",
+        "Atteinte isolée du noyau cristallinien avec baisse prédominant uniquement de près",
+        "Aire pupillaire blanche visible à l’œil nu sans autre précision",
+        "Opacification exclusive du cortex cristallinien avec recherche obligatoire d’un corps étranger intraoculaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La cataracte sous-capsulaire postérieure est décrite comme une opacification en soucoupe en avant de la capsule postérieure, gênant la vision de loin et de près, et devant faire rechercher une cause métabolique ou iatrogène."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quel cas l’échographie en mode B est-elle indiquée d’après le texte ?",
+      "choices": [
+        "Cataracte dense empêchant l’examen du fond d’œil",
+        "Cataracte débutante avec fond d’œil parfaitement accessible",
+        "Calcul standard de la puissance cylindrique d’un implant torique",
+        "Mesure systématique du tonus oculaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’échographie en mode B peut être indiquée en cas de cataracte dense avec fond d’œil inaccessible afin d’éliminer un décollement de rétine ou une tumeur intraoculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation correspond à la place du traitement médical dans la cataracte ?",
+      "choices": [
+        "Aucun traitement médical préventif ou curatif démontré n’est disponible",
+        "Un traitement médical curatif est indiqué avant toute chirurgie",
+        "Une mesure préventive efficace permet d’éviter l’opacification cristallinienne",
+        "Le traitement médical est réservé aux cataractes nucléaires"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que le traitement est exclusivement chirurgical et qu’il n’existe pas de traitement médical préventif ou curatif démontré, ni de mesure préventive efficace."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition associe correctement une cause et une forme de cataracte citée dans le texte ?",
+      "choices": [
+        "Corticothérapie prolongée : cataracte souvent sous-capsulaire postérieure",
+        "Radiothérapie orbitaire : cataracte toujours totale",
+        "Myopie forte : cataracte obligatoirement congénitale",
+        "Diabète : cataracte exclusivement traumatique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La corticothérapie locale ou générale prolongée est une cause iatrogène, souvent responsable d’une cataracte sous-capsulaire postérieure. Les autres associations proposées ne sont pas conformes au texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité chirurgicale est désignée comme méthode de référence dans le texte fourni ?",
+      "choices": [
+        "Extraction extracapsulaire par phacoémulsification",
+        "Traitement médical par collyres anti-opacifiants",
+        "Radiothérapie orbitaire",
+        "Correction optique isolée sans extraction cristallinienne"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La méthode chirurgicale de référence indiquée est l’extraction extracapsulaire par phacoémulsification."
+    },
+    {
+      "type": "QCM",
+      "question": "Un patient consulte à J4 après chirurgie de cataracte pour une baisse visuelle brutale avec suspicion d’infection intraoculaire. Quelles propositions sont compatibles avec une endophtalmie postopératoire selon le texte ?",
+      "choices": [
+        "Il s’agit d’une infection intraoculaire sévère.",
+        "Le délai de survenue habituel se situe entre le 2e et le 7e jour postopératoire.",
+        "La prise en charge doit être urgente avec antibiothérapie locale et générale.",
+        "Le traitement de référence repose sur une capsulotomie au laser YAG."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’endophtalmie est une infection intraoculaire sévère, généralement entre J2 et J7, nécessitant une prise en charge urgente par antibiothérapie locale et générale. Le laser YAG concerne l’opacification capsulaire postérieure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la préservation et l’utilisation du sac cristallinien au cours de la chirurgie décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ouverture circulaire de la capsule antérieure fait partie des étapes principales.",
+        "L’hydrodissection précède la phacoémulsification.",
+        "La phacoémulsification permet de retirer le contenu du sac cristallinien.",
+        "Le cristallin artificiel est normalement implanté en dehors du sac capsulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La séquence comprend l’ouverture circulaire de la capsule antérieure, l’hydrodissection, puis la phacoémulsification retirant le contenu du sac. L’implant est placé dans le sac capsulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de rupture peropératoire de la capsule postérieure lors d’une chirurgie de cataracte, quelles conséquences ou adaptations sont mentionnées dans le texte ?",
+      "choices": [
+        "Un implant de chambre antérieure peut être utilisé dans certaines situations.",
+        "Le risque de décollement de rétine est augmenté.",
+        "Toute correction ultérieure de l’aphakie par lentilles ou lunettes devient impossible.",
+        "Cette situation peut conduire à recourir à une alternative à l’implant de chambre postérieure."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La rupture de la capsule postérieure est citée comme situation pouvant justifier un implant de chambre antérieure et comme facteur augmentant le risque de décollement de rétine. Les lentilles ou lunettes restent possibles si aucun implant ne peut être posé."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une chirurgie initialement satisfaisante, une baisse visuelle progressive liée à des opacités centrales de la capsule postérieure est suspectée. Quelles propositions sont exactes ?",
+      "choices": [
+        "Le mécanisme correspond à une prolifération de cellules cristalliniennes résiduelles.",
+        "Cette atteinte est aussi appelée cataracte secondaire.",
+        "Les opacités sont particulièrement gênantes lorsqu’elles sont centrales.",
+        "Le traitement repose en première intention sur une antibiothérapie générale urgente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’opacification de la capsule postérieure, ou cataracte secondaire, résulte de cellules cristalliniennes résiduelles et peut gêner la vision si elle est centrale. Son traitement est la capsulotomie au laser YAG, non l’antibiothérapie."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient informé des performances optiques attendues après implantation, quelles affirmations concernant les implants monofocaux et multifocaux sont exactes ?",
+      "choices": [
+        "Un implant sphérique monofocal ne restaure pas l’accommodation.",
+        "Un implant sphérique monofocal nécessite généralement une correction optique de près.",
+        "Un implant multifocal peut diminuer la performance visuelle en contraste ou induire des halos.",
+        "Un implant multifocal ne peut jamais comporter de composante torique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les monofocaux ne restaurent pas l’accommodation et nécessitent souvent une correction de près. Les multifocaux corrigent loin et près mais peuvent entraîner halos ou baisse de contraste ; ils peuvent être sphériques ou toriques."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’aucun implant intraoculaire ne peut être posé chez un patient aphake, quelles propositions décrivent correctement les alternatives optiques ?",
+      "choices": [
+        "Les lentilles de contact peuvent permettre une fonction visuelle correcte.",
+        "Les lentilles de contact exposent à des contraintes de manipulation.",
+        "Les lunettes nécessitent des verres très puissants et épais.",
+        "Les lunettes constituent la méthode habituelle car elles n’induisent pas d’aberrations optiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En aphakie non implantable, les lentilles peuvent donner une fonction visuelle correcte mais avec contraintes et risques. Les lunettes imposent des verres puissants, épais, avec aberrations et réduction du champ visuel ; elles restent exceptionnelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour individualiser le moment de la chirurgie de cataracte chez un patient dont l’acuité visuelle n’est pas encore très abaissée, quels éléments peuvent intervenir selon le texte ?",
+      "choices": [
+        "L’acuité visuelle autour de 5/10 constitue un seuil souvent envisagé.",
+        "Les besoins visuels et l’activité professionnelle peuvent justifier une intervention plus précoce.",
+        "La présence ou l’absence de pathologies oculaires associées fait partie de l’évaluation.",
+        "La décision opératoire dépend uniquement du chiffre d’acuité visuelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’indication dépend principalement de la gêne fonctionnelle. Le seuil de 5/10 est indicatif et doit être modulé par l’âge, l’activité, les besoins visuels, la gêne et les pathologies associées."
+    },
+    {
+      "type": "QCM",
+      "question": "Après chirurgie de cataracte non compliquée, dans un œil sans pathologie oculaire associée, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La récupération fonctionnelle est généralement rapide.",
+        "La récupération fonctionnelle est généralement excellente.",
+        "Une nouvelle correction optique peut être prescrite en moyenne un mois après la chirurgie.",
+        "Le résultat visuel reste garanti même en cas de complication postopératoire sévère."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La récupération est habituellement rapide et excellente en l’absence de pathologie associée ou de complication. Une correction optique peut être prescrite en moyenne après un mois."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’incision cornéenne et de sa fermeture lors de la chirurgie de cataracte décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "L’incision cornéenne est tunnélisée.",
+        "Une suture cornéenne n’est réalisée que si nécessaire.",
+        "Une incision non autoétanche peut justifier une suture cornéenne.",
+        "La suture cornéenne est systématique avant toute phacoémulsification."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La technique comporte une incision cornéenne tunnélisée. La suture n’est pas systématique ; elle est réalisée si nécessaire, notamment si l’incision n’est pas autoétanche."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations complication postopératoire–élément clinique ou facteur de risque sont exactes selon le texte ?",
+      "choices": [
+        "Forte myopie — augmentation du risque de décollement de rétine.",
+        "Rupture peropératoire de la capsule postérieure — augmentation du risque de décollement de rétine.",
+        "Œdème d’Irvine-Gass — baisse de vision par œdème maculaire postopératoire.",
+        "Kératite bulleuse — prolifération de cellules cristalliniennes sur la capsule postérieure."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le décollement de rétine est favorisé par la forte myopie et la rupture capsulaire postérieure. L’œdème d’Irvine-Gass est un œdème maculaire postopératoire. La prolifération cellulaire capsulaire définit l’opacification de la capsule postérieure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les implants destinés à corriger une amétropie associée à un astigmatisme, quelles propositions sont exactes ?",
+      "choices": [
+        "Les implants toriques corrigent les amétropies sphériques et l’astigmatisme.",
+        "Les implants toriques possèdent une composante cylindrique.",
+        "Les implants toriques doivent être positionnés selon un axe précis.",
+        "Les implants sphériques monofocaux corrigent l’astigmatisme grâce à un positionnement axial précis."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les implants toriques corrigent myopie ou hypermétropie associée à l’astigmatisme grâce à une composante cylindrique nécessitant un axe précis. Les monofocaux sphériques corrigent les amétropies sphériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les soins postopératoires habituels et les situations imposant une vigilance particulière, quelles propositions sont exactes ?",
+      "choices": [
+        "Un traitement par collyres anti-inflammatoires et antibiotiques est généralement prescrit environ un mois.",
+        "Le suivi comprend au moins deux contrôles dans le mois suivant l’intervention.",
+        "L’endophtalmie peut compromettre définitivement la fonction visuelle.",
+        "L’opacification capsulaire postérieure se traite par antibiothérapie prolongée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les collyres postopératoires durent environ un mois et au moins deux contrôles sont prévus. L’endophtalmie est grave. L’opacification capsulaire postérieure relève du laser YAG."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles correspondances terminologiques sont correctes dans le contexte de la chirurgie de cataracte ?",
+      "choices": [
+        "Aphakie — absence de cristallin.",
+        "Cataracte secondaire — opacification de la capsule postérieure.",
+        "Œdème d’Irvine-Gass — œdème maculaire postopératoire.",
+        "Kératite bulleuse — décompensation œdémateuse de la cornée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre correspondances sont explicitement rapportées : aphakie, cataracte secondaire, œdème d’Irvine-Gass et kératite bulleuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’ordre opératoire décrit pour la chirurgie de cataracte, quelles relations de chronologie sont exactes ?",
+      "choices": [
+        "La désinfection cutanée et conjonctivale précède l’incision cornéenne.",
+        "L’hydrodissection précède la phacoémulsification.",
+        "La phacoémulsification précède l’implantation du cristallin artificiel.",
+        "L’implantation du cristallin artificiel précède l’ouverture circulaire de la capsule antérieure."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La séquence décrite est : désinfection, incision, ouverture capsulaire antérieure, hydrodissection, phacoémulsification, implantation, puis suture si nécessaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée habituelle du traitement postopératoire par collyres anti-inflammatoires et antibiotiques après chirurgie de cataracte ?",
+      "choices": [
+        "Environ 48 heures.",
+        "Environ une semaine.",
+        "Environ un mois.",
+        "Environ six mois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise qu’un traitement par collyres anti-inflammatoires et antibiotiques est généralement prescrit pendant environ un mois."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors de la chirurgie standard décrite, quel est le site d’implantation du cristallin artificiel ?",
+      "choices": [
+        "Le sac capsulaire.",
+        "La surface conjonctivale.",
+        "La cornée tunnélisée.",
+        "Une lentille de contact externe."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Après phacoémulsification, le cristallin artificiel est implanté dans le sac capsulaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle complication postopératoire correspond à une infection intraoculaire sévère nécessitant une prise en charge urgente ?",
+      "choices": [
+        "L’opacification de la capsule postérieure.",
+        "L’endophtalmie.",
+        "L’œdème d’Irvine-Gass.",
+        "La kératite bulleuse."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’endophtalmie est l’infection intraoculaire sévère postopératoire pouvant compromettre définitivement la fonction visuelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel type d’implant permet, selon le texte, une correction de la vision de loin et de près ?",
+      "choices": [
+        "L’implant sphérique monofocal.",
+        "L’implant multifocal.",
+        "L’implant de chambre antérieure non torique.",
+        "L’absence d’implant avec lunettes épaisses."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les implants multifocaux permettent une correction de la vision de loin et de près."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur cité dans le texte augmente le risque de décollement de rétine après chirurgie de cataracte ?",
+      "choices": [
+        "La forte myopie.",
+        "La correction optique de près après implant monofocal.",
+        "Les contraintes de manipulation des lentilles de contact.",
+        "Les halos liés aux implants multifocaux."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le risque de décollement de rétine est augmenté chez les patients fortement myopes et en cas de rupture peropératoire de la capsule postérieure."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément clinique appartient à la définition de la kératite bulleuse postopératoire décrite ?",
+      "choices": [
+        "Prolifération de cellules cristalliniennes résiduelles.",
+        "Opacités centrales de la capsule postérieure.",
+        "Bulles épithéliales cornéennes.",
+        "Infection intraoculaire entre J2 et J7."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La kératite bulleuse correspond à une décompensation œdémateuse de la cornée pouvant entraîner douleur, baisse visuelle et bulles épithéliales cornéennes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition et l’évolution spontanée d’une cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à l’opacification de tout ou partie du cristallin.",
+        "Elle est le plus souvent liée à l’âge.",
+        "Son évolution non traitée est habituellement lente.",
+        "Elle régresse habituellement sous traitement médical préventif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cataracte est une opacification cristallinienne, le plus souvent liée à l’âge, d’évolution lente en l’absence de traitement. Aucun traitement médical préventif ou curatif démontré n’est décrit."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les manifestations suivantes, lesquelles font partie des signes fonctionnels d’appel d’une cataracte selon le texte ?",
+      "choices": [
+        "Baisse progressive de l’acuité visuelle.",
+        "Halos colorés autour des lumières.",
+        "Gêne à la conduite de nuit.",
+        "Exophtalmie douloureuse rapidement progressive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les signes d’appel incluent la baisse progressive de l’acuité visuelle, les halos colorés par diffraction lumineuse et la gêne à la conduite de nuit. L’exophtalmie douloureuse n’est pas un signe de cataracte dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’interrogatoire d’un patient suspect de cataracte, quels éléments sont explicitement recherchés ?",
+      "choices": [
+        "La profession et le retentissement fonctionnel.",
+        "Les antécédents généraux, notamment le diabète.",
+        "Une prise prolongée de corticoïdes.",
+        "Une consommation récente d’antibiotiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’interrogatoire précise notamment l’âge, la profession, le retentissement fonctionnel, les antécédents ophtalmologiques et généraux dont le diabète, ainsi qu’une corticothérapie prolongée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la mesure de l’acuité visuelle dans le diagnostic de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle doit être réalisée œil par œil.",
+        "Elle doit également être appréciée en vision binoculaire.",
+        "Elle est évaluée de loin et de près.",
+        "Elle est réalisée sans tenir compte de la correction optique adaptée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mesure de l’acuité visuelle est réalisée œil par œil puis en binoculaire, de loin et de près, avec correction optique adaptée."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’examen à la lampe à fente devant une suspicion de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est réalisé avant et après dilatation pharmacologique des pupilles.",
+        "Il objective les opacités cristalliniennes.",
+        "La localisation des opacités permet de distinguer différents types de cataracte.",
+        "Il remplace systématiquement la mesure du tonus oculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen à la lampe à fente est réalisé avant et après dilatation, met en évidence les opacités du cristallin et permet leur classification topographique. La mesure du tonus oculaire reste un élément distinct du bilan."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les différents types anatomocliniques de cataracte décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "La cataracte nucléaire atteint le noyau cristallinien.",
+        "La cataracte corticale correspond à une opacification du cortex cristallinien.",
+        "La cataracte totale est une forme très évoluée pouvant donner une aire pupillaire blanche.",
+        "La cataracte nucléaire est définie par une opacification en avant de la capsule postérieure."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cataracte nucléaire touche le noyau, la corticale le cortex, et la cataracte totale est très évoluée avec aire pupillaire blanche. L’opacification en avant de la capsule postérieure définit la cataracte sous-capsulaire postérieure."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient cataracté, quels symptômes associés doivent orienter vers une autre pathologie oculaire selon l’interrogatoire ?",
+      "choices": [
+        "Myodésopsies.",
+        "Métamorphopsies.",
+        "Halos colorés autour des lumières.",
+        "Jaunissement de la perception des couleurs."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les myodésopsies et les métamorphopsies sont citées comme symptômes associés orientant vers une autre pathologie oculaire. Les halos et la modification des couleurs sont des signes fonctionnels de cataracte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les objectifs à préciser à l’issue de l’examen clinique d’une cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Déterminer si l’opacification cristallinienne explique la baisse d’acuité visuelle.",
+        "Apprécier si la gêne fonctionnelle justifie une indication chirurgicale.",
+        "Rechercher une pathologie oculaire associée pouvant compromettre le résultat postopératoire.",
+        "Conclure systématiquement à une indication chirurgicale dès qu’une opacité cristallinienne est visible."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen doit établir le lien entre opacité et baisse visuelle, évaluer la gêne fonctionnelle et rechercher une pathologie associée. La simple présence d’une opacité ne suffit pas toujours à poser l’indication opératoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cataracte dense avec fond d’œil inaccessible, quelles propositions sont exactes ?",
+      "choices": [
+        "Une échographie en mode B peut être indiquée.",
+        "Elle permet de rechercher un décollement de rétine.",
+        "Elle permet de rechercher une tumeur intraoculaire.",
+        "Elle sert à mesurer directement la puissance réfractive de la cornée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas de cataracte dense empêchant l’examen du fond d’œil, l’échographie B peut éliminer un décollement de rétine ou une tumeur intraoculaire. La puissance cornéenne relève de la kératométrie."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour le calcul préopératoire d’un implant intraoculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La kératométrie mesure la puissance réfractive de la cornée.",
+        "La longueur axiale de l’œil peut être mesurée par échographie en mode A.",
+        "La biométrie peut participer à la mesure de la longueur axiale.",
+        "La puissance sphérique de l’implant est choisie indépendamment des mesures oculaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcul de l’implant repose sur la kératométrie et la longueur axiale mesurée par échographie A ou biométrie. Ces mesures permettent le calcul de la puissance sphérique adaptée à l’œil."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cataractes traumatiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Une contusion violente à globe fermé peut provoquer une cataracte.",
+        "Une cataracte contusive peut apparaître plusieurs années après le traumatisme.",
+        "Après traumatisme perforant, il faut rechercher un corps étranger intraoculaire.",
+        "Un traumatisme passé inaperçu exclut une cataracte traumatique chez l’enfant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cataractes traumatiques peuvent suivre une contusion fermée ou un traumatisme perforant. Elles peuvent être retardées, et un corps étranger intraoculaire doit être recherché, surtout chez l’enfant même si le traumatisme est passé inaperçu."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont citées comme causes possibles de cataracte secondaire à une maladie ophtalmologique ou à son contexte ?",
+      "choices": [
+        "Uvéite chronique, notamment postérieure.",
+        "Myopie forte.",
+        "Rétinopathie pigmentaire.",
+        "Conjonctivite allergique saisonnière isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les uvéites chroniques, la myopie forte et les rétinopathies pigmentaires sont citées. La conjonctivite allergique saisonnière isolée ne l’est pas."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étiologies générales de cataracte citées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le diabète fait partie des causes métaboliques ou endocriniennes.",
+        "L’hypoparathyroïdie fait partie des causes métaboliques ou endocriniennes.",
+        "La dystrophie myotonique de Steinert peut être associée à une cataracte.",
+        "La trisomie 21 exclut la possibilité d’une cataracte associée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diabète et l’hypoparathyroïdie sont des causes métaboliques ou endocriniennes. La dystrophie myotonique de Steinert et la trisomie 21 sont citées parmi les maladies génétiques associées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement et la préparation préopératoire d’une cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le traitement de la cataracte est exclusivement chirurgical.",
+        "Il n’existe pas de traitement médical curatif démontré.",
+        "La chirurgie est généralement réalisée sous dilatation pupillaire maximale par collyres mydriatiques.",
+        "Une mesure préventive efficace permet d’éviter l’apparition de la cataracte liée à l’âge."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement est chirurgical, sans traitement médical curatif ou préventif démontré. La chirurgie se fait sous dilatation pupillaire maximale par collyres mydriatiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la cause la plus fréquente de cataracte selon le texte ?",
+      "choices": [
+        "La cataracte liée à l’âge.",
+        "La radiothérapie orbitaire.",
+        "La dystrophie myotonique de Steinert.",
+        "Le traumatisme perforant oculaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La cataracte liée à l’âge est explicitement présentée comme la cause la plus fréquente."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la puissance réfractive approximative du cristallin mentionnée dans le texte ?",
+      "choices": [
+        "Environ 5 dioptries.",
+        "Environ 10 dioptries.",
+        "Environ 20 dioptries.",
+        "Environ 40 dioptries."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le cristallin a une puissance réfractive d’environ 20 dioptries, ce qui justifie son remplacement par un implant adapté."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément caractérise le mieux une cataracte totale dans le texte ?",
+      "choices": [
+        "Une atteinte isolée du noyau cristallinien avec myopie d’indice.",
+        "Une opacification très évoluée visible à l’œil nu avec aire pupillaire blanche.",
+        "Une opacification en soucoupe en avant de la capsule postérieure.",
+        "Une opacification limitée au cortex sans retentissement visuel."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La cataracte totale est une cataracte très évoluée, visible à l’œil nu, avec aire pupillaire blanche."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à une cause iatrogène de cataracte explicitement citée ?",
+      "choices": [
+        "Radiothérapie orbitaire.",
+        "Rubéole congénitale.",
+        "Hypoparathyroïdie.",
+        "Rétinopathie pigmentaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La radiothérapie orbitaire est citée parmi les causes iatrogènes. Les autres propositions appartiennent à d’autres cadres étiologiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie de perception des couleurs est mentionnée parmi les signes fonctionnels de cataracte ?",
+      "choices": [
+        "Rougissement dominant des objets.",
+        "Jaunissement de la perception des couleurs.",
+        "Perception bleutée permanente.",
+        "Achromatopsie brutale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte mentionne une modification de la perception des couleurs, notamment un jaunissement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité correspond à une anesthésie topique en chirurgie de la cataracte selon le texte ?",
+      "choices": [
+        "Injection rétrobulbaire.",
+        "Injection péribulbaire.",
+        "Instillation d’un collyre anesthésiant avant l’intervention.",
+        "Anesthésie générale systématique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’anesthésie topique correspond à l’instillation d’un collyre anesthésiant avant l’intervention. Les injections sont des anesthésies locorégionales."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le déroulement opératoire décrit, quels gestes relèvent directement du temps capsulo-cristallinien de la chirurgie de cataracte ?",
+      "choices": [
+        "Ouverture circulaire de la capsule antérieure du cristallin",
+        "Hydrodissection des tissus cristalliniens",
+        "Phacoémulsification du cristallin par ultrasons",
+        "Capsulotomie au laser YAG d’emblée en fin d’intervention"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le temps capsulo-cristallinien comprend l’ouverture capsulaire antérieure, l’hydrodissection puis la phacoémulsification. La capsulotomie YAG est le traitement secondaire d’une opacification de la capsule postérieure."
+    },
+    {
+      "type": "QCM",
+      "question": "Après extraction du contenu cristallinien, quelles propositions sont conformes à la correction intraoculaire de l’aphakie décrite ?",
+      "choices": [
+        "L’implantation se fait préférentiellement dans le sac capsulaire",
+        "La correction repose principalement sur un implant intraoculaire de chambre postérieure",
+        "Un implant de chambre antérieure peut être utilisé en cas de rupture de la capsule postérieure",
+        "Un implant multifocal est obligatoire pour toute aphakie postopératoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La correction standard repose sur un implant de chambre postérieure placé dans le sac capsulaire. Un implant de chambre antérieure peut être utilisé dans certaines situations, notamment rupture capsulaire postérieure ou cataracte traumatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient cataracté présentant un astigmatisme à corriger par l’implant, quelles caractéristiques orientent vers un implant torique ?",
+      "choices": [
+        "Correction des amétropies sphériques et de l’astigmatisme",
+        "Présence d’une composante cylindrique",
+        "Nécessité d’un positionnement selon un axe précis",
+        "Restauration systématique de l’accommodation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’implant torique corrige les amétropies sphériques et l’astigmatisme grâce à une composante cylindrique, avec un axe précis de positionnement. Il ne restaure pas l’accommodation."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’information d’un patient candidat à un implant multifocal, quelles données doivent être connues ?",
+      "choices": [
+        "Il permet une correction de la vision de loin et de près",
+        "Il peut être sphérique ou torique",
+        "Il peut entraîner halos ou diminution du contraste",
+        "Il garantit une performance visuelle toujours supérieure à celle d’un implant monofocal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les implants multifocaux corrigent loin et près, peuvent être sphériques ou toriques, mais peuvent diminuer la performance visuelle, notamment en contraste ou avec halos."
+    },
+    {
+      "type": "QCM",
+      "question": "Si aucun implant intraoculaire ne peut être posé, quelles propositions concernant les alternatives optiques sont exactes ?",
+      "choices": [
+        "Les lentilles de contact peuvent permettre une fonction visuelle correcte",
+        "Les lentilles de contact exposent à des contraintes de manipulation",
+        "Les lunettes d’aphakie entraînent des aberrations optiques importantes et réduisent le champ visuel utile",
+        "Les lunettes d’aphakie constituent la correction habituelle de première intention"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lentilles peuvent donner une fonction visuelle correcte mais avec contraintes et risques. Les lunettes nécessitent des verres puissants, entraînent des aberrations et réduisent le champ visuel, ce qui les rend exceptionnelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour individualiser l’indication opératoire d’une cataracte, quels paramètres sont explicitement pris en compte dans le texte ?",
+      "choices": [
+        "L’âge du patient",
+        "L’activité professionnelle",
+        "Les besoins visuels et la gêne ressentie",
+        "L’absence ou la présence de pathologies oculaires associées"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Même si l’acuité autour de 5/10 est souvent un repère, la décision dépend surtout de la gêne fonctionnelle et de facteurs individuels : âge, profession, besoins visuels, gêne et pathologies associées."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une chirurgie de cataracte non compliquée, quelles affirmations correspondent au suivi et aux suites habituelles décrites ?",
+      "choices": [
+        "Un traitement par collyres anti-inflammatoires et antibiotiques est généralement prescrit",
+        "Le traitement postopératoire dure environ un mois",
+        "Le suivi comprend au moins deux contrôles dans le mois suivant l’intervention",
+        "Une nouvelle correction optique peut être prescrite en moyenne un mois après la chirurgie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les soins postopératoires associent collyres anti-inflammatoires et antibiotiques pendant environ un mois, avec au moins deux contrôles dans le mois et possibilité de correction optique à environ un mois."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une baisse visuelle progressive tardive après chirurgie de cataracte, quelles données évoquent une opacification de la capsule postérieure ?",
+      "choices": [
+        "Prolifération de cellules cristalliniennes résiduelles sur la capsule postérieure",
+        "Baisse progressive de l’acuité visuelle",
+        "Opacités gênantes lorsqu’elles sont centrales",
+        "Infection intraoculaire sévère imposant systématiquement une hospitalisation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’opacification capsulaire postérieure, ou cataracte secondaire, est due à la prolifération de cellules cristalliniennes résiduelles et donne une baisse progressive, surtout si les opacités sont centrales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’endophtalmie postopératoire après chirurgie de cataracte, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une infection intraoculaire sévère",
+        "Elle peut compromettre définitivement la fonction visuelle",
+        "Elle survient généralement entre le 2e et le 7e jour postopératoire",
+        "Elle se traite uniquement par une nouvelle correction optique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’endophtalmie est une infection intraoculaire sévère, généralement entre J2 et J7, pouvant compromettre la vision. Elle nécessite une prise en charge urgente par antibiothérapie locale et générale, souvent en hospitalisation."
+    },
+    {
+      "type": "QCM",
+      "question": "Après chirurgie de cataracte, quelles situations ou entités sont correctement associées aux complications postérieures décrites ?",
+      "choices": [
+        "Rupture peropératoire de la capsule postérieure : augmentation du risque de décollement de rétine",
+        "Forte myopie : augmentation du risque de décollement de rétine",
+        "Œdème d’Irvine-Gass : baisse de vision possible",
+        "Bulles épithéliales cornéennes : signe spécifique de décollement de rétine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le risque de décollement de rétine augmente en cas de rupture capsulaire postérieure et chez les forts myopes. L’œdème d’Irvine-Gass est un œdème maculaire postopératoire pouvant baisser la vision."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles manifestations appartiennent à la kératite bulleuse postopératoire telle qu’elle est décrite ?",
+      "choices": [
+        "Décompensation œdémateuse de la cornée",
+        "Douleur possible",
+        "Baisse visuelle",
+        "Bulles épithéliales cornéennes"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La kératite bulleuse correspond à une décompensation œdémateuse cornéenne pouvant entraîner douleur, baisse visuelle et bulles épithéliales cornéennes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des performances optiques des implants, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Un implant sphérique monofocal corrige la myopie ou l’hypermétropie",
+        "Un implant sphérique monofocal ne restaure pas l’accommodation",
+        "Un implant multifocal peut s’accompagner de halos",
+        "Un implant torique peut être positionné sans tenir compte d’un axe"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le monofocal sphérique corrige les amétropies sphériques mais pas l’accommodation. Le multifocal peut donner halos ou baisse de contraste. Le torique doit être positionné selon un axe précis."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’incision cornéenne au cours de la chirurgie décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "L’incision est cornéenne et tunnélisée",
+        "Une suture cornéenne peut être nécessaire",
+        "La suture est notamment indiquée si l’incision n’est pas autoétanche",
+        "La suture cornéenne est systématique quelle que soit l’étanchéité de l’incision"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’intervention comporte une incision cornéenne tunnélisée. Une suture n’est réalisée que si nécessaire, notamment lorsque l’incision n’est pas autoétanche."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient aphake corrigé par lentilles de contact faute d’implant, quelles complications sont explicitement citées ?",
+      "choices": [
+        "Intolérance aux lentilles",
+        "Ulcère cornéen traumatique",
+        "Abcès cornéen infectieux",
+        "Décollement de rétine induit par la manipulation des lentilles"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lentilles de contact exposent aux contraintes de manipulation, à l’intolérance et à des complications cornéennes : ulcère traumatique et abcès infectieux."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la définition de l’aphakie dans le texte ?",
+      "choices": [
+        "Absence de cristallin",
+        "Opacification de la capsule postérieure",
+        "Inflammation intraoculaire infectieuse",
+        "Décompensation œdémateuse de la cornée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’aphakie correspond à l’absence de cristallin."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel temps opératoire permet de retirer le contenu du sac cristallinien grâce aux ultrasons ?",
+      "choices": [
+        "Hydrodissection",
+        "Phacoémulsification",
+        "Désinfection conjonctivale",
+        "Capsulotomie au laser YAG"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La phacoémulsification du cristallin par ultrasons permet de retirer le contenu du sac cristallinien."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel délai de survenue est typique de l’endophtalmie postopératoire selon le texte ?",
+      "choices": [
+        "Entre le 2e et le 7e jour postopératoire",
+        "Immédiatement pendant l’incision cornéenne",
+        "Uniquement après le premier mois",
+        "Plusieurs années après la chirurgie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’endophtalmie survient généralement entre le 2e et le 7e jour postopératoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement est indiqué pour une opacification de la capsule postérieure gênante ?",
+      "choices": [
+        "Capsulotomie au laser YAG",
+        "Antibiothérapie générale isolée",
+        "Implant de chambre antérieure systématique",
+        "Correction par lunettes épaisses uniquement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le traitement de l’opacification de la capsule postérieure repose sur une capsulotomie au laser YAG."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel nom est donné à l’œdème maculaire postopératoire pouvant entraîner une baisse de vision après chirurgie de cataracte ?",
+      "choices": [
+        "Kératite bulleuse",
+        "Œdème d’Irvine-Gass",
+        "Cataracte secondaire",
+        "Endophtalmie"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’œdème maculaire postopératoire est aussi appelé œdème d’Irvine-Gass."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé explique que la correction de l’aphakie par lunettes reste exceptionnelle ?",
+      "choices": [
+        "Elle nécessite des verres très puissants et épais",
+        "Elle corrige l’astigmatisme par une composante cylindrique intraoculaire",
+        "Elle expose principalement à un abcès cornéen infectieux par port de lentille",
+        "Elle correspond à l’implantation d’un cristallin artificiel dans le sac capsulaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La correction par lunettes de l’aphakie nécessite des verres très puissants et épais, avec aberrations optiques et réduction du champ visuel utile, ce qui la rend exceptionnelle."
+    }
+  ],
+  "status": "done",
+  "error": "Connection error.",
+  "updatedAt": "2026-07-03T13:33:43.357Z"
+}

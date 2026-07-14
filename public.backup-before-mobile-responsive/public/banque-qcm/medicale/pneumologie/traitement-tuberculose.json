@@ -1,0 +1,3101 @@
+{
+  "category": "medicale",
+  "module": "pneumologie",
+  "courseId": null,
+  "courseTitle": null,
+  "supportTitle": "traitement-tuberculose.pdf",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/traitement-tuberculose.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre tuberculose-maladie et infection tuberculeuse latente, quelles propositions sont exactes ?",
+      "choices": [
+        "La tuberculose-maladie correspond à une infection active due au complexe Mycobacterium tuberculosis.",
+        "Après contamination, 90 à 95 % des sujets restent en infection tuberculeuse latente.",
+        "L’infection tuberculeuse latente est contagieuse en cas de toux chronique.",
+        "L’infection tuberculeuse latente peut évoluer vers une tuberculose-maladie, surtout en cas d’immunodépression ou chez le jeune enfant."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La tuberculose-maladie est une infection active. Après contamination, la majorité des sujets restent en infection latente, non contagieuse, mais pouvant évoluer vers une maladie notamment en cas d’immunodépression ou chez le jeune enfant."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments cliniques peuvent évoquer une tuberculose respiratoire selon le texte ?",
+      "choices": [
+        "Altération de l’état général.",
+        "Fièvre prolongée.",
+        "Toux chronique parfois sèche.",
+        "Signes respiratoires d’apparition brutale en quelques heures."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La tuberculose respiratoire peut se manifester par une altération de l’état général, une fièvre prolongée, une toux chronique parfois sèche et des signes respiratoires évoluant depuis plusieurs semaines."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le diagnostic microbiologique d’une tuberculose respiratoire, quels examens ou recherches sont mentionnés ?",
+      "choices": [
+        "Examen des expectorations ou de prélèvements respiratoires.",
+        "Examen microscopique à la recherche de BAAR.",
+        "Culture mycobactérienne.",
+        "Sérologie systématique de Mycobacterium tuberculosis."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic repose notamment sur l’examen des expectorations ou prélèvements respiratoires, la recherche microscopique de BAAR, la culture mycobactérienne et la PCR pour Mycobacterium tuberculosis. La sérologie n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tests de résistance dans la tuberculose, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils font partie du diagnostic mentionné dans le texte.",
+        "Ils concernent notamment l’isoniazide.",
+        "Ils concernent notamment la rifampicine.",
+        "Ils remplacent systématiquement la culture mycobactérienne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tests de résistance sont indiqués dans le diagnostic, notamment vis-à-vis de l’isoniazide et de la rifampicine. Le texte ne dit pas qu’ils remplacent la culture."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement habituel d’une tuberculose multi-sensible, quelles propositions sont exactes ?",
+      "choices": [
+        "La durée habituelle est de 6 mois.",
+        "La phase initiale est généralement une quadrithérapie associant isoniazide, rifampicine, pyrazinamide et éthambutol.",
+        "La phase de continuation repose sur une bithérapie par isoniazide et rifampicine.",
+        "Le taux de guérison est inférieur à 50 % même si le traitement est correctement conduit."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement de la tuberculose multi-sensible dure habituellement 6 mois, avec une phase initiale de quadrithérapie puis une continuation par isoniazide et rifampicine. Le taux de guérison est supérieur à 95 % si le traitement est correctement conduit."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles posologies usuelles des antituberculeux sont conformes au texte ?",
+      "choices": [
+        "Isoniazide : 4 à 5 mg/kg/j.",
+        "Rifampicine : 10 mg/kg/j.",
+        "Pyrazinamide : 20 à 25 mg/kg/j.",
+        "Éthambutol : 50 mg/kg/j systématiquement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les posologies citées sont : isoniazide 4 à 5 mg/kg/j, rifampicine 10 mg/kg/j, pyrazinamide 20 à 25 mg/kg/j. Aucune posologie d’éthambutol n’est donnée dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez une femme enceinte traitée pour tuberculose, quelles mesures sont mentionnées ?",
+      "choices": [
+        "Supplémentation en vitamine B6 pendant tout le traitement.",
+        "Vitamine K 10 mg/j à débuter 15 jours avant le terme.",
+        "Traitement préventif du nouveau-né selon le contexte.",
+        "Arrêt systématique de toute rifampicine pendant la grossesse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne la vitamine B6 pendant tout le traitement, la vitamine K 10 mg/j débutée 15 jours avant le terme, et un traitement préventif du nouveau-né selon le contexte. Il ne mentionne pas d’arrêt systématique de la rifampicine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la surveillance hépatique du traitement antituberculeux, quelles propositions sont exactes ?",
+      "choices": [
+        "Les transaminases doivent être contrôlées à J0.",
+        "Les transaminases doivent être contrôlées à J7, J14 et J30.",
+        "En cas de transaminases à 3 fois la normale, une surveillance rapprochée 2 fois par semaine est indiquée.",
+        "En cas de transaminases à 3 fois la normale, l’arrêt immédiat de tous les antituberculeux est systématique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La surveillance hépatique comprend les transaminases à J0, J7, J14 et J30. À 3 fois la normale, il faut vérifier les posologies, rechercher les comédications hépatotoxiques et les hépatites virales, avec surveillance rapprochée 2 fois par semaine."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de transaminases à 7 fois la normale sous traitement antituberculeux, quelles conduites sont conformes au texte ?",
+      "choices": [
+        "Arrêter l’isoniazide.",
+        "Arrêter le pyrazinamide.",
+        "Poursuivre rifampicine et éthambutol.",
+        "Réintroduire immédiatement le pyrazinamide dès le lendemain."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À 7 fois la normale, il faut arrêter isoniazide et pyrazinamide, poursuivre rifampicine et éthambutol. La réintroduction du pyrazinamide est à haut risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les adaptations thérapeutiques lorsqu’un antituberculeux majeur est inutilisable, quelles propositions sont exactes ?",
+      "choices": [
+        "Si la rifampicine est inutilisable, le traitement peut être prolongé jusqu’à 18 mois.",
+        "Si l’isoniazide est inutilisable, un schéma de 6 mois rifampicine/éthambutol/pyrazinamide ± moxifloxacine est mentionné.",
+        "Si le pyrazinamide est inutilisable, le traitement comprend 2 mois isoniazide/rifampicine/éthambutol ± moxifloxacine puis 7 mois isoniazide/rifampicine ± moxifloxacine.",
+        "Si l’éthambutol est inutilisable, l’impact est majeur même en cas de tuberculose confirmée multi-sensible."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise ces adaptations pour la rifampicine, l’isoniazide et le pyrazinamide. Pour l’éthambutol, l’impact est limité si la tuberculose est confirmée multi-sensible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la contagiosité de la tuberculose, quelles propositions sont exactes ?",
+      "choices": [
+        "Seules les tuberculoses-maladies respiratoires sont contagieuses.",
+        "Les tuberculoses laryngées font partie des formes contagieuses.",
+        "Les tuberculoses pleurales ou médiastinales isolées ne sont pas considérées comme contagieuses.",
+        "La transmission se fait principalement par contact cutané direct."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tuberculoses-maladies respiratoires sont contagieuses, notamment lorsqu’elles concernent le parenchyme pulmonaire ou les voies aériennes comme les formes laryngées. Les formes pleurales ou médiastinales isolées ne sont pas considérées comme contagieuses. La transmission est aérienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tuberculose bacillifère et le risque de transmission, quelles propositions sont exactes ?",
+      "choices": [
+        "La tuberculose bacillifère est définie par la présence de bacilles visibles à l’examen microscopique.",
+        "Le seuil approximatif de détection est de 5 000 à 10 000 bacilles/mL.",
+        "Chez les contacts vivant sous le même toit, la transmission est d’environ 30 à 50 % si l’examen direct et la culture sont positifs.",
+        "Aucune transmission ne peut provenir de sources non bacillifères."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bacilliférie correspond à la visualisation de bacilles à l’examen microscopique, avec un seuil d’environ 5 000 à 10 000 bacilles/mL. La transmission est plus élevée si l’examen direct est positif. Le texte précise que 10 à 15 % des transmissions peuvent provenir de sources non bacillifères."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs sont associés à la transmission ou au diagnostic d’infection tuberculeuse latente chez les contacts ?",
+      "choices": [
+        "Vie sous le même toit.",
+        "Lésions cavitaires chez le cas index.",
+        "Tabagisme chez le contact.",
+        "Exposition exclusivement en extérieur bien ventilé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs associés incluent la vie sous le même toit, les lésions cavitaires chez le cas index, le tabagisme chez le contact, la durée et la proximité de l’exposition ainsi que l’exposition en espace confiné."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’isolement respiratoire en cas de suspicion ou confirmation de tuberculose respiratoire, quelles propositions sont exactes ?",
+      "choices": [
+        "Toute tuberculose respiratoire doit être considérée contagieuse jusqu’à preuve du contraire.",
+        "L’isolement est indiqué même si l’examen microscopique est négatif en cas de suspicion de tuberculose respiratoire.",
+        "En cas de tuberculose respiratoire confirmée, l’isolement est maintenu au minimum 2 semaines après le début du traitement.",
+        "La levée de l’isolement est possible dès la première prise du traitement, sans autre condition."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Toute tuberculose respiratoire est considérée contagieuse jusqu’à preuve du contraire. L’isolement est indiqué même si l’examen microscopique est négatif. En cas de confirmation, il est maintenu au minimum 2 semaines après début du traitement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel schéma usuel est mentionné pour une tuberculose neuroméningée ?",
+      "choices": [
+        "RHZ pendant 2 mois puis RH pendant 4 mois.",
+        "RHZ pendant 2 mois puis RH pendant 7 mois.",
+        "Rifampicine seule pendant 6 mois.",
+        "Isoniazide/éthambutol pendant 18 mois sans phase initiale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que la tuberculose neuroméningée est traitée par RHZ pendant 2 mois puis RH pendant 7 mois."
+    },
+    {
+      "type": "QCS",
+      "question": "En insuffisance rénale sévère, quelle adaptation du pyrazinamide est donnée comme exemple ?",
+      "choices": [
+        "Arrêt définitif systématique du pyrazinamide.",
+        "Administration du pyrazinamide 3 fois par semaine.",
+        "Doublement de la dose quotidienne de pyrazinamide.",
+        "Remplacement obligatoire par rifabutine."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En insuffisance rénale sévère, le texte mentionne une adaptation du pyrazinamide, par exemple une administration 3 fois par semaine."
+    },
+    {
+      "type": "QCS",
+      "question": "Après normalisation du bilan hépatique, comment l’isoniazide doit-il être réintroduit selon le texte ?",
+      "choices": [
+        "À 1 mg/kg/j.",
+        "À 3 mg/kg/j.",
+        "À 10 mg/kg/j.",
+        "À dose pleine sans palier."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Après normalisation du bilan hépatique, l’isoniazide est réintroduit à 3 mg/kg/j."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelles conditions la levée de l’isolement respiratoire est-elle possible selon le texte ?",
+      "choices": [
+        "Après 48 heures de traitement, quelle que soit l’évolution clinique.",
+        "Si le traitement est correctement pris depuis 2 semaines, avec amélioration de la fièvre et de la toux, et sans suspicion de tuberculose multirésistante.",
+        "Dès que l’examen microscopique initial est négatif.",
+        "Uniquement après négativation définitive de toutes les cultures."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La levée est possible si le traitement est correctement pris depuis 2 semaines, avec amélioration clinique de la fièvre et de la toux, et absence de suspicion de tuberculose multirésistante."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’enquête autour d’un cas, quelle stratégie est mentionnée ?",
+      "choices": [
+        "Dépistage aléatoire de la population générale.",
+        "Stratégie des cercles concentriques.",
+        "Dépistage uniquement des contacts symptomatiques après 6 mois.",
+        "Arrêt de l’enquête dès qu’un cas index est bacillifère."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’enquête autour d’un cas repose sur la stratégie des cercles concentriques, avec dépistage prioritaire du premier cercle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément définit une tuberculose bacillifère ?",
+      "choices": [
+        "Une PCR positive seule.",
+        "Une culture positive seule avec examen direct négatif.",
+        "La présence de bacilles visibles à l’examen microscopique.",
+        "Une fièvre prolongée avec toux chronique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La tuberculose bacillifère est définie par la présence de bacilles visibles à l’examen microscopique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le texte, quelles situations procédurales sont citées parmi les contextes à risque nécessitant une attention particulière autour d’un cas de tuberculose ?",
+      "choices": [
+        "Endoscopie bronchique ou ORL",
+        "Expectoration induite",
+        "Kinésithérapie respiratoire",
+        "Partage d’un espace ouvert sans durée précisée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’endoscopie bronchique ou ORL, l’expectoration induite et la kinésithérapie respiratoire. Le partage d’un espace ouvert sans durée n’est pas mentionné."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les durées cumulées d’exposition en espace confiné, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Une exposition cumulée > 8 heures est retenue si l’examen microscopique est positif",
+        "Une exposition cumulée > 40 heures est retenue si l’examen microscopique est négatif",
+        "Une exposition cumulée > 40 heures est retenue si l’examen microscopique est positif",
+        "Une exposition cumulée > 8 heures est retenue si l’examen microscopique est négatif"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le seuil est > 8 heures en cas d’examen microscopique positif et > 40 heures en cas d’examen microscopique négatif."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels contacts sont classés dans le deuxième cercle, correspondant à un risque intermédiaire ?",
+      "choices": [
+        "Amis proches",
+        "Collègues de travail proches",
+        "Partenaires de loisirs",
+        "Visiteurs réguliers au domicile"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Tous ces exemples sont explicitement cités dans le deuxième cercle de risque intermédiaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels exemples correspondent au troisième cercle, défini comme un risque faible ?",
+      "choices": [
+        "Personnes vivant dans la même communauté",
+        "Personnes fréquentant la même école",
+        "Personnes partageant le même lieu de travail",
+        "Contacts sporadiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le troisième cercle regroupe notamment les personnes de la même communauté, école, lieu de travail, activités de loisirs, ainsi que les contacts sporadiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les distinctions entre deuxième et troisième cercles, quelles propositions sont exactes ?",
+      "choices": [
+        "Les visiteurs réguliers au domicile relèvent du deuxième cercle",
+        "Les collègues de travail proches relèvent du deuxième cercle",
+        "Les personnes du même lieu de travail relèvent du troisième cercle lorsqu’elles ne sont pas décrites comme proches",
+        "Les amis proches relèvent du troisième cercle"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les visiteurs réguliers, collègues proches et amis proches sont du deuxième cercle. Le même lieu de travail, sans proximité particulière, est cité dans le troisième cercle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les passagers d’un vol, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les passagers de la même rangée lors d’un vol de plus de 8 heures relèvent du deuxième cercle",
+        "La notion de même rangée est précisée dans le texte",
+        "Tous les passagers d’un vol de moins de 8 heures relèvent du deuxième cercle",
+        "Les passagers de la même rangée relèvent toujours du premier cercle"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne les passagers de la même rangée lors d’un vol de plus de 8 heures dans le deuxième cercle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tuberculose multirésistante MDR, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle implique une résistance au moins à l’isoniazide",
+        "Elle implique une résistance au moins à la rifampicine",
+        "Elle est définie par une résistance au moins à l’isoniazide et à la rifampicine",
+        "Elle est définie uniquement par une résistance aux fluoroquinolones"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La MDR est définie par une résistance au moins à l’isoniazide et à la rifampicine. Les fluoroquinolones interviennent dans la définition de la XDR."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tuberculose XDR selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une tuberculose MDR",
+        "Elle comporte une résistance à toutes les fluoroquinolones",
+        "Elle comporte une résistance à au moins un injectable de deuxième ligne",
+        "Elle est définie par une résistance isolée à la rifampicine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La XDR est une MDR associée à une résistance à toutes les fluoroquinolones et à au moins un injectable de deuxième ligne."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels injectables de deuxième ligne sont cités dans la définition de la tuberculose XDR ?",
+      "choices": [
+        "Amikacine",
+        "Kanamycine",
+        "Capréomycine",
+        "Isoniazide"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’amikacine, la kanamycine et la capréomycine comme injectables de deuxième ligne. L’isoniazide n’est pas cité comme tel."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes MDR/XDR par rapport aux tuberculoses sensibles, quelles propositions sont exactes ?",
+      "choices": [
+        "Les formes cliniques sont similaires",
+        "La contagiosité est similaire",
+        "Elles ont obligatoirement une présentation clinique différente",
+        "Elles sont décrites comme non contagieuses"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que les formes cliniques et la contagiosité des MDR/XDR sont similaires à celles des tuberculoses sensibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement des tuberculoses MDR/XDR, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est long",
+        "Il est lourd",
+        "Il est coûteux",
+        "Il est habituellement limité à quelques jours"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement MDR/XDR est décrit comme long, lourd et coûteux. Sa durée habituelle est de 18 à 24 mois."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles caractéristiques thérapeutiques des tuberculoses MDR/XDR sont mentionnées dans le texte ?",
+      "choices": [
+        "Recours possible à la chirurgie selon les cas",
+        "Injectables possibles",
+        "Prises quotidiennes multiples",
+        "Absence de nécessité de prise en charge spécialisée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne le recours possible à la chirurgie, les injectables possibles et les prises quotidiennes multiples. La prise en charge spécialisée est au contraire indispensable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tolérance et l’organisation du traitement MDR/XDR, quelles propositions sont exactes ?",
+      "choices": [
+        "Les traitements de deuxième ligne sont souvent mal tolérés",
+        "Une prise en charge spécialisée est indispensable",
+        "Les prises quotidiennes multiples peuvent faire partie du traitement",
+        "Les traitements de deuxième ligne sont toujours décrits comme bien tolérés"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les traitements de deuxième ligne sont souvent mal tolérés, avec prises quotidiennes multiples, et nécessitent une prise en charge spécialisée."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du risque intermédiaire, quelles formulations reprennent fidèlement le texte ?",
+      "choices": [
+        "Contacts réguliers mais moins étroits",
+        "Contacts réguliers mais moins prolongés",
+        "Étudiants d’une même classe",
+        "Contacts sporadiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le deuxième cercle inclut les contacts réguliers mais moins étroits ou moins prolongés, ainsi que les étudiants d’une même classe. Les contacts sporadiques relèvent du troisième cercle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel contact est explicitement classé dans le deuxième cercle ?",
+      "choices": [
+        "Personne vivant dans la même communauté",
+        "Passager de la même rangée lors d’un vol de plus de 8 heures",
+        "Contact sporadique",
+        "Personne fréquentant la même école"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les passagers de la même rangée lors d’un vol de plus de 8 heures sont classés dans le deuxième cercle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel exemple correspond au troisième cercle de risque faible ?",
+      "choices": [
+        "Ami proche",
+        "Collègue de travail proche",
+        "Partenaire de loisirs",
+        "Contact sporadique"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Les contacts sporadiques sont explicitement classés dans le troisième cercle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle définition correspond à une tuberculose MDR ?",
+      "choices": [
+        "Résistance au moins à l’isoniazide et à la rifampicine",
+        "Résistance à toutes les fluoroquinolones uniquement",
+        "Résistance à au moins un injectable de deuxième ligne uniquement",
+        "Résistance isolée à l’isoniazide"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La MDR est définie par une résistance au moins à l’isoniazide et à la rifampicine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement une tuberculose XDR selon le texte ?",
+      "choices": [
+        "Tuberculose sensible avec résistance isolée à la rifampicine",
+        "Tuberculose MDR avec résistance à toutes les fluoroquinolones et à au moins un injectable de deuxième ligne",
+        "Tuberculose MDR sans résistance aux fluoroquinolones",
+        "Tuberculose avec résistance isolée à l’isoniazide"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La XDR est une MDR associée à une résistance à toutes les fluoroquinolones et à au moins un injectable de deuxième ligne."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée habituelle du traitement des tuberculoses MDR/XDR mentionnée dans le texte ?",
+      "choices": [
+        "2 à 4 semaines",
+        "6 mois",
+        "18 à 24 mois",
+        "Plus de 40 heures"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique une durée habituelle de traitement de 18 à 24 mois pour les tuberculoses MDR/XDR."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation concernant la prise en charge des tuberculoses MDR/XDR est correcte ?",
+      "choices": [
+        "Elle ne nécessite pas de prise en charge spécialisée",
+        "Elle impose une prise en charge spécialisée indispensable",
+        "Elle exclut tout recours aux injectables",
+        "Elle exclut tout recours à la chirurgie"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’une prise en charge spécialisée est indispensable dans les tuberculoses MDR/XDR."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’infection tuberculeuse latente après contamination, quelles propositions sont exactes ?",
+      "choices": [
+        "Environ 90 à 95 % des sujets contaminés restent en infection latente.",
+        "L’infection tuberculeuse latente est contagieuse lorsqu’il existe une toux chronique.",
+        "Elle peut évoluer vers une tuberculose-maladie, surtout en cas d’immunodépression.",
+        "Le jeune enfant est un terrain favorisant l’évolution vers une tuberculose-maladie."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Après contamination, 90 à 95 % des sujets restent en infection latente. Celle-ci n’est pas contagieuse, mais peut évoluer vers une tuberculose-maladie, notamment chez l’immunodéprimé ou le jeune enfant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’impact du traitement antituberculeux sur la contagiosité, quelles propositions sont exactes ?",
+      "choices": [
+        "L’isoniazide possède un effet bactéricide précoce.",
+        "L’inoculum peut diminuer d’environ 95 % en 2 jours.",
+        "Si la souche est multi-sensible et l’observance parfaite, la contagiosité diminue rapidement après le début du traitement.",
+        "La diminution rapide de la contagiosité est garantie même en cas de suspicion de tuberculose multirésistante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte souligne l’effet bactéricide précoce de l’isoniazide, avec une diminution possible de l’inoculum d’environ 95 % en 2 jours. Cette baisse rapide suppose une souche multi-sensible et une observance parfaite."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations imposent une vigilance particulière lors d’une enquête autour d’un cas de tuberculose ?",
+      "choices": [
+        "Un examen microscopique positif.",
+        "La présence de lésions cavitaires.",
+        "La survenue de cas groupés.",
+        "Une suspicion ou confirmation de tuberculose résistante."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite explicitement ces situations comme nécessitant une vigilance particulière dans les enquêtes autour d’un cas."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une enquête autour d’un cas, quels contacts sont spécifiquement à risque d’évolution rapide vers une tuberculose-maladie ?",
+      "choices": [
+        "Les sujets immunodéprimés.",
+        "Les enfants de moins de 2 ans.",
+        "Les contacts tabagiques.",
+        "Les apparentés du premier degré."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte désigne les immunodéprimés et les enfants de moins de 2 ans comme contacts à risque d’évolution rapide vers une tuberculose-maladie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le premier cercle de l’enquête autour d’un cas, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Il correspond à un risque maximal.",
+        "Il comprend les personnes vivant sous le même toit.",
+        "Il comprend les personnes exposées sans protection lors de gestes à haut risque.",
+        "Il correspond aux contacts exposés uniquement en extérieur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le premier cercle correspond au risque maximal et inclut les personnes vivant sous le même toit ainsi que les personnes exposées sans protection lors de gestes à haut risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités de transmission de la tuberculose respiratoire, quelles propositions sont exactes ?",
+      "choices": [
+        "La transmission est aérienne par gouttelettes infectantes.",
+        "En espace confiné non ventilé, des gouttelettes viables peuvent persister environ 30 minutes après émission.",
+        "Le risque de transmission est très faible en extérieur.",
+        "Les tuberculoses pleurales ou médiastinales isolées ne sont pas considérées comme contagieuses."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La transmission est aérienne. Le texte précise la persistance possible des gouttelettes en espace confiné non ventilé, le risque très faible en extérieur et l’absence de contagiosité des formes pleurales ou médiastinales isolées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tuberculose bacillifère, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est définie par la présence de bacilles visibles à l’examen microscopique.",
+        "Le seuil approximatif de détection est de 5 000 à 10 000 bacilles/mL.",
+        "Une culture positive avec examen direct négatif suffit à définir une tuberculose bacillifère.",
+        "Une PCR positive seule définit une tuberculose bacillifère."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La tuberculose bacillifère est définie par des bacilles visibles à l’examen microscopique, avec un seuil de détection approximatif de 5 000 à 10 000 bacilles/mL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les taux de transmission aux contacts vivant sous le même toit, quelles propositions sont exactes ?",
+      "choices": [
+        "La transmission est d’environ 30 à 50 % si l’examen direct est positif et la culture positive.",
+        "La transmission est d’environ 10 % si l’examen direct est négatif mais la culture positive.",
+        "Environ 10 à 15 % des transmissions peuvent provenir de sources non bacillifères.",
+        "Une source non bacillifère ne peut jamais transmettre la tuberculose."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte donne ces trois estimations : 30 à 50 % si examen direct et culture positifs, environ 10 % si examen direct négatif mais culture positive, et 10 à 15 % de transmissions possibles depuis des sources non bacillifères."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs sont associés à la transmission ou au diagnostic d’infection tuberculeuse latente chez les contacts ?",
+      "choices": [
+        "Un lien familial de premier degré.",
+        "Le sommeil dans le même logement.",
+        "La durée et la proximité de l’exposition.",
+        "L’exposition en espace confiné."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre éléments figurent dans la liste des facteurs associés à la transmission ou au diagnostic d’infection tuberculeuse latente chez les contacts."
+    },
+    {
+      "type": "QCM",
+      "question": "Si la rifampicine est inutilisable, quelles modalités thérapeutiques sont mentionnées ?",
+      "choices": [
+        "Le traitement peut être prolongé jusqu’à 18 mois.",
+        "Une phase de 2 mois par isoniazide, éthambutol, pyrazinamide ± moxifloxacine est proposée.",
+        "Une phase de 16 mois par isoniazide, éthambutol ± moxifloxacine est proposée.",
+        "Une alternative possible est l’utilisation de la rifabutine à la place de la rifampicine."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "En cas d’impossibilité d’utiliser la rifampicine, le texte propose un traitement prolongé jusqu’à 18 mois, avec les séquences précisées, et mentionne la rifabutine comme alternative possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Si l’isoniazide est inutilisable, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le schéma proposé dure 6 mois.",
+        "Le traitement repose sur rifampicine, éthambutol et pyrazinamide ± moxifloxacine.",
+        "La moxifloxacine peut être associée.",
+        "Le traitement doit être systématiquement prolongé jusqu’à 18 mois."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Lorsque l’isoniazide est inutilisable, le texte propose 6 mois de rifampicine/éthambutol/pyrazinamide ± moxifloxacine. L’allongement à 18 mois concerne surtout l’impossibilité d’utiliser la rifampicine."
+    },
+    {
+      "type": "QCM",
+      "question": "Si le pyrazinamide est inutilisable, quelles propositions sont exactes ?",
+      "choices": [
+        "Une phase initiale de 2 mois par isoniazide, rifampicine, éthambutol ± moxifloxacine est mentionnée.",
+        "La phase suivante comporte 7 mois d’isoniazide, rifampicine ± moxifloxacine.",
+        "La durée totale du schéma mentionné est de 9 mois.",
+        "La réintroduction du pyrazinamide est considérée comme à faible risque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas d’impossibilité d’utiliser le pyrazinamide, le texte propose 2 mois de H/R/E ± moxifloxacine puis 7 mois de H/R ± moxifloxacine, soit 9 mois au total. La réintroduction du pyrazinamide est à haut risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’éthambutol dans les adaptations thérapeutiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Son impossibilité d’utilisation a un impact limité si la tuberculose est confirmée multi-sensible.",
+        "Il fait généralement partie de la quadrithérapie initiale.",
+        "Il peut faire partie du schéma initial de 2 mois lorsque le pyrazinamide est inutilisable.",
+        "Son impossibilité impose le même allongement thérapeutique que l’impossibilité d’utiliser la rifampicine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’éthambutol appartient généralement à la phase initiale. Si le pyrazinamide est inutilisable, il peut être utilisé avec isoniazide et rifampicine. Son impossibilité a un impact limité si la souche est confirmée multi-sensible."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez une femme enceinte traitée pour tuberculose, quelles mesures sont mentionnées ?",
+      "choices": [
+        "Une supplémentation en vitamine B6 pendant tout le traitement.",
+        "Une vitamine K à la dose de 10 mg/j.",
+        "La vitamine K doit être débutée 15 jours avant le terme.",
+        "Un traitement préventif du nouveau-né peut être indiqué selon le contexte."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne la vitamine B6 pendant tout le traitement, la vitamine K 10 mg/j à débuter 15 jours avant le terme, et un traitement préventif du nouveau-né selon le contexte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le mieux la tuberculose-maladie selon le texte ?",
+      "choices": [
+        "Une infection active due au complexe Mycobacterium tuberculosis.",
+        "Une infection latente toujours asymptomatique et contagieuse.",
+        "Une colonisation respiratoire sans risque évolutif.",
+        "Une réaction immunologique sans présence de mycobactérie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La tuberculose-maladie est définie comme une infection active due au complexe Mycobacterium tuberculosis."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel taux de guérison est mentionné pour une tuberculose multi-sensible si le traitement est correctement conduit ?",
+      "choices": [
+        "Supérieur à 50 %.",
+        "Supérieur à 75 %.",
+        "Supérieur à 95 %.",
+        "Strictement égal à 100 %."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique un taux de guérison supérieur à 95 % lorsque le traitement est correctement conduit."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen met en évidence les BAAR dans les prélèvements respiratoires ?",
+      "choices": [
+        "La culture mycobactérienne.",
+        "L’examen microscopique.",
+        "La PCR pour Mycobacterium tuberculosis.",
+        "Le test de résistance à la rifampicine."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La recherche de BAAR se fait à l’examen microscopique."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas de transaminases à 3 fois la normale sous traitement antituberculeux, quelle fréquence de surveillance rapprochée est mentionnée ?",
+      "choices": [
+        "Une fois par mois.",
+        "Deux fois par semaine.",
+        "Tous les 6 mois.",
+        "Uniquement à J30."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "À 3 fois la normale, le texte recommande notamment une surveillance rapprochée deux fois par semaine."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’enquête autour d’un cas, que faire si aucune infection tuberculeuse latente n’est diagnostiquée dans le premier cercle ?",
+      "choices": [
+        "Élargir systématiquement au cercle suivant.",
+        "Arrêter immédiatement tout traitement du cas index.",
+        "L’enquête peut s’arrêter.",
+        "Classer tous les contacts comme tuberculose-maladie."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que si aucune infection tuberculeuse latente n’est diagnostiquée dans le premier cercle, l’enquête peut s’arrêter."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil est cité pour qualifier un cas index de très bacillifère ?",
+      "choices": [
+        "> 100 BAAR/champ.",
+        "5 000 à 10 000 bacilles/mL.",
+        "Environ 30 minutes après émission.",
+        "10 contaminations par an."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite un cas index très bacillifère, notamment au-delà de 100 BAAR par champ."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le classement des expositions en espace confiné autour d’un cas de tuberculose respiratoire, quels scénarios atteignent le seuil mentionné dans le texte ?",
+      "choices": [
+        "Exposition cumulée de 9 heures si l’examen microscopique est positif",
+        "Exposition cumulée de 6 heures si l’examen microscopique est positif",
+        "Exposition cumulée de 45 heures si l’examen microscopique est négatif",
+        "Exposition cumulée de 30 heures si l’examen microscopique est négatif"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte retient une durée cumulée > 8 heures si l’examen microscopique est positif, et > 40 heures s’il est négatif."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels gestes ou situations procédurales sont cités comme nécessitant une attention particulière dans le contexte d’une tuberculose respiratoire ?",
+      "choices": [
+        "Endoscopie bronchique",
+        "Endoscopie ORL",
+        "Expectoration induite",
+        "Kinésithérapie respiratoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite explicitement l’endoscopie bronchique ou ORL, l’expectoration induite et la kinésithérapie respiratoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les contacts suivants, lesquels relèvent du deuxième cercle de risque intermédiaire selon le texte ?",
+      "choices": [
+        "Amis proches",
+        "Collègues de travail proches",
+        "Partenaires de loisirs",
+        "Visiteurs réguliers au domicile"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre catégories sont listées dans le deuxième cercle, correspondant à un risque intermédiaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels exemples correspondent au troisième cercle de risque faible ?",
+      "choices": [
+        "Personnes vivant dans la même communauté",
+        "Personnes fréquentant la même école",
+        "Contacts sporadiques",
+        "Personnes exerçant dans le même lieu de travail"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le troisième cercle comprend notamment la même communauté, la même école, le même lieu de travail, les mêmes activités de loisirs et les contacts sporadiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre contacts réguliers et contacts communautaires, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les visiteurs réguliers au domicile appartiennent au deuxième cercle",
+        "Les personnes vivant dans la même communauté appartiennent au troisième cercle",
+        "Les étudiants d’une même classe appartiennent au deuxième cercle",
+        "Les contacts sporadiques appartiennent au troisième cercle"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte classe les visiteurs réguliers au domicile et les étudiants d’une même classe dans le deuxième cercle, tandis que la même communauté et les contacts sporadiques relèvent du troisième cercle."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des passagers exposés lors d’un vol, quelles situations correspondent à la catégorie mentionnée dans le texte ?",
+      "choices": [
+        "Passagers assis dans la même rangée lors d’un vol de plus de 8 heures",
+        "Passager de la même rangée lors d’un vol de 10 heures",
+        "Passager d’une autre rangée lors d’un vol de plus de 8 heures",
+        "Passager de la même rangée lors d’un vol court de 2 heures"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte ne retient que les passagers de la même rangée lors d’un vol de plus de 8 heures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition d’une tuberculose MDR, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle implique une résistance au moins à l’isoniazide",
+        "Elle implique une résistance au moins à la rifampicine",
+        "Elle est définie par la résistance conjointe à l’isoniazide et à la rifampicine",
+        "Elle nécessite obligatoirement une résistance aux fluoroquinolones"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La tuberculose MDR est définie par une résistance au moins à l’isoniazide et à la rifampicine. La résistance aux fluoroquinolones intervient dans la définition de la XDR."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour qualifier une tuberculose de XDR selon le texte, quels éléments sont nécessaires ?",
+      "choices": [
+        "Une tuberculose déjà MDR",
+        "Une résistance à toutes les fluoroquinolones",
+        "Une résistance à au moins un injectable de deuxième ligne",
+        "Une résistance obligatoire à tous les injectables de deuxième ligne"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La XDR est une tuberculose MDR avec résistance à toutes les fluoroquinolones et à au moins un injectable de deuxième ligne, et non à tous obligatoirement."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une souche MDR résistante à toutes les fluoroquinolones, quelles résistances additionnelles citées dans le texte peuvent satisfaire le critère d’injectable de deuxième ligne pour une XDR ?",
+      "choices": [
+        "Amikacine",
+        "Kanamycine",
+        "Capréomycine",
+        "Isoniazide seul"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les injectables de deuxième ligne cités sont l’amikacine, la kanamycine et la capréomycine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes MDR/XDR comparativement aux tuberculoses sensibles, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les formes cliniques sont similaires",
+        "La contagiosité est similaire",
+        "Le traitement est généralement plus long et plus lourd",
+        "Elles sont décrites comme moins coûteuses à traiter"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que les formes cliniques et la contagiosité sont similaires, mais que le traitement est long, lourd et coûteux."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments caractérisent le traitement des tuberculoses MDR/XDR selon le texte ?",
+      "choices": [
+        "Traitement long",
+        "Traitement lourd",
+        "Traitement coûteux",
+        "Durée habituelle de 18 à 24 mois"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit un traitement long, lourd et coûteux, avec une durée habituelle de 18 à 24 mois."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles modalités ou contraintes de prise en charge des tuberculoses MDR/XDR sont mentionnées ?",
+      "choices": [
+        "Recours possible à la chirurgie selon les cas",
+        "Traitements de deuxième ligne souvent mal tolérés",
+        "Injectables possibles",
+        "Prise en charge spécialisée indispensable"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne le recours possible à la chirurgie, les traitements de deuxième ligne souvent mal tolérés, les injectables possibles et la nécessité d’une prise en charge spécialisée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments renforcent la complexité pratique du traitement MDR/XDR ?",
+      "choices": [
+        "Prises quotidiennes multiples",
+        "Traitements de deuxième ligne souvent mal tolérés",
+        "Coût élevé du traitement",
+        "Durée habituelle pouvant atteindre 18 à 24 mois"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La complexité est liée aux prises quotidiennes multiples, à la mauvaise tolérance fréquente, au coût et à la longue durée du traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cercles de risque, quelles associations contact–niveau de risque sont exactes ?",
+      "choices": [
+        "Amis proches — risque intermédiaire",
+        "Passagers de la même rangée lors d’un vol de plus de 8 heures — risque intermédiaire",
+        "Contacts sporadiques — risque faible",
+        "Même activité de loisirs — risque faible"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les amis proches et les passagers de la même rangée lors d’un vol de plus de 8 heures relèvent du deuxième cercle ; les contacts sporadiques et mêmes activités de loisirs relèvent du troisième cercle."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas d’examen microscopique positif, quelle exposition cumulée en espace confiné dépasse le seuil mentionné dans le texte ?",
+      "choices": [
+        "4 heures",
+        "8 heures exactement",
+        "9 heures",
+        "40 heures exactement"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le seuil indiqué est strictement supérieur à 8 heures lorsque l’examen microscopique est positif."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas d’examen microscopique négatif, quelle durée cumulée d’exposition en espace confiné correspond au seuil retenu ?",
+      "choices": [
+        "Plus de 8 heures",
+        "Plus de 20 heures",
+        "Plus de 40 heures",
+        "8 heures exactement"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Si l’examen microscopique est négatif, le texte retient une durée cumulée d’exposition supérieure à 40 heures."
+    },
+    {
+      "type": "QCS",
+      "question": "Un collègue de travail proche d’un cas de tuberculose est classé dans quel cercle selon le texte ?",
+      "choices": [
+        "Premier cercle uniquement",
+        "Deuxième cercle de risque intermédiaire",
+        "Troisième cercle de risque faible",
+        "Aucun cercle n’est mentionné"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les collègues de travail proches sont explicitement inclus dans le deuxième cercle, correspondant au risque intermédiaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Une tuberculose MDR résistante à l’amikacine mais sans résistance à toutes les fluoroquinolones ne peut pas être qualifiée de XDR principalement parce qu’il manque :",
+      "choices": [
+        "La résistance à toutes les fluoroquinolones",
+        "La résistance à l’isoniazide",
+        "La résistance à la rifampicine",
+        "La notion de contagiosité augmentée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La définition de la XDR impose une MDR avec résistance à toutes les fluoroquinolones et à au moins un injectable de deuxième ligne."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée habituelle de traitement des tuberculoses MDR/XDR mentionnée dans le texte ?",
+      "choices": [
+        "2 à 4 mois",
+        "6 mois",
+        "9 à 12 mois",
+        "18 à 24 mois"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La durée habituelle indiquée pour les tuberculoses MDR/XDR est de 18 à 24 mois."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément organisationnel est explicitement indispensable dans la prise en charge d’une tuberculose MDR/XDR ?",
+      "choices": [
+        "Prise en charge spécialisée",
+        "Traitement ambulatoire exclusif",
+        "Absence d’injectables",
+        "Chirurgie systématique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la prise en charge spécialisée est indispensable. La chirurgie n’est qu’un recours possible selon les cas."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement standard d’une tuberculose multi-sensible, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La durée habituelle du traitement est de 6 mois.",
+        "La phase initiale associe généralement isoniazide, rifampicine, pyrazinamide et éthambutol.",
+        "La phase de continuation repose sur isoniazide et rifampicine.",
+        "L’éthambutol est systématiquement poursuivi pendant toute la phase de continuation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une durée habituelle de 6 mois, avec phase initiale généralement HRZE puis phase de continuation par HR. L’éthambutol n’est pas décrit comme systématique en continuation."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des schémas RHZ/RH mentionnés, quelles associations durée–situation sont exactes ?",
+      "choices": [
+        "Tuberculose multi-sensible : RHZ pendant 2 mois puis RH pendant 4 mois.",
+        "Tuberculose neuroméningée : RHZ pendant 2 mois puis RH pendant 7 mois.",
+        "Tuberculose multi-sensible : RHZ pendant 2 mois puis RH pendant 7 mois.",
+        "Tuberculose neuroméningée : RH pendant 2 mois puis RHZ pendant 7 mois."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte donne RHZ 2 mois puis RH 4 mois pour la tuberculose multi-sensible, et RHZ 2 mois puis RH 7 mois pour la tuberculose neuroméningée."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez une patiente enceinte traitée pour tuberculose, quelles mesures sont explicitement indiquées ?",
+      "choices": [
+        "Supplémentation en vitamine B6 pendant tout le traitement.",
+        "Vitamine K 10 mg/j à débuter 15 jours avant le terme.",
+        "Traitement préventif du nouveau-né selon le contexte.",
+        "Arrêt systématique de la rifampicine pendant la grossesse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne la vitamine B6 pendant tout le traitement, la vitamine K 10 mg/j 15 jours avant le terme, et un traitement préventif du nouveau-né selon le contexte. L’arrêt systématique de la rifampicine n’est pas indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas d’élévation des transaminases à 3 fois la normale sous antituberculeux, quelles conduites sont conformes au texte ?",
+      "choices": [
+        "Vérifier les posologies.",
+        "Rechercher des comédications hépatotoxiques.",
+        "Rechercher des hépatites virales.",
+        "Arrêter immédiatement isoniazide et pyrazinamide dans tous les cas."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À 3 fois la normale, le texte recommande de vérifier les posologies, de rechercher les comédications hépatotoxiques et les hépatites virales, avec surveillance rapprochée. L’arrêt de l’isoniazide et du pyrazinamide est indiqué à 7 fois la normale."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant des transaminases à 7 fois la normale sous traitement antituberculeux, quelles propositions sont exactes ?",
+      "choices": [
+        "L’isoniazide doit être arrêté.",
+        "Le pyrazinamide doit être arrêté.",
+        "La rifampicine et l’éthambutol peuvent être poursuivis.",
+        "Le pyrazinamide doit être réintroduit en priorité dès amélioration clinique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À 7 fois la normale, le texte indique d’arrêter isoniazide et pyrazinamide, tout en poursuivant rifampicine et éthambutol. La réintroduction du pyrazinamide est décrite comme à haut risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Si la rifampicine est inutilisable, quelles modalités thérapeutiques sont mentionnées ?",
+      "choices": [
+        "Traitement prolongé jusqu’à 18 mois.",
+        "Phase initiale possible par isoniazide, éthambutol, pyrazinamide ± moxifloxacine pendant 2 mois.",
+        "Phase ultérieure possible par isoniazide, éthambutol ± moxifloxacine pendant 16 mois.",
+        "Remplacement obligatoire par pyrazinamide seul pendant 6 mois."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte propose un traitement prolongé jusqu’à 18 mois avec 2 mois H/E/Z ± moxifloxacine puis 16 mois H/E ± moxifloxacine. Il mentionne aussi la rifabutine comme alternative possible, mais pas un relais par pyrazinamide seul."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les adaptations thérapeutiques lorsque certains antituberculeux majeurs sont inutilisables, quelles propositions sont exactes ?",
+      "choices": [
+        "Si l’isoniazide est inutilisable, un schéma de 6 mois rifampicine/éthambutol/pyrazinamide ± moxifloxacine est mentionné.",
+        "Si le pyrazinamide est inutilisable, un schéma de 2 mois isoniazide/rifampicine/éthambutol ± moxifloxacine puis 7 mois isoniazide/rifampicine ± moxifloxacine est mentionné.",
+        "Si l’éthambutol est inutilisable, l’impact est limité si la tuberculose est confirmée multi-sensible.",
+        "Si l’isoniazide est inutilisable, la durée mentionnée est toujours prolongée à 18 mois."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise ces adaptations pour l’isoniazide, le pyrazinamide et l’éthambutol. La prolongation à 18 mois concerne la rifampicine inutilisable, pas l’isoniazide."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les formes anatomocliniques citées, lesquelles sont considérées comme potentiellement contagieuses selon le texte ?",
+      "choices": [
+        "Atteinte du parenchyme pulmonaire.",
+        "Atteinte des voies aériennes.",
+        "Tuberculose laryngée.",
+        "Tuberculose pleurale isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les formes contagieuses concernent les lésions du parenchyme pulmonaire ou des voies aériennes, notamment les tuberculoses laryngées. Les tuberculoses pleurales isolées ne sont pas considérées comme contagieuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’environnement de transmission de la tuberculose respiratoire, quelles propositions sont exactes ?",
+      "choices": [
+        "La transmission est aérienne par gouttelettes infectantes.",
+        "En espace confiné non ventilé, des gouttelettes viables peuvent persister environ 30 minutes après émission.",
+        "Le risque de transmission est très faible en extérieur.",
+        "La transmission nécessite obligatoirement un contact cutané direct."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transmission est aérienne par gouttelettes infectantes. Le texte insiste sur la persistance possible en espace confiné non ventilé et sur le faible risque en extérieur. Le contact cutané direct n’est pas le mode de transmission décrit."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la charge bacillaire et le risque de transmission, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le seuil approximatif de détection microscopique est de 5 000 à 10 000 bacilles/mL.",
+        "Un cas index très bacillifère peut être défini notamment par plus de 100 BAAR/champ.",
+        "Chez les contacts vivant sous le même toit, la transmission est plus élevée si l’examen direct est positif et la culture positive.",
+        "Une culture positive avec examen direct négatif exclut toute transmission."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne le seuil de détection de 5 000 à 10 000 bacilles/mL, le caractère très bacillifère > 100 BAAR/champ, et une transmission plus élevée avec examen direct positif et culture positive. Une culture positive malgré examen direct négatif n’exclut pas la transmission."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont cités comme facteurs associés à la transmission ou au diagnostic d’infection tuberculeuse latente chez les contacts ?",
+      "choices": [
+        "Lésions cavitaires chez le cas index.",
+        "Tabagisme chez le contact.",
+        "Exposition en espace confiné.",
+        "Groupe sanguin du contact."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lésions cavitaires, le tabagisme chez le contact et l’exposition en espace confiné sont cités. Le groupe sanguin n’est pas mentionné."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’effet du traitement antituberculeux sur la contagiosité, quelles propositions sont exactes ?",
+      "choices": [
+        "L’isoniazide a un effet bactéricide précoce.",
+        "L’inoculum peut diminuer d’environ 95 % en 2 jours.",
+        "La contagiosité diminue rapidement si la souche est multi-sensible et l’observance parfaite.",
+        "La contagiosité augmente systématiquement dans les 48 premières heures de traitement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique un effet bactéricide précoce de l’isoniazide, une diminution d’environ 95 % de l’inoculum en 2 jours, et une baisse rapide de la contagiosité si la souche est multi-sensible avec observance parfaite."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’isolement respiratoire d’une tuberculose respiratoire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Toute tuberculose respiratoire doit être considérée contagieuse jusqu’à preuve du contraire.",
+        "L’isolement est indiqué même si l’examen microscopique est négatif en cas de suspicion de tuberculose respiratoire.",
+        "En cas de tuberculose respiratoire confirmée, l’isolement est maintenu au minimum 2 semaines après le début du traitement.",
+        "L’isolement peut être levé dès le premier jour si la toux diminue."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte impose une prudence initiale, même si l’examen direct est négatif, avec maintien au moins 2 semaines après début du traitement si la tuberculose respiratoire est confirmée. Une levée dès le premier jour n’est pas conforme."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’enquête autour d’un cas de tuberculose, quelles propositions sont exactes ?",
+      "choices": [
+        "La stratégie repose sur des cercles concentriques.",
+        "Le dépistage du premier cercle est prioritaire.",
+        "L’enquête peut s’arrêter si aucune infection tuberculeuse latente n’est diagnostiquée dans le premier cercle.",
+        "L’enquête doit toujours commencer par les contacts les plus éloignés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La stratégie décrite est celle des cercles concentriques, avec dépistage prioritaire du premier cercle. En l’absence d’ITL dans ce cercle, l’enquête peut s’arrêter. Elle ne débute pas par les contacts les plus éloignés."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à la cause de la tuberculose-maladie selon le texte ?",
+      "choices": [
+        "Infection active due au complexe Mycobacterium tuberculosis.",
+        "Réaction allergique aux mycobactéries environnementales.",
+        "Colonisation asymptomatique non évolutive des voies aériennes.",
+        "Infection virale respiratoire chronique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte définit la tuberculose-maladie comme une infection active due au complexe Mycobacterium tuberculosis."
+    },
+    {
+      "type": "QCS",
+      "question": "Après contamination tuberculeuse, quelle proportion de sujets reste en infection tuberculeuse latente selon le texte ?",
+      "choices": [
+        "10 à 15 %.",
+        "30 à 50 %.",
+        "90 à 95 %.",
+        "100 %."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique qu’après contamination, 90 à 95 % des sujets restent en infection latente."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la posologie usuelle de la rifampicine indiquée dans le texte ?",
+      "choices": [
+        "4 à 5 mg/kg/j.",
+        "10 mg/kg/j.",
+        "20 à 25 mg/kg/j.",
+        "3 mg/kg/j après normalisation hépatique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La posologie usuelle de la rifampicine mentionnée est de 10 mg/kg/j."
+    },
+    {
+      "type": "QCS",
+      "question": "En insuffisance rénale sévère, quelle adaptation du pyrazinamide est donnée comme exemple ?",
+      "choices": [
+        "Administration 3 fois par semaine.",
+        "Augmentation à 40 mg/kg/j.",
+        "Arrêt définitif obligatoire.",
+        "Remplacement systématique par vitamine K."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite comme exemple d’adaptation du pyrazinamide en insuffisance rénale sévère une administration 3 fois par semaine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit une tuberculose bacillifère selon le texte ?",
+      "choices": [
+        "Présence de bacilles visibles à l’examen microscopique.",
+        "Présence exclusive d’une fièvre prolongée.",
+        "PCR négative pour Mycobacterium tuberculosis.",
+        "Tuberculose pleurale isolée sans atteinte respiratoire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La tuberculose bacillifère est définie par la présence de bacilles visibles à l’examen microscopique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle condition minimale de durée est nécessaire avant levée possible de l’isolement respiratoire selon le texte ?",
+      "choices": [
+        "Traitement correctement pris depuis 24 heures.",
+        "Traitement correctement pris depuis 48 heures.",
+        "Traitement correctement pris depuis 2 semaines.",
+        "Traitement correctement pris depuis 2 mois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La levée de l’isolement est possible notamment si le traitement est correctement pris depuis 2 semaines, avec amélioration clinique et absence de suspicion de tuberculose multirésistante."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les seuils d’exposition cumulée en espace confiné cités dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Une exposition cumulée strictement supérieure à 8 heures est retenue si l’examen microscopique est positif.",
+        "Une exposition cumulée strictement supérieure à 40 heures est retenue si l’examen microscopique est négatif.",
+        "Une exposition de 8 heures exactement suffit lorsque l’examen microscopique est positif.",
+        "Une exposition de 40 heures exactement suffit lorsque l’examen microscopique est négatif."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise des seuils strictement supérieurs : > 8 heures si microscopie positive et > 40 heures si microscopie négative."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont explicitement citées comme contextes procéduraux à considérer dans le texte ?",
+      "choices": [
+        "Endoscopie bronchique ou ORL.",
+        "Expectoration induite.",
+        "Kinésithérapie respiratoire.",
+        "Ponction pleurale diagnostique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’endoscopie bronchique ou ORL, l’expectoration induite et la kinésithérapie respiratoire. La ponction pleurale n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels contacts correspondent au deuxième cercle, défini comme un risque intermédiaire selon le texte ?",
+      "choices": [
+        "Amis proches.",
+        "Collègues de travail proches.",
+        "Partenaires de loisirs.",
+        "Visiteurs réguliers au domicile."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre catégories sont explicitement listées dans le deuxième cercle de risque intermédiaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels exemples relèvent du troisième cercle, correspondant à un risque faible selon le texte ?",
+      "choices": [
+        "Personnes vivant dans la même communauté.",
+        "Personnes fréquentant la même école.",
+        "Personnes partageant le même lieu de travail.",
+        "Contacts sporadiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le troisième cercle comprend les personnes de la même communauté, de la même école, du même lieu de travail, des mêmes activités de loisirs, ainsi que les contacts sporadiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre étudiants d’une même classe et personnes d’une même école, quelles propositions sont exactes ?",
+      "choices": [
+        "Les étudiants d’une même classe sont classés dans le deuxième cercle.",
+        "Les personnes fréquentant la même école sont citées dans le troisième cercle.",
+        "Toute personne de la même école est automatiquement classée dans le deuxième cercle.",
+        "Les étudiants d’une même classe sont explicitement classés parmi les contacts sporadiques."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte distingue les étudiants d’une même classe, classés au risque intermédiaire, des personnes de la même école, classées au risque faible."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des contacts professionnels autour d’un cas de tuberculose, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Un collègue de travail proche relève du deuxième cercle.",
+        "Le simple partage du même lieu de travail est cité dans le troisième cercle.",
+        "La proximité du contact professionnel modifie le niveau de risque décrit.",
+        "Tous les collègues de travail sont classés d’emblée dans le risque intermédiaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le collègue proche est classé dans le deuxième cercle, tandis que le même lieu de travail relève du troisième cercle. Le texte ne classe pas tous les collègues en risque intermédiaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’exposition lors d’un vol, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Les passagers de la même rangée sont concernés si le vol dure plus de 8 heures.",
+        "La durée du vol intervient dans la classification citée.",
+        "Tous les passagers du même avion sont classés dans le deuxième cercle.",
+        "Les passagers des rangées adjacentes sont explicitement mentionnés."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne seulement les passagers de la même rangée lors d’un vol de plus de 8 heures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tuberculose MDR, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle implique une résistance au moins à l’isoniazide et à la rifampicine.",
+        "La présence de résistances supplémentaires n’exclut pas la définition de MDR.",
+        "Une résistance isolée à la rifampicine suffit à définir une MDR dans le texte.",
+        "Une souche sensible à l’isoniazide mais résistante à la rifampicine répond à la définition donnée de MDR."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La MDR est définie par une résistance au moins à l’isoniazide et à la rifampicine. Le texte ne retient pas la résistance isolée à la rifampicine comme définition de MDR."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour qualifier une tuberculose de XDR selon le texte, quels éléments sont nécessaires ?",
+      "choices": [
+        "La tuberculose doit d’abord répondre à la définition de MDR.",
+        "Il doit exister une résistance à toutes les fluoroquinolones.",
+        "Il doit exister une résistance à au moins un injectable de deuxième ligne.",
+        "La résistance à tous les injectables de deuxième ligne n’est pas exigée par la définition donnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La XDR est définie comme une tuberculose MDR avec résistance à toutes les fluoroquinolones et à au moins un injectable de deuxième ligne."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels injectables de deuxième ligne sont cités comme exemples dans la définition de la tuberculose XDR ?",
+      "choices": [
+        "Amikacine.",
+        "Kanamycine.",
+        "Capréomycine.",
+        "Streptomycine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’amikacine, la kanamycine et la capréomycine. La streptomycine n’est pas citée dans ce passage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes MDR/XDR comparées aux tuberculoses sensibles, quelles propositions sont exactes ?",
+      "choices": [
+        "Les formes cliniques sont similaires.",
+        "La contagiosité est similaire.",
+        "Les formes MDR/XDR ont une présentation clinique spécifique permettant de les reconnaître d’emblée.",
+        "Les formes MDR/XDR sont décrites comme moins contagieuses que les tuberculoses sensibles."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte indique que les formes cliniques et la contagiosité des tuberculoses MDR/XDR sont similaires à celles des tuberculoses sensibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement des tuberculoses MDR/XDR, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Il est long, lourd et coûteux.",
+        "Sa durée habituelle est de 18 à 24 mois.",
+        "Les traitements de deuxième ligne sont souvent mal tolérés.",
+        "Sa durée habituelle est de 6 mois."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement MDR/XDR est décrit comme long, lourd, coûteux, durant habituellement 18 à 24 mois, avec des traitements de deuxième ligne souvent mal tolérés."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles modalités peuvent faire partie de la prise en charge des tuberculoses MDR/XDR selon le texte ?",
+      "choices": [
+        "Recours possible à la chirurgie selon les cas.",
+        "Utilisation possible d’injectables.",
+        "Prises quotidiennes multiples.",
+        "Prise en charge non spécialisée suffisante dans la majorité des cas."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne le recours possible à la chirurgie, les injectables possibles, les prises quotidiennes multiples et insiste sur une prise en charge spécialisée indispensable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les contraintes pratiques du traitement MDR/XDR, quelles propositions sont exactes ?",
+      "choices": [
+        "La durée habituelle prolongée participe à la lourdeur de la prise en charge.",
+        "Les prises quotidiennes multiples sont explicitement mentionnées.",
+        "La prise en charge spécialisée est indispensable.",
+        "Les injectables sont obligatoires chez tous les patients MDR/XDR."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La durée de 18 à 24 mois, les prises quotidiennes multiples et la nécessité d’une prise en charge spécialisée sont citées. Les injectables sont possibles, mais non présentés comme obligatoires pour tous."
+    },
+    {
+      "type": "QCS",
+      "question": "Un sujet a partagé un espace confiné avec un cas dont l’examen microscopique est positif. Quelle durée cumulée répond au seuil cité dans le texte ?",
+      "choices": [
+        "6 heures.",
+        "8 heures exactement.",
+        "9 heures.",
+        "40 heures exactement."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "En cas d’examen microscopique positif, le seuil cité est une exposition cumulée strictement supérieure à 8 heures."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas d’examen microscopique négatif, quelle durée cumulée d’exposition en espace confiné correspond au critère mentionné ?",
+      "choices": [
+        "8 heures exactement.",
+        "12 heures.",
+        "40 heures exactement.",
+        "41 heures."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Si l’examen microscopique est négatif, le texte retient une durée cumulée strictement supérieure à 40 heures."
+    },
+    {
+      "type": "QCS",
+      "question": "Un visiteur régulier au domicile d’un cas de tuberculose est classé dans quel niveau de risque selon le texte ?",
+      "choices": [
+        "Risque intermédiaire, deuxième cercle.",
+        "Risque faible, troisième cercle.",
+        "Risque nul.",
+        "Catégorie non mentionnée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les visiteurs réguliers au domicile sont explicitement classés dans le deuxième cercle, à risque intermédiaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond le mieux à la définition de la tuberculose XDR donnée dans le texte ?",
+      "choices": [
+        "Résistance isolée à l’isoniazide.",
+        "Tuberculose MDR avec résistance à toutes les fluoroquinolones et à au moins un injectable de deuxième ligne.",
+        "Tuberculose résistante à la rifampicine seulement.",
+        "Tuberculose sensible avec mauvaise tolérance au traitement de première ligne."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La XDR est définie comme une MDR associée à une résistance à toutes les fluoroquinolones et à au moins un injectable de deuxième ligne."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée habituelle du traitement des tuberculoses MDR/XDR mentionnée dans le texte ?",
+      "choices": [
+        "2 mois.",
+        "6 mois.",
+        "9 à 12 mois.",
+        "18 à 24 mois."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte indique une durée habituelle de 18 à 24 mois pour les tuberculoses MDR/XDR."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément organisationnel est présenté comme indispensable dans la prise en charge d’une tuberculose MDR/XDR ?",
+      "choices": [
+        "Une prise en charge spécialisée.",
+        "Une prise unique hebdomadaire.",
+        "Une chirurgie systématique.",
+        "Une absence de traitement injectable."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la prise en charge spécialisée est indispensable pour les tuberculoses MDR/XDR."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient suspect de tuberculose respiratoire dont l’examen microscopique initial est négatif, quelles propositions restent conformes au texte ?",
+      "choices": [
+        "L’isolement respiratoire reste indiqué en cas de suspicion de tuberculose respiratoire.",
+        "La culture mycobactérienne peut être positive malgré un examen direct négatif.",
+        "L’examen microscopique négatif permet d’affirmer l’absence de risque de transmission.",
+        "Si l’examen direct est négatif mais la culture positive, une transmission aux contacts vivant sous le même toit est possible."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Un examen direct négatif n’exclut ni la tuberculose ni la contagiosité. L’isolement est indiqué en cas de suspicion respiratoire, et la culture peut être positive avec une transmission estimée à environ 10 % dans ce contexte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les localisations anatomiques impliquées dans la contagiosité tuberculeuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lésions du parenchyme pulmonaire peuvent correspondre à des formes contagieuses.",
+        "Les atteintes des voies aériennes, notamment laryngées, peuvent être contagieuses.",
+        "Une tuberculose pleurale isolée est considérée comme contagieuse au même titre qu’une atteinte pulmonaire cavitaire.",
+        "Une tuberculose médiastinale isolée n’est pas considérée comme contagieuse selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les formes contagieuses concernent les lésions pulmonaires ou des voies aériennes, notamment laryngées. Les formes pleurales ou médiastinales isolées ne sont pas considérées comme contagieuses."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la transmission aérienne en espace confiné non ventilé, quelles propositions sont exactes ?",
+      "choices": [
+        "La transmission se fait par des gouttelettes infectantes.",
+        "Des gouttelettes viables peuvent persister environ 30 minutes après émission.",
+        "Le risque de transmission est très faible en extérieur.",
+        "La persistance des gouttelettes infectantes est décrite dans le texte comme négligeable dès l’émission."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transmission est aérienne par gouttelettes infectantes. En espace confiné non ventilé, elles peuvent persister environ 30 minutes ; le risque est très faible en extérieur."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels caractérisent un cas index associé à un risque accru de transmission selon le texte ?",
+      "choices": [
+        "Examen microscopique positif.",
+        "Lésions cavitaires.",
+        "Cas index très bacillifère, notamment supérieur à 100 BAAR par champ.",
+        "Intolérance isolée au pyrazinamide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’examen microscopique positif, les lésions cavitaires et le caractère très bacillifère comme facteurs de vigilance ou de transmission. L’intolérance au pyrazinamide n’est pas un facteur de transmission."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une enquête autour d’un cas de tuberculose, quels contacts sont explicitement considérés à risque d’évolution rapide vers une tuberculose-maladie ?",
+      "choices": [
+        "Les sujets immunodéprimés.",
+        "Les enfants de moins de 2 ans.",
+        "Les contacts fumeurs, quel que soit leur âge.",
+        "Les apparentés du premier degré sans autre facteur précisé."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte identifie les immunodéprimés et les enfants de moins de 2 ans comme contacts à risque d’évolution rapide vers la tuberculose-maladie. Le tabagisme et le lien familial sont cités comme facteurs associés à la transmission ou au diagnostic d’infection latente, pas comme critères d’évolution rapide."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la surveillance hépatique au cours du traitement antituberculeux, quelles propositions sont exactes ?",
+      "choices": [
+        "Les transaminases doivent être contrôlées à J0, J7, J14 et J30.",
+        "En cas de transaminases à 3 fois la normale, il faut vérifier les posologies.",
+        "En cas de transaminases à 7 fois la normale, il faut arrêter l’isoniazide et le pyrazinamide.",
+        "Après normalisation du bilan hépatique, l’isoniazide est réintroduit à 3 mg/kg/j."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions reprennent les modalités de surveillance et de conduite à tenir décrites dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une cytolyse hépatique importante sous traitement antituberculeux, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La réintroduction de l’isoniazide se fait après normalisation du bilan hépatique.",
+        "La dose de réintroduction de l’isoniazide mentionnée est de 3 mg/kg/j.",
+        "La réintroduction du pyrazinamide est considérée comme à haut risque.",
+        "À 7 fois la normale, l’arrêt concerne l’isoniazide et le pyrazinamide, avec poursuite de rifampicine et éthambutol."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise l’arrêt de l’isoniazide et du pyrazinamide à 7 fois la normale, la poursuite de rifampicine et éthambutol, puis la réintroduction de l’isoniazide à 3 mg/kg/j après normalisation. Le pyrazinamide est à haut risque de réintroduction."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments expliquent la diminution rapide de la contagiosité après initiation d’un traitement efficace ?",
+      "choices": [
+        "L’isoniazide a un effet bactéricide précoce.",
+        "L’inoculum peut diminuer d’environ 95 % en 2 jours.",
+        "La diminution rapide suppose une souche multi-sensible et une observance parfaite.",
+        "La contagiosité diminue rapidement indépendamment de la sensibilité de la souche et de l’observance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte souligne l’effet bactéricide précoce de l’isoniazide, une diminution de l’inoculum d’environ 95 % en 2 jours, sous réserve d’une souche multi-sensible et d’une observance parfaite."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’examen microscopique à la recherche de BAAR, quelles propositions sont exactes ?",
+      "choices": [
+        "La présence de bacilles visibles à l’examen microscopique définit une tuberculose bacillifère.",
+        "Le seuil approximatif de détection est de 5 000 à 10 000 bacilles/mL.",
+        "Un examen direct négatif n’exclut pas une culture positive.",
+        "La positivité isolée d’une PCR définit, dans le texte, la tuberculose bacillifère."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La tuberculose bacillifère est définie par des bacilles visibles à l’examen microscopique, avec un seuil approximatif de 5 000 à 10 000 bacilles/mL. La PCR n’est pas le critère de définition de la bacilliférie dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Si le pyrazinamide est inutilisable dans une tuberculose multi-sensible, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La phase initiale peut comporter 2 mois d’isoniazide, rifampicine et éthambutol, avec ou sans moxifloxacine.",
+        "La phase suivante peut comporter 7 mois d’isoniazide et rifampicine, avec ou sans moxifloxacine.",
+        "Le schéma décrit aboutit à une durée totale de 9 mois.",
+        "Le traitement reste obligatoirement limité à 6 mois."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas d’impossibilité d’utiliser le pyrazinamide, le texte propose 2 mois HRE ± moxifloxacine puis 7 mois HR ± moxifloxacine, soit 9 mois au total."
+    },
+    {
+      "type": "QCM",
+      "question": "Si l’isoniazide est inutilisable, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Le schéma peut comporter rifampicine, éthambutol et pyrazinamide pendant 6 mois.",
+        "La moxifloxacine peut être associée de façon optionnelle.",
+        "Le traitement décrit est identique à celui proposé lorsque la rifampicine est inutilisable.",
+        "La durée mentionnée est de 6 mois."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Si l’isoniazide est inutilisable, le texte mentionne 6 mois de rifampicine/éthambutol/pyrazinamide ± moxifloxacine. Le schéma n’est pas celui de l’impossibilité d’utiliser la rifampicine, qui impose un traitement prolongé."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez une femme enceinte traitée pour tuberculose, quelles propositions sont explicitement indiquées ?",
+      "choices": [
+        "Une supplémentation en vitamine B6 pendant tout le traitement.",
+        "Une vitamine K à 10 mg/j à débuter 15 jours avant le terme.",
+        "Un traitement préventif du nouveau-né selon le contexte.",
+        "L’arrêt systématique de la rifampicine pendant toute la grossesse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne la vitamine B6 pendant tout le traitement, la vitamine K 10 mg/j 15 jours avant le terme et un traitement préventif du nouveau-né selon le contexte. Il ne mentionne pas l’arrêt systématique de la rifampicine."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le diagnostic d’une tuberculose respiratoire, quels éléments font partie des examens cités ?",
+      "choices": [
+        "Examen des expectorations ou de prélèvements respiratoires.",
+        "Examen microscopique à la recherche de BAAR.",
+        "Culture mycobactérienne.",
+        "PCR pour Mycobacterium tuberculosis."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces quatre éléments dans la démarche diagnostique microbiologique d’une tuberculose respiratoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’infection tuberculeuse latente, quelles propositions sont exactes ?",
+      "choices": [
+        "Après contamination, 90 à 95 % des sujets restent en infection latente.",
+        "L’infection tuberculeuse latente n’est pas contagieuse.",
+        "Elle peut évoluer vers une tuberculose-maladie.",
+        "Le risque d’évolution est particulièrement mentionné en cas d’immunodépression ou chez le jeune enfant."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions sont conformes au texte : l’infection latente est fréquente après contamination, non contagieuse, mais peut évoluer vers une tuberculose-maladie, surtout chez les immunodéprimés et les jeunes enfants."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel antituberculeux est décrit comme ayant un effet bactéricide précoce ?",
+      "choices": [
+        "Isoniazide.",
+        "Éthambutol.",
+        "Pyrazinamide.",
+        "Rifabutine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que l’isoniazide a un effet bactéricide précoce."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le seuil approximatif de détection des bacilles à l’examen microscopique mentionné dans le texte ?",
+      "choices": [
+        "50 à 100 bacilles/mL.",
+        "500 à 1 000 bacilles/mL.",
+        "5 000 à 10 000 bacilles/mL.",
+        "100 000 à 1 000 000 bacilles/mL."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le seuil approximatif de détection indiqué est de 5 000 à 10 000 bacilles/mL."
+    },
+    {
+      "type": "QCS",
+      "question": "Une tuberculose bacillifère non traitée et non isolée peut entraîner en moyenne combien de contaminations par an dans l’entourage ?",
+      "choices": [
+        "1 contamination par an.",
+        "5 contaminations par an.",
+        "10 contaminations par an.",
+        "50 contaminations par an."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique qu’une tuberculose bacillifère non traitée et non isolée peut entraîner en moyenne 10 contaminations par an dans l’entourage."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, quel statut de contagiosité doit être attribué à une tuberculose pleurale isolée ?",
+      "choices": [
+        "Elle est considérée comme très contagieuse.",
+        "Elle est considérée comme contagieuse uniquement si la toux est sèche.",
+        "Elle n’est pas considérée comme contagieuse.",
+        "Elle impose toujours une enquête élargie d’emblée au troisième cercle."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les tuberculoses pleurales isolées ne sont pas considérées comme contagieuses selon le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la stratégie des cercles concentriques, que faut-il faire si une infection tuberculeuse latente est diagnostiquée dans le premier cercle ?",
+      "choices": [
+        "Arrêter l’enquête.",
+        "Élargir l’enquête au cercle suivant.",
+        "Limiter l’enquête aux seuls enfants de moins de 2 ans.",
+        "Considérer que le cas index n’est plus contagieux."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que si une infection tuberculeuse latente est diagnostiquée dans le premier cercle, il faut élargir l’enquête au cercle suivant."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle supplémentation est indiquée pendant tout le traitement antituberculeux chez la femme enceinte ?",
+      "choices": [
+        "Vitamine B6.",
+        "Vitamine K.",
+        "Vitamine D.",
+        "Acide folique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Chez la femme enceinte, le texte indique une supplémentation en vitamine B6 pendant tout le traitement. La vitamine K est débutée 15 jours avant le terme."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les actes suivants, lesquels sont explicitement mentionnés dans le texte parmi les situations à considérer autour d’un cas de tuberculose respiratoire ?",
+      "choices": [
+        "Endoscopie bronchique ou ORL",
+        "Expectoration induite",
+        "Kinésithérapie respiratoire",
+        "Endoscopie digestive basse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’endoscopie bronchique ou ORL, l’expectoration induite et la kinésithérapie respiratoire. L’endoscopie digestive basse n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le partage d’un espace confiné, quelles propositions respectent correctement les seuils indiqués dans le texte ?",
+      "choices": [
+        "Avec examen microscopique positif, une exposition cumulée de plus de 8 heures est retenue",
+        "Avec examen microscopique positif, une exposition cumulée exactement égale à 8 heures suffit",
+        "Avec examen microscopique négatif, une exposition cumulée de plus de 40 heures est retenue",
+        "Avec examen microscopique négatif, une exposition cumulée exactement égale à 40 heures suffit"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Les seuils sont formulés avec le signe strict : durée cumulée d’exposition > 8 heures si l’examen microscopique est positif, et > 40 heures s’il est négatif."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels contacts sont inclus dans le deuxième cercle de risque intermédiaire selon la formulation du texte ?",
+      "choices": [
+        "Amis proches",
+        "Partenaires de loisirs",
+        "Visiteurs réguliers au domicile",
+        "Personnes vivant dans la même communauté"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les amis proches, partenaires de loisirs et visiteurs réguliers au domicile relèvent du deuxième cercle. Les personnes vivant dans la même communauté relèvent du troisième cercle."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels exemples relèvent du troisième cercle de risque faible ?",
+      "choices": [
+        "Personnes vivant dans la même communauté",
+        "Personnes du même lieu de travail",
+        "Contacts sporadiques",
+        "Étudiants d’une même classe"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le troisième cercle comprend notamment la même communauté, le même lieu de travail et les contacts sporadiques. Les étudiants d’une même classe sont classés dans le deuxième cercle."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des contacts réguliers mais moins étroits ou moins prolongés, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Ils appartiennent au deuxième cercle",
+        "Ils correspondent à un risque intermédiaire",
+        "Ils sont distingués des contacts sporadiques",
+        "Ils sont classés dans le troisième cercle"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les contacts réguliers mais moins étroits ou moins prolongés relèvent du deuxième cercle, donc du risque intermédiaire. Les contacts sporadiques sont cités dans le troisième cercle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’exposition lors d’un vol, quelles propositions reprennent fidèlement les critères du texte ?",
+      "choices": [
+        "Les passagers de la même rangée peuvent relever du deuxième cercle",
+        "Le vol doit durer plus de 8 heures",
+        "Tous les passagers de l’avion sont automatiquement classés dans le deuxième cercle",
+        "Une place dans une autre rangée est explicitement suffisante selon le texte"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne les passagers de la même rangée lors d’un vol de plus de 8 heures. Il ne généralise pas à tous les passagers ni aux autres rangées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition de la tuberculose MDR, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle implique au moins une résistance à l’isoniazide",
+        "Elle implique au moins une résistance à la rifampicine",
+        "Elle peut comporter d’autres résistances en plus de celles exigées",
+        "Elle est définie par la résistance isolée à une fluoroquinolone"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La MDR est définie par une résistance au moins à l’isoniazide et à la rifampicine. Le terme « au moins » permet d’inclure d’autres résistances. La résistance isolée à une fluoroquinolone ne définit pas la MDR."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels scénarios correspondent à une tuberculose XDR selon le texte ?",
+      "choices": [
+        "Tuberculose MDR avec résistance à toutes les fluoroquinolones et à l’amikacine",
+        "Tuberculose MDR avec résistance à toutes les fluoroquinolones et à la kanamycine",
+        "Tuberculose MDR avec résistance à toutes les fluoroquinolones et à la capréomycine",
+        "Tuberculose non MDR avec résistance à toutes les fluoroquinolones et à un injectable de deuxième ligne"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La XDR est une tuberculose MDR avec résistance à toutes les fluoroquinolones et à au moins un injectable de deuxième ligne comme l’amikacine, la kanamycine ou la capréomycine."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels médicaments sont cités comme injectables de deuxième ligne dans la définition de la tuberculose XDR ?",
+      "choices": [
+        "Amikacine",
+        "Kanamycine",
+        "Capréomycine",
+        "Pyrazinamide"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’amikacine, la kanamycine et la capréomycine comme exemples d’injectables de deuxième ligne. Le pyrazinamide n’est pas cité dans cette liste."
+    },
+    {
+      "type": "QCM",
+      "question": "Par rapport aux tuberculoses sensibles, quelles caractéristiques des tuberculoses MDR/XDR sont indiquées ?",
+      "choices": [
+        "Les formes cliniques sont similaires",
+        "La contagiosité est similaire",
+        "Elles sont décrites comme toujours non contagieuses",
+        "Elles ont une présentation clinique spécifique permettant de les reconnaître d’emblée"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que les formes cliniques et la contagiosité des tuberculoses MDR/XDR sont similaires à celles des tuberculoses sensibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments traduisent la lourdeur du traitement des tuberculoses MDR/XDR dans le texte ?",
+      "choices": [
+        "Traitement long, lourd et coûteux",
+        "Traitements de deuxième ligne souvent mal tolérés",
+        "Prises quotidiennes multiples",
+        "Traitement court en prise unique hebdomadaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur un traitement long, lourd, coûteux, souvent mal toléré, avec des prises quotidiennes multiples. Il ne mentionne pas de traitement court hebdomadaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités globales de prise en charge des tuberculoses MDR/XDR, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La durée habituelle est de 18 à 24 mois",
+        "Le recours à la chirurgie est possible selon les cas",
+        "La chirurgie est systématique",
+        "Une prise en charge spécialisée est indispensable"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La durée habituelle est de 18 à 24 mois, la chirurgie peut être envisagée selon les cas, et une prise en charge spécialisée est indispensable. La chirurgie n’est pas présentée comme systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments thérapeutiques sont explicitement associés aux tuberculoses MDR/XDR ?",
+      "choices": [
+        "Possibilité d’utiliser des injectables",
+        "Recours à des traitements de deuxième ligne",
+        "Absence de nécessité de suivi spécialisé",
+        "Multiplicité possible des prises quotidiennes"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte mentionne les injectables possibles, les traitements de deuxième ligne souvent mal tolérés et les prises quotidiennes multiples. Il précise au contraire qu’une prise en charge spécialisée est indispensable."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations contact–niveau de risque sont exactes selon le texte ?",
+      "choices": [
+        "Amis proches — deuxième cercle",
+        "Même communauté — troisième cercle",
+        "Collègues de travail proches — deuxième cercle",
+        "Même école — deuxième cercle"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les amis proches et collègues de travail proches relèvent du deuxième cercle. La même communauté et la même école relèvent du troisième cercle."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas d’examen microscopique positif, quel seuil d’exposition cumulée en espace confiné est indiqué ?",
+      "choices": [
+        "Plus de 8 heures",
+        "Exactement 8 heures",
+        "Plus de 40 heures",
+        "Exactement 40 heures"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte retient une durée cumulée d’exposition strictement supérieure à 8 heures lorsque l’examen microscopique est positif."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à un exemple du troisième cercle ?",
+      "choices": [
+        "Amis proches",
+        "Visiteurs réguliers au domicile",
+        "Contacts sporadiques",
+        "Passagers de la même rangée lors d’un vol de plus de 8 heures"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les contacts sporadiques sont classés dans le troisième cercle, correspondant au risque faible."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement une tuberculose XDR selon le texte ?",
+      "choices": [
+        "Résistance isolée à l’isoniazide",
+        "Tuberculose MDR avec résistance à toutes les fluoroquinolones et à au moins un injectable de deuxième ligne",
+        "Résistance à la rifampicine seule",
+        "Tuberculose sensible avec mauvaise tolérance au traitement"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La XDR est définie comme une tuberculose MDR associée à une résistance à toutes les fluoroquinolones et à au moins un injectable de deuxième ligne."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée habituelle du traitement des tuberculoses MDR/XDR indiquée dans le texte ?",
+      "choices": [
+        "2 à 4 mois",
+        "6 mois",
+        "9 à 12 mois",
+        "18 à 24 mois"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte indique une durée habituelle de traitement de 18 à 24 mois pour les tuberculoses MDR/XDR."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est présenté comme indispensable dans la prise en charge des tuberculoses MDR/XDR ?",
+      "choices": [
+        "Prise en charge spécialisée",
+        "Chirurgie systématique",
+        "Absence d’injectables",
+        "Traitement uniquement ambulatoire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise qu’une prise en charge spécialisée est indispensable pour les tuberculoses MDR/XDR."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel contact est classé dans le deuxième cercle selon le texte ?",
+      "choices": [
+        "Personne vivant dans la même communauté",
+        "Personne de la même école",
+        "Partenaire de loisirs",
+        "Contact sporadique"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les partenaires de loisirs sont cités dans le deuxième cercle de risque intermédiaire. Les autres propositions relèvent du troisième cercle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les manifestations cliniques possibles d’une tuberculose respiratoire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Une altération de l’état général peut être observée.",
+        "Une fièvre prolongée peut faire partie du tableau.",
+        "La toux peut être chronique et parfois sèche.",
+        "Les signes respiratoires évoluent nécessairement sur moins de 48 heures."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La tuberculose respiratoire peut se manifester par une altération de l’état général, une fièvre prolongée, une toux chronique parfois sèche et des signes respiratoires évoluant depuis plusieurs semaines."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le diagnostic d’une tuberculose respiratoire, quels examens sont explicitement cités dans le texte ?",
+      "choices": [
+        "Examen des expectorations ou de prélèvements respiratoires.",
+        "Examen microscopique à la recherche de BAAR.",
+        "Culture mycobactérienne.",
+        "PCR pour Mycobacterium tuberculosis."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les prélèvements respiratoires, l’examen microscopique des BAAR, la culture mycobactérienne et la PCR pour Mycobacterium tuberculosis."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tests de résistance dans la tuberculose, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Ils font partie des éléments diagnostiques mentionnés.",
+        "Ils concernent notamment l’isoniazide et la rifampicine.",
+        "Ils remplacent l’examen des prélèvements respiratoires.",
+        "Ils ne sont envisagés que lorsque la culture mycobactérienne est négative."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne les tests de résistance dans le diagnostic, notamment à l’isoniazide et à la rifampicine. Il ne dit pas qu’ils remplacent les prélèvements ni qu’ils sont réservés aux cultures négatives."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les posologies usuelles des antituberculeux majeurs, quelles associations sont exactes ?",
+      "choices": [
+        "Isoniazide : 4 à 5 mg/kg/j.",
+        "Rifampicine : 10 mg/kg/j.",
+        "Pyrazinamide : 20 à 25 mg/kg/j.",
+        "Pyrazinamide : 4 à 5 mg/kg/j."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les posologies usuelles indiquées sont : isoniazide 4 à 5 mg/kg/j, rifampicine 10 mg/kg/j et pyrazinamide 20 à 25 mg/kg/j."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement d’une tuberculose multi-sensible, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La durée habituelle est de 6 mois.",
+        "La phase initiale est généralement une quadrithérapie associant isoniazide, rifampicine, pyrazinamide et éthambutol.",
+        "La phase de continuation repose sur une bithérapie par isoniazide et rifampicine.",
+        "Le pyrazinamide constitue le médicament central de la phase de continuation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement usuel dure 6 mois, avec une phase initiale de quadrithérapie HRZE, puis une phase de continuation par isoniazide et rifampicine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les schémas RHZ/RH cités, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans la tuberculose multi-sensible, le schéma usuel est RHZ pendant 2 mois puis RH pendant 4 mois.",
+        "Dans la tuberculose neuroméningée, le schéma cité est RHZ pendant 2 mois puis RH pendant 7 mois.",
+        "La tuberculose neuroméningée a la même durée totale que le schéma multi-sensible usuel.",
+        "Dans les deux schémas cités, la phase de continuation repose sur RH."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte distingue le schéma usuel multi-sensible de 6 mois et le schéma neuroméningé prolongé avec 7 mois de RH après les 2 mois initiaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la surveillance hépatique programmée sous traitement antituberculeux, quels temps de dosage des transaminases sont mentionnés ?",
+      "choices": [
+        "J0.",
+        "J7.",
+        "J14.",
+        "J30."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La surveillance hépatique mentionnée comporte un dosage des transaminases à J0, J7, J14 et J30."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de transaminases à 3 fois la normale sous traitement antituberculeux, quelles conduites sont conformes au texte ?",
+      "choices": [
+        "Vérifier les posologies.",
+        "Rechercher des comédications hépatotoxiques.",
+        "Rechercher des hépatites virales.",
+        "Arrêter systématiquement d’emblée isoniazide et pyrazinamide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À 3 fois la normale, le texte indique de vérifier les posologies, rechercher les comédications hépatotoxiques et les hépatites virales, avec surveillance rapprochée. L’arrêt d’isoniazide et pyrazinamide est indiqué à 7 fois la normale."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant des transaminases à 7 fois la normale sous traitement antituberculeux, quelles propositions sont exactes ?",
+      "choices": [
+        "Arrêter l’isoniazide et le pyrazinamide.",
+        "Poursuivre la rifampicine et l’éthambutol.",
+        "Réintroduire l’isoniazide à 3 mg/kg/j après normalisation du bilan hépatique.",
+        "Réintroduire le pyrazinamide sans risque particulier après normalisation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À 7 fois la normale, il faut arrêter isoniazide et pyrazinamide, poursuivre rifampicine et éthambutol, puis réintroduire l’isoniazide à 3 mg/kg/j après normalisation. La réintroduction du pyrazinamide est à haut risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la place possible de la moxifloxacine dans les adaptations thérapeutiques, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle peut être associée lorsque la rifampicine est inutilisable.",
+        "Elle peut être associée lorsque l’isoniazide est inutilisable.",
+        "Elle peut être associée lorsque le pyrazinamide est inutilisable.",
+        "Elle est imposée systématiquement lorsque l’éthambutol est inutilisable."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne la moxifloxacine en option dans les schémas où la rifampicine, l’isoniazide ou le pyrazinamide sont inutilisables. Pour l’éthambutol inutilisable, l’impact est limité si la tuberculose est confirmée multi-sensible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la contagiosité des différentes formes de tuberculose, quelles propositions sont exactes ?",
+      "choices": [
+        "Seules les tuberculoses-maladies respiratoires sont contagieuses.",
+        "Les lésions du parenchyme pulmonaire ou des voies aériennes peuvent être contagieuses.",
+        "Les tuberculoses laryngées sont citées parmi les formes concernées.",
+        "L’infection tuberculeuse latente est contagieuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La contagiosité concerne les tuberculoses-maladies respiratoires, notamment les lésions pulmonaires, des voies aériennes et laryngées. L’infection tuberculeuse latente n’est pas contagieuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’environnement de transmission de la tuberculose respiratoire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La transmission est aérienne par gouttelettes infectantes.",
+        "En espace confiné non ventilé, des gouttelettes viables peuvent persister environ 30 minutes après émission.",
+        "Le risque est très faible en extérieur.",
+        "La transmission décrite repose uniquement sur le contact cutané direct."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transmission est aérienne par gouttelettes infectantes. Celles-ci peuvent persister environ 30 minutes en espace confiné non ventilé, alors que le risque est très faible en extérieur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tuberculose bacillifère et la transmission aux contacts, quelles propositions sont exactes ?",
+      "choices": [
+        "La tuberculose bacillifère est définie par la présence de bacilles visibles à l’examen microscopique.",
+        "Le seuil approximatif de détection est de 5 000 à 10 000 bacilles/mL.",
+        "Chez les contacts vivant sous le même toit, la transmission est d’environ 30 à 50 % si l’examen direct et la culture sont positifs.",
+        "Si l’examen direct est négatif mais la culture positive, la transmission est considérée comme nulle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La tuberculose bacillifère correspond à des bacilles visibles à l’examen microscopique, avec un seuil de 5 000 à 10 000 bacilles/mL. La transmission reste possible si l’examen direct est négatif mais la culture positive, autour de 10 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la diminution de la contagiosité après initiation du traitement, quelles propositions sont exactes ?",
+      "choices": [
+        "L’isoniazide a un effet bactéricide précoce.",
+        "L’inoculum peut diminuer d’environ 95 % en 2 jours.",
+        "La diminution rapide de la contagiosité suppose une souche multi-sensible et une observance parfaite.",
+        "Toute tuberculose respiratoire devient non contagieuse avant même le début du traitement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise l’effet bactéricide précoce de l’isoniazide, une diminution possible de l’inoculum d’environ 95 % en 2 jours, et une baisse rapide de contagiosité si la souche est multi-sensible et l’observance parfaite."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association posologie-médicament est correcte selon le texte ?",
+      "choices": [
+        "Isoniazide : 20 à 25 mg/kg/j.",
+        "Pyrazinamide : 20 à 25 mg/kg/j.",
+        "Rifampicine : 4 à 5 mg/kg/j.",
+        "Pyrazinamide : 10 mg/kg/j."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La posologie usuelle du pyrazinamide est de 20 à 25 mg/kg/j."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le schéma cité pour la tuberculose neuroméningée, quelle est la durée de la phase RH après les 2 mois initiaux de RHZ ?",
+      "choices": [
+        "2 mois.",
+        "4 mois.",
+        "7 mois.",
+        "16 mois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Pour la tuberculose neuroméningée, le texte indique RHZ pendant 2 mois puis RH pendant 7 mois."
+    },
+    {
+      "type": "QCS",
+      "question": "Après normalisation du bilan hépatique, à quelle posologie l’isoniazide doit-il être réintroduit selon le texte ?",
+      "choices": [
+        "3 mg/kg/j.",
+        "4 à 5 mg/kg/j d’emblée.",
+        "10 mg/kg/j.",
+        "20 à 25 mg/kg/j."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Après normalisation du bilan hépatique, le texte indique une réintroduction de l’isoniazide à 3 mg/kg/j."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen cité permet la détection spécifique de Mycobacterium tuberculosis par méthode moléculaire ?",
+      "choices": [
+        "Examen microscopique à la recherche de BAAR.",
+        "Culture mycobactérienne.",
+        "PCR pour Mycobacterium tuberculosis.",
+        "Dosage des transaminases."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La PCR pour Mycobacterium tuberculosis est l’examen moléculaire cité dans le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Si l’éthambutol est inutilisable dans une tuberculose confirmée multi-sensible, quelle proposition est conforme au texte ?",
+      "choices": [
+        "Le traitement doit obligatoirement être prolongé jusqu’à 18 mois.",
+        "L’impact est limité.",
+        "La rifampicine doit être arrêtée.",
+        "Le pyrazinamide doit être réintroduit à haut risque."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que l’impact est limité si l’éthambutol est inutilisable et que la tuberculose est confirmée multi-sensible."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez le nouveau-né d’une femme enceinte traitée pour tuberculose, quelle conduite est mentionnée ?",
+      "choices": [
+        "Aucune mesure n’est jamais nécessaire.",
+        "Traitement préventif du nouveau-né selon le contexte.",
+        "Vitamine K 10 mg/j pendant tout le traitement du nouveau-né.",
+        "Arrêt systématique du traitement maternel avant le terme."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte mentionne un traitement préventif du nouveau-né selon le contexte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le caractère strict des seuils d’exposition cumulée en espace confiné, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Si l’examen microscopique est positif, une exposition exactement égale à 8 heures suffit à franchir le seuil cité.",
+        "Si l’examen microscopique est positif, le seuil cité est franchi lorsque la durée cumulée est supérieure à 8 heures.",
+        "Si l’examen microscopique est négatif, une exposition exactement égale à 40 heures suffit à franchir le seuil cité.",
+        "Si l’examen microscopique est négatif, le seuil cité est franchi lorsque la durée cumulée est supérieure à 40 heures."
+      ],
+      "answers": [
+        1,
+        3
+      ],
+      "explanation": "Le texte utilise une inégalité stricte : > 8 heures si microscopie positive et > 40 heures si microscopie négative."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour un cas dont l’examen microscopique est négatif, quelles interprétations de l’exposition en espace confiné sont exactes ?",
+      "choices": [
+        "Une durée cumulée de 39 heures répond au seuil indiqué.",
+        "Une durée cumulée de 40 heures répond au seuil indiqué.",
+        "Une durée cumulée de 41 heures répond au seuil indiqué.",
+        "Le texte raisonne en durée cumulée d’exposition."
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "explanation": "En cas de microscopie négative, le seuil mentionné est une durée cumulée strictement supérieure à 40 heures."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les groupes suivants, lesquels relèvent du troisième cercle de risque faible plutôt que du deuxième cercle ?",
+      "choices": [
+        "Personnes vivant dans la même communauté.",
+        "Personnes fréquentant la même école.",
+        "Personnes travaillant dans le même lieu de travail.",
+        "Amis proches."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le troisième cercle comprend la même communauté, la même école et le même lieu de travail. Les amis proches relèvent du deuxième cercle."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le deuxième cercle de risque intermédiaire, quelles formulations comportent explicitement la notion de régularité selon le texte ?",
+      "choices": [
+        "Contacts réguliers mais moins étroits ou moins prolongés.",
+        "Visiteurs réguliers au domicile.",
+        "Contacts sporadiques.",
+        "Personnes vivant dans la même communauté."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le deuxième cercle cite les contacts réguliers mais moins étroits ou moins prolongés, ainsi que les visiteurs réguliers au domicile."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’exposition lors d’un vol, quels éléments sont nécessaires pour correspondre à la situation classée dans le deuxième cercle ?",
+      "choices": [
+        "Être passager de la même rangée.",
+        "Le vol doit durer plus de 8 heures.",
+        "Être n’importe quel passager du même avion.",
+        "Le vol doit durer plus de 40 heures."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne les passagers de la même rangée lors d’un vol de plus de 8 heures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tuberculoses MDR/XDR comparées aux tuberculoses sensibles, quelles propositions sont exactes ?",
+      "choices": [
+        "Les formes cliniques sont similaires.",
+        "La contagiosité est similaire.",
+        "Elles sont décrites comme toujours paucisymptomatiques.",
+        "Elles sont décrites comme non contagieuses."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que les formes cliniques et la contagiosité des MDR/XDR sont similaires à celles des tuberculoses sensibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles résistances permettent de retenir une tuberculose MDR selon la définition donnée ?",
+      "choices": [
+        "Résistance à l’isoniazide et à la rifampicine.",
+        "Résistance à l’isoniazide, à la rifampicine et à une fluoroquinolone.",
+        "Résistance isolée à l’isoniazide.",
+        "Résistance à une fluoroquinolone et à un injectable de deuxième ligne, sans résistance mentionnée à l’isoniazide ni à la rifampicine."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La MDR est définie par une résistance au moins à l’isoniazide et à la rifampicine ; d’autres résistances peuvent s’y ajouter."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la définition de la tuberculose XDR, quels éléments sont requis selon le texte ?",
+      "choices": [
+        "Il doit s’agir d’une tuberculose MDR.",
+        "Il doit exister une résistance à toutes les fluoroquinolones.",
+        "Il doit exister une résistance à tous les injectables de deuxième ligne.",
+        "Une résistance isolée à l’amikacine suffit à définir une XDR."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La XDR est une tuberculose MDR avec résistance à toutes les fluoroquinolones et à au moins un injectable de deuxième ligne."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels médicaments sont cités comme injectables de deuxième ligne dans la définition de la tuberculose XDR ?",
+      "choices": [
+        "Amikacine.",
+        "Kanamycine.",
+        "Capréomycine.",
+        "Rifampicine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite comme exemples d’injectables de deuxième ligne l’amikacine, la kanamycine et la capréomycine."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments traduisent la lourdeur thérapeutique des tuberculoses MDR/XDR dans le texte ?",
+      "choices": [
+        "Traitement long, lourd et coûteux.",
+        "Traitements de deuxième ligne souvent mal tolérés.",
+        "Prises quotidiennes multiples.",
+        "Traitement systématiquement court."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur un traitement long, lourd, coûteux, souvent mal toléré, avec prises quotidiennes multiples."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels énoncés respectent les modalisateurs employés dans le texte pour la prise en charge des MDR/XDR ?",
+      "choices": [
+        "Le recours à la chirurgie est possible selon les cas.",
+        "Les injectables sont possibles.",
+        "Les traitements de deuxième ligne sont souvent mal tolérés.",
+        "La prise en charge spécialisée est facultative."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte parle de chirurgie possible selon les cas, d’injectables possibles, de traitements souvent mal tolérés et d’une prise en charge spécialisée indispensable."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles correspondent à des associations correctes entre situation de contact et niveau de risque ?",
+      "choices": [
+        "Partenaires de loisirs : deuxième cercle, risque intermédiaire.",
+        "Mêmes activités de loisirs : troisième cercle, risque faible.",
+        "Étudiants d’une même classe : deuxième cercle, risque intermédiaire.",
+        "Personnes d’une même école : deuxième cercle, risque intermédiaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les partenaires de loisirs et étudiants d’une même classe relèvent du deuxième cercle ; les personnes ayant les mêmes activités de loisirs ou la même école relèvent du troisième cercle."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions constituent des erreurs de classement par rapport au texte ?",
+      "choices": [
+        "Classer les personnes du même lieu de travail dans le deuxième cercle.",
+        "Classer les collègues de travail proches dans le troisième cercle.",
+        "Classer les contacts sporadiques dans le troisième cercle.",
+        "Classer les amis proches dans le deuxième cercle."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le même lieu de travail relève du troisième cercle, tandis que les collègues de travail proches relèvent du deuxième cercle."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont explicitement citées comme actes ou contextes respiratoires/ORL à prendre en compte ?",
+      "choices": [
+        "Endoscopie bronchique ou ORL.",
+        "Expectoration induite.",
+        "Kinésithérapie respiratoire.",
+        "Ponction lombaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’endoscopie bronchique ou ORL, l’expectoration induite et la kinésithérapie respiratoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Un sujet a partagé un espace confiné pendant 8 h 30 avec un cas dont l’examen microscopique est positif. Quelle interprétation est correcte selon le texte ?",
+      "choices": [
+        "Le seuil n’est pas atteint car il faudrait plus de 40 heures.",
+        "Le seuil est atteint car la durée cumulée est supérieure à 8 heures.",
+        "Le seuil serait atteint uniquement si la durée était exactement de 8 heures.",
+        "Aucun seuil n’est indiqué pour les examens microscopiques positifs."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Pour un examen microscopique positif, le seuil est une durée cumulée d’exposition strictement supérieure à 8 heures."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour un cas dont l’examen microscopique est négatif, quelle durée cumulée d’exposition en espace confiné franchit le seuil indiqué ?",
+      "choices": [
+        "8 heures.",
+        "40 heures.",
+        "40 heures 30 minutes.",
+        "Une durée quelconque, indépendamment du cumul."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le seuil est strictement supérieur à 40 heures ; 40 h 30 le franchit."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les contacts suivants, lequel est classé dans le deuxième cercle de risque intermédiaire ?",
+      "choices": [
+        "Contact sporadique.",
+        "Personne vivant dans la même communauté.",
+        "Partenaire de loisirs.",
+        "Personne fréquentant la même école."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les partenaires de loisirs relèvent du deuxième cercle ; les autres propositions relèvent du troisième cercle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation correspond le mieux à la définition de la tuberculose XDR donnée dans le texte ?",
+      "choices": [
+        "Tuberculose MDR avec résistance à toutes les fluoroquinolones et à la kanamycine.",
+        "Tuberculose résistante uniquement à l’isoniazide.",
+        "Tuberculose MDR sans résistance aux fluoroquinolones.",
+        "Tuberculose sensible à la rifampicine avec résistance à l’amikacine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La XDR est une MDR avec résistance à toutes les fluoroquinolones et à au moins un injectable de deuxième ligne, comme la kanamycine."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la description des tuberculoses MDR/XDR, quel élément n’est pas présenté comme une similitude avec les tuberculoses sensibles ?",
+      "choices": [
+        "Les formes cliniques.",
+        "La contagiosité.",
+        "Le traitement long, lourd et coûteux.",
+        "Le caractère respiratoire possible des formes cliniques."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte mentionne la similarité des formes cliniques et de la contagiosité, mais décrit spécifiquement le traitement MDR/XDR comme long, lourd et coûteux."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition concernant la chirurgie dans les tuberculoses MDR/XDR est fidèle au texte ?",
+      "choices": [
+        "Elle est impossible.",
+        "Elle est obligatoire dans tous les cas.",
+        "Elle peut être utilisée selon les cas.",
+        "Elle remplace toujours les traitements de deuxième ligne."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique un recours possible à la chirurgie selon les cas."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-03T01:34:16.028Z"
+}

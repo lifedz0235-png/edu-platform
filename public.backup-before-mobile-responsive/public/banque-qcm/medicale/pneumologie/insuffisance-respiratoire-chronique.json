@@ -1,0 +1,3112 @@
+{
+  "category": "medicale",
+  "module": "pneumologie",
+  "courseId": 215,
+  "courseTitle": "Insuffisance Respiratoire Chronique",
+  "supportTitle": "insuffisance-respiratoire-chronique",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/medicale-pdf/pneumologie/insuffisance-respiratoire-chronique.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement l’insuffisance respiratoire chronique selon le texte ?",
+      "choices": [
+        "Incapacité du poumon à assurer normalement l’oxygénation du sang artériel avec PaO₂ < 60 mmHg",
+        "Altération isolée de la mécanique ventilatoire avec PaO₂ conservée autour de 100 mmHg",
+        "Présence obligatoire d’une hypercapnie dès le début de la maladie",
+        "Diminution de la SaO₂ uniquement lorsque le rapport VA/Q est supérieur à 1"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’IRC est définie par l’incapacité du poumon à assurer l’oxygénation normale du sang artériel, entraînant une hypoxémie avec PaO₂ < 60 mmHg."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments participent à la ventilation selon la physiologie respiratoire rappelée dans le texte ?",
+      "choices": [
+        "Les chémorécepteurs sensibles à la PaO₂, à la PaCO₂ et au pH",
+        "Les centres respiratoires bulbaires",
+        "La mécanique respiratoire assurée notamment par le diaphragme et les muscles intercostaux",
+        "L’hypersécrétion d’érythropoïétine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La ventilation dépend des chémorécepteurs, des centres respiratoires bulbaires, de la mécanique respiratoire, des résistances des voies aériennes et de l’adéquation ventilation/perfusion. L’érythropoïétine intervient dans la polyglobulie liée à l’hypoxie, pas comme déterminant direct de la ventilation."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour une fréquence respiratoire de 16/min, un volume courant de 500 ml et un espace mort anatomique de 150 ml, quelle est la ventilation alvéolaire ?",
+      "choices": [
+        "2400 ml/min",
+        "3500 ml/min",
+        "5600 ml/min",
+        "8000 ml/min"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La ventilation alvéolaire est VA = (VT - VD) × f = (500 - 150) × 16 = 5600 ml/min."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rapport ventilation/perfusion VA/Q normal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est en moyenne égal à 1 pour l’ensemble du poumon",
+        "Il est supérieur à 1 aux sommets pulmonaires",
+        "Il est inférieur à 1 aux bases pulmonaires",
+        "Il est identique dans toutes les régions pulmonaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le rapport VA/Q moyen est proche de 1 pour l’ensemble du poumon, mais il varie selon les régions : supérieur à 1 aux sommets et inférieur à 1 aux bases."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la physiopathologie de l’IRC obstructive, quelles propositions sont exactes ?",
+      "choices": [
+        "Il existe une augmentation des résistances des voies aériennes",
+        "L’hypoxémie résulte d’une mauvaise répartition de la ventilation et d’une hétérogénéité des rapports VA/Q",
+        "L’hypercapnie apparaît dans les formes évoluées par hypoventilation alvéolaire",
+        "Le pH devient précocement très abaissé malgré l’adaptation rénale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IRC obstructive associe augmentation des résistances bronchiques, altération des échanges gazeux et hypoxémie par hétérogénéité VA/Q. L’hypercapnie survient dans les formes évoluées. Le pH reste longtemps normal grâce à la compensation rénale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles conséquences sont décrites au cours de l’IRC obstructive chronique ?",
+      "choices": [
+        "Augmentation du travail des muscles respiratoires, notamment du diaphragme",
+        "Hyperactivité des centres respiratoires",
+        "Vasoconstriction artérielle pulmonaire réflexe liée à l’hypoxie chronique",
+        "Polyglobulie constante et obligatoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IRC obstructive entraîne un surcroît de travail respiratoire, une hyperactivité des centres respiratoires et une vasoconstriction pulmonaire hypoxique pouvant évoluer vers une hypertension artérielle pulmonaire. La polyglobulie est inconstante."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une IRC restrictive liée à une scoliose, quel mécanisme d’altération des échanges gazeux est mentionné ?",
+      "choices": [
+        "Trouble de diffusion pur",
+        "Hypoventilation",
+        "Mauvaise répartition de la ventilation par obstruction bronchique",
+        "Vasoconstriction artérielle pulmonaire primitive"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans l’atteinte de la paroi thoracique, comme une scoliose, l’IRC restrictive est liée à une hypoventilation."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les étiologies suivantes, lesquelles appartiennent au cadre de l’IRC obstructive selon le texte ?",
+      "choices": [
+        "BPCO",
+        "Emphysème",
+        "Dilatation des bronches",
+        "Pathologies pleurales"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes obstructives citées sont la BPCO, l’asthme à dyspnée continue, l’emphysème et les dilatations des bronches. Les pathologies pleurales relèvent des IRC restrictives."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles étiologies sont classées comme IRC d’origine vasculaire pulmonaire ?",
+      "choices": [
+        "Cœur pulmonaire chronique post-embolique",
+        "Insuffisance ventriculaire droite",
+        "Hypertension artérielle pulmonaire primitive",
+        "Déformations thoraciques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les IRC d’origine vasculaire pulmonaire citées sont le cœur pulmonaire chronique post-embolique, l’insuffisance ventriculaire droite et l’hypertension artérielle pulmonaire primitive. Les déformations thoraciques relèvent des causes restrictives."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le traitement à l’état stable d’une BPCO évoluée, quelles mesures sont mentionnées ?",
+      "choices": [
+        "Arrêt du tabac",
+        "Bronchodilatateurs",
+        "Vaccination antigrippale annuelle",
+        "Maintien systématique des traitements sédatifs ou hypnotiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement comprend l’arrêt du tabac, les bronchodilatateurs et la vaccination antigrippale annuelle. Les traitements sédatifs ou hypnotiques doivent être arrêtés si possible."
+    },
+    {
+      "type": "QCS",
+      "question": "Concernant le traitement d’une maladie interstitielle responsable d’IRC, quelle proposition est correcte ?",
+      "choices": [
+        "La corticothérapie est indiquée dans certaines formes évoluées",
+        "La vaccination antipneumococcique tous les 5 ans constitue le traitement spécifique principal",
+        "L’arrêt des traitements sédatifs est présenté comme la mesure centrale spécifique",
+        "La ventilation à haut volume pulmonaire est le traitement de fond indiqué"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Pour les maladies interstitielles, le texte mentionne l’éviction des facteurs favorisants, la corticothérapie dans certaines formes évoluées et l’oxygénothérapie de longue durée si indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels bénéfices sont attendus de l’oxygénothérapie de longue durée dans l’IRC ?",
+      "choices": [
+        "Augmentation de l’espérance de vie",
+        "Amélioration de la qualité de vie",
+        "Amélioration de la tolérance à l’effort",
+        "Suppression définitive de toute hypertension artérielle pulmonaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’oxygénothérapie de longue durée améliore l’espérance de vie, la qualité de vie et la tolérance à l’effort. Elle peut stabiliser ou améliorer l’hypertension artérielle pulmonaire, sans notion de suppression définitive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les indications de l’oxygénothérapie de longue durée, quelles propositions sont exactes ?",
+      "choices": [
+        "PaO₂ < 55 mmHg à l’état stable",
+        "Vérification à distance d’une décompensation aiguë, au moins 15 jours à 1 mois après l’épisode",
+        "PaO₂ < 60 mmHg en présence de signes d’insuffisance cardiaque droite",
+        "PaO₂ autour de 100 mmHg avec SaO₂ autour de 98 %"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’OLD est indiquée si PaO₂ < 55 mmHg à l’état stable, à confirmer à distance d’une décompensation, ou si PaO₂ < 60 mmHg avec signes d’insuffisance cardiaque droite."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité de l’oxygénothérapie de longue durée est correcte selon le texte ?",
+      "choices": [
+        "Durée minimale de 14 h/jour",
+        "Débit initial habituel de 5 L/min sans adaptation",
+        "Objectif de PaO₂ strictement supérieur à 100 mmHg",
+        "Débit augmenté même s’il aggrave la PaCO₂"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’oxygénothérapie de longue durée doit être administrée au moins 14 h/jour. Le débit est adapté pour obtenir une PaO₂ > 70 mmHg sans aggraver la PaCO₂, avec un débit initial souvent faible autour de 1 L/min."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une décompensation aiguë d’IRC, quelles propositions physiopathologiques sont exactes ?",
+      "choices": [
+        "Les centres respiratoires sont stimulés par l’hypoxie, l’hypercapnie et l’acidose",
+        "Dans la BPCO, l’augmentation des résistances est souvent liée à une infection bronchique ou un encombrement",
+        "Une ventilation à haut volume pulmonaire peut être nécessaire pour maintenir les bronches ouvertes",
+        "La compensation rénale maintient toujours un pH normal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En décompensation aiguë, les centres respiratoires sont hyperactifs sous l’effet de l’hypoxie, de l’hypercapnie et de l’acidose. Dans la BPCO, infection ou encombrement majorent les résistances et imposent une ventilation à haut volume pulmonaire. L’acidose respiratoire apparaît lorsque la compensation rénale est dépassée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes respiratoires évoquent une décompensation aiguë d’une IRC ?",
+      "choices": [
+        "Cyanose",
+        "Polypnée",
+        "Encombrement bronchique",
+        "Respiration abdominale paradoxale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les signes respiratoires de décompensation aiguë comprennent la cyanose, la polypnée, l’encombrement bronchique et la respiration abdominale paradoxale, cette dernière évoquant un épuisement diaphragmatique."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’examen physique et hémodynamique d’une décompensation aiguë d’IRC, quelles propositions sont exactes ?",
+      "choices": [
+        "Distension thoracique",
+        "Râles bronchiques",
+        "Sibilants",
+        "Collapsus fréquent en dehors de tout contexte particulier"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen peut retrouver une distension thoracique, des râles bronchiques et des sibilants. Le collapsus est rare, surtout observé en cas d’embolie pulmonaire massive ou de choc septique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes neuropsychiques peuvent être liés à l’hypoxie et à l’hypercapnie lors d’une décompensation aiguë d’IRC ?",
+      "choices": [
+        "Céphalées",
+        "Astérixis",
+        "Agitation",
+        "Coma"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les signes neuropsychiques mentionnés sont les céphalées, l’astérixis, l’agitation, la somnolence, les troubles de la conscience et le coma."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel ensemble correspond exactement aux examens complémentaires mentionnés devant une décompensation aiguë d’IRC ?",
+      "choices": [
+        "Gaz du sang artériel, radiographie thoracique, ECG",
+        "Gaz du sang artériel, radiographie thoracique, astérixis",
+        "Cyanose, polypnée, ECG",
+        "Radiographie thoracique, sibilants, turgescence jugulaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les examens complémentaires cités sont les gaz du sang artériel, la radiographie thoracique et l’ECG."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont mentionnées comme indications de ventilation artificielle dans la décompensation aiguë d’une IRC ?",
+      "choices": [
+        "Épuisement des muscles respiratoires",
+        "Troubles de la conscience",
+        "Astérixis",
+        "Hypertension artérielle possible isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indications de ventilation artificielle mentionnées sont l’épuisement des muscles respiratoires, les troubles de la conscience et l’astérixis. L’hypertension artérielle possible fait partie de la tolérance hémodynamique, mais n’est pas citée comme indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels objectifs de la ventilation sont explicitement mentionnés dans le texte ?",
+      "choices": [
+        "Mettre au repos les muscles respiratoires",
+        "Améliorer l’oxygénation",
+        "Faciliter les aspirations bronchiques",
+        "Remplacer systématiquement l’antibiothérapie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les objectifs cités sont le repos des muscles respiratoires, l’amélioration de l’oxygénation, l’amélioration hémodynamique, la facilitation des aspirations bronchiques et la libération des voies aériennes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la ventilation non invasive dans le contexte décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut éviter le recours à la ventilation invasive",
+        "Elle est envisagée en l’absence de troubles de la conscience",
+        "Elle impose l’arrêt des aspirations bronchiques",
+        "Elle remplace le traitement de la cause déclenchante"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que la ventilation non invasive peut éviter la ventilation invasive en l’absence de troubles de la conscience. Elle ne dispense pas du traitement médical ni du traitement causal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments appartiennent au traitement médical décrit ?",
+      "choices": [
+        "Oxygénothérapie à faible débit",
+        "Kinésithérapie respiratoire",
+        "Drainage bronchique",
+        "Évacuation systématique d’une pleurésie même absente"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement médical comprend l’oxygénothérapie à faible débit, la kinésithérapie respiratoire et le drainage bronchique. L’évacuation d’une pleurésie relève du traitement causal lorsqu’une pleurésie est présente."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des bronchodilatateurs mentionnés dans le traitement médical, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être administrés en nébulisation",
+        "Les bêta-2 mimétiques sont cités",
+        "Les anticholinergiques sont cités",
+        "Ils sont indiqués uniquement par voie intraveineuse selon le texte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne des bronchodilatateurs en nébulisation, comprenant les bêta-2 mimétiques et les anticholinergiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures médicamenteuses sont citées dans le traitement médical, si indication ?",
+      "choices": [
+        "Corticoïdes par voie intraveineuse",
+        "Héparine de bas poids moléculaire à dose préventive",
+        "Antibiothérapie à large spectre en cas d’infection",
+        "Héparine à dose curative en l’absence d’embolie pulmonaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les corticoïdes IV si indication, l’HBPM à dose préventive si indication, et l’antibiothérapie à large spectre en cas d’infection. L’héparine curative est mentionnée en cas d’embolie pulmonaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures de prise en charge générale sont mentionnées dans le traitement médical ?",
+      "choices": [
+        "Apport hyperprotidique",
+        "Hydratation si nécessaire",
+        "Aspirations bronchiques si nécessaire",
+        "Restriction hydrique systématique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne l’apport hyperprotidique, l’hydratation si nécessaire et les aspirations bronchiques si nécessaire. Il ne mentionne pas de restriction hydrique systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le traitement de la cause déclenchante, quelles associations sont correctes selon le texte ?",
+      "choices": [
+        "Pneumopathie : antibiothérapie",
+        "Surinfection bronchique : antibiothérapie",
+        "Pneumothorax : drainage",
+        "Embolie pulmonaire : oxygénothérapie excessive"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte associe pneumopathie et surinfection bronchique à l’antibiothérapie, et pneumothorax au drainage. L’embolie pulmonaire relève d’une héparine à dose curative."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles erreurs thérapeutiques doivent être corrigées selon le texte ?",
+      "choices": [
+        "Oxygénothérapie excessive",
+        "Diurétiques alcalinisants",
+        "Abus de sédatifs",
+        "Antibiothérapie en cas de pneumopathie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les erreurs thérapeutiques à corriger sont l’oxygénothérapie excessive, les diurétiques alcalinisants et l’abus de sédatifs. L’antibiothérapie en cas de pneumopathie fait partie du traitement causal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’oxygénothérapie dans le traitement médical, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est prescrite à faible débit",
+        "Le débit cité est d’environ 0,5 à 1 L/min",
+        "Elle nécessite une surveillance des gaz du sang",
+        "Elle doit être excessive pour corriger rapidement l’hypoxémie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande une oxygénothérapie à faible débit, environ 0,5 à 1 L/min, avec surveillance des gaz du sang. L’oxygénothérapie excessive est citée comme erreur thérapeutique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures contribuent directement à la prise en charge de l’encombrement bronchique dans le texte ?",
+      "choices": [
+        "Kinésithérapie respiratoire",
+        "Drainage bronchique",
+        "Aspirations bronchiques si nécessaire",
+        "Abus de sédatifs"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La kinésithérapie respiratoire, le drainage bronchique et les aspirations bronchiques si nécessaire sont cités. L’abus de sédatifs est une erreur thérapeutique à corriger."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’anticoagulation mentionnée dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Une héparine de bas poids moléculaire à dose préventive peut être indiquée",
+        "Une héparine à dose curative est indiquée en cas d’embolie pulmonaire",
+        "La dose préventive est citée dans le traitement médical",
+        "La dose curative est citée pour la pneumopathie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue l’HBPM à dose préventive si indication et l’héparine à dose curative en cas d’embolie pulmonaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels objectifs non strictement gazométriques de la ventilation sont indiqués ?",
+      "choices": [
+        "Amélioration hémodynamique",
+        "Facilitation des aspirations bronchiques",
+        "Libération des voies aériennes",
+        "Induction d’une hypoventilation volontaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Outre l’amélioration de l’oxygénation, le texte cite l’amélioration hémodynamique, la facilitation des aspirations bronchiques et la libération des voies aériennes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les situations infectieuses déclenchantes ou associées, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Une antibiothérapie est indiquée en cas de pneumopathie",
+        "Une antibiothérapie est indiquée en cas de surinfection bronchique",
+        "Une antibiothérapie à large spectre est citée en cas d’infection",
+        "Le drainage d’un pneumothorax remplace l’antibiothérapie en cas de pneumopathie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte prévoit une antibiothérapie en cas de pneumopathie ou de surinfection bronchique, et une antibiothérapie à large spectre en cas d’infection."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures relèvent du traitement spécifique d’une cause déclenchante mécanique ou pleurale selon le texte ?",
+      "choices": [
+        "Drainage d’un pneumothorax",
+        "Évacuation d’une pleurésie",
+        "Correction d’une oxygénothérapie excessive",
+        "Bronchodilatateurs en nébulisation comme traitement causal d’une pleurésie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement causal comprend le drainage d’un pneumothorax, l’évacuation d’une pleurésie et la correction des erreurs thérapeutiques comme l’oxygénothérapie excessive. Les bronchodilatateurs sont cités dans le traitement médical."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de pH est cité pour une acidose respiratoire non améliorée par le traitement médical ?",
+      "choices": [
+        "pH < 7,50",
+        "pH < 7,40",
+        "pH < 7,30",
+        "pH < 7,20"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte cite notamment un pH < 7,30 en cas d’acidose respiratoire non améliorée par le traitement médical."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel débit d’oxygène est recommandé dans le traitement médical décrit ?",
+      "choices": [
+        "0,5 à 1 L/min",
+        "2 à 4 L/min",
+        "5 à 8 L/min",
+        "10 à 15 L/min"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte recommande une oxygénothérapie à faible débit, environ 0,5 à 1 L/min, avec surveillance des gaz du sang."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle condition la ventilation non invasive peut-elle éviter le recours à la ventilation invasive selon le texte ?",
+      "choices": [
+        "En présence de troubles de la conscience",
+        "En l’absence de troubles de la conscience",
+        "Uniquement après évacuation d’une pleurésie",
+        "Uniquement en cas d’arrêt des bronchodilatateurs"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que la ventilation non invasive peut éviter la ventilation invasive en l’absence de troubles de la conscience."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement causal est mentionné en cas de pneumothorax ?",
+      "choices": [
+        "Drainage",
+        "Évacuation pleurale simple",
+        "Héparine à dose curative",
+        "Apport hyperprotidique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le traitement de la cause déclenchante comprend le drainage d’un pneumothorax."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement causal est mentionné en cas de pleurésie ?",
+      "choices": [
+        "Drainage d’un pneumothorax",
+        "Évacuation d’une pleurésie",
+        "Héparine de bas poids moléculaire préventive",
+        "Abus contrôlé de sédatifs"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte mentionne l’évacuation d’une pleurésie dans le traitement de la cause déclenchante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation justifie une héparine à dose curative selon le texte ?",
+      "choices": [
+        "Surinfection bronchique",
+        "Pneumopathie",
+        "Embolie pulmonaire",
+        "Pleurésie"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique une héparine à dose curative en cas d’embolie pulmonaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon la physiologie respiratoire rappelée, quels paramètres stimulent directement les chémorécepteurs impliqués dans la ventilation ?",
+      "choices": [
+        "La PaO₂",
+        "La PaCO₂",
+        "Le pH",
+        "La pression artérielle systémique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que les chémorécepteurs sont sensibles à la PaO₂, à la PaCO₂ et au pH."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les conditions mécaniques normales décrites, quels éléments permettent une ventilation alvéolaire correcte et homogène ?",
+      "choices": [
+        "Des volumes pulmonaires normaux",
+        "Des résistances des voies aériennes normales",
+        "Un écoulement de l’air non perturbé",
+        "Une hétérogénéité obligatoire des rapports VA/Q"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Lorsque les volumes pulmonaires et les résistances des voies aériennes sont normaux, l’écoulement de l’air permet une ventilation alvéolaire correcte et homogène."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une IRC obstructive évoluée avec hypercapnie chronique compensée, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "Le pH peut rester longtemps normal",
+        "La réabsorption rénale des bicarbonates augmente",
+        "La PaCO₂ est élevée",
+        "Il s’agit d’une alcalose métabolique primitive"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’élévation chronique de la PaCO₂ peut être compensée par une augmentation de la réabsorption rénale des bicarbonates, maintenant longtemps un pH normal : c’est une acidose respiratoire compensée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la polyglobulie au cours de l’IRC obstructive, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est inconstante",
+        "Elle résulte d’une hypersécrétion d’érythropoïétine",
+        "Elle est une réponse à l’hypoxie chronique",
+        "Elle constitue un signe obligatoire d’IRC obstructive"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une polyglobulie inconstante, liée à l’hypersécrétion d’érythropoïétine en réponse à l’hypoxie chronique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles affections appartiennent au groupe des IRC restrictives selon le texte ?",
+      "choices": [
+        "Les pneumopathies interstitielles diffuses",
+        "Les déformations thoraciques",
+        "Les pathologies pleurales",
+        "Les maladies neuromusculaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les quatre propositions sont explicitement classées parmi les causes d’IRC restrictive."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations étiologie-type d’IRC sont correctement rapportées dans le texte ?",
+      "choices": [
+        "Emphysème — IRC obstructive",
+        "Dilatation des bronches — IRC obstructive",
+        "Hypertension artérielle pulmonaire primitive — IRC d’origine vasculaire pulmonaire",
+        "Insuffisance ventriculaire droite — IRC d’origine vasculaire pulmonaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces associations correspondent aux classifications étiologiques données dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge d’une BPCO évoluée à l’état stable, quelles mesures d’éviction ou de correction iatrogène sont citées ?",
+      "choices": [
+        "Arrêt du tabac",
+        "Éviction des polluants toxiques",
+        "Arrêt des traitements sédatifs ou hypnotiques si possible",
+        "Maintien systématique des hypnotiques pour diminuer la dyspnée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’arrêt du tabac, l’éviction des polluants toxiques et l’arrêt des sédatifs ou hypnotiques si possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le traitement d’une BPCO évoluée, quelles mesures concernent la prévention ou le contrôle des infections ?",
+      "choices": [
+        "Vaccination antigrippale annuelle",
+        "Vaccination antipneumococcique tous les 5 ans",
+        "Traitement des surinfections bronchiques",
+        "Traitement des foyers infectieux ORL ou stomatologiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces mesures sont explicitement mentionnées dans la prise en charge d’une BPCO évoluée."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une décompensation aiguë de BPCO, quels éléments expliquent la contrainte ventilatoire à haut volume pulmonaire ?",
+      "choices": [
+        "L’augmentation des résistances des voies aériennes",
+        "Une infection bronchique possible",
+        "Un encombrement bronchique possible",
+        "La nécessité de maintenir les bronches ouvertes"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte indique qu’en cas de BPCO, l’augmentation des résistances, souvent liée à une infection bronchique ou un encombrement, impose une ventilation à haut volume pulmonaire pour maintenir les bronches ouvertes."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant une décompensation aiguë d’IRC, quelles anomalies gazométriques ou acidobasiques sont décrites ?",
+      "choices": [
+        "Hypoxémie importante",
+        "Hypercapnie importante",
+        "Acidose respiratoire si la compensation rénale est dépassée",
+        "Stimulation des centres respiratoires par l’acidose"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La décompensation aiguë associe hypoxémie, hypercapnie et acidose respiratoire lorsque la compensation rénale est dépassée ; les centres respiratoires sont stimulés par l’hypoxie, l’hypercapnie et l’acidose."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du collapsus lors d’une décompensation aiguë d’IRC, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Il est rare",
+        "Il survient surtout en cas d’embolie pulmonaire massive",
+        "Il peut s’observer en cas de choc septique",
+        "Il constitue le mode hémodynamique habituel de présentation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le collapsus est décrit comme rare, surtout en cas d’embolie pulmonaire massive ou de choc septique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes appartiennent à l’examen physique thoracique décrit au cours d’une décompensation aiguë d’IRC ?",
+      "choices": [
+        "Distension thoracique",
+        "Râles bronchiques",
+        "Sibilants",
+        "Astérixis"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La distension thoracique, les râles bronchiques et les sibilants relèvent de l’examen physique ; l’astérixis est classé parmi les signes neuropsychiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les signes neuropsychiques cités, lesquels traduisent une altération de la vigilance ou de la conscience ?",
+      "choices": [
+        "Céphalées isolées",
+        "Somnolence",
+        "Troubles de la conscience",
+        "Coma"
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": "La somnolence, les troubles de la conscience et le coma traduisent une altération de la vigilance ou de la conscience. Les céphalées sont citées mais ne constituent pas en elles-mêmes une altération de vigilance."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles correspondances entre manifestations cliniques et catégories de tolérance sont correctement déduites du texte ?",
+      "choices": [
+        "Cyanose — signe respiratoire",
+        "Signe de Harzer — signe d’insuffisance ventriculaire droite",
+        "Céphalées — signe neuropsychique",
+        "Hypertension artérielle — anomalie hémodynamique possible"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte classe la cyanose parmi les signes respiratoires, le signe de Harzer parmi les signes d’insuffisance ventriculaire droite, les céphalées parmi les signes neuropsychiques et mentionne une hypertension artérielle possible."
+    },
+    {
+      "type": "QCS",
+      "question": "Avec un volume courant de 500 ml et une fréquence respiratoire de 16/min, quelle est la ventilation minute indiquée dans le texte ?",
+      "choices": [
+        "3500 ml/min",
+        "5600 ml/min",
+        "8000 ml/min",
+        "16000 ml/min"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La ventilation minute est VE = VT × f = 500 × 16 = 8000 ml/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle valeur d’espace mort anatomique est utilisée dans le calcul de ventilation alvéolaire du texte ?",
+      "choices": [
+        "50 ml",
+        "100 ml",
+        "150 ml",
+        "250 ml"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte retient un espace mort anatomique d’environ 150 ml."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas de bonne adéquation ventilation/perfusion, quelle PaO₂ approximative est indiquée ?",
+      "choices": [
+        "40 mmHg",
+        "60 mmHg",
+        "70 mmHg",
+        "100 mmHg"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Une bonne adéquation VA/Q permet une oxygénation correcte avec une PaO₂ d’environ 100 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle vaccination est recommandée annuellement dans le traitement d’une BPCO évoluée ?",
+      "choices": [
+        "Vaccination antigrippale",
+        "Vaccination antipneumococcique",
+        "Vaccination antitétanique",
+        "Vaccination anti-hépatite B"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte mentionne une vaccination antigrippale annuelle."
+    },
+    {
+      "type": "QCS",
+      "question": "À quel rythme la vaccination antipneumococcique est-elle indiquée dans la BPCO évoluée selon le texte ?",
+      "choices": [
+        "Tous les ans",
+        "Tous les 2 ans",
+        "Tous les 5 ans",
+        "Tous les 10 ans"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La vaccination antipneumococcique est indiquée tous les 5 ans."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une pneumopathie interstitielle diffuse responsable d’IRC restrictive, quel mécanisme d’altération des échanges gazeux est indiqué ?",
+      "choices": [
+        "Trouble de diffusion",
+        "Bronchoconstriction aiguë isolée",
+        "Embolie pulmonaire massive",
+        "Augmentation primitive de l’espace mort anatomique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas de pneumopathie interstitielle diffuse, le texte retient un trouble de diffusion."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon le texte, quelles mesures du traitement médical sont explicitement conditionnelles, c’est-à-dire réalisées « si indication » ou « si nécessaire » ?",
+      "choices": [
+        "Corticoïdes par voie intraveineuse",
+        "Héparine de bas poids moléculaire à dose préventive",
+        "Aspirations bronchiques",
+        "Hydratation"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise : corticoïdes IV si indication, HBPM préventive si indication, aspirations bronchiques si nécessaire et hydratation si nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions respectent exactement les modalités d’administration ou de réalisation précisées dans le traitement médical ?",
+      "choices": [
+        "Bronchodilatateurs administrés en nébulisation",
+        "Corticoïdes administrés par voie intraveineuse",
+        "Oxygénothérapie administrée à faible débit",
+        "Antibiothérapie à large spectre en cas d’infection"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre modalités sont explicitement citées : bronchodilatateurs en nébulisation, corticoïdes IV, oxygénothérapie à faible débit et antibiothérapie à large spectre en cas d’infection."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’anticoagulation dans ce texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Une héparine de bas poids moléculaire peut être utilisée à dose préventive si indication",
+        "Une héparine à dose curative est indiquée en cas d’embolie pulmonaire",
+        "L’héparine curative est citée comme traitement systématique de toute infection respiratoire",
+        "L’héparine préventive est présentée comme le traitement causal du pneumothorax"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte distingue l’HBPM à dose préventive si indication et l’héparine à dose curative en cas d’embolie pulmonaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles caractéristiques de l’oxygénothérapie sont conformes au texte ?",
+      "choices": [
+        "Elle doit être à faible débit",
+        "Le débit indiqué est d’environ 0,5 à 1 L/min",
+        "Elle nécessite une surveillance des gaz du sang",
+        "Elle doit être excessive pour corriger rapidement l’hypoxémie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande une oxygénothérapie à faible débit, environ 0,5 à 1 L/min, avec surveillance des gaz du sang. L’oxygénothérapie excessive est au contraire une erreur thérapeutique à corriger."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les situations infectieuses mentionnées, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Une antibiothérapie à large spectre est indiquée en cas d’infection",
+        "Une antibiothérapie est indiquée en cas de pneumopathie",
+        "Une antibiothérapie est indiquée en cas de surinfection bronchique",
+        "Une antibiothérapie est citée comme traitement causal d’une pleurésie non précisée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’antibiothérapie à large spectre en cas d’infection, et l’antibiothérapie en cas de pneumopathie ou de surinfection bronchique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont citées comme erreurs thérapeutiques à corriger ?",
+      "choices": [
+        "Oxygénothérapie excessive",
+        "Diurétiques alcalinisants",
+        "Abus de sédatifs",
+        "Apport hyperprotidique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les erreurs thérapeutiques citées sont : oxygénothérapie excessive, diurétiques alcalinisants et abus de sédatifs. L’apport hyperprotidique fait partie du traitement médical."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels objectifs de la ventilation traduisent une action sur la mécanique respiratoire ou les échanges gazeux ?",
+      "choices": [
+        "Repos des muscles respiratoires",
+        "Amélioration de l’oxygénation",
+        "Amélioration hémodynamique",
+        "Antibiothérapie à large spectre"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les objectifs ventilatoires cités incluent le repos des muscles respiratoires, l’amélioration de l’oxygénation et l’amélioration hémodynamique. L’antibiothérapie n’est pas un objectif de la ventilation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels objectifs de la ventilation concernent directement l’accès ou la désobstruction des voies aériennes ?",
+      "choices": [
+        "Facilitation des aspirations bronchiques",
+        "Libération des voies aériennes",
+        "Drainage d’un pneumothorax",
+        "Évacuation d’une pleurésie"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte cite comme objectifs de la ventilation la facilitation des aspirations bronchiques et la libération des voies aériennes. Le drainage d’un pneumothorax et l’évacuation d’une pleurésie relèvent du traitement causal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures du traitement médical participent à la prise en charge bronchique selon le texte ?",
+      "choices": [
+        "Kinésithérapie respiratoire",
+        "Drainage bronchique",
+        "Aspirations bronchiques si nécessaire",
+        "Évacuation d’une pleurésie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La kinésithérapie respiratoire, le drainage bronchique et les aspirations bronchiques si nécessaire sont cités dans le traitement médical. L’évacuation d’une pleurésie est un traitement causal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions associent correctement une cause déclenchante et son traitement spécifique cité ?",
+      "choices": [
+        "Pneumothorax — drainage",
+        "Pleurésie — évacuation",
+        "Embolie pulmonaire — héparine à dose curative",
+        "Surinfection bronchique — abus de sédatifs"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique le drainage d’un pneumothorax, l’évacuation d’une pleurésie et l’héparine curative en cas d’embolie pulmonaire. L’abus de sédatifs est une erreur thérapeutique à corriger."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions distinguent correctement le traitement bronchique du traitement pleural ou mécanique ?",
+      "choices": [
+        "Le drainage bronchique appartient au traitement médical",
+        "Le drainage d’un pneumothorax appartient au traitement de la cause déclenchante",
+        "L’évacuation d’une pleurésie appartient au traitement de la cause déclenchante",
+        "Les aspirations bronchiques sont le traitement causal d’une pleurésie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le drainage bronchique est une mesure médicale ; le pneumothorax relève d’un drainage et la pleurésie d’une évacuation. Les aspirations bronchiques ne sont pas le traitement causal d’une pleurésie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la ventilation non invasive, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle peut éviter le recours à la ventilation invasive",
+        "Cette possibilité est mentionnée en l’absence de troubles de la conscience",
+        "Elle est indiquée préférentiellement en présence de troubles de la conscience",
+        "Elle remplace la correction des causes déclenchantes"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que la ventilation non invasive peut éviter le recours à la ventilation invasive en l’absence de troubles de la conscience."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions classent correctement les mesures citées entre traitement médical et traitement causal ?",
+      "choices": [
+        "Apport hyperprotidique — traitement médical",
+        "Hydratation si nécessaire — traitement médical",
+        "Drainage d’un pneumothorax — traitement de la cause déclenchante",
+        "Correction d’une oxygénothérapie excessive — correction d’une erreur thérapeutique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre classements correspondent au texte : apport hyperprotidique et hydratation dans le traitement médical, drainage du pneumothorax dans le traitement causal, correction d’une oxygénothérapie excessive parmi les erreurs thérapeutiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions sont incompatibles avec les modalités thérapeutiques décrites dans le texte ?",
+      "choices": [
+        "Oxygénothérapie d’emblée excessive",
+        "Diurétiques alcalinisants maintenus sans correction",
+        "Abus de sédatifs non corrigé",
+        "Surveillance des gaz du sang sous oxygénothérapie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’oxygénothérapie excessive, les diurétiques alcalinisants et l’abus de sédatifs sont des erreurs thérapeutiques à corriger. La surveillance des gaz du sang sous oxygénothérapie est recommandée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen de surveillance est explicitement associé à l’oxygénothérapie dans le texte ?",
+      "choices": [
+        "Gaz du sang",
+        "Électrocardiogramme",
+        "Radiographie thoracique",
+        "Numération formule sanguine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’oxygénothérapie à faible débit doit être réalisée avec surveillance des gaz du sang."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle mesure correspond à l’apport nutritionnel cité dans le traitement médical ?",
+      "choices": [
+        "Apport hyperprotidique",
+        "Restriction protidique",
+        "Régime hyposodé strict",
+        "Nutrition exclusivement parentérale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte mentionne un apport hyperprotidique dans le traitement médical."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité antibiotique est mentionnée en cas d’infection ?",
+      "choices": [
+        "Antibiothérapie à large spectre",
+        "Antibiothérapie antivirale exclusive",
+        "Antibiothérapie uniquement locale",
+        "Absence d’antibiothérapie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique une antibiothérapie à large spectre en cas d’infection."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle voie d’administration des corticoïdes est précisée si leur indication est retenue ?",
+      "choices": [
+        "Voie inhalée uniquement",
+        "Voie sous-cutanée",
+        "Voie intraveineuse",
+        "Voie intramusculaire systématique"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte mentionne des corticoïdes par voie intraveineuse si indication."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle condition est citée pour que la ventilation non invasive puisse éviter la ventilation invasive ?",
+      "choices": [
+        "Absence de troubles de la conscience",
+        "Présence d’une pleurésie",
+        "Présence d’un pneumothorax",
+        "Absence d’infection"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La ventilation non invasive peut éviter la ventilation invasive en l’absence de troubles de la conscience."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation est associée à la correction d’une erreur thérapeutique dans le texte ?",
+      "choices": [
+        "Oxygénothérapie excessive",
+        "Pneumopathie",
+        "Pleurésie",
+        "Embolie pulmonaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’oxygénothérapie excessive fait partie des erreurs thérapeutiques à corriger, avec les diurétiques alcalinisants et l’abus de sédatifs."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’IRC obstructive, quels phénomènes expliquent qu’une PaCO₂ élevée puisse coexister longtemps avec un pH normal ?",
+      "choices": [
+        "Une augmentation de la réabsorption rénale des bicarbonates",
+        "Une acidose respiratoire compensée",
+        "Une disparition de l’hypoventilation alvéolaire dans les formes évoluées",
+        "Une adaptation rénale malgré l’élévation de la PaCO₂"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Dans les formes évoluées d’IRC obstructive, l’hypercapnie est liée à l’hypoventilation alvéolaire. Le pH peut rester longtemps normal grâce à l’adaptation rénale avec réabsorption accrue des bicarbonates : c’est une acidose respiratoire compensée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes relient l’hypoxie chronique aux complications cardio-pulmonaires ou hématologiques décrites dans l’IRC obstructive ?",
+      "choices": [
+        "Vasoconstriction artérielle pulmonaire réflexe",
+        "Évolution possible vers une hypertension artérielle pulmonaire",
+        "Hypersécrétion d’érythropoïétine pouvant entraîner une polyglobulie",
+        "Vasodilatation artérielle pulmonaire primitive systématique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypoxie chronique entraîne une vasoconstriction artérielle pulmonaire réflexe pouvant évoluer vers une HTAP. Elle peut aussi stimuler l’érythropoïétine et provoquer une polyglobulie inconstante."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une BPCO évoluée à l’état stable, quelles mesures ont pour objectif de limiter les facteurs aggravants respiratoires ou iatrogènes ?",
+      "choices": [
+        "Arrêt du tabac",
+        "Éviction des polluants toxiques",
+        "Arrêt des traitements sédatifs ou hypnotiques si possible",
+        "Augmentation systématique des hypnotiques en cas de dyspnée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement d’une BPCO évoluée comprend l’arrêt du tabac, l’éviction des polluants toxiques et l’arrêt des sédatifs ou hypnotiques si possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les traitements inhalés dans la BPCO évoluée à l’état stable, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les bronchodilatateurs font partie du traitement",
+        "Les corticoïdes inhalés peuvent être utilisés si indication",
+        "Les corticoïdes inhalés sont indiqués systématiquement chez tous les patients",
+        "La kinésithérapie respiratoire peut contribuer à l’amélioration de la fonction pulmonaire"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte cite les bronchodilatateurs, la kinésithérapie respiratoire et les corticoïdes inhalés seulement si indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le traitement d’une pneumopathie interstitielle responsable d’IRC, quelles mesures sont citées ?",
+      "choices": [
+        "Éviction des facteurs favorisants",
+        "Corticothérapie dans certaines formes évoluées",
+        "Oxygénothérapie de longue durée si indication",
+        "Vaccination antipneumococcique tous les 6 mois comme traitement spécifique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pour une maladie interstitielle, le texte mentionne l’éviction des facteurs favorisants, la corticothérapie dans certaines formes évoluées et l’oxygénothérapie de longue durée si indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels effets favorables de l’oxygénothérapie de longue durée concernent directement la tolérance fonctionnelle ou la qualité de vie ?",
+      "choices": [
+        "Amélioration de la qualité de vie",
+        "Amélioration de la tolérance à l’effort",
+        "Guérison anatomique de l’emphysème",
+        "Augmentation de l’espérance de vie"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les bénéfices attendus sont notamment l’augmentation de l’espérance de vie, l’amélioration de la qualité de vie et de la tolérance à l’effort. La guérison anatomique de l’emphysème n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour poser l’indication d’une oxygénothérapie de longue durée sur une PaO₂ très basse à l’état stable, quelles précautions ou conditions sont précisées ?",
+      "choices": [
+        "La PaO₂ doit être inférieure à 55 mmHg",
+        "La mesure doit être vérifiée à distance d’une décompensation aiguë",
+        "La vérification doit se faire au moins 15 jours à 1 mois après l’épisode aigu",
+        "La décision repose uniquement sur une cyanose clinique sans gaz du sang"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’indication repose sur une PaO₂ < 55 mmHg à l’état stable, vérifiée à distance d’une décompensation aiguë, au moins 15 jours à 1 mois après l’épisode."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’adaptation du débit d’oxygène au long cours, quels objectifs ou modalités sont mentionnés ?",
+      "choices": [
+        "Obtenir une PaO₂ supérieure à 70 mmHg",
+        "Ne pas aggraver la PaCO₂",
+        "Adapter le débit aux gaz du sang",
+        "Débuter systématiquement à 10 L/min"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le débit doit être adapté pour obtenir une PaO₂ > 70 mmHg sans aggraver la PaCO₂. Le débit initial est souvent faible, environ 1 L/min, puis adapté aux gaz du sang."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours d’une décompensation aiguë d’IRC, quels éléments traduisent une majoration des contraintes ventilatoires dans la BPCO ?",
+      "choices": [
+        "Augmentation des résistances des voies aériennes",
+        "Infection bronchique ou encombrement comme facteurs fréquents",
+        "Ventilation à haut volume pulmonaire pour maintenir les bronches ouvertes",
+        "Diminution constante des résistances bronchiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas de BPCO décompensée, l’infection bronchique ou l’encombrement augmente les résistances des voies aériennes et impose une ventilation à haut volume pulmonaire pour maintenir les bronches ouvertes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes cliniques orientent vers une mauvaise tolérance respiratoire d’une décompensation aiguë d’IRC ?",
+      "choices": [
+        "Cyanose",
+        "Polypnée",
+        "Encombrement bronchique",
+        "Respiration abdominale paradoxale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les signes respiratoires cités sont la cyanose, la polypnée, l’encombrement bronchique et la respiration abdominale paradoxale, cette dernière évoquant un épuisement diaphragmatique."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’examen thoracique d’une décompensation aiguë d’IRC, quels éléments peuvent être retrouvés selon le texte ?",
+      "choices": [
+        "Distension thoracique",
+        "Râles bronchiques",
+        "Sibilants",
+        "Abolition systématique du murmure vésiculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen physique peut retrouver une distension thoracique, des râles bronchiques et des sibilants. L’abolition systématique du murmure vésiculaire n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes appartiennent à la tolérance neuropsychique d’une décompensation aiguë d’IRC ?",
+      "choices": [
+        "Céphalées",
+        "Astérixis",
+        "Agitation",
+        "Coma"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les signes neuropsychiques cités comprennent les céphalées, l’astérixis, l’agitation, la somnolence, les troubles de la conscience et le coma."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels examens complémentaires sont utiles devant une décompensation aiguë d’IRC d’après le texte ?",
+      "choices": [
+        "Gaz du sang artériel",
+        "Radiographie thoracique",
+        "ECG",
+        "Dosage systématique des marqueurs tumoraux"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les examens complémentaires mentionnés sont les gaz du sang artériel, la radiographie thoracique et l’ECG."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations classent correctement les étiologies d’IRC selon le mécanisme principal indiqué ?",
+      "choices": [
+        "Asthme à dyspnée continue : IRC obstructive",
+        "Maladie neuromusculaire : IRC restrictive",
+        "Cœur pulmonaire chronique post-embolique : IRC d’origine vasculaire pulmonaire",
+        "Dilatation des bronches : IRC restrictive"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’asthme à dyspnée continue et la dilatation des bronches relèvent de l’IRC obstructive. Les maladies neuromusculaires sont restrictives. Le cœur pulmonaire chronique post-embolique est classé parmi les IRC d’origine vasculaire pulmonaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle valeur de SaO₂ est associée à une bonne adéquation ventilation/perfusion dans le texte ?",
+      "choices": [
+        "Environ 88 %",
+        "Environ 92 %",
+        "Environ 98 %",
+        "Environ 100 % avec PaO₂ toujours inférieure à 60 mmHg"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une bonne adéquation VA/Q permet une oxygénation correcte avec PaO₂ ≈ 100 mmHg et SaO₂ ≈ 98 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les conséquences de l’IRC obstructive, quel muscle est particulièrement cité comme soumis à une augmentation du travail respiratoire ?",
+      "choices": [
+        "Diaphragme",
+        "Muscle masséter",
+        "Muscle deltoïde",
+        "Muscle psoas"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte mentionne une augmentation du travail des muscles respiratoires, notamment du diaphragme."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme est responsable de l’hypercapnie dans les formes évoluées d’IRC obstructive ?",
+      "choices": [
+        "Hypoventilation alvéolaire",
+        "Hyperventilation alvéolaire isolée",
+        "Augmentation primitive de la diffusion alvéolo-capillaire",
+        "Diminution de la production de CO₂"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans l’IRC obstructive évoluée, l’hypercapnie est liée à l’hypoventilation alvéolaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel type d’atteinte restrictive est associé à une hypoventilation dans le texte ?",
+      "choices": [
+        "Atteinte de la paroi thoracique comme une scoliose",
+        "Pneumopathie interstitielle diffuse",
+        "Hypertension artérielle pulmonaire primitive",
+        "Cœur pulmonaire chronique post-embolique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans l’IRC restrictive, une atteinte de la paroi thoracique comme une scoliose entraîne une hypoventilation. Les pneumopathies interstitielles diffuses donnent plutôt un trouble de diffusion."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation permet d’indiquer une oxygénothérapie de longue durée avec une PaO₂ inférieure à 60 mmHg selon le texte ?",
+      "choices": [
+        "Présence de signes d’insuffisance cardiaque droite",
+        "Présence isolée d’une toux sèche",
+        "Présence isolée d’une fièvre modérée",
+        "Présence d’une radiographie thoracique normale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’oxygénothérapie de longue durée est indiquée si PaO₂ < 60 mmHg en présence de signes d’insuffisance cardiaque droite."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel signe hémodynamique de décompensation aiguë d’IRC est présenté comme rare dans le texte ?",
+      "choices": [
+        "Collapsus",
+        "Turgescence jugulaire",
+        "Œdèmes des membres inférieurs",
+        "Hépatomégalie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le collapsus est décrit comme rare, surtout en cas d’embolie pulmonaire massive ou de choc septique. Les autres signes relèvent de l’insuffisance ventriculaire droite."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient en décompensation aiguë d’insuffisance respiratoire chronique avec acidose respiratoire persistante malgré le traitement médical, quelles propositions sont cohérentes avec la conduite ventilatoire décrite ?",
+      "choices": [
+        "Une ventilation est indiquée notamment si le pH reste inférieur à 7,30",
+        "La ventilation a pour objectif de mettre au repos les muscles respiratoires",
+        "La ventilation vise aussi à améliorer l’oxygénation",
+        "La ventilation non invasive est proposée même en présence de troubles de la conscience"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une acidose respiratoire non améliorée, notamment pH < 7,30, constitue une indication de ventilation. Ses objectifs incluent le repos musculaire respiratoire et l’amélioration de l’oxygénation. La VNI peut éviter la ventilation invasive seulement en l’absence de troubles de la conscience."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les prescriptions suivantes, lesquelles respectent les modalités du traitement médical de la décompensation décrite ?",
+      "choices": [
+        "Oxygénothérapie à faible débit avec surveillance des gaz du sang",
+        "Bronchodilatateurs en nébulisation associant bêta-2 mimétiques et anticholinergiques",
+        "Corticoïdes par voie intraveineuse si indication",
+        "Héparine à dose curative systématique chez tout patient décompensé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement médical comprend une oxygénothérapie à faible débit surveillée par gaz du sang, des bronchodilatateurs nébulisés bêta-2 mimétiques et anticholinergiques, et des corticoïdes IV si indication. L’héparine curative est réservée à l’embolie pulmonaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations doivent faire rechercher et corriger une erreur thérapeutique favorisant ou aggravant la décompensation ?",
+      "choices": [
+        "Administration excessive d’oxygène",
+        "Prescription de diurétiques alcalinisants",
+        "Abus de sédatifs",
+        "Apport hyperprotidique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les erreurs thérapeutiques à corriger sont l’oxygénothérapie excessive, les diurétiques alcalinisants et l’abus de sédatifs. L’apport hyperprotidique fait partie du traitement médical."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge de l’encombrement bronchique, quelles mesures appartiennent au traitement médical décrit ?",
+      "choices": [
+        "Kinésithérapie respiratoire",
+        "Drainage bronchique",
+        "Aspirations bronchiques si nécessaire",
+        "Évacuation d’une pleurésie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La kinésithérapie respiratoire, le drainage bronchique et les aspirations bronchiques si nécessaire participent au traitement de l’encombrement bronchique. L’évacuation d’une pleurésie est un traitement étiologique pleural."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre cause déclenchante et traitement spécifique sont exactes ?",
+      "choices": [
+        "Pneumopathie : antibiothérapie",
+        "Surinfection bronchique : antibiothérapie",
+        "Pneumothorax : drainage",
+        "Pleurésie : évacuation"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le traitement de la cause déclenchante comprend l’antibiothérapie en cas de pneumopathie ou de surinfection bronchique, le drainage d’un pneumothorax et l’évacuation d’une pleurésie."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de contexte infectieux associé à la décompensation, quelles propositions sont justes ?",
+      "choices": [
+        "Une antibiothérapie à large spectre est indiquée dans le traitement médical en cas d’infection",
+        "Une pneumopathie déclenchante relève d’une antibiothérapie",
+        "Une surinfection bronchique déclenchante relève d’une antibiothérapie",
+        "L’infection contre-indique les bronchodilatateurs en nébulisation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique une antibiothérapie à large spectre en cas d’infection, et une antibiothérapie spécifique en cas de pneumopathie ou de surinfection bronchique. Il ne mentionne pas de contre-indication des bronchodilatateurs en contexte infectieux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’utilisation de l’héparine dans cette prise en charge, quelles propositions sont exactes ?",
+      "choices": [
+        "Une héparine de bas poids moléculaire à dose préventive peut être utilisée si indication",
+        "Une héparine à dose curative est indiquée en cas d’embolie pulmonaire",
+        "L’héparine curative est le traitement causal du pneumothorax",
+        "L’héparine préventive remplace le drainage bronchique"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le traitement médical peut comporter une HBPM à dose préventive si indication. En cas d’embolie pulmonaire, l’héparine est administrée à dose curative. Elle ne traite ni le pneumothorax ni l’encombrement bronchique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions caractérisent correctement l’oxygénothérapie utilisée dans le traitement médical décrit ?",
+      "choices": [
+        "Elle est administrée à faible débit",
+        "Le débit indiqué est d’environ 0,5 à 1 L/min",
+        "Elle impose une surveillance des gaz du sang",
+        "Elle doit être augmentée sans limite pour corriger rapidement toute hypoxémie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’oxygénothérapie doit être à faible débit, environ 0,5 à 1 L/min, avec surveillance des gaz du sang. L’oxygénothérapie excessive est explicitement citée comme une erreur thérapeutique à corriger."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la ventilation non invasive dans cette situation, quelles propositions sont correctes ?",
+      "choices": [
+        "Elle peut éviter le recours à la ventilation invasive",
+        "Son intérêt est conditionné par l’absence de troubles de la conscience",
+        "Elle s’inscrit dans une stratégie visant notamment à améliorer l’oxygénation",
+        "Elle dispense de traiter la cause déclenchante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La VNI peut éviter la ventilation invasive en l’absence de troubles de la conscience. La ventilation vise notamment l’amélioration de l’oxygénation. Le traitement de la cause déclenchante reste nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient décompensé présentant une infection respiratoire et un pneumothorax, quelles mesures sont conformes au schéma thérapeutique décrit ?",
+      "choices": [
+        "Antibiothérapie en cas d’infection",
+        "Drainage du pneumothorax",
+        "Oxygénothérapie à faible débit avec surveillance gazométrique",
+        "Sédation abusive pour diminuer la dyspnée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’infection justifie une antibiothérapie, le pneumothorax un drainage, et l’oxygénothérapie doit rester à faible débit avec surveillance des gaz du sang. L’abus de sédatifs est une erreur thérapeutique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures de support général sont explicitement mentionnées dans le traitement médical ?",
+      "choices": [
+        "Apport hyperprotidique",
+        "Hydratation si nécessaire",
+        "Régime hypoprotidique",
+        "Restriction hydrique systématique"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le traitement médical comprend un apport hyperprotidique et une hydratation si nécessaire. Le texte ne mentionne ni régime hypoprotidique ni restriction hydrique systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes concernant les médicaments inhalés ou injectables, lesquelles sont conformes au texte ?",
+      "choices": [
+        "Les bêta-2 mimétiques sont administrés en nébulisation",
+        "Les anticholinergiques sont administrés en nébulisation",
+        "Les corticoïdes sont administrés par voie intraveineuse si indication",
+        "Les antibiotiques sont obligatoirement administrés par nébulisation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les bronchodilatateurs nébulisés comprennent les bêta-2 mimétiques et les anticholinergiques. Les corticoïdes sont administrés par voie IV si indication. Le texte ne précise pas une administration nébulisée obligatoire des antibiotiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels objectifs relèvent directement de la ventilation dans la décompensation décrite ?",
+      "choices": [
+        "Amélioration hémodynamique",
+        "Facilitation des aspirations bronchiques",
+        "Libération des voies aériennes",
+        "Éradication directe d’une pneumopathie bactérienne"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les objectifs ventilatoires cités sont notamment l’amélioration hémodynamique, la facilitation des aspirations bronchiques et la libération des voies aériennes. L’éradication d’une pneumopathie relève de l’antibiothérapie."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une acidose respiratoire persistante malgré traitement médical, quelles attitudes sont compatibles avec le texte ?",
+      "choices": [
+        "Discuter une ventilation si le pH reste inférieur à 7,30",
+        "Évaluer l’état de conscience avant d’envisager une ventilation non invasive",
+        "Poursuivre une oxygénothérapie contrôlée avec surveillance des gaz du sang",
+        "Corriger l’acidose par des diurétiques alcalinisants"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une acidose respiratoire persistante avec pH < 7,30 est une indication de ventilation. La VNI suppose l’absence de troubles de la conscience. L’oxygénothérapie doit être contrôlée et surveillée. Les diurétiques alcalinisants sont des erreurs thérapeutiques à corriger."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition associe correctement une mesure thérapeutique et sa condition d’utilisation ?",
+      "choices": [
+        "Corticoïdes par voie orale systématique",
+        "Corticoïdes par voie intraveineuse si indication",
+        "Héparine curative en prévention simple",
+        "Oxygénothérapie excessive en première intention"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les corticoïdes sont mentionnés par voie intraveineuse si indication. L’oxygénothérapie excessive est une erreur, et l’héparine curative est réservée à l’embolie pulmonaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation la ventilation non invasive peut-elle permettre d’éviter la ventilation invasive ?",
+      "choices": [
+        "En présence de coma",
+        "En présence de troubles de la conscience",
+        "En l’absence de troubles de la conscience",
+        "Uniquement après drainage d’une pleurésie"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La ventilation non invasive peut éviter la ventilation invasive en l’absence de troubles de la conscience."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à un traitement causal pleural et non à une mesure bronchique ?",
+      "choices": [
+        "Drainage bronchique",
+        "Kinésithérapie respiratoire",
+        "Évacuation d’une pleurésie",
+        "Aspirations bronchiques si nécessaire"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’évacuation d’une pleurésie est un traitement de la cause déclenchante pleurale. Les autres propositions relèvent de la prise en charge bronchique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle conduite est indiquée lorsque l’embolie pulmonaire est identifiée comme cause déclenchante ?",
+      "choices": [
+        "Héparine à dose curative",
+        "Héparine de bas poids moléculaire uniquement à dose préventive",
+        "Drainage pleural",
+        "Arrêt de toute anticoagulation"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas d’embolie pulmonaire, le traitement causal mentionné est l’héparine à dose curative."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle prescription illustre une erreur thérapeutique explicitement citée ?",
+      "choices": [
+        "Oxygénothérapie excessive",
+        "Apport hyperprotidique",
+        "Bronchodilatateurs en nébulisation",
+        "Hydratation si nécessaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’oxygénothérapie excessive fait partie des erreurs thérapeutiques à corriger. Les autres propositions appartiennent au traitement médical."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle mesure nutritionnelle est intégrée au traitement médical décrit ?",
+      "choices": [
+        "Jeûne thérapeutique",
+        "Apport hyperprotidique",
+        "Régime désodé strict",
+        "Restriction hydrique systématique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le traitement médical comprend un apport hyperprotidique. Le texte ne mentionne ni jeûne, ni régime désodé strict, ni restriction hydrique systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "En appliquant les formules de ventilation rappelées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La ventilation minute dépend du volume courant et de la fréquence respiratoire.",
+        "La ventilation alvéolaire tient compte de l’espace mort anatomique.",
+        "Une augmentation de l’espace mort anatomique, à volume courant et fréquence constants, diminue la ventilation alvéolaire.",
+        "La ventilation minute se calcule en retranchant l’espace mort anatomique du volume courant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "VE = VT × f, alors que VA = (VT - VD) × f. L’espace mort intervient donc dans la ventilation alvéolaire, pas dans la ventilation minute."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les variations régionales du rapport ventilation/perfusion décrites, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le rapport VA/Q moyen est égal à 1 pour l’ensemble du poumon.",
+        "Le rapport VA/Q est supérieur à 1 aux sommets pulmonaires.",
+        "Le rapport VA/Q est inférieur à 1 aux bases pulmonaires.",
+        "Le rapport VA/Q est identique dans toutes les régions pulmonaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que le rapport VA/Q est moyen à 1, mais varie selon les régions : supérieur à 1 aux sommets et inférieur à 1 aux bases."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’IRC obstructive, quelles associations mécanisme-conséquence respectent le texte ?",
+      "choices": [
+        "Augmentation des résistances des voies aériennes — altération des échanges gazeux.",
+        "Hétérogénéité des rapports VA/Q — hypoxémie.",
+        "Hypoventilation alvéolaire des formes évoluées — hypercapnie.",
+        "Diminution de la réabsorption rénale des bicarbonates — compensation de l’acidose respiratoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IRC obstructive entraîne une hypoxémie par hétérogénéité VA/Q et une hypercapnie évoluée par hypoventilation alvéolaire. La compensation repose sur l’augmentation, et non la diminution, de la réabsorption des bicarbonates."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’adaptation à l’hypercapnie dans l’IRC obstructive chronique, quelles propositions sont justes ?",
+      "choices": [
+        "Le pH peut rester longtemps normal malgré l’élévation de la PaCO₂.",
+        "L’adaptation rénale contribue à l’augmentation des bicarbonates.",
+        "Il s’agit d’une acidose respiratoire compensée.",
+        "La normalité prolongée du pH s’explique par une disparition de l’hypoventilation alvéolaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une acidose respiratoire compensée : PaCO₂ élevée, pH longtemps normal, réabsorption rénale accrue des bicarbonates."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’IRC restrictive, quelles propositions correspondent strictement aux mécanismes explicitement indiqués ?",
+      "choices": [
+        "Une pneumopathie interstitielle diffuse peut entraîner un trouble de diffusion.",
+        "Une scoliose peut entraîner une hypoventilation.",
+        "L’altération des échanges gazeux dépend de la maladie restrictive en cause.",
+        "Toute pathologie pleurale est décrite comme responsable d’un trouble de diffusion."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite le trouble de diffusion pour les pneumopathies interstitielles diffuses et l’hypoventilation pour les atteintes pariétales comme la scoliose."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations suivantes, lesquelles classent correctement les étiologies d’IRC selon le texte ?",
+      "choices": [
+        "Dilatation des bronches — IRC obstructive.",
+        "Maladies neuromusculaires — IRC restrictive.",
+        "Cœur pulmonaire chronique post-embolique — IRC d’origine vasculaire pulmonaire.",
+        "Asthme à dyspnée continue — IRC restrictive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La dilatation des bronches et l’asthme à dyspnée continue sont obstructifs ; les maladies neuromusculaires sont restrictives ; le cœur pulmonaire chronique post-embolique est vasculaire pulmonaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge d’une BPCO évoluée à l’état stable, quelles mesures concernent explicitement la réduction des expositions ou facteurs aggravants ?",
+      "choices": [
+        "Arrêt du tabac.",
+        "Éviction des polluants toxiques.",
+        "Arrêt des traitements sédatifs ou hypnotiques si possible.",
+        "Augmentation systématique des traitements hypnotiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur l’arrêt du tabac, l’éviction des polluants toxiques et l’arrêt des sédatifs ou hypnotiques si possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les traitements respiratoires de fond cités dans la BPCO évoluée, quelles propositions sont exactes ?",
+      "choices": [
+        "La kinésithérapie respiratoire est citée pour améliorer la fonction pulmonaire.",
+        "Les bronchodilatateurs font partie du traitement.",
+        "Les corticoïdes inhalés sont indiqués si indication.",
+        "Les corticoïdes inhalés sont présentés comme obligatoires chez tous les patients."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La kinésithérapie respiratoire, les bronchodilatateurs et les corticoïdes inhalés si indication sont cités. Le caractère systématique des corticoïdes inhalés n’est pas mentionné."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prévention ou le traitement des complications infectieuses chez un patient avec BPCO évoluée, quelles mesures sont mentionnées ?",
+      "choices": [
+        "Vaccination antigrippale annuelle.",
+        "Vaccination antipneumococcique tous les 5 ans.",
+        "Traitement des surinfections bronchiques.",
+        "Traitement des foyers infectieux ORL ou stomatologiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces mesures sont explicitement citées dans le traitement d’une BPCO évoluée à l’état stable."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour une maladie interstitielle responsable d’IRC, quelles mesures thérapeutiques sont rapportées dans le texte ?",
+      "choices": [
+        "Éviction des facteurs favorisants.",
+        "Corticothérapie dans certaines formes évoluées.",
+        "Oxygénothérapie de longue durée si indication.",
+        "Vaccination antipneumococcique mensuelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement d’une maladie interstitielle comprend l’éviction des facteurs favorisants, une corticothérapie dans certaines formes évoluées et l’OLD si indication."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des bénéfices attendus de l’oxygénothérapie de longue durée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut augmenter l’espérance de vie.",
+        "Elle peut améliorer la tolérance à l’effort.",
+        "Elle peut stabiliser ou améliorer l’hypertension artérielle pulmonaire.",
+        "Elle est décrite comme aggravant les signes d’insuffisance cardiaque droite."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’OLD améliore l’espérance de vie, la qualité de vie, la tolérance à l’effort, l’HTAP et les signes d’insuffisance cardiaque droite."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations correspondent à une indication d’oxygénothérapie de longue durée selon les critères du texte ?",
+      "choices": [
+        "PaO₂ inférieure à 55 mmHg à l’état stable.",
+        "PaO₂ inférieure à 60 mmHg associée à des signes d’insuffisance cardiaque droite.",
+        "PaO₂ basse vérifiée à distance d’une décompensation aiguë.",
+        "PaO₂ inférieure à 60 mmHg isolée, sans autre condition mentionnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’indication repose sur PaO₂ < 55 mmHg à l’état stable, vérifiée à distance, ou PaO₂ < 60 mmHg avec signes d’insuffisance cardiaque droite."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une décompensation aiguë d’IRC, quels éléments physiopathologiques sont décrits ?",
+      "choices": [
+        "Stimulation des centres respiratoires par l’hypoxie.",
+        "Stimulation des centres respiratoires par l’hypercapnie.",
+        "Stimulation des centres respiratoires par l’acidose.",
+        "Inhibition complète des centres respiratoires dès le début de la décompensation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les centres respiratoires sont hyperactifs, stimulés par l’hypoxie, l’hypercapnie et l’acidose."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une décompensation aiguë d’IRC sur BPCO, quelles propositions traduisent le mécanisme obstructif aigu décrit ?",
+      "choices": [
+        "L’augmentation des résistances peut être liée à une infection bronchique.",
+        "L’encombrement bronchique peut participer à l’augmentation des résistances.",
+        "La ventilation à haut volume pulmonaire aide à maintenir les bronches ouvertes.",
+        "La décompensation aiguë de BPCO repose toujours sur une diminution des résistances bronchiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une augmentation des résistances souvent liée à l’infection ou à l’encombrement, imposant une ventilation à haut volume pulmonaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Avec un volume courant de 350 ml, un espace mort anatomique de 150 ml et une fréquence respiratoire de 20/min, quelle est la ventilation alvéolaire ?",
+      "choices": [
+        "3000 ml/min",
+        "4000 ml/min",
+        "5600 ml/min",
+        "7000 ml/min"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "VA = (VT - VD) × f = (350 - 150) × 20 = 200 × 20 = 4000 ml/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel objectif gazométrique est recherché lors de l’adaptation du débit d’oxygénothérapie de longue durée ?",
+      "choices": [
+        "Obtenir une PaO₂ supérieure à 70 mmHg sans aggraver la PaCO₂.",
+        "Obtenir une PaO₂ inférieure à 55 mmHg.",
+        "Obtenir une SaO₂ inférieure à 90 %.",
+        "Augmenter volontairement la PaCO₂."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le débit doit être adapté pour obtenir une PaO₂ > 70 mmHg sans aggravation de la PaCO₂."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle durée minimale quotidienne d’oxygénothérapie de longue durée est indiquée ?",
+      "choices": [
+        "6 heures par jour",
+        "8 heures par jour",
+        "10 heures par jour",
+        "14 heures par jour"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La durée minimale mentionnée pour l’oxygénothérapie de longue durée est de 14 h/jour."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel signe respiratoire est présenté comme évocateur d’un épuisement diaphragmatique lors d’une décompensation aiguë d’IRC ?",
+      "choices": [
+        "Respiration abdominale paradoxale",
+        "Céphalées",
+        "Turgescence jugulaire",
+        "Signe de Harzer"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La respiration abdominale paradoxale est explicitement décrite comme évocatrice d’un épuisement diaphragmatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les examens suivants, lequel fait partie du bilan complémentaire cité devant une décompensation aiguë d’IRC ?",
+      "choices": [
+        "Électrocardiogramme",
+        "Fibroscopie bronchique systématique",
+        "Épreuve d’effort",
+        "Polysomnographie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les examens complémentaires cités sont les gaz du sang artériel, la radiographie thoracique et l’ECG."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la tolérance hémodynamique d’une décompensation aiguë d’IRC, quel signe appartient aux manifestations d’insuffisance ventriculaire droite citées ?",
+      "choices": [
+        "Turgescence jugulaire",
+        "Astérixis",
+        "Sibilants",
+        "Cyanose"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La turgescence jugulaire fait partie des signes d’insuffisance ventriculaire droite, avec hépatomégalie, œdèmes des membres inférieurs et signe de Harzer."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la mise en route de l’oxygénothérapie lors de la décompensation décrite, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle doit être administrée à faible débit, environ 0,5 à 1 L/min.",
+        "Elle doit s’accompagner d’une surveillance des gaz du sang.",
+        "Une oxygénothérapie excessive fait partie des erreurs thérapeutiques à corriger.",
+        "Elle remplace le traitement de la cause déclenchante lorsqu’une pleurésie est présente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique une oxygénothérapie à faible débit avec surveillance des gaz du sang et cite l’oxygénothérapie excessive comme erreur thérapeutique. La pleurésie relève d’une évacuation spécifique."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient gardant une acidose respiratoire malgré le traitement médical, quels éléments soutiennent une indication ou une utilité de la ventilation selon le texte ?",
+      "choices": [
+        "Une acidose respiratoire non améliorée par le traitement médical.",
+        "Un pH inférieur à 7,30.",
+        "Le repos des muscles respiratoires.",
+        "La correction d’une erreur thérapeutique par diurétiques alcalinisants."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La ventilation est envisagée en cas d’acidose respiratoire persistante, notamment pH < 7,30, avec comme objectif le repos des muscles respiratoires. Les diurétiques alcalinisants sont au contraire une erreur à corriger."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures participent directement à la désobstruction ou à la prise en charge des sécrétions bronchiques dans le schéma décrit ?",
+      "choices": [
+        "Kinésithérapie respiratoire.",
+        "Drainage bronchique.",
+        "Aspirations bronchiques si nécessaire.",
+        "Évacuation d’une pleurésie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La kinésithérapie, le drainage bronchique et les aspirations si nécessaire relèvent de la prise en charge bronchique. L’évacuation d’une pleurésie est un traitement causal pleural."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les traitements médicamenteux respiratoires cités, quelles propositions sont exactes ?",
+      "choices": [
+        "Les bêta-2 mimétiques sont administrés en nébulisation.",
+        "Les anticholinergiques sont administrés en nébulisation.",
+        "Les corticoïdes sont administrés par voie intraveineuse si indication.",
+        "Les diurétiques alcalinisants sont utilisés pour améliorer la ventilation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les bronchodilatateurs nébulisés bêta-2 mimétiques et anticholinergiques, ainsi que les corticoïdes IV si indication. Les diurétiques alcalinisants sont une erreur thérapeutique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les situations infectieuses mentionnées, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "Une antibiothérapie à large spectre est indiquée en cas d’infection.",
+        "Une pneumopathie relève d’une antibiothérapie comme traitement de la cause déclenchante.",
+        "Une surinfection bronchique relève d’une antibiothérapie.",
+        "Une embolie pulmonaire relève d’une antibiothérapie comme traitement causal principal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne l’antibiothérapie à large spectre en cas d’infection, et l’antibiothérapie en cas de pneumopathie ou de surinfection bronchique. L’embolie pulmonaire relève d’une héparine curative."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’utilisation de l’héparine dans ce texte, quelles propositions sont justes ?",
+      "choices": [
+        "Une héparine de bas poids moléculaire à dose préventive peut être utilisée si indication.",
+        "Une héparine à dose curative est indiquée en cas d’embolie pulmonaire.",
+        "L’héparine curative est le traitement causal cité de la pleurésie.",
+        "L’héparine préventive est mentionnée dans le traitement médical."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte distingue l’HBPM préventive si indication dans le traitement médical et l’héparine curative en cas d’embolie pulmonaire. La pleurésie relève d’une évacuation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre mécanisme pleuro-pulmonaire déclenchant et conduite spécifique sont exactes ?",
+      "choices": [
+        "Pneumothorax : drainage.",
+        "Pleurésie : évacuation.",
+        "Surinfection bronchique : antibiothérapie.",
+        "Embolie pulmonaire : drainage bronchique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le pneumothorax est drainé, la pleurésie est évacuée, et la surinfection bronchique nécessite une antibiothérapie. L’embolie pulmonaire relève d’une héparine curative."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’une décompensation est favorisée par une erreur thérapeutique, quelles situations doivent être corrigées selon le texte ?",
+      "choices": [
+        "Oxygénothérapie excessive.",
+        "Diurétiques alcalinisants.",
+        "Abus de sédatifs.",
+        "Apport hyperprotidique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les erreurs thérapeutiques citées sont l’oxygénothérapie excessive, les diurétiques alcalinisants et l’abus de sédatifs. L’apport hyperprotidique fait partie du traitement médical."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures de support général ou de soins non spécifiques de la cause sont intégrées au traitement médical décrit ?",
+      "choices": [
+        "Apport hyperprotidique.",
+        "Hydratation si nécessaire.",
+        "Kinésithérapie respiratoire.",
+        "Drainage d’un pneumothorax."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’apport hyperprotidique, l’hydratation si nécessaire et la kinésithérapie respiratoire relèvent du traitement médical. Le drainage du pneumothorax est un traitement causal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles prescriptions respectent simultanément la voie, la dose ou la condition d’utilisation précisées dans le texte ?",
+      "choices": [
+        "Corticoïdes par voie intraveineuse si indication.",
+        "Héparine de bas poids moléculaire à dose préventive si indication.",
+        "Antibiothérapie à large spectre en cas d’infection.",
+        "Héparine à dose préventive en cas d’embolie pulmonaire constituée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premières propositions reprennent les modalités du texte. En cas d’embolie pulmonaire, le texte cite une héparine à dose curative."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels objectifs de la ventilation relèvent de l’amélioration fonctionnelle respiratoire ou circulatoire immédiate ?",
+      "choices": [
+        "Repos des muscles respiratoires.",
+        "Amélioration de l’oxygénation.",
+        "Amélioration hémodynamique.",
+        "Antibiothérapie de la pneumopathie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les objectifs de la ventilation cités sont notamment le repos musculaire respiratoire, l’amélioration de l’oxygénation et l’amélioration hémodynamique. L’antibiothérapie est un traitement causal infectieux."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions correspondent à l’action de la ventilation ou des soins sur les voies aériennes dans le texte ?",
+      "choices": [
+        "Facilitation des aspirations bronchiques.",
+        "Libération des voies aériennes.",
+        "Aspirations bronchiques si nécessaire.",
+        "Évacuation d’une pleurésie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La ventilation a pour objectifs de faciliter les aspirations bronchiques et de libérer les voies aériennes ; les aspirations peuvent être réalisées si nécessaire. La pleurésie relève d’un geste pleural."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient présentant à la fois une pneumopathie et une embolie pulmonaire comme causes déclenchantes, quelles mesures causales sont conformes au texte ?",
+      "choices": [
+        "Antibiothérapie pour la pneumopathie.",
+        "Héparine à dose curative pour l’embolie pulmonaire.",
+        "Drainage d’un pneumothorax en l’absence de pneumothorax mentionné.",
+        "Évacuation d’une pleurésie en l’absence de pleurésie mentionnée."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte associe pneumopathie et antibiothérapie, embolie pulmonaire et héparine curative. Drainage pneumothoracique et évacuation pleurale ne concernent que pneumothorax et pleurésie."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les attitudes suivantes, lesquelles seraient inappropriées car elles correspondent à des erreurs thérapeutiques citées ?",
+      "choices": [
+        "Poursuivre une oxygénothérapie excessive.",
+        "Maintenir des diurétiques alcalinisants responsables d’aggravation.",
+        "Tolérer un abus de sédatifs.",
+        "Administrer une oxygénothérapie à faible débit avec surveillance des gaz du sang."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premières attitudes correspondent aux erreurs thérapeutiques à corriger. La quatrième reprend au contraire la modalité correcte d’oxygénothérapie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité d’oxygénothérapie est conforme au texte ?",
+      "choices": [
+        "Oxygénothérapie à faible débit, environ 0,5 à 1 L/min, avec surveillance des gaz du sang.",
+        "Oxygénothérapie excessive avec surveillance clinique seule.",
+        "Oxygénothérapie à faible débit sans surveillance des gaz du sang.",
+        "Oxygénothérapie comme traitement spécifique du pneumothorax."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise une oxygénothérapie à faible débit, environ 0,5 à 1 L/min, avec surveillance des gaz du sang."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la voie d’administration des corticoïdes lorsque leur indication est retenue ?",
+      "choices": [
+        "Voie intraveineuse.",
+        "Nébulisation avec les anticholinergiques.",
+        "Administration uniquement associée à l’héparine curative.",
+        "Administration réservée au drainage d’un pneumothorax."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique des corticoïdes par voie intraveineuse si indication."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle condition permet à la ventilation non invasive d’éviter le recours à la ventilation invasive selon le texte ?",
+      "choices": [
+        "Absence de troubles de la conscience.",
+        "Présence obligatoire d’une pleurésie.",
+        "Présence obligatoire d’une embolie pulmonaire.",
+        "Absence d’indication à l’oxygénothérapie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La ventilation non invasive peut éviter la ventilation invasive en l’absence de troubles de la conscience."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil est cité dans le texte pour caractériser une acidose respiratoire non améliorée pouvant faire discuter la ventilation ?",
+      "choices": [
+        "pH < 7,30.",
+        "pH < 7,30 uniquement en cas de pneumothorax.",
+        "pH < 7,30 comme critère d’antibiothérapie.",
+        "pH < 7,30 comme indication d’apport hyperprotidique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite l’acidose respiratoire non améliorée par le traitement médical, notamment pH < 7,30."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement causal est indiqué en cas de pneumothorax dans le texte ?",
+      "choices": [
+        "Drainage du pneumothorax.",
+        "Évacuation d’une pleurésie.",
+        "Héparine à dose curative.",
+        "Antibiothérapie à large spectre pour infection."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le traitement causal du pneumothorax cité est le drainage."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle conduite thérapeutique est spécifiquement associée à l’embolie pulmonaire ?",
+      "choices": [
+        "Héparine à dose curative.",
+        "Héparine de bas poids moléculaire à dose préventive seulement.",
+        "Drainage bronchique comme traitement causal.",
+        "Évacuation d’une pleurésie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas d’embolie pulmonaire, le texte indique une héparine à dose curative."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition de l’insuffisance respiratoire chronique (IRC) donnée dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à une incapacité du poumon à assurer normalement l’oxygénation du sang artériel.",
+        "Elle entraîne une hypoxémie définie par une PaO₂ inférieure à 60 mmHg.",
+        "Elle impose nécessairement la présence d’une hypercapnie pour être définie.",
+        "Elle est définie par une acidose respiratoire aiguë avec pH abaissé."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’IRC est définie par l’incapacité du poumon à oxygéner correctement le sang artériel, avec PaO₂ < 60 mmHg. L’hypercapnie et l’acidose ne sont pas nécessaires à la définition."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels participent à la ventilation selon la physiologie rappelée dans le texte ?",
+      "choices": [
+        "Les centres respiratoires bulbaires.",
+        "La mécanique respiratoire assurée notamment par le diaphragme et les muscles intercostaux.",
+        "Les résistances des voies aériennes.",
+        "La fonction de filtration glomérulaire comme déterminant direct de la ventilation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La ventilation dépend des centres bulbaires, de la mécanique respiratoire, des résistances bronchiques, des chémorécepteurs et de l’adéquation ventilation/perfusion. La filtration glomérulaire n’est pas citée comme déterminant direct."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’IRC obstructive, quelles propositions décrivent correctement les mécanismes d’altération des gaz du sang ?",
+      "choices": [
+        "L’hypoxémie est liée à une mauvaise répartition de la ventilation.",
+        "L’hétérogénéité des rapports ventilation/perfusion participe à l’hypoxémie.",
+        "L’hypercapnie des formes évoluées est liée à une hypoventilation alvéolaire.",
+        "L’hypercapnie est expliquée principalement par un trouble de diffusion interstitiel."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’IRC obstructive, l’hypoxémie résulte d’une mauvaise répartition ventilatoire et d’une hétérogénéité VA/Q ; l’hypercapnie apparaît dans les formes évoluées par hypoventilation alvéolaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles conséquences de l’IRC obstructive chronique sont rapportées dans le texte ?",
+      "choices": [
+        "Augmentation du travail des muscles respiratoires.",
+        "Hyperactivité des centres respiratoires.",
+        "Adaptation progressive à l’hypercapnie.",
+        "Polyglobulie constante et obligatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’augmentation du travail ventilatoire, l’hyperactivité des centres respiratoires et l’adaptation à l’hypercapnie. La polyglobulie est décrite comme inconstante."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets de l’hypoxie chronique dans l’IRC obstructive, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut entraîner une vasoconstriction artérielle pulmonaire réflexe.",
+        "Elle peut évoluer vers une hypertension artérielle pulmonaire.",
+        "Elle peut stimuler une hypersécrétion d’érythropoïétine.",
+        "Elle entraîne toujours une insuffisance ventriculaire gauche isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypoxie chronique favorise une vasoconstriction artérielle pulmonaire, pouvant évoluer vers une HTAP, et peut induire une hypersécrétion d’érythropoïétine responsable d’une polyglobulie inconstante."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les IRC restrictives, quelles associations mécanisme-cause sont conformes au texte ?",
+      "choices": [
+        "Pneumopathie interstitielle diffuse : trouble de diffusion.",
+        "Scoliose : hypoventilation.",
+        "Atteinte de la paroi thoracique : hypoventilation possible.",
+        "Emphysème : hypoventilation restrictive par déformation thoracique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte relie les pneumopathies interstitielles diffuses au trouble de diffusion et les atteintes de la paroi thoracique, comme la scoliose, à l’hypoventilation. L’emphysème est classé parmi les IRC obstructives."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles étiologies sont classées dans l’IRC d’origine vasculaire pulmonaire selon le texte ?",
+      "choices": [
+        "Cœur pulmonaire chronique post-embolique.",
+        "Insuffisance ventriculaire droite.",
+        "Hypertension artérielle pulmonaire primitive.",
+        "Dilatation des bronches."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes vasculaires pulmonaires citées sont le cœur pulmonaire chronique post-embolique, l’insuffisance ventriculaire droite et l’HTAP primitive. La dilatation des bronches relève de l’IRC obstructive."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la BPCO évoluée à l’état stable, quelles mesures sont explicitement citées comme visant la réduction des agressions respiratoires ou des facteurs aggravants ?",
+      "choices": [
+        "Arrêt du tabac.",
+        "Éviction des polluants toxiques.",
+        "Arrêt des traitements sédatifs ou hypnotiques si possible.",
+        "Introduction systématique d’un hypnotique pour diminuer la dyspnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement de fond comprend l’arrêt du tabac, l’éviction des polluants toxiques et l’arrêt si possible des sédatifs ou hypnotiques. L’introduction d’un hypnotique n’est pas indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le traitement d’une BPCO évoluée, quelles mesures participent à l’amélioration ou au contrôle fonctionnel respiratoire ?",
+      "choices": [
+        "Kinésithérapie respiratoire.",
+        "Bronchodilatateurs.",
+        "Corticoïdes inhalés si indication.",
+        "Corticothérapie intraveineuse systématique au long cours."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la kinésithérapie respiratoire, les bronchodilatateurs et les corticoïdes inhalés si indication. Il ne mentionne pas de corticothérapie intraveineuse systématique au long cours."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’oxygénothérapie de longue durée, quelles propositions respectent les critères et précautions du texte ?",
+      "choices": [
+        "Une PaO₂ < 55 mmHg à l’état stable constitue une indication.",
+        "La mesure doit être vérifiée à distance d’une décompensation aiguë.",
+        "Une PaO₂ < 60 mmHg avec signes d’insuffisance cardiaque droite constitue une indication.",
+        "Elle doit être décidée uniquement pendant l’épisode aigu, sans contrôle ultérieur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’oxygénothérapie de longue durée est indiquée si PaO₂ < 55 mmHg à l’état stable, à vérifier à distance d’une décompensation, ou si PaO₂ < 60 mmHg avec signes d’insuffisance cardiaque droite."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels bénéfices attendus de l’oxygénothérapie de longue durée sont explicitement cités ?",
+      "choices": [
+        "Augmentation de l’espérance de vie.",
+        "Amélioration de la tolérance à l’effort.",
+        "Stabilisation ou amélioration de l’hypertension artérielle pulmonaire.",
+        "Guérison définitive de la maladie causale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les bénéfices cités sont notamment l’augmentation de l’espérance de vie, l’amélioration de la qualité de vie et de la tolérance à l’effort, ainsi que la stabilisation ou l’amélioration de l’HTAP. La guérison de la maladie causale n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une décompensation aiguë d’IRC sur BPCO, quelles propositions sont conformes à la physiopathologie décrite ?",
+      "choices": [
+        "Une infection bronchique peut augmenter les résistances des voies aériennes.",
+        "Un encombrement bronchique peut participer à l’augmentation des résistances.",
+        "La ventilation à haut volume pulmonaire vise à maintenir les bronches ouvertes.",
+        "La baisse des résistances bronchiques impose une ventilation à bas volume pulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas de BPCO décompensée, l’infection bronchique ou l’encombrement augmente les résistances et impose une ventilation à haut volume pulmonaire pour garder les bronches ouvertes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont décrits comme participant au retentissement d’une décompensation aiguë d’IRC ?",
+      "choices": [
+        "Hypoxémie importante.",
+        "Hypercapnie importante.",
+        "Acidose respiratoire lorsque la compensation rénale est dépassée.",
+        "Alcalose métabolique primitive constante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une hypoxémie importante, une hypercapnie importante et une acidose respiratoire quand la compensation rénale est dépassée. L’alcalose métabolique primitive constante n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations constituent des indications de ventilation artificielle d’après la partie visible du texte ?",
+      "choices": [
+        "Épuisement des muscles respiratoires.",
+        "Troubles de la conscience.",
+        "Astérixis.",
+        "Vaccination antipneumococcique datant de plus de 5 ans."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indications visibles de ventilation artificielle sont l’épuisement des muscles respiratoires, les troubles de la conscience et l’astérixis. Le statut vaccinal n’est pas une indication de ventilation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de PaO₂ définit l’hypoxémie de l’insuffisance respiratoire chronique dans le texte ?",
+      "choices": [
+        "PaO₂ < 70 mmHg.",
+        "PaO₂ < 60 mmHg.",
+        "PaO₂ < 55 mmHg uniquement.",
+        "PaO₂ < 100 mmHg."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La définition de l’IRC repose sur une hypoxémie avec PaO₂ < 60 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le rapport ventilation/perfusion moyen pour l’ensemble du poumon selon le texte ?",
+      "choices": [
+        "0,5.",
+        "",
+        "",
+        "Il est toujours supérieur à 1 aux bases."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le rapport VA/Q moyen est égal à 1 pour l’ensemble du poumon, même s’il varie selon les régions."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à une étiologie d’IRC obstructive citée dans le texte ?",
+      "choices": [
+        "Pneumopathie interstitielle diffuse.",
+        "Scoliose.",
+        "Dilatation des bronches.",
+        "Hypertension artérielle pulmonaire primitive."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La dilatation des bronches est classée parmi les IRC obstructives. Les autres propositions relèvent respectivement des IRC restrictives ou vasculaires pulmonaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une maladie interstitielle responsable d’IRC, quelle mesure thérapeutique est citée seulement dans certaines formes évoluées ?",
+      "choices": [
+        "Corticothérapie.",
+        "Vaccination antipneumococcique tous les ans.",
+        "Arrêt systématique des bronchodilatateurs.",
+        "Ventilation invasive prophylactique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans les maladies interstitielles, le texte cite la corticothérapie dans certaines formes évoluées."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle durée minimale quotidienne d’oxygénothérapie de longue durée est indiquée ?",
+      "choices": [
+        "6 h/jour.",
+        "8 h/jour.",
+        "12 h/jour.",
+        "14 h/jour."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La durée minimale d’oxygénothérapie de longue durée indiquée est de 14 heures par jour."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel débit initial d’oxygène est souvent proposé au début d’une oxygénothérapie de longue durée selon le texte ?",
+      "choices": [
+        "Environ 1 L/min.",
+        "Environ 3 L/min systématiquement.",
+        "Environ 6 L/min.",
+        "Un débit fixe non adaptable."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le débit initial est souvent faible, environ 1 L/min, puis adapté aux gaz du sang."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient présentant une acidose respiratoire persistante après traitement médical avec pH à 7,28 et sans trouble de la conscience, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La ventilation peut être discutée car le pH est inférieur à 7,30 malgré le traitement médical",
+        "La ventilation non invasive peut permettre d’éviter le recours à la ventilation invasive",
+        "Le repos des muscles respiratoires fait partie des objectifs de la ventilation",
+        "L’antibiothérapie est obligatoire même en l’absence d’infection"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’acidose respiratoire non améliorée, notamment pH < 7,30, comme situation de ventilation. La VNI peut éviter l’invasive en l’absence de troubles de la conscience. Les antibiotiques sont indiqués en cas d’infection."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le traitement médical de la décompensation décrite, quelles prescriptions sont correctement formulées ?",
+      "choices": [
+        "Oxygénothérapie à faible débit avec surveillance des gaz du sang",
+        "Kinésithérapie respiratoire associée au drainage bronchique",
+        "Bronchodilatateurs en nébulisation associant bêta-2 mimétiques et anticholinergiques",
+        "Évacuation d’une pleurésie comme mesure de traitement médical non causal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’évacuation d’une pleurésie relève du traitement de la cause déclenchante, et non du traitement médical général."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement de la cause déclenchante, quelles associations sont exactes ?",
+      "choices": [
+        "Pneumothorax : drainage",
+        "Pleurésie : évacuation",
+        "Embolie pulmonaire : héparine à dose curative",
+        "Surinfection bronchique : absence d’antibiothérapie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique une antibiothérapie en cas de pneumopathie ou de surinfection bronchique."
+    },
+    {
+      "type": "QCM",
+      "question": "Si la décompensation est favorisée par une prescription inadaptée, quelles conduites correspondent à une correction d’erreur thérapeutique selon le texte ?",
+      "choices": [
+        "Corriger une oxygénothérapie excessive",
+        "Corriger l’utilisation de diurétiques alcalinisants",
+        "Corriger un abus de sédatifs",
+        "Renforcer systématiquement les sédatifs pour diminuer la dyspnée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les erreurs thérapeutiques citées sont l’oxygénothérapie excessive, les diurétiques alcalinisants et l’abus de sédatifs."
+    },
+    {
+      "type": "QCM",
+      "question": "En présence d’un contexte infectieux, quelles propositions respectent le texte ?",
+      "choices": [
+        "Une antibiothérapie à large spectre est indiquée en cas d’infection",
+        "Une pneumopathie déclenchante relève d’une antibiothérapie",
+        "Une surinfection bronchique déclenchante relève d’une antibiothérapie",
+        "L’héparine à dose curative constitue le traitement spécifique de l’infection"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’héparine à dose curative est citée en cas d’embolie pulmonaire, non comme traitement spécifique de l’infection."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures ou objectifs participent à la prise en charge des sécrétions et des voies aériennes ?",
+      "choices": [
+        "Kinésithérapie respiratoire",
+        "Drainage bronchique",
+        "Aspirations bronchiques si nécessaire",
+        "Libération des voies aériennes comme objectif de la ventilation"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions sont citées dans le texte, soit comme mesures du traitement médical, soit comme objectif de la ventilation."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’héparine dans cette prise en charge, quelles propositions sont exactes ?",
+      "choices": [
+        "Une héparine de bas poids moléculaire à dose préventive peut être utilisée si indication",
+        "Une héparine à dose curative est indiquée en cas d’embolie pulmonaire",
+        "Une héparine à dose curative est le traitement causal du pneumothorax",
+        "L’héparine préventive est présentée comme systématique chez tous les patients"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte distingue l’HBPM préventive si indication et l’héparine curative en cas d’embolie pulmonaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures correspondent à un traitement médical de support cité dans le texte ?",
+      "choices": [
+        "Apport hyperprotidique",
+        "Hydratation si nécessaire",
+        "Oxygénothérapie à faible débit",
+        "Drainage d’un pneumothorax"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le drainage d’un pneumothorax appartient au traitement de la cause déclenchante."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités d’administration médicamenteuse, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les bronchodilatateurs sont administrés en nébulisation",
+        "Les corticoïdes sont administrés par voie intraveineuse si indication",
+        "L’antibiothérapie est à large spectre en cas d’infection",
+        "Les bêta-2 mimétiques sont imposés par voie orale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise les bronchodilatateurs en nébulisation, les corticoïdes IV si indication et l’antibiothérapie à large spectre en cas d’infection."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les objectifs de la ventilation mentionnés, lesquels sont explicitement cités ?",
+      "choices": [
+        "Amélioration hémodynamique",
+        "Repos des muscles respiratoires",
+        "Amélioration de l’oxygénation",
+        "Remplacement de l’antibiothérapie causale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La ventilation vise notamment le repos musculaire respiratoire, l’amélioration de l’oxygénation et l’amélioration hémodynamique."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une cause pleuro-pulmonaire identifiée, quelles conduites sont compatibles avec le texte ?",
+      "choices": [
+        "Drainage en cas de pneumothorax",
+        "Évacuation en cas de pleurésie",
+        "Antibiothérapie en cas de pneumopathie",
+        "Évacuation pleurale comme traitement spécifique de l’embolie pulmonaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’embolie pulmonaire relève d’une héparine à dose curative, non d’une évacuation pleurale."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’oxygénothérapie décrite, quelles affirmations sont exactes ?",
+      "choices": [
+        "Elle est administrée à faible débit",
+        "Le débit mentionné est d’environ 0,5 à 1 L/min",
+        "Elle impose une surveillance des gaz du sang",
+        "Son caractère excessif est cité comme une erreur thérapeutique à corriger"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte insiste sur une oxygénothérapie à faible débit avec surveillance gazométrique et cite l’oxygénothérapie excessive parmi les erreurs thérapeutiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient ayant une surinfection bronchique associée à une décompensation, quelles mesures peuvent être retenues d’après le texte ?",
+      "choices": [
+        "Antibiothérapie",
+        "Bronchodilatateurs en nébulisation",
+        "Oxygénothérapie à faible débit avec surveillance des gaz du sang",
+        "Héparine curative systématique quelle que soit la cause"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’héparine curative est spécifiquement citée en cas d’embolie pulmonaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre cible anatomique ou fonctionnelle et action thérapeutique sont déductibles du texte ?",
+      "choices": [
+        "Voies aériennes : libération par la ventilation",
+        "Bronches : drainage bronchique",
+        "Pneumothorax : drainage",
+        "Pleurésie : évacuation"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces couples reprennent les objectifs ventilatoires et les traitements bronchiques ou pleuraux cités."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de pH est cité pour caractériser une acidose respiratoire non améliorée pouvant faire discuter la ventilation ?",
+      "choices": [
+        "pH < 7,10",
+        "pH < 7,20",
+        "pH < 7,30",
+        "pH < 7,40"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte mentionne notamment un pH < 7,30."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel débit d’oxygène est indiqué dans le traitement médical décrit ?",
+      "choices": [
+        "Environ 0,5 à 1 L/min",
+        "Environ 2 à 4 L/min",
+        "Environ 5 à 8 L/min",
+        "Débit maximal d’emblée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’oxygénothérapie est à faible débit, environ 0,5 à 1 L/min."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle condition est nécessaire pour que la ventilation non invasive puisse éviter la ventilation invasive selon le texte ?",
+      "choices": [
+        "Absence de troubles de la conscience",
+        "Présence obligatoire d’une pneumopathie",
+        "Présence d’une pleurésie",
+        "Arrêt de toute oxygénothérapie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La VNI peut éviter l’invasive en l’absence de troubles de la conscience."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle conduite est indiquée lorsqu’une pleurésie est identifiée comme cause déclenchante ?",
+      "choices": [
+        "Évacuation de la pleurésie",
+        "Héparine à dose curative",
+        "Abus de sédatifs",
+        "Oxygénothérapie excessive"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le traitement causal cité en cas de pleurésie est son évacuation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel apport nutritionnel est mentionné dans le traitement médical ?",
+      "choices": [
+        "Apport hyperprotidique",
+        "Restriction protidique stricte",
+        "Apport exclusivement glucidique",
+        "Jeûne thérapeutique systématique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite un apport hyperprotidique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité d’administration des bronchodilatateurs est précisée ?",
+      "choices": [
+        "Nébulisation",
+        "Voie intrathécale",
+        "Voie sous-cutanée obligatoire",
+        "Voie orale exclusive"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les bronchodilatateurs cités sont administrés en nébulisation."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-03T01:22:32.742Z"
+}

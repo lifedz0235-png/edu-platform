@@ -1,0 +1,3130 @@
+{
+  "category": "medicale",
+  "module": "infectieux",
+  "courseId": 172,
+  "courseTitle": "Diarrhee Aigue Infectieuse",
+  "supportTitle": "diarhee-aigue-infectieuse",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/medicale-pdf/INFECTIEUX/diarhee-aigue-infectieuse.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la définition d’une diarrhée aiguë infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à l’émission quotidienne de selles liquides ou molles trop fréquentes, dépassant 4 selles par jour",
+        "Elle est définie par une émission de selles supérieure à 300 g par jour lorsqu’elle est trop abondante",
+        "Elle survient progressivement sur un transit déjà perturbé depuis plusieurs semaines",
+        "Elle est habituellement résolutive en 8 à 14 jours"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La diarrhée aiguë infectieuse est brutale, précédée d’un transit normal, avec plus de 4 selles/jour ou plus de 300 g/jour, et se résout habituellement en 8 à 14 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels sujets sont particulièrement exposés aux formes graves de diarrhée infectieuse du fait du risque de déshydratation ?",
+      "choices": [
+        "Les nourrissons et les enfants",
+        "Les personnes âgées",
+        "Les sujets immunodéprimés",
+        "Les adultes jeunes sans comorbidité et bien hydratés"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les formes graves concernent surtout les nourrissons, enfants, personnes âgées, immunodéprimés, patients infectés par le VIH et sujets dénutris."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transmission des diarrhées aiguës infectieuses, quelles propositions sont exactes ?",
+      "choices": [
+        "La transmission est essentiellement oro-fécale",
+        "L’ingestion d’eau contaminée peut transmettre l’agent pathogène",
+        "Les mains souillées peuvent participer à la transmission",
+        "La transmission se fait principalement par voie aérienne"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transmission est essentiellement oro-fécale, par ingestion d’agents pathogènes présents dans l’eau, les aliments contaminés ou les mains souillées."
+    },
+    {
+      "type": "QCM",
+      "question": "Après ingestion d’un agent responsable de diarrhée infectieuse, quelles étapes ou mécanismes sont décrits ?",
+      "choices": [
+        "Franchissement de la barrière gastrique",
+        "Atteinte de l’intestin grêle, notamment du jéjunum et de l’iléon",
+        "Mécanisme sécrétoire, invasif ou mixte",
+        "Atteinte obligatoire initiale du côlon avec destruction muqueuse constante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’agent infectieux franchit la barrière gastrique puis atteint notamment le jéjunum et l’iléon. Trois mécanismes principaux sont décrits : sécrétoire, invasif et mixte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la diarrhée sécrétoire de type cholériforme, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être due à des germes sécrétant une entérotoxine",
+        "Elle implique une stimulation de l’adénylcyclase membranaire",
+        "Elle entraîne une sécrétion massive d’eau et d’électrolytes dans la lumière intestinale",
+        "Elle repose sur une destruction initiale de la muqueuse intestinale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diarrhée sécrétoire est toxinique, avec stimulation de l’adénylcyclase et dérèglement des transports ioniques, sans destruction de la muqueuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments cliniques orientent vers un syndrome cholériforme ?",
+      "choices": [
+        "Selles hydriques abondantes",
+        "Diarrhée profuse",
+        "Fièvre élevée constante avec ténesmes marqués",
+        "Douleurs abdominales absentes ou modérées"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le syndrome cholériforme associe des selles hydriques abondantes, une diarrhée profuse, des vomissements possibles, peu ou pas de fièvre et des douleurs abdominales absentes ou modérées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la diarrhée invasive de type syndrome dysentérique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être due à Shigella dysenteriae",
+        "Elle repose sur l’envahissement et la destruction de l’épithélium digestif ou du tissu lymphoïde sous-muqueux",
+        "Elle se manifeste typiquement par des selles glairo-sanglantes ou purulentes",
+        "Elle se caractérise par une absence habituelle de fièvre et une diarrhée aqueuse indolore"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome dysentérique est lié à des germes entéro-invasifs comme Shigella dysenteriae, avec destruction tissulaire, fièvre, douleurs, épreintes, ténesmes et selles glairo-sanglantes ou purulentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles complications sont décrites au cours d’une diarrhée invasive ?",
+      "choices": [
+        "Perforation digestive",
+        "Hémorragie",
+        "Colectasie",
+        "Déshydratation aiguë comme unique complication possible"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les complications du syndrome dysentérique comprennent la perforation digestive, l’hémorragie et la colectasie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le mécanisme mixte responsable d’un syndrome gastro-entéritique aigu, quelles propositions sont exactes ?",
+      "choices": [
+        "Il associe un mécanisme entéro-invasif et toxinogène",
+        "Le germe envahit l’entérocyte sans destruction initiale",
+        "Il peut se multiplier dans la sous-muqueuse avec réaction inflammatoire",
+        "Le risque de diffusion systémique est nul chez l’immunodéprimé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le mécanisme mixte associe invasion et toxicité ; le germe envahit l’entérocyte sans destruction initiale puis se multiplie dans la sous-muqueuse avec réaction inflammatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le syndrome gastro-entéritique aigu à mécanisme mixte, quels éléments sont attendus ou à risque selon le texte ?",
+      "choices": [
+        "Diarrhée aiguë avec vomissements possibles",
+        "Douleurs abdominales et fièvre",
+        "Risque de diffusion systémique surtout chez les sujets immunodéprimés ou drépanocytaires",
+        "Selles afécales en eau de riz comme signe obligatoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome gastro-entéritique aigu associe diarrhée aiguë, vomissements, douleurs abdominales et fièvre, avec risque de diffusion systémique notamment chez l’immunodéprimé ou le drépanocytaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les agents suivants, lesquels sont cités comme étiologies possibles de diarrhées aiguës infectieuses ?",
+      "choices": [
+        "Salmonella",
+        "Campylobacter",
+        "Entamoeba histolytica",
+        "Plasmodium falciparum"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les étiologies citées comprennent notamment Salmonella, Shigella, Yersinia, Campylobacter, Escherichia coli entéropathogène, Vibrio cholerae et Entamoeba histolytica."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certaines étiologies particulières des diarrhées aiguës infectieuses, quelles propositions sont exactes ?",
+      "choices": [
+        "Le cytomégalovirus est cité notamment chez l’immunodéprimé",
+        "Les champignons sont plus rares et surtout observés chez les patients infectés par le VIH",
+        "Les diarrhées aiguës nosocomiales font partie des situations particulières mentionnées",
+        "Les virus ne sont jamais impliqués dans les diarrhées infectieuses"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite le cytomégalovirus notamment chez l’immunodéprimé, des champignons plus rares surtout chez les patients VIH, et des situations particulières comme la diarrhée nosocomiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’épidémiologie du choléra, quelles propositions sont exactes ?",
+      "choices": [
+        "L’être humain est le seul réservoir naturel",
+        "Le germe peut être présent dans les selles des malades et des porteurs sains",
+        "La transmission peut être indirecte par eau ou aliments contaminés",
+        "Le réservoir naturel principal est animal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans le choléra, l’être humain est le seul réservoir naturel ; le vibrion est présent dans les selles des malades, porteurs sains, convalescents et cadavres, avec transmission directe ou indirecte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures font partie du traitement ou de la prophylaxie du choléra selon le texte ?",
+      "choices": [
+        "Réhydratation orale ou intraveineuse selon la sévérité",
+        "Correction des troubles hydro-électrolytiques",
+        "Isolement du malade et désinfection générale",
+        "Antibiothérapie substituant la réhydratation en première intention"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement repose principalement sur une réhydratation précoce, associée à la correction hydro-électrolytique. L’isolement et la désinfection relèvent des mesures de prévention et prophylaxie."
+    },
+    {
+      "type": "QCS",
+      "question": "Au-delà de quelle durée une diarrhée aiguë est-elle considérée comme persistante selon le texte ?",
+      "choices": [
+        "48 heures",
+        "5 jours",
+        "8 à 14 jours",
+        "30 jours"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une diarrhée aiguë infectieuse est habituellement résolutive en 8 à 14 jours ; au-delà, elle est considérée comme persistante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel germe est donné comme exemple typique de diarrhée sécrétoire cholériforme ?",
+      "choices": [
+        "Vibrio cholerae",
+        "Shigella dysenteriae",
+        "Entamoeba histolytica",
+        "Cytomégalovirus"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Vibrio cholerae est cité comme exemple de germe sécrétant une entérotoxine responsable d’un syndrome cholériforme."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel germe est donné comme exemple de diarrhée invasive dysentérique ?",
+      "choices": [
+        "Vibrio cholerae",
+        "Shigella dysenteriae",
+        "Escherichia coli entéropathogène",
+        "Cytomégalovirus"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Shigella dysenteriae est cité comme exemple de germe entéro-invasif responsable d’un syndrome dysentérique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise le plus précisément les selles typiques du choléra à la phase d’état ?",
+      "choices": [
+        "Selles glairo-sanglantes avec ténesmes",
+        "Selles aqueuses en eau de riz",
+        "Selles purulentes fébriles",
+        "Selles noires goudronneuses"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "À la phase d’état du choléra, les selles sont typiquement aqueuses en « eau de riz »."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le fondement principal du traitement du choléra ?",
+      "choices": [
+        "Réhydratation précoce adaptée à la gravité",
+        "Antibiothérapie exclusive par tétracyclines",
+        "Jeûne strict prolongé",
+        "Traitement antiparasitaire systématique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le traitement du choléra repose principalement sur une réhydratation précoce, orale ou intraveineuse selon la sévérité."
+    },
+    {
+      "type": "QCS",
+      "question": "Concernant l’amibiase, quelle proposition est exacte selon le texte ?",
+      "choices": [
+        "C’est une parasitose humaine due à Entamoeba histolytica",
+        "Elle est due à Vibrio cholerae",
+        "Elle atteint exclusivement le foie sans atteinte colique",
+        "Elle n’est pas liée au péril fécal"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’amibiase est une parasitose humaine due à Entamoeba histolytica, liée au péril fécal, avec atteinte colique fréquente et possibles localisations extra-intestinales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Entamoeba histolytica et ses modalités de transmission, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’un protozoaire.",
+        "Il existe sous forme kystique et sous formes végétatives.",
+        "La transmission directe peut se faire par contact avec un malade ou ses selles contaminées.",
+        "La transmission est exclusivement aérienne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Entamoeba histolytica est un protozoaire existant sous forme kystique et végétative. La transmission peut être directe par contact avec un malade ou ses selles, ou indirecte par eau/aliments souillés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la physiopathologie de l’amibiase-maladie, quelles propositions sont exactes ?",
+      "choices": [
+        "L’invasion de la muqueuse intestinale est responsable d’ulcérations de la paroi colique.",
+        "Une migration hématogène vers le foie peut survenir.",
+        "Une migration hématogène vers le poumon peut survenir.",
+        "L’atteinte invasive respecte toujours la muqueuse colique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Lorsque le parasite devient invasif, il envahit la muqueuse intestinale et provoque des ulcérations coliques. Une dissémination hématogène peut atteindre le foie et le poumon."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la forme dysentérique aiguë de l’amibiase colique, quels signes cliniques sont attendus ?",
+      "choices": [
+        "Début brutal.",
+        "Douleurs abdominales.",
+        "Épreintes.",
+        "Ténesmes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La forme dysentérique aiguë associe un début brutal, des douleurs abdominales, des épreintes et des ténesmes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les selles de la forme dysentérique aiguë de l’amibiase colique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent être afécales.",
+        "Elles peuvent être glaireuses.",
+        "Elles peuvent être sanglantes.",
+        "Elles sont typiquement purulentes de couleur chocolat."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les selles de la dysenterie amibienne sont afécales glairo-sanglantes. La couleur chocolat correspond à la collection purulente de l’abcès hépatique amibien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la forme diarrhéique de l’amibiase colique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut se présenter comme un tableau atténué.",
+        "Elle peut s’accompagner de coliques intestinales.",
+        "Elle comporte des selles diarrhéiques.",
+        "Elle s’accompagne constamment d’une fièvre élevée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme diarrhéique est un tableau atténué avec coliques intestinales et selles diarrhéiques. Les formes coliques ont généralement une température normale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques communes et l’évolution de l’amibiase colique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’état général est généralement conservé.",
+        "La température est généralement normale.",
+        "L’évolution est favorable sous traitement.",
+        "Un traitement insuffisant expose à une localisation tissulaire, notamment hépatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Dans l’amibiase colique, l’état général est souvent conservé et la température normale. Le traitement permet une évolution favorable, mais un traitement insuffisant expose à une localisation tissulaire, surtout hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la clinique de l’amibiase hépatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Une fièvre brutale, parfois anarchique, peut être observée.",
+        "Une douleur de l’hypochondre droit peut être présente.",
+        "Une altération de l’état général peut être retrouvée.",
+        "Une hépatomégalie peut être mise en évidence."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’amibiase hépatique associe classiquement fièvre brutale parfois anarchique, douleur de l’hypochondre droit, altération de l’état général et hépatomégalie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les localisations extra-intestinales et les diagnostics différentiels de l’amibiase, quelles propositions sont exactes ?",
+      "choices": [
+        "L’abcès hépatique amibien correspond à une collection liquidienne purulente de couleur chocolat.",
+        "Une localisation pulmonaire est possible.",
+        "L’abcès hépatique à pyogènes fait partie des diagnostics différentiels.",
+        "Le kyste hydatique infecté fait partie des diagnostics différentiels."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’amibiase peut donner un abcès hépatique amibien à pus chocolat et peut aussi se localiser au poumon. Les diagnostics différentiels incluent l’abcès hépatique à pyogènes et le kyste hydatique infecté."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les éléments utiles au diagnostic positif de l’amibiase, quelles propositions sont exactes ?",
+      "choices": [
+        "La notion de séjour ou de vie en zone d’endémie est un argument diagnostique.",
+        "Le contact avec un sujet malade est un argument diagnostique.",
+        "Une sérologie positive est utile dans l’amibiase viscérale.",
+        "La numération formule sanguine peut parfois être normale."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le diagnostic repose notamment sur le contexte épidémiologique, le contact avec un malade, la sérologie dans l’amibiase viscérale, et la NFS peut être normale."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une amibiase intestinale suspectée, quels diagnostics différentiels digestifs sont cités dans le texte ?",
+      "choices": [
+        "Salmonelloses mineures.",
+        "Shigellose.",
+        "Occlusion intestinale mécanique.",
+        "Appendicite aiguë."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les diagnostics différentiels cités incluent les salmonelloses mineures et la shigellose. L’occlusion et l’appendicite ne sont pas mentionnées dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement de l’amibiase colique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le métronidazole est administré par voie orale.",
+        "La posologie mentionnée est de 30 mg/kg/j.",
+        "La durée mentionnée est de 7 à 10 jours.",
+        "Le drainage chirurgical est systématique en première intention."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amibiase colique est traitée par métronidazole per os à 30 mg/kg/j pendant 7 à 10 jours. Le drainage chirurgical concerne l’abcès hépatique en cas d’évolution défavorable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement de l’amibiase hépatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le métronidazole est administré par voie parentérale.",
+        "La dose mentionnée est de 2 g/j.",
+        "Une antibiothérapie peut être associée si nécessaire.",
+        "Un drainage chirurgical de l’abcès peut être indiqué en cas d’évolution défavorable."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’amibiase hépatique relève du métronidazole parentéral à 2 g/j, avec antibiothérapie associée si nécessaire et drainage chirurgical de l’abcès en cas d’évolution défavorable."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures relèvent de la prévention de l’amibiase selon le texte ?",
+      "choices": [
+        "Hygiène individuelle et collective.",
+        "Accès à l’eau potable et assainissement.",
+        "Lavage des mains.",
+        "Contrôle de la contamination alimentaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La prévention repose sur l’hygiène individuelle et collective, l’accès à l’eau potable, l’assainissement, le lavage des mains et le contrôle de la contamination alimentaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les indications des examens complémentaires et les priorités de prise en charge d’une diarrhée infectieuse aiguë, quelles propositions sont exactes ?",
+      "choices": [
+        "Une diarrhée sévère ou un syndrome dysentérique justifie des examens complémentaires.",
+        "Une fièvre élevée ou une déshydratation justifie des examens complémentaires.",
+        "Un terrain fragile, une immunodépression, une suspicion de choléra, une diarrhée persistante, épidémique ou nosocomiale justifient des examens complémentaires.",
+        "La prise en charge repose en priorité sur l’évaluation de la gravité, la correction de la déshydratation, le traitement spécifique lorsqu’il est indiqué et la prévention de la transmission."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les examens sont indiqués en cas de gravité, dysenterie, fièvre élevée, déshydratation, terrain fragile, immunodépression, suspicion de choléra, diarrhée persistante, contexte épidémique ou nosocomial. Les priorités sont l’évaluation de la gravité, la réhydratation, le traitement spécifique si indiqué et la prévention de la transmission."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le réservoir d’Entamoeba histolytica selon le texte ?",
+      "choices": [
+        "Le réservoir humain.",
+        "Le réservoir bovin.",
+        "Le réservoir tellurique.",
+        "Le réservoir aviaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que le réservoir d’Entamoeba histolytica est humain."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la forme clinique la plus fréquente de l’amibiase colique selon le texte ?",
+      "choices": [
+        "La forme dysentérique aiguë.",
+        "La forme diarrhéique.",
+        "La forme hépatique.",
+        "La forme pulmonaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La forme diarrhéique de l’amibiase colique est décrite comme plus fréquente, avec un tableau atténué."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la localisation extra-intestinale la plus fréquente de l’amibiase ?",
+      "choices": [
+        "Le poumon.",
+        "Le foie.",
+        "Le rein.",
+        "La rate."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’amibiase hépatique est la localisation extra-intestinale la plus fréquente."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen permet de mettre en évidence l’amibe dans l’amibiase intestinale ?",
+      "choices": [
+        "La parasitologie des selles.",
+        "La radiographie thoracique.",
+        "L’électrocardiogramme.",
+        "La ponction lombaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans l’amibiase intestinale, le diagnostic repose sur la parasitologie des selles avec mise en évidence de l’amibe."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation ne nécessite généralement ni examen complémentaire ni antibiothérapie selon le texte ?",
+      "choices": [
+        "Diarrhée sévère avec déshydratation.",
+        "Syndrome dysentérique fébrile.",
+        "Diarrhée infectieuse aiguë modérée, non sanglante, non dysentérique, évoluant depuis moins de 3 jours.",
+        "Diarrhée nosocomiale persistante."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une diarrhée infectieuse aiguë modérée, non sanglante, non dysentérique et évoluant depuis moins de 3 jours ne nécessite généralement ni examens complémentaires ni antibiothérapie."
+    },
+    {
+      "type": "QCS",
+      "question": "Comment est appelée l’infection amibienne lorsqu’elle reste asymptomatique ?",
+      "choices": [
+        "Amibiase-maladie.",
+        "Amibiase-infestation.",
+        "Abcès hépatique amibien.",
+        "Syndrome dysentérique aigu."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Lorsque l’infection par Entamoeba histolytica reste asymptomatique, elle est appelée amibiase-infestation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’importance épidémiologique générale des diarrhées aiguës infectieuses, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elles sont fréquentes dans le monde.",
+        "Elles constituent un problème de santé publique surtout lorsque l’hygiène et l’accès à l’eau potable sont insuffisants.",
+        "Leur gravité dépend exclusivement de la nature du germe, indépendamment du terrain.",
+        "Elles peuvent être bénignes."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise leur fréquence mondiale, leur importance en santé publique dans les contextes d’hygiène et d’eau potable insuffisants, et leur caractère parfois bénin. La gravité est aussi liée au terrain fragile."
+    },
+    {
+      "type": "QCM",
+      "question": "Après ingestion d’un agent responsable de diarrhée infectieuse, quelles propositions correspondent aux données physiopathologiques du texte ?",
+      "choices": [
+        "L’agent infectieux franchit la barrière gastrique.",
+        "Il atteint l’intestin grêle, notamment le jéjunum et l’iléon.",
+        "Les mécanismes principaux décrits sont sécrétoire, invasif et mixte.",
+        "La destruction muqueuse est obligatoire dans tous les mécanismes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit le franchissement de la barrière gastrique, l’atteinte du grêle et trois mécanismes. La destruction muqueuse n’est pas obligatoire, notamment dans la diarrhée sécrétoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations mécanisme-lésion sont exactes dans les diarrhées aiguës infectieuses ?",
+      "choices": [
+        "Le mécanisme sécrétoire repose sur une entérotoxine stimulant l’adénylcyclase membranaire.",
+        "Le mécanisme invasif repose sur l’envahissement et la destruction de l’épithélium digestif ou du tissu lymphoïde sous-muqueux.",
+        "Le mécanisme mixte comporte une invasion de l’entérocyte sans destruction initiale.",
+        "Le mécanisme sécrétoire se définit par une destruction précoce de la muqueuse intestinale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le mécanisme sécrétoire est toxinique sans destruction muqueuse ; le mécanisme invasif est destructeur ; le mécanisme mixte débute par une invasion sans destruction initiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les profils cliniques des syndromes cholériforme et dysentérique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le syndrome cholériforme donne des selles hydriques abondantes et une diarrhée profuse.",
+        "Dans le syndrome cholériforme, la fièvre est absente ou peu marquée.",
+        "Le syndrome dysentérique peut comporter des selles glairo-sanglantes ou purulentes avec épreintes et ténesmes.",
+        "Le syndrome dysentérique typique est indolore et habituellement sans fièvre."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome cholériforme est hydrique, profus, peu fébrile. Le syndrome dysentérique associe fièvre, douleurs importantes, épreintes, ténesmes et selles glairo-sanglantes ou purulentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le syndrome gastro-entéritique aigu à mécanisme mixte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il associe un mécanisme entéro-invasif et toxinogène.",
+        "Le germe se multiplie dans la sous-muqueuse avec réaction inflammatoire.",
+        "Il existe un risque de diffusion systémique chez les sujets immunodéprimés ou drépanocytaires.",
+        "La fièvre est exclue de son tableau clinique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le mécanisme mixte associe invasion et toxinogénicité, avec multiplication sous-muqueuse et inflammation. Il peut donner fièvre, vomissements, douleurs abdominales et diarrhée aiguë."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles complications ou évolutions graves sont correctement rattachées aux tableaux décrits ?",
+      "choices": [
+        "La diarrhée sécrétoire expose à une déshydratation aiguë parfois sévère.",
+        "La diarrhée invasive peut se compliquer de perforation digestive, hémorragie ou colectasie.",
+        "Le choléra non traité rapidement peut provoquer une déshydratation sévère et le décès.",
+        "Le mécanisme mixte peut exposer à une diffusion systémique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre propositions reprennent les complications mentionnées : déshydratation dans les formes sécrétoires/choléra, complications digestives dans les formes invasives et diffusion systémique dans le mécanisme mixte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les agents étiologiques cités des diarrhées aiguës infectieuses, quelles propositions sont exactes ?",
+      "choices": [
+        "Les bactéries citées comprennent Vibrio cholerae, Salmonella, Shigella, Yersinia, Campylobacter et Escherichia coli entéropathogène.",
+        "Entamoeba histolytica est cité parmi les parasites.",
+        "Le cytomégalovirus est cité parmi les virus, notamment chez l’immunodéprimé.",
+        "Les champignons sont plus rares et surtout décrits chez les patients infectés par le VIH."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte classe les étiologies en bactéries, parasites, virus et champignons, avec les précisions indiquées pour le cytomégalovirus et les champignons."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont explicitement citées comme situations particulières de diarrhée aiguë infectieuse ?",
+      "choices": [
+        "Diarrhée chez le patient infecté par le VIH.",
+        "Diarrhée sous chimiothérapie.",
+        "Diarrhée aiguë nosocomiale.",
+        "Diarrhée fécale puis afécale au début du choléra."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les situations particulières citées sont la diarrhée chez le patient infecté par le VIH, sous chimiothérapie et la diarrhée aiguë nosocomiale. La diarrhée fécale puis afécale décrit l’évolution clinique initiale du choléra."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’expression clinique et infraclinique du choléra, quelles propositions sont exactes ?",
+      "choices": [
+        "La plupart des sujets infectés restent asymptomatiques.",
+        "Le vibrion peut être présent dans les selles pendant 7 à 14 jours.",
+        "Lorsque la maladie survient, plus de 90 % des épisodes sont bénins ou modérés.",
+        "Moins de 10 % des cas présentent un choléra typique avec déshydratation modérée ou grave."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte insiste sur la fréquence des formes asymptomatiques, le portage fécal possible de 7 à 14 jours et la faible proportion de choléra typique sévère."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la présence de Vibrio cholerae dans les selles, quelles catégories sont citées comme pouvant éliminer le germe ?",
+      "choices": [
+        "Les malades.",
+        "Les porteurs sains.",
+        "Les convalescents.",
+        "Les cadavres."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que le germe est présent dans les selles des malades, porteurs sains, convalescents et cadavres."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transmission et les facteurs favorisants du choléra, quelles propositions sont exactes ?",
+      "choices": [
+        "La transmission indirecte se fait par l’eau ou les aliments contaminés.",
+        "La transmission directe interhumaine est surtout décrite en zone de forte endémie.",
+        "Les mauvaises conditions d’hygiène, l’absence d’eau potable et la promiscuité favorisent la maladie.",
+        "La dénutrition et le contact avec des cadavres contaminés sont des facteurs favorisants."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces modalités de transmission et tous ces facteurs favorisants sont explicitement mentionnés dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la chronologie clinique du choléra, quelles propositions sont exactes ?",
+      "choices": [
+        "L’incubation dure de quelques heures à 5 jours.",
+        "Le début est brutal.",
+        "Le début peut comporter une asthénie et des douleurs abdominales.",
+        "La diarrhée est d’abord fécale puis afécale."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit une incubation courte, un début brutal avec asthénie et douleurs abdominales, puis une diarrhée initialement fécale devenant afécale."
+    },
+    {
+      "type": "QCM",
+      "question": "À la phase d’état du choléra, quelles propositions sont exactes ?",
+      "choices": [
+        "La diarrhée est très contagieuse, souvent avec 5 à 10 selles par jour.",
+        "Les selles aqueuses typiques sont décrites en « eau de riz ».",
+        "Une déshydratation profonde, une altération de l’état général et un collapsus cardiovasculaire sont possibles.",
+        "La conscience est conservée et la fièvre est habituellement absente."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces éléments correspondent à la phase d’état : selles en eau de riz, contagiosité, déshydratation profonde, possible collapsus, conscience conservée et absence habituelle de fièvre."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le diagnostic du choléra, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Il repose sur des arguments épidémiologiques.",
+        "Il repose sur des arguments cliniques.",
+        "Une confirmation biologique peut être utilisée si elle est disponible.",
+        "Le diagnostic différentiel principal cité est celui des autres diarrhées liquidiennes aiguës."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le diagnostic du choléra combine arguments épidémiologiques, cliniques et confirmation biologique si disponible ; le diagnostic différentiel cité est celui des autres diarrhées liquidiennes aiguës."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme moléculaire est central dans la diarrhée sécrétoire cholériforme ?",
+      "choices": [
+        "Stimulation de l’adénylcyclase membranaire.",
+        "Destruction initiale obligatoire de la muqueuse.",
+        "Multiplication exclusive dans la sous-muqueuse avec réaction inflammatoire.",
+        "Envahissement du tissu lymphoïde sous-muqueux."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le syndrome cholériforme repose sur une entérotoxine stimulant l’adénylcyclase membranaire, entraînant des troubles du transport ionique et une sécrétion hydro-électrolytique massive."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le traitement du choléra, quelle place occupe l’antibiothérapie selon le texte ?",
+      "choices": [
+        "Elle remplace la réhydratation lorsque la diarrhée est abondante.",
+        "Elle est possible, notamment par tétracyclines, en complément de la réhydratation.",
+        "Elle constitue l’unique traitement des troubles hydro-électrolytiques.",
+        "Elle est réservée à la prévention collective sans rôle thérapeutique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La réhydratation est le traitement principal. L’antibiothérapie, notamment par tétracyclines, peut être utilisée en complément."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément guide le choix entre réhydratation orale et intraveineuse dans le choléra ?",
+      "choices": [
+        "La sévérité du tableau.",
+        "La présence constante de fièvre.",
+        "Le caractère fécal initial des selles.",
+        "La durée du portage fécal du vibrion."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que la réhydratation peut être orale ou intraveineuse selon la sévérité."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le mécanisme mixte de diarrhée infectieuse, quel terrain est cité avec l’immunodépression comme exposant au risque de diffusion systémique ?",
+      "choices": [
+        "Drépanocytose.",
+        "Dénutrition.",
+        "Vieillissement.",
+        "Chimiothérapie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise un risque de diffusion systémique surtout chez les sujets immunodéprimés ou drépanocytaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle catégorie d’agents est décrite comme plus rare et surtout rencontrée chez les patients infectés par le VIH ?",
+      "choices": [
+        "Les bactéries.",
+        "Les parasites.",
+        "Les virus.",
+        "Les champignons."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Les champignons sont mentionnés comme causes plus rares de diarrhées infectieuses, surtout chez les patients infectés par le VIH."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la définition clinique du choléra, comment est typiquement qualifiée la diarrhée aqueuse abondante ?",
+      "choices": [
+        "Glairo-sanglante.",
+        "Purulente.",
+        "Indolore.",
+        "Persistante."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le choléra entraîne une diarrhée aqueuse, abondante et indolore, souvent associée à des vomissements."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Entamoeba histolytica en tant qu’agent parasitaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’un protozoaire.",
+        "Il existe sous forme kystique.",
+        "Il existe sous formes végétatives.",
+        "Son réservoir principal décrit est animal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Entamoeba histolytica est un protozoaire existant sous forme kystique et sous formes végétatives. Le réservoir mentionné est humain."
+    },
+    {
+      "type": "QCM",
+      "question": "Après contamination par Entamoeba histolytica, quelles propositions décrivent correctement les étapes physiopathologiques possibles ?",
+      "choices": [
+        "Le parasite pénètre dans le tube digestif sous forme kystique.",
+        "L’infection peut rester asymptomatique.",
+        "Le passage à l’amibiase-maladie suppose un caractère invasif du parasite.",
+        "L’atteinte tissulaire initiale décrite est une nécrose pulmonaire primitive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après contamination, le parasite pénètre sous forme kystique. L’infection peut rester asymptomatique ou devenir invasive, réalisant une amibiase-maladie. Le texte ne décrit pas de nécrose pulmonaire primitive."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’amibiase-maladie intestinale, quelles lésions ou extensions sont décrites ?",
+      "choices": [
+        "Invasion de la muqueuse intestinale.",
+        "Ulcérations de la paroi colique.",
+        "Migration hématogène possible vers le foie.",
+        "Migration lymphatique exclusive vers la rate."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amibiase-maladie résulte de l’invasion de la muqueuse intestinale, responsable d’ulcérations coliques. Une migration hématogène peut atteindre notamment le foie et le poumon."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la forme dysentérique aiguë de l’amibiase colique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le début est brutal.",
+        "Les douleurs abdominales peuvent être associées à des épreintes.",
+        "Les ténesmes font partie du tableau clinique.",
+        "Les selles sont typiquement abondantes, aqueuses et afécales sans sang."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme dysentérique aiguë associe début brutal, douleurs abdominales, épreintes, ténesmes et selles afécales glairo-sanglantes. Les selles aqueuses abondantes sans sang ne correspondent pas à cette description."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la forme diarrhéique de l’amibiase colique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est décrite comme plus fréquente que la forme dysentérique.",
+        "Elle réalise un tableau atténué.",
+        "Elle peut comporter des coliques intestinales.",
+        "Elle impose, selon le texte, un drainage chirurgical d’emblée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme diarrhéique est plus fréquente, atténuée, avec coliques intestinales et selles diarrhéiques. Le drainage chirurgical concerne l’abcès hépatique en cas d’évolution défavorable."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’amibiase colique aiguë, quelles caractéristiques générales sont rapportées ?",
+      "choices": [
+        "L’état général est généralement conservé.",
+        "La température est normale.",
+        "L’évolution est favorable sous traitement.",
+        "Une fièvre élevée constante est un élément commun aux formes coliques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les formes coliques ont généralement un état général conservé et une température normale. L’évolution est favorable sous traitement. La fièvre élevée constante n’est pas décrite."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de traitement insuffisant d’une amibiase colique, quelles évolutions sont possibles selon le texte ?",
+      "choices": [
+        "Évolution vers une localisation tissulaire.",
+        "Atteinte hépatique possible.",
+        "Migration hématogène possible.",
+        "Guérison obligatoire sans risque viscéral."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un traitement insuffisant expose à une localisation tissulaire, notamment hépatique, par migration hématogène. La guérison obligatoire sans risque viscéral est fausse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments cliniques orientent vers une amibiase hépatique ?",
+      "choices": [
+        "Fièvre brutale parfois anarchique.",
+        "Douleur de l’hypochondre droit.",
+        "Altération de l’état général.",
+        "Température constamment normale avec état général conservé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amibiase hépatique se manifeste par une fièvre brutale parfois anarchique, une douleur de l’hypochondre droit, une altération de l’état général et une hépatomégalie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’abcès hépatique amibien, quelles propositions sont exactes ?",
+      "choices": [
+        "Il constitue une complication de l’amibiase hépatique.",
+        "Il correspond à une collection liquidienne purulente.",
+        "Son contenu est classiquement décrit comme de couleur « chocolat ».",
+        "Il correspond à une collection exclusivement biliaire non purulente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’abcès hépatique amibien est une complication correspondant à une collection liquidienne purulente de couleur « chocolat »."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels arguments peuvent contribuer au diagnostic positif d’amibiase selon le texte ?",
+      "choices": [
+        "Notion de séjour ou de vie en zone d’endémie.",
+        "Contact avec un sujet malade.",
+        "Parasitologie des selles dans l’amibiase intestinale.",
+        "Numération formule sanguine toujours très perturbée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic peut s’appuyer sur le contexte épidémiologique, le contact avec un malade et la parasitologie des selles en cas d’amibiase intestinale. La NFS peut être normale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les examens biologiques dans l’amibiase, quelles propositions sont exactes ?",
+      "choices": [
+        "La mise en évidence de l’amibe dans les selles est utile dans l’amibiase intestinale.",
+        "Une sérologie positive est utilisée dans l’amibiase viscérale.",
+        "La numération formule sanguine peut être normale.",
+        "Une NFS normale élimine formellement une amibiase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La parasitologie des selles est indiquée pour l’amibiase intestinale, la sérologie pour l’amibiase viscérale. La NFS peut être normale et ne permet donc pas d’exclure formellement le diagnostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les diagnostics différentiels cités, lesquels peuvent discuter une amibiase selon la présentation clinique ?",
+      "choices": [
+        "Shigellose.",
+        "Salmonelloses mineures.",
+        "Abcès hépatique à pyogènes.",
+        "Asthme allergique isolé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les diagnostics différentiels cités sont les salmonelloses mineures, la shigellose, l’abcès hépatique à pyogènes et le kyste hydatique infecté."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prévention de l’amibiase, quelles mesures sont conformes au texte ?",
+      "choices": [
+        "Hygiène individuelle.",
+        "Accès à l’eau potable.",
+        "Assainissement.",
+        "Vaccination systématique spécifique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prévention repose sur l’hygiène individuelle et collective, l’accès à l’eau potable, l’assainissement, le lavage des mains et le contrôle de la contamination alimentaire. Aucune vaccination n’est mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations justifient des examens complémentaires devant une diarrhée infectieuse aiguë ?",
+      "choices": [
+        "Syndrome dysentérique.",
+        "Déshydratation.",
+        "Contexte épidémique.",
+        "Diarrhée modérée non sanglante évoluant depuis moins de 3 jours sans signe de gravité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les examens complémentaires sont indiqués notamment en cas de syndrome dysentérique, déshydratation ou contexte épidémique. Une diarrhée modérée, non sanglante, non dysentérique, évoluant depuis moins de 3 jours ne nécessite généralement pas d’examens."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel schéma thérapeutique est indiqué pour une amibiase colique selon le texte ?",
+      "choices": [
+        "Métronidazole per os 30 mg/kg/j pendant 7 à 10 jours.",
+        "Métronidazole parentéral 2 g/j pendant 24 heures uniquement.",
+        "Drainage chirurgical isolé sans antiparasitaire.",
+        "Antibiothérapie probabiliste seule sans métronidazole."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’amibiase colique est traitée par métronidazole per os à la dose de 30 mg/kg/j pendant 7 à 10 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’amibiase hépatique, quelle modalité de métronidazole est mentionnée ?",
+      "choices": [
+        "Métronidazole per os 10 mg/kg en dose unique.",
+        "Métronidazole par voie parentérale à 2 g/j.",
+        "Métronidazole local intra-abcès uniquement.",
+        "Absence d’indication du métronidazole."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans l’amibiase hépatique, le traitement repose sur le métronidazole par voie parentérale à la dose de 2 g/j."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas d’évolution défavorable d’un abcès hépatique amibien, quelle mesure est prévue ?",
+      "choices": [
+        "Arrêt du traitement antiparasitaire.",
+        "Drainage chirurgical de l’abcès.",
+        "Simple surveillance sans geste.",
+        "Vaccination curative."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le drainage chirurgical de l’abcès est indiqué en cas d’évolution défavorable."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est particulièrement associé au diagnostic d’amibiase viscérale ?",
+      "choices": [
+        "Sérologie positive.",
+        "Coproculture bactérienne seule.",
+        "Test respiratoire.",
+        "Radiographie du poignet."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans l’amibiase viscérale, le diagnostic repose notamment sur une sérologie positive."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation concernant la numération formule sanguine dans l’amibiase est exacte ?",
+      "choices": [
+        "Elle est parfois normale.",
+        "Elle est toujours normale.",
+        "Elle élimine le diagnostic si elle est normale.",
+        "Elle remplace la sérologie dans l’amibiase viscérale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la numération formule sanguine peut être parfois normale, sans exclure le diagnostic."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation ne nécessite généralement ni examen complémentaire ni antibiothérapie ?",
+      "choices": [
+        "Diarrhée sévère avec déshydratation.",
+        "Diarrhée dysentérique fébrile.",
+        "Diarrhée infectieuse aiguë modérée, non sanglante, non dysentérique, évoluant depuis moins de 3 jours.",
+        "Diarrhée nosocomiale chez un terrain fragile."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une diarrhée infectieuse aiguë modérée, non sanglante, non dysentérique, évoluant depuis moins de 3 jours ne nécessite généralement ni examen complémentaire ni antibiothérapie."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les données chiffrées suivantes, lesquelles sont explicitement retenues dans le texte pour caractériser ou encadrer une diarrhée aiguë infectieuse ?",
+      "choices": [
+        "Une fréquence supérieure à 4 selles par jour",
+        "Un poids de selles supérieur à 300 g par jour",
+        "Une résolution habituelle en 8 à 14 jours",
+        "Une incubation obligatoire de 7 à 14 jours"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte retient plus de 4 selles/jour, plus de 300 g/jour et une résolution habituelle en 8 à 14 jours. Les 7 à 14 jours concernent la présence possible du vibrion cholérique dans les selles, non l’incubation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le trajet initial de l’agent infectieux dans les diarrhées aiguës infectieuses, quelles propositions sont exactes ?",
+      "choices": [
+        "L’agent infectieux est ingéré avant d’atteindre le tube digestif",
+        "Il franchit la barrière gastrique",
+        "Il atteint notamment le jéjunum et l’iléon",
+        "Il colonise obligatoirement d’emblée le côlon sans passage par l’intestin grêle"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après ingestion, l’agent infectieux franchit la barrière gastrique puis atteint l’intestin grêle, notamment le jéjunum et l’iléon. Le texte ne décrit pas une colonisation colique obligatoire d’emblée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lésions muqueuses selon le mécanisme physiopathologique, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans le mécanisme sécrétoire, il existe une sécrétion massive d’eau et d’électrolytes sans destruction de la muqueuse",
+        "Dans le mécanisme invasif, il existe un envahissement et une destruction de l’épithélium digestif ou du tissu lymphoïde sous-muqueux",
+        "Dans le mécanisme mixte, le germe envahit l’entérocyte sans destruction initiale",
+        "Dans le choléra, la diarrhée est expliquée principalement par une perforation digestive précoce"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le mécanisme sécrétoire ne détruit pas la muqueuse. Le mécanisme invasif détruit l’épithélium digestif ou le tissu lymphoïde sous-muqueux. Le mécanisme mixte comporte une invasion entérocytaire sans destruction initiale. La perforation est une complication du syndrome invasif, pas le mécanisme du choléra."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations terrain–risque ou contexte sont conformes au texte ?",
+      "choices": [
+        "Nourrisson : risque accru de forme grave par déshydratation",
+        "Drépanocytaire : risque de diffusion systémique dans le mécanisme mixte",
+        "Patient infecté par le VIH : champignons plus rares mais surtout rencontrés dans ce contexte",
+        "Dénutrition : facteur favorisant du choléra"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les nourrissons parmi les sujets fragiles exposés à la déshydratation, les drépanocytaires comme à risque de diffusion systémique dans le mécanisme mixte, les champignons surtout chez les patients VIH, et la dénutrition comme facteur favorisant du choléra."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations tableau clinique–mécanisme suivantes, lesquelles sont exactes ?",
+      "choices": [
+        "Syndrome cholériforme : selles hydriques abondantes, diarrhée profuse, peu ou pas de fièvre",
+        "Syndrome dysentérique : selles glairo-sanglantes ou purulentes avec épreintes et ténesmes",
+        "Syndrome gastro-entéritique aigu : diarrhée aiguë, vomissements, douleurs abdominales et fièvre",
+        "Choléra : diarrhée aqueuse abondante, indolore, souvent associée à des vomissements"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre associations reprennent les profils cliniques décrits dans le texte pour les mécanismes cholériforme, dysentérique, mixte et pour le choléra."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les complications ou évolutions graves suivantes, lesquelles sont correctement rattachées au tableau correspondant ?",
+      "choices": [
+        "Syndrome cholériforme : déshydratation aiguë parfois sévère",
+        "Syndrome dysentérique : hémorragie possible",
+        "Syndrome gastro-entéritique à mécanisme mixte : diffusion systémique possible sur terrain à risque",
+        "Choléra non traité rapidement : décès possible par déshydratation sévère"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La déshydratation sévère est la complication majeure du cholériforme et du choléra. Le syndrome dysentérique peut se compliquer d’hémorragie, et le mécanisme mixte peut diffuser systématiquement, surtout chez l’immunodéprimé ou le drépanocytaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations agent infectieux–catégorie étiologique sont exactes selon le texte ?",
+      "choices": [
+        "Salmonella : bactérie",
+        "Cytomégalovirus : virus, notamment chez l’immunodéprimé",
+        "Entamoeba histolytica : parasite",
+        "Yersinia : champignon opportuniste"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Salmonella est citée parmi les bactéries, le cytomégalovirus parmi les virus notamment chez l’immunodéprimé, et Entamoeba histolytica parmi les parasites. Yersinia est une bactérie, non un champignon."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont individualisées dans le texte comme des situations particulières de diarrhée aiguë infectieuse ?",
+      "choices": [
+        "Diarrhée chez le patient infecté par le VIH",
+        "Diarrhée sous chimiothérapie",
+        "Diarrhée aiguë nosocomiale",
+        "Diarrhée chronique fonctionnelle du sujet jeune"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les situations particulières citées sont la diarrhée chez le patient infecté par le VIH, la diarrhée sous chimiothérapie et la diarrhée aiguë nosocomiale. La diarrhée chronique fonctionnelle n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le réservoir et les sources de Vibrio cholerae, quelles propositions sont exactes ?",
+      "choices": [
+        "L’être humain est le seul réservoir naturel",
+        "Le germe est présent dans les selles des malades",
+        "Les porteurs sains et les convalescents peuvent éliminer le germe dans les selles",
+        "Les animaux domestiques constituent le principal réservoir naturel"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que l’être humain est le seul réservoir naturel et que le germe est présent dans les selles des malades, porteurs sains, convalescents et cadavres. Aucun réservoir animal domestique principal n’est décrit."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transmission et les facteurs favorisants du choléra, quelles propositions sont exactes ?",
+      "choices": [
+        "La transmission indirecte peut se faire par l’eau ou les aliments contaminés",
+        "La transmission directe interhumaine est surtout décrite en zone de forte endémie",
+        "La promiscuité favorise la transmission",
+        "Le contact avec des cadavres contaminés est un facteur favorisant"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le choléra se transmet indirectement par eau ou aliments contaminés, et directement entre humains surtout en zone de forte endémie. La promiscuité et le contact avec des cadavres contaminés sont des facteurs favorisants."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le début clinique du choléra, quelles propositions sont exactes ?",
+      "choices": [
+        "Le début est brutal",
+        "Une asthénie peut être présente",
+        "Des douleurs abdominales peuvent être observées",
+        "La diarrhée est d’abord fécale puis afécale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit un début brutal avec asthénie, douleurs abdominales et diarrhée initialement fécale puis afécale."
+    },
+    {
+      "type": "QCM",
+      "question": "À la phase d’état du choléra, quels éléments sont rapportés dans le texte ?",
+      "choices": [
+        "Selles aqueuses typiques en « eau de riz »",
+        "Déshydratation profonde",
+        "Collapsus cardiovasculaire possible",
+        "Fièvre élevée constante avec confusion précoce"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase d’état comporte des selles en eau de riz, une déshydratation profonde et parfois un collapsus cardiovasculaire. Le texte mentionne au contraire une absence habituelle de fièvre et une conscience conservée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la démarche diagnostique devant un choléra, quelles propositions sont exactes ?",
+      "choices": [
+        "Les arguments épidémiologiques participent au diagnostic",
+        "Les arguments cliniques participent au diagnostic",
+        "Une confirmation biologique peut être utilisée si elle est disponible",
+        "Le diagnostic différentiel principal mentionné est l’ensemble des diarrhées sanglantes chroniques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic repose sur des arguments épidémiologiques et cliniques, avec confirmation biologique si disponible. Le diagnostic différentiel cité est celui des autres diarrhées liquidiennes aiguës."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’amibiase telle qu’elle est définie dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une parasitose humaine",
+        "Elle est due à Entamoeba histolytica",
+        "Elle est liée au péril fécal",
+        "L’atteinte colique est la plus fréquente"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’amibiase est une parasitose humaine due à Entamoeba histolytica, liée au péril fécal. L’atteinte colique est décrite comme la plus fréquente."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle durée correspond à la présence possible de Vibrio cholerae dans les selles de la plupart des sujets infectés, même asymptomatiques ?",
+      "choices": [
+        "24 à 48 heures",
+        "3 à 5 jours",
+        "7 à 14 jours",
+        "Plus de 6 semaines"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que le vibrion peut être présent dans les selles pendant 7 à 14 jours, même chez des sujets restant asymptomatiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Après franchissement de la barrière gastrique, quelle localisation intestinale est notamment atteinte par l’agent infectieux ?",
+      "choices": [
+        "Œsophage et estomac",
+        "Jéjunum et iléon",
+        "Rectum exclusivement",
+        "Voies biliaires exclusivement"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique que l’agent infectieux atteint l’intestin grêle, notamment le jéjunum et l’iléon."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel appartient spécifiquement à la phase d’état du choléra plutôt qu’au début clinique ?",
+      "choices": [
+        "Asthénie",
+        "Douleurs abdominales",
+        "Diarrhée d’abord fécale puis afécale",
+        "Selles aqueuses en « eau de riz »"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Les selles aqueuses typiques en « eau de riz » sont décrites à la phase d’état. L’asthénie, les douleurs abdominales et la diarrhée d’abord fécale puis afécale appartiennent au début."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le choléra, quelle mesure constitue le fondement principal du traitement ?",
+      "choices": [
+        "Antibiothérapie seule d’emblée",
+        "Réhydratation précoce adaptée à la gravité",
+        "Corticothérapie intraveineuse",
+        "Arrêt complet de l’alimentation pendant 7 jours"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le traitement du choléra repose principalement sur la réhydratation, qui doit être précoce et adaptée à la gravité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel diagnostic différentiel du choléra est explicitement cité dans le texte ?",
+      "choices": [
+        "Appendicite aiguë fébrile",
+        "Autres diarrhées liquidiennes aiguës",
+        "Occlusion intestinale mécanique",
+        "Hépatite virale aiguë"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le diagnostic différentiel mentionné est celui des autres diarrhées liquidiennes aiguës."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle localisation extra-intestinale de l’amibiase est explicitement citée en plus de l’atteinte hépatique ?",
+      "choices": [
+        "Pulmonaire",
+        "Rénale",
+        "Cérébelleuse",
+        "Osseuse"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que des localisations extra-intestinales peuvent survenir, notamment hépatiques et pulmonaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes parasitaires d’Entamoeba histolytica mentionnées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le parasite existe sous forme kystique.",
+        "Le parasite existe sous formes végétatives.",
+        "Après contamination, l’entrée dans le tube digestif se fait sous forme kystique.",
+        "Le réservoir principal décrit est animal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Entamoeba histolytica existe sous forme kystique et sous formes végétatives. Après contamination, le parasite pénètre dans le tube digestif sous forme kystique. Le réservoir décrit est humain."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la distinction entre amibiase-infestation et amibiase-maladie, quelles propositions sont justes ?",
+      "choices": [
+        "L’amibiase-infestation correspond à une infection restant asymptomatique.",
+        "L’amibiase-maladie apparaît lorsque le parasite devient invasif.",
+        "L’amibiase-maladie intestinale implique une invasion de la muqueuse intestinale.",
+        "Toute contamination par Entamoeba histolytica entraîne obligatoirement une atteinte hépatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’infection peut rester asymptomatique : c’est l’amibiase-infestation. Lorsque le parasite devient invasif, il entraîne une amibiase-maladie par invasion de la muqueuse intestinale. L’atteinte hépatique n’est pas constante."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conséquences physiopathologiques de l’invasion intestinale par Entamoeba histolytica, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être responsable d’ulcérations de la paroi colique.",
+        "Elle correspond à une invasion de la muqueuse intestinale.",
+        "Elle peut être suivie d’une migration hématogène vers le foie.",
+        "Elle provoque d’emblée une collection purulente pulmonaire dans tous les cas."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amibiase-maladie résulte de l’invasion de la muqueuse intestinale avec ulcérations coliques. Une migration hématogène peut survenir vers le foie ou le poumon, mais elle n’est pas systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la forme dysentérique aiguë de l’amibiase colique, quels éléments relèvent du tableau décrit ?",
+      "choices": [
+        "Épreintes.",
+        "Ténesmes.",
+        "Selles afécales glairo-sanglantes.",
+        "Diarrhée aqueuse isolée sans douleurs abdominales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme dysentérique aiguë associe début brutal, douleurs abdominales, épreintes, ténesmes et selles afécales glairo-sanglantes. Une diarrhée aqueuse isolée sans douleurs n’est pas le tableau décrit."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments caractérisent la forme diarrhéique de l’amibiase colique selon le texte ?",
+      "choices": [
+        "Elle est plus fréquente que la forme dysentérique.",
+        "Elle réalise un tableau atténué.",
+        "Elle peut s’accompagner de coliques intestinales.",
+        "Elle est définie par des selles afécales glairo-sanglantes avec ténesmes constants."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme diarrhéique est la plus fréquente, de présentation atténuée, avec coliques intestinales et selles diarrhéiques. Les selles afécales glairo-sanglantes avec ténesmes caractérisent plutôt la forme dysentérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tolérance générale et l’évolution de l’amibiase colique aiguë, quelles propositions sont exactes ?",
+      "choices": [
+        "L’état général est généralement conservé.",
+        "La température est habituellement normale.",
+        "L’évolution est favorable sous traitement.",
+        "Un traitement insuffisant expose à une localisation tissulaire, notamment hépatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que l’état général est généralement conservé, que la température est normale, que l’évolution est favorable sous traitement, et qu’un traitement insuffisant expose à une localisation tissulaire, notamment hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient suspect d’amibiase, quels signes orientent vers une localisation hépatique ?",
+      "choices": [
+        "Fièvre brutale parfois anarchique.",
+        "Douleur de l’hypochondre droit.",
+        "Hépatomégalie.",
+        "Ténesmes isolés sans signe général."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amibiase hépatique se manifeste par une fièvre brutale parfois anarchique, une douleur de l’hypochondre droit, une altération de l’état général et une hépatomégalie. Les ténesmes appartiennent au tableau dysentérique colique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’abcès hépatique amibien, quelles propositions sont exactes ?",
+      "choices": [
+        "Il constitue une complication de l’amibiase hépatique.",
+        "Il correspond à une collection liquidienne purulente.",
+        "La collection peut avoir une couleur dite « chocolat ».",
+        "Son évolution défavorable peut conduire à envisager un drainage chirurgical."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’abcès hépatique amibien est une complication correspondant à une collection purulente de couleur « chocolat ». En cas d’évolution défavorable, un drainage chirurgical de l’abcès est indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments peuvent contribuer au diagnostic positif d’amibiase selon la localisation suspectée ?",
+      "choices": [
+        "Parasitologie des selles mettant en évidence l’amibe dans l’amibiase intestinale.",
+        "Sérologie positive dans l’amibiase viscérale.",
+        "Notion de séjour ou de vie en zone d’endémie.",
+        "Numération formule sanguine obligatoirement perturbée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic peut s’appuyer sur le contexte épidémiologique, la parasitologie des selles pour l’amibiase intestinale et la sérologie pour l’amibiase viscérale. La NFS peut être normale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre diagnostic différentiel et contexte clinique sont cohérentes avec le texte ?",
+      "choices": [
+        "Tableau intestinal : shigellose.",
+        "Tableau intestinal : salmonelloses mineures.",
+        "Tableau hépatique suppuré : abcès hépatique à pyogènes.",
+        "Lésion hépatique infectée à discuter : kyste hydatique infecté."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les diagnostics différentiels cités sont les salmonelloses mineures, la shigellose, l’abcès hépatique à pyogènes et le kyste hydatique infecté."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement de l’amibiase colique, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le métronidazole est administré per os.",
+        "La dose mentionnée est de 30 mg/kg/j.",
+        "La durée indiquée est de 7 à 10 jours.",
+        "Le drainage chirurgical est systématique d’emblée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amibiase colique se traite par métronidazole per os à 30 mg/kg/j pendant 7 à 10 jours. Le drainage chirurgical concerne l’abcès hépatique en cas d’évolution défavorable, et n’est pas systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’amibiase hépatique, quelles modalités thérapeutiques sont mentionnées ?",
+      "choices": [
+        "Métronidazole par voie parentérale.",
+        "Dose de métronidazole de 2 g/j.",
+        "Antibiothérapie associée si nécessaire.",
+        "Drainage chirurgical de l’abcès en cas d’évolution défavorable."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le traitement de l’amibiase hépatique repose sur le métronidazole parentéral à 2 g/j, avec antibiothérapie associée si nécessaire, et drainage chirurgical de l’abcès en cas d’évolution défavorable."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures de prévention participent au contrôle de la transmission féco-orale de l’amibiase ?",
+      "choices": [
+        "Accès à l’eau potable.",
+        "Assainissement.",
+        "Lavage des mains.",
+        "Contrôle de la contamination alimentaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La prévention repose notamment sur l’hygiène individuelle et collective, l’accès à l’eau potable, l’assainissement, le lavage des mains et le contrôle de la contamination alimentaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge d’une diarrhée infectieuse aiguë, quelles priorités sont toujours indiquées dans le texte ?",
+      "choices": [
+        "Évaluation de la gravité.",
+        "Correction de la déshydratation.",
+        "Prévention de la transmission.",
+        "Antibiothérapie systématique avant toute évaluation clinique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prise en charge repose toujours en priorité sur l’évaluation de la gravité, la correction de la déshydratation, le traitement spécifique lorsqu’il est indiqué et la prévention de la transmission. L’antibiothérapie n’est pas systématique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation concernant la numération formule sanguine dans le diagnostic de l’amibiase est exacte ?",
+      "choices": [
+        "Elle est toujours normale dans l’amibiase hépatique.",
+        "Elle peut parfois être normale.",
+        "Elle remplace la parasitologie des selles.",
+        "Elle affirme à elle seule l’amibiase viscérale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que la numération formule sanguine peut être parfois normale. Elle ne remplace ni la parasitologie des selles ni la sérologie selon la localisation."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’amibiase hépatique, quelle voie d’administration du métronidazole est indiquée ?",
+      "choices": [
+        "Voie parentérale.",
+        "Voie inhalée.",
+        "Voie cutanée.",
+        "Voie sous-conjonctivale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans l’amibiase hépatique, le texte indique le métronidazole par voie parentérale à la dose de 2 g/j."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association clinique-localisation est la plus conforme au texte ?",
+      "choices": [
+        "Ténesmes et selles glairo-sanglantes : amibiase hépatique isolée.",
+        "Douleur de l’hypochondre droit et hépatomégalie : amibiase hépatique.",
+        "Fièvre brutale et hépatomégalie : forme diarrhéique colique simple.",
+        "Selles diarrhéiques atténuées : abcès hépatique amibien."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La douleur de l’hypochondre droit et l’hépatomégalie font partie des signes de l’amibiase hépatique. Les ténesmes et selles glairo-sanglantes relèvent de la forme dysentérique colique."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation une diarrhée infectieuse aiguë ne nécessite-t-elle généralement ni examen complémentaire ni antibiothérapie ?",
+      "choices": [
+        "Diarrhée sévère avec déshydratation.",
+        "Diarrhée dysentérique fébrile.",
+        "Diarrhée modérée, non sanglante, non dysentérique, évoluant depuis moins de 3 jours.",
+        "Diarrhée persistante en contexte épidémique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une diarrhée infectieuse aiguë modérée, non sanglante, non dysentérique, évoluant depuis moins de 3 jours, ne nécessite généralement ni examen complémentaire ni antibiothérapie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme explique la possibilité d’une atteinte hépatique ou pulmonaire au cours de l’amibiase ?",
+      "choices": [
+        "Migration hématogène.",
+        "Diffusion lymphatique exclusive obligatoire.",
+        "Inoculation cutanée directe.",
+        "Transmission respiratoire interhumaine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique qu’une migration hématogène peut survenir vers le foie ou le poumon."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle caractéristique macroscopique est attribuée à la collection purulente de l’abcès hépatique amibien ?",
+      "choices": [
+        "Couleur « chocolat ».",
+        "Aspect clair comme de l’eau de roche.",
+        "Aspect bilieux verdâtre constant.",
+        "Aspect caséeux sec."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’abcès hépatique amibien correspond à une collection liquidienne purulente de couleur « chocolat »."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour qualifier une diarrhée d’aiguë infectieuse selon les critères du texte, quels éléments peuvent être retenus ?",
+      "choices": [
+        "Une émission de selles liquides ou molles de début brutal",
+        "Un transit antérieurement normal",
+        "Une fréquence supérieure à 4 selles par jour",
+        "Une installation progressive sur plusieurs semaines"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diarrhée aiguë infectieuse est brutale, précédée d’un transit normal, avec plus de 4 selles/jour ou plus de 300 g/jour. Une installation sur plusieurs semaines n’est pas compatible avec la définition donnée."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la portée épidémiologique des diarrhées infectieuses, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "Elles sont fréquentes dans le monde",
+        "Elles constituent un problème de santé publique lorsque l’hygiène et l’accès à l’eau potable sont insuffisants",
+        "Elles sont toujours graves, quel que soit le terrain",
+        "Elles peuvent être bénignes"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les diarrhées infectieuses sont fréquentes et constituent un problème de santé publique surtout en contexte d’hygiène et d’eau potable insuffisantes. Elles peuvent être bénignes, mais graves chez les sujets fragiles."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels terrains exposent à une gravité accrue d’une diarrhée infectieuse par risque de déshydratation ?",
+      "choices": [
+        "Sujet dénutri",
+        "Patient infecté par le VIH",
+        "Personne âgée",
+        "Adulte jeune sans immunodépression ni dénutrition"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les nourrissons/enfants, personnes âgées, immunodéprimés, patients infectés par le VIH et sujets dénutris comme terrains fragiles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités de contamination des diarrhées aiguës infectieuses, quelles voies sont décrites ?",
+      "choices": [
+        "Ingestion d’eau contaminée",
+        "Ingestion d’aliments contaminés",
+        "Portage des mains souillées à la bouche",
+        "Transmission respiratoire par aérosols"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transmission est essentiellement oro-fécale par eau, aliments contaminés ou mains souillées. La transmission respiratoire n’est pas décrite."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une diarrhée sécrétoire cholériforme, quels éléments physiopathologiques sont attendus ?",
+      "choices": [
+        "Sécrétion d’une entérotoxine par le germe",
+        "Stimulation de l’adénylcyclase membranaire",
+        "Sécrétion massive d’eau et d’électrolytes dans la lumière intestinale",
+        "Destruction initiale de la muqueuse intestinale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome cholériforme repose sur une entérotoxine stimulant l’adénylcyclase, entraînant une sécrétion hydro-électrolytique massive sans destruction muqueuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le syndrome dysentérique infectieux, quels éléments sont compatibles avec le mécanisme invasif décrit ?",
+      "choices": [
+        "Envahissement de l’épithélium digestif",
+        "Destruction possible du tissu lymphoïde sous-muqueux",
+        "Présence possible d’épreintes et de ténesmes",
+        "Absence habituelle de fièvre et de douleurs abdominales"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diarrhée invasive implique l’envahissement et la destruction de l’épithélium digestif ou du tissu lymphoïde sous-muqueux, avec fièvre, douleurs, épreintes et ténesmes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le syndrome gastro-entéritique aigu à mécanisme mixte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il associe un mécanisme entéro-invasif et toxinogène",
+        "Le germe envahit l’entérocyte sans destruction initiale",
+        "La multiplication sous-muqueuse s’accompagne d’une réaction inflammatoire",
+        "La diffusion systémique est décrite uniquement chez le sujet sain"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le mécanisme mixte associe invasion et production toxinogène. Le risque de diffusion systémique concerne surtout les sujets immunodéprimés ou drépanocytaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations agent infectieux–catégorie, lesquelles sont cohérentes avec le texte ?",
+      "choices": [
+        "Cytomégalovirus — virus, notamment chez l’immunodéprimé",
+        "Entamoeba histolytica — parasite",
+        "Escherichia coli entéropathogène — bactérie",
+        "Dermatophytes — cause habituelle de diarrhée aiguë infectieuse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite le cytomégalovirus parmi les virus, Entamoeba histolytica parmi les parasites et E. coli entéropathogène parmi les bactéries. Les dermatophytes ne sont pas cités."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont individualisées comme contextes particuliers de diarrhée aiguë infectieuse ?",
+      "choices": [
+        "Diarrhée chez le patient infecté par le VIH",
+        "Diarrhée sous chimiothérapie",
+        "Diarrhée aiguë nosocomiale",
+        "Diarrhée post-traumatique isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les situations particulières mentionnées sont la diarrhée chez le patient infecté par le VIH, sous chimiothérapie et la diarrhée aiguë nosocomiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le choléra en tant qu’entité clinique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une infection intestinale aiguë due à Vibrio cholerae",
+        "Il donne typiquement une diarrhée aqueuse abondante et indolore",
+        "Les vomissements peuvent être associés",
+        "L’atteinte pulmonaire primitive constitue la présentation habituelle"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le choléra est une infection intestinale aiguë à Vibrio cholerae, responsable d’une diarrhée aqueuse abondante, indolore, souvent associée à des vomissements."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du réservoir et de l’excrétion de Vibrio cholerae, quelles affirmations sont justes ?",
+      "choices": [
+        "L’être humain est le seul réservoir naturel",
+        "Le germe peut être présent dans les selles des malades",
+        "Le germe peut être présent dans les selles des porteurs sains et des convalescents",
+        "Le réservoir naturel principal est animal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que l’être humain est le seul réservoir naturel et que le germe est présent dans les selles des malades, porteurs sains, convalescents et cadavres."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments favorisent ou permettent la transmission du choléra selon le texte ?",
+      "choices": [
+        "Eau ou aliments contaminés",
+        "Transmission interhumaine directe surtout en zone de forte endémie",
+        "Contact avec des cadavres contaminés",
+        "Accès permanent à l’eau potable comme facteur de risque"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transmission peut être indirecte par eau/aliments contaminés ou directe interhumaine. Le contact avec des cadavres contaminés est un facteur favorisant. L’accès à l’eau potable est une mesure préventive."
+    },
+    {
+      "type": "QCM",
+      "question": "À la phase d’état du choléra, quels signes peuvent être observés ?",
+      "choices": [
+        "Selles aqueuses en « eau de riz »",
+        "Déshydratation profonde",
+        "Collapsus cardiovasculaire possible",
+        "Fièvre élevée constante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase d’état associe diarrhée très contagieuse, selles en eau de riz, déshydratation profonde, altération de l’état général et collapsus possible. La fièvre est habituellement absente."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures relèvent de la prévention ou de la prophylaxie du choléra dans le texte ?",
+      "choices": [
+        "Déclaration de la maladie",
+        "Désinfection générale",
+        "Hygiène individuelle et collective avec accès à l’eau potable",
+        "Vaccination obligatoire systématique de tous les contacts"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prévention/prophylaxie comprend déclaration, isolement, désinfection générale, hygiène individuelle et collective, accès à l’eau potable et contrôle des aliments. La vaccination obligatoire des contacts n’est pas mentionnée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil pondéral quotidien participe à la définition d’une diarrhée trop abondante ?",
+      "choices": [
+        "Plus de 100 g par jour",
+        "Plus de 200 g par jour",
+        "Plus de 300 g par jour",
+        "Plus de 500 g par jour"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte retient une émission de selles trop abondantes lorsqu’elle dépasse 300 g par jour."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la limite supérieure de l’incubation du choléra indiquée dans le texte ?",
+      "choices": [
+        "24 heures",
+        "48 heures",
+        "5 jours",
+        "14 jours"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’incubation du choléra est de quelques heures à 5 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Lorsque le choléra devient symptomatique, quelle proportion des épisodes est décrite comme bénigne ou modérée ?",
+      "choices": [
+        "Moins de 10 %",
+        "Environ 25 %",
+        "Plus de 50 %",
+        "Plus de 90 %"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte indique que plus de 90 % des épisodes sont bénins ou modérés lorsque la maladie survient."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la chronologie clinique du choléra, à quel moment la diarrhée est-elle décrite comme d’abord fécale puis afécale ?",
+      "choices": [
+        "Pendant l’incubation asymptomatique",
+        "Au début clinique",
+        "Uniquement après réhydratation",
+        "Pendant la convalescence"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le début du choléra est brutal avec asthénie, douleurs abdominales et diarrhée d’abord fécale puis afécale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition résume le mieux la place de la confirmation biologique dans le diagnostic du choléra ?",
+      "choices": [
+        "Elle est indispensable dans tous les cas avant de débuter la réhydratation",
+        "Elle est réalisée si disponible, en complément des arguments épidémiologiques et cliniques",
+        "Elle remplace totalement l’évaluation clinique",
+        "Elle n’a aucun intérêt diagnostique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le diagnostic repose sur des arguments épidémiologiques et cliniques, avec confirmation biologique si disponible."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’amibiase, quelle atteinte est décrite comme la plus fréquente ?",
+      "choices": [
+        "Atteinte colique",
+        "Atteinte pulmonaire",
+        "Atteinte cérébrale",
+        "Atteinte cutanée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que l’atteinte colique est la plus fréquente, même si des localisations extra-intestinales, notamment hépatiques et pulmonaires, peuvent survenir."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le passage de la contamination à l’amibiase-maladie, quelles propositions respectent l’enchaînement décrit ?",
+      "choices": [
+        "Le parasite pénètre dans le tube digestif sous forme kystique.",
+        "L’infection asymptomatique correspond à une amibiase-maladie.",
+        "L’invasion de la muqueuse intestinale est responsable d’ulcérations de la paroi colique.",
+        "La migration hématogène peut conduire à une atteinte hépatique."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Après contamination, Entamoeba histolytica pénètre sous forme kystique. L’infection asymptomatique est une amibiase-infestation. L’amibiase-maladie implique une invasion muqueuse avec ulcérations coliques et peut évoluer par migration hématogène, notamment vers le foie."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient présentant une amibiase colique aiguë, quels éléments appartiennent au tableau dysentérique plutôt qu’au tableau diarrhéique atténué ?",
+      "choices": [
+        "Épreintes.",
+        "Ténesmes.",
+        "Selles afécales glairo-sanglantes.",
+        "Selles simplement diarrhéiques avec coliques intestinales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme dysentérique aiguë associe notamment épreintes, ténesmes et selles afécales glairo-sanglantes. Les selles diarrhéiques avec coliques intestinales relèvent de la forme diarrhéique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la forme diarrhéique de l’amibiase colique aiguë, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est décrite comme plus fréquente.",
+        "Elle correspond à un tableau atténué.",
+        "Elle peut comporter des coliques intestinales.",
+        "Elle se définit par des selles afécales glairo-sanglantes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme diarrhéique est plus fréquente, atténuée, avec coliques intestinales et selles diarrhéiques. Les selles afécales glairo-sanglantes caractérisent la forme dysentérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un contexte d’amibiase, quels éléments orientent vers une localisation hépatique ?",
+      "choices": [
+        "Fièvre brutale parfois anarchique.",
+        "Douleur de l’hypochondre droit.",
+        "Hépatomégalie.",
+        "Température normale avec état général conservé comme règle commune."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amibiase hépatique se manifeste par fièvre brutale parfois anarchique, douleur de l’hypochondre droit, altération de l’état général et hépatomégalie. La température normale et l’état général conservé sont des caractéristiques communes de l’amibiase colique aiguë."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’abcès hépatique amibien, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Il correspond à une complication de l’amibiase hépatique.",
+        "Il s’agit d’une collection liquidienne purulente.",
+        "La collection peut être de couleur « chocolat ».",
+        "Le drainage chirurgical est systématique d’emblée dans tous les cas."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’abcès hépatique amibien est une complication, correspondant à une collection liquidienne purulente de couleur chocolat. Le drainage chirurgical n’est prévu qu’en cas d’évolution défavorable."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels peuvent participer à l’orientation diagnostique ou épidémiologique d’une amibiase ?",
+      "choices": [
+        "Séjour ou vie en zone d’endémie.",
+        "Contact avec un sujet malade.",
+        "Contact avec des selles contaminées.",
+        "Numération formule sanguine normale excluant le diagnostic."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La notion de séjour ou de vie en zone d’endémie, le contact avec un malade ou ses selles contaminées sont utiles. Une NFS peut être normale et n’exclut donc pas l’amibiase."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une diarrhée infectieuse aiguë, quelles situations imposent une démarche d’examens complémentaires selon le texte ?",
+      "choices": [
+        "Diarrhée sévère.",
+        "Syndrome dysentérique.",
+        "Diarrhée nosocomiale.",
+        "Diarrhée modérée non sanglante et non dysentérique évoluant depuis moins de 3 jours."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les examens complémentaires sont indiqués en cas de diarrhée sévère, syndrome dysentérique ou diarrhée nosocomiale. Une diarrhée modérée, non sanglante, non dysentérique, de moins de 3 jours ne nécessite généralement pas d’examens."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels contextes doivent faire envisager des examens complémentaires devant une diarrhée infectieuse aiguë ?",
+      "choices": [
+        "Déshydratation.",
+        "Terrain fragile ou immunodépression.",
+        "Suspicion de choléra.",
+        "État général conservé et température normale dans une amibiase colique aiguë."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Déshydratation, terrain fragile ou immunodépression, et suspicion de choléra font partie des indications d’examens complémentaires. L’état général conservé et la température normale sont des caractéristiques communes de l’amibiase colique aiguë, non des indications spécifiques d’examens dans ce passage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’antibiothérapie et le traitement spécifique dans les situations décrites, quelles propositions sont exactes ?",
+      "choices": [
+        "Une diarrhée infectieuse aiguë modérée, non sanglante, non dysentérique et récente ne justifie généralement pas d’antibiothérapie.",
+        "Un traitement spécifique est réalisé lorsqu’il est indiqué.",
+        "Toute diarrhée infectieuse aiguë impose une antibiothérapie d’emblée.",
+        "Dans l’amibiase hépatique, une antibiothérapie peut être associée si nécessaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’antibiothérapie n’est pas systématique. Elle n’est généralement pas indiquée dans une diarrhée modérée récente non sanglante non dysentérique. Le traitement spécifique est utilisé lorsqu’il est indiqué, et une antibiothérapie associée peut être nécessaire dans l’amibiase hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles priorités doivent toujours structurer la prise en charge d’une diarrhée infectieuse aiguë selon le texte ?",
+      "choices": [
+        "Évaluation de la gravité.",
+        "Correction de la déshydratation.",
+        "Prévention de la transmission.",
+        "Drainage chirurgical systématique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prise en charge repose toujours sur l’évaluation de la gravité, la correction de la déshydratation, le traitement spécifique lorsqu’il est indiqué et la prévention de la transmission. Le drainage chirurgical ne concerne que l’abcès hépatique amibien en évolution défavorable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités du métronidazole dans l’amibiase, quelles associations sont correctes ?",
+      "choices": [
+        "Amibiase colique : métronidazole per os.",
+        "Amibiase colique : 30 mg/kg/j pendant 7 à 10 jours.",
+        "Amibiase hépatique : métronidazole par voie parentérale.",
+        "Amibiase hépatique : métronidazole per os à 30 mg/kg/j pendant 7 à 10 jours comme seule modalité citée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amibiase colique est traitée par métronidazole per os à 30 mg/kg/j pendant 7 à 10 jours. L’amibiase hépatique relève du métronidazole par voie parentérale à 2 g/j."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les diagnostics différentiels cités, quelles associations avec la présentation clinique sont cohérentes ?",
+      "choices": [
+        "Salmonelloses mineures devant un tableau digestif.",
+        "Shigellose devant un tableau digestif.",
+        "Abcès hépatique à pyogènes devant une atteinte hépatique.",
+        "Kyste hydatique infecté devant une atteinte hépatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les diagnostics différentiels mentionnés sont les salmonelloses mineures, la shigellose, l’abcès hépatique à pyogènes et le kyste hydatique infecté."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures relèvent de la prévention de l’amibiase et de la lutte contre la contamination féco-orale ?",
+      "choices": [
+        "Accès à l’eau potable.",
+        "Assainissement.",
+        "Lavage des mains.",
+        "Métronidazole systématique chez tout contact."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prévention repose sur l’hygiène individuelle et collective, l’accès à l’eau potable, l’assainissement, le lavage des mains et le contrôle de la contamination alimentaire. Le texte ne propose pas de métronidazole systématique chez les contacts."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution de l’amibiase colique aiguë, quelles propositions sont exactes ?",
+      "choices": [
+        "L’évolution est favorable sous traitement.",
+        "Un traitement insuffisant expose à une localisation tissulaire.",
+        "La localisation hépatique est notamment redoutée en cas de traitement insuffisant.",
+        "L’évolution défavorable impose toujours une atteinte pulmonaire avant l’atteinte hépatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amibiase colique évolue favorablement sous traitement. En cas de traitement insuffisant, elle peut évoluer vers une localisation tissulaire, notamment hépatique. Le texte ne décrit pas de passage pulmonaire obligatoire avant le foie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel enchaînement correspond le mieux à la physiopathologie de l’amibiase-maladie intestinale ?",
+      "choices": [
+        "Forme kystique digestive, invasion muqueuse, ulcérations coliques.",
+        "Sérologie positive, température normale, abcès à pyogènes.",
+        "Contact avec un sujet malade, hépatomégalie, kyste hydatique infecté.",
+        "Déshydratation, suspicion de choléra, diarrhée nosocomiale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’amibiase-maladie intestinale survient lorsque le parasite devient invasif, envahit la muqueuse intestinale et provoque des ulcérations de la paroi colique."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une diarrhée infectieuse aiguë, quel élément suffit à faire sortir le patient du cadre ne nécessitant généralement ni examen complémentaire ni antibiothérapie ?",
+      "choices": [
+        "Évolution depuis moins de 3 jours.",
+        "Absence de sang dans les selles.",
+        "Syndrome dysentérique.",
+        "Caractère modéré de la diarrhée."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le syndrome dysentérique est une indication d’examens complémentaires. À l’inverse, une diarrhée modérée, non sanglante, non dysentérique et évoluant depuis moins de 3 jours ne nécessite généralement ni examen ni antibiothérapie."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’amibiase viscérale, quel résultat paraclinique est spécifiquement cité comme argument diagnostique ?",
+      "choices": [
+        "Parasitologie des selles positive.",
+        "Sérologie positive.",
+        "Numération formule sanguine constamment anormale.",
+        "Contrôle de la contamination alimentaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La sérologie positive est citée pour l’amibiase viscérale. La parasitologie des selles permet de mettre en évidence l’amibe dans l’amibiase intestinale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément clinique est le plus évocateur d’une atteinte hépatique amibienne parmi les propositions suivantes ?",
+      "choices": [
+        "Ténesmes.",
+        "Épreintes.",
+        "Douleur de l’hypochondre droit.",
+        "Selles diarrhéiques isolées."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La douleur de l’hypochondre droit fait partie des signes de l’amibiase hépatique. Les ténesmes et épreintes orientent vers la forme dysentérique colique."
+    },
+    {
+      "type": "QCS",
+      "question": "Après traitement médical d’une amibiase hépatique compliquée d’abcès, quelle situation justifie le drainage chirurgical selon le texte ?",
+      "choices": [
+        "Évolution favorable sous traitement.",
+        "Évolution défavorable de l’abcès.",
+        "Température normale.",
+        "Amibiase-infestation asymptomatique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le drainage chirurgical de l’abcès hépatique amibien est indiqué en cas d’évolution défavorable."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement une situation où la numération formule sanguine ne permet pas d’éliminer une amibiase ?",
+      "choices": [
+        "La numération formule sanguine est parfois normale.",
+        "La numération formule sanguine est toujours normale.",
+        "La numération formule sanguine remplace la sérologie dans l’amibiase viscérale.",
+        "La numération formule sanguine remplace la parasitologie des selles dans l’amibiase intestinale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la numération formule sanguine peut être parfois normale ; elle ne permet donc pas d’exclure le diagnostic et ne remplace ni la sérologie ni la parasitologie des selles."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles restent compatibles avec la définition textuelle d’une diarrhée aiguë infectieuse ?",
+      "choices": [
+        "Émission brutale de 5 selles liquides par jour, précédée d’un transit normal, avec résolution en 9 jours.",
+        "Émission brutale de 4 selles molles par jour, sans notion d’abondance supérieure à 300 g/j.",
+        "Émission brutale de 6 selles liquides par jour, précédée d’un transit normal, évoluant depuis 12 jours.",
+        "Émission de 5 selles liquides par jour, d’installation progressive, sur un transit déjà perturbé."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte définit la diarrhée aiguë infectieuse par des selles liquides ou molles trop fréquentes, plus de 4/j, ou trop abondantes, d’apparition brutale, précédées d’un transit normal, habituellement résolutives en 8 à 14 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les critères quantitatifs et évolutifs de la diarrhée aiguë infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Une fréquence supérieure à 4 selles par jour est un critère de selles trop fréquentes.",
+        "Un poids de selles supérieur à 300 g par jour est un critère de selles trop abondantes.",
+        "L’évolution habituelle se fait vers la résolution en 8 à 14 jours.",
+        "Au-delà de 14 jours, la diarrhée reste toujours classée comme aiguë selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte retient plus de 4 selles/j, plus de 300 g/j, une apparition brutale et une résolution habituelle en 8 à 14 jours. Au-delà, il s’agit d’une diarrhée persistante."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une diarrhée infectieuse, quels profils sont explicitement considérés comme fragiles du fait du risque de déshydratation ?",
+      "choices": [
+        "Nourrissons et enfants.",
+        "Personnes âgées.",
+        "Sujets dénutris.",
+        "Adultes jeunes immunocompétents sans dénutrition."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les sujets fragiles cités sont les nourrissons et enfants, les personnes âgées, les immunodéprimés, les patients infectés par le VIH et les sujets dénutris."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles modalités de transmission oro-fécale des diarrhées aiguës infectieuses sont décrites dans le texte ?",
+      "choices": [
+        "Ingestion d’eau contaminée.",
+        "Ingestion d’aliments contaminés.",
+        "Contact avec des mains souillées.",
+        "Transmission aérienne par aérosols respiratoires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transmission est essentiellement oro-fécale par eau contaminée, aliments contaminés ou mains souillées. La transmission aérienne n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lésions digestives selon le mécanisme physiopathologique, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans le mécanisme sécrétoire, il existe une sécrétion massive d’eau et d’électrolytes sans destruction de la muqueuse.",
+        "Dans le mécanisme invasif, il existe un envahissement et une destruction de l’épithélium digestif ou du tissu lymphoïde sous-muqueux.",
+        "Dans le mécanisme mixte, le germe envahit l’entérocyte sans destruction initiale.",
+        "Dans le mécanisme sécrétoire, la lésion initiale repose sur une multiplication sous-muqueuse inflammatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diarrhée sécrétoire respecte la muqueuse ; la diarrhée invasive détruit l’épithélium ou le tissu lymphoïde sous-muqueux ; le mécanisme mixte débute par une invasion entérocytaire sans destruction initiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un syndrome cholériforme, quels éléments cliniques sont attendus selon le texte ?",
+      "choices": [
+        "Selles hydriques abondantes.",
+        "Diarrhée profuse.",
+        "Vomissements possibles.",
+        "Ténesmes constants avec selles purulentes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome cholériforme comporte des selles hydriques abondantes, une diarrhée profuse, des vomissements possibles, peu ou pas de fièvre et des douleurs absentes ou modérées. Les ténesmes avec selles purulentes relèvent plutôt du syndrome dysentérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une diarrhée invasive de type syndrome dysentérique, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les selles peuvent être glairo-sanglantes ou purulentes.",
+        "Les épreintes et les ténesmes font partie du tableau clinique.",
+        "Les complications possibles comprennent perforation digestive, hémorragie et colectasie.",
+        "Le tableau typique est une diarrhée aqueuse indolore sans fièvre."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome dysentérique associe selles glairo-sanglantes ou purulentes, fièvre, douleurs abdominales importantes, épreintes et ténesmes. Ses complications possibles sont perforation, hémorragie et colectasie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du syndrome gastro-entéritique aigu à mécanisme mixte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il associe un mécanisme entéro-invasif et un mécanisme toxinogène.",
+        "Le germe envahit l’entérocyte sans destruction initiale.",
+        "La multiplication dans la sous-muqueuse s’accompagne d’une réaction inflammatoire.",
+        "La diffusion systémique concerne uniquement les diarrhées cholériformes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le mécanisme mixte combine invasion et toxines, avec invasion entérocytaire sans destruction initiale puis multiplication sous-muqueuse inflammatoire. Le risque de diffusion systémique est décrit dans ce mécanisme, surtout chez l’immunodéprimé ou le drépanocytaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les agents étiologiques mentionnés, quelles propositions sont exactes ?",
+      "choices": [
+        "Salmonella fait partie des bactéries citées.",
+        "Le cytomégalovirus est cité parmi les virus, notamment chez l’immunodéprimé.",
+        "Entamoeba histolytica est cité parmi les parasites.",
+        "Les champignons sont décrits comme fréquents chez les sujets immunocompétents."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite notamment Salmonella parmi les bactéries, le cytomégalovirus parmi les virus surtout chez l’immunodéprimé, et Entamoeba histolytica parmi les parasites. Les champignons sont plus rares, surtout chez les patients infectés par le VIH."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont explicitement individualisées comme particulières dans les diarrhées aiguës infectieuses ?",
+      "choices": [
+        "Diarrhée chez le patient infecté par le VIH.",
+        "Diarrhée sous chimiothérapie.",
+        "Diarrhée aiguë nosocomiale.",
+        "Diarrhée du voyageur comme entité individualisée dans ce texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les situations particulières citées sont la diarrhée chez le patient infecté par le VIH, la diarrhée sous chimiothérapie et la diarrhée aiguë nosocomiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’expression clinique générale du choléra, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une infection intestinale aiguë due à Vibrio cholerae.",
+        "Il entraîne une diarrhée aqueuse, abondante et indolore, souvent associée à des vomissements.",
+        "En l’absence de traitement rapide, il peut évoluer vers une déshydratation sévère et le décès.",
+        "La majorité des sujets infectés développent un choléra typique avec déshydratation grave."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le choléra est dû à Vibrio cholerae et provoque une diarrhée aqueuse abondante indolore, souvent avec vomissements. Sans traitement rapide, il peut être mortel par déshydratation sévère. La plupart des sujets infectés restent asymptomatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transmission et les facteurs favorisants du choléra, quelles propositions sont exactes ?",
+      "choices": [
+        "La transmission indirecte peut se faire par eau ou aliments contaminés.",
+        "La transmission interhumaine directe est décrite, surtout en zone de forte endémie.",
+        "La promiscuité, la dénutrition et le contact avec des cadavres contaminés sont des facteurs favorisants.",
+        "Le réservoir naturel principal est animal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le choléra se transmet indirectement par eau ou aliments contaminés, et directement d’homme à homme surtout en zone de forte endémie. Les facteurs favorisants cités incluent mauvaises conditions d’hygiène, absence d’eau potable, promiscuité, dénutrition et contact avec des cadavres contaminés. L’être humain est le seul réservoir naturel."
+    },
+    {
+      "type": "QCM",
+      "question": "À la phase d’état du choléra, quels éléments sont décrits ?",
+      "choices": [
+        "Diarrhée très contagieuse, souvent 5 à 10 selles par jour.",
+        "Selles aqueuses typiques en « eau de riz ».",
+        "Déshydratation profonde avec collapsus cardiovasculaire possible.",
+        "Fièvre élevée constante avec altération obligatoire de la conscience."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase d’état associe diarrhée très contagieuse, souvent 5 à 10 selles/j, selles en eau de riz, vomissements possibles, déshydratation profonde, altération de l’état général et collapsus possible. La conscience est conservée et la fièvre habituellement absente."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge thérapeutique du choléra, quelles mesures sont conformes au texte ?",
+      "choices": [
+        "Installation et isolement du malade.",
+        "Réhydratation orale ou intraveineuse selon la sévérité.",
+        "Correction des troubles hydro-électrolytiques.",
+        "Antibiothérapie par tétracyclines comme substitut à la réhydratation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement repose principalement sur une réhydratation précoce adaptée à la gravité, associée à l’isolement, à la correction hydro-électrolytique et éventuellement à une antibiothérapie complémentaire. L’antibiothérapie ne remplace pas la réhydratation."
+    },
+    {
+      "type": "QCS",
+      "question": "À partir de quelle évolution temporelle une diarrhée n’est-elle plus considérée comme aiguë mais persistante selon le texte ?",
+      "choices": [
+        "Au-delà de 48 heures.",
+        "Au-delà de 5 jours.",
+        "Au-delà de 14 jours.",
+        "Au-delà de 30 jours."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La diarrhée aiguë infectieuse est habituellement résolutive en 8 à 14 jours. Au-delà de cette durée, elle est considérée comme persistante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel tableau correspond le mieux à la phase d’état d’un choléra typique ?",
+      "choices": [
+        "Selles glairo-sanglantes, ténesmes et douleurs abdominales importantes.",
+        "Diarrhée en eau de riz, déshydratation profonde et absence habituelle de fièvre.",
+        "Diarrhée chronique fluctuante évoluant sur plusieurs mois.",
+        "Syndrome fébrile isolé sans vomissements ni diarrhée."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La phase d’état du choléra comporte des selles aqueuses typiques en eau de riz, une déshydratation profonde, des vomissements possibles, une conscience conservée et une absence habituelle de fièvre."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme moléculaire explique la diarrhée sécrétoire cholériforme décrite dans le texte ?",
+      "choices": [
+        "Inhibition de l’adénylcyclase membranaire.",
+        "Stimulation de l’adénylcyclase membranaire avec dérèglement des transports ioniques.",
+        "Destruction initiale massive de l’épithélium colique.",
+        "Obstruction lymphatique intestinale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La diarrhée sécrétoire repose sur une stimulation de l’adénylcyclase membranaire, entraînant un dérèglement des transports ioniques avec sécrétion massive d’eau et d’électrolytes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le seul réservoir naturel du choléra selon le texte ?",
+      "choices": [
+        "L’eau douce stagnante.",
+        "Les crustacés.",
+        "L’être humain.",
+        "Les animaux domestiques."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que l’être humain est le seul réservoir naturel de Vibrio cholerae."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la place de la confirmation biologique dans le diagnostic du choléra selon le texte ?",
+      "choices": [
+        "Elle remplace les arguments cliniques et épidémiologiques.",
+        "Elle est réalisée si disponible, en complément des arguments épidémiologiques et cliniques.",
+        "Elle est inutile dans tous les cas.",
+        "Elle est obligatoire avant toute réhydratation."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le diagnostic du choléra repose sur les arguments épidémiologiques et cliniques, avec confirmation biologique si disponible. La réhydratation ne doit pas attendre une confirmation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle localisation extra-intestinale de l’amibiase est explicitement citée en plus de l’atteinte hépatique ?",
+      "choices": [
+        "Pulmonaire.",
+        "Rénale.",
+        "Osseuse.",
+        "Cutanée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que l’atteinte colique est la plus fréquente, mais que des localisations extra-intestinales peuvent survenir, notamment hépatiques et pulmonaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les scénarios de transmission d’Entamoeba histolytica, lesquels sont conformes au texte ?",
+      "choices": [
+        "Contact direct avec un malade ou ses selles contaminées",
+        "Ingestion d’eau souillée par des selles",
+        "Ingestion d’aliments souillés par des selles",
+        "Transmission par piqûre d’un vecteur hématophage"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transmission peut être directe par contact avec un malade ou ses selles, ou indirecte par ingestion d’eau ou d’aliments souillés. Aucun vecteur hématophage n’est mentionné."
+    },
+    {
+      "type": "QCM",
+      "question": "Après pénétration digestive d’Entamoeba histolytica sous forme kystique, quelles évolutions sont compatibles avec le texte ?",
+      "choices": [
+        "Une infection asymptomatique correspondant à une amibiase-infestation",
+        "Une invasion de la muqueuse intestinale avec amibiase-maladie",
+        "Une migration hématogène possible vers le foie ou le poumon",
+        "Une atteinte obligatoire d’emblée pulmonaire isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’infection peut rester asymptomatique ou devenir invasive avec atteinte colique, puis éventuellement migration hématogène vers le foie ou le poumon. L’atteinte pulmonaire obligatoire d’emblée n’est pas décrite."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le continuum physiopathologico-clinique de l’amibiase-maladie intestinale, quels éléments sont décrits ?",
+      "choices": [
+        "Invasion de la muqueuse intestinale",
+        "Ulcérations de la paroi colique",
+        "Expression clinique possible sous forme colique aiguë",
+        "Migration préférentielle vers le rein"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amibiase-maladie résulte de l’invasion muqueuse, responsable d’ulcérations coliques et d’une expression colique aiguë. Les localisations hématogènes citées sont le foie et le poumon, pas le rein."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour différencier une amibiase colique aiguë d’une localisation hépatique, quelles oppositions sont conformes au texte ?",
+      "choices": [
+        "La température est généralement normale dans l’amibiase colique aiguë, alors qu’une fièvre brutale peut accompagner l’atteinte hépatique",
+        "L’état général est généralement conservé dans l’amibiase colique aiguë, alors qu’il peut être altéré dans l’amibiase hépatique",
+        "La douleur de l’hypochondre droit et l’hépatomégalie orientent vers l’atteinte hépatique",
+        "Une fièvre élevée est constante dans toute amibiase colique aiguë"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amibiase colique aiguë garde souvent un état général conservé avec température normale. L’atteinte hépatique associe fièvre, douleur de l’hypochondre droit, altération de l’état général et hépatomégalie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la forme diarrhéique de l’amibiase colique aiguë, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est décrite comme plus fréquente",
+        "Elle correspond à un tableau atténué",
+        "Elle comporte des coliques intestinales avec selles diarrhéiques",
+        "Elle se définit par des selles afécales glairo-sanglantes au premier plan"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme diarrhéique est plus fréquente, atténuée, avec coliques intestinales et selles diarrhéiques. Les selles afécales glairo-sanglantes relèvent de la forme dysentérique aiguë."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes appartiennent à la forme dysentérique aiguë de l’amibiase colique ?",
+      "choices": [
+        "Début brutal",
+        "Épreintes et ténesmes",
+        "Douleurs abdominales",
+        "Hépatomégalie constante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme dysentérique aiguë comporte un début brutal, des douleurs abdominales, des épreintes, des ténesmes et des selles afécales glairo-sanglantes. L’hépatomégalie est un signe d’amibiase hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’abcès hépatique amibien, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "Il constitue une complication de l’amibiase hépatique",
+        "Il correspond à une collection liquidienne purulente de couleur « chocolat »",
+        "Il peut nécessiter un drainage chirurgical en cas d’évolution défavorable",
+        "Il est éliminé par une numération formule sanguine normale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’abcès hépatique amibien est une complication de l’amibiase hépatique, avec pus couleur chocolat, et peut être drainé si l’évolution est défavorable. La NFS peut être normale et n’élimine pas l’amibiase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les examens utilisés dans le diagnostic de l’amibiase, quelles propositions sont exactes ?",
+      "choices": [
+        "La parasitologie des selles recherche l’amibe dans l’amibiase intestinale",
+        "Une sérologie positive est un argument dans l’amibiase viscérale",
+        "La numération formule sanguine peut être normale",
+        "Une numération formule sanguine normale exclut une amibiase viscérale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La parasitologie des selles est utile dans l’atteinte intestinale, la sérologie dans l’atteinte viscérale, et la NFS peut être normale. Elle ne permet donc pas d’exclure le diagnostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une présentation évoquant une collection hépatique, quels diagnostics différentiels cités dans le texte doivent être discutés ?",
+      "choices": [
+        "Abcès hépatique à pyogènes",
+        "Kyste hydatique infecté",
+        "Shigellose",
+        "Salmonellose mineure"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Dans une présentation hépatique abcédée, les diagnostics différentiels cités sont l’abcès hépatique à pyogènes et le kyste hydatique infecté. La shigellose et les salmonelloses mineures sont des diagnostics différentiels digestifs."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un tableau digestif infectieux pouvant mimer une amibiase intestinale, quels diagnostics différentiels cités sont pertinents ?",
+      "choices": [
+        "Salmonelloses mineures",
+        "Shigellose",
+        "Abcès hépatique à pyogènes",
+        "Kyste hydatique infecté"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les salmonelloses mineures et la shigellose peuvent discuter un tableau intestinal. L’abcès hépatique à pyogènes et le kyste hydatique infecté relèvent plutôt du différentiel hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations contextuelles imposent des examens complémentaires devant une diarrhée infectieuse aiguë selon le texte ?",
+      "choices": [
+        "Suspicion de choléra",
+        "Contexte épidémique",
+        "Diarrhée nosocomiale",
+        "Diarrhée persistante"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les examens complémentaires sont indiqués en cas de suspicion de choléra, contexte épidémique, diarrhée nosocomiale ou diarrhée persistante."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations cliniques font indiquer des examens complémentaires devant une diarrhée infectieuse aiguë ?",
+      "choices": [
+        "Fièvre élevée",
+        "Déshydratation",
+        "Terrain fragile ou immunodépression",
+        "Diarrhée modérée non sanglante et non dysentérique évoluant depuis moins de 3 jours"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Fièvre élevée, déshydratation, terrain fragile ou immunodépression justifient des examens complémentaires. Une diarrhée modérée, non sanglante, non dysentérique, de moins de 3 jours n’en nécessite généralement pas."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles priorités structurent toujours la prise en charge d’une diarrhée infectieuse aiguë ?",
+      "choices": [
+        "Évaluation de la gravité",
+        "Correction de la déshydratation",
+        "Traitement spécifique lorsqu’il est indiqué",
+        "Prévention de la transmission"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La prise en charge repose toujours sur l’évaluation de la gravité, la correction de la déshydratation, le traitement spécifique si indiqué et la prévention de la transmission."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’adaptation du traitement à la localisation de l’amibiase, quelles propositions sont correctes ?",
+      "choices": [
+        "Dans l’amibiase colique, le métronidazole est administré per os à 30 mg/kg/j",
+        "Dans l’amibiase colique, la durée mentionnée est de 7 à 10 jours",
+        "Dans l’amibiase hépatique, le métronidazole est administré par voie parentérale à 2 g/j",
+        "Dans l’amibiase colique simple, le drainage chirurgical est systématique d’emblée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’amibiase colique relève du métronidazole per os 30 mg/kg/j pendant 7 à 10 jours. L’amibiase hépatique relève du métronidazole parentéral 2 g/j. Le drainage concerne l’abcès hépatique en cas d’évolution défavorable."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le réservoir d’Entamoeba histolytica mentionné dans le texte ?",
+      "choices": [
+        "Humain",
+        "Tellurique",
+        "Animal domestique",
+        "Hydrique strict"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que le réservoir d’Entamoeba histolytica est humain."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient présente une diarrhée aiguë modérée, non sanglante, non dysentérique, évoluant depuis 48 heures, sans signe de gravité mentionné. Quelle conduite générale est conforme au texte ?",
+      "choices": [
+        "Coproculture systématique et antibiothérapie probabiliste",
+        "Sérologie amibienne systématique",
+        "Absence habituelle d’examen complémentaire et d’antibiothérapie",
+        "Drainage chirurgical préventif"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une diarrhée infectieuse aiguë modérée, non sanglante, non dysentérique et évoluant depuis moins de 3 jours ne nécessite généralement ni examen complémentaire ni antibiothérapie."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une suspicion d’amibiase viscérale, quel argument biologique est spécifiquement cité pour le diagnostic positif ?",
+      "choices": [
+        "Parasitologie des selles positive uniquement",
+        "Sérologie positive",
+        "Numération formule sanguine constamment anormale",
+        "Hémoculture positive"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans l’amibiase viscérale, le texte cite la sérologie positive comme argument diagnostique."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient ayant reçu un traitement insuffisant pour une amibiase colique, quelle évolution est particulièrement redoutée selon le texte ?",
+      "choices": [
+        "Guérison spontanée systématique sans risque",
+        "Transformation en shigellose",
+        "Localisation tissulaire, notamment hépatique",
+        "Atteinte rénale préférentielle"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "En cas de traitement insuffisant, l’amibiase colique peut évoluer vers une localisation tissulaire, notamment hépatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité thérapeutique appartient au traitement de l’amibiase hépatique selon le texte ?",
+      "choices": [
+        "Métronidazole per os 30 mg/kg/j pendant 7 à 10 jours uniquement",
+        "Traitement exclusivement symptomatique",
+        "Absence d’antibiothérapie associée en toute circonstance",
+        "Métronidazole par voie parentérale à 2 g/j"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’amibiase hépatique relève du métronidazole par voie parentérale à 2 g/j, avec antibiothérapie associée si nécessaire et drainage en cas d’évolution défavorable de l’abcès."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les situations suivantes, laquelle suffit à classer une diarrhée infectieuse aiguë parmi celles nécessitant des examens complémentaires selon le texte ?",
+      "choices": [
+        "Diarrhée non sanglante modérée depuis 24 heures",
+        "Diarrhée nosocomiale",
+        "Température normale avec bon état général",
+        "Selles diarrhéiques isolées sans syndrome dysentérique depuis moins de 3 jours"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La diarrhée nosocomiale fait partie des indications d’examens complémentaires. Les autres situations proposées correspondent à des formes modérées sans critère d’examen systématique."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-04T01:14:58.726Z"
+}

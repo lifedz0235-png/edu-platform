@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>PCR - Plateforme médicale</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/home.css">
+</head>
+
+<body class="pcr-pro-home">
+
+  <nav class="pro-nav">
+    <a class="pro-brand" href="./index.html">
+      <span>🧬</span>
+      <strong>PCR</strong>
+    </a>
+
+    <div class="pro-menu">
+      <a
+  href="/pages/profile/profile.html"
+  class="nav-link nav-profile-link"
+>
+  <span id="navProfileAvatar" class="nav-profile-avatar">
+    P
+  </span>
+
+  <span id="navProfileName">
+    Profil
+  </span>
+</a>
+      <a class="active" href="./index.html">Accueil</a>
+      <a href="./pages/modules/modules.html?category=biologie">Cours</a>
+      <a href="./pages/community/community.html">Communauté</a>
+      <a
+  id="adminNavBtn"
+  href="/pages/admin/admin.html"
+  class="nav-btn"
+  style="display: none;"
+>
+  👑 Admin
+</a>
+      <a href="#">EXAMEN TYPE</a>
+    <button id="logoutBtn" class="logout-btn">Déconnexion</button>
+      <a href="./pages/dashboard/dashboard.html">Dashboard</a>
+    </div>
+  </nav>
+
+  <main class="pro-page">
+
+    <section class="pro-hero">
+      <div class="pro-left">
+
+        <div class="trust-row">
+          <span class="avatars">👨‍⚕️👩‍⚕️👨‍⚕️</span>
+          <span class="stars">★★★★★</span>
+          <span>les étudiants nous font confiance</span>
+        </div>
+
+        <h1>
+          Préparez votre<br>
+          résidanat
+        
+        </h1>
+
+        <p>
+          Plus de 229 cours, des milliers de QCM,<br>
+          des supports PDF et un suivi intelligent.
+        </p>
+
+        <div class="pro-actions">
+          <a class="pro-btn gold" href="./pages/modules/modules.html?category=biologie">▶ Continuer</a>
+          <a class="pro-btn dark" href="./pages/dashboard/dashboard.html">▮ Dashboard</a>
+          <a class="pro-btn ai" href="#">✦ IA → <small>NOUVEAU</small></a>
+        </div>
+
+        <div class="pro-stats">
+          <div><i>🎓</i><b>229+</b><span>Cours</span></div>
+          <div><i>📖</i><b>31</b><span>Modules</span></div>
+          <div><i>🤖</i><b>IA</b><span>QCM</span></div>
+          <div><i>📄</i><b>5000+</b><span>Supports PDF</span></div>
+          <div><i>📈</i><b>Suivi</b><span>Intelligent</span></div>
+        </div>
+      </div>
+
+      <div class="pro-logo-zone">
+        <div class="orb orb-blue"></div>
+        <div class="orb orb-gold"></div>
+        <img src="./images/pcr-logo.png" alt="PCR logo">
+      </div>
+    </section>
+
+    <section class="pro-categories">
+      <h2>Catégories</h2>
+
+      <div class="pro-grid">
+        <a class="pro-card purple" href="./pages/modules/modules.html?category=biologie">
+          <span>🧬</span>
+          <h3>Biologie</h3>
+          <p>8 modules</p>
+          <em>Explorer →</em>
+        </a>
+
+        <a class="pro-card cyan" href="./pages/modules/modules.html?category=chirurgie">
+          <span>🔪</span>
+          <h3>Chirurgie</h3>
+          <p>8 modules</p>
+          <em>Explorer →</em>
+        </a>
+
+        <a class="pro-card green" href="./pages/modules/modules.html?category=medicale">
+          <span>🏥</span>
+          <h3>Médicale</h3>
+          <p>15 modules</p>
+          <em>Explorer →</em>
+        </a>
+
+        <a class="pro-card yellow" href="./pages/favoris/favoris.html">
+          <span>⭐</span>
+          <h3>Favoris</h3>
+          <p>Vos cours enregistrés</p>
+          <em>Explorer →</em>
+        </a>
+
+        <a class="pro-card blue" href="./pages/dashboard/dashboard.html">
+          <span>📊</span>
+          <h3>Dashboard</h3>
+          <p>Votre progression</p>
+          <em>Explorer →</em>
+        </a>
+      </div>
+    </section>
+
+  </main>
+
+  <script src="/js/auth-guard.js"></script>
+<script src="/js/user-storage.js"></script>
+<script src="/js/app.js"></script>
+</body>
+</html>

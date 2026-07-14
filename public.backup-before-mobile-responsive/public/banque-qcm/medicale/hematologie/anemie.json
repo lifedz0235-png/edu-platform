@@ -1,0 +1,3125 @@
+{
+  "category": "medicale",
+  "module": "hematologie",
+  "courseId": 161,
+  "courseTitle": "Anemie",
+  "supportTitle": "Anémie",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/medicale-pdf/HEMATOLOGIE/Anémie.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les seuils diagnostiques de l’anémie, quelles propositions sont exactes ?",
+      "choices": [
+        "Chez l’homme adulte, l’anémie est définie par une Hb < 13 g/dL",
+        "Chez la femme adulte, l’anémie est définie par une Hb < 12 g/dL",
+        "Chez le nouveau-né, l’anémie est définie par une Hb < 14 g/dL",
+        "Chez la femme enceinte dès le 2e trimestre, l’anémie est définie par une Hb < 12 g/dL"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les seuils sont : homme adulte < 13 g/dL, femme adulte < 12 g/dL, nouveau-né < 14 g/dL, femme enceinte dès le 2e trimestre < 10,5 g/dL."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations peuvent être responsables d’une fausse anémie par hémodilution ?",
+      "choices": [
+        "Grossesse",
+        "Splénomégalie volumineuse",
+        "Dysglobulinémie monoclonale à taux élevé",
+        "Déshydratation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La grossesse, la splénomégalie volumineuse et les dysglobulinémies monoclonales à taux élevé peuvent entraîner une fausse anémie par hémodilution. La déshydratation peut au contraire masquer une anémie par hémoconcentration."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations peuvent masquer une anémie par hémoconcentration ?",
+      "choices": [
+        "Déshydratation",
+        "Hypothyroïdie",
+        "Insuffisance surrénale",
+        "Insuffisance cardiaque sévère"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La déshydratation, l’hypothyroïdie et l’insuffisance surrénale peuvent masquer une anémie. L’insuffisance cardiaque sévère est citée parmi les causes de fausse anémie par hémodilution."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes appartiennent au syndrome anémique décrit ?",
+      "choices": [
+        "Pâleur cutanéo-muqueuse surtout sous-unguéale et conjonctivale",
+        "Dyspnée d’effort puis de repos avec auscultation pulmonaire normale",
+        "Tachycardie sinusale",
+        "Souffle diastolique organique à l’apex"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome anémique associe notamment pâleur, dyspnée avec auscultation pulmonaire normale et tachycardie sinusale. Le souffle décrit est systolique anorganique à l’apex, non diastolique organique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations clinico-étiologiques sont correctes devant une anémie ?",
+      "choices": [
+        "Ictère et splénomégalie : anémie hémolytique",
+        "Glossite et troubles neurologiques : carence en vitamine B12",
+        "Ascite et circulation collatérale abdominale : cirrhose",
+        "Syndrome hémorragique cutanéo-muqueux : insuffisance médullaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces associations sont toutes citées comme signes orientant l’étiologie d’une anémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels examens biologiques font partie du bilan de première intention devant une anémie ?",
+      "choices": [
+        "Numération formule sanguine",
+        "Numération des réticulocytes",
+        "Étude morphologique des globules rouges au frottis sanguin",
+        "Myélogramme systématique avant tout autre examen"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan initial comprend NFS, réticulocytes et frottis sanguin. Le myélogramme systématique n’est pas mentionné comme examen de première intention."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’anémie centrale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est arégénérative avec réticulocytes < 120 G/L",
+        "Son mécanisme est une insuffisance de production médullaire",
+        "Elle peut être due à une aplasie médullaire idiopathique ou post-chimiothérapie",
+        "Elle est typiquement due à une hémorragie digestive aiguë"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie centrale est arégénérative, liée à une insuffisance de production médullaire, et peut être due à une aplasie médullaire. L’hémorragie digestive aiguë relève des anémies périphériques régénératives."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions caractérisent une anémie périphérique ?",
+      "choices": [
+        "Réticulocytes > 120 G/L",
+        "Raccourcissement de la durée de vie des globules rouges dans le compartiment circulatoire",
+        "Pertes sanguines aiguës comme une hémorragie digestive",
+        "Hémolyse pathologique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’anémie périphérique est régénérative, liée à une diminution de la durée de vie des globules rouges, par pertes aiguës ou hémolyse notamment."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont citées parmi les causes d’anémie mixte ?",
+      "choices": [
+        "Cirrhose",
+        "Insuffisance rénale",
+        "Cancer",
+        "Endocrinopathie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les anémies mixtes sont souvent multifactorielle et non régénératives ; les causes citées sont cirrhose, insuffisance rénale, cancer et endocrinopathie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’anémie microcytaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle traduit un défaut de synthèse de l’hémoglobine",
+        "Elle est définie chez l’adulte par un VGM < 80 fL",
+        "Elle est définie chez l’enfant par un VGM < 72 fL",
+        "Son bilan initial inclut au minimum la ferritinémie et la VS/CRP"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’anémie microcytaire correspond à un défaut de synthèse de l’hémoglobine, avec VGM < 80 fL chez l’adulte et < 72 fL chez l’enfant. Le bilan initial comprend un bilan martial au minimum par ferritinémie et VS/CRP."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours de l’évolution biologique d’une carence martiale, quelles anomalies sont attendues ?",
+      "choices": [
+        "Baisse de la ferritine",
+        "Augmentation de la transferrine",
+        "Augmentation de la capacité totale de fixation de la transferrine",
+        "Augmentation du coefficient de saturation de la transferrine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La carence martiale entraîne une baisse de la ferritine, une augmentation de la transferrine et de sa capacité totale de fixation, avec baisse du coefficient de saturation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le métabolisme du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fer total corporel est d’environ 4 à 5 g",
+        "Environ 80 % du fer est sous forme héminique",
+        "Le recyclage du fer des globules rouges sénescents par les macrophages fournit 25 à 30 mg/j",
+        "L’absorption du fer se fait principalement au niveau de l’iléon"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer total est de 4 à 5 g, dont 80 % sous forme héminique. Le recyclage macrophagique apporte 25 à 30 mg/j. L’absorption alimentaire se fait au niveau du duodénum."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption et la régulation du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "La captation apicale du fer par l’entérocyte se fait via DMT1",
+        "La ferroportine permet le relargage du fer hors de l’entérocyte",
+        "L’hepcidine hépatique inhibe la ferroportine et DMT1",
+        "En cas de carence martiale, le coefficient de saturation de la transferrine diminue"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "DMT1 intervient dans la captation apicale, la ferroportine dans le relargage, et l’hepcidine inhibe ferroportine et DMT1. En carence, la transferrine augmente et son coefficient de saturation baisse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments cliniques ou biologiques peuvent être observés dans l’anémie ferriprive ?",
+      "choices": [
+        "Dysphagie avec anneau œsophagien réalisant un syndrome de Plummer-Vinson",
+        "Syndrome des jambes sans repos",
+        "Thrombocytose modérée réactionnelle possible",
+        "Thrombopénie fréquente et caractéristique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie ferriprive peut s’accompagner d’un syndrome de Plummer-Vinson, d’un syndrome des jambes sans repos et d’une thrombocytose réactionnelle modérée. La thrombopénie est exceptionnelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil d’hémoglobine définit l’anémie chez l’homme adulte ?",
+      "choices": [
+        "Hb < 14 g/dL",
+        "Hb < 13 g/dL",
+        "Hb < 12 g/dL",
+        "Hb < 10,5 g/dL"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Chez l’homme adulte, l’anémie est définie par une hémoglobine inférieure à 13 g/dL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de réticulocytes définit une anémie centrale arégénérative selon le texte ?",
+      "choices": [
+        "Réticulocytes < 120 G/L",
+        "Réticulocytes > 120 G/L",
+        "Réticulocytes < 20 G/L",
+        "Réticulocytes > 200 G/L"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une anémie centrale est arégénérative avec des réticulocytes inférieurs à 120 G/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’adulte, quel VGM définit une anémie microcytaire ?",
+      "choices": [
+        "VGM < 100 fL",
+        "VGM < 90 fL",
+        "VGM < 80 fL",
+        "VGM < 72 fL"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Chez l’adulte, une anémie microcytaire est définie par un VGM inférieur à 80 fL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel résultat de ferritine sérique est compatible avec une carence martiale chez la femme selon le texte ?",
+      "choices": [
+        "Ferritine sérique < 20 µg/L",
+        "Ferritine sérique > 20 µg/L",
+        "Ferritine sérique < 30 µg/L chez toute femme quel que soit le statut hormonal",
+        "Ferritine sérique > 70 µmol/L"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Chez la femme, la carence martiale est évoquée devant une ferritine sérique < 20 µg/L. Le seuil < 30 µg/L concerne l’homme ou la femme ménopausée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la cause principale de l’anémie ferriprive chez l’adulte ?",
+      "choices": [
+        "Hémorragie chronique",
+        "Aplasie médullaire idiopathique",
+        "Déficit isolé en EPO",
+        "Myélofibrose"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Chez l’adulte, l’hémorragie chronique est la cause principale de l’anémie ferriprive."
+    },
+    {
+      "type": "QCS",
+      "question": "Devant une suspicion d’anémie ferriprive, quel bilan doit être réalisé avant tout traitement ?",
+      "choices": [
+        "Bilan martial",
+        "Bilan hépatique isolé",
+        "Groupage sanguin systématique seul",
+        "Bilan d’hémolyse isolé"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le bilan martial doit être réalisé avant tout traitement, afin de documenter la carence en fer."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont citées comme carences d’apport en fer ?",
+      "choices": [
+        "Nourrisson",
+        "Femme jeune avec grossesses rapprochées",
+        "Dénutrition",
+        "Gastrectomie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La carence d’apport est décrite chez le nourrisson, la femme jeune avec grossesses rapprochées et en cas de dénutrition. La gastrectomie relève d’une carence d’absorption."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont citées comme causes de carence d’absorption du fer ?",
+      "choices": [
+        "Gastrectomie",
+        "Résection étendue du grêle",
+        "Maladie cœliaque ou maladie de Crohn étendue",
+        "Consommation importante de thé"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite la gastrectomie, la résection étendue du grêle, la maladie cœliaque, la maladie de Crohn étendue, la maladie de Whipple et la consommation importante de thé comme causes de carence d’absorption."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement martial oral de l’anémie ferriprive, quelles propositions sont exactes ?",
+      "choices": [
+        "Il repose sur un sel de fer ferreux par voie orale",
+        "La posologie adulte est de 100 à 200 mg/j",
+        "La durée minimale est de 6 mois",
+        "Le traitement comporte 2 mois d’attaque puis 4 mois d’entretien"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le traitement recommandé est un sel de fer ferreux per os, à 100–200 mg/j chez l’adulte, pendant au moins 6 mois : 2 mois d’attaque et 4 mois d’entretien."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels effets indésirables peuvent être observés sous traitement martial oral selon le texte ?",
+      "choices": [
+        "Selles noires",
+        "Nausées",
+        "Diarrhée ou constipation",
+        "Céphalées et vertiges"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les effets indésirables cités sont les selles noires, les nausées, la diarrhée ou la constipation, les céphalées et les vertiges."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la surveillance et l’évaluation de l’efficacité du traitement martial, quelles propositions sont exactes ?",
+      "choices": [
+        "Un contrôle de la NFS est prévu à 2 et 4 mois",
+        "La normalisation de l’hémoglobine est attendue en 1 mois",
+        "La ferritinémie est évaluée à 6 mois après une fenêtre thérapeutique de 8 jours",
+        "La transfusion sanguine est systématique pour corriger rapidement la ferritine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La surveillance comporte une NFS à 2 et 4 mois, une normalisation attendue de l’hémoglobine en 1 mois et une ferritinémie à 6 mois après 8 jours d’arrêt. La transfusion n’est indiquée qu’en cas de mauvaise tolérance clinique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la physiopathologie de l’anémie inflammatoire, quelles propositions sont exactes ?",
+      "choices": [
+        "Synthèse de cytokines inflammatoires telles que IL-1, TNF-α et IFN-γ",
+        "Inhibition de l’érythropoïèse",
+        "Séquestration macrophagique du fer responsable d’une carence martiale relative",
+        "Diminution de la synthèse et de l’action de l’EPO"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’anémie inflammatoire associe cytokines inflammatoires, inhibition de l’érythropoïèse, séquestration macrophagique du fer et diminution de la synthèse/action de l’EPO."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles étiologies sont citées comme causes d’anémie inflammatoire ?",
+      "choices": [
+        "Lupus érythémateux disséminé, polyarthrite rhumatoïde ou maladie de Horton",
+        "Tumeur solide ou hémopathie maligne",
+        "Endocardite infectieuse, abcès profond, tuberculose ou brucellose",
+        "Maladie de Whipple isolée comme cause principale d’anémie inflammatoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes citées sont les maladies systémiques, les néoplasies et certaines infections chroniques. La maladie de Whipple est citée dans le texte comme cause de carence d’absorption."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la biologie de l’anémie inflammatoire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’anémie est généralement modérée",
+        "Elle est initialement normochrome normocytaire",
+        "Elle peut devenir hypochrome microcytaire après 6 à 8 semaines",
+        "Une polynucléose neutrophile et une thrombocytose sont fréquentes"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’anémie inflammatoire est modérée, initialement normochrome normocytaire, puis peut devenir hypochrome microcytaire après 6 à 8 semaines. Polynucléose neutrophile et thrombocytose sont fréquentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quel profil martial est compatible avec une anémie inflammatoire selon le texte ?",
+      "choices": [
+        "Fer sérique diminué",
+        "Ferritine augmentée",
+        "Capacité totale de fixation de la transferrine diminuée",
+        "Transferrine diminuée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Dans l’anémie inflammatoire, le fer sérique est diminué, la ferritine est augmentée, la capacité totale de fixation de la transferrine est diminuée et la transferrine est diminuée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les hémoglobinopathies, quelles propositions sont exactes ?",
+      "choices": [
+        "La thalassémie est décrite sur le pourtour méditerranéen et en Asie du Sud",
+        "L’Afrique est associée à l’α-thalassémie et à l’hémoglobinose C",
+        "Une anémie sévère à la naissance ou dans la première année de vie avec contexte familial évoque une thalassémie majeure",
+        "Une microcytose nette découverte fortuitement avec ou sans anémie évoque une thalassémie mineure"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces répartitions géographiques et présentations cliniques sont celles décrites dans le texte pour les hémoglobinopathies."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles anomalies biologiques peuvent orienter vers une thalassémie mineure ?",
+      "choices": [
+        "Microcytose importante avec VGM entre 55 et 70 fL",
+        "Nombre de globules rouges légèrement augmenté",
+        "Réticulocytes normaux",
+        "Bilan martial normal"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La thalassémie mineure peut se manifester par une microcytose importante, une micropolycytémie, des réticulocytes normaux et un bilan martial normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les causes d’anémie microcytaire autres que la carence martiale, lesquelles sont citées ?",
+      "choices": [
+        "Déficit en vitamine B6, surtout lié à l’alcoolisme",
+        "Anémie sidéroblastique constitutionnelle, généralement liée à l’X",
+        "Saturnisme par intoxication chronique au plomb",
+        "Hypothyroïdie isolée comme cause typique de microcytose"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les autres causes citées d’anémie microcytaire sont le déficit en vitamine B6, l’anémie sidéroblastique constitutionnelle liée à l’X et le saturnisme. L’hypothyroïdie est citée dans un autre cadre."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’érythroblastopénie isolée, quelles propositions sont exactes ?",
+      "choices": [
+        "Les érythroblastes sont inférieurs à 5 %",
+        "Les autres lignées médullaires ne sont pas atteintes",
+        "Elle s’accompagne d’une anémie arégénérative avec réticulocytes inférieurs à 10 G/L",
+        "Une cause aiguë citée est l’infection virale à parvovirus B19"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’érythroblastopénie isolée associe érythroblastes < 5 %, respect des autres lignées, réticulocytes < 10 G/L et peut être aiguë par parvovirus B19."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la carence en vitamine B12, quelles propositions sont exactes ?",
+      "choices": [
+        "La cobalamine est indispensable à la synthèse de thymidine pour l’ADN",
+        "Elle intervient dans le fonctionnement de la méthylmalonyl-CoA mutase",
+        "La carence entraîne une accumulation d’acide méthylmalonique responsable de signes neurologiques",
+        "La vitamine B12 est présente exclusivement dans les produits animaux"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La vitamine B12 intervient dans la synthèse d’ADN via la thymidine et dans la méthylmalonyl-CoA mutase. Sa carence provoque une accumulation d’acide méthylmalonique et elle provient des produits animaux."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation une supplémentation parentérale en fer est-elle indiquée selon le texte ?",
+      "choices": [
+        "En première intention chez tout adulte anémique",
+        "Lorsque la voie orale est impossible ou inefficace, notamment en cas de malabsorption",
+        "Pour éviter systématiquement les selles noires",
+        "Dès la normalisation de l’hémoglobine"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La supplémentation parentérale est réservée aux situations où la voie orale est impossible ou inefficace, notamment en cas de maladie rénale ou de malabsorption."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’indication de la transfusion sanguine dans l’anémie ferriprive selon le texte ?",
+      "choices": [
+        "Ferritine basse isolée",
+        "Microcytose importante isolée",
+        "Mauvaise tolérance clinique",
+        "Échec de normalisation de la ferritine à 6 mois uniquement"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La transfusion sanguine est indiquée seulement en cas de mauvaise tolérance clinique."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les médicaments suivants, lequel est cité comme cause à éliminer devant une anémie macrocytaire arégénérative ?",
+      "choices": [
+        "Hydroxyurée",
+        "Sel de fer ferreux",
+        "Gel d’alumine",
+        "Immunoglobulines polyvalentes IV"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les médicaments cités dans les causes d’anémie macrocytaire arégénérative incluent notamment l’hydroxyurée, les chimiothérapies, les alkylants, les sulfamides, les antiépileptiques et les antirétroviraux."
+    },
+    {
+      "type": "QCS",
+      "question": "Quand doit être réalisée l’électrophorèse de l’hémoglobine dans l’exploration d’une hémoglobinopathie selon le texte ?",
+      "choices": [
+        "Avant toute exploration martiale",
+        "Après exploration ou correction d’une éventuelle carence martiale",
+        "Uniquement après transfusion sanguine",
+        "Seulement si la ferritine est augmentée"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’électrophorèse de l’hémoglobine doit être réalisée après exploration ou correction d’une éventuelle carence martiale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation concernant la cinétique de baisse de l’hémoglobine dans une anémie centrale est exacte ?",
+      "choices": [
+        "Elle peut dépasser 1 g/dL par jour",
+        "Elle ne peut pas entraîner une baisse supérieure à 1/120e par jour",
+        "Elle impose toujours une transfusion immédiate",
+        "Elle s’accompagne obligatoirement d’une hyperréticulocytose"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Une anémie centrale ne peut pas entraîner une baisse de l’hémoglobine supérieure à 1/120e par jour ; la diminution est généralement inférieure à 0,1 g/dL/j."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une moelle richement cellulaire, quelle association cytologique et diagnostique est correcte ?",
+      "choices": [
+        "Blastes → leucémie aiguë",
+        "Plasmocytes → leucémie lymphoïde chronique",
+        "Lymphocytes matures → myélome multiple",
+        "Cellules non hématopoïétiques → syndrome myélodysplasique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans une moelle riche, la présence de blastes oriente vers une leucémie aiguë. Les plasmocytes évoquent un myélome multiple, les lymphocytes matures une LLC ou un lymphome, et les cellules non hématopoïétiques une métastase de cancer solide."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la carence en vitamine B12, quels signes neurologiques ou neuropsychiques sont décrits ?",
+      "choices": [
+        "Paresthésies avec aréflexie",
+        "Ataxie avec multinévrite",
+        "Syndrome pyramidal et cordonal postérieur bilatéral",
+        "Syndrome cérébelleux isolé par atteinte vermienne"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La carence en vitamine B12 peut entraîner un déficit sensitivomoteur périphérique avec paresthésies, aréflexie, multinévrite, ataxie, ainsi qu’une sclérose combinée de la moelle associant syndrome pyramidal et cordonal postérieur bilatéral."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles anomalies hématologiques ou du frottis peuvent accompagner une carence en vitamine B12 ?",
+      "choices": [
+        "Hypersegmentation nucléaire des polynucléaires neutrophiles",
+        "Corps de Jolly et anneaux de Cabot",
+        "Mégathrombocytes",
+        "Éosinophilie massive constante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le frottis peut montrer des corps de Jolly, des ponctuations basophiles, des anneaux de Cabot, des polynucléaires hypersegmentés et des mégathrombocytes. L’éosinophilie massive constante n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le myélogramme dans les carences en vitamine B9 ou B12, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est indiqué sauf si le diagnostic est évident par un dosage vitaminique effondré",
+        "Il montre une moelle riche en précurseurs érythroblastiques de grande taille",
+        "Il met en évidence un asynchronisme de maturation nucléocytoplasmique",
+        "Il montre typiquement une aplasie médullaire globale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le myélogramme montre une moelle riche avec mégaloblastes et asynchronisme nucléocytoplasmique, typique des carences en B9 ou B12. Il n’est pas décrit comme une aplasie globale."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la maladie de Biermer, quels éléments sont rapportés ?",
+      "choices": [
+        "Gastrite chronique auto-immune",
+        "Fréquence accrue chez la femme après 50-60 ans",
+        "Association possible avec hypothyroïdie, diabète de type 1 ou vitiligo",
+        "Hyperchlorhydrie histamino-résistante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie de Biermer est une gastrite chronique auto-immune, plus fréquente chez la femme après 50-60 ans, pouvant s’associer à d’autres maladies auto-immunes. Elle s’accompagne d’achlorhydrie totale histamino-résistante, non d’hyperchlorhydrie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels résultats d’examens sont compatibles avec une maladie de Biermer ?",
+      "choices": [
+        "Gastrinémie augmentée par l’achlorhydrie",
+        "Facteur intrinsèque diminué avant et après stimulation",
+        "Anticorps anti-facteur intrinsèque spécifiques mais peu sensibles",
+        "Anticorps anti-cellules pariétales gastriques spécifiques mais peu sensibles"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans la maladie de Biermer, la gastrinémie est augmentée, le facteur intrinsèque est diminué, et les anticorps anti-facteur intrinsèque sont spécifiques mais peu sensibles. Les anticorps anti-cellules pariétales sont sensibles mais peu spécifiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont citées comme causes de malabsorption de la vitamine B12 ?",
+      "choices": [
+        "Gastrectomie",
+        "Résection étendue de l’iléon terminal",
+        "Maladie cœliaque",
+        "Surcharge alimentaire en légumes verts"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La malabsorption de la vitamine B12 peut être liée à une gastrectomie, une résection étendue de l’iléon terminal, une maladie cœliaque, une maladie de Crohn étendue, un shunt intestinal ou une pullulation microbienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles causes rares de carence en vitamine B12 sont mentionnées ?",
+      "choices": [
+        "Syndrome de non-dissociation de la vitamine B12 alimentaire",
+        "Infection par le bothriocéphale",
+        "Maladie d’Imerslund",
+        "Déficit congénital en glucose-6-phosphate déshydrogénase"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes rares citées incluent le syndrome de non-dissociation de la vitamine B12 alimentaire, l’infection par le bothriocéphale et la maladie d’Imerslund. Le déficit en G6PD n’est pas mentionné."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement de la carence en vitamine B12, quelles propositions sont exactes ?",
+      "choices": [
+        "Il repose sur l’hydroxocobalamine parentérale",
+        "La reconstitution des réserves comporte 10 injections de 1000 µg un jour sur deux",
+        "L’entretien comporte 1000 µg IM tous les 3 mois à vie",
+        "Le traitement d’entretien est systématiquement arrêté après normalisation du VGM"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement est parentéral par hydroxocobalamine, avec 10 injections de 1000 µg un jour sur deux, puis entretien par 1000 µg IM tous les 3 mois à vie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la vitamine B9, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une vitamine hydrosoluble thermolabile",
+        "Elle est nécessaire à la synthèse de l’ADN",
+        "Ses réserves sont principalement hépatiques",
+        "Son absorption se fait principalement dans l’iléon terminal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine B9 est hydrosoluble, thermolabile, nécessaire à la synthèse de l’ADN, avec des réserves surtout hépatiques. Son absorption se fait au jéjunum proximal."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la carence en folates, quels éléments cliniques ou biologiques sont décrits ?",
+      "choices": [
+        "Syndrome anémique progressif généralement bien toléré",
+        "Glossite sans critères de glossite de Hunter",
+        "Folates sériques diminués en dessous de 5 µg/L",
+        "Troubles neurologiques irréversibles constants"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La carence en folates donne un syndrome anémique progressif bien toléré, une glossite sans critères de Hunter, et des folates sériques diminués < 5 µg/L. Les troubles neurologiques irréversibles constants ne sont pas décrits pour la carence en folates."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles circonstances favorisent une carence d’apport en folates ?",
+      "choices": [
+        "Alimentation exclusivement cuite ou sans légumes crus",
+        "Dénutrition",
+        "Alcoolisme",
+        "Consommation régulière de fruits et légumes verts crus"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La carence d’apport est la cause la plus fréquente de déficit en folates. Elle est favorisée par une alimentation exclusivement cuite ou sans légumes crus, la dénutrition et l’alcoolisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels médicaments sont cités comme inhibiteurs de la dihydrofolate réductase ou responsables d’un déficit en folates ?",
+      "choices": [
+        "Méthotrexate",
+        "Cotrimoxazole",
+        "Sulfamides",
+        "Hydroxocobalamine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les médicaments cités incluent le méthotrexate, le cotrimoxazole, les sulfamides, les hydantoïnes et le 5-FU. L’hydroxocobalamine est le traitement de la carence en B12."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement de la carence en folates, quelles propositions sont exactes ?",
+      "choices": [
+        "L’acide folique oral peut être prescrit à 5 mg/j pendant 2 à 4 mois",
+        "L’acide folinique parentéral est indiqué en cas de malabsorption ou de traitement antifolique",
+        "Un contrôle de la NFS est prévu à 6-8 semaines",
+        "La transfusion est systématique dès que l’hémoglobine est très basse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement repose sur l’acide folique 5 mg/j pendant 2 à 4 mois, ou l’acide folinique parentéral en cas de malabsorption ou de traitement antifolique. La NFS est contrôlée à 6-8 semaines. La transfusion non indispensable doit être évitée."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une anémie macrocytaire arégénérative sans cause évidente, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Un myélogramme est systématique",
+        "Un syndrome myélodysplasique fait partie des causes à rechercher",
+        "Un envahissement médullaire fait partie des causes possibles",
+        "L’exploration médullaire est toujours contre-indiquée si le VGM dépasse 110 fL"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En l’absence de cause évidente d’anémie macrocytaire arégénérative, le myélogramme est systématique. Les causes citées incluent le syndrome myélodysplasique et l’envahissement médullaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel taux sérique de vitamine B12 est cité comme diminué dans la carence en vitamine B12 ?",
+      "choices": [
+        "< 50 pg/mL",
+        "< 100 pg/mL",
+        "< 200 pg/mL",
+        "< 500 pg/mL"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise qu’un dosage sérique de vitamine B12 diminué est inférieur à 200 pg/mL, avec une diminution variable non corrélée à la sévérité clinique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quels sont les besoins quotidiens approximatifs en vitamine B9 selon le texte ?",
+      "choices": [
+        "40 µg/j",
+        "100 µg/j",
+        "400 µg/j",
+        "1000 µg/j"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les besoins en vitamine B9 sont d’environ 400 µg par jour."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée approximative des réserves principalement hépatiques en folates ?",
+      "choices": [
+        "2 à 4 jours",
+        "2 à 4 semaines",
+        "2 à 4 mois",
+        "2 à 4 ans"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les réserves en folates sont principalement hépatiques et durent environ 2 à 4 mois."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil caractérise les anticorps anti-facteur intrinsèque dans la maladie de Biermer ?",
+      "choices": [
+        "Sensibles et spécifiques",
+        "Spécifiques mais peu sensibles",
+        "Sensibles mais peu spécifiques",
+        "Ni sensibles ni spécifiques"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les anticorps anti-facteur intrinsèque sériques ou gastriques sont spécifiques mais peu sensibles."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle durée approximative correspond à la phase de reconstitution des réserves en vitamine B12 par 10 injections un jour sur deux ?",
+      "choices": [
+        "Environ 5 jours",
+        "Environ 10 jours",
+        "Environ 20 jours",
+        "Environ 3 mois"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La reconstitution des réserves comporte 10 injections de 1000 µg un jour sur deux, soit environ 20 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "En l’absence de résultats des dosages vitaminiques, quelle attitude thérapeutique est recommandée avant d’administrer des folates ?",
+      "choices": [
+        "Débuter d’abord la vitamine B12",
+        "Débuter uniquement l’acide folique",
+        "Attendre systématiquement la NFS de contrôle à 8 semaines",
+        "Transfuser systématiquement avant toute vitaminothérapie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte recommande de débuter d’abord la vitamine B12 si les résultats des dosages vitaminiques ne sont pas disponibles, car les folates peuvent aggraver les troubles neurologiques chez un patient carencé en B12."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition et l’interprétation initiale d’une anémie, quelles propositions sont exactes ?",
+      "choices": [
+        "L’anémie correspond à une diminution de l’hémoglobine contenue dans les globules rouges.",
+        "Une diminution isolée du nombre de globules rouges suffit toujours à définir une anémie.",
+        "Une variation du volume plasmatique total peut modifier l’hémoglobine apparente sans modification du volume globulaire total.",
+        "Les seuils diagnostiques sont identiques quel que soit l’âge, le sexe ou la grossesse."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "L’anémie est définie par la baisse de l’hémoglobine. Les variations du volume plasmatique expliquent les fausses anémies ou les anémies masquées. Les seuils varient selon le terrain."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs conditionnent la tolérance clinique d’une anémie selon le texte ?",
+      "choices": [
+        "L’intensité de l’anémie.",
+        "La rapidité d’installation de l’anémie.",
+        "Le terrain du patient.",
+        "La présence isolée d’une microcytose."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La tolérance dépend de l’intensité, de la rapidité d’installation et du terrain. La microcytose n’est pas citée comme facteur direct de tolérance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les manifestations cardio-respiratoires du syndrome anémique, quelles propositions sont exactes ?",
+      "choices": [
+        "La dyspnée apparaît d’abord à l’effort puis peut survenir au repos.",
+        "L’auscultation pulmonaire est décrite comme normale malgré la dyspnée.",
+        "Une tachycardie sinusale peut être observée.",
+        "Le souffle attendu est un souffle diastolique organique de la base."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une dyspnée d’effort puis de repos avec auscultation pulmonaire normale, une tachycardie sinusale et un souffle systolique anorganique à l’apex."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations sémiologiques suivantes, lesquelles orientent correctement vers une étiologie d’anémie selon le texte ?",
+      "choices": [
+        "Syndrome hémorragique cutanéo-muqueux : insuffisance médullaire.",
+        "Adénopathies associées à une splénomégalie : hémopathie maligne.",
+        "Ascite, circulation collatérale abdominale et hépatosplénomégalie : cirrhose.",
+        "Glossite et troubles neurologiques : carence martiale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La glossite avec troubles neurologiques oriente vers une carence en vitamine B12, non vers une carence martiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes centraux d’anémie impliquant une insuffisance de stimulation médullaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Un déficit en érythropoïétine peut être en cause.",
+        "Un déficit en d’autres hormones peut participer à l’anémie centrale.",
+        "Le TNF au cours de l’inflammation est cité comme inhibiteur de l’érythropoïèse.",
+        "L’hémorragie digestive aiguë est le mécanisme typique d’une insuffisance de production médullaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit en EPO, les déficits hormonaux et le TNF inflammatoire sont cités parmi les causes centrales. L’hémorragie aiguë relève d’une anémie périphérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations correspondent à un envahissement ou une atteinte médullaire pouvant donner une anémie centrale ?",
+      "choices": [
+        "Envahissement médullaire par leucémie, lymphome ou myélome.",
+        "Envahissement médullaire par métastase de cancer solide.",
+        "Myélofibrose.",
+        "Saignement gynécologique isolé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hémopathies, les métastases médullaires de cancer solide et la myélofibrose sont citées comme causes centrales. Le saignement gynécologique évoque une perte chronique de fer."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les dysmyélopoïèses responsables d’anémie centrale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent être secondaires à une carence en vitamine B12, folates ou fer.",
+        "Elles correspondent au raccourcissement de la durée de vie des globules rouges circulants.",
+        "Elles peuvent être primitives dans le cadre d’un syndrome myélodysplasique.",
+        "Elles s’intègrent dans une anémie arégénérative avec réticulocytes inférieurs à 120 G/L."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Les dysmyélopoïèses peuvent être carentielles ou primitives. Elles relèvent d’un mécanisme central arégénératif, et non d’une destruction périphérique des globules rouges."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’anémie microcytaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle traduit un défaut de synthèse de l’hémoglobine.",
+        "Chez l’adulte, elle est définie par un VGM inférieur à 80 fL.",
+        "Chez l’enfant, elle est définie par un VGM inférieur à 72 fL.",
+        "Elle résulte d’un excès de synthèse d’hémoglobine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie microcytaire correspond à un défaut de synthèse de l’hémoglobine, avec VGM < 80 fL chez l’adulte et < 72 fL chez l’enfant."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une anémie microcytaire, quels examens appartiennent au bilan de première intention selon le texte ?",
+      "choices": [
+        "Un bilan martial avec au minimum une ferritinémie.",
+        "Une VS et/ou une CRP.",
+        "Un myélogramme systématique avant tout bilan martial.",
+        "L’absence de toute évaluation inflammatoire."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le bilan de première intention d’une anémie microcytaire comprend un bilan martial au minimum par ferritinémie, ainsi qu’une VS/CRP."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la répartition du fer dans l’organisme, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fer total corporel est d’environ 4 à 5 g.",
+        "Environ 80 % du fer est sous forme héminique.",
+        "Le fer non héminique comprend les réserves sous forme de ferritine/hémosidérine et le fer sérique lié à la transferrine.",
+        "Le fer plasmatique circule essentiellement libre, non lié à une protéine de transport."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer total est de 4 à 5 g, majoritairement héminique. Le fer sérique est lié à la transferrine et n’est pas décrit comme circulant librement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les flux quotidiens du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "Le recyclage du fer des globules rouges sénescents par les macrophages est d’environ 25 à 30 mg/j.",
+        "Les pertes physiologiques sont d’environ 1 mg/j chez l’homme et la femme ménopausée.",
+        "Les pertes physiologiques sont d’environ 2 mg/j chez la femme en période d’activité génitale.",
+        "Les apports alimentaires de 10 à 25 mg/j sont absorbés intégralement au niveau iléal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le recyclage macrophagique est majeur. Les pertes sont de 1 mg/j chez l’homme et la femme ménopausée, 2 mg/j chez la femme en activité génitale. L’absorption n’est que de 10 à 20 % et se fait au duodénum."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption intestinale et le transport du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "La captation apicale du fer par les entérocytes implique DMT1.",
+        "Le relargage du fer par l’entérocyte implique la ferroportine.",
+        "L’hepcidine hépatique inhibe la ferroportine et DMT1.",
+        "La transferrine est la protéine de stockage entérocytaire du fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "DMT1 permet la captation apicale, la ferroportine le relargage, et l’hepcidine inhibe ces voies. La transferrine assure le transport plasmatique ; le stockage entérocytaire se fait sous forme de ferritine."
+    },
+    {
+      "type": "QCM",
+      "question": "En situation de carence en fer ou de besoins augmentés, quelles adaptations biologiques sont décrites ?",
+      "choices": [
+        "Augmentation de la transferrine.",
+        "Baisse du coefficient de saturation de la transferrine.",
+        "Augmentation de l’absorption intestinale du fer.",
+        "Diminution de la transferrine avec augmentation du coefficient de saturation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas de carence ou de besoins accrus, le texte décrit une augmentation de la transferrine, une baisse du coefficient de saturation et une augmentation de l’absorption."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hémogramme et le frottis dans l’anémie ferriprive, quelles propositions sont exactes ?",
+      "choices": [
+        "L’anémie est souvent marquée et microcytaire, parfois hypochrome.",
+        "Une thrombocytose modérée réactionnelle est possible.",
+        "Une thrombopénie est exceptionnelle.",
+        "Les sphérocytes sont l’anomalie morphologique caractéristique citée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie ferriprive est souvent microcytaire, parfois hypochrome, avec possible thrombocytose réactionnelle. La thrombopénie est exceptionnelle. Le texte cite anisocytose, poïkilocytose, microcytose et hématies en cible, pas les sphérocytes."
+    },
+    {
+      "type": "QCS",
+      "question": "À partir du deuxième trimestre de grossesse, quel seuil d’hémoglobine définit une anémie selon le texte ?",
+      "choices": [
+        "Hb < 13 g/dL",
+        "Hb < 12 g/dL",
+        "Hb < 11 g/dL",
+        "Hb < 10,5 g/dL"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Chez la femme enceinte dès le 2e trimestre, l’anémie est définie par une hémoglobine inférieure à 10,5 g/dL."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’enfant, quel VGM définit une anémie microcytaire selon le texte ?",
+      "choices": [
+        "VGM < 90 fL",
+        "VGM < 80 fL",
+        "VGM < 72 fL",
+        "VGM < 60 fL"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Chez l’enfant, l’anémie microcytaire est définie par un VGM inférieur à 72 fL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la quantité totale approximative de fer dans l’organisme selon le texte ?",
+      "choices": [
+        "0,5 à 1 g",
+        "1 à 2 g",
+        "4 à 5 g",
+        "10 à 15 g"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le fer total corporel est estimé à 4 à 5 g."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal site d’absorption des apports alimentaires en fer selon le texte ?",
+      "choices": [
+        "Estomac",
+        "Duodénum",
+        "Iléon terminal",
+        "Côlon droit"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les apports alimentaires en fer sont absorbés à 10-20 % au niveau du duodénum."
+    },
+    {
+      "type": "QCS",
+      "question": "Quels sont les besoins quotidiens en fer au cours de la grossesse selon le texte ?",
+      "choices": [
+        "1 mg/j",
+        "2 mg/j",
+        "4 à 5 mg/j",
+        "8 à 10 mg/j"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La grossesse augmente les besoins en fer à environ 8 à 10 mg/j."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel résultat de bilan martial est compatible avec une anémie ferriprive selon le texte ?",
+      "choices": [
+        "Capacité totale de fixation de la transferrine < 30 µmol/L",
+        "Capacité totale de fixation de la transferrine > 70 µmol/L",
+        "Coefficient de saturation de la transferrine > 50 %",
+        "Transferrine < 1 g/L"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans l’anémie ferriprive, la capacité totale de fixation de la transferrine est augmentée, avec une valeur > 70 µmol/L selon le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations particulières citées en lien avec une carence martiale, quelles propositions sont exactes ?",
+      "choices": [
+        "Le syndrome de Lasthénie de Ferjol correspond à des saignées cachées",
+        "La géophagie est mentionnée parmi les situations associées",
+        "L’hémosidérose pulmonaire chez l’enfant est citée",
+        "La maladie de Horton est décrite comme une carence d’apport en fer"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les saignées cachées du syndrome de Lasthénie de Ferjol, la géophagie et l’hémosidérose pulmonaire de l’enfant. La maladie de Horton est citée parmi les maladies systémiques responsables d’anémie inflammatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’anémie inflammatoire, quelles anomalies biologiques non directement martiales sont décrites ?",
+      "choices": [
+        "Une polynucléose neutrophile fréquente",
+        "Une thrombocytose fréquente",
+        "Une augmentation de la CRP, de la VS, du fibrinogène et des α2-globulines",
+        "Une neutropénie profonde constante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie inflammatoire s’accompagne fréquemment de polynucléose neutrophile, de thrombocytose et d’un syndrome inflammatoire biologique. La neutropénie profonde constante n’est pas décrite."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution morphologique de l’anémie inflammatoire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est initialement normochrome normocytaire",
+        "Elle peut devenir hypochrome microcytaire après 6 à 8 semaines",
+        "Elle est macrocytaire dès le début",
+        "Elle se présente obligatoirement comme une anémie sévère néonatale"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’anémie inflammatoire est initialement normochrome normocytaire, puis peut devenir hypochrome microcytaire après 6 à 8 semaines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la répartition géographique des hémoglobinopathies, quelles propositions sont exactes ?",
+      "choices": [
+        "Le pourtour méditerranéen et l’Asie du Sud sont associés aux thalassémies",
+        "L’Afrique est associée à l’α-thalassémie et à l’hémoglobinose C",
+        "L’Asie est associée aux thalassémies et à l’hémoglobinose E",
+        "L’hémoglobinose E est spécifiquement décrite comme prédominante en Afrique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte associe les thalassémies au pourtour méditerranéen, à l’Asie du Sud et à l’Asie ; l’Afrique est associée à l’α-thalassémie et à l’hémoglobinose C."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modes de présentation des thalassémies, quelles propositions sont exactes ?",
+      "choices": [
+        "Une anémie sévère à la naissance ou durant la première année avec contexte familial évoque une thalassémie majeure",
+        "Une microcytose nette découverte fortuitement, avec ou sans anémie, évoque une thalassémie mineure",
+        "Hors thalassémie majeure, l’anémie peut être discrète ou absente",
+        "La thalassémie mineure s’accompagne obligatoirement d’un bilan martial effondré"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La thalassémie majeure peut se révéler précocement par une anémie sévère. La thalassémie mineure est souvent découverte devant une microcytose nette, parfois sans anémie, avec bilan martial normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quel profil biologique peut orienter vers une hémoglobinopathie de type thalassémique selon le texte ?",
+      "choices": [
+        "Une microcytose importante avec VGM entre 55 et 70 fL",
+        "Un nombre de globules rouges légèrement augmenté réalisant une micropolycytémie",
+        "Des réticulocytes constamment très élevés",
+        "Un bilan martial normal"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les thalassémies mineures peuvent associer microcytose importante, pseudo-polyglobulie, réticulocytes normaux et bilan martial normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont citées comme pouvant participer à une anémie normocytaire arégénérative multifactorielle ?",
+      "choices": [
+        "Un état inflammatoire chronique",
+        "Une hépatopathie",
+        "Une insuffisance rénale chronique",
+        "Une hyperthyroïdie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’état inflammatoire chronique, l’hépatopathie, l’insuffisance rénale chronique et certaines endocrinopathies comme l’hypothyroïdie ou l’insuffisance surrénalienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le bilan systématique d’une anémie normocytaire arégénérative, quels examens sont mentionnés ?",
+      "choices": [
+        "VS et CRP",
+        "Bilan hépatique et bilan rénal",
+        "TSH",
+        "Électrophorèse de l’hémoglobine systématique en première ligne"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan systématique comprend VS/CRP, bilan hépatique, bilan rénal et TSH. Le cortisol est réalisé selon l’orientation clinique ; l’électrophorèse systématique n’est pas citée dans ce cadre."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition hématologique de l’érythroblastopénie isolée, quelles propositions sont exactes ?",
+      "choices": [
+        "Les érythroblastes médullaires sont inférieurs à 5 %",
+        "Les autres lignées médullaires ne sont pas atteintes",
+        "L’anémie est arégénérative avec des réticulocytes inférieurs à 10 G/L",
+        "Une thrombopénie majeure est obligatoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’érythroblastopénie isolée associe érythroblastes < 5 %, respect des autres lignées et réticulocytes < 10 G/L. Une thrombopénie obligatoire n’est pas décrite."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles causes chroniques ou associées d’érythroblastopénie isolée sont citées ?",
+      "choices": [
+        "La maladie de Blackfan-Diamond chez l’enfant",
+        "La leucémie lymphoïde chronique",
+        "Le thymome ou le cancer digestif",
+        "La maladie de Horton"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes chroniques citées incluent Blackfan-Diamond, les syndromes lymphoprolifératifs comme la LLC, les maladies auto-immunes, les myélodysplasies, le cancer digestif et le thymome."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement de l’érythroblastopénie isolée selon l’étiologie, quelles propositions sont exactes ?",
+      "choices": [
+        "En cas de parvovirus B19, des immunoglobulines polyvalentes IV à forte dose sont indiquées",
+        "Dans les autres causes, les corticoïdes peuvent être utilisés",
+        "Dans les autres causes, les immunosuppresseurs peuvent être utilisés",
+        "Le traitement repose toujours en première intention sur le fer oral seul"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le parvovirus B19 relève d’immunoglobulines polyvalentes IV à forte dose. Pour les autres causes, le texte cite corticoïdes et immunosuppresseurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une moelle pauvre ou un prélèvement médullaire non interprétable, quelles propositions sont exactes ?",
+      "choices": [
+        "Un échec du prélèvement médullaire peut être en cause",
+        "Une aplasie médullaire peut être en cause",
+        "Une myélofibrose peut être en cause",
+        "Une biopsie ostéo-médullaire est indiquée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise qu’une moelle pauvre ou non interprétable peut correspondre à un échec de prélèvement, une aplasie ou une myélofibrose, et indique la biopsie ostéo-médullaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sources et les conditions d’absorption de la vitamine B12, quelles propositions sont exactes ?",
+      "choices": [
+        "La vitamine B12 est présente exclusivement dans les produits animaux",
+        "Les viandes, poissons, abats, œufs et laitages sont cités comme sources",
+        "Son absorption est liée au facteur intrinsèque",
+        "Ses réserves sont principalement spléniques et durent quelques jours"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine B12 est apportée par les produits animaux et son absorption dépend du facteur intrinsèque. Ses réserves sont principalement hépatiques et durent environ 5 ans."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes cliniques sont décrits dans la carence en vitamine B12 ?",
+      "choices": [
+        "Un syndrome anémique d’intensité variable, généralement bien toléré",
+        "Une glossite de Hunter avec langue lisse, dépapillée et plaques érythémateuses saillantes et sèches",
+        "Des douleurs abdominales avec diarrhée ou constipation",
+        "Une peau sèche et fragile avec hyperpigmentation des paumes"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit ces manifestations : syndrome anémique souvent bien toléré, glossite de Hunter, troubles digestifs, peau sèche et fragile, hyperpigmentation des paumes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle infection virale est citée comme cause aiguë d’érythroblastopénie isolée ?",
+      "choices": [
+        "Parvovirus B19",
+        "Brucellose",
+        "Tuberculose",
+        "Endocardite infectieuse"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le parvovirus B19 est la cause aiguë virale d’érythroblastopénie isolée citée dans le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association caractérise le syndrome de Good selon le texte ?",
+      "choices": [
+        "Neutropénie et érythroblastopénie",
+        "Thrombocytose et microcytose",
+        "Ferritine augmentée et α2-globulines augmentées",
+        "Plasmocytose et myélome multiple"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le syndrome de Good est cité comme associant neutropénie et érythroblastopénie."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le bilan d’une anémie normocytaire arégénérative, quel examen est indiqué seulement s’il existe une orientation clinique ?",
+      "choices": [
+        "Cortisol",
+        "VS/CRP",
+        "Bilan hépatique",
+        "TSH"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le cortisol est mentionné comme examen à réaliser s’il existe une orientation clinique, contrairement aux autres éléments du bilan systématique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le site d’absorption de la vitamine B12 selon le texte ?",
+      "choices": [
+        "Iléon terminal",
+        "Duodénum",
+        "Côlon",
+        "Fundus gastrique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La vitamine B12 est absorbée au niveau de l’iléon terminal, en lien avec le facteur intrinsèque."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle accumulation est responsable des signes neurologiques en cas de carence en vitamine B12 ?",
+      "choices": [
+        "Acide méthylmalonique",
+        "Ferritine",
+        "Transferrine",
+        "α2-globulines"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La carence en vitamine B12 entraîne une accumulation d’acide méthylmalonique, responsable de signes neurologiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée approximative des réserves principalement hépatiques en vitamine B12 ?",
+      "choices": [
+        "Environ 5 ans",
+        "Environ 8 jours",
+        "Environ 1 mois",
+        "Environ 6 à 8 semaines"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les réserves de vitamine B12 sont principalement hépatiques et durent environ 5 ans."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une carence en vitamine B12, quelles anomalies de l’hémogramme ou du frottis sont décrites ?",
+      "choices": [
+        "Une neutropénie peut accompagner l’anémie",
+        "Une thrombopénie parfois inférieure à 30 G/L peut s’accompagner de signes hémorragiques",
+        "Une hypersegmentation nucléaire des polynucléaires neutrophiles peut être observée",
+        "Une hyperéosinophilie constante est un élément caractéristique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La carence en vitamine B12 peut associer anémie macrocytaire arégénérative, neutropénie, thrombopénie parfois sévère, polynucléaires hypersegmentés et anomalies du frottis. L’hyperéosinophilie constante n’est pas décrite."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le dosage sérique de la vitamine B12 dans l’exploration d’une anémie mégaloblastique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il doit être réalisé avant le traitement",
+        "La diminution peut être variable et inférieure à 200 pg/mL",
+        "Son taux est étroitement corrélé à la sévérité de l’anémie et aux troubles neurologiques",
+        "Un dosage vitaminique effondré peut rendre le diagnostic évident et dispenser du myélogramme"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le dosage de vitamine B12 doit précéder le traitement. Une valeur basse, notamment inférieure à 200 pg/mL, n’est pas corrélée à la sévérité clinique ou hématologique. Le myélogramme est indiqué sauf si le diagnostic est évident par un dosage vitaminique effondré."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les carences en vitamine B9 ou B12, quels éléments médullaires ou physiopathologiques sont attendus ?",
+      "choices": [
+        "Une moelle riche en précurseurs érythroblastiques de grande taille",
+        "Un asynchronisme de maturation nucléocytoplasmique",
+        "Des signes d’hémolyse par destruction intramédullaire des érythroblastes",
+        "Une moelle constamment pauvre évoquant une aplasie médullaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les carences en vitamine B9 ou B12 donnent une mégaloblastose médullaire avec moelle riche, grands précurseurs et asynchronisme nucléocytoplasmique. L’hémolyse est liée à la destruction intramédullaire des érythroblastes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le terrain et le suivi de la maladie de Biermer, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une gastrite chronique auto-immune",
+        "Elle est plus fréquente chez la femme après 50-60 ans",
+        "Elle peut s’associer à une hypothyroïdie, un diabète de type 1 ou un vitiligo",
+        "Elle expose à un risque augmenté de cancer gastrique nécessitant une surveillance endoscopique régulière"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La maladie de Biermer est une gastrite chronique auto-immune, volontiers observée chez la femme après 50-60 ans, associée à d’autres maladies auto-immunes et à un risque accru de cancer gastrique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les examens utiles au diagnostic de maladie de Biermer, quelles propositions sont exactes ?",
+      "choices": [
+        "Les anticorps anti-facteur intrinsèque sont spécifiques mais peu sensibles",
+        "Les anticorps anti-cellules pariétales gastriques sont sensibles mais peu spécifiques",
+        "Le facteur intrinsèque est diminué avant et après stimulation",
+        "La fibroscopie gastrique montrant une gastrite atrophique fundique est spécifique de la maladie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anticorps anti-facteur intrinsèque sont spécifiques mais peu sensibles, alors que les anticorps anti-cellules pariétales sont sensibles mais peu spécifiques. La gastrite atrophique fundique à la fibroscopie est non spécifique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont citées comme étiologies possibles d’une carence en vitamine B12 ?",
+      "choices": [
+        "Végétalisme strict ou prise prolongée d’antiacides",
+        "Gastrectomie ou résection étendue de l’iléon terminal",
+        "Pullulation microbienne favorisée par une chirurgie, un diverticule ou une sténose",
+        "Infection par le bothriocéphale ou maladie d’Imerslund"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les carences d’apport rares, les malabsorptions digestives, la pullulation microbienne et des causes rares comme le bothriocéphale ou la maladie d’Imerslund."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement substitutif d’une carence en vitamine B12, quelles propositions sont exactes ?",
+      "choices": [
+        "La vitamine B12 parentérale utilisée est l’hydroxocobalamine",
+        "La reconstitution des réserves repose sur 10 injections de 1000 µg un jour sur deux",
+        "L’entretien est de 1000 µg en intramusculaire tous les 3 mois à vie",
+        "Une coloration rouge des urines peut survenir"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le traitement repose sur l’hydroxocobalamine parentérale, avec une phase de reconstitution puis un entretien intramusculaire trimestriel à vie. Les effets indésirables comprennent notamment douleur/allergie au point d’injection et coloration rouge des urines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la physiologie des folates, quelles propositions sont exactes ?",
+      "choices": [
+        "La vitamine B9 est hydrosoluble et thermolabile",
+        "Elle est nécessaire à la synthèse de l’ADN",
+        "Son absorption se fait au niveau du jéjunum proximal",
+        "Ses réserves hépatiques couvrent habituellement plusieurs années"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine B9 est hydrosoluble, thermolabile, indispensable à la synthèse de l’ADN et absorbée dans le jéjunum proximal. Ses réserves hépatiques sont courtes, de l’ordre de 2 à 4 mois."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la carence en folates, quels éléments cliniques ou biologiques sont rapportés ?",
+      "choices": [
+        "Un syndrome anémique progressif souvent bien toléré",
+        "Une glossite typique répondant aux critères de glossite de Hunter",
+        "Un risque d’anomalie de fermeture du tube neural chez le fœtus en début de grossesse",
+        "Une diminution des folates sériques et des folates érythrocytaires"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La carence en folates donne un syndrome anémique progressif, une glossite sans critères de Hunter, une baisse des folates sériques et érythrocytaires, et expose au risque d’anomalie de fermeture du tube neural en début de grossesse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles affections sont citées comme causes de malabsorption intestinale des folates ?",
+      "choices": [
+        "Maladie de Crohn ou maladie cœliaque",
+        "Lymphome digestif ou sclérodermie",
+        "Atteinte post-radique",
+        "Pullulation microbienne"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les causes de malabsorption des folates citées sont notamment maladie de Crohn, maladie cœliaque, lymphome digestif, sclérodermie, atteinte post-radique et pullulation microbienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations augmentent les besoins ou la consommation en folates selon le texte ?",
+      "choices": [
+        "Grossesse",
+        "Adolescence",
+        "Anémie hémolytique chronique",
+        "Dermite exfoliatrice sévère, notamment psoriasis"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les besoins accrus en folates sont observés pendant la grossesse et l’adolescence. Une consommation accrue est également décrite dans l’anémie hémolytique chronique et les dermites exfoliatrices sévères."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prise en charge thérapeutique d’une carence en folates, quelles propositions sont exactes ?",
+      "choices": [
+        "L’acide folique peut être donné par voie orale à 5 mg/j pendant 2 à 4 mois",
+        "L’acide folinique parentéral est indiqué en cas de malabsorption ou de traitement antifolique",
+        "Un contrôle de la NFS est prévu à 6-8 semaines",
+        "En l’absence des dosages vitaminiques, il faut débuter les folates avant toute vitamine B12"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement repose sur l’acide folique oral ou l’acide folinique parentéral dans certaines situations. La NFS est contrôlée à 6-8 semaines. En l’absence des dosages, il faut débuter d’abord la vitamine B12."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une anémie macrocytaire arégénérative sans cause évidente, quelles données orientent vers une hémopathie maligne selon le texte ?",
+      "choices": [
+        "Le myélogramme devient systématique en l’absence de cause évidente",
+        "Un syndrome myélodysplasique fait partie des causes citées",
+        "Un envahissement médullaire fait partie des causes citées",
+        "Le myélogramme n’est indiqué que lorsque le dosage vitaminique est effondré"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En l’absence de cause évidente d’anémie macrocytaire arégénérative, le myélogramme est systématique. Les causes citées comprennent le syndrome myélodysplasique et l’envahissement médullaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les pièges diagnostiques et thérapeutiques entre carence en vitamine B12 et carence en folates, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hémogramme, le bilan d’hémolyse et le myélogramme peuvent être similaires dans les deux carences",
+        "Les troubles neurologiques de la carence en vitamine B12 peuvent être irréversibles",
+        "L’administration de folates à un patient carencé en vitamine B12 peut aggraver les troubles neurologiques",
+        "La glossite de la carence en folates présente les critères de la glossite de Hunter"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les deux carences peuvent donner un tableau hématologique et médullaire similaire. Le piège majeur est de traiter par folates une carence en B12, ce qui peut aggraver les troubles neurologiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal site d’absorption des folates selon le texte ?",
+      "choices": [
+        "Estomac fundique",
+        "Jéjunum proximal",
+        "Iléon terminal",
+        "Côlon droit"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les folates sont absorbés au niveau du jéjunum proximal."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la maladie de Biermer, quelle anomalie explique l’augmentation de la gastrinémie ?",
+      "choices": [
+        "L’achlorhydrie",
+        "L’excès de facteur intrinsèque",
+        "La thrombopénie sévère",
+        "La pullulation microbienne iléale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La gastrinémie est augmentée par l’achlorhydrie observée dans la maladie de Biermer."
+    },
+    {
+      "type": "QCS",
+      "question": "Après traitement d’une carence en folates, quel contrôle est spécifiquement prévu ?",
+      "choices": [
+        "Myélogramme systématique à 48 heures",
+        "NFS à 6-8 semaines",
+        "Fibroscopie gastrique mensuelle",
+        "Dosage du facteur intrinsèque à 3 mois"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte recommande un contrôle de la NFS à 6-8 semaines après traitement de la carence en folates."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel tableau neurologique correspond à la sclérose combinée de la moelle décrite dans la carence en vitamine B12 ?",
+      "choices": [
+        "Syndrome pyramidal et cordonal postérieur bilatéral",
+        "Syndrome cérébelleux pur unilatéral",
+        "Atteinte isolée du nerf optique",
+        "Paralysie faciale périphérique isolée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La sclérose combinée de la moelle associe un syndrome pyramidal et un syndrome cordonal postérieur bilatéral, pouvant être irréversible."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les médicaments suivants, lequel est cité comme cause rare de carence en vitamine B12 plutôt que comme inhibiteur de la dihydrofolate réductase ?",
+      "choices": [
+        "Méthotrexate",
+        "Cotrimoxazole",
+        "Metformine",
+        "Sulfamides"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La metformine est citée parmi les médicaments pouvant être associés à une carence en vitamine B12. Le méthotrexate, le cotrimoxazole et les sulfamides sont cités dans les déficits en folates par inhibition de la dihydrofolate réductase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle maladie est citée comme cause d’anémie mégaloblastique congénitale liée à une carence en vitamine B12 ?",
+      "choices": [
+        "Maladie de Biermer",
+        "Maladie d’Imerslund",
+        "Maladie cœliaque",
+        "Maladie de Crohn étendue"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La maladie d’Imerslund est citée comme anémie mégaloblastique congénitale liée à une carence en vitamine B12."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modifications du volume plasmatique pouvant fausser l’interprétation de l’hémoglobine, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent modifier la concentration d’hémoglobine sans modifier le volume globulaire total",
+        "L’hémodilution peut faire conclure à tort à une anémie",
+        "L’hémoconcentration peut masquer une anémie réelle",
+        "Elles définissent toujours une anémie centrale arégénérative"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur le piège des variations du volume plasmatique total sans modification du volume globulaire total : hémodilution donnant une fausse anémie, hémoconcentration masquant une anémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les manifestations suivantes du syndrome anémique, lesquelles relèvent d’une souffrance neurosensorielle décrite dans le texte ?",
+      "choices": [
+        "Acouphènes",
+        "Scotomes",
+        "Céphalées",
+        "Hémianopsie latérale homonyme"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome anémique peut comporter vertiges, céphalées, acouphènes et scotomes. L’hémianopsie latérale homonyme n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la dyspnée au cours du syndrome anémique décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut d’abord survenir à l’effort",
+        "Elle peut évoluer vers une dyspnée de repos",
+        "Elle s’accompagne typiquement d’une auscultation pulmonaire normale",
+        "Elle impose par définition le diagnostic d’œdème aigu pulmonaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une dyspnée d’effort puis de repos, avec auscultation pulmonaire normale. L’œdème aigu pulmonaire n’est pas une conséquence obligatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments du syndrome anémique traduisent une adaptation ou une souffrance cardiovasculaire selon le texte ?",
+      "choices": [
+        "Tachycardie sinusale",
+        "Souffle systolique anorganique à l’apex",
+        "Angor",
+        "Souffle diastolique d’insuffisance aortique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome anémique peut comporter tachycardie sinusale, souffle systolique anorganique à l’apex et angor. Le souffle diastolique d’insuffisance aortique n’est pas cité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les signes orientant vers une cirrhose comme contexte étiologique d’anémie, quelles propositions sont exactes ?",
+      "choices": [
+        "Ascite",
+        "Circulation collatérale abdominale",
+        "Hépatosplénomégalie",
+        "Glossite isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Ascite, circulation collatérale abdominale et hépatosplénomégalie orientent vers une cirrhose. La glossite oriente plutôt vers une carence en vitamine B12 lorsqu’elle s’associe à des troubles neurologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les examens pouvant être demandés selon le contexte devant une anémie, lesquels sont mentionnés dans le texte ?",
+      "choices": [
+        "Bilan hépatique",
+        "Bilan d’hémolyse",
+        "Groupage sanguin",
+        "Dosage systématique de la troponine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Selon le contexte, le texte mentionne bilan inflammatoire, bilan hépatique, bilan d’hémolyse, bilan martial et groupage sanguin. La troponine n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes et causes d’anémie périphérique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est habituellement régénérative avec réticulocytes supérieurs à 120 G/L",
+        "Elle peut résulter d’une hémolyse pathologique",
+        "Elle peut être observée lors d’une régénération après chimiothérapie",
+        "Elle est définie par une disparition isolée des progéniteurs érythroblastiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie périphérique est régénérative, liée au raccourcissement de la durée de vie des globules rouges, et peut être due à une hémolyse, une hémorragie aiguë ou une régénération après anémie centrale. La disparition isolée des progéniteurs érythroblastiques correspond à l’érythroblastopénie pure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’anémie centrale par atteinte primitive ou secondaire de la production médullaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Une aplasie médullaire peut être idiopathique",
+        "Une aplasie médullaire peut être liée à une chimiothérapie",
+        "Un syndrome myélodysplasique correspond à une dysmyélopoïèse primitive",
+        "Une hémorragie digestive aiguë en est le mécanisme typique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’aplasie médullaire idiopathique ou post-chimiothérapie et les syndromes myélodysplasiques comme causes centrales. L’hémorragie digestive aiguë est une cause périphérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes chimiques et les compartiments du fer dans l’organisme, quelles propositions sont exactes ?",
+      "choices": [
+        "La majorité du fer est sous forme héminique",
+        "Le fer héminique est notamment contenu dans l’hémoglobine et la myoglobine",
+        "Le fer non héminique comprend les réserves sous forme de ferritine ou d’hémosidérine",
+        "Le fer sérique circule principalement libre sans protéine de transport"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Environ 80 % du fer est héminique, dans l’hémoglobine, la myoglobine, les cytochromes, etc. Le fer non héminique inclut les réserves et le fer sérique lié à la transferrine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les pertes physiologiques quotidiennes en fer, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont d’environ 1 mg/j chez l’homme",
+        "Elles sont d’environ 1 mg/j chez la femme ménopausée",
+        "Elles sont d’environ 2 mg/j chez la femme en période d’activité génitale",
+        "Elles sont physiologiquement nulles en dehors des menstruations"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique 1 mg/j chez l’homme et la femme ménopausée, 2 mg/j chez la femme en période d’activité génitale. Les pertes existent aussi par urines, selles, sueur, phanères et desquamation cellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles voies de pertes du fer sont citées dans le texte ?",
+      "choices": [
+        "Selles",
+        "Sueur",
+        "Phanères",
+        "Air expiré"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les pertes de fer citées comprennent urines, selles, sueur, phanères, desquamation cellulaire et menstruations. L’air expiré n’est pas mentionné."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les apports alimentaires en fer et leur absorption, quelles propositions sont exactes ?",
+      "choices": [
+        "Les apports alimentaires sont estimés à 10 à 25 mg/j",
+        "Environ 10 à 20 % des apports sont absorbés",
+        "L’absorption se fait au niveau du duodénum",
+        "L’absorption physiologique porte sur la totalité des apports ingérés"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les apports sont de 10 à 25 mg/j, absorbés à 10–20 % au niveau du duodénum. L’absorption n’est donc pas totale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les réserves martiales selon le sexe, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont d’environ 600 mg chez la femme",
+        "Elles sont d’environ 1200 mg chez l’homme",
+        "Elles participent au stockage non héminique du fer",
+        "Elles sont exclusivement circulantes sous forme de fer sérique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les réserves sont estimées à environ 600 mg chez la femme et 1200 mg chez l’homme. Elles correspondent notamment au fer non héminique stocké sous forme de ferritine/hémosidérine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies possibles de l’hémogramme et du frottis dans l’anémie ferriprive, quelles propositions sont exactes ?",
+      "choices": [
+        "Thrombocytose modérée réactionnelle possible",
+        "Thrombopénie exceptionnelle",
+        "Hématies en cible possibles au frottis",
+        "Macro-ovalocytose constante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie ferriprive peut s’accompagner d’une thrombocytose modérée réactionnelle, rarement d’une thrombopénie, et le frottis peut montrer anisocytose, poïkilocytose, microcytose et hématies en cible. La macro-ovalocytose n’est pas décrite ici."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel médiateur est cité comme inhibiteur de l’érythropoïèse au cours de l’inflammation ?",
+      "choices": [
+        "TNF",
+        "EPO",
+        "Transferrine",
+        "Ferroportine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite le TNF comme inhibiteur de l’érythropoïèse au cours de l’inflammation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme définit l’érythroblastopénie pure selon le texte ?",
+      "choices": [
+        "Disparition isolée des progéniteurs érythroblastiques",
+        "Raccourcissement de la durée de vie des globules rouges circulants",
+        "Augmentation isolée des pertes urinaires de fer",
+        "Hémodilution par expansion du volume plasmatique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’érythroblastopénie pure est définie dans le texte par la disparition isolée des progéniteurs érythroblastiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’ordre de grandeur du recyclage quotidien du fer des globules rouges sénescents par les macrophages ?",
+      "choices": [
+        "1 à 2 mg/j",
+        "8 à 10 mg/j",
+        "10 à 25 mg/j",
+        "25 à 30 mg/j"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le recyclage du fer des globules rouges sénescents par les macrophages est estimé à 25 à 30 mg/j."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel tableau clinique correspond au syndrome de Plummer-Vinson cité dans l’anémie ferriprive ?",
+      "choices": [
+        "Dysphagie avec anneau œsophagien",
+        "Ictère avec splénomégalie",
+        "Ascite avec circulation collatérale abdominale",
+        "Troubles neurologiques avec glossite"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans l’anémie ferriprive, le syndrome de Plummer-Vinson correspond à une dysphagie avec anneau œsophagien."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de capacité totale de fixation de la transferrine est compatible avec une carence martiale selon le texte ?",
+      "choices": [
+        "< 20 µmol/L",
+        "> 70 µmol/L",
+        "< 11 µmol/L",
+        "> 4 g/L"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans le bilan martial de l’anémie ferriprive, la capacité totale de fixation de la transferrine est augmentée, avec un seuil cité > 70 µmol/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez la femme jeune, quelle orientation étiologique est spécifiquement citée devant une anémie ferriprive ?",
+      "choices": [
+        "Saignement gynécologique",
+        "Myélofibrose",
+        "Macroglobulinémie de Waldenström",
+        "Insuffisance surrénale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que chez la femme jeune, une anémie ferriprive fait rechercher notamment un saignement gynécologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le cadre des situations citées autour de la carence martiale, quelles propositions correspondent à des situations particulières non classées comme simple carence d’apport ou d’absorption ?",
+      "choices": [
+        "Syndrome de Lasthénie de Ferjol avec saignées cachées",
+        "Géophagie",
+        "Hémosidérose pulmonaire chez l’enfant",
+        "Maladie de Crohn étendue comme carence d’absorption"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte individualise le syndrome de Lasthénie de Ferjol, la géophagie et l’hémosidérose pulmonaire chez l’enfant. La maladie de Crohn étendue est citée comme cause de carence d’absorption."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités pratiques du traitement martial oral, quelles propositions sont exactes ?",
+      "choices": [
+        "Le sel de fer ferreux est administré par voie orale à la dose de 100 à 200 mg/j chez l’adulte",
+        "La durée minimale du traitement est de 6 mois",
+        "La normalisation de l’hémoglobine est attendue en 1 mois",
+        "La transfusion sanguine constitue le traitement d’attaque systématique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement oral repose sur 100 à 200 mg/j chez l’adulte pendant au moins 6 mois, avec normalisation attendue de l’hémoglobine en 1 mois. La transfusion est réservée à la mauvaise tolérance clinique."
+    },
+    {
+      "type": "QCM",
+      "question": "Sous traitement martial oral, quels éléments de tolérance ou d’interaction sont mentionnés ?",
+      "choices": [
+        "Des selles noires peuvent survenir",
+        "La prise au cours des repas diminue les nausées",
+        "La consommation importante de thé doit être évitée",
+        "Les gels d’alumine doivent être associés pour améliorer l’absorption"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les selles noires, nausées, diarrhée ou constipation, céphalées et vertiges sont cités. Les nausées diminuent si la prise se fait au cours des repas. Le thé en quantité importante et les gels d’alumine doivent être évités."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’anémie inflammatoire, quels mécanismes physiopathologiques sont décrits ?",
+      "choices": [
+        "Synthèse de cytokines inflammatoires telles que IL-1, TNF-α et IFN-γ",
+        "Séquestration macrophagique du fer responsable d’une carence martiale relative",
+        "Diminution de la synthèse et de l’action de l’EPO",
+        "Augmentation de la capacité totale de fixation de la transferrine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie inflammatoire associe cytokines inflammatoires, inhibition de l’érythropoïèse, séquestration macrophagique du fer et diminution de l’EPO. La capacité totale de fixation de la transferrine est diminuée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments biologiques peuvent accompagner une anémie inflammatoire selon le texte ?",
+      "choices": [
+        "Polynucléose neutrophile fréquente",
+        "Thrombocytose fréquente",
+        "Augmentation de la CRP, de la VS, du fibrinogène et des α2-globulines",
+        "Ferritinémie diminuée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une polynucléose neutrophile et une thrombocytose fréquentes, avec syndrome inflammatoire biologique. La ferritine est augmentée dans l’anémie inflammatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations étiologiques sont correctement classées dans l’anémie inflammatoire ?",
+      "choices": [
+        "Maladie de Horton : maladie systémique",
+        "Endocardite infectieuse : infection",
+        "Tumeur solide : néoplasie",
+        "Maladie de Whipple : néoplasie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la maladie de Horton parmi les maladies systémiques, l’endocardite parmi les infections et les tumeurs solides parmi les néoplasies. La maladie de Whipple est citée dans les carences d’absorption du fer."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la répartition géographique des hémoglobinopathies, quelles propositions sont exactes ?",
+      "choices": [
+        "La thalassémie est citée sur le pourtour méditerranéen et en Asie du Sud",
+        "L’Afrique est associée à l’α-thalassémie et à l’hémoglobinose C",
+        "L’Asie est associée à la thalassémie et à l’hémoglobinose E",
+        "L’hémoglobinose E est spécifiquement rattachée à l’Afrique dans le texte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte rattache la thalassémie au pourtour méditerranéen et à l’Asie du Sud, l’α-thalassémie et l’hémoglobinose C à l’Afrique, et l’hémoglobinose E à l’Asie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles données orientent vers une thalassémie mineure plutôt que vers une thalassémie majeure ?",
+      "choices": [
+        "Découverte fortuite d’une microcytose nette avec ou sans anémie",
+        "Anémie discrète ou absente hors thalassémie majeure",
+        "Nombre de globules rouges légèrement augmenté réalisant une micropolycytémie",
+        "Anémie sévère dès la naissance ou dans la première année de vie avec contexte familial évocateur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La thalassémie mineure est évoquée devant une microcytose nette de découverte fortuite, avec anémie discrète ou absente, et parfois micropolycytémie. L’anémie sévère précoce évoque une thalassémie majeure."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les autres causes d’anémie microcytaire citées, quelles associations sont exactes ?",
+      "choices": [
+        "Déficit en vitamine B6, surtout lié à l’alcoolisme",
+        "Anémie sidéroblastique constitutionnelle, généralement liée à l’X",
+        "Saturnisme par intoxication chronique au plomb",
+        "Insuffisance rénale chronique comme cause spécifique d’anémie microcytaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite le déficit en vitamine B6 lié surtout à l’alcoolisme, l’anémie sidéroblastique constitutionnelle liée à l’X et le saturnisme. L’insuffisance rénale chronique est citée dans les anémies normocytaires arégénératives multifactorielle."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont citées comme pouvant s’intégrer dans une anémie normocytaire arégénérative multifactorielle ?",
+      "choices": [
+        "Symptôme d’une maladie générale",
+        "État inflammatoire chronique",
+        "Hépatopathie ou insuffisance rénale chronique",
+        "Pathologie endocrinienne telle qu’hypothyroïdie ou insuffisance surrénalienne"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces différentes situations comme causes ou contextes d’anémie normocytaire arégénérative multifactorielle."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le bilan d’une anémie normocytaire arégénérative, quels examens appartiennent au bilan systématique selon le texte ?",
+      "choices": [
+        "VS/CRP",
+        "Bilan hépatique",
+        "Bilan rénal",
+        "Cortisol systématique sans orientation clinique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan systématique comprend VS/CRP, bilan hépatique, bilan rénal et TSH. Le cortisol est indiqué seulement s’il existe une orientation clinique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cinétique d’une anémie centrale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle ne peut pas entraîner une baisse de l’hémoglobine supérieure à 1/120e par jour",
+        "La diminution est généralement inférieure à 0,1 g/dL/j",
+        "Un myélogramme est souvent nécessaire en l’absence d’autre cause évidente",
+        "La diminution est généralement supérieure à 0,1 g/dL/j"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une anémie centrale baisse lentement : pas plus de 1/120e par jour, généralement moins de 0,1 g/dL/j. Un myélogramme est souvent nécessaire si aucune autre cause n’est évidente."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels critères définissent l’érythroblastopénie isolée dans le texte ?",
+      "choices": [
+        "Érythroblastes médullaires inférieurs à 5 %",
+        "Autres lignées médullaires non atteintes",
+        "Anémie arégénérative avec réticulocytes inférieurs à 10 G/L",
+        "Atteinte obligatoire des lignées granulocytaire et mégacaryocytaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’érythroblastopénie isolée associe érythroblastes < 5 %, autres lignées préservées et réticulocytes < 10 G/L. Les autres lignées ne sont pas atteintes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la carence en vitamine B12, quels éléments décrivent la glossite de Hunter ?",
+      "choices": [
+        "Glossite atrophique vernissée",
+        "Langue lisse et dépapillée",
+        "Plaques érythémateuses saillantes et sèches",
+        "Troubles sensitifs lors de l’ingestion d’aliments chauds ou épicés"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La glossite de Hunter est décrite comme atrophique vernissée, avec langue lisse dépapillée, plaques érythémateuses saillantes et sèches, et troubles sensitifs au chaud ou aux aliments épicés."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cellule sécrète le facteur intrinsèque nécessaire à l’absorption de la vitamine B12 ?",
+      "choices": [
+        "Cellules fundiques gastriques",
+        "Macrophages",
+        "Plasmocytes",
+        "Cellules lymphomateuses"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le facteur intrinsèque est sécrété par les cellules fundiques gastriques."
+    },
+    {
+      "type": "QCS",
+      "question": "Après quel délai l’anémie inflammatoire peut-elle devenir hypochrome microcytaire selon le texte ?",
+      "choices": [
+        "Après 1 mois",
+        "Après 2 et 4 mois",
+        "Après 6 mois",
+        "Après 6 à 8 semaines"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’anémie inflammatoire est normochrome normocytaire initialement, puis peut devenir hypochrome microcytaire après 6 à 8 semaines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cause d’anémie microcytaire correspond à une intoxication chronique au plomb ?",
+      "choices": [
+        "Déficit en vitamine B6",
+        "Saturnisme",
+        "Anémie sidéroblastique constitutionnelle",
+        "Hémoglobinose C"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le saturnisme correspond à une intoxication chronique au plomb."
+    },
+    {
+      "type": "QCS",
+      "question": "Devant une moelle pauvre ou un prélèvement médullaire non interprétable, quel examen est indiqué selon le texte ?",
+      "choices": [
+        "Électrophorèse de l’hémoglobine",
+        "Biopsie ostéo-médullaire",
+        "Ferritinémie après fenêtre thérapeutique",
+        "Bilan martial seul"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En cas de moelle pauvre ou de prélèvement médullaire non interprétable, une biopsie ostéo-médullaire est indiquée."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les médicaments cités, lequel fait partie des causes médicamenteuses d’anémie macrocytaire arégénérative à éliminer ?",
+      "choices": [
+        "Gels d’alumine",
+        "EPO",
+        "Hydroxyurée",
+        "Immunoglobulines polyvalentes IV"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’hydroxyurée est citée parmi les médicaments pouvant être en cause dans une anémie macrocytaire arégénérative."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement est indiqué dans l’érythroblastopénie isolée aiguë liée au parvovirus B19 selon le texte ?",
+      "choices": [
+        "Immunoglobulines polyvalentes IV à forte dose",
+        "Sel de fer ferreux oral pendant 6 mois",
+        "Gels d’alumine",
+        "Transfusion sanguine systématique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’érythroblastopénie isolée liée au parvovirus B19 relève d’un traitement par immunoglobulines polyvalentes IV à forte dose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement parentéral d’une carence en vitamine B12 par hydroxocobalamine, quelles propositions sont exactes ?",
+      "choices": [
+        "La phase de reconstitution comporte 10 injections de 1000 µg.",
+        "Les injections de reconstitution sont administrées un jour sur deux.",
+        "L’entretien recommandé est de 1000 µg IM tous les 3 mois à vie.",
+        "La coloration rouge des urines impose l’arrêt définitif du traitement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une reconstitution par 10 injections de 1000 µg un jour sur deux, puis un entretien de 1000 µg IM tous les 3 mois à vie. La coloration rouge des urines est citée comme effet indésirable, sans indication d’arrêt définitif."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une anémie mégaloblastique liée à une carence en vitamine B12, quels éléments biologiques peuvent être observés selon le texte ?",
+      "choices": [
+        "Une macrocytose souvent marquée avec VGM généralement supérieur à 110 fL.",
+        "Une anémie arégénérative.",
+        "Une neutropénie possible malgré des leucocytes parfois normaux.",
+        "Une thrombocytose constante avec plaquettes toujours supérieures à 450 G/L."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La carence en vitamine B12 donne une anémie souvent sévère, macrocytaire, généralement avec VGM > 110 fL, arégénérative. Les leucocytes peuvent être normaux ou diminués par neutropénie. Les plaquettes sont normales ou diminuées, parfois très basses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies du frottis sanguin décrites dans les carences mégaloblastiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Des corps de Jolly peuvent être observés.",
+        "Des anneaux de Cabot peuvent être présents.",
+        "Des polynucléaires neutrophiles hypersegmentés sont décrits.",
+        "Des mégathrombocytes excluent une carence vitaminique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite au frottis : corps de Jolly, ponctuations basophiles, anneaux de Cabot, polynucléaires hypersegmentés et mégathrombocytes. Les mégathrombocytes n’excluent donc pas une carence vitaminique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du myélogramme dans les carences en vitamine B9 ou B12, quelles propositions sont exactes ?",
+      "choices": [
+        "Il montre une moelle riche en précurseurs érythroblastiques de grande taille.",
+        "Les précurseurs érythroblastiques anormaux sont appelés mégaloblastes.",
+        "L’asynchronisme de maturation nucléocytoplasmique est typique.",
+        "Une moelle pauvre est l’aspect typique attendu dans ces carences."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le myélogramme met en évidence une moelle riche avec mégaloblastes et asynchronisme de maturation nucléocytoplasmique. Une moelle pauvre n’est pas l’aspect typique décrit pour les carences en B9 ou B12."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la maladie de Biermer, quelles interprétations des examens immunologiques ou gastriques sont correctes ?",
+      "choices": [
+        "Les anticorps anti-facteur intrinsèque sont spécifiques mais peu sensibles.",
+        "Les anticorps anti-cellules pariétales gastriques sont sensibles mais peu spécifiques.",
+        "La fibroscopie gastrique peut montrer une gastrite atrophique fundique non spécifique.",
+        "Le facteur intrinsèque est augmenté avant et après stimulation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans la maladie de Biermer, les anti-facteur intrinsèque sont spécifiques mais peu sensibles, les anti-cellules pariétales sont sensibles mais peu spécifiques, et la fibroscopie peut montrer une gastrite atrophique fundique non spécifique. Le facteur intrinsèque est diminué."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conséquences digestives et le suivi de la maladie de Biermer, quelles propositions sont exactes ?",
+      "choices": [
+        "Il existe une gastrite chronique auto-immune.",
+        "L’achlorhydrie peut être totale et histamino-résistante.",
+        "La gastrinémie est augmentée par l’achlorhydrie.",
+        "Le risque de cancer gastrique est diminué, supprimant l’intérêt d’une surveillance endoscopique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie de Biermer correspond à une gastrite chronique auto-immune avec achlorhydrie totale histamino-résistante et hypergastrinémie secondaire. Le risque de cancer gastrique est augmenté, justifiant une surveillance endoscopique régulière."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la carence en folates, quelles propositions physiologiques sont exactes ?",
+      "choices": [
+        "La vitamine B9 est hydrosoluble.",
+        "La vitamine B9 est thermolabile.",
+        "L’absorption se fait au niveau du jéjunum proximal.",
+        "Les réserves hépatiques couvrent habituellement plusieurs années."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine B9 est hydrosoluble et thermolabile, absorbée au jéjunum proximal. Ses réserves principalement hépatiques sont limitées à 2 à 4 mois, et non à plusieurs années."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations peuvent favoriser une carence d’apport en folates selon le texte ?",
+      "choices": [
+        "Une alimentation exclusivement cuite ou sans légumes crus.",
+        "Une dénutrition.",
+        "Un alcoolisme.",
+        "Une alimentation riche en légumes verts, céréales, fruits et foie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La carence d’apport est la cause la plus fréquente de déficit en folates. Elle est favorisée par une alimentation exclusivement cuite ou sans légumes crus, la dénutrition et l’alcoolisme. Les légumes verts, céréales, fruits et foie sont au contraire des sources de folates."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les causes de malabsorption intestinale des folates citées, quelles propositions sont exactes ?",
+      "choices": [
+        "La maladie cœliaque.",
+        "Le lymphome digestif.",
+        "La sclérodermie.",
+        "L’hypothyroïdie auto-immune isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes de malabsorption des folates citées comprennent notamment la maladie de Crohn, la maladie cœliaque, le lymphome digestif, la sclérodermie, l’atteinte post-radique et la pullulation microbienne. L’hypothyroïdie est citée comme association auto-immune dans Biermer, pas comme cause de malabsorption des folates."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les situations augmentant les besoins ou la consommation en folates, quelles propositions sont exactes ?",
+      "choices": [
+        "La grossesse.",
+        "L’adolescence.",
+        "L’anémie hémolytique chronique.",
+        "La gastrectomie isolée comme mécanisme principal d’augmentation des besoins."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les besoins accrus en folates lors de la grossesse et de l’adolescence, ainsi que l’anémie hémolytique chronique et les dermites exfoliatrices sévères. La gastrectomie est citée dans la malabsorption de la vitamine B12."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les médicaments impliqués dans un déficit en folates par inhibition de la dihydrofolate réductase ou mécanisme antifolique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le méthotrexate.",
+        "Le cotrimoxazole.",
+        "Les sulfamides.",
+        "La metformine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite comme inhibiteurs de la dihydrofolate réductase ou traitements antifoliques : méthotrexate, cotrimoxazole, sulfamides, hydantoïne et 5-FU. La metformine est citée parmi les causes rares de carence en vitamine B12."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prise en charge d’une carence en folates, quelles propositions sont exactes ?",
+      "choices": [
+        "L’acide folique peut être prescrit par voie orale à 5 mg/j.",
+        "La durée habituelle du traitement oral est de 2 à 4 mois.",
+        "Un contrôle de la NFS est prévu à 6-8 semaines.",
+        "La transfusion est systématique dès que l’hémoglobine est très basse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement repose sur l’acide folique oral 5 mg/j pendant 2 à 4 mois, avec contrôle de la NFS à 6-8 semaines. La transfusion non indispensable doit être évitée, même si l’hémoglobine est très basse, du fait de l’installation progressive."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une anémie macrocytaire arégénérative sans cause évidente, quelles propositions sont compatibles avec l’orientation vers une hémopathie maligne selon le texte ?",
+      "choices": [
+        "Un myélogramme est indiqué de façon systématique en l’absence de cause évidente.",
+        "Un syndrome myélodysplasique fait partie des causes citées.",
+        "Un envahissement médullaire fait partie des causes citées.",
+        "L’absence de cause évidente dispense de tout examen médullaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En l’absence de cause évidente d’anémie macrocytaire arégénérative, le texte indique un myélogramme systématique. Les causes citées comprennent le syndrome myélodysplasique et l’envahissement médullaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les pièges thérapeutiques entre carence en folates et carence en vitamine B12, quelles propositions sont exactes ?",
+      "choices": [
+        "L’administration de folates chez un patient carencé en vitamine B12 peut aggraver les troubles neurologiques.",
+        "En l’absence de résultats des dosages vitaminiques, il faut débuter d’abord la vitamine B12.",
+        "Le traitement antifolique ou la malabsorption peuvent justifier une supplémentation parentérale par acide folinique.",
+        "Les folates corrigent sans risque les troubles neurologiques d’une carence en vitamine B12."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur le risque d’aggravation neurologique si l’on administre des folates à un patient carencé en B12. En cas d’absence de résultats, on débute d’abord la B12. L’acide folinique parentéral est indiqué en cas de malabsorption ou de traitement antifolique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de folates sériques est cité comme diminué dans une carence en folates ?",
+      "choices": [
+        "Inférieur à 5 µg/L.",
+        "Inférieur à 50 µg/L.",
+        "Inférieur à 200 pg/mL.",
+        "Inférieur à 30 G/L."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte définit les folates sériques diminués par une valeur inférieure à 5 µg/L. Le seuil < 200 pg/mL concerne la vitamine B12."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie fœtale est spécifiquement associée à la carence en folates en début de grossesse ?",
+      "choices": [
+        "Une anomalie de fermeture du tube neural.",
+        "Une gastrite atrophique fundique.",
+        "Une achlorhydrie histamino-résistante.",
+        "Une multinévrite périphérique irréversible."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En début de grossesse, la carence en folates expose le fœtus à un risque d’anomalie de fermeture du tube neural."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement est spécifiquement proposé en cas de carence en folates avec malabsorption ou traitement antifolique ?",
+      "choices": [
+        "Acide folinique par voie parentérale.",
+        "Hydroxocobalamine IM tous les 3 mois uniquement.",
+        "Fer oral pendant 6 mois.",
+        "Transfusion systématique sans supplémentation vitaminique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas de malabsorption ou de traitement antifolique, le texte recommande une supplémentation parentérale par acide folinique."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la carence en vitamine B12, quelle affirmation concernant le dosage sérique avant traitement est exacte ?",
+      "choices": [
+        "Sa diminution n’est pas corrélée à la sévérité de l’anémie ni aux troubles neurologiques.",
+        "Il est toujours strictement proportionnel à la gravité neurologique.",
+        "Il devient inutile avant tout traitement substitutif.",
+        "Il permet à lui seul d’éliminer une maladie de Biermer si la gastrinémie est augmentée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le dosage sérique de la vitamine B12 doit être réalisé avant traitement ; sa diminution est variable et n’est pas corrélée à la sévérité de l’anémie ni aux troubles neurologiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel effet indésirable est cité avec l’hydroxocobalamine parentérale ?",
+      "choices": [
+        "Coloration rouge des urines.",
+        "Hypochromie microcytaire immédiate.",
+        "Achlorhydrie totale histamino-résistante.",
+        "Anomalie de fermeture du tube neural."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les effets indésirables cités de l’hydroxocobalamine sont la douleur ou l’allergie au point d’injection et la coloration rouge des urines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle population est décrite comme plus fréquemment concernée par la maladie de Biermer ?",
+      "choices": [
+        "La femme après 50-60 ans.",
+        "Le nourrisson exclusivement allaité.",
+        "L’adolescent masculin en poussée pubertaire.",
+        "Le sportif jeune sans pathologie auto-immune."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la maladie de Biermer est plus fréquente chez la femme après 50-60 ans."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les seuils diagnostiques de l’anémie selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Chez l’homme adulte, l’anémie est définie par une Hb < 13 g/dL.",
+        "Chez la femme adulte, l’anémie est définie par une Hb < 12 g/dL.",
+        "Chez le nouveau-né, l’anémie est définie par une Hb < 14 g/dL.",
+        "Chez le jeune enfant, l’anémie est définie par une Hb < 13 g/dL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les seuils retenus sont Hb < 13 g/dL chez l’homme adulte, < 12 g/dL chez la femme adulte, < 14 g/dL chez le nouveau-né et < 11 g/dL chez le jeune enfant."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles peuvent donner une fausse anémie par hémodilution selon le texte ?",
+      "choices": [
+        "Grossesse.",
+        "Splénomégalie volumineuse.",
+        "Dysglobulinémie monoclonale à taux élevé.",
+        "Déshydratation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La grossesse, la splénomégalie volumineuse et les dysglobulinémies monoclonales à taux élevé peuvent entraîner une hémodilution. La déshydratation expose au contraire à une hémoconcentration pouvant masquer une anémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles peuvent masquer une anémie par hémoconcentration ?",
+      "choices": [
+        "Déshydratation.",
+        "Hypothyroïdie.",
+        "Insuffisance surrénale.",
+        "Insuffisance cardiaque sévère."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie peut être masquée par hémoconcentration en cas de déshydratation, d’hypothyroïdie ou d’insuffisance surrénale. L’insuffisance cardiaque sévère est citée parmi les causes de fausse anémie par hémodilution."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’exploration initiale d’une anémie, quels examens sont cités comme biologiques de première intention ?",
+      "choices": [
+        "NFS.",
+        "Numération des réticulocytes.",
+        "Étude de la morphologie des globules rouges au frottis sanguin.",
+        "Myélogramme systématique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite en première intention la NFS, la numération des réticulocytes et le frottis sanguin. Le myélogramme n’est pas indiqué systématiquement dans ce passage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’anémie centrale selon la classification physiopathologique du texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est arégénérative lorsque les réticulocytes sont < 120 G/L.",
+        "Son mécanisme est une insuffisance de production médullaire.",
+        "Un déficit en EPO peut en être responsable.",
+        "Elle résulte par définition d’un raccourcissement de la durée de vie des globules rouges circulants."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie centrale est arégénérative avec réticulocytes < 120 G/L et traduit une insuffisance de production médullaire. Un déficit en EPO est cité parmi les causes. Le raccourcissement de la durée de vie des globules rouges définit plutôt une anémie périphérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont citées comme causes possibles d’anémie centrale ?",
+      "choices": [
+        "Aplasie médullaire idiopathique ou post-chimiothérapie.",
+        "Érythroblastopénie pure.",
+        "Envahissement médullaire par métastase de cancer solide.",
+        "Hémorragie digestive aiguë isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les aplasies médullaires, l’érythroblastopénie pure et l’envahissement médullaire par métastase peuvent donner une anémie centrale. L’hémorragie digestive aiguë relève d’une anémie périphérique par perte sanguine aiguë."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’anémie périphérique selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est régénérative lorsque les réticulocytes sont > 120 G/L.",
+        "Elle peut être due à une perte sanguine aiguë, comme une hémorragie digestive.",
+        "Elle peut être liée à une hémolyse pathologique.",
+        "La myélofibrose en est un mécanisme typique par raccourcissement de la survie globulaire circulante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie périphérique est régénérative avec réticulocytes > 120 G/L et résulte d’un raccourcissement de la durée de vie des globules rouges circulants, notamment par hémorragie aiguë ou hémolyse. La myélofibrose est classée parmi les causes centrales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’anémie mixte décrite dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est multifactorielle.",
+        "Elle est souvent non régénérative.",
+        "Elle peut s’observer au cours d’une insuffisance rénale ou d’un cancer.",
+        "Elle est toujours franchement régénérative."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie mixte est décrite comme multifactorielle, souvent non régénérative, avec des causes telles que cirrhose, insuffisance rénale, cancer et endocrinopathie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments cliniques sont compatibles avec une anémie ferriprive selon le texte ?",
+      "choices": [
+        "Installation très progressive, souvent bien tolérée.",
+        "Ongles mous et cassants.",
+        "Syndrome des jambes sans repos.",
+        "Dyspnée avec auscultation pulmonaire constamment anormale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie ferriprive est souvent progressive et bien tolérée. Les signes de sidéropénie incluent les atteintes des phanères et le syndrome des jambes sans repos. Dans le syndrome anémique, la dyspnée s’accompagne d’une auscultation pulmonaire normale."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours de l’évolution biologique d’une carence martiale, quelles anomalies sont attendues ?",
+      "choices": [
+        "Baisse de la ferritine.",
+        "Augmentation de la transferrine.",
+        "Baisse du coefficient de saturation de la transferrine.",
+        "Augmentation précoce et constante de la ferritine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La carence martiale entraîne une baisse de la ferritine, une augmentation de la transferrine, une augmentation de la capacité totale de fixation et une baisse du coefficient de saturation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels résultats de bilan martial sont compatibles avec une anémie ferriprive selon les seuils cités ?",
+      "choices": [
+        "Fer sérique < 11 µmol/L.",
+        "Capacité totale de fixation de la transferrine > 70 µmol/L.",
+        "Transferrine > 4 g/L.",
+        "Coefficient de saturation de la transferrine > 40 %."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’anémie ferriprive, le texte cite : fer sérique < 11 µmol/L, capacité totale de fixation > 70 µmol/L, transferrine > 4 g/L et coefficient de saturation < 20 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le métabolisme du fer décrit dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La quantité totale de fer de l’organisme est d’environ 4 à 5 g.",
+        "Environ 80 % du fer est sous forme héminique.",
+        "Le recyclage macrophagique du fer des globules rouges sénescents est d’environ 25 à 30 mg/j.",
+        "Les pertes physiologiques quotidiennes sont habituellement de 10 à 25 mg/j."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fer total est estimé à 4-5 g, dont 80 % sous forme héminique. Le recyclage macrophagique représente 25 à 30 mg/j. Les pertes physiologiques quotidiennes sont plutôt de 1 à 2 mg/j selon le sexe et le statut génital."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption et la régulation du fer, quelles propositions sont exactes ?",
+      "choices": [
+        "La captation apicale du fer par les entérocytes se fait via DMT1.",
+        "Le relargage du fer par l’entérocyte implique la ferroportine.",
+        "L’hepcidine hépatique inhibe la ferroportine et DMT1.",
+        "La transferrine est la forme principale de stockage entérocytaire du fer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "DMT1 assure la captation apicale, la ferroportine permet le relargage, et l’hepcidine inhibe ferroportine et DMT1. Le stockage entérocytaire se fait sous forme de ferritine, non de transferrine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les causes et contextes favorisants de carence martiale cités dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hémorragie chronique est la cause principale chez l’adulte.",
+        "Chez la femme jeune, un saignement gynécologique doit être évoqué.",
+        "La grossesse augmente les besoins en fer à environ 8 à 10 mg/j.",
+        "Chez l’adulte, la carence d’apport est présentée comme la cause principale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur l’hémorragie chronique comme cause principale chez l’adulte, avec orientation vers un saignement gynécologique chez la femme jeune. La grossesse augmente les besoins en fer. La carence d’apport n’est pas présentée comme cause principale chez l’adulte."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez une femme adulte non enceinte, quel seuil d’hémoglobine définit une anémie selon le texte ?",
+      "choices": [
+        "Hb < 10,5 g/dL.",
+        "Hb < 11 g/dL.",
+        "Hb < 12 g/dL.",
+        "Hb < 13 g/dL."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Chez la femme adulte, l’anémie est définie par une hémoglobine < 12 g/dL."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez le nouveau-né, quel seuil d’hémoglobine définit une anémie selon le texte ?",
+      "choices": [
+        "Hb < 10,5 g/dL.",
+        "Hb < 11 g/dL.",
+        "Hb < 12 g/dL.",
+        "Hb < 14 g/dL."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Chez le nouveau-né, le seuil diagnostique d’anémie est Hb < 14 g/dL."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’adulte, quel VGM définit une anémie microcytaire selon le texte ?",
+      "choices": [
+        "VGM < 72 fL.",
+        "VGM < 80 fL.",
+        "VGM < 90 fL.",
+        "VGM < 100 fL."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Chez l’adulte, l’anémie microcytaire est définie par un VGM < 80 fL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule assure la captation apicale du fer par les entérocytes selon le texte ?",
+      "choices": [
+        "Ferroportine.",
+        "DMT1.",
+        "Transferrine.",
+        "Hepcidine."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La captation apicale du fer par les entérocytes se fait via DMT1."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de ferritine sérique est cité comme compatible avec une carence martiale chez la femme ?",
+      "choices": [
+        "Ferritine < 10 µg/L.",
+        "Ferritine < 20 µg/L.",
+        "Ferritine < 30 µg/L.",
+        "Ferritine < 70 µg/L."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Chez la femme, le texte retient une ferritine sérique < 20 µg/L comme seuil compatible avec une carence martiale."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’anémie ferriprive, quelle anomalie plaquettaire est décrite comme possible selon le texte ?",
+      "choices": [
+        "Thrombocytose modérée réactionnelle.",
+        "Thrombopénie constante.",
+        "Aplasie mégacaryocytaire obligatoire.",
+        "Hyperplaquettose maligne spécifique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’anémie ferriprive peut s’accompagner d’une thrombocytose modérée réactionnelle. La thrombopénie est exceptionnelle."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-03T22:48:42.305Z"
+}

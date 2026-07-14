@@ -1,0 +1,3120 @@
+{
+  "category": "medicale",
+  "module": "neurologie",
+  "courseId": 194,
+  "courseTitle": "Les Epilepsies",
+  "supportTitle": "les-epilepsies",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/medicale-pdf/NEUROLOGIE/les-epilepsies.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les définitions de la crise épileptique et de l’épilepsie, quelles propositions sont exactes ?",
+      "choices": [
+        "La crise épileptique correspond à la manifestation clinique d’une hyperactivité paroxystique d’un groupe de neurones cérébraux.",
+        "L’épilepsie est définie par une crise unique prolongée sans notion de répétition.",
+        "L’épilepsie est une affection neurologique chronique caractérisée par la répétition de crises épileptiques, en général spontanées.",
+        "La propagation de l’hyperactivité neuronale est impossible au cours d’une crise épileptique."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "La crise épileptique traduit une hyperactivité paroxystique neuronale avec éventuelle propagation. L’épilepsie est chronique et repose sur la répétition de crises, généralement spontanées."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles manifestations peuvent appartenir à une crise épileptique selon le texte ?",
+      "choices": [
+        "Modification abrupte de l’état de conscience.",
+        "Phénomènes moteurs.",
+        "Manifestations végétatives.",
+        "Altération de la réponse de l’individu à son environnement."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Une crise épileptique peut comporter une modification de la conscience, des phénomènes moteurs, sensitifs ou sensoriels, psychiques, végétatifs, ainsi qu’une altération de la réponse à l’environnement."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des anomalies EEG décrites au cours des crises épileptiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Les pointes peuvent traduire une activité paroxystique.",
+        "Les polypointes peuvent être observées.",
+        "Les pointes-ondes font partie des activités paroxystiques décrites.",
+        "L’EEG n’a pas de place dans le diagnostic positif de l’épilepsie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’EEG est un outil primordial du diagnostic positif et peut montrer des pointes, polypointes, pointes-ondes ou décharges paroxystiques d’activités rythmiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les crises généralisées, quelles propositions sont exactes ?",
+      "choices": [
+        "La décharge paroxystique est d’emblée propagée aux deux hémisphères.",
+        "Elle semble intéresser simultanément l’ensemble du cortex cérébral.",
+        "Les signes moteurs sont habituellement d’emblée bilatéraux et symétriques.",
+        "La conscience est toujours conservée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les crises généralisées, la décharge est bilatérale d’emblée, semble intéresser tout le cortex, et les manifestations habituelles associent signes moteurs bilatéraux symétriques et perte de connaissance."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre type de signe moteur généralisé et définition sont exactes ?",
+      "choices": [
+        "Signe tonique : contractions musculaires segmentaires soutenues.",
+        "Signe clonique : secousses musculaires segmentaires répétitives et rythmiques.",
+        "Signe atonique : interruption brève et soudaine du tonus de tout ou partie du corps.",
+        "Signe myoclonique : succession obligatoire d’une phase tonique puis clonique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les myoclonies correspondent à des contractions simultanées de muscles agonistes et antagonistes, isolées ou en salves. La succession tonique puis clonique définit une crise tonico-clonique."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours de la phase tonique d’une crise généralisée tonico-clonique, quelles manifestations peuvent être observées ?",
+      "choices": [
+        "Cri profond possible au début.",
+        "Abolition de la conscience.",
+        "Apnée avec cyanose.",
+        "Reprise immédiate des activités sans confusion."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase tonique dure 10 à 20 secondes et peut comporter cri initial, chute, abolition de la conscience, révulsion oculaire, contraction tonique généralisée, apnée cyanogène et signes végétatifs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la phase résolutive ou postcritique d’une crise généralisée tonico-clonique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut durer de quelques minutes à quelques dizaines de minutes.",
+        "Elle comporte un coma profond hypotonique.",
+        "Une respiration ample, bruyante et stertoreuse peut être observée.",
+        "Elle se caractérise par une conservation complète du souvenir de la crise au réveil."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase postcritique peut durer plusieurs minutes, avec coma hypotonique, relâchement musculaire, respiration stertoreuse, sommeil, confusion, amnésie postcritique, céphalées et courbatures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’EEG d’une crise généralisée tonico-clonique, quelles propositions sont exactes ?",
+      "choices": [
+        "Pendant la phase tonique, l’activité est rapide, de bas voltage, d’amplitude croissante.",
+        "Pendant la phase clonique, on observe des polypointes ou polypointes-ondes progressivement ralenties.",
+        "Pendant la phase postcritique, des ondes lentes peuvent persister plusieurs heures ou plusieurs jours.",
+        "Pendant la phase postcritique, l’EEG est obligatoirement normal immédiatement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’EEG varie selon les phases : activité rapide de bas voltage en phase tonique, polypointes ou polypointes-ondes ralenties en phase clonique, puis ondes lentes postcritiques parfois prolongées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les absences typiques, quelles propositions sont exactes ?",
+      "choices": [
+        "L’enfant s’immobilise avec interruption de l’activité en cours.",
+        "Le regard est vide.",
+        "La reprise des activités est immédiate.",
+        "Le souvenir de l’épisode est habituellement précis."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les absences typiques, l’enfant s’immobilise, interrompt son activité, a un regard vide, reprend immédiatement l’activité et ne garde aucun souvenir de l’épisode."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’EEG des absences, quelles propositions sont exactes ?",
+      "choices": [
+        "L’absence typique s’accompagne d’une décharge bilatérale, synchrone et symétrique de pointes-ondes à 3 Hz.",
+        "L’absence typique a un début et une fin EEG brusques.",
+        "L’absence atypique comporte des pointes-ondes bilatérales irrégulières, asynchrones, inférieures à 3 Hz.",
+        "L’absence atypique interrompt toujours une activité de fond normale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les absences typiques ont des pointes-ondes à 3 Hz, bilatérales, synchrones, symétriques, à début et fin brusques. Les atypiques ont des pointes-ondes lentes irrégulières, asynchrones, sur activité de fond anormale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles caractéristiques orientent vers une absence atypique plutôt que typique ?",
+      "choices": [
+        "Début et fin plus progressifs.",
+        "Durée plus longue.",
+        "Altération moins marquée de la conscience.",
+        "Pointes-ondes régulières à 3 Hz de début et de fin brusques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les absences atypiques ont un début et une fin plus progressifs, une durée plus longue, une altération moins marquée de la conscience et un EEG à pointes-ondes lentes irrégulières inférieures à 3 Hz."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les crises partielles ou focales, quelles propositions sont exactes ?",
+      "choices": [
+        "La décharge paroxystique intéresse initialement un secteur cortical limité.",
+        "On distingue les crises partielles simples et les crises partielles complexes.",
+        "Les crises partielles simples peuvent comporter des signes moteurs, sensitifs ou sensoriels, végétatifs ou psychiques.",
+        "Elles sont définies par une décharge d’emblée propagée simultanément aux deux hémisphères."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises focales débutent dans un secteur cortical limité. Elles peuvent être simples ou complexes ; les crises partielles simples peuvent avoir des signes moteurs, sensitifs/sensoriels, végétatifs ou psychiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les crises partielles simples avec signes moteurs, quelles propositions sont exactes ?",
+      "choices": [
+        "La crise somatomotrice avec marche jacksonienne comporte des clonies unilatérales avec extension selon la somatotopie.",
+        "La crise somatomotrice avec marche jacksonienne a pour origine la zone motrice primaire controlatérale.",
+        "La crise versive ou giratoire peut comporter une déviation de tout ou partie du corps.",
+        "La crise versive ou giratoire a pour origine la région préfrontale homolatérale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La marche jacksonienne associe clonies unilatérales et progression somatotopique, d’origine motrice primaire controlatérale. La crise versive/giratoire provient de la région préfrontale controlatérale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prise en charge diagnostique et thérapeutique des épilepsies, quelles propositions sont exactes ?",
+      "choices": [
+        "L’EEG est un outil primordial du diagnostic positif.",
+        "L’enquête étiologique dépend notamment des explorations neuroradiologiques.",
+        "Le traitement repose sur des médicaments antiépileptiques prescrits selon des règles précises.",
+        "Les médicaments antiépileptiques contrôlent toutes les épilepsies."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’EEG est central pour le diagnostic positif, l’étiologie dépend notamment de la neuroradiologie, et le traitement médicamenteux suit des règles précises. Il contrôle environ 70 % des épilepsies, non la totalité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le mieux l’état de mal épileptique selon le texte ?",
+      "choices": [
+        "Une crise focale simple avec signes moteurs isolés.",
+        "Des crises répétées à très bref délai sans reprise de conscience entre les crises, ou une crise prolongée.",
+        "Une absence typique très brève avec reprise immédiate des activités.",
+        "Une activité EEG anormale sans manifestation clinique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’état de mal épileptique correspond à des crises répétées très rapprochées sans reprise de conscience entre elles, ou à une crise prolongée."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une crise généralisée, quelle est la caractéristique initiale de la décharge paroxystique ?",
+      "choices": [
+        "Elle intéresse initialement un secteur cortical limité.",
+        "Elle est d’emblée propagée aux deux hémisphères.",
+        "Elle reste limitée à la zone motrice primaire controlatérale.",
+        "Elle provient de la région préfrontale controlatérale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans les crises généralisées, la décharge est d’emblée bilatérale et semble intéresser simultanément l’ensemble du cortex cérébral."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée habituelle de la phase tonique d’une crise généralisée tonico-clonique ?",
+      "choices": [
+        "Quelques secondes à une dizaine de secondes.",
+        "10 à 20 secondes.",
+        "20 à 30 secondes.",
+        "Quelques heures à quelques jours."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La phase tonique de la crise généralisée tonico-clonique dure 10 à 20 secondes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel aspect EEG caractérise l’absence typique ?",
+      "choices": [
+        "Ondes lentes postcritiques pouvant persister plusieurs jours.",
+        "Activité rapide de bas voltage d’amplitude croissante.",
+        "Décharge bilatérale, synchrone et symétrique de pointes-ondes à 3 Hz.",
+        "Pointes-ondes bilatérales irrégulières, asynchrones, inférieures à 3 Hz sur activité de fond anormale."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’absence typique est caractérisée par une décharge bilatérale, synchrone et symétrique de pointes-ondes à 3 Hz, de début et de fin brusques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’origine corticale d’une crise somatomotrice avec marche jacksonienne ?",
+      "choices": [
+        "Zone motrice primaire controlatérale.",
+        "Région préfrontale controlatérale.",
+        "Cortex moteur primaire et régions prémotrices sans marche jacksonienne.",
+        "Ensemble du cortex cérébral d’emblée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La crise somatomotrice avec marche jacksonienne comporte des clonies unilatérales avec extension selon la somatotopie et provient de la zone motrice primaire controlatérale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel diagnostic différentiel est explicitement cité devant une absence typique ?",
+      "choices": [
+        "Simple rêverie.",
+        "Crise versive.",
+        "Crise phonatoire.",
+        "État de mal épileptique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite la simple rêverie comme diagnostic différentiel des absences typiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les crises partielles somatosensitives décrites dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent se manifester par des paresthésies à type de picotements ou de fourmillements.",
+        "Leur origine habituelle est le cortex pariétal primaire.",
+        "Elles comportent typiquement des hallucinations auditives élaborées.",
+        "Elles peuvent être semblables aux crises motrices jacksoniennes dans leur progression."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les crises somatosensitives peuvent comporter des paresthésies et être comparées aux crises motrices jacksoniennes. Leur origine est le cortex pariétal primaire. Les hallucinations auditives relèvent des crises auditives."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des crises visuelles partielles, quelles propositions sont exactes ?",
+      "choices": [
+        "Les phosphènes, étoiles et cercles colorés correspondent à des hallucinations élémentaires.",
+        "Les macropsies, micropsies et téléopsie sont des illusions visuelles.",
+        "Les hallucinations complexes peuvent comporter des objets, personnages ou scènes.",
+        "Leur origine habituelle est le cortex orbitofrontal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises visuelles peuvent associer hallucinations élémentaires, illusions visuelles et hallucinations complexes. Leur origine est le cortex occipital péricalcarin opposé, et non le cortex orbitofrontal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les crises auditives partielles, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent comporter des acouphènes.",
+        "Les déformations des voix ou l’éloignement des sons sont des illusions auditives.",
+        "Les manifestations auditives élaborées peuvent être des voix ou de la musique.",
+        "Leur origine est la région operculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises auditives peuvent comporter hallucinations élémentaires, acouphènes, illusions auditives et manifestations élaborées telles que musique ou voix. Leur origine est l’aire auditive primaire, au niveau du gyrus de Heschl."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les crises olfactives et gustatives, quelles propositions sont exactes ?",
+      "choices": [
+        "Les crises olfactives peuvent comporter des parosmies.",
+        "La cacosmie correspond à une odeur désagréable.",
+        "Les hallucinations gustatives peuvent être à type de goût amer ou acide.",
+        "Les crises gustatives ont pour origine habituelle le cortex occipital péricalcarin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises olfactives donnent des parosmies ou cacosmies et sont d’origine orbitofrontale. Les crises gustatives donnent un goût amer ou acide, souvent avec hypersalivation, et proviennent de la région operculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles manifestations peuvent correspondre à une crise vertigineuse selon le texte ?",
+      "choices": [
+        "Sensation de rotation de l’espace environnant autour du corps.",
+        "Sensation de rotation du corps lui-même.",
+        "Impression de flottement ou de lévitation.",
+        "Déformation des voix avec éloignement des sons."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La crise vertigineuse peut donner une rotation de l’environnement, une rotation du corps lui-même ou une sensation de flottement/lévitation. La déformation des voix appartient aux illusions auditives."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des signes végétatifs au cours des crises partielles, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être cardiovasculaires.",
+        "Ils peuvent être respiratoires ou digestifs.",
+        "L’hypersalivation peut être d’origine operculaire.",
+        "La pesanteur épigastrique remontant vers la gorge est fréquente dans les crises temporales internes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les manifestations végétatives peuvent être cardiovasculaires, respiratoires, digestives. L’hypersalivation peut être operculaire. La pesanteur épigastrique ascendante est un signe fréquent des crises temporales internes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les signes psychiques des crises partielles, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent comporter un état de rêve ou une impression d’étrangeté.",
+        "Ils peuvent comporter une impression d’irréalité.",
+        "Ils peuvent inclure déjà-vu, jamais-vu, déjà-vécu ou jamais-vécu.",
+        "Leur origine fréquente est la région occipitale péricalcarine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les signes psychiques incluent état de rêve, étrangeté, irréalité, vécu onirique du présent, déjà-vu, jamais-vu, déjà-vécu et jamais-vécu. Leur origine fréquente est la région temporale interne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les crises partielles complexes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles comportent une rupture du contact.",
+        "Elles comportent une amnésie.",
+        "Elles peuvent suivre un début partiel simple.",
+        "Leur origine topographique est exclusivement temporale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises partielles complexes associent rupture du contact et amnésie, immédiates ou après un début partiel simple. Leur origine topographique est variée et non exclusivement temporale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels automatismes peuvent être observés au cours d’une crise partielle complexe ?",
+      "choices": [
+        "Mâchonnement, déglutition ou dégustation.",
+        "Grattage ou froissement de vêtements.",
+        "Déboutonner ses vêtements ou fouiller dans ses poches.",
+        "Chantonnements ou marche automatique sans raison."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les automatismes peuvent être oroalimentaires, dirigés vers le patient, gestuels complexes, verbaux ou ambulatoires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’EEG intercritique dans les crises partielles, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être normal.",
+        "Un EEG normal élimine le diagnostic de crise partielle.",
+        "Il peut montrer des paroxysmes localisés.",
+        "Des signes de focalisation lente thêta ou delta peuvent orienter vers un processus lésionnel."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’EEG intercritique des crises partielles est variable : il peut être normal, sans éliminer le diagnostic, montrer des paroxysmes localisés ou une focalisation lente thêta/delta en faveur d’un processus lésionnel."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le diagnostic différentiel des crises partielles simples, quelles propositions sont exactes ?",
+      "choices": [
+        "Un accident ischémique transitoire se discute devant des signes déficitaires de durée souvent plus prolongée.",
+        "Une durée de 20 à 30 minutes ou plus oriente plutôt vers un accident ischémique transitoire.",
+        "La migraine avec aura a une marche migraineuse plus lente, sur environ une vingtaine de minutes.",
+        "Les attaques de panique sont toujours plus brèves que les crises partielles simples."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les diagnostics différentiels des crises partielles simples incluent l’AIT, souvent plus prolongé, la migraine avec aura à progression lente sur une vingtaine de minutes, et les crises d’angoisse dont la durée est plus longue."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les diagnostics différentiels des crises partielles complexes et des crises généralisées tonico-cloniques, quelles propositions sont exactes ?",
+      "choices": [
+        "Les parasomnies comme le somnambulisme peuvent discuter une crise partielle complexe.",
+        "L’ictus amnésique fait partie des diagnostics différentiels des crises partielles complexes.",
+        "La syncope, notamment convulsive, peut discuter une crise généralisée tonico-clonique.",
+        "La crise névropathique est citée comme diagnostic différentiel des crises partielles simples uniquement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises partielles complexes se discutent avec agitation, colère, crises émotives, parasomnies et ictus amnésique. Les crises généralisées tonico-cloniques se discutent avec syncope convulsive et crise névropathique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification des épilepsies, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle repose sur la distinction entre épilepsie généralisée et épilepsie focale.",
+        "Elle prend en compte les différents types de crises chez un même patient.",
+        "Elle repose sur l’origine étiologique présumée ou certaine.",
+        "Elle repose uniquement sur la normalité ou non de l’imagerie cérébrale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La classification repose sur le caractère généralisé ou focal, l’identification des types de crises chez un même patient et l’origine étiologique présumée ou certaine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les grands cadres étiologiques des épilepsies, quelles propositions sont exactes ?",
+      "choices": [
+        "Les épilepsies idiopathiques sont indépendantes d’une lésion cérébrale.",
+        "Les épilepsies symptomatiques résultent d’une lésion cérébrale diffuse ou focale, évolutive ou fixée.",
+        "Les épilepsies cryptogéniques correspondent à une cause présumée mais non identifiée.",
+        "Les épilepsies idiopathiques s’accompagnent constamment d’un déficit neurologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les épilepsies idiopathiques sont non lésionnelles, avec examen clinique et développement normaux. Les symptomatiques résultent d’une lésion cérébrale. Les cryptogéniques ont une cause présumée mais non identifiée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’origine topographique indiquée pour une crise olfactive avec cacosmie ?",
+      "choices": [
+        "Cortex orbitofrontal.",
+        "Cortex pariétal primaire.",
+        "Gyrus de Heschl.",
+        "Cortex occipital péricalcarin opposé."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les crises olfactives, notamment avec cacosmie, ont pour origine le cortex orbitofrontal."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel signe végétatif est décrit comme fréquent dans les crises temporales internes ?",
+      "choices": [
+        "Amaurose brutale isolée.",
+        "Pesanteur épigastrique remontant jusqu’à la gorge.",
+        "Déformation des voix.",
+        "Impression de rotation de l’espace environnant."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La pesanteur épigastrique ascendante jusqu’à la gorge est un signe fréquent des crises temporales internes."
+    },
+    {
+      "type": "QCS",
+      "question": "Concernant l’épilepsie absence de l’enfant, quelle proposition est exacte ?",
+      "choices": [
+        "Elle représente environ 10 % des épilepsies de l’enfant entre 3 et 12 ans.",
+        "Elle débute habituellement à l’adolescence.",
+        "Elle touche exclusivement les garçons.",
+        "Les crises sont rarement provoquées par l’hyperpnée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’épilepsie absence de l’enfant représente environ 10 % des épilepsies de l’enfant entre 3 et 12 ans, débute autour de 7 ans, prédomine chez la fille et les crises sont facilement provoquées par l’hyperpnée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle caractéristique correspond le mieux à l’absence juvénile selon le texte ?",
+      "choices": [
+        "Absences très nombreuses, parfois plus de 100 par jour, avec pronostic constamment favorable.",
+        "Absences moins nombreuses et plus espacées, avec pronostic moins favorable.",
+        "Myoclonies matinales favorisées par les nuits écourtées.",
+        "Début entre 3 et 13 ans avec pointes centrotemporales."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’absence juvénile se caractérise par des absences moins nombreuses, plus espacées dans le temps, un pronostic moins favorable et des crises généralisées tonico-cloniques fréquentes au cours de l’évolution."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’épilepsie myoclonique juvénile, quel est le risque approximatif de récidive après arrêt du traitement ?",
+      "choices": [
+        "10 %.",
+        "30 %.",
+        "50 %.",
+        "90 %."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’épilepsie myoclonique juvénile est pharmacodépendante ; l’arrêt du traitement entraîne une récidive dans environ 90 % des cas."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle tranche d’âge de début est indiquée pour l’épilepsie à paroxysmes rolandiques ou à pointes centrotemporales ?",
+      "choices": [
+        "Avant 1 an.",
+        "Entre 3 et 13 ans.",
+        "Autour de 20 ans.",
+        "Après 60 ans."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’épilepsie à paroxysmes rolandiques ou à pointes centrotemporales est une épilepsie fréquente de l’enfant, débutant entre 3 et 13 ans."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’épilepsie à pointes centrotemporales, quelles données sémiologiques sont compatibles avec le texte ?",
+      "choices": [
+        "Crises souvent nocturnes, survenant à l’endormissement",
+        "Crises partielles simples de la région buccofaciale",
+        "Perte de conscience constante avec automatismes complexes prolongés",
+        "Extension possible au membre supérieur ou généralisation secondaire possible"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Cette épilepsie comporte des crises souvent nocturnes à l’endormissement, partielles simples buccofaciales, avec conscience conservée, extension possible au membre supérieur et généralisation secondaire possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’EEG intercritique et l’évolution de l’épilepsie à pointes centrotemporales, quelles propositions sont exactes ?",
+      "choices": [
+        "Présence de pointes centrotemporales lentes biphasiques",
+        "Rythme de fond normal",
+        "Guérison habituelle vers l’âge de 16 ans",
+        "Hypsarythmie permanente avec pointes diffuses sans régularité"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’EEG montre des pointes centrotemporales lentes biphasiques avec rythme de fond normal. Le pronostic est excellent avec guérison habituelle vers 16 ans. L’hypsarythmie appartient au syndrome de West."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’épilepsie de la face interne du lobe temporal, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle fait partie des épilepsies lobaires les plus fréquentes",
+        "Elle peut débuter dans l’enfance ou chez l’adulte jeune",
+        "Des antécédents de convulsions fébriles compliquées sont possibles",
+        "Les généralisations secondaires sont habituelles et fréquentes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épilepsie temporale mésiale est fréquente, débute dans l’enfance ou chez l’adulte jeune et peut être associée à des antécédents de convulsions fébriles compliquées. Les généralisations secondaires sont rares."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la crise typique de la face mésiale du lobe temporal, quels signes sont décrits ?",
+      "choices": [
+        "Gêne épigastrique ascendante bien mémorisée par le patient",
+        "Arrêt psychomoteur avec fixité du regard",
+        "Mâchonnement lent",
+        "Clonies inaugurales d’une hémiface"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La crise temporale mésiale typique associe gêne épigastrique ascendante, arrêt psychomoteur avec fixité du regard, mâchonnement lent et parfois gestes simples. Les clonies d’une hémiface relèvent de la sémiologie centrotemporale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’imagerie, l’évolution et le traitement de l’épilepsie temporale mésiale, quelles propositions sont exactes ?",
+      "choices": [
+        "Une atrophie hippocampique peut être observée à l’IRM",
+        "En cas de pharmacorésistance, la chirurgie peut être efficace dans près de 90 % des cas",
+        "Les généralisations secondaires sont rares",
+        "L’abstention thérapeutique est la stratégie de référence en cas de pharmacorésistance"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IRM peut montrer une atrophie hippocampique. En cas de pharmacorésistance, la chirurgie peut être très efficace, près de 90 % des cas. Les généralisations secondaires sont rares."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la triade du syndrome de West, quelles propositions sont exactes ?",
+      "choices": [
+        "Spasmes infantiles",
+        "Régression psychomotrice",
+        "Hypsarythmie",
+        "Pointes-ondes lentes à 1,5-2 Hz comme anomalie principale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La triade du syndrome de West associe spasmes infantiles, régression psychomotrice et hypsarythmie. Les pointes-ondes lentes à 1,5-2 Hz caractérisent plutôt le syndrome de Lennox-Gastaut."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les manifestations cliniques du syndrome de West, quelles propositions sont exactes ?",
+      "choices": [
+        "Les spasmes infantiles surviennent en salves",
+        "Les spasmes sont plus souvent en flexion qu’en extension",
+        "La régression peut comporter indifférence, disparition du sourire et perte d’intérêt pour l’environnement",
+        "Les crises toniques et atoniques quotidiennes constituent la présentation typique initiale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de West se manifeste par des spasmes infantiles en salves, plus souvent en flexion, associés à une régression psychomotrice. Les crises toniques et atoniques quotidiennes évoquent davantage Lennox-Gastaut."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles anomalies EEG appartiennent à l’hypsarythmie du syndrome de West ?",
+      "choices": [
+        "Ondes très amples et très lentes",
+        "Pointes diffuses sans régularité",
+        "Activité permanente",
+        "Pointes-ondes lentes régulières à 1,5-2 Hz"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypsarythmie associe ondes très amples et très lentes, pointes diffuses sans régularité et activité permanente. Lors des spasmes, elle peut être interrompue par un aplatissement transitoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes évolutives du syndrome de West, quelles propositions sont exactes ?",
+      "choices": [
+        "La forme primitive représente environ un tiers des cas",
+        "La forme primitive n’a pas un pronostic forcément péjoratif si le traitement est précoce",
+        "La forme secondaire peut être liée à une encéphalopathie fixée, une maladie métabolique ou une phacomatose",
+        "Les formes secondaires ont un pronostic excellent avec guérison habituelle vers 16 ans"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme primitive représente environ un tiers des cas et son pronostic n’est pas forcément péjoratif si le traitement est précoce. Les formes secondaires ont un pronostic très défavorable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le syndrome de Lennox-Gastaut, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une forme sévère d’épilepsie infantile",
+        "Le début survient avant 8 ans",
+        "Le pic de fréquence se situe entre 3 et 5 ans",
+        "Sa triade caractéristique associe spasmes en flexion, atrophie hippocampique et guérison spontanée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de Lennox-Gastaut est une épilepsie infantile sévère débutant avant 8 ans, avec un pic entre 3 et 5 ans. Sa triade associe crises multiples, troubles mentaux et anomalies EEG caractéristiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels types de crises sont décrits dans le syndrome de Lennox-Gastaut ?",
+      "choices": [
+        "Crises toniques",
+        "Crises atoniques",
+        "Absences atypiques",
+        "Crises partielles simples buccofaciales avec conscience conservée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de Lennox-Gastaut comporte des crises toniques, atoniques et des absences atypiques, souvent quotidiennes, avec coexistence de plusieurs types de crises."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les troubles associés au syndrome de Lennox-Gastaut, quelles propositions sont exactes ?",
+      "choices": [
+        "Retard intellectuel",
+        "Troubles de la personnalité",
+        "Troubles caractériels",
+        "Gêne épigastrique ascendante bien mémorisée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de Lennox-Gastaut peut s’accompagner de retard intellectuel, troubles de la personnalité, troubles caractériels et comportements autistiques ou prépsychotiques. La gêne épigastrique ascendante est temporale mésiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’EEG du syndrome de Lennox-Gastaut, quelles propositions sont exactes ?",
+      "choices": [
+        "Pointes-ondes lentes à 1,5-2 Hz",
+        "Bouffées bisynchrones plus ou moins symétriques",
+        "Pendant le sommeil, décharges de rythmes rapides recrutants correspondant à des crises toniques pathognomoniques",
+        "Rythme de fond normal à l’état de veille"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’EEG intercritique montre des pointes-ondes lentes à 1,5-2 Hz, des bouffées bisynchrones et une activité très nombreuse sur rythme de fond ralenti. Le sommeil peut révéler des rythmes rapides recrutants correspondant à des crises toniques pathognomoniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’étiologie et le pronostic du syndrome de Lennox-Gastaut, quelles propositions sont exactes ?",
+      "choices": [
+        "Il existe une forme cryptogénique",
+        "Il existe une forme symptomatique d’une atteinte cérébrale congénitale ou acquise",
+        "Il peut faire suite à un syndrome de West",
+        "Les traitements ont une efficacité constamment durable et curative"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de Lennox-Gastaut peut être cryptogénique ou symptomatique d’une atteinte cérébrale congénitale ou acquise, et peut faire suite à un syndrome de West. Le pronostic est sévère et l’efficacité des traitements est souvent transitoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel âge de début correspond au syndrome de West selon le texte ?",
+      "choices": [
+        "Entre le 4e et le 7e mois",
+        "Avant 8 ans avec pic entre 3 et 5 ans",
+        "À l’adolescence",
+        "Chez l’adulte jeune uniquement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le syndrome de West débute typiquement entre le 4e et le 7e mois."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément clinique est le plus évocateur d’une crise typique de la face mésiale du lobe temporal ?",
+      "choices": [
+        "Gêne épigastrique ascendante bien mémorisée",
+        "Paresthésies de la langue ou des gencives",
+        "Spasmes infantiles en salves",
+        "Crises atoniques quotidiennes"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La gêne épigastrique ascendante, bien mémorisée par le patient, est caractéristique de la crise typique de la face mésiale du lobe temporal."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel aspect EEG intercritique est attendu dans l’épilepsie à pointes centrotemporales ?",
+      "choices": [
+        "Pointes centrotemporales lentes biphasiques avec rythme de fond normal",
+        "Hypsarythmie avec ondes très amples et très lentes",
+        "Pointes-ondes lentes à 1,5-2 Hz sur rythme de fond ralenti",
+        "Décharges de rythmes rapides recrutants pendant le sommeil"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’épilepsie à pointes centrotemporales présente des pointes centrotemporales lentes biphasiques avec un rythme de fond normal."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’épilepsie de la face interne du lobe temporal, quelle est la fréquence des généralisations secondaires selon le texte ?",
+      "choices": [
+        "Rares",
+        "Constantes",
+        "Quotidiennes",
+        "Elles excluent le diagnostic"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que les généralisations secondaires sont rares dans l’épilepsie temporale mésiale."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la crise typique de la face mésiale du lobe temporal, quelle attitude dystonique est décrite ?",
+      "choices": [
+        "Attitude dystonique du membre supérieur controlatéral",
+        "Attitude dystonique du membre supérieur ipsilatéral",
+        "Attitude dystonique bilatérale des membres inférieurs",
+        "Attitude dystonique isolée de la face"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La crise typique peut comporter une attitude dystonique du membre supérieur controlatéral."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle évolution est possible dans certains cas cryptogéniques de syndrome de Lennox-Gastaut traités précocement ?",
+      "choices": [
+        "Évolution sans séquelle",
+        "Guérison habituelle vers 16 ans",
+        "Efficacité chirurgicale proche de 90 %",
+        "Pronostic toujours très défavorable sans exception"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Malgré un pronostic globalement sévère, certains cas cryptogéniques traités précocement peuvent évoluer sans séquelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hétérogénéité des épilepsies selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’épilepsie est une affection neurologique chronique fréquente.",
+        "Il existe plusieurs épilepsies ou syndromes électrocliniques.",
+        "Les syndromes électrocliniques peuvent différer par leur pronostic et leur traitement.",
+        "Toutes les épilepsies ont le même pronostic et relèvent du même traitement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur la pluralité des épilepsies ou syndromes électrocliniques, avec des pronostics et traitements différents."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des moyens diagnostiques et de l’enquête étiologique dans les épilepsies, quelles propositions sont exactes ?",
+      "choices": [
+        "L’EEG est un outil primordial du diagnostic positif.",
+        "L’enquête étiologique dépend notamment des explorations neuroradiologiques.",
+        "L’EEG remplace à lui seul l’enquête étiologique neuroradiologique.",
+        "Les crises épileptiques diffèrent selon leur origine topographique corticale."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’EEG participe au diagnostic positif, tandis que l’enquête étiologique dépend notamment de la neuroradiologie. La sémiologie varie selon l’origine corticale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations correspondent à un état de mal épileptique selon la définition du texte ?",
+      "choices": [
+        "Des crises répétées à très bref délai sans reprise de conscience entre les crises.",
+        "Une crise épileptique prolongée.",
+        "Des crises répétées avec reprise complète de conscience entre chaque crise.",
+        "Une crise généralisée tonico-clonique suivie d’un sommeil postcritique isolé."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’état de mal correspond soit à des crises très rapprochées sans reprise de conscience, soit à une crise prolongée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la perte de connaissance dans les crises généralisées, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle fait partie des manifestations habituelles des crises généralisées.",
+        "Elle peut être brève, de quelques secondes, dans une absence.",
+        "Elle peut être longue, de plusieurs minutes, dans une crise généralisée tonico-clonique.",
+        "Elle est toujours absente dans les crises généralisées atoniques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que la perte de connaissance est habituelle dans les crises généralisées, brève dans l’absence et longue dans la crise généralisée tonico-clonique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la phase clonique d’une crise généralisée tonico-clonique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle dure habituellement 20 à 30 secondes.",
+        "Elle comporte un relâchement intermittent de la contraction tonique.",
+        "Elle se manifeste par des secousses bilatérales synchrones.",
+        "Elle correspond à une contraction tonique soutenue de toute la musculature squelettique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase clonique dure 20 à 30 secondes et associe relâchement intermittent de la contraction tonique et secousses bilatérales synchrones."
+    },
+    {
+      "type": "QCM",
+      "question": "Au décours d’une crise généralisée tonico-clonique, quels éléments appartiennent à la phase résolutive ou postcritique ?",
+      "choices": [
+        "Une respiration ample, bruyante, stertoreuse.",
+        "Une hypersécrétion bronchique et salivaire avec bave aux lèvres.",
+        "Un sommeil postcritique.",
+        "Une apnée avec cyanose comme manifestation dominante de cette phase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase postcritique comporte respiration stertoreuse, hypersécrétion bronchique et salivaire, sommeil postcritique. L’apnée avec cyanose appartient à la phase tonique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les corrélations EEG au cours d’une crise généralisée tonico-clonique, quelles propositions sont exactes ?",
+      "choices": [
+        "La phase tonique s’accompagne d’une activité rapide, de bas voltage, d’amplitude croissante.",
+        "La phase clonique montre des polypointes ou polypointes-ondes progressivement ralenties.",
+        "La phase postcritique comporte des ondes lentes pouvant persister plusieurs heures ou plusieurs jours.",
+        "La phase postcritique est caractérisée par une décharge de pointes-ondes à 3 Hz de début et de fin brusques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’EEG de la crise tonico-clonique varie selon les phases. Les pointes-ondes à 3 Hz caractérisent l’absence typique, non la phase postcritique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une absence typique, quels éléments cliniques sont compatibles avec le texte ?",
+      "choices": [
+        "L’enfant s’immobilise brutalement.",
+        "L’activité en cours est interrompue.",
+        "La reprise des activités est immédiate.",
+        "Il n’existe aucun souvenir de l’épisode."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’absence typique associe rupture brève du contact, immobilisation, interruption de l’activité, reprise immédiate et amnésie de l’épisode."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les absences atypiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Le début et la fin sont plus progressifs que dans l’absence typique.",
+        "La durée est plus longue que dans l’absence typique.",
+        "L’altération de la conscience est moins marquée.",
+        "L’EEG montre des pointes-ondes bilatérales irrégulières, asynchrones, inférieures à 3 Hz."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les absences atypiques ont un début et une fin progressifs, une durée plus longue, une conscience moins altérée et des pointes-ondes lentes irrégulières et asynchrones."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles manifestations peuvent appartenir aux crises partielles simples selon le texte ?",
+      "choices": [
+        "Des signes moteurs.",
+        "Des signes sensitifs ou sensoriels.",
+        "Des signes végétatifs.",
+        "Des signes psychiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les crises partielles simples peuvent comporter des signes moteurs, sensitifs ou sensoriels, végétatifs ou psychiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la crise motrice sans marche jacksonienne, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut comporter des clonies.",
+        "Elle peut comporter des spasmes toniques.",
+        "Elle peut comporter des attitudes dystoniques.",
+        "Elle a pour origine le cortex moteur primaire et les régions prémotrices."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La crise motrice sans marche jacksonienne associe éventuellement clonies, spasmes toniques, attitudes dystoniques, avec origine dans le cortex moteur primaire et les régions prémotrices."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la crise versive ou giratoire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut se manifester par une déviation de tout ou partie du corps.",
+        "Elle peut comporter une giration du corps.",
+        "Son origine est située dans la région préfrontale controlatérale.",
+        "Son origine typique est la face interne du lobe temporal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La crise versive ou giratoire comporte une déviation corporelle, parfois une giration, et provient de la région préfrontale controlatérale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la crise phonatoire, quelles manifestations sont décrites dans le texte ?",
+      "choices": [
+        "Une impossibilité de parler.",
+        "Une vocalisation.",
+        "Une palilalie.",
+        "Une cacosmie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La crise phonatoire peut comporter impossibilité de parler, vocalisation ou palilalie. La cacosmie n’est pas une manifestation phonatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations sémiologiques sont exactes pour les crises partielles simples avec signes moteurs ?",
+      "choices": [
+        "Crise somatomotrice avec marche jacksonienne : clonies unilatérales avec extension selon la somatotopie.",
+        "Crise motrice sans marche jacksonienne : clonies, spasmes toniques ou attitudes dystoniques.",
+        "Crise versive ou giratoire : origine préfrontale controlatérale.",
+        "Crise phonatoire : secousses bilatérales synchrones généralisées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premières associations sont conformes au texte. Les secousses bilatérales synchrones relèvent de la phase clonique d’une crise généralisée tonico-clonique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise le mieux l’épilepsie par rapport à une crise épileptique isolée ?",
+      "choices": [
+        "Une manifestation clinique unique d’hyperactivité neuronale paroxystique.",
+        "Une affection neurologique chronique définie par la répétition de crises épileptiques, en général spontanées, à moyen et long terme.",
+        "Une décharge EEG isolée sans traduction clinique obligatoire.",
+        "Une crise prolongée sans reprise de conscience."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’épilepsie est définie par la répétition, généralement spontanée, de crises épileptiques sur le moyen et long terme."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée habituelle de la phase clonique d’une crise généralisée tonico-clonique ?",
+      "choices": [
+        "Quelques secondes à une dizaine de secondes.",
+        "10 à 20 secondes.",
+        "20 à 30 secondes.",
+        "Plusieurs heures ou plusieurs jours."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La phase clonique dure habituellement 20 à 30 secondes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’origine corticale indiquée pour une crise versive ou giratoire ?",
+      "choices": [
+        "Zone motrice primaire controlatérale.",
+        "Région préfrontale controlatérale.",
+        "Cortex moteur primaire et régions prémotrices.",
+        "Ensemble du cortex cérébral d’emblée."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La crise versive ou giratoire a pour origine la région préfrontale controlatérale."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les manifestations suivantes, laquelle est spécifiquement citée dans la crise phonatoire ?",
+      "choices": [
+        "Palilalie.",
+        "Révulsion des yeux.",
+        "Morsure latérale de langue.",
+        "Encoprésie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La crise phonatoire peut se manifester par une impossibilité de parler, une vocalisation ou une palilalie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel aspect EEG correspond le mieux à une absence atypique ?",
+      "choices": [
+        "Pointes-ondes bilatérales synchrones et symétriques à 3 Hz sur activité de fond normale.",
+        "Pointes-ondes bilatérales irrégulières, asynchrones, inférieures à 3 Hz, interrompant une activité de fond anormale.",
+        "Activité rapide de bas voltage d’amplitude croissante.",
+        "Ondes lentes postcritiques isolées persistant plusieurs jours."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’absence atypique est associée à des pointes-ondes lentes, bilatérales irrégulières et asynchrones, inférieures à 3 Hz, sur activité de fond anormale."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, quelle option thérapeutique peut être envisagée dans certaines formes pharmacorésistantes d’épilepsie ?",
+      "choices": [
+        "Un traitement chirurgical.",
+        "L’absence de traitement antiépileptique systématique.",
+        "Une antibiothérapie prolongée.",
+        "Une corticothérapie comme règle générale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que les formes pharmacorésistantes peuvent répondre à un traitement chirurgical."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques permettant de qualifier une épilepsie d’idiopathique selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est indépendante d’une lésion cérébrale.",
+        "Les crises y sont bien définies et liées à l’âge.",
+        "Le développement et l’examen clinique sont normaux.",
+        "Elle résulte obligatoirement d’une lésion focale évolutive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les épilepsies idiopathiques sont indépendantes d’une lésion cérébrale, liées à l’âge, avec développement et examen clinique normaux. Une lésion focale évolutive relève des épilepsies symptomatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les épilepsies idiopathiques, quels éléments évolutifs ou thérapeutiques sont décrits ?",
+      "choices": [
+        "Une évolution spontanée possible vers la guérison.",
+        "Une rémission facilement obtenue par monothérapie.",
+        "Une abstention thérapeutique parfois possible.",
+        "Une pharmacorésistance constante imposant une chirurgie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit un pronostic favorable des épilepsies idiopathiques : guérison spontanée possible, rémission sous monothérapie, parfois abstention thérapeutique. La pharmacorésistance constante n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des épilepsies symptomatiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles résultent d’une lésion cérébrale diffuse.",
+        "Elles peuvent résulter d’une lésion cérébrale focale.",
+        "La lésion peut être évolutive ou fixée.",
+        "Elles sont définies par une cause présumée mais non identifiée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les épilepsies symptomatiques sont liées à une lésion cérébrale diffuse ou focale, évolutive ou fixée. Une cause présumée mais non identifiée définit les épilepsies cryptogéniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments associés peuvent orienter vers une épilepsie symptomatique selon le texte ?",
+      "choices": [
+        "Un déficit neurologique.",
+        "Une anomalie radiologique.",
+        "Une anomalie biologique.",
+        "Une prédominance féminine isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les épilepsies symptomatiques peuvent s’accompagner d’un déficit neurologique, d’une anomalie radiologique ou biologique. La prédominance féminine isolée n’est pas un critère de symptomatologie lésionnelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les épilepsies cryptogéniques, quelles propositions sont exactes ?",
+      "choices": [
+        "La cause est présumée.",
+        "La cause n’est pas identifiée.",
+        "Elles se distinguent des épilepsies symptomatiques à lésion démontrée.",
+        "Elles sont obligatoirement indépendantes de toute lésion cérébrale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une épilepsie cryptogénique correspond à une cause présumée mais non identifiée. Elle n’est pas synonyme d’épilepsie idiopathique indépendante de toute lésion."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’épilepsie absence de l’enfant, quelles données épidémiologiques ou cliniques sont rapportées ?",
+      "choices": [
+        "Elle représente environ 10 % des épilepsies de l’enfant entre 3 et 12 ans.",
+        "Le début se situe autour de 7 ans.",
+        "Il existe une prédominance féminine.",
+        "Les crises sont typiquement déclenchées par le sommeil profond."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épilepsie absence de l’enfant représente environ 10 % des épilepsies entre 3 et 12 ans, débute autour de 7 ans et prédomine chez les filles. Le texte insiste sur la provocation par l’hyperpnée, non par le sommeil profond."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution de l’épilepsie absence de l’enfant, quelles propositions sont exactes ?",
+      "choices": [
+        "Le pronostic est bon dans de nombreux cas.",
+        "Les absences peuvent disparaître sous traitement sans récidive.",
+        "Des crises généralisées tonico-cloniques ultérieures peuvent survenir.",
+        "Les crises généralisées tonico-cloniques ultérieures sont exclues par définition."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique un bon pronostic dans de nombreux cas, avec disparition des absences sous traitement sans récidive, mais une survenue ultérieure de crises généralisées tonico-cloniques reste possible."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’absence juvénile, quelles propositions sont exactes ?",
+      "choices": [
+        "Les absences sont moins nombreuses que dans l’épilepsie absence de l’enfant.",
+        "Les absences sont plus espacées dans le temps.",
+        "Le pronostic est moins favorable.",
+        "Les crises généralisées tonico-cloniques sont rares au cours de l’évolution."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’absence juvénile se caractérise par des absences moins nombreuses, plus espacées, un pronostic moins favorable et des crises généralisées tonico-cloniques fréquentes au cours de l’évolution."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les manifestations cliniques de l’épilepsie myoclonique juvénile, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle débute à l’adolescence.",
+        "Les secousses myocloniques surviennent en pleine conscience.",
+        "Les myoclonies surviennent souvent peu après le réveil.",
+        "Les myoclonies sont toujours associées à une rupture du contact."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épilepsie myoclonique juvénile débute à l’adolescence, avec secousses myocloniques en pleine conscience, souvent peu après le réveil. La rupture du contact n’est pas décrite comme constante."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs ou circonstances sont associés aux myoclonies de l’épilepsie myoclonique juvénile ?",
+      "choices": [
+        "Les nuits écourtées.",
+        "Les réveils brusques.",
+        "La période suivant le réveil.",
+        "L’hyperpnée comme facteur obligatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les myoclonies de l’épilepsie myoclonique juvénile sont favorisées par les nuits écourtées et les réveils brusques, et surviennent souvent peu après le réveil. L’hyperpnée obligatoire n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’EEG et l’étiologie de l’épilepsie myoclonique juvénile, quelles propositions sont exactes ?",
+      "choices": [
+        "L’EEG peut montrer des polypointes-ondes généralisées.",
+        "La photosensibilité est fréquente.",
+        "Un déterminisme génétique est probable.",
+        "L’EEG montre typiquement des pointes centrotemporales isolées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épilepsie myoclonique juvénile est associée à des polypointes-ondes généralisées, une photosensibilité fréquente et un déterminisme génétique probable. Les pointes centrotemporales relèvent d’un autre syndrome."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le diagnostic différentiel des crises partielles simples, quelles propositions sont exactes ?",
+      "choices": [
+        "Un accident ischémique transitoire donne plutôt des signes déficitaires et une durée plus prolongée.",
+        "Une migraine avec aura a une marche plus lente, souvent sur une vingtaine de minutes.",
+        "Les crises d’angoisse peuvent évoquer des attaques de panique de durée plus longue.",
+        "La parasomnie est le diagnostic différentiel principal des crises partielles simples diurnes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’AIT, la migraine avec aura et les crises d’angoisse comme diagnostics différentiels des crises partielles simples. Les parasomnies sont citées parmi les diagnostics différentiels des crises partielles complexes."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les diagnostics différentiels suivants, lesquels sont cités pour les crises partielles complexes ?",
+      "choices": [
+        "Les crises d’agitation.",
+        "Les crises de colère.",
+        "Les crises émotives.",
+        "La syncope convulsive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises d’agitation, de colère et les crises émotives sont citées pour les crises partielles complexes. La syncope, notamment convulsive, est citée pour les crises généralisées tonico-cloniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels phénomènes sont classés dans le texte parmi les illusions visuelles ou auditives ?",
+      "choices": [
+        "Les macropsies.",
+        "Les micropsies.",
+        "L’éloignement des sons.",
+        "Le goût amer ou acide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les macropsies et micropsies sont des illusions visuelles ; l’éloignement des sons est une illusion auditive. Le goût amer ou acide appartient aux hallucinations gustatives."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le mieux une épilepsie cryptogénique selon le texte ?",
+      "choices": [
+        "Une épilepsie liée à une cause présumée mais non identifiée.",
+        "Une épilepsie toujours associée à une lésion radiologique visible.",
+        "Une épilepsie indépendante de toute prédisposition génétique.",
+        "Une épilepsie exclusivement généralisée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les épilepsies cryptogéniques sont définies par une cause présumée mais non identifiée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel aspect EEG intercritique est en faveur d’un processus lésionnel dans les crises partielles ?",
+      "choices": [
+        "Un rythme de fond normal isolé.",
+        "Des signes de focalisation lente thêta ou delta.",
+        "Une photosensibilité isolée.",
+        "Des polypointes-ondes généralisées."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans les crises partielles, des signes de focalisation lente thêta ou delta à l’EEG intercritique orientent vers un processus lésionnel."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, à quoi correspond la téléopsie dans la sémiologie des crises partielles ?",
+      "choices": [
+        "Une hallucination auditive élémentaire.",
+        "Une illusion visuelle.",
+        "Une hallucination gustative.",
+        "Un automatisme ambulatoire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La téléopsie est citée parmi les illusions visuelles des crises visuelles partielles."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel automatisme est classé parmi les automatismes dirigés vers le patient dans les crises partielles complexes ?",
+      "choices": [
+        "Grattage.",
+        "Agrippement.",
+        "Manipulation d’objets.",
+        "Sortir sans raison."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le grattage et le froissement de vêtements sont des automatismes dirigés vers le patient. Agrippement et manipulation concernent l’entourage ou l’environnement ; sortir sans raison relève des automatismes ambulatoires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation concernant l’origine topographique des crises partielles complexes est exacte ?",
+      "choices": [
+        "Elle est toujours temporale interne.",
+        "Elle est exclusivement occipitale.",
+        "Elle est variée et non exclusivement temporale.",
+        "Elle est toujours limitée au cortex moteur primaire."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que l’origine topographique des crises partielles complexes est variée et non exclusivement temporale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond au pronostic décrit pour les épilepsies idiopathiques ?",
+      "choices": [
+        "Pronostic favorable avec rémission souvent facile sous monothérapie.",
+        "Pronostic constamment péjoratif malgré traitement.",
+        "Évolution toujours liée à une lésion cérébrale évolutive.",
+        "Nécessité systématique d’une polythérapie prolongée d’emblée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les épilepsies idiopathiques ont un pronostic favorable, avec rémission facilement obtenue par monothérapie et parfois abstention thérapeutique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le tableau associant crises buccofaciales et pointes centrotemporales, quels éléments soutiennent le caractère favorable décrit dans le texte ?",
+      "choices": [
+        "Un rythme de fond EEG intercritique normal",
+        "Une guérison habituelle vers 16 ans",
+        "Un pronostic excellent",
+        "Des généralisations secondaires constantes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit un rythme de fond normal, un pronostic excellent et une guérison habituelle vers 16 ans. La généralisation secondaire est possible, non constante."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les crises partielles simples buccofaciales décrites au début du texte, quelles manifestations sont compatibles ?",
+      "choices": [
+        "Clonies d’une hémiface",
+        "Paresthésies de la langue ou des gencives",
+        "Hypersalivation",
+        "Mâchonnement lent avec activité gestuelle simple"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les clonies d’une hémiface, les paresthésies linguales ou gingivales et l’hypersalivation appartiennent au tableau buccofacial. Le mâchonnement lent avec gestes simples appartient à la crise temporale mésiale typique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la crise typique de la face mésiale du lobe temporal, quelles propositions sont exactes ?",
+      "choices": [
+        "La gêne épigastrique ascendante est bien mémorisée par le patient",
+        "Un arrêt psychomoteur avec fixité du regard peut être observé",
+        "Une attitude dystonique du membre supérieur controlatéral peut survenir",
+        "Les crises atoniques quotidiennes en constituent l’élément central"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La crise temporale mésiale typique associe gêne épigastrique ascendante, arrêt psychomoteur, fixité du regard, automatismes et attitude dystonique controlatérale. Les crises atoniques quotidiennes relèvent plutôt du syndrome de Lennox-Gastaut."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’épilepsie de la face interne du lobe temporal, quelles données sont rapportées ?",
+      "choices": [
+        "Elle peut débuter dans l’enfance",
+        "Elle peut débuter chez l’adulte jeune",
+        "Des antécédents de convulsions fébriles compliquées sont possibles",
+        "Les généralisations secondaires y sont habituelles et fréquentes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise un début dans l’enfance ou chez l’adulte jeune, avec antécédents possibles de convulsions fébriles compliquées. Les généralisations secondaires sont rares."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’imagerie et le traitement de l’épilepsie temporale mésiale, quelles propositions sont exactes ?",
+      "choices": [
+        "L’IRM peut montrer une atrophie hippocampique",
+        "En cas de pharmacorésistance, la chirurgie peut être efficace dans près de 90 % des cas",
+        "La pharmacorésistance impose uniquement une abstention thérapeutique",
+        "Le texte indique que l’IRM est toujours normale"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’atrophie hippocampique est possible à l’IRM. En cas de pharmacorésistance, la chirurgie peut être efficace dans près de 90 % des cas."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le syndrome de West, quels éléments appartiennent à la triade clinique et EEG décrite ?",
+      "choices": [
+        "Spasmes infantiles",
+        "Régression psychomotrice",
+        "Hypsarythmie",
+        "Pointes-ondes lentes à 1,5-2 Hz"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La triade du syndrome de West associe spasmes infantiles, régression psychomotrice et hypsarythmie. Les pointes-ondes lentes à 1,5-2 Hz caractérisent le syndrome de Lennox-Gastaut."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’EEG du syndrome de West, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut montrer des ondes très amples et très lentes",
+        "Il peut montrer des pointes diffuses sans régularité",
+        "L’activité est permanente",
+        "Les spasmes peuvent interrompre l’activité par un aplatissement transitoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’hypsarythmie associe ondes très amples et lentes, pointes diffuses irrégulières et activité permanente, interrompue lors des spasmes par un aplatissement transitoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes du syndrome de West, quelles propositions sont exactes ?",
+      "choices": [
+        "La forme primitive représente environ un tiers des cas",
+        "La forme primitive n’a pas forcément un pronostic péjoratif si le traitement est précoce",
+        "La forme secondaire peut être liée à une encéphalopathie fixée",
+        "La forme secondaire peut être liée à une maladie métabolique ou une phacomatose"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue une forme primitive dans environ un tiers des cas, de pronostic non forcément péjoratif si traitée précocement, et des formes secondaires à encéphalopathie fixée, maladie métabolique ou phacomatose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’âge de début et la triade du syndrome de Lennox-Gastaut, quelles propositions sont exactes ?",
+      "choices": [
+        "Le début survient avant 8 ans",
+        "Le pic de fréquence se situe entre 3 et 5 ans",
+        "La triade associe crises multiples, troubles mentaux et anomalies EEG caractéristiques",
+        "Le début typique se situe entre le 4e et le 7e mois"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de Lennox-Gastaut débute avant 8 ans avec un pic entre 3 et 5 ans. Sa triade comprend crises multiples, troubles mentaux et anomalies EEG caractéristiques. Le début entre 4 et 7 mois correspond au syndrome de West."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le syndrome de Lennox-Gastaut, quelles caractéristiques des crises sont décrites ?",
+      "choices": [
+        "Crises quotidiennes",
+        "Coexistence de plusieurs types de crises chez un même patient",
+        "Crises toniques et crises atoniques possibles",
+        "Absences exclusivement typiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de Lennox-Gastaut comporte des crises quotidiennes, souvent de plusieurs types chez un même patient, notamment toniques, atoniques et absences atypiques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’EEG du syndrome de Lennox-Gastaut, quelles propositions sont exactes ?",
+      "choices": [
+        "L’EEG intercritique peut montrer des pointes-ondes lentes à 1,5 à 2 Hz",
+        "Les bouffées peuvent être bisynchrones plus ou moins symétriques",
+        "À l’état de veille, le rythme de fond est ralenti",
+        "Pendant le sommeil, des rythmes rapides recrutants peuvent correspondre à des crises toniques pathognomoniques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces anomalies sont décrites dans le syndrome de Lennox-Gastaut : pointes-ondes lentes, bouffées bisynchrones, fond ralenti à l’éveil et rythmes rapides recrutants pendant le sommeil."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels troubles associés sont rapportés dans le syndrome de Lennox-Gastaut ?",
+      "choices": [
+        "Retard intellectuel",
+        "Troubles de la personnalité",
+        "Troubles caractériels",
+        "Comportements autistiques ou prépsychotiques possibles"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne un retard intellectuel, des troubles de la personnalité, des troubles caractériels et des comportements autistiques ou prépsychotiques possibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’extension des crises et les généralisations secondaires dans les tableaux décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans les crises buccofaciales à pointes centrotemporales, une extension au membre supérieur est possible",
+        "Dans les crises buccofaciales à pointes centrotemporales, une généralisation secondaire est possible",
+        "Dans l’épilepsie temporale mésiale, les généralisations secondaires sont rares",
+        "Dans le syndrome de Lennox-Gastaut, la généralisation secondaire constitue le critère central de la triade"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit l’extension possible au membre supérieur et la généralisation secondaire possible dans le tableau buccofacial. Dans l’épilepsie temporale mésiale, les généralisations secondaires sont rares. La triade de Lennox-Gastaut ne repose pas sur la généralisation secondaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations sémiologiques entre syndrome et manifestations sont exactes ?",
+      "choices": [
+        "Crises buccofaciales à pointes centrotemporales : hypersalivation et impossibilité de parler",
+        "Épilepsie temporale mésiale : mâchonnement lent, frottement ou malaxage",
+        "Syndrome de West : disparition du sourire et arrêt des acquisitions",
+        "Épilepsie temporale mésiale : troubles caractériels et comportements autistiques comme éléments caractéristiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypersalivation et l’impossibilité de parler relèvent des crises buccofaciales. Le mâchonnement et les gestes simples relèvent de la crise temporale mésiale. La disparition du sourire et l’arrêt des acquisitions appartiennent à la régression psychomotrice du syndrome de West. Les troubles caractériels et comportements autistiques sont décrits dans Lennox-Gastaut."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel antécédent est spécifiquement signalé comme possible dans l’épilepsie de la face interne du lobe temporal ?",
+      "choices": [
+        "Convulsions fébriles compliquées",
+        "Phacomatose systématique",
+        "Encéphalopathie fixée obligatoire",
+        "Début constant avant le 7e mois"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte mentionne des antécédents possibles de convulsions fébriles compliquées dans l’épilepsie temporale mésiale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie IRM peut être observée dans l’épilepsie temporale mésiale selon le texte ?",
+      "choices": [
+        "Atrophie hippocampique",
+        "Aplatissement transitoire du tracé",
+        "Pointes-ondes lentes à 1,5-2 Hz",
+        "Pointes centrotemporales lentes biphasiques"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’IRM peut montrer une atrophie hippocampique dans l’épilepsie temporale mésiale."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le syndrome de Lennox-Gastaut, quel élément EEG du sommeil correspond à des crises toniques pathognomoniques ?",
+      "choices": [
+        "Décharges de rythmes rapides recrutants",
+        "Ondes très amples et très lentes permanentes",
+        "Aplatissement transitoire lors des spasmes",
+        "Pointes centrotemporales lentes biphasiques sur fond normal"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Pendant le sommeil, le syndrome de Lennox-Gastaut peut montrer des décharges de rythmes rapides recrutants correspondant à des crises toniques pathognomoniques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé correspond au pronostic général du syndrome de Lennox-Gastaut décrit dans le texte ?",
+      "choices": [
+        "Pronostic sévère avec efficacité souvent transitoire des traitements",
+        "Guérison habituelle vers 16 ans",
+        "Pronostic toujours excellent après monothérapie",
+        "Pronostic non forcément péjoratif uniquement si spasmes en extension"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le syndrome de Lennox-Gastaut a un pronostic sévère et les traitements ont souvent une efficacité transitoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation correspond à une forme secondaire du syndrome de West selon le texte ?",
+      "choices": [
+        "Syndrome secondaire à une encéphalopathie fixée",
+        "Forme idiopathique avec rythme de fond normal obligatoire",
+        "Crise temporale mésiale avec atrophie hippocampique",
+        "Épilepsie buccofaciale avec guérison habituelle vers 16 ans"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La forme secondaire du syndrome de West peut être liée à une encéphalopathie fixée, une maladie métabolique ou une phacomatose."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le syndrome de West, que peut-on observer sur l’EEG au moment des spasmes ?",
+      "choices": [
+        "Interruption de l’hypsarythmie par un aplatissement transitoire",
+        "Décharges de rythmes rapides recrutants de sommeil",
+        "Pointes-ondes lentes régulières à 3 Hz",
+        "Rythme de fond normal avec pointes centrotemporales isolées"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Lors des spasmes du syndrome de West, l’activité hypsarythmique peut être interrompue par un aplatissement transitoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les données générales sur les épilepsies, quelles propositions sont exactes ?",
+      "choices": [
+        "L’épilepsie est une affection neurologique chronique fréquente.",
+        "Il existe plusieurs syndromes électrocliniques dont le pronostic et le traitement peuvent différer.",
+        "Les crises épileptiques sont indépendantes de leur origine topographique corticale.",
+        "L’EEG constitue un outil primordial du diagnostic positif."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte insiste sur le caractère chronique et fréquent de l’épilepsie, l’existence de plusieurs syndromes électrocliniques de pronostic et traitement différents, et le rôle primordial de l’EEG. Les crises diffèrent selon leur origine topographique corticale."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la stratégie diagnostique et étiologique dans l’épilepsie, quelles propositions sont exactes ?",
+      "choices": [
+        "Le diagnostic positif repose notamment sur l’EEG.",
+        "L’enquête étiologique dépend notamment des explorations neuroradiologiques.",
+        "L’origine topographique corticale influence la présentation des crises.",
+        "Le diagnostic étiologique repose exclusivement sur la sémiologie clinique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’EEG est primordial pour le diagnostic positif, tandis que l’enquête étiologique dépend notamment des explorations neuroradiologiques. La sémiologie varie selon l’origine corticale, mais elle ne constitue pas l’unique base de l’étiologie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les implications thérapeutiques générales des épilepsies, quelles propositions sont exactes ?",
+      "choices": [
+        "Les médicaments antiépileptiques doivent être prescrits selon des règles précises.",
+        "Le traitement médicamenteux contrôle environ 70 % des épilepsies.",
+        "Les formes pharmacorésistantes peuvent parfois répondre à un traitement chirurgical.",
+        "Toutes les épilepsies ont le même traitement et le même pronostic."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement repose sur des antiépileptiques prescrits selon des règles précises et contrôle environ 70 % des cas. Certaines formes pharmacorésistantes peuvent relever de la chirurgie. Les syndromes diffèrent par leur pronostic et leur traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la définition d’une crise épileptique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à la manifestation clinique d’une hyperactivité paroxystique neuronale cérébrale.",
+        "Elle peut résulter de l’activité d’un groupe plus ou moins étendu de neurones.",
+        "Elle peut s’accompagner d’une propagation de l’activité anormale.",
+        "Elle impose toujours la répétition spontanée de crises à moyen ou long terme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La crise épileptique est une manifestation clinique d’hyperactivité paroxystique d’un groupe neuronal cérébral, avec propagation éventuelle. La répétition spontanée à moyen ou long terme définit l’épilepsie, non la crise isolée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles manifestations peuvent faire partie d’une crise épileptique selon le texte, sans préjuger de son type ?",
+      "choices": [
+        "Modification abrupte de l’état de conscience.",
+        "Manifestations végétatives.",
+        "Altération de la réponse de l’individu à son environnement.",
+        "Fièvre prolongée obligatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la modification abrupte de la conscience, les manifestations végétatives et l’altération de la réponse à l’environnement. La fièvre prolongée obligatoire n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la décharge paroxystique des crises généralisées, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est d’emblée propagée aux deux hémisphères.",
+        "Elle semble intéresser simultanément l’ensemble du cortex cérébral.",
+        "Elle intéresse initialement uniquement un secteur cortical limité.",
+        "Elle s’accompagne habituellement de signes moteurs bilatéraux et symétriques."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Dans les crises généralisées, la décharge est d’emblée bilatérale et semble intéresser simultanément l’ensemble du cortex. L’atteinte initiale d’un secteur cortical limité caractérise les crises partielles."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’organisation temporelle d’une crise généralisée tonico-clonique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comporte trois phases successives.",
+        "La phase tonique dure environ 10 à 20 secondes.",
+        "La phase clonique dure environ 20 à 30 secondes.",
+        "La phase clonique précède habituellement la phase tonique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La crise généralisée tonico-clonique comporte une phase tonique, puis une phase clonique, puis une phase résolutive ou postcritique. La phase clonique ne précède pas la phase tonique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont compatibles avec la phase tonique d’une crise généralisée tonico-clonique ?",
+      "choices": [
+        "Apnée avec cyanose.",
+        "Contraction tonique soutenue de toute la musculature squelettique.",
+        "Troubles végétatifs tels que tachycardie, mydriase ou rougeur du visage.",
+        "Sommeil postcritique avec amnésie au réveil."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase tonique comprend notamment apnée, cyanose, contraction tonique généralisée et signes végétatifs. Le sommeil postcritique et l’amnésie appartiennent à la phase résolutive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les risques et conséquences immédiates d’une crise généralisée tonico-clonique, quelles propositions sont exactes ?",
+      "choices": [
+        "La chute expose à un risque de traumatisme.",
+        "Une morsure latérale de langue peut survenir.",
+        "Une énurésie ou une encoprésie peut être observée pendant la phase résolutive.",
+        "La conscience reste conservée pendant toute la crise."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase tonique peut comporter une chute traumatique et une morsure latérale de langue. La phase résolutive peut comporter énurésie ou encoprésie. La conscience est abolie dans la phase tonique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre phase d’une crise généralisée tonico-clonique et aspect EEG sont exactes ?",
+      "choices": [
+        "Phase tonique : activité rapide de bas voltage, d’amplitude croissante.",
+        "Phase clonique : polypointes ou polypointes-ondes progressivement ralenties.",
+        "Phase postcritique : ondes lentes s’installant progressivement.",
+        "Phase tonique : pointes-ondes bilatérales régulières à 3 Hz de début et de fin brusques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premières associations correspondent au texte. Les pointes-ondes régulières à 3 Hz caractérisent l’absence typique, non la phase tonique d’une crise généralisée tonico-clonique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des absences typiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Le début et la fin sont brusques.",
+        "La reprise de l’activité est immédiate.",
+        "Une composante motrice ou quelques automatismes peuvent être associés.",
+        "La présence d’automatismes exclut formellement le diagnostic."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les absences typiques ont un début et une fin brusques avec reprise immédiate. Le texte précise qu’une composante motrice ou quelques automatismes peuvent être associés."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments orientent vers une absence atypique selon le texte ?",
+      "choices": [
+        "Début et fin plus progressifs.",
+        "Durée plus longue.",
+        "Altération moins marquée de la conscience.",
+        "Décharge régulière de pointes-ondes à 3 Hz sur activité de fond normale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les absences atypiques ont un début et une fin progressifs, une durée plus longue et une altération moins marquée de la conscience. L’EEG montre des pointes-ondes lentes irrégulières, asynchrones, sur activité de fond anormale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les crises partielles simples, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent comporter des signes moteurs.",
+        "Elles peuvent comporter des signes sensitifs ou sensoriels.",
+        "Elles peuvent comporter des signes végétatifs ou psychiques.",
+        "Elles sont définies par une décharge d’emblée propagée aux deux hémisphères."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises partielles simples peuvent être motrices, sensitives ou sensorielles, végétatives ou psychiques. La décharge d’emblée bilatérale caractérise les crises généralisées."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles correspondances sémiologiques et topographiques des crises partielles simples motrices sont exactes ?",
+      "choices": [
+        "Marche jacksonienne : clonies unilatérales avec extension selon la somatotopie.",
+        "Marche jacksonienne : origine au niveau de la zone motrice primaire controlatérale.",
+        "Crise versive ou giratoire : origine préfrontale controlatérale.",
+        "Crise phonatoire : impossibilité de parler, vocalisation ou palilalie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces correspondances sont explicitement décrites dans le texte pour les crises partielles simples avec signes moteurs."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit le mieux le rendement global du traitement médicamenteux antiépileptique selon le texte ?",
+      "choices": [
+        "Il contrôle environ 30 % des épilepsies.",
+        "Il contrôle environ 50 % des épilepsies.",
+        "Il contrôle environ 70 % des épilepsies.",
+        "Il contrôle toutes les formes pharmacorésistantes."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique que le traitement par médicaments antiépileptiques contrôle environ 70 % des épilepsies."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle exploration est particulièrement mentionnée comme participant à l’enquête étiologique des épilepsies ?",
+      "choices": [
+        "Explorations neuroradiologiques.",
+        "Électrocardiogramme seul.",
+        "Radiographie thoracique systématique.",
+        "Épreuve d’effort."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’enquête étiologique dépend notamment des explorations neuroradiologiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une crise généralisée tonico-clonique, quel élément appartient spécifiquement à la phase clonique ?",
+      "choices": [
+        "Secousses bilatérales synchrones.",
+        "Cri profond initial possible.",
+        "Coma profond hypotonique.",
+        "Sommeil postcritique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La phase clonique est caractérisée par le relâchement intermittent de la contraction tonique et des secousses bilatérales synchrones."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé correspond à l’EEG d’une absence atypique ?",
+      "choices": [
+        "Décharges de pointes-ondes bilatérales irrégulières, asynchrones, inférieures à 3 Hz.",
+        "Activité rapide de bas voltage d’amplitude croissante.",
+        "Pointes-ondes régulières à 3 Hz de début et de fin brusques.",
+        "Ondes lentes postcritiques isolées après une crise tonico-clonique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’absence atypique est associée à des décharges de pointes-ondes lentes bilatérales irrégulières, asynchrones, inférieures à 3 Hz, interrompant une activité de fond anormale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel signe moteur généralisé correspond à une interruption brève et soudaine du tonus de tout ou partie du corps ?",
+      "choices": [
+        "Tonique.",
+        "Clonique.",
+        "Atonique.",
+        "Myoclonique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le signe atonique est défini par une interruption brève et soudaine du tonus de tout ou partie du corps."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement une crise partielle ou focale selon le texte ?",
+      "choices": [
+        "La décharge paroxystique intéresse initialement un secteur cortical limité.",
+        "La décharge est d’emblée propagée aux deux hémisphères.",
+        "La perte de connaissance longue est constante.",
+        "Les signes moteurs sont toujours bilatéraux et symétriques d’emblée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans les crises partielles ou focales, la décharge paroxystique intéresse initialement un secteur cortical limité."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse des phénomènes sensoriels épileptiques, quelles propositions respectent la terminologie du texte ?",
+      "choices": [
+        "Les phosphènes relèvent des hallucinations visuelles élémentaires.",
+        "Les acouphènes peuvent correspondre à des hallucinations auditives élémentaires.",
+        "La macropsie est classée parmi les hallucinations visuelles complexes.",
+        "La perception de musique ou de voix correspond à une manifestation auditive élaborée."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les phosphènes sont des hallucinations visuelles élémentaires ; les acouphènes font partie des manifestations auditives élémentaires ; musique et voix sont des manifestations auditives élaborées. La macropsie est une illusion visuelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments orientent vers une migraine avec aura plutôt que vers une crise partielle simple selon le texte ?",
+      "choices": [
+        "Une marche migraineuse plus lente.",
+        "Un déroulement sur environ une vingtaine de minutes.",
+        "Des signes déficitaires prolongés de 20 à 30 minutes ou plus.",
+        "Une crise facilement déclenchée par l’hyperpnée."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La migraine avec aura se distingue par une marche plus lente, sur une vingtaine de minutes. Les signes déficitaires prolongés orientent plutôt vers un AIT ; l’hyperpnée concerne surtout les absences typiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le diagnostic différentiel entre accident ischémique transitoire et crise partielle simple, quels arguments sont en faveur de l’AIT ?",
+      "choices": [
+        "La présence de signes déficitaires.",
+        "Une durée souvent plus prolongée, de 20 à 30 minutes ou plus.",
+        "La mise en évidence de paroxysmes localisés à l’EEG.",
+        "Une marche symptomatique lente sur une vingtaine de minutes."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’AIT se caractérise dans le texte par des signes déficitaires et une durée plus longue. Les paroxysmes localisés sont un argument EEG en faveur d’une épilepsie ; la marche lente évoque la migraine avec aura."
+    },
+    {
+      "type": "QCM",
+      "question": "Après la rupture du contact d’une crise partielle complexe, quelles manifestations peuvent être observées ?",
+      "choices": [
+        "Un arrêt moteur avec sujet immobile, yeux hagards, indifférent aux sollicitations.",
+        "Un automatisme ambulatoire comme marcher ou sortir sans raison.",
+        "Une crise exclusivement limitée à une version oculo-céphalique.",
+        "Des automatismes verbaux sous forme de chantonnements."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les crises partielles complexes peuvent comporter arrêt moteur, automatismes ambulatoires et automatismes verbaux. La version isolée appartient plutôt aux crises motrices partielles simples."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’interprétation de l’EEG intercritique dans les crises partielles, quelles propositions sont exactes ?",
+      "choices": [
+        "Un EEG normal reste possible.",
+        "Un EEG normal n’élimine pas le diagnostic de crise partielle.",
+        "Des paroxysmes localisés peuvent être observés.",
+        "Des signes lents thêta ou delta focalisés éliminent une cause lésionnelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’EEG intercritique peut être normal, ce qui n’exclut pas le diagnostic. Il peut aussi montrer des paroxysmes localisés. Les signes lents thêta ou delta focalisés sont au contraire en faveur d’un processus lésionnel."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon le texte, sur quels éléments repose la classification des épilepsies ?",
+      "choices": [
+        "La distinction entre épilepsie généralisée et épilepsie focale.",
+        "L’identification des différents types de crises chez un même patient.",
+        "L’origine étiologique présumée ou certaine.",
+        "La prédominance masculine ou féminine du syndrome."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La classification repose sur le caractère généralisé ou focal, les types de crises et l’étiologie. La prédominance selon le sexe n’est pas citée comme critère de classification générale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont compatibles avec une épilepsie idiopathique telle que définie dans le texte ?",
+      "choices": [
+        "Crises bien définies dont la survenue est liée à l’âge.",
+        "Développement psychomoteur et examen clinique normaux.",
+        "Anomalies EEG paroxystiques caractéristiques sur un rythme de fond normal.",
+        "Lésion cérébrale focale évolutive démontrée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les épilepsies idiopathiques sont indépendantes d’une lésion cérébrale, avec crises liées à l’âge, examen normal et anomalies EEG caractéristiques sur rythme de fond normal."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des épilepsies symptomatiques et cryptogéniques, quelles propositions sont exactes ?",
+      "choices": [
+        "Une épilepsie symptomatique peut résulter d’une lésion cérébrale diffuse.",
+        "Une épilepsie symptomatique peut résulter d’une lésion cérébrale focale, évolutive ou fixée.",
+        "Dans une épilepsie cryptogénique, la cause est présumée mais non identifiée.",
+        "Une épilepsie cryptogénique impose l’existence d’une anomalie radiologique démontrée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les épilepsies symptomatiques résultent de lésions diffuses ou focales, évolutives ou fixées. Les cryptogéniques correspondent à une cause présumée mais non identifiée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions comparent correctement l’épilepsie absence de l’enfant et l’absence juvénile ?",
+      "choices": [
+        "Dans l’épilepsie absence de l’enfant, les absences peuvent être très fréquentes, parfois 100 par jour ou plus.",
+        "Dans l’absence juvénile, les absences sont moins nombreuses et plus espacées.",
+        "Les crises généralisées tonico-cloniques sont fréquentes au cours de l’évolution de l’absence juvénile.",
+        "L’absence juvénile a un pronostic plus favorable que l’épilepsie absence de l’enfant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épilepsie absence de l’enfant comporte souvent des absences fréquentes. L’absence juvénile se caractérise par des absences moins nombreuses, plus espacées, un pronostic moins favorable et des crises généralisées tonico-cloniques fréquentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution et le traitement de l’épilepsie myoclonique juvénile, quelles propositions sont exactes ?",
+      "choices": [
+        "Le contrôle peut être rapide sous monothérapie.",
+        "Il s’agit d’une épilepsie pharmacodépendante.",
+        "L’arrêt du traitement entraîne une récidive dans environ 90 % des cas.",
+        "Le traitement est toujours interrompu rapidement après disparition des myoclonies."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épilepsie myoclonique juvénile est souvent contrôlée rapidement par monothérapie, mais elle est pharmacodépendante avec un risque élevé de récidive à l’arrêt, justifiant parfois un traitement prolongé à vie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles caractéristiques cliniques des myoclonies de l’épilepsie myoclonique juvénile sont rapportées ?",
+      "choices": [
+        "Elles surviennent en pleine conscience.",
+        "Elles apparaissent souvent peu après le réveil.",
+        "Elles sont favorisées par les nuits écourtées et les réveils brusques.",
+        "Elles apparaissent toujours uniquement après une crise généralisée tonico-clonique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les myoclonies surviennent en pleine conscience, souvent après le réveil, favorisées par le manque de sommeil et les réveils brusques. Elles peuvent précéder les crises généralisées tonico-cloniques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des signes végétatifs des crises partielles, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être cardiovasculaires.",
+        "Ils peuvent être respiratoires ou digestifs.",
+        "L’hypersalivation peut être d’origine operculaire.",
+        "Une pesanteur épigastrique remontant à la gorge est fréquente dans les crises temporales internes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces manifestations végétatives sont citées : cardiovasculaires, respiratoires, digestives, hypersalivation d’origine operculaire et pesanteur épigastrique ascendante fréquente dans les crises temporales internes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes psychiques peuvent s’intégrer à une crise partielle selon le texte ?",
+      "choices": [
+        "Un état de rêve.",
+        "Une impression d’irréalité.",
+        "Une impression de déjà-vu ou de jamais-vu.",
+        "Une hallucination élémentaire faite de phosphènes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les signes psychiques comprennent notamment état de rêve, étrangeté, irréalité, déjà-vu, jamais-vu, déjà-vécu et jamais-vécu. Les phosphènes relèvent des crises visuelles élémentaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre type de crise et diagnostic différentiel sont correctes ?",
+      "choices": [
+        "Crise généralisée tonico-clonique — syncope, notamment convulsive.",
+        "Crise partielle complexe — parasomnies comme le somnambulisme ou les terreurs nocturnes.",
+        "Crise partielle complexe — ictus amnésique.",
+        "Crise généralisée tonico-clonique — migraine avec aura comme diagnostic différentiel principal cité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la syncope convulsive et la crise névropathique pour les crises généralisées tonico-cloniques ; les parasomnies et l’ictus amnésique pour les crises partielles complexes. La migraine avec aura concerne les crises partielles simples."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle origine topographique est attribuée à une crise gustative dans le texte ?",
+      "choices": [
+        "Cortex occipital péricalcarin opposé.",
+        "Gyrus de Heschl.",
+        "Région operculaire.",
+        "Cortex orbitofrontal."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La crise gustative est rattachée à la région operculaire, souvent avec hypersalivation associée."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à une illusion auditive selon le texte ?",
+      "choices": [
+        "Perception de cercles colorés.",
+        "Éloignement des sons.",
+        "Goût amer ou acide.",
+        "Impression de lévitation."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les illusions auditives comprennent la déformation des voix et l’éloignement des sons."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est un critère général de classification des épilepsies selon le texte ?",
+      "choices": [
+        "Le nombre quotidien exact de crises.",
+        "La distinction entre épilepsie généralisée et épilepsie focale.",
+        "La présence obligatoire d’une photosensibilité.",
+        "La réponse immédiate à une monothérapie."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La classification repose notamment sur la distinction entre épilepsie généralisée et épilepsie focale."
+    },
+    {
+      "type": "QCS",
+      "question": "Un enfant d’environ 7 ans présente des absences typiques très fréquentes, facilement provoquées par l’hyperpnée. Quel syndrome est le plus compatible avec le texte ?",
+      "choices": [
+        "Épilepsie absence de l’enfant.",
+        "Absence juvénile.",
+        "Épilepsie myoclonique juvénile.",
+        "Syndrome de Lennox-Gastaut."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’épilepsie absence de l’enfant débute autour de 7 ans, avec absences typiques fréquentes et facilement provoquées par l’hyperpnée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé correspond au pronostic thérapeutique possible des épilepsies idiopathiques ?",
+      "choices": [
+        "Rémission parfois facilement obtenue par monothérapie.",
+        "Évolution constamment aggravée malgré traitement.",
+        "Traitement chirurgical systématique d’emblée.",
+        "Nécessité constante d’une polythérapie à vie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les épilepsies idiopathiques ont un pronostic favorable, avec rémission souvent facilement obtenue par monothérapie, voire parfois abstention thérapeutique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel âge de début est caractéristique de l’épilepsie myoclonique juvénile selon le texte ?",
+      "choices": [
+        "Période néonatale.",
+        "Petite enfance avant 3 ans.",
+        "Adolescence.",
+        "Sujet âgé."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’épilepsie myoclonique juvénile débute à l’adolescence."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant des crises survenant surtout la nuit, à l’endormissement, quels éléments orientent vers l’épilepsie à pointes centrotemporales décrite dans le texte ?",
+      "choices": [
+        "Des crises partielles simples de la région buccofaciale",
+        "Des paresthésies de la langue ou des gencives",
+        "Un arrêt psychomoteur avec fixité du regard",
+        "Des pointes centrotemporales lentes biphasiques sur rythme de fond normal"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le tableau associe des crises souvent nocturnes à l’endormissement, une sémiologie buccofaciale avec paresthésies linguales ou gingivales, et des pointes centrotemporales lentes biphasiques avec rythme de fond normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’épilepsie à pointes centrotemporales, quelles manifestations cliniques appartiennent à la sémiologie rapportée ?",
+      "choices": [
+        "Des clonies d’une hémiface",
+        "Une hypersalivation",
+        "Une impossibilité de parler avec conscience conservée",
+        "Une gêne épigastrique ascendante bien mémorisée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les clonies hémifaciales, l’hypersalivation et l’impossibilité de parler avec conscience conservée sont décrites dans l’épilepsie à pointes centrotemporales. La gêne épigastrique ascendante relève de la crise temporale mésiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre syndrome épileptique et manifestation clinique sont exactes selon le texte ?",
+      "choices": [
+        "Épilepsie temporale mésiale : gêne épigastrique ascendante",
+        "Épilepsie à pointes centrotemporales : clonies d’une hémiface",
+        "Syndrome de West : mâchonnement lent isolé comme signe typique",
+        "Syndrome de Lennox-Gastaut : coexistence possible de plusieurs types de crises"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La gêne épigastrique ascendante caractérise la crise temporale mésiale, les clonies hémifaciales l’épilepsie centrotemporale, et le Lennox-Gastaut comporte souvent plusieurs types de crises chez un même patient."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une crise typique de la face mésiale du lobe temporal, quels éléments peuvent être observés ?",
+      "choices": [
+        "Arrêt psychomoteur avec fixité du regard",
+        "Mâchonnement lent",
+        "Activité gestuelle simple de type émiettement, frottement ou malaxage",
+        "Attitude dystonique du membre supérieur controlatéral"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Tous ces signes sont explicitement décrits dans la crise typique de la face mésiale du lobe temporal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les profils EEG intercritiques ou critiques des syndromes décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans l’épilepsie à pointes centrotemporales, le rythme de fond est normal",
+        "Dans le syndrome de West, l’hypsarythmie comporte des pointes diffuses sans régularité",
+        "Dans le syndrome de Lennox-Gastaut, l’activité est très nombreuse sur un rythme de fond ralenti à l’état de veille",
+        "Dans le syndrome de West, l’anomalie typique est une pointe-onde lente régulière à 1,5-2 Hz"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le rythme de fond normal est attendu dans l’épilepsie à pointes centrotemporales. L’hypsarythmie du West associe ondes très amples et lentes avec pointes diffuses sans régularité. Les pointes-ondes lentes à 1,5-2 Hz relèvent du Lennox-Gastaut."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le syndrome de West, quels signes traduisent la régression psychomotrice décrite ?",
+      "choices": [
+        "Enfant indifférent",
+        "Disparition du sourire",
+        "Perte d’intérêt pour l’environnement",
+        "Perte possible d’acquisitions antérieures"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La régression psychomotrice du syndrome de West comprend l’indifférence, la disparition du sourire, la perte d’intérêt, l’arrêt des acquisitions et parfois la perte d’acquisitions antérieures."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des formes évolutives du syndrome de West, quelles propositions sont exactes ?",
+      "choices": [
+        "La forme primitive représente environ un tiers des cas",
+        "La forme primitive n’a pas un pronostic forcément péjoratif si le traitement est précoce",
+        "La forme secondaire peut être liée à une encéphalopathie fixée, une maladie métabolique ou une phacomatose",
+        "La forme secondaire est décrite comme ayant un pronostic habituellement excellent"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme primitive représente environ un tiers des cas et peut ne pas être forcément péjorative si elle est traitée précocement. Les formes secondaires ont au contraire un pronostic très défavorable."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le syndrome de Lennox-Gastaut, quels éléments concernant les crises sont rapportés ?",
+      "choices": [
+        "Crises toniques",
+        "Crises atoniques",
+        "Absences atypiques",
+        "Crises quotidiennes avec coexistence possible de plusieurs types de crises"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le syndrome de Lennox-Gastaut associe classiquement des crises toniques, atoniques, des absences atypiques, souvent quotidiennes, avec coexistence de plusieurs types de crises chez un même patient."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels troubles associés peuvent accompagner le syndrome de Lennox-Gastaut selon le texte ?",
+      "choices": [
+        "Retard intellectuel",
+        "Troubles de la personnalité",
+        "Troubles caractériels",
+        "Comportements autistiques ou prépsychotiques possibles"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne ces quatre catégories de troubles associés dans le syndrome de Lennox-Gastaut."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’EEG du syndrome de Lennox-Gastaut, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut montrer des pointes-ondes lentes à 1,5 à 2 Hz",
+        "Il peut montrer des bouffées bisynchrones plus ou moins symétriques",
+        "Pendant le sommeil, des décharges de rythmes rapides recrutants correspondent à des crises toniques pathognomoniques",
+        "À l’état de veille, le rythme de fond est décrit comme normal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’EEG intercritique du Lennox-Gastaut montre des pointes-ondes lentes à 1,5-2 Hz, des bouffées bisynchrones plus ou moins symétriques et un rythme de fond ralenti à l’état de veille. Pendant le sommeil, les rythmes rapides recrutants correspondent à des crises toniques pathognomoniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’étiologie et l’enchaînement syndromique du Lennox-Gastaut, quelles propositions sont exactes ?",
+      "choices": [
+        "Une forme cryptogénique est possible",
+        "Une forme symptomatique d’une atteinte cérébrale congénitale ou acquise est possible",
+        "Il peut faire suite à un syndrome de West",
+        "Tous les cas cryptogéniques évoluent obligatoirement avec séquelles malgré un traitement précoce"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le Lennox-Gastaut peut être cryptogénique ou symptomatique d’une atteinte cérébrale congénitale ou acquise, et peut faire suite à un syndrome de West. Certains cas cryptogéniques traités précocement peuvent évoluer sans séquelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions thérapeutiques ou pronostiques correspondent aux syndromes décrits ?",
+      "choices": [
+        "L’épilepsie à pointes centrotemporales a un pronostic excellent",
+        "Dans l’épilepsie à pointes centrotemporales, une monothérapie ou une abstention thérapeutique peut être envisagée selon les cas",
+        "Dans l’épilepsie temporale mésiale pharmacorésistante, la chirurgie peut être efficace dans près de 90 % des cas",
+        "Dans le syndrome de Lennox-Gastaut, l’efficacité des traitements est souvent transitoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre éléments sont conformes au texte : bon pronostic centrotemporal, options thérapeutiques légères possibles, chirurgie efficace dans certaines épilepsies temporales mésiales pharmacorésistantes, et traitements souvent transitoirement efficaces dans le Lennox-Gastaut."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles correspondances d’âge ou de période de début sont exactes ?",
+      "choices": [
+        "Syndrome de West : début entre le 4e et le 7e mois",
+        "Syndrome de Lennox-Gastaut : début avant 8 ans",
+        "Syndrome de Lennox-Gastaut : pic de fréquence entre 3 et 5 ans",
+        "Épilepsie de la face interne du lobe temporal : début dans l’enfance ou chez l’adulte jeune"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces données d’âge ou de période de début sont explicitement mentionnées dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’extension des crises et les généralisations secondaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans l’épilepsie à pointes centrotemporales, une extension au membre supérieur est possible",
+        "Dans l’épilepsie à pointes centrotemporales, une généralisation secondaire est possible",
+        "Dans l’épilepsie temporale mésiale, les généralisations secondaires sont rares",
+        "Dans le syndrome de West, les généralisations secondaires sont décrites comme l’élément central de la triade"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épilepsie à pointes centrotemporales peut s’étendre au membre supérieur et se généraliser secondairement. Dans l’épilepsie temporale mésiale, les généralisations secondaires sont rares. La triade du West repose sur spasmes infantiles, régression psychomotrice et hypsarythmie."
+    },
+    {
+      "type": "QCS",
+      "question": "Un nourrisson de 6 mois présente des spasmes infantiles en salves, surtout en flexion, associés à une régression psychomotrice et à une hypsarythmie. Quel diagnostic est le plus compatible avec le texte ?",
+      "choices": [
+        "Syndrome de West",
+        "Syndrome de Lennox-Gastaut",
+        "Épilepsie temporale mésiale",
+        "Épilepsie à pointes centrotemporales"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’âge de début entre 4 et 7 mois, les spasmes infantiles en salves, la régression psychomotrice et l’hypsarythmie définissent le syndrome de West."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple anomalie EEG–syndrome est correctement associé ?",
+      "choices": [
+        "Hypsarythmie — syndrome de West",
+        "Rythme de fond normal avec pointes centrotemporales — syndrome de Lennox-Gastaut",
+        "Pointes-ondes lentes à 1,5-2 Hz — épilepsie temporale mésiale",
+        "Décharges rapides recrutantes du sommeil — épilepsie à pointes centrotemporales"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hypsarythmie est l’anomalie EEG caractéristique du syndrome de West. Les pointes-ondes lentes à 1,5-2 Hz et les décharges rapides recrutantes du sommeil appartiennent au Lennox-Gastaut."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’épilepsie à pointes centrotemporales, à quel moment les crises surviennent-elles souvent selon le texte ?",
+      "choices": [
+        "Au cours d’un effort physique",
+        "À la fin d’un repas",
+        "La nuit, à l’endormissement",
+        "Exclusivement au réveil"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que les crises sont souvent nocturnes, à l’endormissement."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les signes suivants, lequel est spécifiquement cité comme manifestation de régression psychomotrice dans le syndrome de West ?",
+      "choices": [
+        "Disparition du sourire",
+        "Attitude dystonique du membre supérieur controlatéral",
+        "Mâchonnement lent",
+        "Clonies d’une hémiface"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La disparition du sourire fait partie des signes de régression psychomotrice du syndrome de West."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le syndrome de West, que peut montrer l’EEG au moment des spasmes ?",
+      "choices": [
+        "Un aplatissement transitoire interrompant l’hypsarythmie",
+        "Des pointes-ondes lentes régulières à 1,5-2 Hz",
+        "Un rythme de fond normal persistant",
+        "Des pointes centrotemporales lentes biphasiques isolées"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Lors des spasmes du syndrome de West, l’activité hypsarythmique peut être interrompue par un aplatissement transitoire."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas d’épilepsie de la face interne du lobe temporal pharmacorésistante, quelle option thérapeutique est rapportée comme pouvant être très efficace ?",
+      "choices": [
+        "Abstention thérapeutique systématique",
+        "Chirurgie, efficace dans près de 90 % des cas",
+        "Traitement uniquement symptomatique des troubles caractériels",
+        "Traitement précoce visant l’hypsarythmie sans autre option"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans l’épilepsie temporale mésiale pharmacorésistante, le texte indique que la chirurgie peut être efficace dans près de 90 % des cas."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’approche d’un patient présentant des crises répétées, quels éléments du texte justifient de ne pas considérer l’épilepsie comme une entité unique et homogène ?",
+      "choices": [
+        "Il existe plusieurs épilepsies ou syndromes électrocliniques.",
+        "Les syndromes épileptiques ont des pronostics et des traitements différents.",
+        "Les crises diffèrent selon leur origine topographique corticale.",
+        "L’enquête étiologique repose exclusivement sur l’interrogatoire clinique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur l’existence de plusieurs syndromes électrocliniques, de pronostic et de traitement différents, et sur la dépendance des crises à leur origine corticale. L’enquête étiologique dépend notamment des explorations neuroradiologiques, elle n’est donc pas exclusivement clinique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition d’une crise épileptique, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle correspond à la manifestation clinique d’une hyperactivité paroxystique neuronale.",
+        "Elle peut résulter de l’activité d’un groupe plus ou moins étendu de neurones cérébraux.",
+        "Elle définit à elle seule une épilepsie chronique.",
+        "Elle peut comporter une éventuelle propagation de l’activité neuronale anormale."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Une crise épileptique est une manifestation clinique d’hyperactivité paroxystique d’un groupe neuronal, avec éventuelle propagation. Une crise isolée ne suffit pas à définir l’épilepsie chronique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles activités paroxystiques EEG sont citées comme pouvant traduire une crise épileptique ?",
+      "choices": [
+        "Pointes.",
+        "Polypointes.",
+        "Pointes-ondes.",
+        "Décharges paroxystiques d’activités rythmiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite explicitement les pointes, polypointes, pointes-ondes et décharges paroxystiques d’activités rythmiques comme traductions EEG possibles d’une crise épileptique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles ne suffisent pas, à elles seules, à définir une épilepsie chronique selon le texte ?",
+      "choices": [
+        "Une crise épileptique isolée.",
+        "La répétition spontanée de crises à moyen et long terme.",
+        "Une crise prolongée unique.",
+        "Une modification abrupte isolée de l’état de conscience liée à une crise."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’épilepsie est définie par la répétition, en général spontanée, à moyen et long terme, de crises épileptiques. Une crise isolée, même prolongée, ou une manifestation isolée ne suffit pas à définir l’épilepsie chronique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les crises généralisées, quelles propositions décrivent correctement l’organisation de la décharge et les manifestations habituelles ?",
+      "choices": [
+        "La décharge est d’emblée propagée aux deux hémisphères.",
+        "Elle semble intéresser simultanément l’ensemble du cortex cérébral.",
+        "Les signes moteurs habituels sont d’emblée bilatéraux et symétriques.",
+        "La décharge intéresse initialement un secteur cortical limité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises généralisées impliquent d’emblée les deux hémisphères et l’ensemble du cortex, avec signes moteurs bilatéraux et symétriques. L’atteinte initiale d’un secteur cortical limité définit les crises partielles ou focales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la terminologie des signes moteurs généralisés, quelles propositions sont exactes ?",
+      "choices": [
+        "Les signes toniques correspondent à des contractions musculaires segmentaires soutenues.",
+        "Les signes cloniques correspondent à des secousses musculaires segmentaires répétitives et rythmiques.",
+        "Les signes atoniques correspondent à une interruption brève et soudaine du tonus de tout ou partie du corps.",
+        "Les signes myocloniques correspondent à une perte de connaissance prolongée sans manifestation motrice."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte définit les signes toniques, cloniques et atoniques ainsi. Les myoclonies sont des contractions simultanées de muscles agonistes et antagonistes, isolées ou en salves."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la phase tonique d’une crise généralisée tonico-clonique, quels éléments peuvent être observés ?",
+      "choices": [
+        "Un cri profond au début.",
+        "Une chute avec risque de traumatisme.",
+        "Une révulsion des yeux.",
+        "Un relâchement musculaire complet."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phase tonique peut comporter cri initial, chute traumatisante, abolition de conscience, révulsion des yeux et contraction tonique. Le relâchement musculaire complet appartient à la phase résolutive."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une crise généralisée tonico-clonique, quelles manifestations respiratoires ou végétatives sont rapportées ?",
+      "choices": [
+        "Apnée avec cyanose pendant la phase tonique.",
+        "Tachycardie et augmentation de la pression artérielle.",
+        "Reprise d’une respiration ample, bruyante et stertoreuse en phase postcritique.",
+        "Hypersécrétion bronchique et salivaire avec bave aux lèvres en phase postcritique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces manifestations sont décrites dans le texte, soit pendant la phase tonique, soit pendant la phase résolutive ou postcritique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les corrélations EEG des phases d’une crise généralisée tonico-clonique, quelles propositions sont exactes ?",
+      "choices": [
+        "La phase tonique s’accompagne d’une activité rapide, de bas voltage, d’amplitude croissante.",
+        "La phase clonique s’accompagne de polypointes ou polypointes-ondes progressivement ralenties.",
+        "La phase postcritique comporte des ondes lentes pouvant persister plusieurs heures ou plusieurs jours.",
+        "La phase tonique est caractérisée par des pointes-ondes à 3 Hz de début et de fin brusques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premières propositions correspondent à l’EEG de la crise généralisée tonico-clonique. Les pointes-ondes à 3 Hz caractérisent l’absence typique."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un enfant ayant des interruptions très brèves de l’activité avec regard vide, quels éléments orientent vers des absences typiques selon le texte ?",
+      "choices": [
+        "Une reprise immédiate de l’activité.",
+        "Une absence de souvenir de l’épisode.",
+        "Des crises souvent très nombreuses.",
+        "Un coma hypotonique postcritique prolongé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’absence typique comporte une rupture brève du contact, un regard vide, une reprise immédiate et une amnésie de l’épisode. Le coma hypotonique postcritique est décrit après une crise généralisée tonico-clonique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction EEG entre absences typiques et atypiques, quelles propositions sont correctes ?",
+      "choices": [
+        "L’absence typique comporte des pointes-ondes bilatérales, synchrones et symétriques à 3 Hz.",
+        "L’absence atypique comporte des décharges bilatérales irrégulières, asynchrones, inférieures à 3 Hz.",
+        "L’absence atypique interrompt une activité de fond anormale.",
+        "L’absence typique est définie par des pointes-ondes lentes irrégulières inférieures à 3 Hz."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les absences typiques ont des pointes-ondes à 3 Hz bilatérales, synchrones et symétriques. Les absences atypiques ont des pointes-ondes lentes irrégulières, asynchrones, inférieures à 3 Hz, sur fond anormal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les crises partielles ou focales, quelles propositions sont exactes ?",
+      "choices": [
+        "La décharge paroxystique intéresse initialement un secteur cortical limité.",
+        "Elles se divisent en crises partielles simples et crises partielles complexes.",
+        "Les crises partielles simples peuvent comporter des signes moteurs, sensitifs, sensoriels, végétatifs ou psychiques.",
+        "Elles sont définies par une décharge d’emblée propagée aux deux hémisphères."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises partielles débutent dans un secteur cortical limité et comprennent des formes simples et complexes. La décharge d’emblée bilatérale est celle des crises généralisées."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les crises partielles simples avec signes moteurs, quelles associations sémiologiques sont exactes ?",
+      "choices": [
+        "La marche jacksonienne comporte des clonies unilatérales avec extension selon la somatotopie.",
+        "La crise motrice sans marche jacksonienne peut comporter des spasmes toniques.",
+        "La crise motrice sans marche jacksonienne peut comporter des attitudes dystoniques.",
+        "La crise versive ou giratoire peut comporter une déviation de tout ou partie du corps."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces manifestations sont rapportées dans la description des crises partielles simples motrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles localisations corticales sont explicitement associées aux crises partielles simples motrices dans le texte ?",
+      "choices": [
+        "La crise somatomotrice avec marche jacksonienne provient de la zone motrice primaire controlatérale.",
+        "La crise motrice sans marche jacksonienne provient du cortex moteur primaire et des régions prémotrices.",
+        "La crise versive ou giratoire provient de la région préfrontale controlatérale.",
+        "La crise phonatoire provient explicitement de la face interne du lobe temporal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise les localisations des crises jacksoniennes, motrices sans marche jacksonienne et versives. Il ne donne pas de localisation temporale mésiale pour la crise phonatoire dans l’extrait fourni."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel taux approximatif de contrôle des épilepsies par les médicaments antiépileptiques est indiqué dans le texte ?",
+      "choices": [
+        "Environ 30 %.",
+        "Environ 50 %.",
+        "Environ 70 %.",
+        "Environ 90 %."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique que le traitement médicamenteux antiépileptique contrôle environ 70 % des épilepsies."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit le mieux le rôle de l’EEG dans le diagnostic des épilepsies selon le texte ?",
+      "choices": [
+        "Un examen accessoire sans intérêt pour le diagnostic positif.",
+        "Un outil primordial du diagnostic positif.",
+        "Un examen réservé uniquement aux formes pharmacorésistantes.",
+        "Un examen utile seulement pour décider d’un traitement chirurgical."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte qualifie l’EEG d’outil primordial du diagnostic positif des épilepsies."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément définit le mieux une crise partielle ou focale dans le texte ?",
+      "choices": [
+        "Une décharge initialement limitée à un secteur cortical.",
+        "Une décharge intéressant d’emblée les deux hémisphères.",
+        "Une perte de connaissance prolongée obligatoire.",
+        "Une succession constante de phases tonique, clonique et postcritique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La crise partielle ou focale est définie par une décharge paroxystique intéressant initialement un secteur cortical limité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle manifestation motrice correspond à des contractions simultanées de muscles agonistes et antagonistes, isolées ou en salves ?",
+      "choices": [
+        "Signe tonique.",
+        "Signe clonique.",
+        "Signe atonique.",
+        "Signe myoclonique."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Les myoclonies sont définies par des contractions simultanées de muscles agonistes et antagonistes, isolées ou en salves."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’enquête étiologique des épilepsies, quel type d’explorations est notamment mentionné par le texte ?",
+      "choices": [
+        "Explorations neuroradiologiques.",
+        "Explorations digestives systématiques.",
+        "Explorations coronarographiques.",
+        "Explorations pulmonaires fonctionnelles."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que l’enquête étiologique dépend notamment des explorations neuroradiologiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation correspond à la définition de l’état de mal épileptique donnée dans le texte ?",
+      "choices": [
+        "Une crise brève suivie d’une reprise immédiate complète de conscience.",
+        "Des crises répétées à très bref délai sans reprise de conscience entre les crises.",
+        "Des absences typiques rares et isolées.",
+        "Une simple rêverie prolongée sans activité EEG caractéristique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’état de mal épileptique correspond à des crises répétées à très bref délai sans reprise de conscience entre elles, ou à une crise prolongée."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-03T00:00:24.389Z"
+}

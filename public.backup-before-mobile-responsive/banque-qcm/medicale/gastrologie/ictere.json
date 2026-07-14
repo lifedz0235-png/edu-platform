@@ -1,0 +1,3145 @@
+{
+  "category": "medicale",
+  "module": "gastrologie",
+  "courseId": 153,
+  "courseTitle": "Ictere",
+  "supportTitle": "ictère",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/medicale-pdf/GASTRO/ictère.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les seuils biologiques de la bilirubinémie totale et des fractions bilirubiniques, quelles propositions sont exactes ?",
+      "choices": [
+        "Une bilirubinémie totale inférieure à 20 μmol/L est considérée comme normale.",
+        "Un subictère correspond à une bilirubinémie totale comprise entre 20 et 40 μmol/L.",
+        "Un ictère clinique correspond à une bilirubinémie totale supérieure à 40 μmol/L.",
+        "La bilirubine conjuguée normale est inférieure à 15 μmol/L."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bilirubinémie totale normale est < 20 μmol/L ; le subictère se situe entre 20 et 40 μmol/L ; l’ictère apparaît au-delà de 40 μmol/L. La bilirubine conjuguée normale est < 5 μmol/L, tandis que la bilirubine non conjuguée normale est < 15 μmol/L."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du cycle physiologique de la bilirubine, quelles propositions sont exactes ?",
+      "choices": [
+        "La bilirubine provient de la dégradation de l’hémoglobine des hématies sénescentes par les macrophages.",
+        "La bilirubine non conjuguée est transportée jusqu’au foie par l’albumine.",
+        "La bilirubine non conjuguée franchit facilement la barrière glomérulaire et passe dans les urines.",
+        "La conjugaison hépatocytaire se fait avec l’acide glucuronique grâce à la bilirubine-UDP-glucuronosyl-transférase 1."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La bilirubine non conjuguée est peu hydrosoluble, liée à l’albumine, et ne franchit pas la barrière glomérulaire : elle ne passe donc pas dans les urines. Elle est conjuguée dans l’hépatocyte par la bilirubine-UDP-glucuronosyl-transférase 1."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes d’augmentation des différentes fractions de bilirubine, quelles propositions sont exactes ?",
+      "choices": [
+        "Une augmentation de la bilirubine non conjuguée peut résulter d’une destruction accrue de l’hémoglobine.",
+        "Une augmentation de la bilirubine non conjuguée peut résulter d’une diminution de la captation ou de la conjugaison hépatocytaire.",
+        "Une augmentation de la bilirubine conjuguée traduit une diminution de son excrétion dans la bile par l’hépatocyte.",
+        "Une cholestase anictérique associe une diminution des acides biliaires et une élévation obligatoire de la bilirubine conjuguée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hyperbilirubinémie libre peut être liée à l’hyperhémolyse ou à une baisse de captation/conjugaison. L’hyperbilirubinémie conjuguée traduit un défaut d’excrétion biliaire. Dans la cholestase anictérique, la bilirubine conjuguée reste normale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles étiologies peuvent être responsables d’un ictère à bilirubine libre selon le texte ?",
+      "choices": [
+        "Hyperhémolyse.",
+        "Dysérythropoïèse.",
+        "Syndrome de Gilbert.",
+        "Cancer de la voie biliaire principale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les ictères à bilirubine libre relèvent de l’hyperhémolyse, de la dysérythropoïèse ou d’une baisse de conjugaison comme le syndrome de Gilbert, le syndrome de Crigler-Najjar ou l’ictère du nouveau-né. Le cancer de la voie biliaire principale relève d’une cholestase extra-hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le syndrome de Gilbert, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à un polymorphisme non pathologique du promoteur du gène de la bilirubine-glucuronyl-transférase.",
+        "Il est transmis sur un mode autosomique récessif.",
+        "Il donne une hyperbilirubinémie libre modérée, fluctuante, généralement inférieure à 80 μmol/L.",
+        "Il s’accompagne habituellement d’anomalies hépatiques permettant un diagnostic positif direct."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de Gilbert est bénin, fréquent, autosomique récessif, avec hyperbilirubinémie libre modérée et fluctuante. Le diagnostic est un diagnostic d’élimination devant des signes compatibles sans anomalie hépatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément caractérise le mieux le syndrome de Crigler-Najjar ?",
+      "choices": [
+        "Hyperbilirubinémie conjuguée fluctuante diminuant sous inducteur enzymatique.",
+        "Ictère néonatal marqué et permanent avec bilirubinémie libre supérieure à 100 μmol/L.",
+        "Cholestase anictérique liée à une diminution isolée des acides biliaires.",
+        "Ictère nu sans fièvre ni douleur par obstacle de la voie biliaire principale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le syndrome de Crigler-Najjar est une affection rare et grave par absence ou effondrement de l’activité de la glucuronyl-transférase, donnant un ictère néonatal marqué, permanent, avec bilirubinémie libre > 100 μmol/L et risque d’encéphalopathie bilirubinique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes ou anomalies sont compatibles avec une cholestase selon le texte ?",
+      "choices": [
+        "Prurit par reflux des acides biliaires.",
+        "Amaigrissement non spécifique en cas de cholestase chronique par malabsorption.",
+        "Douleur lors d’une mise en tension brutale des voies biliaires.",
+        "Diminution des phosphatases alcalines et de la GGT."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cholestase peut donner un prurit, un amaigrissement en cas de cholestase chronique et une douleur en cas de mise en tension brutale des voies biliaires. Biologiquement, elle s’accompagne d’une augmentation des phosphatases alcalines et de la GGT."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les données échographiques au cours d’une cholestase, quelles propositions sont exactes ?",
+      "choices": [
+        "La dilatation des voies biliaires correspond à une dilatation harmonieuse du territoire en amont de l’obstacle.",
+        "Une dilatation peut être absente en cas d’obstruction récente.",
+        "Une dilatation peut être absente en cas de paroi scléreuse ou de cirrhose.",
+        "La dilatation de la vésicule biliaire évoque surtout un obstacle des canaux biliaires microscopiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échographie recherche une dilatation en amont de l’obstacle, mais celle-ci peut manquer si l’obstruction est récente, en cas de paroi scléreuse ou de cirrhose. Une dilatation de la vésicule biliaire évoque un obstacle cholédocien sur vésicule saine, notamment néoplasique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les étiologies suivantes, lesquelles peuvent atteindre la voie biliaire principale et provoquer une cholestase extra-hépatique ?",
+      "choices": [
+        "Lithiase de la voie biliaire principale.",
+        "Cancer de la tête du pancréas.",
+        "Sténose postopératoire.",
+        "Syndrome de Gilbert."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les étiologies de la voie biliaire principale comprennent notamment la lithiase, le cancer de la tête du pancréas, le cancer de la voie biliaire principale, l’ampullome vatérien, les sténoses postopératoires, les compressions par adénopathies et la pancréatite chronique. Le syndrome de Gilbert est un ictère à bilirubine libre."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions concernant les atteintes des canaux biliaires de petit ou moyen calibre sont exactes ?",
+      "choices": [
+        "La cirrhose biliaire primitive est une cholangite destructrice non suppurée des canaux biliaires microscopiques.",
+        "La cholangite immuno-allergique médicamenteuse peut être associée à une hyperéosinophilie.",
+        "La cholangite sclérosante primitive peut comporter des sténoses et dilatations des canaux biliaires intra- et extra-hépatiques.",
+        "La mucoviscidose est citée parmi les causes génétiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre propositions sont conformes au texte : la cirrhose biliaire primitive touche les canaux microscopiques, la cholangite immuno-allergique peut donner fièvre, douleur de l’hypochondre droit et hyperéosinophilie, la cholangite sclérosante primitive donne des irrégularités canalaires avec sténoses/dilatations, et la mucoviscidose fait partie des causes génétiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel tableau clinique est le plus évocateur d’une lithiase de la voie biliaire principale compliquée d’angiocholite selon le texte ?",
+      "choices": [
+        "Ictère nu sans fièvre ni douleur.",
+        "Anémie ferriprive avec ictère fluctuant.",
+        "Douleur biliaire avec fièvre.",
+        "Ictère néonatal permanent avec bilirubine libre élevée."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La lithiase de la voie biliaire principale donne une douleur biliaire, avec fièvre en cas d’angiocholite. L’ictère nu évoque plutôt un cancer de la voie biliaire principale, et l’anémie ferriprive avec ictère fluctuant un ampullome vatérien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les causes de cholestase intra-hépatique mentionnées, quelles propositions sont exactes ?",
+      "choices": [
+        "Les cytokines inflammatoires peuvent inhiber le transport.",
+        "L’hépatite aiguë peut donner un ictère intense avec élévation prédominante des transaminases.",
+        "Une infection bactérienne sévère comme une pyélonéphrite ou une pneumonie peut être en cause.",
+        "La cholestase récurrente bénigne est infantile de façon constante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes acquises comprennent l’inhibition du transport par les cytokines inflammatoires, l’hépatite aiguë et les infections bactériennes sévères. La cholestase intrahépatique familiale progressive est infantile ; la cholestase récurrente bénigne est récidivante et régressive."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affection est citée comme atteinte génétique rarissime et bénigne du transport canaliculaire de la bilirubine ?",
+      "choices": [
+        "Maladie de Dubin-Johnson.",
+        "Cancer de la tête du pancréas.",
+        "Cholangite immuno-allergique médicamenteuse.",
+        "Hépatite aiguë."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les atteintes génétiques rarissimes et bénignes du transport canaliculaire de la bilirubine citées sont le syndrome de Rotor et la maladie de Dubin-Johnson."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’ictère mixte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut survenir chez un patient en état grave.",
+        "Il peut survenir chez un patient infecté.",
+        "Il peut survenir chez un patient cirrhotique ou en soins intensifs.",
+        "Il relève exclusivement d’un obstacle mécanique de la voie biliaire principale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ictère mixte survient notamment chez des patients graves, infectés, cirrhotiques ou en soins intensifs. Les mécanismes cités associent baisse de la sécrétion canaliculaire de bilirubine conjuguée par syndrome inflammatoire et hyperhémolyse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle définition correspond à une cholestase anictérique selon le texte ?",
+      "choices": [
+        "Diminution de la sécrétion des acides biliaires avec bilirubine conjuguée normale.",
+        "Augmentation isolée de la bilirubine libre par hyperhémolyse.",
+        "Diminution de la sécrétion des acides biliaires et de la bilirubine conjuguée avec reflux plasmatique.",
+        "Absence totale d’activité de la glucuronyl-transférase."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La cholestase anictérique correspond à une diminution de la sécrétion des acides biliaires avec une bilirubine conjuguée normale. La cholestase ictérique associe diminution des acides biliaires et de la bilirubine conjuguée avec reflux plasmatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tableaux évocateurs de certaines causes d’obstacle de la voie biliaire principale, quelles propositions sont exactes ?",
+      "choices": [
+        "Le cancer de la tête du pancréas peut associer ictère, douleur épigastrique et altération profonde de l’état général.",
+        "Le cancer de la voie biliaire principale peut se manifester par un ictère nu, sans fièvre ni douleur.",
+        "L’ampullome vatérien peut associer anémie ferriprive et ictère fluctuant.",
+        "La pancréatite chronique est exclue des causes d’obstacle de la voie biliaire principale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cancer de la tête du pancréas, le cancer de la voie biliaire principale et l’ampullome vatérien ont les présentations indiquées. La pancréatite chronique est bien citée parmi les étiologies de la voie biliaire principale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les métastases hépatiques et la cholestase, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ictère est généralement tardif.",
+        "L’ictère peut être dû à une compression de la voie biliaire principale.",
+        "L’ictère peut être dû à un envahissement de la voie biliaire principale.",
+        "L’infiltration hépatique est le plus souvent responsable d’une cholestase ictérique précoce."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les métastases hépatiques, l’ictère est tardif par compression ou envahissement de la voie biliaire principale. L’infiltration hépatique est le plus souvent responsable d’une cholestase anictérique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit correctement le rôle des acides biliaires dans l’excrétion de la bilirubine ?",
+      "choices": [
+        "Le flux biliaire est généré osmotiquement par les acides biliaires ; leur diminution réduit l’excrétion de la bilirubine.",
+        "Les acides biliaires conjuguent directement la bilirubine non conjuguée dans le plasma.",
+        "Les acides biliaires permettent à la bilirubine non conjuguée de franchir la barrière glomérulaire.",
+        "Les acides biliaires inhibent physiologiquement le transport actif canaliculaire de la bilirubine conjuguée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le flux biliaire est généré osmotiquement par les acides biliaires. Une diminution des acides biliaires entraîne donc une diminution de l’excrétion de bilirubine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément distingue la dysérythropoïèse de l’hyperhémolyse dans les ictères à bilirubine libre selon le texte ?",
+      "choices": [
+        "La dysérythropoïèse s’accompagne toujours d’une fièvre élevée.",
+        "La dysérythropoïèse correspond à une destruction intramédullaire des hématies sans augmentation des réticulocytes.",
+        "La dysérythropoïèse provoque une dilatation harmonieuse des voies biliaires.",
+        "La dysérythropoïèse est une affection génétique bénigne du transport canaliculaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La dysérythropoïèse est définie par une destruction intramédullaire des hématies sans augmentation des réticulocytes. L’hyperhémolyse, elle, donne un ictère hémolytique avec augmentation des réticulocytes, accompagné ou non d’une anémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’étendue des atteintes biliaires nécessaires pour provoquer un ictère, quelles propositions sont exactes ?",
+      "choices": [
+        "Une atteinte limitée de la voie biliaire principale peut entraîner un ictère.",
+        "Une atteinte des canaux de plus petit calibre doit être diffuse pour provoquer un ictère.",
+        "Une atteinte limitée des canaux biliaires microscopiques provoque constamment un ictère marqué.",
+        "L’absence de dilatation des voies biliaires peut orienter vers une atteinte des canaux biliaires de petit ou moyen calibre."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Une atteinte limitée de la voie biliaire principale peut suffire à provoquer un ictère. En revanche, les atteintes des petits canaux doivent être diffuses. À l’échographie, l’absence de dilatation peut orienter vers une atteinte des canaux biliaires de petit ou moyen calibre."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ictère nucléaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à une toxicité cérébrale de la bilirubine non conjuguée.",
+        "Il peut être responsable de séquelles cognitivo-motrices graves.",
+        "Il peut compliquer une hyperhémolyse, notamment par incompatibilité materno-fœtale.",
+        "Son traitement repose principalement sur la CPRE avec sphinctérotomie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ictère nucléaire est lié à la toxicité de la bilirubine non conjuguée sur le cerveau, avec risque de séquelles graves. Les causes citées sont l’hyperhémolyse, notamment l’incompatibilité materno-fœtale, et le syndrome de Crigler-Najjar. Le traitement repose sur la photothérapie et l’échange plasmatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles étiologies d’insuffisance hépatique aiguë sont mentionnées dans le texte ?",
+      "choices": [
+        "Une cause toxique comme le paracétamol ou l’amanite phalloïde.",
+        "Une cause médicamenteuse immuno-allergique.",
+        "Une cause virale.",
+        "Une association d’une cause hépatique avec la prise de paracétamol est exclue."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les étiologies citées sont toxiques, médicamenteuses immuno-allergiques, virales, ainsi que l’association d’une cause hépatique avec la prise de paracétamol."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hépatite grave dans le cadre de l’insuffisance hépatique aiguë, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est définie dans le texte par un taux de prothrombine inférieur à 50 %.",
+        "Elle expose à un risque d’évolution vers l’hépatite fulminante.",
+        "Elle est définie par une bilirubinémie totale isolément supérieure à la normale.",
+        "Elle correspond toujours à un profil biologique de cholestase pure."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte définit l’hépatite grave par un taux de prothrombine inférieur à 50 % et précise le risque d’évolution vers l’hépatite fulminante."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une poussée d’ictère chez un patient cirrhotique, quels éléments doivent être recherchés selon le texte ?",
+      "choices": [
+        "Une exacerbation d’hépatite virale ou une hépatite alcoolique.",
+        "Un cancer ou une infection bactérienne.",
+        "Une insuffisance rénale aiguë ou une prise de médicament hépatotoxique.",
+        "Une hémorragie ou une hyperhémolyse."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Chez le cirrhotique, une poussée d’ictère impose de rechercher une poussée de la maladie causale et des complications ou phénomènes intercurrents : cancer, infection, insuffisance rénale aiguë, médicament hépatotoxique, hémorragie ou hyperhémolyse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes d’ictère sont décrits dans le cancer du foie terminal ?",
+      "choices": [
+        "Compression de la voie biliaire par une métastase.",
+        "Compression de la voie biliaire par la tumeur primitive.",
+        "Stade très avancé avec localisations multifocales et insuffisance hépatique.",
+        "Obstruction lithiasique quasi constante de la papille."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne la compression de la voie biliaire par une métastase ou par la tumeur primitive, ainsi qu’un stade très avancé multifocal avec insuffisance hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la démarche diagnostique d’une coloration jaune, quels diagnostics différentiels sont explicitement cités ?",
+      "choices": [
+        "Une alimentation riche en légumes rouges ou orange.",
+        "La prise d’un médicament, notamment la fluorescéine.",
+        "Une aérobilie après anastomose bilio-digestive.",
+        "Une élévation isolée des phosphatases alcalines."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les diagnostics différentiels cliniques d’une coloration jaune cités sont l’alimentation riche en légumes rouges ou orange et certains médicaments, notamment la fluorescéine."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles caractéristiques cliniques peuvent orienter la démarche diagnostique devant un ictère ?",
+      "choices": [
+        "Un ictère nu est défini par l’absence de fièvre et de douleur associée.",
+        "Un ictère à bilirubine conjuguée s’accompagne d’urines brunes et de selles décolorées.",
+        "Un ictère à bilirubine libre peut s’accompagner d’urines foncées en cas d’hémoglobinurie par hyperhémolyse.",
+        "Un ictère cholestatique peut s’accompagner d’un prurit par reflux des acides biliaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre éléments sont cités comme caractéristiques cliniques utiles : ictère nu, signes d’ictère conjugué, urines foncées possibles par hémoglobinurie dans l’hyperhémolyse, et prurit cholestatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les profils biologiques des ictères, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ictère hémolytique associe augmentation de la bilirubine libre, augmentation des réticulocytes et diminution de l’haptoglobine.",
+        "L’ictère cholestatique associe augmentation des phosphatases alcalines et de la GGT.",
+        "L’ictère cytolytique comporte une forte élévation des transaminases, souvent supérieure à 10 à 20 fois la normale.",
+        "Dans l’ictère cholestatique, les transaminases sont obligatoirement strictement normales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le profil hémolytique, cholestatique et cytolytique est décrit ainsi. Une élévation modérée des transaminases est possible dans l’ictère cholestatique."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’échographie abdominale, quelles propositions sont exactes concernant la lithiase biliaire et son principal piège mentionné ?",
+      "choices": [
+        "La lithiase biliaire apparaît comme une formation hyperéchogène avec cône d’ombre postérieur.",
+        "L’aérobilie constitue un diagnostic différentiel échographique.",
+        "L’aérobilie est notamment évoquée en cas d’antécédent de sphinctérotomie ou d’anastomose bilio-digestive.",
+        "La lithiase biliaire est typiquement une image hypoéchogène sans cône d’ombre."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lithiase est hyperéchogène avec cône d’ombre postérieur. Le piège mentionné est l’aérobilie, surtout après sphinctérotomie ou anastomose bilio-digestive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’échographie dans l’obstruction biliaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Une obstruction de la voie biliaire principale peut entraîner une dilatation diffuse et harmonieuse des voies biliaires intra-hépatiques.",
+        "Une obstruction de la convergence des canaux hépatiques droit et gauche peut entraîner une dilatation diffuse et harmonieuse des voies biliaires intra-hépatiques.",
+        "Un obstacle du canal hépatique commun s’accompagne d’un cholédoque non dilaté et d’une vésicule normale.",
+        "Un obstacle du canal cholédoque s’accompagne d’une dilatation de la vésicule et du canal hépatique commun."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise les aspects échographiques selon le siège de l’obstacle : dilatation intra-hépatique diffuse et harmonieuse en cas d’obstruction de la VBP ou de la convergence, et signes différents selon que l’obstacle siège au canal hépatique commun ou au cholédoque."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles sont les indications de la tomodensitométrie mentionnées dans le texte ?",
+      "choices": [
+        "Recherche d’une lithiase biliaire.",
+        "Recherche d’une obstruction de la voie biliaire principale.",
+        "Analyse du pancréas.",
+        "Traitement endoscopique par extraction de calcul."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La tomodensitométrie est indiquée pour rechercher une lithiase biliaire ou une obstruction de la voie biliaire principale et pour analyser le pancréas. L’extraction de calcul relève d’un geste thérapeutique, notamment CPRE."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la bili-IRM, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet une visualisation de bonne qualité des voies biliaires et pancréatiques.",
+        "Elle est indiquée dans le diagnostic de cholangite sclérosante primitive.",
+        "Elle est indiquée dans le diagnostic de cancer primitif des voies biliaires.",
+        "Elle est indiquée principalement pour réaliser une lithotritie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bili-IRM permet une bonne visualisation des voies biliaires et pancréatiques. Elle est citée pour le diagnostic de cholangite sclérosante primitive et de cancer primitif des voies biliaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’échoendoscopie bilio-pancréatique, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un examen invasif nécessitant une anesthésie générale.",
+        "Elle est performante pour le diagnostic de lithiase de la voie biliaire principale.",
+        "Elle est performante pour le diagnostic de lithiase de la vésicule.",
+        "Elle permet des biopsies dirigées du pancréas ou d’adénopathies."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’échoendoscopie est invasive, nécessite une anesthésie générale, est performante pour les lithiases de la VBP et de la vésicule, et permet des biopsies dirigées du pancréas ou d’adénopathies."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la CPRE, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un examen très invasif.",
+        "Elle expose à un risque d’angiocholite et de pancréatite.",
+        "Son indication est principalement thérapeutique.",
+        "Elle peut permettre extraction de calcul, lithotritie, sphinctérotomie ou pose de prothèse en cas de sténose."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La CPRE est très invasive, expose à l’angiocholite et à la pancréatite, et a une indication principalement thérapeutique : biopsie d’obstacle, extraction de calcul, lithotritie, sphinctérotomie ou prothèse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé définit le mieux l’angiocholite selon le texte ?",
+      "choices": [
+        "Infection bactérienne de la bile et des voies biliaires associant cholestase, syndrome inflammatoire systémique et obstruction biliaire.",
+        "Inflammation hépatique virale sans obstruction biliaire.",
+        "Hyperhémolyse avec bilirubine libre et haptoglobine diminuée.",
+        "Coloration jaune d’origine alimentaire sans anomalie biologique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’angiocholite est une infection bactérienne de la bile et des voies biliaires, presque toujours lithiasique, caractérisée par cholestase, syndrome inflammatoire systémique et obstruction biliaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel diagnostic différentiel d’angiocholite est explicitement mentionné dans le texte ?",
+      "choices": [
+        "Phase initiale d’une hépatite A.",
+        "Syndrome de Gilbert.",
+        "Appendicite aiguë non compliquée.",
+        "Poussée de rectocolite hémorragique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Parmi les diagnostics différentiels cités figurent notamment la phase initiale d’une hépatite A, l’hépatite herpétique, le lymphome et les infections bactériennes sévères."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel signe clinique est évocateur d’une obstruction cholédocienne non lithiasique selon le texte ?",
+      "choices": [
+        "Une dilatation palpable de la vésicule biliaire.",
+        "Une douleur thoracique constrictive.",
+        "Une splénomégalie fébrile isolée.",
+        "Une ascite chyleuse."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise qu’en cas d’obstruction cholédocienne non lithiasique, une dilatation palpable de la vésicule biliaire est possible."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’indication principale de la CPRE dans le texte ?",
+      "choices": [
+        "Une indication principalement thérapeutique.",
+        "Le dépistage systématique de tout ictère nu.",
+        "La confirmation biologique d’une hyperhémolyse.",
+        "Le diagnostic différentiel d’une coloration jaune alimentaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La CPRE est décrite comme un examen très invasif dont l’indication est principalement thérapeutique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle indication de la cholangiographie percutanée transhépatique est mentionnée ?",
+      "choices": [
+        "Échec de CPRE.",
+        "Première intention devant toute élévation isolée de la bilirubine libre.",
+        "Surveillance du syndrome de Gilbert.",
+        "Diagnostic différentiel de l’aérobilie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La cholangiographie percutanée transhépatique est indiquée notamment en cas d’échec de CPRE, ainsi que pour drainage biliaire, biopsie, extraction de calcul ou lithotritie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel effet indésirable est cité pour la cholangiographie percutanée transhépatique ?",
+      "choices": [
+        "Hémopéritoine.",
+        "Ictère nucléaire.",
+        "Incompatibilité materno-fœtale.",
+        "Hépatite alcoolique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les effets indésirables cités de la cholangiographie percutanée transhépatique sont l’hémopéritoine, le biliopéritoine et l’angiocholite."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les propriétés de la bilirubine non conjuguée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est peu hydrosoluble.",
+        "Elle est transportée dans le plasma par l’albumine jusqu’au foie.",
+        "Elle franchit normalement la barrière glomérulaire.",
+        "Elle ne passe pas dans les urines."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La bilirubine non conjuguée est peu hydrosoluble, liée à l’albumine, ne franchit pas la barrière glomérulaire et n’est pas éliminée dans les urines."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la production et de la conjugaison de la bilirubine, quelles propositions sont exactes ?",
+      "choices": [
+        "Les macrophages dégradent l’hémoglobine des hématies sénescentes.",
+        "La conjugaison hépatocytaire se fait avec l’acide glucuronique.",
+        "L’enzyme impliquée est la bilirubine-UDP-glucuronosyl-transférase 1.",
+        "La conjugaison de la bilirubine se déroule principalement dans les macrophages."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bilirubine provient de la dégradation macrophagique de l’hémoglobine, puis elle est conjuguée dans l’hépatocyte à l’acide glucuronique par la bilirubine-UDP-glucuronosyl-transférase 1."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’excrétion canaliculaire de la bilirubine conjuguée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle se fait au pôle biliaire des hépatocytes.",
+        "Elle dépend d’un transport actif.",
+        "Le transport est saturable.",
+        "Le transport est sélectif et compétitif."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La bilirubine conjuguée est excrétée au pôle biliaire par un transport actif, saturable, sélectif et compétitif."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas d’anomalie d’excrétion de la bilirubine conjuguée, quelles propositions sont exactes ?",
+      "choices": [
+        "Un reflux plasmatique de bilirubine conjuguée peut survenir.",
+        "La bilirubine conjuguée peut passer dans les urines.",
+        "La bilirubine non conjuguée devient habituellement urinaire.",
+        "Le caractère hydrosoluble de la bilirubine conjuguée explique son passage urinaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La bilirubine conjuguée est hydrosoluble ; en cas de reflux plasmatique lié à une anomalie d’excrétion, elle peut être retrouvée dans les urines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les manifestations fonctionnelles de la cholestase, quelles propositions sont exactes ?",
+      "choices": [
+        "Le prurit est lié au reflux des acides biliaires.",
+        "L’amaigrissement est non spécifique et peut être lié à une malabsorption en cas de cholestase chronique.",
+        "La douleur peut traduire une mise en tension brutale des voies biliaires.",
+        "La fièvre est décrite comme un signe fonctionnel constant de toute cholestase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte rattache le prurit au reflux des acides biliaires, l’amaigrissement chronique à la malabsorption, et la douleur à la mise en tension brutale des voies biliaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les éléments biologiques et l’orientation étiologique d’une cholestase, quelles propositions sont exactes ?",
+      "choices": [
+        "La cholestase comporte une diminution de la sécrétion biliaire.",
+        "Les phosphatases alcalines augmentent.",
+        "La GGT augmente.",
+        "Dans l’hépatite aiguë, l’ictère peut être intense avec élévation prédominante des transaminases."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La cholestase associe diminution de la sécrétion biliaire, augmentation des phosphatases alcalines et de la GGT. L’hépatite aiguë peut donner un ictère intense avec transaminases prédominantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une cholestase, dans quelles situations l’échographie peut-elle ne pas montrer de dilatation des voies biliaires malgré une obstruction ?",
+      "choices": [
+        "Obstruction récente.",
+        "Paroi scléreuse.",
+        "Cirrhose.",
+        "Obstacle ancien avec dilatation harmonieuse en amont."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La dilatation peut être absente en cas d’obstruction récente, de paroi scléreuse ou de cirrhose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la dilatation de la vésicule biliaire au cours d’une cholestase, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est évocatrice d’un obstacle cholédocien sur vésicule saine.",
+        "Elle oriente préférentiellement vers une atteinte isolée des canaux biliaires microscopiques.",
+        "Elle peut évoquer notamment un obstacle néoplasique.",
+        "Elle élimine un obstacle de la voie biliaire principale."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "La dilatation de la vésicule biliaire évoque un obstacle cholédocien sur vésicule saine, notamment néoplasique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le cancer de la tête du pancréas dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut se manifester par un ictère.",
+        "Une douleur épigastrique est possible.",
+        "Une altération profonde de l’état général peut être présente.",
+        "La fièvre biliaire est obligatoire dès le début."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cancer de la tête du pancréas est associé à un ictère, une douleur épigastrique possible et une altération profonde de l’état général."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’ampullome vatérien, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut s’accompagner d’une anémie ferriprive.",
+        "Il peut donner un ictère fluctuant.",
+        "Il se présente obligatoirement par fièvre et douleur biliaire.",
+        "Il est décrit dans le texte comme une cholestase intra-hépatique génétique."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’ampullome vatérien est cité comme cause d’obstacle de la voie biliaire principale, avec anémie ferriprive et ictère fluctuant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cirrhose biliaire primitive selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une affection auto-immune rare.",
+        "Elle correspond à une cholangite destructrice non suppurée des canaux biliaires microscopiques.",
+        "Elle est associée aux anticorps anti-M2.",
+        "L’ictère y est tardif."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La cirrhose biliaire primitive est décrite comme une affection auto-immune rare, avec cholangite destructrice non suppurée des petits canaux, anticorps anti-M2 et ictère tardif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cholangite immuno-allergique médicamenteuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Les pénicillines peuvent être impliquées.",
+        "Les sulfamides et les macrolides peuvent être impliqués.",
+        "L’allopurinol peut être impliqué.",
+        "Elle peut associer fièvre, douleur de l’hypochondre droit et hyperéosinophilie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite pénicillines, sulfamides, macrolides et allopurinol ; le tableau peut comporter fièvre, douleur de l’hypochondre droit et hyperéosinophilie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cholangite sclérosante primitive, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut comporter des irrégularités des canaux biliaires intra- et extra-hépatiques.",
+        "Elle associe des sténoses et des dilatations des canaux biliaires.",
+        "Elle est associée dans plus de 50 % des cas à une maladie inflammatoire chronique de l’intestin.",
+        "Elle est définie dans le texte par la présence d’anticorps anti-M2."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cholangite sclérosante primitive associe irrégularités biliaires intra- et extra-hépatiques, sténoses/dilatations, et une association fréquente aux MICI. Les anti-M2 concernent la cirrhose biliaire primitive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les causes acquises de cholestase intra-hépatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les cytokines inflammatoires peuvent inhiber le transport.",
+        "Une infection bactérienne sévère peut être en cause.",
+        "Une hépatite aiguë peut être responsable d’un ictère intense avec transaminases prédominantes.",
+        "La lithiase de la voie biliaire principale est classée parmi les causes acquises intra-hépatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes acquises intra-hépatiques citées comprennent l’inhibition du transport par les cytokines inflammatoires, l’hépatite aiguë et les infections bactériennes sévères. La lithiase de la voie biliaire principale relève de la cholestase extra-hépatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé correspond le mieux à la cholestase ictérique selon la physiopathologie décrite ?",
+      "choices": [
+        "Diminution de la sécrétion des acides biliaires et de la bilirubine conjuguée avec reflux plasmatique.",
+        "Diminution isolée de la sécrétion des acides biliaires avec bilirubine conjuguée normale.",
+        "Augmentation exclusive de la production de bilirubine non conjuguée sans reflux plasmatique.",
+        "Défaut de liaison de la bilirubine non conjuguée à l’albumine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La cholestase ictérique est définie par une diminution de la sécrétion des acides biliaires et de la bilirubine conjuguée, avec reflux plasmatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle est citée comme cause génétique d’atteinte des canaux biliaires de petit ou moyen calibre ?",
+      "choices": [
+        "Syndrome de Gilbert.",
+        "Mutation du gène MDR3.",
+        "Syndrome de Crigler-Najjar.",
+        "Maladie de Dubin-Johnson."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les causes génétiques des atteintes des canaux biliaires de petit ou moyen calibre citées sont la mucoviscidose et la mutation du gène MDR3."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affection génétique rare de cholestase intra-hépatique est décrite comme infantile ?",
+      "choices": [
+        "Cholestase intrahépatique familiale progressive.",
+        "Cholestase récurrente bénigne.",
+        "Syndrome de Rotor.",
+        "Cirrhose biliaire primitive."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La cholestase intrahépatique familiale progressive est une cause génétique rare, décrite comme infantile."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle caractéristique correspond à la cholestase récurrente bénigne ?",
+      "choices": [
+        "Néonatale, permanente et grave.",
+        "Récidivante et régressive.",
+        "Toujours associée aux anticorps anti-M2.",
+        "Secondaire à une lithiase de la voie biliaire principale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La cholestase récurrente bénigne est décrite comme récidivante et régressive."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel diagnostic est évoqué par un ictère nu, sans fièvre ni douleur, dans les étiologies de la voie biliaire principale ?",
+      "choices": [
+        "Cancer de la voie biliaire principale.",
+        "Lithiase de la voie biliaire principale avec angiocholite.",
+        "Cholangite immuno-allergique médicamenteuse.",
+        "Hépatite aiguë."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le cancer de la voie biliaire principale est décrit comme donnant un ictère nu, sans fièvre ni douleur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément caractérise la dysérythropoïèse dans les ictères à bilirubine libre ?",
+      "choices": [
+        "Destruction intramédullaire des hématies.",
+        "Augmentation obligatoire des réticulocytes.",
+        "Obstacle cholédocien sur vésicule saine.",
+        "Reflux urinaire de bilirubine conjuguée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La dysérythropoïèse correspond à une destruction intramédullaire des hématies, sans augmentation des réticulocytes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une situation d’ictère nucléaire lié à une bilirubine non conjuguée élevée, quelles mesures thérapeutiques sont citées dans le texte ?",
+      "choices": [
+        "Photothérapie",
+        "Échange plasmatique",
+        "Sphinctérotomie endoscopique",
+        "Antibiothérapie probabiliste systématique comme traitement spécifique"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le traitement de l’ictère nucléaire repose sur la photothérapie et l’échange plasmatique. La sphinctérotomie concerne les obstacles biliaires, et l’antibiothérapie n’est pas citée comme traitement spécifique de l’ictère nucléaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les diagnostics différentiels d’une angiocholite mentionnés dans le texte, lesquels peuvent être retenus ?",
+      "choices": [
+        "Pyélonéphrite aiguë sévère",
+        "Phase initiale d’une hépatite A",
+        "Hépatite herpétique",
+        "Syndrome de Gilbert isolé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les diagnostics différentiels cités comprennent les infections bactériennes sévères comme la pyélonéphrite, la phase initiale d’une hépatite A et l’hépatite herpétique. Le syndrome de Gilbert n’est pas cité comme diagnostic différentiel d’angiocholite."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient cirrhotique présentant une poussée d’ictère, quels éléments intercurrents doivent être recherchés selon le texte ?",
+      "choices": [
+        "Infection bactérienne",
+        "Insuffisance rénale aiguë",
+        "Prise d’un médicament hépatotoxique",
+        "Asthme allergique isolé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une poussée d’ictère chez un cirrhotique impose de rechercher notamment une infection bactérienne, une insuffisance rénale aiguë et une prise de médicament hépatotoxique. L’asthme allergique isolé n’est pas cité."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont citées comme étiologies possibles d’insuffisance hépatique aiguë ?",
+      "choices": [
+        "Intoxication au paracétamol",
+        "Intoxication par amanite phalloïde",
+        "Cause médicamenteuse immuno-allergique",
+        "Alimentation riche en légumes orange"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes toxiques comme le paracétamol et l’amanite phalloïde, ainsi que les causes médicamenteuses immuno-allergiques, sont citées. Une alimentation riche en légumes orange est un diagnostic différentiel de coloration jaune, pas une cause d’insuffisance hépatique aiguë."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments cliniques orientent correctement le type d’ictère selon le texte ?",
+      "choices": [
+        "Urines brunes et selles décolorées en faveur d’un ictère à bilirubine conjuguée",
+        "Coloration foncée des urines possible lors d’une hémoglobinurie par hyperhémolyse",
+        "Prurit associé à un ictère cholestatique par reflux des acides biliaires",
+        "Fièvre et douleur obligatoires dans tout ictère nu"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ictère conjugué donne urines brunes et selles décolorées. Dans l’hyperhémolyse, une hémoglobinurie peut foncer les urines. Le prurit cholestatique est lié au reflux des acides biliaires. L’ictère nu est défini par l’absence de fièvre et de douleur."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un ictère d’allure hémolytique, quels résultats biologiques sont attendus d’après le texte ?",
+      "choices": [
+        "Augmentation de la bilirubine libre",
+        "Augmentation des réticulocytes",
+        "Diminution de l’haptoglobine",
+        "Forte élévation des transaminases supérieure à 10 à 20 fois la normale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ictère hémolytique associe bilirubine libre élevée, réticulocytose et haptoglobine diminuée. Une forte élévation des transaminases évoque plutôt un ictère cytolytique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quel profil biologique correspond à un ictère cholestatique selon les données fournies ?",
+      "choices": [
+        "Augmentation des phosphatases alcalines",
+        "Augmentation de la GGT",
+        "Élévation modérée possible des transaminases",
+        "Diminution constante des réticulocytes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ictère cholestatique se caractérise par une augmentation des phosphatases alcalines et de la GGT, avec une élévation modérée possible des transaminases. La diminution des réticulocytes n’est pas un élément du profil cholestatique cité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la localisation échographique d’un obstacle biliaire, quelles associations sont exactes ?",
+      "choices": [
+        "Obstacle du canal hépatique commun : cholédoque non dilaté",
+        "Obstacle du canal hépatique commun : vésicule normale",
+        "Obstacle du canal cholédoque : vésicule et canal hépatique commun dilatés",
+        "Obstacle du canal cholédoque : canal hépatique commun toujours non dilaté"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise qu’un obstacle du canal hépatique commun laisse le cholédoque non dilaté et la vésicule normale. En cas d’obstacle cholédocien, la vésicule et le canal hépatique commun sont dilatés."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’échographie abdominale, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "Une lithiase biliaire apparaît comme une formation hyperéchogène avec cône d’ombre postérieur",
+        "L’aérobilie peut constituer un diagnostic différentiel de lithiase biliaire",
+        "L’obstruction de la convergence des canaux hépatiques droit et gauche peut entraîner une dilatation diffuse et harmonieuse des voies biliaires intra-hépatiques",
+        "La présence d’un antécédent de sphinctérotomie élimine le diagnostic d’aérobilie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lithiase est hyperéchogène avec cône d’ombre. L’aérobilie est un piège diagnostique, notamment après sphinctérotomie ou anastomose bilio-digestive. L’obstruction de la convergence entraîne une dilatation intra-hépatique diffuse et harmonieuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles indications ou performances sont correctement attribuées aux examens d’imagerie non endoscopiques ?",
+      "choices": [
+        "La tomodensitométrie peut être indiquée pour analyser le pancréas",
+        "La tomodensitométrie peut rechercher une obstruction de la voie biliaire principale",
+        "La bili-IRM permet une visualisation de bonne qualité des voies biliaires et pancréatiques",
+        "La bili-IRM est citée comme examen de première intention pour réaliser une lithotritie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La TDM est indiquée pour rechercher une lithiase ou une obstruction de la voie biliaire principale et pour analyser le pancréas. La bili-IRM visualise bien les voies biliaires et pancréatiques. La lithotritie relève des gestes interventionnels cités pour la CPRE ou la cholangiographie percutanée."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’échoendoscopie bilio-pancréatique, quelles propositions sont justes ?",
+      "choices": [
+        "Elle est invasive",
+        "Elle nécessite une anesthésie générale",
+        "Elle est performante pour le diagnostic de lithiase de la voie biliaire principale et de la vésicule",
+        "Elle permet la pose de prothèse biliaire en cas de sténose selon le texte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échoendoscopie est invasive, nécessite une anesthésie générale et est performante pour diagnostiquer les lithiases de la voie biliaire principale et de la vésicule. La pose de prothèse en cas de sténose est citée pour la CPRE."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la CPRE, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Il s’agit d’un examen très invasif",
+        "Elle expose à un risque d’angiocholite",
+        "Elle expose à un risque de pancréatite",
+        "Son indication principale est purement diagnostique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La CPRE est très invasive, avec risque d’angiocholite et de pancréatite. Son indication est principalement thérapeutique, non purement diagnostique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels gestes thérapeutiques peuvent être réalisés par CPRE d’après le texte ?",
+      "choices": [
+        "Extraction de calcul",
+        "Lithotritie",
+        "Sphinctérotomie",
+        "Photothérapie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La CPRE permet notamment l’extraction de calcul, la lithotritie et la sphinctérotomie. La photothérapie est un traitement de l’ictère nucléaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cholangiographie percutanée transhépatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être indiquée en cas d’échec de CPRE",
+        "Elle peut permettre un drainage biliaire",
+        "Elle peut être compliquée d’hémopéritoine ou de biliopéritoine",
+        "Elle est décrite comme un examen non invasif réalisable sans anesthésie générale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cholangiographie percutanée transhépatique est très invasive, sous anesthésie générale. Elle est indiquée notamment en cas d’échec de CPRE, pour drainage biliaire, biopsie, extraction ou lithotritie, et peut se compliquer d’hémopéritoine, biliopéritoine ou angiocholite."
+    },
+    {
+      "type": "QCS",
+      "question": "Une formation hyperéchogène avec cône d’ombre postérieur à l’échographie abdominale évoque principalement :",
+      "choices": [
+        "Une lithiase biliaire",
+        "Une hépatite virale aiguë",
+        "Une insuffisance hépatique aiguë",
+        "Une cholangite immuno-allergique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte décrit la lithiase biliaire comme une formation hyperéchogène avec cône d’ombre postérieur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel antécédent favorise l’interprétation d’une image échographique comme une aérobilie plutôt qu’une lithiase ?",
+      "choices": [
+        "Sphinctérotomie antérieure",
+        "Hyperhémolyse constitutionnelle",
+        "Hépatite alcoolique",
+        "Insuffisance rénale aiguë isolée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’aérobilie est citée comme diagnostic différentiel de lithiase, notamment en cas d’antécédent de sphinctérotomie ou d’anastomose bilio-digestive."
+    },
+    {
+      "type": "QCS",
+      "question": "Une forte élévation des transaminases, souvent supérieure à 10 à 20 fois la normale, oriente vers quel profil d’ictère ?",
+      "choices": [
+        "Ictère hémolytique",
+        "Ictère cytolytique",
+        "Ictère cholestatique pur",
+        "Ictère nucléaire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le profil cytolytique est défini par une forte élévation des transaminases, souvent supérieure à 10 à 20 fois la normale."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le contexte d’une hépatite aiguë, un taux de prothrombine inférieur à 50 % définit :",
+      "choices": [
+        "Une hépatite grave",
+        "Une angiocholite lithiasique",
+        "Une cholestase anictérique",
+        "Un ictère hémolytique simple"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte définit l’hépatite grave par un taux de prothrombine inférieur à 50 %, avec risque d’évolution vers l’hépatite fulminante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est cité comme permettant des biopsies dirigées du pancréas ou d’adénopathies ?",
+      "choices": [
+        "Échoendoscopie",
+        "Échographie abdominale standard",
+        "Bili-IRM",
+        "Tomodensitométrie simple sans geste associé"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’échoendoscopie permet des biopsies dirigées du pancréas ou d’adénopathies."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une obstruction cholédocienne non lithiasique, quel signe clinique est mentionné comme possible ?",
+      "choices": [
+        "Dilatation palpable de la vésicule biliaire",
+        "Splénomégalie douloureuse constante",
+        "Érythème noueux",
+        "Hématurie macroscopique isolée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise qu’une obstruction cholédocienne non lithiasique peut s’accompagner d’une dilatation palpable de la vésicule biliaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un ictère prédominant sur la bilirubine non conjuguée, quelles propositions physiopathologiques sont exactes ?",
+      "choices": [
+        "La bilirubine non conjuguée est transportée dans le plasma liée à l’albumine.",
+        "Elle est peu hydrosoluble.",
+        "Elle est normalement éliminée dans les urines en cas d’élévation plasmatique.",
+        "Elle ne franchit pas la barrière glomérulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La bilirubine non conjuguée est peu hydrosoluble, transportée par l’albumine, et ne passe pas la barrière glomérulaire ; elle n’apparaît donc pas dans les urines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la conjugaison hépatocytaire de la bilirubine, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle se fait dans l’hépatocyte.",
+        "Elle implique l’acide glucuronique.",
+        "Elle dépend de la bilirubine-UDP-glucuronosyl-transférase 1.",
+        "Une baisse de captation ou de conjugaison peut augmenter la bilirubine non conjuguée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La bilirubine non conjuguée est captée par l’hépatocyte puis conjuguée à l’acide glucuronique par la bilirubine-UDP-glucuronosyl-transférase 1. Un défaut de captation/conjugaison augmente la bilirubine libre."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas d’anomalie d’excrétion de la bilirubine conjuguée, quelles conséquences sont compatibles avec le texte ?",
+      "choices": [
+        "Un reflux plasmatique de bilirubine conjuguée peut survenir.",
+        "La bilirubine conjuguée reste toujours absente des urines.",
+        "La bilirubine conjuguée peut passer dans les urines car elle est hydrosoluble.",
+        "Le mécanisme s’intègre dans une cholestase ictérique lorsque la sécrétion des acides biliaires et de la bilirubine conjuguée diminue."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’anomalie d’excrétion entraîne un reflux plasmatique de bilirubine conjuguée hydrosoluble, pouvant passer dans les urines. La cholestase ictérique associe diminution des acides biliaires et de la bilirubine conjuguée avec reflux plasmatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les signes fonctionnels de cholestase, quelles propositions sont exactes ?",
+      "choices": [
+        "Le prurit est expliqué par le reflux des acides biliaires.",
+        "L’amaigrissement peut être observé dans les cholestases chroniques par malabsorption.",
+        "L’amaigrissement est un signe spécifique d’obstacle néoplasique biliaire.",
+        "La douleur peut traduire une mise en tension brutale des voies biliaires."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La cholestase peut donner un prurit par reflux des acides biliaires, un amaigrissement non spécifique en cas de cholestase chronique par malabsorption, et une douleur lors d’une mise en tension brutale des voies biliaires."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’interprétation échographique d’une cholestase, quelles propositions sont exactes ?",
+      "choices": [
+        "La dilatation des voies biliaires correspond à une dilatation harmonieuse du territoire en amont de l’obstacle.",
+        "L’absence de dilatation élimine formellement une obstruction récente.",
+        "L’absence de dilatation peut orienter vers une atteinte des canaux biliaires de petit ou moyen calibre.",
+        "Une cirrhose ou une paroi scléreuse peut expliquer l’absence de dilatation malgré une obstruction."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’échographie recherche une dilatation harmonieuse en amont de l’obstacle. Cette dilatation peut manquer en cas d’obstruction récente, de paroi scléreuse ou de cirrhose ; l’absence de dilatation peut aussi évoquer une atteinte des petits ou moyens canaux biliaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les tableaux suivants de cholestase extra-hépatique de la voie biliaire principale, lesquels sont conformes au texte ?",
+      "choices": [
+        "La lithiase de la voie biliaire principale donne une douleur biliaire, avec fièvre en cas d’angiocholite.",
+        "Le cancer de la voie biliaire principale peut donner un ictère nu, sans fièvre ni douleur.",
+        "L’ampullome vatérien se manifeste typiquement par fièvre constante et douleur de l’hypochondre droit.",
+        "Le cancer de la tête du pancréas peut associer ictère, douleur épigastrique et altération profonde de l’état général."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La lithiase de la voie biliaire principale donne une douleur biliaire et une fièvre en cas d’angiocholite. Le cancer de la voie biliaire principale donne un ictère nu. Le cancer de la tête du pancréas peut associer ictère, douleur épigastrique et altération profonde de l’état général. L’ampullome est associé à une anémie ferriprive et un ictère fluctuant."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont explicitement listées comme causes possibles de cholestase extra-hépatique touchant la voie biliaire principale, en dehors du cancer de la tête du pancréas ?",
+      "choices": [
+        "Lithiase de la voie biliaire principale.",
+        "Sténose postopératoire.",
+        "Pancréatite chronique.",
+        "Hépatite aiguë."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lithiase de la voie biliaire principale, la sténose postopératoire et la pancréatite chronique sont citées parmi les étiologies de la voie biliaire principale. L’hépatite aiguë est une cause acquise de cholestase intra-hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cirrhose biliaire primitive telle qu’elle est décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une affection auto-immune rare.",
+        "Elle correspond à une cholangite destructrice non suppurée des canaux biliaires microscopiques.",
+        "Les anticorps anti-M2 sont mentionnés.",
+        "L’ictère y est décrit comme tardif."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La cirrhose biliaire primitive est décrite comme une affection auto-immune rare, touchant les canaux biliaires microscopiques, avec anticorps anti-M2 et ictère tardif."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une cholangite immuno-allergique médicamenteuse, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les pénicillines, sulfamides et macrolides font partie des médicaments cités.",
+        "Les anticorps anti-M2 en constituent le marqueur caractéristique.",
+        "Une hyperéosinophilie peut être présente.",
+        "L’allopurinol est cité parmi les médicaments possibles."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La cholangite immuno-allergique médicamenteuse peut être liée aux pénicillines, sulfamides, macrolides ou à l’allopurinol, et associer fièvre, douleur de l’hypochondre droit et hyperéosinophilie. Les anti-M2 relèvent de la cirrhose biliaire primitive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cholangite sclérosante primitive, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comporte des irrégularités des canaux biliaires intra- et extra-hépatiques.",
+        "Elle associe sténoses et dilatations des canaux biliaires.",
+        "Elle est caractérisée dans le texte par une hyperéosinophilie médicamenteuse.",
+        "Elle est un facteur favorisant de cholangiocarcinome."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La cholangite sclérosante primitive se caractérise par des irrégularités des canaux biliaires intra- et extra-hépatiques avec sténoses et dilatations. Elle est associée dans plus de 50 % des cas à une MICI et favorise le cholangiocarcinome."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les causes acquises de cholestase intra-hépatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Une inhibition du transport par des cytokines inflammatoires est citée.",
+        "L’hépatite aiguë peut donner un ictère intense avec élévation prédominante des transaminases.",
+        "Une obstruction isolée de la voie biliaire principale en est le mécanisme obligatoire.",
+        "Une infection bactérienne sévère peut être en cause."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les causes acquises de cholestase intra-hépatique comprennent l’inhibition du transport par des cytokines inflammatoires, l’hépatite aiguë et les infections bactériennes sévères. L’obstruction de la voie biliaire principale relève de la cholestase extra-hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les affections génétiques citées dans les chapitres de cholestase et de transport de la bilirubine, quelles propositions sont exactes ?",
+      "choices": [
+        "La cholestase intrahépatique familiale progressive est décrite comme infantile.",
+        "La cholestase récurrente bénigne est récidivante et régressive.",
+        "Le syndrome de Rotor et la maladie de Dubin-Johnson sont des atteintes rarissimes et bénignes du transport canaliculaire de la bilirubine.",
+        "Le syndrome de Crigler-Najjar est classé parmi les atteintes bénignes du transport canaliculaire de la bilirubine conjuguée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cholestase intrahépatique familiale progressive est infantile, la cholestase récurrente bénigne est récidivante et régressive, et Rotor/Dubin-Johnson sont des atteintes bénignes rarissimes du transport canaliculaire. Crigler-Najjar correspond à une absence ou un effondrement de l’activité de glucuronyl-transférase."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des métastases hépatiques dans le cadre d’une cholestase, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ictère peut être tardif par compression de la voie biliaire principale.",
+        "L’ictère peut être tardif par envahissement de la voie biliaire principale.",
+        "L’infiltration hépatique donne le plus souvent d’emblée un ictère intense.",
+        "L’infiltration hépatique est responsable le plus souvent d’une cholestase anictérique."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les métastases hépatiques peuvent donner un ictère tardif par compression ou envahissement de la voie biliaire principale. L’infiltration hépatique donne le plus souvent une cholestase anictérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ictère mixte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut survenir chez un patient en état grave, infecté, cirrhotique ou en soins intensifs.",
+        "Un syndrome inflammatoire peut diminuer la sécrétion canaliculaire de bilirubine conjuguée.",
+        "Une hyperhémolyse liée à une transfusion peut participer au mécanisme.",
+        "Il correspond exclusivement à une hyperbilirubinémie libre bénigne du sujet sain."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ictère mixte survient dans des contextes graves, infectieux, cirrhotiques ou de soins intensifs. Il associe notamment une baisse de sécrétion canaliculaire de bilirubine conjuguée par syndrome inflammatoire et une hyperhémolyse, par exemple après transfusion."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle étape initie physiologiquement la production de bilirubine selon le texte ?",
+      "choices": [
+        "La conjugaison directe de l’hémoglobine par les hépatocytes.",
+        "La dégradation de l’hémoglobine des hématies sénescentes par les macrophages.",
+        "L’excrétion rénale de bilirubine non conjuguée.",
+        "La synthèse de bilirubine conjuguée par les acides biliaires dans la bile."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La bilirubine provient de la dégradation de l’hémoglobine des hématies sénescentes par les macrophages."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme explique le mieux l’absence de bilirubine urinaire dans un ictère exclusivement à bilirubine non conjuguée ?",
+      "choices": [
+        "La bilirubine non conjuguée est fortement hydrosoluble.",
+        "La bilirubine non conjuguée est sécrétée activement par le rein.",
+        "La bilirubine non conjuguée ne franchit pas la barrière glomérulaire.",
+        "La bilirubine non conjuguée est transformée en GGT dans le plasma."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La bilirubine non conjuguée est peu hydrosoluble, liée à l’albumine, et ne franchit pas la barrière glomérulaire ; elle n’est donc pas retrouvée dans les urines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil correspond le mieux à une cholestase anictérique selon la physiopathologie décrite ?",
+      "choices": [
+        "Diminution de la sécrétion des acides biliaires avec bilirubine conjuguée normale.",
+        "Augmentation isolée de la bilirubine non conjuguée par hyperhémolyse.",
+        "Diminution de la conjugaison hépatocytaire avec bilirubine libre supérieure à 100 μmol/L.",
+        "Reflux plasmatique massif de bilirubine conjuguée avec ictère clinique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La cholestase anictérique est définie par une diminution de la sécrétion des acides biliaires avec bilirubine conjuguée normale."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une cholestase intra-hépatique sur contexte inflammatoire, quel mécanisme est cité ?",
+      "choices": [
+        "Activation de la glucuronyl-transférase par les cytokines.",
+        "Inhibition du transport par des cytokines inflammatoires.",
+        "Obstruction lithiasique obligatoire de la voie biliaire principale.",
+        "Destruction intramédullaire des hématies sans réticulocytose."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Parmi les causes acquises de cholestase intra-hépatique, le texte cite l’inhibition du transport par des cytokines inflammatoires."
+    },
+    {
+      "type": "QCS",
+      "question": "Une anémie ferriprive associée à un ictère fluctuant oriente, parmi les diagnostics cités, vers :",
+      "choices": [
+        "Un ampullome vatérien.",
+        "Une cirrhose biliaire primitive.",
+        "Une cholestase récurrente bénigne.",
+        "Un syndrome de Gilbert."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’ampullome vatérien est décrit comme associant anémie ferriprive et ictère fluctuant."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel tableau correspond le mieux au syndrome de Crigler-Najjar selon le texte ?",
+      "choices": [
+        "Hyperbilirubinémie libre modérée, fluctuante, inférieure à 80 μmol/L.",
+        "Ictère néonatal marqué et permanent avec bilirubinémie libre supérieure à 100 μmol/L.",
+        "Ictère nu sans fièvre ni douleur par cancer de la voie biliaire principale.",
+        "Cholestase anictérique par infiltration hépatique métastatique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le syndrome de Crigler-Najjar est rare et grave, avec absence ou effondrement de l’activité de la glucuronyl-transférase, responsable d’un ictère néonatal marqué permanent et d’une bilirubinémie libre supérieure à 100 μmol/L."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les situations d’urgence liées à un ictère, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "L’ictère nucléaire correspond à une toxicité cérébrale de la bilirubine non conjuguée.",
+        "L’angiocholite associe une infection bactérienne biliaire à une obstruction biliaire à mettre en évidence.",
+        "L’hépatite grave expose à une évolution vers l’hépatite fulminante.",
+        "Une coloration jaune liée à une alimentation riche en légumes orange constitue une urgence hépatobiliaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les urgences citées incluent notamment l’ictère nucléaire, l’angiocholite et l’insuffisance hépatique aiguë avec hépatite grave. La coloration alimentaire est un diagnostic différentiel, non une urgence hépatobiliaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une fièvre avec ictère cholestatique, quels éléments permettent d’argumenter une angiocholite selon le texte ?",
+      "choices": [
+        "La présence d’une cholestase.",
+        "Un syndrome inflammatoire systémique.",
+        "La mise en évidence d’une obstruction biliaire.",
+        "L’absence nécessaire de lithiase biliaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’angiocholite est une infection bactérienne de la bile et des voies biliaires, presque toujours lithiasique, caractérisée par cholestase, syndrome inflammatoire systémique et obstruction biliaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’insuffisance hépatique aiguë et de l’hépatite grave, quelles propositions sont exactes ?",
+      "choices": [
+        "Le paracétamol est une étiologie toxique mentionnée.",
+        "L’amanite phalloïde est une cause toxique citée.",
+        "Une cause médicamenteuse immuno-allergique peut être en cause.",
+        "L’hépatite grave est définie par une bilirubine conjuguée inférieure à 5 μmol/L."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes citées sont notamment toxiques, médicamenteuses immuno-allergiques et virales. L’hépatite grave est définie par un taux de prothrombine inférieur à 50 %, non par la bilirubine conjuguée."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient cirrhotique présentant une aggravation ictérique, quels phénomènes intercurrents doivent être recherchés ?",
+      "choices": [
+        "Une infection bactérienne.",
+        "Une insuffisance rénale aiguë.",
+        "Une hémorragie.",
+        "Une alimentation riche en légumes rouges ou orange."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez le cirrhotique, une poussée d’ictère impose de rechercher une complication ou un phénomène intercurrent : cancer, infection bactérienne, insuffisance rénale aiguë, médicament hépatotoxique, hémorragie ou hyperhémolyse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les pièges cliniques devant une coloration jaune, quelles propositions sont exactes ?",
+      "choices": [
+        "Une alimentation riche en légumes rouges ou orange peut simuler un ictère.",
+        "La fluorescéine est citée parmi les médicaments pouvant expliquer une coloration jaune.",
+        "Un ictère nu est défini par l’absence de fièvre et de douleur associée.",
+        "La présence d’un prurit exclut une cholestase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les diagnostics différentiels comprennent certains aliments et médicaments comme la fluorescéine. L’ictère nu est sans fièvre ni douleur. Le prurit est au contraire compatible avec une cholestase."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels profils biologiques sont correctement associés à leur mécanisme d’ictère ?",
+      "choices": [
+        "Ictère hémolytique : bilirubine libre augmentée, réticulocytes augmentés, haptoglobine diminuée.",
+        "Ictère cholestatique : phosphatases alcalines et GGT augmentées.",
+        "Ictère cytolytique : transaminases souvent supérieures à 10 à 20 fois la normale.",
+        "Ictère cholestatique : diminution isolée des phosphatases alcalines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ictère hémolytique augmente la bilirubine libre avec réticulocytose et baisse de l’haptoglobine. La cholestase élève PAL et GGT. La cytolyse donne une forte élévation des transaminases."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’échographie, quelles associations entre siège de l’obstacle et aspect des voies biliaires sont exactes ?",
+      "choices": [
+        "Obstacle du canal hépatique commun : cholédoque non dilaté.",
+        "Obstacle du canal hépatique commun : vésicule normale.",
+        "Obstacle du canal cholédoque : vésicule dilatée.",
+        "Obstacle du canal cholédoque : canal hépatique commun dilaté."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise qu’un obstacle du canal hépatique commun donne un cholédoque non dilaté avec vésicule normale, alors qu’un obstacle cholédocien dilate la vésicule et le canal hépatique commun."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’imagerie échographique d’une lithiase biliaire et son principal piège, quelles propositions sont exactes ?",
+      "choices": [
+        "Une lithiase biliaire apparaît comme une formation hyperéchogène.",
+        "Un cône d’ombre postérieur est attendu en cas de lithiase.",
+        "L’aérobilie constitue un diagnostic différentiel échographique.",
+        "Un antécédent d’anastomose bilio-digestive rend l’aérobilie moins probable."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lithiase est hyperéchogène avec cône d’ombre postérieur. L’aérobilie peut la mimer, notamment après sphinctérotomie ou anastomose bilio-digestive."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre examen complémentaire et indication sont conformes au texte ?",
+      "choices": [
+        "Tomodensitométrie : analyse du pancréas.",
+        "Bili-IRM : diagnostic de cholangite sclérosante primitive.",
+        "Échoendoscopie : diagnostic de lithiase de la voie biliaire principale.",
+        "Échoendoscopie : visualisation de bonne qualité des voies biliaires et pancréatiques comme indication principale citée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La TDM analyse le pancréas. La bili-IRM visualise les voies biliaires et pancréatiques et aide au diagnostic de CSP. L’échoendoscopie est performante pour les lithiases de la VBP et de la vésicule."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le caractère invasif et l’anesthésie des examens biliaires, quelles propositions sont exactes ?",
+      "choices": [
+        "L’échoendoscopie est un examen invasif nécessitant une anesthésie générale.",
+        "La CPRE est qualifiée de très invasive.",
+        "La cholangiographie percutanée transhépatique est très invasive et réalisée sous anesthésie générale.",
+        "La bili-IRM est décrite dans le texte comme nécessitant une anesthésie générale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échoendoscopie nécessite une anesthésie générale. La CPRE et la cholangiographie percutanée transhépatique sont très invasives ; cette dernière est réalisée sous anesthésie générale. Rien de tel n’est indiqué pour la bili-IRM."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels actes sont cités à la fois parmi les possibilités de la CPRE et de la cholangiographie percutanée transhépatique ?",
+      "choices": [
+        "Extraction de calcul.",
+        "Lithotritie.",
+        "Biopsie.",
+        "Sphinctérotomie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’extraction de calcul, la lithotritie et la biopsie sont citées pour les deux techniques. La sphinctérotomie est mentionnée pour la CPRE, pas pour la cholangiographie percutanée transhépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets indésirables des procédures biliaires invasives, quelles propositions sont exactes ?",
+      "choices": [
+        "La CPRE expose à un risque d’angiocholite.",
+        "La CPRE expose à un risque de pancréatite.",
+        "La cholangiographie percutanée transhépatique expose à un risque d’hémopéritoine.",
+        "La cholangiographie percutanée transhépatique expose à un risque de biliopéritoine."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les risques cités sont l’angiocholite et la pancréatite pour la CPRE ; hémopéritoine, biliopéritoine et angiocholite pour la cholangiographie percutanée transhépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le cancer du foie terminal avec ictère, quels mécanismes sont mentionnés ?",
+      "choices": [
+        "Compression de la voie biliaire par une métastase.",
+        "Compression de la voie biliaire par la tumeur primitive.",
+        "Stade très avancé avec localisations multifocales.",
+        "Insuffisance hépatique au stade très avancé."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte retient deux grands mécanismes : compression biliaire par métastase ou tumeur primitive, et maladie très avancée multifocale avec insuffisance hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont compatibles avec un ictère cholestatique selon les données fournies ?",
+      "choices": [
+        "Prurit par reflux des acides biliaires.",
+        "Augmentation des phosphatases alcalines.",
+        "Augmentation de la GGT.",
+        "Élévation modérée possible des transaminases."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’ictère cholestatique peut s’accompagner de prurit lié aux acides biliaires et présente biologiquement une augmentation des phosphatases alcalines et de la GGT, avec élévation modérée possible des transaminases."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel paramètre définit l’hépatite grave dans le texte ?",
+      "choices": [
+        "Taux de prothrombine inférieur à 50 %.",
+        "Bilirubine totale inférieure à 20 μmol/L.",
+        "GGT inférieure à la normale.",
+        "Haptoglobine augmentée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hépatite grave est définie par un taux de prothrombine inférieur à 50 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel signe clinique est le plus évocateur d’un ictère à bilirubine conjuguée selon le texte ?",
+      "choices": [
+        "Urines brunes avec selles décolorées.",
+        "Urines claires avec selles normalement colorées.",
+        "Coloration cutanée isolée après consommation de carottes.",
+        "Urines foncées exclusivement par hémoglobinurie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’ictère à bilirubine conjuguée s’accompagne d’urines brunes et de selles décolorées."
+    },
+    {
+      "type": "QCS",
+      "question": "À l’échographie, quel aspect correspond à un obstacle du canal hépatique commun ?",
+      "choices": [
+        "Cholédoque non dilaté et vésicule normale.",
+        "Vésicule et canal hépatique commun dilatés.",
+        "Formation pancréatique avec biopsie dirigée.",
+        "Aucune dilatation possible des voies biliaires intra-hépatiques en cas d’obstruction."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Un obstacle du canal hépatique commun donne un cholédoque non dilaté et une vésicule normale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’orientation principale de la CPRE dans le texte ?",
+      "choices": [
+        "Principalement thérapeutique.",
+        "Dépistage alimentaire d’une coloration jaune.",
+        "Examen non invasif de première intention.",
+        "Exploration biologique de la bilirubine libre."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La CPRE est décrite comme un examen très invasif dont l’indication est principalement thérapeutique."
+    },
+    {
+      "type": "QCS",
+      "question": "Après échec de CPRE, quel examen interventionnel est cité comme option possible ?",
+      "choices": [
+        "Cholangiographie percutanée transhépatique.",
+        "Dosage isolé de l’haptoglobine.",
+        "Bili-IRM uniquement diagnostique.",
+        "Échographie de contrôle sans geste possible."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La cholangiographie percutanée transhépatique est indiquée notamment en cas d’échec de CPRE."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement est cité dans l’ictère nucléaire ?",
+      "choices": [
+        "Photothérapie.",
+        "Sphinctérotomie endoscopique.",
+        "Pose de prothèse biliaire.",
+        "Lithotritie percutanée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le traitement de l’ictère nucléaire comprend la photothérapie et l’échange plasmatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse mécanistique d’une hyperbilirubinémie, quelles propositions respectent les relations physiopathologiques décrites ?",
+      "choices": [
+        "Une augmentation de la destruction de l’hémoglobine peut augmenter la bilirubine non conjuguée.",
+        "Une diminution de la captation ou de la conjugaison hépatocytaire peut augmenter la bilirubine non conjuguée.",
+        "Une diminution de l’excrétion biliaire hépatocytaire augmente préférentiellement la bilirubine conjuguée.",
+        "Une augmentation isolée des réticulocytes définit une cholestase intra-hépatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bilirubine non conjuguée augmente par excès de production ou défaut de captation/conjugaison. La bilirubine conjuguée augmente par défaut d’excrétion. Les réticulocytes orientent vers l’hyperhémolyse, pas vers la cholestase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les propriétés de transport de la bilirubine avant et après conjugaison, quelles propositions sont exactes ?",
+      "choices": [
+        "La bilirubine non conjuguée est transportée dans le sang liée à l’albumine.",
+        "La bilirubine non conjuguée franchit facilement la barrière glomérulaire.",
+        "La bilirubine conjuguée peut passer dans les urines en cas de reflux plasmatique.",
+        "La bilirubine conjuguée est hydrosoluble."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La bilirubine non conjuguée est peu hydrosoluble, liée à l’albumine et ne passe pas dans les urines. La bilirubine conjuguée est hydrosoluble et peut être retrouvée dans les urines en cas de reflux plasmatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont cohérents avec un syndrome de Gilbert plutôt qu’avec un syndrome de Crigler-Najjar ?",
+      "choices": [
+        "Hyperbilirubinémie libre modérée et fluctuante.",
+        "Caractère bénin avec absence d’anomalie hépatique au diagnostic d’élimination.",
+        "Augmentation possible lors du jeûne ou d’une infection.",
+        "Ictère néonatal marqué permanent avec bilirubine libre supérieure à 100 μmol/L."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de Gilbert donne une hyperbilirubinémie libre modérée, fluctuante, favorisée par le jeûne ou l’infection, sans anomalie hépatique. L’ictère néonatal marqué permanent avec bilirubine libre > 100 μmol/L évoque Crigler-Najjar."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une cholestase, quels symptômes ou mécanismes cliniques sont conformes au texte ?",
+      "choices": [
+        "Le prurit est lié au reflux des acides biliaires.",
+        "Un amaigrissement peut être observé dans les cholestases chroniques par malabsorption.",
+        "Une douleur peut apparaître lors d’une mise en tension brutale des voies biliaires.",
+        "L’augmentation des réticulocytes explique le prurit cholestatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cholestase peut donner prurit, amaigrissement par malabsorption chronique et douleur lors de distension biliaire brutale. Les réticulocytes relèvent de l’hyperhémolyse."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des signes échographiques d’une cholestase, quelles propositions sont exactes ?",
+      "choices": [
+        "La dilatation des voies biliaires est harmonieuse dans le territoire situé en amont de l’obstacle.",
+        "Une obstruction récente peut ne pas encore s’accompagner de dilatation visible.",
+        "Une paroi scléreuse ou une cirrhose peuvent expliquer l’absence de dilatation malgré une obstruction.",
+        "Une dilatation vésiculaire évoque surtout une atteinte diffuse des canaux microscopiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échographie recherche une dilatation harmonieuse en amont de l’obstacle, parfois absente en cas d’obstruction récente, de paroi scléreuse ou de cirrhose. Une vésicule dilatée évoque plutôt un obstacle cholédocien sur vésicule saine, notamment néoplasique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre étiologie de la voie biliaire principale et présentation clinique sont exactes ?",
+      "choices": [
+        "Lithiase de la voie biliaire principale : douleur biliaire, avec fièvre possible en cas d’angiocholite.",
+        "Cancer de la tête du pancréas : ictère avec altération profonde possible de l’état général.",
+        "Cancer de la voie biliaire principale : ictère nu, sans fièvre ni douleur.",
+        "Ampullome vatérien : hyperéosinophilie fébrile après prise médicamenteuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lithiase de la voie biliaire principale donne une douleur biliaire, avec fièvre si angiocholite. Le cancer de la tête du pancréas associe ictère, douleur épigastrique possible et altération profonde de l’état général. Le cancer de la voie biliaire principale peut se révéler par un ictère nu. L’hyperéosinophilie fébrile est rattachée à la cholangite immuno-allergique médicamenteuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les atteintes des canaux biliaires de petit ou moyen calibre, quelles propositions sont justes ?",
+      "choices": [
+        "La cirrhose biliaire primitive est une cholangite destructrice non suppurée des canaux biliaires microscopiques.",
+        "Les anticorps anti-M2 sont mentionnés dans la cirrhose biliaire primitive.",
+        "La cholangite sclérosante primitive comporte des irrégularités des canaux biliaires avec sténoses et dilatations.",
+        "La mutation du gène MDR3 est classée parmi les causes acquises infectieuses."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cirrhose biliaire primitive est auto-immune, destructrice non suppurée, associée aux anti-M2. La cholangite sclérosante primitive donne des sténoses et dilatations irrégulières. MDR3 est une cause génétique, non acquise infectieuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont classées dans les causes acquises de cholestase intra-hépatique ?",
+      "choices": [
+        "Inhibition du transport par des cytokines inflammatoires.",
+        "Hépatite aiguë avec élévation prédominante des transaminases.",
+        "Infection bactérienne sévère.",
+        "Maladie de Dubin-Johnson."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les causes acquises de cholestase intra-hépatique comprennent l’inhibition du transport par les cytokines inflammatoires, l’hépatite aiguë et les infections bactériennes sévères. La maladie de Dubin-Johnson est une atteinte génétique rarissime et bénigne du transport canaliculaire de la bilirubine."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les infections suivantes, lesquelles sont citées comme pouvant s’associer à une cholestase intra-hépatique acquise ?",
+      "choices": [
+        "Pyélonéphrite.",
+        "Pneumonie.",
+        "Typhoïde.",
+        "Leptospirose."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite explicitement la pyélonéphrite, la pneumonie, la typhoïde et la leptospirose parmi les infections bactériennes sévères pouvant être en cause."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les affections génétiques rares impliquées dans les cholestases ou le transport de la bilirubine, quelles propositions sont exactes ?",
+      "choices": [
+        "La cholestase intrahépatique familiale progressive est décrite comme infantile.",
+        "La cholestase récurrente bénigne est récidivante et régressive.",
+        "Le syndrome de Rotor est une affection génétique rarissime et bénigne du transport canaliculaire de la bilirubine.",
+        "La maladie de Dubin-Johnson est présentée comme une cause bactérienne sévère de cholestase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cholestase intrahépatique familiale progressive est infantile, la cholestase récurrente bénigne est récidivante et régressive, et le syndrome de Rotor appartient aux atteintes génétiques bénignes du transport canaliculaire. Dubin-Johnson est génétique, non bactérien."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’ictère mixte, quels éléments correspondent aux données du texte ?",
+      "choices": [
+        "Il peut survenir chez un patient infecté.",
+        "Il peut survenir chez un patient cirrhotique.",
+        "Il peut s’observer chez un patient en soins intensifs.",
+        "Il repose exclusivement sur une augmentation isolée de la conjugaison hépatocytaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ictère mixte survient chez des patients graves, infectés, cirrhotiques ou en soins intensifs. Les mécanismes mentionnés incluent une baisse de sécrétion canaliculaire de bilirubine conjuguée par syndrome inflammatoire et une hyperhémolyse."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des métastases hépatiques dans le cadre d’une cholestase, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent donner un ictère tardif par compression de la voie biliaire principale.",
+        "Elles peuvent donner un ictère tardif par envahissement de la voie biliaire principale.",
+        "L’infiltration hépatique est responsable le plus souvent d’une cholestase anictérique.",
+        "Elles provoquent toujours d’emblée une dilatation vésiculaire par obstacle cholédocien."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les métastases hépatiques peuvent entraîner un ictère tardif par compression ou envahissement de la voie biliaire principale. L’infiltration hépatique donne le plus souvent une cholestase anictérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conséquences d’une anomalie d’excrétion de la bilirubine conjuguée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut provoquer un reflux plasmatique de bilirubine conjuguée.",
+        "Elle peut entraîner un passage urinaire de bilirubine conjuguée.",
+        "Elle traduit une diminution de l’excrétion de la bilirubine conjuguée dans la bile.",
+        "Elle impose une augmentation primitive de la destruction intramédullaire des hématies."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une anomalie d’excrétion de bilirubine conjuguée entraîne un défaut d’élimination biliaire avec reflux plasmatique possible, puis passage urinaire. La destruction intramédullaire relève de la dysérythropoïèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions différencient correctement hyperhémolyse et dysérythropoïèse dans les ictères à bilirubine libre ?",
+      "choices": [
+        "L’hyperhémolyse correspond à un ictère hémolytique pouvant être accompagné ou non d’une anémie.",
+        "L’hyperhémolyse s’accompagne d’une augmentation des réticulocytes.",
+        "La dysérythropoïèse correspond à une destruction intramédullaire des hématies.",
+        "La dysérythropoïèse s’accompagne nécessairement d’une augmentation des réticulocytes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hyperhémolyse est un ictère hémolytique avec augmentation des réticulocytes, avec ou sans anémie. La dysérythropoïèse correspond à une destruction intramédullaire sans augmentation des réticulocytes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de bilirubinémie totale définit l’ictère clinique selon le texte ?",
+      "choices": [
+        "Supérieure à 5 μmol/L.",
+        "Supérieure à 15 μmol/L.",
+        "Supérieure à 20 μmol/L.",
+        "Supérieure à 40 μmol/L."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’ictère est défini par une coloration jaune-bronze généralisée des téguments due à une bilirubinémie totale supérieure à 40 μmol/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient présente fièvre, douleur de l’hypochondre droit et hyperéosinophilie après exposition à une classe médicamenteuse citée. Quel diagnostic est le plus cohérent ?",
+      "choices": [
+        "Cholangite immuno-allergique médicamenteuse.",
+        "Cholestase récurrente bénigne.",
+        "Cancer de la voie biliaire principale.",
+        "Syndrome de Rotor."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La cholangite immuno-allergique médicamenteuse associe notamment fièvre, douleur de l’hypochondre droit et hyperéosinophilie, avec des médicaments cités comme pénicillines, sulfamides, macrolides ou allopurinol."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil correspond le mieux à une hépatite aiguë responsable de cholestase intra-hépatique ?",
+      "choices": [
+        "Ictère intense avec élévation prédominante des transaminases.",
+        "Ictère nu sans douleur ni fièvre.",
+        "Anémie ferriprive avec ictère fluctuant.",
+        "Hyperbilirubinémie libre fluctuante inférieure à 80 μmol/L."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans les causes acquises de cholestase intra-hépatique, l’hépatite aiguë est décrite par un ictère intense avec élévation prédominante des transaminases."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit le plus précisément l’excrétion canaliculaire normale de la bilirubine conjuguée ?",
+      "choices": [
+        "Transport passif non saturable au pôle sinusoïdal.",
+        "Transport actif, saturable, sélectif et compétitif au pôle biliaire de l’hépatocyte.",
+        "Diffusion glomérulaire de bilirubine liée à l’albumine.",
+        "Dégradation intramédullaire de la bilirubine conjuguée."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La bilirubine conjuguée est excrétée au pôle biliaire des hépatocytes par un transport actif, saturable, sélectif et compétitif."
+    },
+    {
+      "type": "QCS",
+      "question": "Devant une dilatation de la vésicule biliaire au cours d’une cholestase, quelle orientation est la plus conforme au texte ?",
+      "choices": [
+        "Obstacle cholédocien sur vésicule saine, notamment néoplasique.",
+        "Atteinte isolée du promoteur de la glucuronyl-transférase.",
+        "Destruction intramédullaire des hématies.",
+        "Cholestase anictérique par infiltration hépatique obligatoire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une dilatation de la vésicule biliaire est évocatrice d’un obstacle cholédocien sur vésicule saine, en particulier d’un obstacle néoplasique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association est correcte concernant la cholangite sclérosante primitive ?",
+      "choices": [
+        "Sténoses et dilatations irrégulières des canaux biliaires, avec association fréquente à une maladie inflammatoire chronique de l’intestin.",
+        "Anticorps anti-M2 et ictère obligatoirement précoce.",
+        "Hyperbilirubinémie libre modérée diminuant lors du jeûne.",
+        "Anémie ferriprive avec ictère fluctuant comme signe principal."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La cholangite sclérosante primitive associe des irrégularités des canaux biliaires intra- et extra-hépatiques avec sténoses et dilatations, et elle est associée dans plus de 50 % des cas à une maladie inflammatoire chronique de l’intestin."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les valeurs normales de bilirubine citées, quelles propositions sont exactes ?",
+      "choices": [
+        "La bilirubine totale normale est inférieure à 20 μmol/L.",
+        "La bilirubine non conjuguée normale est inférieure à 15 μmol/L.",
+        "La bilirubine conjuguée normale est inférieure à 5 μmol/L.",
+        "La bilirubine totale normale est inférieure à 5 μmol/L."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise : bilirubine totale < 20 μmol/L, bilirubine non conjuguée < 15 μmol/L et bilirubine conjuguée < 5 μmol/L."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’interprétation biologique d’un ictère, quelles associations sont conformes au texte ?",
+      "choices": [
+        "Le dosage doit distinguer bilirubine totale, non conjuguée et conjuguée.",
+        "Une augmentation des réticulocytes avec baisse de l’haptoglobine oriente vers un mécanisme hémolytique.",
+        "L’élévation des phosphatases alcalines et de la GGT oriente vers un profil cholestatique.",
+        "Une élévation des transaminases supérieure à 10 à 20 fois la normale définit un ictère cholestatique pur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le profil cytolytique est marqué par une forte élévation des transaminases, souvent > 10 à 20 fois la normale, et non par une cholestase pure."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un ictère, quelles données cliniques sont correctement reliées au type d’hyperbilirubinémie ou au mécanisme associé ?",
+      "choices": [
+        "Des urines brunes et des selles décolorées évoquent un ictère à bilirubine conjuguée.",
+        "Un prurit associé évoque un ictère cholestatique par reflux des acides biliaires.",
+        "Une coloration foncée des urines peut exister dans un ictère à bilirubine libre en cas d’hémoglobinurie par hyperhémolyse.",
+        "Des selles décolorées sont caractéristiques d’un ictère exclusivement à bilirubine libre."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les selles décolorées sont rattachées dans le texte à l’ictère à bilirubine conjuguée, non à l’ictère exclusivement à bilirubine libre."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’angiocholite, quelles propositions respectent la définition et les éléments diagnostiques du texte ?",
+      "choices": [
+        "Il s’agit d’une infection bactérienne de la bile et des voies biliaires.",
+        "Elle est presque toujours liée à une lithiase.",
+        "La mise en évidence d’une obstruction biliaire fait partie des caractéristiques attendues.",
+        "Un syndrome de réponse inflammatoire systémique sévère sans obstruction biliaire constitue un diagnostic différentiel."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’angiocholite associe infection biliaire, cholestase, syndrome inflammatoire systémique et obstruction biliaire ; un SIRS sévère sans obstruction est cité comme diagnostic différentiel."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont explicitement citées comme diagnostics différentiels possibles de l’angiocholite ?",
+      "choices": [
+        "Pyélonéphrite aiguë.",
+        "Pneumonie.",
+        "Lymphome.",
+        "Phase initiale d’une hépatite A."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite notamment les infections bactériennes sévères comme pyélonéphrite, pneumonie, péritonite, mais aussi lymphome et phase initiale d’hépatite A."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étiologies d’insuffisance hépatique aiguë mentionnées, quelles propositions sont exactes ?",
+      "choices": [
+        "Intoxication au paracétamol.",
+        "Intoxication par amanite phalloïde.",
+        "Mécanisme médicamenteux immuno-allergique.",
+        "Insuffisance rénale isolée comme étiologie principale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’insuffisance rénale est mentionnée comme facteur d’aggravation, mais elle n’est pas listée comme étiologie d’insuffisance hépatique aiguë."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hépatite grave dans le cadre d’une insuffisance hépatique aiguë, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est définie par un taux de prothrombine inférieur à 50 %.",
+        "Elle expose à un risque d’évolution vers l’hépatite fulminante.",
+        "Elle est définie par la seule présence d’un prurit cholestatique.",
+        "Elle est définie par une bilirubine conjuguée inférieure à 5 μmol/L."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte définit l’hépatite grave par un TP < 50 %, avec risque d’évolution vers l’hépatite fulminante."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient cirrhotique ayant une poussée d’ictère, quelles situations relèvent de la recherche étiologique indiquée dans le texte ?",
+      "choices": [
+        "Exacerbation d’une hépatite virale.",
+        "Hépatite alcoolique.",
+        "Insuffisance rénale aiguë intercurrente.",
+        "Syndrome de Crigler-Najjar acquis."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande de rechercher une poussée de la maladie causale et des complications intercurrentes, dont l’insuffisance rénale aiguë. Le syndrome de Crigler-Najjar n’est pas cité dans ce contexte."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le cancer du foie terminal compliqué d’ictère, quels mécanismes sont mentionnés ?",
+      "choices": [
+        "Compression de la voie biliaire par une métastase.",
+        "Compression de la voie biliaire par la tumeur primitive.",
+        "Stade très avancé avec localisations multifocales et insuffisance hépatique.",
+        "Toxicité cérébrale directe de la bilirubine conjuguée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les mécanismes cités sont la compression biliaire par métastase ou tumeur primitive, ainsi qu’un stade multifocal avancé avec insuffisance hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’échographie abdominale, quelles associations entre le siège de l’obstacle et l’aspect des voies biliaires sont exactes ?",
+      "choices": [
+        "Obstacle du canal hépatique commun : cholédoque non dilaté.",
+        "Obstacle du canal hépatique commun : vésicule normale.",
+        "Obstacle du canal cholédoque : vésicule et canal hépatique commun dilatés.",
+        "Obstacle du canal hépatique commun : vésicule et cholédoque systématiquement dilatés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue l’obstacle du canal hépatique commun, avec cholédoque non dilaté et vésicule normale, de l’obstacle cholédocien, avec dilatation de la vésicule et du canal hépatique commun."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’aspect échographique d’une lithiase biliaire et son principal piège, quelles propositions sont exactes ?",
+      "choices": [
+        "Une lithiase apparaît comme une formation hyperéchogène.",
+        "Un cône d’ombre postérieur est attendu derrière la formation lithiasique.",
+        "L’aérobilie peut constituer un diagnostic différentiel.",
+        "Un antécédent d’anastomose bilio-digestive favorise le diagnostic différentiel d’aérobilie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La lithiase biliaire est hyperéchogène avec cône d’ombre postérieur ; l’aérobilie est un piège, notamment après sphinctérotomie ou anastomose bilio-digestive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tomodensitométrie et la bili-IRM, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La tomodensitométrie peut être indiquée pour rechercher une lithiase biliaire.",
+        "La tomodensitométrie peut être indiquée pour analyser le pancréas.",
+        "La bili-IRM peut aider au diagnostic de cholangite sclérosante primitive.",
+        "La bili-IRM est indiquée principalement pour l’extraction thérapeutique des calculs."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bili-IRM est un examen diagnostique de visualisation bilio-pancréatique ; l’extraction de calcul relève des procédures interventionnelles comme la CPRE ou la cholangiographie percutanée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’échoendoscopie bilio-pancréatique, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un examen invasif nécessitant une anesthésie générale.",
+        "Elle est performante pour le diagnostic de lithiase de la voie biliaire principale.",
+        "Elle peut permettre des biopsies dirigées du pancréas ou d’adénopathies.",
+        "Elle est citée comme technique de référence pour la lithotritie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échoendoscopie est diagnostique et permet des biopsies dirigées ; la lithotritie est citée pour la CPRE et la cholangiographie percutanée transhépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cholangiographie percutanée transhépatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’un examen très invasif réalisé sous anesthésie générale.",
+        "L’hémopéritoine et le biliopéritoine font partie des effets indésirables cités.",
+        "Elle peut être indiquée après échec de CPRE.",
+        "La pose de prothèse en cas de sténose est l’indication spécifiquement listée pour cet examen."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pour la cholangiographie percutanée transhépatique, le texte cite notamment échec de CPRE, drainage, biopsie, extraction de calcul et lithotritie. La pose de prothèse est listée dans les indications de CPRE."
+    },
+    {
+      "type": "QCS",
+      "question": "Une bilirubine conjuguée mesurée à 6 μmol/L doit être interprétée, selon les normes du texte, comme :",
+      "choices": [
+        "Normale, car inférieure à 20 μmol/L.",
+        "Supérieure à la normale, car la limite normale est inférieure à 5 μmol/L.",
+        "Normale, car la limite normale est inférieure à 15 μmol/L.",
+        "Interprétable uniquement si les transaminases sont supérieures à 20 fois la normale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La bilirubine conjuguée normale est inférieure à 5 μmol/L ; une valeur à 6 μmol/L est donc augmentée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est décrit comme très invasif, exposant à un risque d’angiocholite et de pancréatite, avec une indication principalement thérapeutique ?",
+      "choices": [
+        "Échographie abdominale.",
+        "Tomodensitométrie.",
+        "CPRE.",
+        "Bili-IRM."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La CPRE est décrite comme très invasive, à risque d’angiocholite et de pancréatite, et principalement thérapeutique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est indiqué pour une visualisation de bonne qualité des voies biliaires et pancréatiques, et pour le diagnostic de cholangite sclérosante primitive ?",
+      "choices": [
+        "Bili-IRM.",
+        "Échoendoscopie.",
+        "Cholangiographie percutanée transhépatique.",
+        "Échographie abdominale standard."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La bili-IRM est indiquée pour la visualisation des voies biliaires et pancréatiques, ainsi que pour le diagnostic de cholangite sclérosante primitive."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à un diagnostic différentiel de coloration jaune non ictérique cité dans le texte ?",
+      "choices": [
+        "Syndrome de réponse inflammatoire systémique sévère.",
+        "Alimentation riche en légumes rouges ou orange.",
+        "Dilatation du canal hépatique commun.",
+        "Hyperhémolyse avec réticulocytose."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte cite l’alimentation riche en légumes rouges ou orange comme diagnostic différentiel d’une coloration jaune."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil biologique correspond le mieux à un ictère hémolytique selon le texte ?",
+      "choices": [
+        "Augmentation de la bilirubine libre, augmentation des réticulocytes, diminution de l’haptoglobine.",
+        "Augmentation isolée de la GGT avec bilirubine conjuguée normale.",
+        "Transaminases supérieures à 20 fois la normale sans modification de la bilirubine.",
+        "Diminution des phosphatases alcalines avec haptoglobine augmentée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’ictère hémolytique associe augmentation de la bilirubine libre, réticulocytose et baisse de l’haptoglobine."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans un ictère cholestatique, la palpation d’une vésicule biliaire dilatée évoque surtout, selon le texte :",
+      "choices": [
+        "Une obstruction cholédocienne non lithiasique.",
+        "Un ictère nucléaire.",
+        "Une hépatite herpétique isolée.",
+        "Une alimentation riche en légumes orange."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique qu’une obstruction cholédocienne non lithiasique peut s’accompagner d’une dilatation palpable de la vésicule biliaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition quantitative et clinique d’un ictère, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à une coloration jaune-bronze généralisée des téguments.",
+        "Il est défini par une bilirubinémie totale strictement supérieure à 40 μmol/L.",
+        "Une bilirubinémie totale inférieure à 20 μmol/L est considérée comme normale.",
+        "Une bilirubinémie totale entre 20 et 40 μmol/L correspond à un subictère."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte définit l’ictère par une coloration jaune-bronze généralisée avec bilirubinémie totale > 40 μmol/L ; la normale est < 20 μmol/L et le subictère entre 20 et 40 μmol/L."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le cycle physiologique de la bilirubine, quelles propositions sont exactes ?",
+      "choices": [
+        "La bilirubine provient de la dégradation de l’hémoglobine des hématies sénescentes par les macrophages.",
+        "La bilirubine non conjuguée est transportée jusqu’au foie liée à l’albumine.",
+        "La conjugaison hépatocytaire se fait avec l’acide glucuronique.",
+        "L’enzyme impliquée dans la conjugaison est la bilirubine-UDP-glucuronosyl-transférase 1."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces étapes correspondent au cycle décrit : production macrophagique, transport albuminique, conjugaison à l’acide glucuronique par la bilirubine-UDP-glucuronosyl-transférase 1."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rôle des acides biliaires dans la sécrétion biliaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le flux biliaire est généré osmotiquement par les acides biliaires.",
+        "Une diminution des acides biliaires peut diminuer l’excrétion de bilirubine.",
+        "Une cholestase anictérique peut associer diminution de la sécrétion des acides biliaires et bilirubine conjuguée normale.",
+        "Une cholestase ictérique implique une diminution de la sécrétion des acides biliaires et de la bilirubine conjuguée avec reflux plasmatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte relie directement le flux biliaire aux acides biliaires et distingue cholestase ictérique et anictérique selon l’atteinte associée de l’excrétion de bilirubine conjuguée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes d’augmentation de la bilirubine non conjuguée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut résulter d’une augmentation de la destruction de l’hémoglobine.",
+        "Elle peut résulter d’une diminution de la captation par l’hépatocyte.",
+        "Elle peut résulter d’une diminution de la conjugaison hépatocytaire.",
+        "Elle peut être observée dans le syndrome de Gilbert."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’augmentation de bilirubine libre est liée soit à une production accrue, soit à une anomalie de captation/conjugaison ; le syndrome de Gilbert est une cause de baisse de conjugaison."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le syndrome de Gilbert, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à un polymorphisme non pathologique du gène promoteur de la bilirubine-glucuronyl-transférase.",
+        "Sa transmission est autosomique récessive.",
+        "Il est bénin et fréquent.",
+        "Son diagnostic est un diagnostic d’élimination en l’absence d’anomalie hépatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le syndrome de Gilbert est décrit comme bénin, fréquent, autosomique récessif, lié à un polymorphisme promoteur, et diagnostiqué par élimination."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les variations de l’hyperbilirubinémie dans le syndrome de Gilbert, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hyperbilirubinémie libre est habituellement modérée, inférieure à 80 μmol/L.",
+        "L’ictère est inconstant et variable.",
+        "L’hyperbilirubinémie peut augmenter lors du jeûne.",
+        "L’hyperbilirubinémie peut diminuer sous inducteur enzymatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte insiste sur le caractère modéré, fluctuant, favorisé par le jeûne ou l’infection, et diminuant sous inducteur enzymatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le syndrome de Crigler-Najjar, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est dû à une absence ou un effondrement de l’activité de la glucuronyl-transférase.",
+        "Il est rare et grave.",
+        "Il se manifeste par un ictère néonatal marqué et permanent.",
+        "Il expose à un risque d’encéphalopathie bilirubinique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le syndrome de Crigler-Najjar est une anomalie grave de conjugaison avec ictère néonatal permanent, bilirubine libre élevée et risque neurologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les manifestations cliniques et biologiques d’une cholestase, quelles propositions sont exactes ?",
+      "choices": [
+        "Le prurit est expliqué par le reflux des acides biliaires.",
+        "L’amaigrissement peut être lié à une malabsorption lors d’une cholestase chronique.",
+        "La douleur peut traduire une mise en tension brutale des voies biliaires.",
+        "La biologie montre une augmentation des phosphatases alcalines et de la GGT."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte associe cholestase à prurit, amaigrissement chronique par malabsorption, douleur si tension brutale, et élévation des PAL et GGT."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’échographie dans l’exploration d’une cholestase, quelles propositions sont exactes ?",
+      "choices": [
+        "La dilatation des voies biliaires est harmonieuse dans le territoire situé en amont de l’obstacle.",
+        "Une obstruction récente peut ne pas entraîner de dilatation visible.",
+        "Une cirrhose peut expliquer l’absence de dilatation malgré une obstruction.",
+        "Une dilatation vésiculaire évoque un obstacle cholédocien sur vésicule saine."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’échographie recherche une dilatation harmonieuse en amont ; elle peut manquer en cas d’obstruction récente, de paroi scléreuse ou de cirrhose. La vésicule dilatée oriente vers un obstacle cholédocien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le retentissement ictérique selon le calibre de l’atteinte biliaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Une atteinte limitée de la voie biliaire principale peut entraîner un ictère.",
+        "Une atteinte des canaux de plus petit calibre doit être diffuse pour provoquer un ictère.",
+        "Une atteinte des canaux biliaires de petit ou moyen calibre peut s’accompagner d’une absence de dilatation échographique.",
+        "La cholestase peut être d’origine extra-hépatique même si l’atteinte concerne des canaux biliaires de petit ou moyen calibre."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue l’atteinte limitée de la voie biliaire principale, suffisante pour donner un ictère, et les atteintes de petit calibre, qui doivent être diffuses et peuvent ne pas dilater les voies biliaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les étiologies de cholestase extra-hépatique touchant la voie biliaire principale, lesquelles sont citées ?",
+      "choices": [
+        "Sténose postopératoire.",
+        "Compression par adénopathies.",
+        "Pancréatite chronique.",
+        "Lithiase de la voie biliaire principale."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre causes figurent explicitement dans les étiologies de la voie biliaire principale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cirrhose biliaire primitive décrite dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une affection auto-immune rare.",
+        "Elle correspond à une cholangite destructrice non suppurée.",
+        "Elle atteint les canaux biliaires microscopiques.",
+        "Elle est associée aux anticorps anti-M2."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La cirrhose biliaire primitive est définie comme une affection auto-immune rare avec cholangite destructrice non suppurée des canaux microscopiques et anticorps anti-M2."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les causes acquises de cholestase intra-hépatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les cytokines inflammatoires peuvent inhiber le transport.",
+        "L’hépatite aiguë peut donner un ictère intense avec élévation prédominante des transaminases.",
+        "Une infection bactérienne sévère peut être en cause.",
+        "La pyélonéphrite et la pneumonie sont des exemples cités."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les causes acquises citées comprennent l’inhibition du transport par les cytokines, l’hépatite aiguë et les infections bactériennes sévères dont pyélonéphrite et pneumonie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ictère mixte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut survenir chez un patient en état grave.",
+        "Il peut survenir chez un patient infecté.",
+        "Il peut survenir chez un patient cirrhotique ou en soins intensifs.",
+        "Un syndrome inflammatoire peut diminuer la sécrétion canaliculaire de bilirubine conjuguée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’ictère mixte est décrit chez les patients graves, infectés, cirrhotiques ou en soins intensifs, avec baisse de la sécrétion canaliculaire de bilirubine conjuguée par syndrome inflammatoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la norme de la bilirubine conjuguée selon le texte ?",
+      "choices": [
+        "Inférieure à 5 μmol/L.",
+        "Inférieure à 15 μmol/L.",
+        "Inférieure à 20 μmol/L.",
+        "Entre 20 et 40 μmol/L."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La bilirubine conjuguée normale est inférieure à 5 μmol/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel tableau clinique est le plus évocateur d’un ampullome vatérien dans le texte ?",
+      "choices": [
+        "Ictère nu, sans fièvre ni douleur.",
+        "Anémie ferriprive avec ictère fluctuant.",
+        "Douleur biliaire avec fièvre en cas d’angiocholite.",
+        "Ictère avec altération profonde de l’état général."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’ampullome vatérien est associé dans le texte à une anémie ferriprive et à un ictère fluctuant."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les affections suivantes, laquelle relève des atteintes génétiques rarissimes et bénignes du transport canaliculaire de la bilirubine ?",
+      "choices": [
+        "Syndrome de Gilbert.",
+        "Maladie de Dubin-Johnson.",
+        "Cholangite sclérosante primitive.",
+        "Cirrhose biliaire primitive."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La maladie de Dubin-Johnson, avec le syndrome de Rotor, fait partie des atteintes génétiques rarissimes et bénignes du transport canaliculaire de la bilirubine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé définit le mieux une cholestase anictérique selon le texte ?",
+      "choices": [
+        "Diminution de la sécrétion des acides biliaires avec bilirubine conjuguée normale.",
+        "Diminution simultanée des acides biliaires et de la bilirubine conjuguée avec reflux plasmatique.",
+        "Augmentation de la bilirubine libre par destruction accrue de l’hémoglobine.",
+        "Diminution isolée de la conjugaison hépatocytaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La cholestase anictérique correspond à une diminution de la sécrétion des acides biliaires avec bilirubine conjuguée normale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affection génétique rare est décrite comme infantile dans les cholestases intra-hépatiques ?",
+      "choices": [
+        "Cholestase intrahépatique familiale progressive.",
+        "Cholestase récurrente bénigne.",
+        "Syndrome de Rotor.",
+        "Maladie de Dubin-Johnson."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La cholestase intrahépatique familiale progressive est décrite comme une cause génétique rare infantile."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le texte, quelle affection est associée à des irrégularités des canaux biliaires intra- et extra-hépatiques avec sténoses et dilatations ?",
+      "choices": [
+        "Cirrhose biliaire primitive.",
+        "Cholangite immuno-allergique médicamenteuse.",
+        "Cholangite sclérosante primitive.",
+        "Cholestase récurrente bénigne."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La cholangite sclérosante primitive est caractérisée par des irrégularités des canaux biliaires intra- et extra-hépatiques avec sténoses et dilatations."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une coloration jaune cutanéo-muqueuse, quelles propositions sont conformes à la démarche clinique décrite ?",
+      "choices": [
+        "Une alimentation riche en légumes rouges ou orange peut constituer un diagnostic différentiel.",
+        "La prise de fluorescéine est citée parmi les causes médicamenteuses possibles de coloration jaune.",
+        "Un ictère nu correspond à un ictère sans fièvre ni douleur associée.",
+        "Toute coloration jaune doit être considérée d’emblée comme une obstruction biliaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les légumes rouges ou orange et la fluorescéine comme diagnostics différentiels d’une coloration jaune. L’ictère nu est défini par l’absence de fièvre et de douleur associée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations cliniques sont exactes selon le type ou le mécanisme d’ictère décrit ?",
+      "choices": [
+        "Un ictère à bilirubine conjuguée peut s’accompagner d’urines brunes et de selles décolorées.",
+        "Un ictère à bilirubine libre peut s’accompagner d’urines foncées en cas d’hémoglobinurie par hyperhémolyse.",
+        "Un ictère cholestatique peut s’accompagner d’un prurit par reflux des acides biliaires.",
+        "Une obstruction cholédocienne non lithiasique peut s’accompagner d’une dilatation palpable de la vésicule biliaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre éléments sont explicitement mentionnés dans les caractéristiques cliniques du texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’angiocholite, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle correspond à une infection bactérienne de la bile et des voies biliaires.",
+        "Elle est presque toujours liée à une lithiase.",
+        "Elle associe une cholestase et un syndrome inflammatoire systémique.",
+        "La mise en évidence d’une obstruction biliaire fait partie des éléments caractéristiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’angiocholite est définie comme une infection bactérienne biliaire, presque toujours lithiasique, avec cholestase, inflammation systémique et obstruction biliaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont citées comme diagnostics différentiels possibles d’une angiocholite ?",
+      "choices": [
+        "Un syndrome de réponse inflammatoire systémique sévère sans obstruction biliaire.",
+        "Une pyélonéphrite aiguë ou une pneumonie sévère.",
+        "Un lymphome.",
+        "Une phase initiale d’hépatite A ou une hépatite herpétique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces diagnostics différentiels : SRIS sans obstruction, infections bactériennes sévères, lymphome, phase initiale d’hépatite A et hépatite herpétique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’insuffisance hépatique aiguë et l’hépatite grave, quelles propositions sont exactes ?",
+      "choices": [
+        "Le paracétamol est cité parmi les causes toxiques.",
+        "L’amanite phalloïde est citée parmi les causes toxiques.",
+        "Une cause médicamenteuse immuno-allergique peut être impliquée.",
+        "L’hépatite grave expose à un risque d’évolution vers l’hépatite fulminante."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les étiologies citées incluent le paracétamol, l’amanite phalloïde, les causes médicamenteuses immuno-allergiques et virales. L’hépatite grave peut évoluer vers l’hépatite fulminante."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un cirrhotique présentant une poussée d’ictère, quels éléments doivent être recherchés d’après le texte ?",
+      "choices": [
+        "Une exacerbation d’hépatite virale ou une hépatite alcoolique.",
+        "Un cancer.",
+        "Une infection bactérienne ou une insuffisance rénale aiguë.",
+        "Une prise de médicament hépatotoxique, une hémorragie ou une hyperhémolyse."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue la poussée de la maladie causale et les complications ou phénomènes intercurrents : cancer, infection, insuffisance rénale aiguë, médicament hépatotoxique, hémorragie et hyperhémolyse."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le cancer du foie terminal compliqué d’ictère, quels mécanismes sont mentionnés ?",
+      "choices": [
+        "Compression de la voie biliaire par une métastase.",
+        "Compression de la voie biliaire par la tumeur primitive.",
+        "Stade très avancé avec localisations multifocales.",
+        "Insuffisance hépatique associée au stade très avancé."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les mécanismes cités sont la compression biliaire par métastase ou tumeur primitive, ainsi qu’un stade très avancé multifocal avec insuffisance hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les examens biologiques et profils d’ictère, quelles propositions sont exactes ?",
+      "choices": [
+        "Le dosage de la bilirubine totale est cité.",
+        "Le dosage de la bilirubine non conjuguée est cité.",
+        "Le dosage de la bilirubine conjuguée est cité.",
+        "Dans l’ictère hémolytique, l’augmentation des réticulocytes et la diminution de l’haptoglobine sont attendues."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La biologie comporte les dosages des trois fractions de bilirubine. L’ictère hémolytique associe bilirubine libre augmentée, réticulocytes augmentés et haptoglobine diminuée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions biologiques distinguent correctement cholestase et cytolyse selon le texte ?",
+      "choices": [
+        "L’ictère cholestatique s’accompagne d’une augmentation des phosphatases alcalines.",
+        "L’ictère cholestatique s’accompagne d’une augmentation de la GGT.",
+        "Une élévation modérée des transaminases est possible dans l’ictère cholestatique.",
+        "Une forte élévation des transaminases, souvent supérieure à 10 à 20 fois la normale, correspond au profil cytolytique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le profil cholestatique associe PAL et GGT élevées, avec parfois une cytolyse modérée. Le profil cytolytique se caractérise par une forte élévation des transaminases."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’échographie abdominale, quelles correspondances sont correctes ?",
+      "choices": [
+        "Une lithiase biliaire apparaît comme une formation hyperéchogène avec cône d’ombre postérieur.",
+        "Une obstruction de la voie biliaire principale peut donner une dilatation diffuse et harmonieuse des voies biliaires intra-hépatiques.",
+        "Un obstacle du canal hépatique commun s’accompagne d’un cholédoque non dilaté et d’une vésicule normale.",
+        "Un obstacle du canal cholédoque s’accompagne d’une dilatation de la vésicule et du canal hépatique commun."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces aspects échographiques sont ceux décrits pour la lithiase et pour les différents sièges d’obstacle biliaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le piège échographique entre lithiase biliaire et aérobilie, quelles propositions sont exactes ?",
+      "choices": [
+        "L’aérobilie est citée comme diagnostic différentiel échographique d’une lithiase biliaire.",
+        "Un antécédent de sphinctérotomie favorise l’interprétation en faveur d’une aérobilie.",
+        "Un antécédent d’anastomose bilio-digestive favorise l’interprétation en faveur d’une aérobilie.",
+        "La lithiase biliaire est classiquement décrite comme hyperéchogène avec cône d’ombre postérieur."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que l’aérobilie peut mimer une lithiase, notamment après sphinctérotomie ou anastomose bilio-digestive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tomodensitométrie et la bili-IRM, quelles propositions sont justes ?",
+      "choices": [
+        "La tomodensitométrie peut être indiquée pour rechercher une lithiase biliaire.",
+        "La tomodensitométrie peut être indiquée pour rechercher une obstruction de la voie biliaire principale.",
+        "La tomodensitométrie permet l’analyse du pancréas.",
+        "La bili-IRM permet une visualisation de bonne qualité des voies biliaires et pancréatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le scanner est indiqué pour rechercher lithiase ou obstruction de la voie biliaire principale et analyser le pancréas. La bili-IRM visualise les voies biliaires et pancréatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’échoendoscopie bilio-pancréatique, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un examen invasif.",
+        "Elle nécessite une anesthésie générale.",
+        "Elle est performante pour le diagnostic de lithiase de la voie biliaire principale et de la vésicule.",
+        "Elle permet des biopsies dirigées du pancréas ou d’adénopathies."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’échoendoscopie est décrite comme invasive, sous anesthésie générale, performante pour les lithiases biliaires et permettant des biopsies ciblées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les procédures biliaires invasives, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La CPRE est un examen très invasif avec risque d’angiocholite et de pancréatite.",
+        "La CPRE a une indication principalement thérapeutique.",
+        "La cholangiographie percutanée transhépatique est un examen très invasif sous anesthésie générale.",
+        "La cholangiographie percutanée transhépatique peut être indiquée après échec de CPRE."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La CPRE est très invasive, surtout thérapeutique, avec risque d’angiocholite et de pancréatite. La cholangiographie percutanée transhépatique est très invasive, sous anesthésie générale, et indiquée notamment après échec de CPRE."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle définition correspond le mieux à un ictère nu dans le texte ?",
+      "choices": [
+        "Ictère associé à un prurit intense.",
+        "Ictère sans fièvre ni douleur associée.",
+        "Ictère avec urines brunes et selles décolorées.",
+        "Ictère avec syndrome inflammatoire systémique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’ictère nu est défini uniquement par l’absence de fièvre et de douleur associée."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon les normes biologiques données, quelle valeur définit la limite supérieure normale de la bilirubine non conjuguée ?",
+      "choices": [
+        "< 5 μmol/L",
+        "< 10 μmol/L",
+        "< 15 μmol/L",
+        "< 20 μmol/L"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte donne comme norme : bilirubine non conjuguée < 15 μmol/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel paramètre biologique définit l’hépatite grave dans le passage ?",
+      "choices": [
+        "Bilirubine conjuguée supérieure à 5 μmol/L.",
+        "GGT supérieure à 10 fois la normale.",
+        "Taux de prothrombine inférieur à 50 %.",
+        "Haptoglobine effondrée."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’hépatite grave est définie par un taux de prothrombine < 50 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est décrit comme ayant une indication principalement thérapeutique ?",
+      "choices": [
+        "Bili-IRM.",
+        "Tomodensitométrie abdominale.",
+        "CPRE.",
+        "Échoendoscopie."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La CPRE est décrite comme très invasive, à risque d’angiocholite et de pancréatite, avec une indication principalement thérapeutique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel effet indésirable est spécifiquement cité pour la cholangiographie percutanée transhépatique ?",
+      "choices": [
+        "Hémopéritoine.",
+        "Hémoglobinurie.",
+        "Ictère nucléaire.",
+        "Selles décolorées."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les effets indésirables cités pour la cholangiographie percutanée transhépatique sont l’hémopéritoine, le biliopéritoine et l’angiocholite."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est indiqué dans le texte pour le diagnostic de cholangite sclérosante primitive ?",
+      "choices": [
+        "Bili-IRM.",
+        "Dosage de l’haptoglobine.",
+        "Tomodensitométrie seule.",
+        "Photothérapie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La bili-IRM est indiquée pour la visualisation des voies biliaires et pancréatiques, ainsi que pour le diagnostic de cholangite sclérosante primitive."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-03T21:58:42.006Z"
+}

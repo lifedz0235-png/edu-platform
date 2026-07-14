@@ -1,0 +1,3123 @@
+{
+  "category": "biologie",
+  "module": "microbiologie",
+  "courseId": 44,
+  "courseTitle": "Les Micro Organismes",
+  "supportTitle": "Les-micro-organismes",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/MICROBIOlogie/Les-micro-organismes.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la classification générale des micro-organismes, quelles propositions sont exactes ?",
+      "choices": [
+        "Les bactéries appartiennent aux procaryotes.",
+        "Les protozoaires appartiennent aux eucaryotes.",
+        "Les virus sont des êtres acaryotes.",
+        "Les virus possèdent un métabolisme propre."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les bactéries sont procaryotes, les protozoaires et champignons microscopiques sont eucaryotes. Les virus sont acaryotes et dépourvus de métabolisme propre."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la définition des bactéries, quelles propositions sont justes ?",
+      "choices": [
+        "Ce sont des micro-organismes unicellulaires procaryotes.",
+        "Elles possèdent un véritable noyau limité par une membrane.",
+        "Leur matériel génétique est constitué d’un chromosome d’ADN situé dans le cytoplasme.",
+        "Leur paroi contient un constituant spécifique appelé peptidoglycane."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Les bactéries sont unicellulaires procaryotes, sans véritable noyau. Leur ADN est cytoplasmique et leur paroi contient du peptidoglycane."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels critères peuvent être utilisés pour classer les bactéries selon le texte ?",
+      "choices": [
+        "La coloration de Gram.",
+        "La sensibilité aux antibiotiques.",
+        "Le séquençage de l’ARN ribosomique 16S.",
+        "La présence de mitochondries."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La classification bactérienne peut utiliser la coloration de Gram, les antibiotypes et les méthodes moléculaires comme le séquençage de l’ARNr 16S. Les mitochondries sont absentes chez les bactéries."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la morphologie bactérienne, quelles associations sont correctes ?",
+      "choices": [
+        "Les cocci correspondent à des formes sphériques.",
+        "Les bacilles correspondent à des formes en bâtonnets.",
+        "Les diplocoques correspondent à des bactéries groupées par deux.",
+        "Les spirilles ou spirochètes correspondent à des bactéries groupées en tétrades."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cocci sont sphériques, les bacilles en bâtonnets, et les diplocoques groupés par deux. Les spirilles ou spirochètes sont des formes spiralées."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels sont les grands types morphologiques bactériens décrits selon la coloration de Gram ?",
+      "choices": [
+        "Cocci à Gram positif.",
+        "Cocci à Gram négatif.",
+        "Bacilles à Gram positif.",
+        "Bacilles à Gram négatif."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue quatre grands types : cocci Gram positif, cocci Gram négatif, bacilles Gram positif et bacilles Gram négatif."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les structures suivantes, lesquelles sont des éléments constants de la cellule bactérienne ?",
+      "choices": [
+        "Chromosome bactérien.",
+        "Membrane cytoplasmique.",
+        "Ribosomes.",
+        "Capsule."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le chromosome bactérien, la membrane cytoplasmique et les ribosomes sont constants. La capsule est un élément facultatif."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont facultatifs chez les bactéries ?",
+      "choices": [
+        "Plasmides.",
+        "Flagelles.",
+        "Pili.",
+        "Réticulum endoplasmique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les plasmides, flagelles et pili sont facultatifs. Le réticulum endoplasmique est absent chez les bactéries."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la paroi bactérienne, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle maintient la forme de la cellule.",
+        "Elle protège contre la lyse osmotique.",
+        "Elle constitue une cible importante des antibiotiques.",
+        "Elle contient comme constituant commun des stérols."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La paroi bactérienne assure le maintien de la forme, protège contre la lyse osmotique et représente une cible antibiotique. Son constituant commun est le peptidoglycane, non les stérols."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du peptidoglycane bactérien, quelles propositions sont justes ?",
+      "choices": [
+        "Il est aussi appelé muréine.",
+        "Il est constitué de chaînes polysaccharidiques contenant de la N-acétylglucosamine.",
+        "Il contient de l’acide N-acétylmuramique.",
+        "Il correspond à la partie toxique du lipopolysaccharide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le peptidoglycane, ou muréine, contient notamment la N-acétylglucosamine et l’acide N-acétylmuramique. La partie toxique du LPS est le lipide A."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les différences pariétales entre bactéries à Gram positif et à Gram négatif, quelles propositions sont correctes ?",
+      "choices": [
+        "Les bactéries à Gram positif possèdent un peptidoglycane épais.",
+        "Les bactéries à Gram négatif possèdent un peptidoglycane plus fin.",
+        "Les bactéries à Gram négatif possèdent une membrane externe contenant du lipopolysaccharide.",
+        "Les bactéries à Gram positif possèdent une membrane externe riche en lipopolysaccharide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le peptidoglycane est épais chez les Gram positif. Chez les Gram négatif, il est plus fin et associé à une membrane externe contenant du LPS."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du lipopolysaccharide des bactéries à Gram négatif, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est un composant essentiel de la membrane externe.",
+        "Il constitue une endotoxine pyrogène.",
+        "Son lipide A est la partie toxique et hydrophobe.",
+        "Son antigène O est utilisé pour le sérogroupage."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le LPS est un composant essentiel de la membrane externe des Gram négatif, endotoxine pyrogène composée notamment du lipide A toxique et de l’antigène O utilisé pour le sérogroupage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la membrane cytoplasmique bactérienne, quelles propositions sont justes ?",
+      "choices": [
+        "Elle est constituée d’une double couche de phospholipides.",
+        "Elle comporte des protéines associées.",
+        "Certaines de ses protéines interviennent dans la synthèse du peptidoglycane.",
+        "Elle se distingue des membranes eucaryotes par la présence constante de stérols."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La membrane cytoplasmique bactérienne est une bicouche phospholipidique avec protéines associées. Certaines participent à la synthèse du peptidoglycane. Elle se distingue par l’absence de stérols."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ADN bactérien et son intérêt médical, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ADN bactérien est généralement un chromosome unique, bicaténaire, circulaire et surenroulé.",
+        "La mise en évidence de gènes peut contribuer à l’identification bactérienne.",
+        "Les quinolones inhibent les topoisomérases.",
+        "Les nitro-imidazolés inhibent l’ARN polymérase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADN bactérien est généralement unique, bicaténaire, circulaire et surenroulé. Les gènes peuvent servir à l’identification. Les quinolones inhibent les topoisomérases, tandis que les nitro-imidazolés fragmentent l’ADN."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des ribosomes bactériens, quelles propositions sont correctes ?",
+      "choices": [
+        "Ils sont le siège de la synthèse protéique.",
+        "Ils sont constitués d’ARN et de protéines.",
+        "Ils comprennent deux sous-unités 30S et 50S.",
+        "Ils sont la cible des nitro-imidazolés par fragmentation de l’ADN."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les ribosomes bactériens assurent la synthèse protéique, sont formés d’ARN et de protéines, et comportent deux sous-unités 30S et 50S. Les nitro-imidazolés ciblent l’ADN."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est absent chez les bactéries ?",
+      "choices": [
+        "Ribosome.",
+        "Membrane cytoplasmique.",
+        "Chromosome bactérien.",
+        "Appareil de Golgi."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Les bactéries possèdent des ribosomes, une membrane cytoplasmique et un chromosome bactérien. L’appareil de Golgi est absent."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle région du lipopolysaccharide correspond à la partie toxique ?",
+      "choices": [
+        "Lipide A.",
+        "Noyau polysaccharidique.",
+        "Antigène O.",
+        "Peptidoglycane."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le lipide A est la partie toxique, hydrophobe, permettant l’ancrage du LPS dans la membrane externe."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule du lipopolysaccharide est utilisée pour le sérogroupage ?",
+      "choices": [
+        "Lipide A.",
+        "Antigène O.",
+        "N-acétylglucosamine.",
+        "Flagelline."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’antigène O est un polysaccharide immunogène spécifique utilisé pour le sérogroupage."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle classe d’antibiotiques inhibe l’ARN polymérase selon le texte ?",
+      "choices": [
+        "Quinolones.",
+        "Rifamycines.",
+        "Aminosides.",
+        "Cyclines."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les rifamycines inhibent l’ARN polymérase. Les quinolones inhibent les topoisomérases, tandis que les aminosides et cyclines ciblent la synthèse protéique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la largeur habituelle approximative des bactéries selon le texte ?",
+      "choices": [
+        "Autour de 0,01 µm.",
+        "Autour de 1 µm.",
+        "Autour de 100 µm.",
+        "Autour de 1 mm."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les bactéries sont généralement de petite taille, autour de 1 µm de large et quelques micromètres de long."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle combinaison contribue à l’identification bactérienne ?",
+      "choices": [
+        "Forme, coloration et groupement.",
+        "Noyau, mitochondries et appareil de Golgi.",
+        "Stérols membranaires, noyau et vacuoles.",
+        "Capside, cytoplasme et métabolisme propre."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La combinaison de la forme, de la coloration et du groupement contribue à l’identification bactérienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les flagellines bactériennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont antigéniques.",
+        "Elles peuvent être utilisées pour le sérotypage.",
+        "Elles constituent une forme de résistance bactérienne.",
+        "Elles peuvent être utilisées pour le sérodiagnostic."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les flagellines sont antigéniques et peuvent servir au sérotypage ou au sérodiagnostic. La forme de résistance décrite est la spore."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la spore bactérienne, quelles propositions sont justes ?",
+      "choices": [
+        "Elle constitue une forme bactérienne de résistance.",
+        "Elle possède plusieurs couches entourant l’ADN.",
+        "Elle favorise principalement l’adhésion aux cathéters.",
+        "Elle permet la survie face aux rayonnements ultraviolets."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La spore est une forme de résistance possédant plusieurs couches autour de l’ADN et permettant la survie face à divers stress, dont les UV. L’adhésion aux cathéters relève du glycocalyx."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels stress environnementaux sont explicitement cités comme pouvant être supportés grâce à la sporulation ?",
+      "choices": [
+        "La chaleur.",
+        "La sécheresse.",
+        "Les désinfectants.",
+        "Les variations de pression osmotique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la chaleur, la sécheresse, les rayonnements ultraviolets et les désinfectants. Les variations de pression osmotique ne sont pas mentionnées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les genres bactériens capables de former des spores selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Bacillus peut former des spores.",
+        "Clostridium peut former des spores.",
+        "Vibrio peut former des spores.",
+        "Haemophilus peut former des spores."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les genres Bacillus et Clostridium sont cités comme pouvant former des spores."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du glycocalyx bactérien, quelles propositions sont correctes ?",
+      "choices": [
+        "Il correspond à un feutrage de fibres polysaccharidiques ou de glycoprotéines.",
+        "Il est situé à la surface de certaines bactéries.",
+        "Il est constitué d’ADN distinct du chromosome bactérien.",
+        "Il favorise la formation de biofilms."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le glycocalyx est un feutrage de fibres polysaccharidiques ou de glycoprotéines à la surface de certaines bactéries et favorise notamment la formation de biofilms."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels rôles du glycocalyx dans l’adhésion bactérienne sont mentionnés ?",
+      "choices": [
+        "Adhésion aux cellules.",
+        "Adhésion aux prothèses.",
+        "Adhésion à la plaque dentaire.",
+        "Adhésion aux spores bactériennes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le glycocalyx favorise l’adhésion aux cellules et aux supports inertes tels que prothèses, plaque dentaire et cathéters. L’adhésion aux spores n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Contre quels agents ou conditions les bactéries du biofilm sont-elles protégées par le glycocalyx ?",
+      "choices": [
+        "La dessiccation.",
+        "Les antiseptiques.",
+        "Les antibiotiques.",
+        "Les rayonnements ultraviolets."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le glycocalyx protège les bactéries du biofilm contre la dessiccation, les antiseptiques, les désinfectants et les antibiotiques. Les UV sont cités pour la spore."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les plasmides bactériens, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des molécules d’ADN distinctes du chromosome bactérien.",
+        "Ils sont capables de réplication autonome.",
+        "Ils sont essentiels à la survie de toute bactérie.",
+        "Ils peuvent être transférés à d’autres bactéries par conjugaison."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les plasmides sont des molécules d’ADN extrachromosomiques capables de réplication autonome, non essentielles à la survie, et transférables par conjugaison."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels types de gènes peuvent être portés par les plasmides selon le texte ?",
+      "choices": [
+        "Gènes de virulence.",
+        "Gènes de toxines.",
+        "Gènes de résistance aux antibiotiques.",
+        "Gènes codant les fausses membranes diphtériques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les plasmides peuvent porter des gènes de virulence, de toxines et de résistance aux antibiotiques. Le texte ne parle pas de gènes codant les fausses membranes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des catégories de bactéries selon leur relation avec l’hôte, quelles propositions sont justes ?",
+      "choices": [
+        "Les bactéries commensales vivent en contact étroit avec l’hôte sans provoquer habituellement de maladie.",
+        "Les bactéries saprophytes vivent indépendamment de l’hôte.",
+        "Les bactéries pathogènes entraînent des infections.",
+        "Les bactéries saprophytes provoquent toujours une infection lorsque l’immunité diminue."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue les bactéries commensales, saprophytes et pathogènes. Les saprophytes vivent indépendamment de l’hôte ; l’infection en cas de défenses diminuées correspond aux pathogènes opportunistes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les types de bactéries pathogènes, quelles propositions sont correctes ?",
+      "choices": [
+        "Les bactéries pathogènes strictes provoquent une maladie quel que soit le terrain.",
+        "Un portage sain reste possible pour certaines bactéries pathogènes strictes.",
+        "Les bactéries pathogènes opportunistes infectent lorsque les défenses de l’hôte sont diminuées.",
+        "Les bactéries pathogènes occasionnelles sont toujours responsables d’infections sévères."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les pathogènes strictes provoquent une maladie quel que soit le terrain, avec portage sain possible. Les opportunistes infectent surtout en cas de diminution des défenses. Les occasionnelles sont habituellement inoffensives, mais certaines souches peuvent devenir pathogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les Vibrio décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des bacilles à Gram négatif fins et incurvés.",
+        "Ils sont généralement isolés et très mobiles grâce à un cil polaire.",
+        "Vibrio cholerae est responsable d’une toxi-infection grave avec diarrhées aqueuses.",
+        "Vibrio parahaemolyticus est associé au cancer gastrique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les Vibrio sont des bacilles à Gram négatif fins, incurvés, généralement isolés, très mobiles par cil polaire. V. cholerae donne le choléra. V. parahaemolyticus donne des troubles digestifs après consommation de fruits de mer."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations bactérie-pathologie sont exactes selon le texte ?",
+      "choices": [
+        "Campylobacter jejuni — gastro-entérite bactérienne humaine.",
+        "Helicobacter pylori — ulcère gastro-duodénal.",
+        "Helicobacter pylori — cancer gastrique.",
+        "Campylobacter jejuni — chancre mou."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Campylobacter jejuni est une cause majeure de gastro-entérite bactérienne humaine et d’intoxication alimentaire. Helicobacter pylori est associé à l’ulcère gastro-duodénal et au cancer gastrique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les infections à Haemophilus, quelles propositions sont justes ?",
+      "choices": [
+        "Haemophilus influenzae peut provoquer des méningites chez l’enfant.",
+        "Haemophilus aegyptius est responsable de conjonctivites.",
+        "Haemophilus ducreyi est responsable de la chancrelle.",
+        "Haemophilus ducreyi donne typiquement une pneumonie grave ou mortelle chez l’homme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "H. influenzae peut causer des infections communautaires graves chez l’enfant, dont la méningite. H. aegyptius cause des conjonctivites. H. ducreyi est responsable de la chancrelle ou chancre mou."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle structure correspond à une forme bactérienne de résistance possédant plusieurs couches entourant l’ADN ?",
+      "choices": [
+        "Le glycocalyx.",
+        "La spore.",
+        "Le plasmide.",
+        "La flagelline."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La spore est décrite comme une forme bactérienne de résistance avec plusieurs couches entourant l’ADN."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent est responsable du choléra selon le texte ?",
+      "choices": [
+        "Vibrio cholerae.",
+        "Vibrio parahaemolyticus.",
+        "Campylobacter jejuni.",
+        "Helicobacter pylori."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Vibrio cholerae est responsable du choléra, toxi-infection grave avec diarrhées aqueuses et déshydratation sévère."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle bactérie est responsable du chancre mou ?",
+      "choices": [
+        "Haemophilus influenzae.",
+        "Haemophilus aegyptius.",
+        "Haemophilus ducreyi.",
+        "Bordetella pertussis."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Haemophilus ducreyi est responsable de la chancrelle ou chancre mou."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle bactérie est responsable de la coqueluche ?",
+      "choices": [
+        "Bordetella pertussis.",
+        "Bordetella parapertussis.",
+        "Bordetella bronchiseptica.",
+        "Legionella pneumophila."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Bordetella pertussis est l’agent de la coqueluche. B. parapertussis et B. bronchiseptica peuvent provoquer des infections respiratoires moins sévères."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent est responsable du charbon ?",
+      "choices": [
+        "Bacillus anthracis.",
+        "Listeria monocytogenes.",
+        "Corynebacterium diphtheriae.",
+        "Clostridium tetani."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Bacillus anthracis est responsable du charbon."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel Clostridium est l’agent des gangrènes gazeuses ?",
+      "choices": [
+        "Clostridium tetani.",
+        "Clostridium botulinum.",
+        "Clostridium perfringens.",
+        "Clostridium difficile."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Clostridium perfringens est cité comme agent des gangrènes gazeuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Neisseria meningitidis, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Il peut être responsable de méningite cérébro-spinale.",
+        "Il peut être impliqué dans des cas sporadiques et des épidémies.",
+        "Il peut provoquer des septicémies avec ou sans purpura.",
+        "Il est responsable de blennorragie et d’ophtalmie du nouveau-né."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Neisseria meningitidis est associé à la méningite cérébro-spinale, aux cas sporadiques, aux épidémies et aux septicémies avec ou sans purpura. La blennorragie et l’ophtalmie du nouveau-né relèvent de Neisseria gonorrhoeae."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de Neisseria gonorrhoeae, quelles manifestations ou caractéristiques sont mentionnées ?",
+      "choices": [
+        "Gonococcie ou blennorragie.",
+        "Ophtalmie du nouveau-né.",
+        "Arthrite purulente.",
+        "Risque accru d’infections concomitantes par d’autres pathogènes génitaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte attribue à Neisseria gonorrhoeae la gonococcie, l’ophtalmie du nouveau-né, l’arthrite purulente, les IST et un risque accru d’infections concomitantes par d’autres pathogènes génitaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les staphylocoques décrits, quelles propositions sont justes ?",
+      "choices": [
+        "Staphylococcus aureus est un staphylocoque à coagulase positive.",
+        "Staphylococcus aureus produit un pigment jaune doré.",
+        "Les staphylocoques à coagulase négative peuvent être des pathogènes opportunistes.",
+        "Staphylococcus aureus est défini dans le texte comme un staphylocoque à coagulase négative."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Staphylococcus aureus est à coagulase positive et producteur d’un pigment jaune doré. Les staphylocoques à coagulase négative sont des pathogènes opportunistes."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les infections aiguës suppuratives pouvant être provoquées par les streptocoques, lesquelles sont citées ?",
+      "choices": [
+        "Angine érythémateuse ou érythémato-pultacée.",
+        "Pharyngite ou amygdalite.",
+        "Otite.",
+        "Scarlatine."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les streptocoques peuvent provoquer des infections aiguës suppuratives incluant angine, pharyngite, amygdalite, otite et scarlatine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les streptocoques selon leur groupe, quelles associations sont correctes ?",
+      "choices": [
+        "Le streptocoque du groupe B peut être impliqué dans des infections néonatales sévères.",
+        "Le streptocoque du groupe D peut être impliqué dans des endocardites et des infections nosocomiales.",
+        "Les streptocoques non groupables appartiennent à la flore buccale et peuvent être impliqués dans des endocardites.",
+        "Les streptocoques non groupables sont spécifiquement décrits comme responsables d’infections urogénitales néonatales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le groupe B est associé notamment aux infections néonatales sévères. Le groupe D est associé aux infections urogénitales, néonatales, septicémies, endocardites et infections nosocomiales. Les non groupables sont liés à la flore buccale, aux infections buccodentaires et aux endocardites."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de Streptococcus pneumoniae, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’un cocci à Gram positif en diplocoques ou courtes chaînettes.",
+        "Il est capsulé.",
+        "Il est commensal des muqueuses oropharyngées.",
+        "Il peut être responsable de pneumonie franche lobaire aiguë et d’otite moyenne aiguë."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le pneumocoque est un cocci à Gram positif, en diplocoques ou courtes chaînettes, capsulé, commensal oropharyngé, pouvant provoquer notamment pneumonies, méningite et otite moyenne aiguë."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les entérocoques, quelles propositions sont justes ?",
+      "choices": [
+        "Ils sont responsables d’infections nosocomiales, notamment sur sonde urinaire.",
+        "Ils peuvent provoquer des infections urinaires et des suppurations digestives.",
+        "Ils peuvent provoquer des bactériémies et des endocardites.",
+        "Ils sont connus dans le texte pour leur sensibilité constante aux glycopeptides, notamment à la vancomycine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les entérocoques sont responsables d’infections nosocomiales, urinaires, suppurations digestives, bactériémies et endocardites. Ils sont connus pour leur résistance aux glycopeptides, notamment la vancomycine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mycobactéries, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des bacilles acido-alcoolo-résistants.",
+        "Leur acido-alcoolo-résistance est liée à la richesse lipidique de leur paroi.",
+        "Elles sont colorables par des colorations spéciales comme Ziehl-Neelsen et l’auramine.",
+        "Elles se classent classiquement en Gram positif ou Gram négatif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les mycobactéries sont acido-alcoolo-résistantes en raison de la richesse lipidique pariétale, nécessitent des colorations spéciales et ne se classent pas en Gram positif ou négatif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les espèces pathogènes de mycobactéries citées, quelles propositions sont correctes ?",
+      "choices": [
+        "Mycobacterium tuberculosis est l’agent de tuberculoses pulmonaires et extrapulmonaires.",
+        "Mycobacterium africanum est responsable de tuberculose, souvent après primo-infection asymptomatique ou avec fièvre et altération de l’état général.",
+        "Mycobacterium leprae est l’agent de la lèpre avec atteinte cutanée et nerveuse.",
+        "Les mycobactéries non tuberculeuses donnent surtout des infections chez les sujets immunocompétents."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les mycobactéries non tuberculeuses sont surtout impliquées chez les sujets immunodéprimés. Les autres associations sont conformes au texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les spirochètes décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Treponema pallidum est l’agent de la syphilis, infection sexuellement transmissible.",
+        "La syphilis primaire peut se manifester par un chancre génital, anal ou buccal.",
+        "Les Borrelia sont transmises par des vecteurs hématophages, notamment poux et tiques.",
+        "Borrelia recurrentis est l’agent typique de la maladie de Lyme avec érythème chronique migrant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Borrelia recurrentis peut provoquer des fièvres récurrentes. La maladie de Lyme est associée à Borrelia burgdorferi, Borrelia garinii et Borrelia afzelii."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la leptospirose humaine, quelles propositions sont justes ?",
+      "choices": [
+        "Leptospira icterohaemorrhagiae est responsable d’une anthropozoonose.",
+        "Le réservoir est constitué par les rongeurs.",
+        "L’évolution classique comporte deux phases séparées par une période d’apyrexie.",
+        "La deuxième phase peut associer ictère hémorragique et recrudescence fébrile."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit la leptospirose comme une anthropozoonose à réservoir rongeur, évoluant classiquement en deux phases séparées par une apyrexie, avec phase d’ictère hémorragique et recrudescence fébrile."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mycoplasmes et les Chlamydia, quelles propositions sont exactes ?",
+      "choices": [
+        "Les mycoplasmes sont des bactéries dépourvues de paroi.",
+        "Mycoplasma pneumoniae est impliqué dans des pneumopathies atypiques.",
+        "Mycoplasma hominis peut être impliqué dans des infections respiratoires et urogénitales.",
+        "Les Chlamydia sont cultivables uniquement sur système cellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les mycoplasmes n’ont pas de paroi. Mycoplasma pneumoniae est associé aux pneumopathies atypiques, Mycoplasma hominis aux infections respiratoires et urogénitales, et les Chlamydia ne se cultivent que sur système cellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rickettsies et bactéries apparentées citées, quelles propositions sont correctes ?",
+      "choices": [
+        "Les rickettsies sont de très petites bactéries cultivables uniquement sur système cellulaire.",
+        "Les rickettsies sont sensibles aux antibiotiques.",
+        "Rickettsia peut provoquer un typhus exanthématique transmis par les poux.",
+        "Ehrlichia peut provoquer une maladie pseudo-grippale avec adénopathies et exanthème."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que les rickettsies sont de très petites bactéries cultivables uniquement sur système cellulaire et sensibles aux antibiotiques. Rickettsia peut donner le typhus exanthématique transmis par les poux, et Ehrlichia une maladie pseudo-grippale avec adénopathies et exanthème."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le transfert génétique bactérien et la conjugaison, quelles propositions sont justes ?",
+      "choices": [
+        "Les principaux mécanismes cités sont la conjugaison, la transformation et la transduction.",
+        "La conjugaison correspond au transfert de matériel génétique entre deux bactéries par l’intermédiaire de plasmides.",
+        "Une bactérie porteuse d’un plasmide conjugatif forme une paire avec une bactérie receveuse grâce à un pilus sexuel.",
+        "La conjugaison correspond au transfert de matériel génétique par un vecteur hématophage."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La conjugaison est un transfert plasmidique entre bactéries, impliquant un plasmide conjugatif et un pilus sexuel. Les vecteurs hématophages sont mentionnés pour les Borrelia, pas pour la conjugaison."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affection est spécifiquement attribuée à Moraxella lacunata selon le texte ?",
+      "choices": [
+        "Conjonctivite bénigne non épidémique.",
+        "Méningite cérébro-spinale épidémique.",
+        "Fièvre Q.",
+        "Pneumonie franche lobaire aiguë."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Moraxella lacunata peut être responsable d’une conjonctivite bénigne non épidémique."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les atteintes suivantes, laquelle peut être provoquée par Branhamella catarrhalis selon le texte ?",
+      "choices": [
+        "Lèpre.",
+        "Sinusite.",
+        "Syphilis congénitale.",
+        "Fièvre des tranchées."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Branhamella catarrhalis peut provoquer des otites, des sinusites et des infections respiratoires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle espèce de Chlamydia est associée à la psittacose, à la pneumonie atypique et à l’encéphalite ?",
+      "choices": [
+        "Chlamydia trachomatis.",
+        "Chlamydia pneumoniae.",
+        "Chlamydia psittaci.",
+        "Coxiella burnetii."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Chlamydia psittaci est associée à la psittacose, à la pneumonie atypique et à l’encéphalite ; il s’agit d’une anthropozoonose touchant surtout les oiseaux."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent est responsable de la fièvre Q selon le texte ?",
+      "choices": [
+        "Coxiella burnetii.",
+        "Borrelia recurrentis.",
+        "Leptospira icterohaemorrhagiae.",
+        "Rochalimaea quintana."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Coxiella burnetii est responsable de la fièvre Q."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel agent est responsable de la fièvre des tranchées selon le texte ?",
+      "choices": [
+        "Ehrlichia.",
+        "Rochalimaea quintana.",
+        "Rickettsia.",
+        "Treponema pallidum."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Rochalimaea quintana est responsable de la fièvre des tranchées."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les bactéries suivantes, laquelle est citée comme impliquée dans des infections urogénitales dans le groupe des mycoplasmes ?",
+      "choices": [
+        "Ureaplasma urealyticum.",
+        "Chlamydia pneumoniae.",
+        "Borrelia afzelii.",
+        "Mycobacterium leprae."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Ureaplasma urealyticum est cité parmi les mycoplasmes impliqués dans les infections urogénitales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transformation bactérienne, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à l’absorption d’ADN libre par une bactérie réceptrice.",
+        "Elle nécessite obligatoirement l’intervention d’un bactériophage.",
+        "L’ADN absorbé peut être intégré par recombinaison génétique.",
+        "Elle peut entraîner l’acquisition de nouveaux caractères transmissibles à la descendance."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La transformation est l’absorption d’ADN libre par une bactérie réceptrice, avec possible intégration par recombinaison et transmission de nouveaux caractères. Le bactériophage intervient dans la transduction, pas dans la transformation."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la transduction bactérienne, quelles propositions sont justes ?",
+      "choices": [
+        "Elle correspond à un transfert partiel d’ADN bactérien.",
+        "Elle se fait par l’intermédiaire d’un bactériophage.",
+        "Toutes les bactéries sont sensibles aux bactériophages.",
+        "La sensibilité aux bactériophages nécessite des récepteurs spécifiques et permet la lysotypie."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La transduction est un transfert partiel d’ADN bactérien via un bactériophage vecteur. Toutes les bactéries ne sont pas sensibles aux bactériophages ; cette sensibilité dépend de récepteurs spécifiques et permet la lysotypie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition des virus, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des éléments acaryotes et non cellulaires.",
+        "Ils possèdent un métabolisme propre leur permettant de se multiplier seuls.",
+        "Ce sont des parasites intracellulaires obligatoires.",
+        "Ils contiennent soit de l’ADN, soit de l’ARN, jamais les deux simultanément."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Les virus sont acaryotes, non cellulaires, dépourvus de métabolisme propre, et ne se multiplient qu’en parasitant une cellule hôte. Ils contiennent un seul type d’acide nucléique : ADN ou ARN."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la structure virale, quelles propositions sont correctes ?",
+      "choices": [
+        "La capside protéique entoure l’acide nucléique viral.",
+        "La nucléocapside correspond à l’ensemble capside et génome.",
+        "Un virus nu possède toujours une nucléocapside entourée d’un péplos.",
+        "L’enveloppe externe virale est aussi appelée péplos."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La nucléocapside est formée par la capside et le génome. Elle peut constituer un virus nu. Le péplos correspond à l’enveloppe externe des virus enveloppés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’enveloppe virale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle dérive des membranes cellulaires lors du bourgeonnement.",
+        "Elle rend le virus plus fragile dans le milieu extérieur.",
+        "Les virus nus résistent généralement mieux dans le milieu extérieur et dans le tube digestif.",
+        "Les virus enveloppés résistent généralement mieux que les virus nus dans le tube digestif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’enveloppe virale dérive des membranes cellulaires lors du bourgeonnement et fragilise le virus dans le milieu extérieur. Les virus nus sont globalement plus résistants, notamment dans le tube digestif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes virales décrites, quelles propositions sont justes ?",
+      "choices": [
+        "Le virion est la forme extracellulaire infectieuse.",
+        "Le provirus est une forme intracellulaire intégrée dans le génome de la cellule hôte.",
+        "Le virion correspond à une forme intégrée dans le génome cellulaire.",
+        "Le provirus correspond à une capside dépourvue de génome."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le virion est la forme extracellulaire infectieuse. Le provirus est la forme intracellulaire intégrée au génome de la cellule hôte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification des virus selon le génome, quelles associations sont exactes ?",
+      "choices": [
+        "Groupe I : virus à ADN double brin, exemple virus de l’herpès.",
+        "Groupe II : virus à ADN simple brin, exemple parvovirus B19.",
+        "Groupe III : virus à ARN double brin, exemple rotavirus.",
+        "Groupe V : virus à ARN simple brin de polarité positive, exemples hépatites A, C et E."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hépatites A, C et E sont citées comme virus à ARN simple brin de polarité positive du groupe IV, et non du groupe V. Le groupe V correspond aux ARN simple brin de polarité négative comme la grippe et Ebola."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des virus à ARN dans la classification présentée, quelles propositions sont correctes ?",
+      "choices": [
+        "Les virus des hépatites A, C et E appartiennent au groupe IV des ARN simple brin de polarité positive.",
+        "Les virus de la grippe et Ebola appartiennent au groupe V des ARN simple brin de polarité négative.",
+        "Le rotavirus appartient au groupe V des ARN simple brin de polarité négative.",
+        "Le VIH est cité comme rétrovirus à ARN simple brin du groupe VI."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le rotavirus est classé dans le groupe III des virus à ARN double brin. Les hépatites A, C et E sont de polarité positive, la grippe et Ebola de polarité négative, et le VIH est un rétrovirus du groupe VI."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les virus à transcription inverse, quelles propositions sont exactes ?",
+      "choices": [
+        "Le groupe VI comprend les rétrovirus à ARN simple brin, avec le VIH comme exemple.",
+        "Le groupe VII comprend des virus à ADN double brin se répliquant via un intermédiaire ARN.",
+        "Le virus de l’hépatite C est cité comme exemple du groupe VII.",
+        "Le virus de l’hépatite B est cité comme exemple de virus du groupe VII."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le groupe VI correspond aux rétrovirus à ARN simple brin comme le VIH. Le groupe VII comprend des virus à ADN double brin se répliquant via un intermédiaire ARN, comme le virus de l’hépatite B. L’hépatite C est classée parmi les virus à ARN simple brin de polarité positive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les virus à ADN enveloppés ou non enveloppés, quelles associations sont correctes ?",
+      "choices": [
+        "Herpes simplex virus 1 et 2 : virus à ADN enveloppés.",
+        "Cytomégalovirus et virus Epstein-Barr : virus à ADN enveloppés.",
+        "Adénovirus et papillomavirus : virus à ADN non enveloppés.",
+        "Parvovirus : virus à ADN enveloppé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les Herpes simplex virus, le cytomégalovirus et le virus Epstein-Barr sont des virus à ADN enveloppés. Les adénovirus, papillomavirus, polyomavirus et parvovirus sont des virus à ADN non enveloppés."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des virus à ARN enveloppés ou non enveloppés, quelles propositions sont justes ?",
+      "choices": [
+        "Les virus influenza A, B et C sont des virus à ARN enveloppés.",
+        "Le virus respiratoire syncytial et le coronavirus sont des virus à ARN enveloppés.",
+        "Les virus des hépatites A et E sont des virus à ARN non enveloppés.",
+        "Le rhinovirus est classé parmi les virus à ARN enveloppés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les virus influenza, le virus respiratoire syncytial et les coronavirus sont à ARN enveloppés. Les hépatites A et E ainsi que le rhinovirus sont classés parmi les virus à ARN non enveloppés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les taux de mutation des virus à ARN, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils présentent des taux de mutation élevés.",
+        "Leur réplication est plus sujette aux erreurs.",
+        "Ils ne disposent pas des systèmes de correction associés aux ADN polymérases.",
+        "Leur taux de mutation élevé s’explique par la présence simultanée d’ADN et d’ARN."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les virus à ARN mutent fréquemment car leur réplication est plus sujette aux erreurs et ne bénéficie pas des systèmes de correction associés aux ADN polymérases. Les virus ne contiennent jamais ADN et ARN simultanément."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la multiplication virale, quelles propositions sont correctes ?",
+      "choices": [
+        "La cellule infectée fournit la matière première, l’énergie et les enzymes nécessaires.",
+        "La stratégie de multiplication dépend de la nature ADN ou ARN du génome.",
+        "La stratégie dépend aussi du caractère bicaténaire ou monocaténaire, segmenté ou non, circulaire ou linéaire.",
+        "Le virus possède toutes les enzymes et sources d’énergie nécessaires à sa multiplication autonome."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le virus ne possède que son génome pour se multiplier. Il dépend de la cellule infectée pour la matière première, l’énergie et les enzymes. La stratégie de multiplication dépend des caractéristiques du génome viral."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les organites et fonctions des protozoaires, quelles associations sont exactes ?",
+      "choices": [
+        "Locomotion : flagelles, cils et pseudopodes.",
+        "Soutien : fibres et microtubules.",
+        "Digestion : vacuoles digestives.",
+        "Défense : ribosomes et appareil de Golgi."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez les protozoaires, la locomotion peut être assurée par flagelles, cils ou pseudopodes ; le soutien par fibres et microtubules ; la digestion par vacuoles digestives. Les structures de défense citées sont les trichocystes et toxicystes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la taille habituelle générale des virus selon le texte ?",
+      "choices": [
+        "1 à 700 µm.",
+        "20 à 200 nm.",
+        "Plusieurs millimètres pour la majorité des virus.",
+        "0,5 à 5 µm."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La taille des virus varie généralement de 20 à 200 nm."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel virus est cité comme exemple du groupe I, correspondant aux virus à ADN double brin ?",
+      "choices": [
+        "Virus de l’herpès.",
+        "Parvovirus B19.",
+        "Rotavirus.",
+        "VIH."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le groupe I correspond aux virus à ADN double brin, avec le virus de l’herpès comme exemple."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le cycle de réplication du VIH, quelle enzyme permet l’intégration de l’ADN viral dans le génome cellulaire ?",
+      "choices": [
+        "Transcriptase inverse.",
+        "Intégrase.",
+        "Protéase.",
+        "Récepteur CD4."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’intégration de l’ADN viral dans le génome cellulaire est assurée par l’intégrase."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le cycle du VIH, quel couple intervient dans la reconnaissance initiale de la cellule cible ?",
+      "choices": [
+        "CD4 et CCR5.",
+        "Capside et nucléocapside.",
+        "Protéase et intégrase.",
+        "ADN viral et intermédiaire ARN."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le VIH reconnaît la cellule cible via le récepteur CD4 et le corécepteur CCR5."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la taille généralement décrite pour les protozoaires ?",
+      "choices": [
+        "20 à 200 nm.",
+        "1 à 700 µm.",
+        "Uniquement plusieurs millimètres.",
+        "Inférieure à 20 nm."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les protozoaires mesurent généralement de 1 à 700 µm, même si certaines amibes peuvent atteindre plusieurs millimètres."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel protozoaire est transmis par la mouche tsé-tsé et responsable de la maladie du sommeil ?",
+      "choices": [
+        "Trichomonas vaginalis.",
+        "Trypanosoma brucei.",
+        "Rotavirus.",
+        "Virus Ebola."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Trypanosoma brucei est transmis par la mouche tsé-tsé et est responsable de la maladie du sommeil, infection sanguine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les ciliés décrits dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils possèdent de nombreux cils permettant leur déplacement.",
+        "Ils peuvent se reproduire par scissiparité.",
+        "Ils peuvent avoir une reproduction sexuée.",
+        "Ils ne possèdent ni cils, ni flagelles, ni pseudopodes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les ciliés se déplacent grâce à de nombreux cils et se reproduisent par scissiparité ou reproduction sexuée. L’absence de cils, flagelles et pseudopodes caractérise les sporozoaires."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des sporozoaires ou apicomplexés, quelles propositions sont justes ?",
+      "choices": [
+        "Ils ne possèdent ni cils, ni flagelles, ni pseudopodes.",
+        "Ils forment des spores.",
+        "Leur cycle peut comporter des stades chez différents hôtes.",
+        "Ils se reproduisent uniquement par bourgeonnement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les sporozoaires n’ont pas d’organites locomoteurs de type cils, flagelles ou pseudopodes, forment des spores et ont souvent un cycle complexe avec différents hôtes. Le bourgeonnement concerne surtout les levures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Plasmodium selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est transmis par l’anophèle.",
+        "Il parasite les globules rouges.",
+        "Il provoque le paludisme.",
+        "Il est classé parmi les ciliés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Plasmodium est un sporozoaire transmis par l’anophèle, parasite les globules rouges et provoque le paludisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rhizopodes, quelles propositions sont correctes ?",
+      "choices": [
+        "Ils se déplacent grâce à des pseudopodes.",
+        "Les pseudopodes peuvent servir à capturer les proies.",
+        "Ils ne possèdent ni cils ni flagelles.",
+        "Ils sont toujours strictement non pathogènes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les rhizopodes utilisent des pseudopodes pour se déplacer et capturer les proies. Ils n’ont ni cils ni flagelles. Certaines amibes peuvent être pathogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos d’Entamoeba histolytica, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est localisée dans l’intestin humain.",
+        "Elle peut être responsable d’une dysenterie amibienne grave.",
+        "L’infection qu’elle provoque peut parfois être fatale.",
+        "Elle est transmise par l’anophèle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Entamoeba histolytica est une amibe intestinale humaine responsable d’une dysenterie amibienne grave, parfois fatale. La transmission par l’anophèle concerne Plasmodium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la reproduction des protozoaires parasites unicellulaires, quelles propositions sont justes ?",
+      "choices": [
+        "Ils peuvent se multiplier par scissiparité.",
+        "Ils peuvent présenter une reproduction sexuée.",
+        "Le texte cite deux modalités de multiplication.",
+        "Ils se multiplient exclusivement par bourgeonnement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne la scissiparité et la reproduction sexuée comme modalités de multiplication des parasites unicellulaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition des champignons microscopiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des micro-organismes eucaryotes.",
+        "Leur structure est proche de celle d’une cellule animale.",
+        "Ils possèdent notamment un noyau et des organites.",
+        "Ils sont dépourvus de membrane plasmique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les micromycètes sont eucaryotes, avec membrane plasmique, noyau, cytoplasme et organites, ce qui rapproche leur structure de celle d’une cellule animale."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des caractères généraux des micromycètes, quelles propositions sont correctes ?",
+      "choices": [
+        "La plupart possèdent une paroi de chitine.",
+        "Ils peuvent tolérer des pH acides.",
+        "Ils peuvent tolérer certaines températures élevées.",
+        "Ils se répartissent uniquement en sporozoaires et rhizopodes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les champignons microscopiques possèdent le plus souvent une paroi de chitine et peuvent tolérer des pH acides ainsi que certaines températures élevées. Ils se répartissent en moisissures et levures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les moisissures, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont formées de longs filaments fins et ramifiés appelés hyphes.",
+        "L’ensemble des hyphes constitue un mycélium.",
+        "Chaque hyphe possède notamment membrane plasmique, noyau, cytoplasme et organites.",
+        "Elles sont toujours des cellules isolées ovales ou sphériques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les moisissures sont constituées d’hyphes, dont l’ensemble forme le mycélium. Chaque hyphe contient les structures cellulaires eucaryotes citées. La forme ovale ou sphérique unicellulaire correspond aux levures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la teigne tondante décrite dans le texte, quelles propositions sont justes ?",
+      "choices": [
+        "C’est une infection du cuir chevelu.",
+        "Elle peut être causée par Trichophyton.",
+        "Elle peut être causée par Microsporum.",
+        "Elle se manifeste uniquement par une atteinte des globules rouges."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La teigne tondante est une infection du cuir chevelu causée par Trichophyton ou Microsporum, entraînant alopécie, inflammation et desquamation."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’aspergillose selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est causée par des champignons du genre Aspergillus.",
+        "Les spores responsables peuvent être véhiculées par l’air.",
+        "Les spores peuvent être inhalées.",
+        "Elle est majoritairement attribuée à Candida albicans."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’aspergillose est due à des Aspergillus dont les spores sont véhiculées par l’air et inhalées. Candida albicans est une levure responsable de candidose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certaines espèces d’Aspergillus citées, quelles propositions sont correctes ?",
+      "choices": [
+        "Aspergillus fumigatus est responsable de la majorité des aspergilloses humaines.",
+        "Aspergillus flavus peut produire des mycotoxines dangereuses.",
+        "Certaines moisissures peuvent produire des mycotoxines.",
+        "Aspergillus flavus est décrit comme l’agent du paludisme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise qu’Aspergillus fumigatus est responsable de la majorité des aspergilloses humaines et qu’Aspergillus flavus peut produire des mycotoxines dangereuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les levures, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des champignons unicellulaires.",
+        "Elles peuvent être ovales ou sphériques.",
+        "Leur reproduction asexuée se fait le plus souvent par bourgeonnement.",
+        "Elles sont dépourvues de structure eucaryote."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les levures sont des champignons unicellulaires ovales ou sphériques, de structure eucaryote, dont la reproduction asexuée se fait le plus souvent par bourgeonnement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Candida albicans, quelles propositions sont justes ?",
+      "choices": [
+        "C’est une levure commensale.",
+        "Elle peut être présente dans la bouche.",
+        "Elle peut être présente dans la flore vaginale.",
+        "Elle reste toujours non pathogène même en cas d’affaiblissement de l’organisme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Candida albicans est une levure commensale présente notamment dans la bouche et la flore vaginale. Elle peut devenir pathogène en cas d’affaiblissement de l’organisme."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel protozoaire est cité comme responsable de la balantidiose ?",
+      "choices": [
+        "Balantidium coli",
+        "Plasmodium",
+        "Entamoeba histolytica",
+        "Candida albicans"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Balantidium coli est l’exemple de cilié cité comme responsable de la balantidiose."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel groupe de protozoaires ne possède ni cils, ni flagelles, ni pseudopodes ?",
+      "choices": [
+        "Ciliés",
+        "Sporozoaires ou apicomplexés",
+        "Rhizopodes",
+        "Levures"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les sporozoaires ou apicomplexés ne possèdent ni cils, ni flagelles, ni pseudopodes."
+    },
+    {
+      "type": "QCS",
+      "question": "Comment appelle-t-on l’ensemble des hyphes d’une moisissure ?",
+      "choices": [
+        "Mycélium",
+        "Spore",
+        "Pseudopode",
+        "Glycocalyx"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’ensemble des hyphes forme le mycélium."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel constituant forme la paroi de la plupart des champignons microscopiques ?",
+      "choices": [
+        "Peptidoglycane",
+        "Chitine",
+        "Lipopolysaccharide",
+        "Flagelline"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La plupart des champignons microscopiques possèdent une paroi de chitine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le mode le plus fréquent de reproduction asexuée des levures selon le texte ?",
+      "choices": [
+        "Scissiparité",
+        "Sporulation",
+        "Bourgeonnement",
+        "Conjugaison"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La reproduction asexuée des levures se fait le plus souvent par bourgeonnement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme caractérise l’action des prions selon le texte ?",
+      "choices": [
+        "Transformation de protéines normales en protéines anormales par changement de conformation",
+        "Parasitisme des globules rouges après transmission par l’anophèle",
+        "Formation d’un mycélium à partir d’hyphes ramifiés",
+        "Bourgeonnement d’une cellule ovale ou sphérique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La protéine prion anormale induit le changement de conformation de protéines normales, les transformant en protéines anormales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la capsule bactérienne, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un élément superficiel facultatif.",
+        "Elle est le plus souvent polysaccharidique.",
+        "Elle constitue un facteur de virulence par résistance à la phagocytose.",
+        "Elle est un élément constant indispensable à toutes les bactéries."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La capsule est facultative, superficielle, le plus souvent polysaccharidique, et favorise la virulence en s’opposant à la phagocytose."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des pili bactériens, quelles propositions sont justes ?",
+      "choices": [
+        "Les pili communs contiennent des protéines d’adhésion.",
+        "Les pili communs permettent l’attachement aux tissus.",
+        "Les pili sexuels interviennent dans le transfert de matériel génétique entre bactéries.",
+        "Les pili assurent la mobilité bactérienne par des flagellines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les pili communs interviennent dans l’adhésion, tandis que les pili sexuels participent au transfert génétique. La mobilité par flagellines relève du flagelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le cytoplasme bactérien, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est aqueux.",
+        "Il contient des ARN.",
+        "Il contient des protéines.",
+        "Il contient un vrai noyau délimité par une membrane."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cytoplasme bactérien est aqueux et contient notamment des ARN, des protéines et des structures fonctionnelles, mais pas de vrai noyau."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du chromosome bactérien décrit dans le texte, quelles propositions sont correctes ?",
+      "choices": [
+        "Il est généralement unique.",
+        "Il est habituellement bicaténaire.",
+        "Il est généralement circulaire et surenroulé.",
+        "Il est localisé dans un noyau individualisé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADN bactérien est en général un chromosome unique, bicaténaire, circulaire, surenroulé et localisé dans le cytoplasme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’intérêt médical de l’ADN bactérien, quelles propositions sont exactes ?",
+      "choices": [
+        "La mise en évidence de gènes peut servir à l’identification bactérienne.",
+        "La comparaison des génomes de souches peut être utilisée en épidémiologie.",
+        "Les quinolones agissent par inhibition des topoisomérases.",
+        "Les nitro-imidazolés agissent par inhibition de la synthèse du peptidoglycane."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADN bactérien permet l’identification et l’épidémiologie moléculaire. Les quinolones inhibent les topoisomérases ; les nitro-imidazolés fragmentent l’ADN."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractères utilisés dans la classification bactérienne, quelles associations sont exactes ?",
+      "choices": [
+        "Caractères antigéniques : sérotypes.",
+        "Caractères pathogéniques : pathotypes.",
+        "Caractères enzymatiques : zymotypes.",
+        "Sensibilité aux bactériophages : antibiotypes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les sérotypes sont antigéniques, les pathotypes pathogéniques, les zymotypes enzymatiques. La sensibilité aux bactériophages définit les lysotypes."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les méthodes moléculaires de classification ou d’étude bactérienne citées, lesquelles sont exactes ?",
+      "choices": [
+        "Ribotypie.",
+        "Hybridation ADN-ADN.",
+        "Hybridation ADN-ARN.",
+        "Coloration à l’encre de Chine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les méthodes moléculaires citées comprennent la ribotypie, l’hybridation ADN-ADN, l’hybridation ADN-ARN et le séquençage de l’ARN ribosomique 16S."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la taille des bactéries, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elles mesurent généralement autour de 1 µm de large.",
+        "Elles ont souvent quelques micromètres de long.",
+        "Certaines peuvent mesurer 0,1 à 0,2 µm.",
+        "Aucune bactérie ne peut dépasser 10 µm."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La taille habituelle est d’environ 1 µm de large et quelques micromètres de long, avec des formes très petites et d’autres pouvant dépasser 10 µm."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les modes de groupement bactérien cités, lesquels sont exacts ?",
+      "choices": [
+        "Groupement par deux, réalisant des diplocoques.",
+        "Groupement en tétrades.",
+        "Groupement en chaînettes.",
+        "Groupement en syncytium plurinucléé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les bactéries peuvent être isolées, groupées par deux, en amas, en tétrades, en chaînettes ou en palissades. Le syncytium n’est pas cité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le peptidoglycane bactérien, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est aussi appelé muréine.",
+        "Il est aussi appelé mucopeptide.",
+        "Il comporte des chaînes polysaccharidiques reliées par des chaînons peptidiques.",
+        "Il est constitué exclusivement de lipides membranaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le peptidoglycane, ou muréine/mucopeptide, est formé de chaînes polysaccharidiques reliées par des chaînons peptidiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation pariétale des bactéries à Gram négatif, quelles propositions sont exactes ?",
+      "choices": [
+        "Le peptidoglycane y est plus fin que chez les Gram positif.",
+        "Il est associé à une membrane externe.",
+        "La membrane externe contient du lipopolysaccharide.",
+        "Le lipopolysaccharide est un constituant de la membrane cytoplasmique interne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez les Gram négatif, le peptidoglycane est fin et associé à une membrane externe contenant le lipopolysaccharide."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les antibiotiques cités comme perturbant la synthèse protéique bactérienne, lesquels sont exacts ?",
+      "choices": [
+        "Aminosides.",
+        "Cyclines.",
+        "Macrolides.",
+        "Quinolones."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les aminosides, cyclines, phénicolés, macrolides et l’acide fusidique perturbent la synthèse protéique. Les quinolones ciblent les topoisomérases."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la membrane cytoplasmique bactérienne, quelles propositions sont justes ?",
+      "choices": [
+        "Elle est constituée d’une double couche de phospholipides.",
+        "Elle comporte des protéines associées.",
+        "Certaines protéines participent à la synthèse du peptidoglycane.",
+        "Elle se caractérise par une richesse constante en stérols."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La membrane cytoplasmique bactérienne est une bicouche phospholipidique avec protéines associées ; elle se distingue des membranes eucaryotes par l’absence de stérols."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer procaryotes, eucaryotes et virus, quelles propositions sont exactes ?",
+      "choices": [
+        "Les procaryotes ne possèdent pas de noyau ni d’organites.",
+        "Les bactéries sont des procaryotes.",
+        "Les champignons microscopiques et les protozoaires sont des eucaryotes.",
+        "Les virus possèdent un cytoplasme et un métabolisme propre."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les bactéries sont procaryotes, les micromycètes et protozoaires sont eucaryotes. Les virus sont acaryotes, sans cytoplasme ni métabolisme propre."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément bactérien constitue la base de certains vaccins faits de polymères purifiés ?",
+      "choices": [
+        "Capsule.",
+        "Flagelle.",
+        "Ribosome.",
+        "Chromosome bactérien."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Certains vaccins sont constitués de polymères capsulaires purifiés."
+    },
+    {
+      "type": "QCS",
+      "question": "Comment appelle-t-on la classification bactérienne fondée sur la sensibilité aux antibiotiques ?",
+      "choices": [
+        "Sérotype.",
+        "Pathotype.",
+        "Antibiotype.",
+        "Lysotype."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La sensibilité aux antibiotiques définit les antibiotypes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément bactérien est constitué de protéines appelées flagellines ?",
+      "choices": [
+        "Capsule.",
+        "Flagelle.",
+        "Pili sexuel.",
+        "Peptidoglycane."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le flagelle est constitué de protéines appelées flagellines et assure la mobilité de certaines bactéries."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle classe d’antibiotiques inhibe les topoisomérases bactériennes selon le texte ?",
+      "choices": [
+        "Macrolides.",
+        "Quinolones.",
+        "Phénicolés.",
+        "Rifamycines."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les quinolones ciblent l’ADN bactérien par inhibition des topoisomérases."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelles sont les deux sous-unités des ribosomes bactériens citées dans le texte ?",
+      "choices": [
+        "20S et 40S.",
+        "30S et 50S.",
+        "40S et 60S.",
+        "50S et 80S."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les ribosomes bactériens comprennent deux sous-unités : 30S et 50S."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel constituant du lipopolysaccharide permet son ancrage dans la membrane externe ?",
+      "choices": [
+        "Antigène O.",
+        "Noyau polysaccharidique.",
+        "Lipide A.",
+        "Acide N-acétylmuramique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le lipide A est hydrophobe, toxique, et permet l’ancrage du lipopolysaccharide dans la membrane externe."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les entérobactéries décrites dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles constituent une famille d’importance médicale majeure.",
+        "Plusieurs espèces sont commensales du tube digestif de l’homme et de l’animal.",
+        "Elles peuvent être responsables de nombreuses infections.",
+        "Elles sont décrites comme des bacilles à Gram positif anaérobies sporulés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les entérobactéries sont une famille majeure, avec plusieurs espèces commensales digestives, pouvant causer de nombreuses infections. Le caractère Gram positif anaérobie sporulé correspond aux Clostridium, pas aux entérobactéries."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de Campylobacter jejuni selon le texte, quelles propositions sont justes ?",
+      "choices": [
+        "Il est une cause majeure de gastro-entérite bactérienne humaine.",
+        "Il peut être impliqué dans une intoxication alimentaire.",
+        "Il est cité parmi les bacilles à Gram négatif aérobies ou microaérophiles.",
+        "Il est associé à l’ulcère gastro-duodénal et au cancer gastrique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Campylobacter jejuni est présenté comme une cause majeure de gastro-entérite bactérienne humaine et d’intoxication alimentaire, dans le groupe des bacilles à Gram négatif aérobies ou microaérophiles. L’ulcère gastro-duodénal et le cancer gastrique sont associés à Helicobacter pylori."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Vibrio parahaemolyticus et le genre Vibrio, quelles propositions sont exactes ?",
+      "choices": [
+        "Vibrio parahaemolyticus est responsable de troubles digestifs après consommation de fruits de mer.",
+        "Les Vibrio sont des bacilles à Gram négatif fins et incurvés.",
+        "Les Vibrio sont généralement isolés et très mobiles grâce à un cil polaire.",
+        "Vibrio parahaemolyticus est l’agent du choléra."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Vibrio parahaemolyticus donne des troubles digestifs après consommation de fruits de mer. Les Vibrio sont des bacilles à Gram négatif fins, incurvés, généralement isolés et mobiles par cil polaire. Le choléra est dû à Vibrio cholerae."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Pseudomonas aeruginosa selon le texte, quelles propositions sont correctes ?",
+      "choices": [
+        "C’est un pathogène opportuniste.",
+        "Il peut provoquer des otites.",
+        "Il peut être responsable d’infections nosocomiales graves.",
+        "Il présente une grande résistance à de nombreux antiseptiques et antibiotiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Pseudomonas aeruginosa est décrit comme un pathogène opportuniste pouvant provoquer des otites et des infections nosocomiales graves, avec une grande résistance à de nombreux antiseptiques et antibiotiques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la brucellose et de son mode de transmission, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une anthropozoonose.",
+        "Elle peut être transmise par les bovins, caprins, ovins ou porcins.",
+        "Les vétérinaires, bergers et personnels d’abattoirs font partie des personnes à risque.",
+        "Elle est liée à une bactérie à tropisme hydrique présente dans les milieux humides."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La brucellose est une anthropozoonose transmise par les bovins, caprins, ovins ou porcins. Les vétérinaires, bergers, personnels d’abattoirs et de laboratoires de bactériologie sont à risque. Le tropisme hydrique concerne Legionella pneumophila."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles manifestations de la brucellose sont mentionnées dans le texte ?",
+      "choices": [
+        "Fièvre sudoro-algique.",
+        "Fièvre prolongée.",
+        "Douleurs.",
+        "Atteinte systémique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme manifestations de la brucellose : fièvre sudoro-algique, fièvre prolongée, douleurs et atteinte systémique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les Bordetella citées, quelles propositions sont exactes ?",
+      "choices": [
+        "Bordetella pertussis est responsable de la coqueluche.",
+        "Bordetella parapertussis peut provoquer des infections respiratoires moins sévères.",
+        "Bordetella bronchiseptica peut provoquer des infections respiratoires moins sévères.",
+        "Les Bordetella citées sont responsables de troubles digestifs après consommation de fruits de mer."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Bordetella pertussis cause la coqueluche. Bordetella parapertussis et Bordetella bronchiseptica peuvent donner des infections respiratoires moins sévères. Les troubles digestifs après fruits de mer sont attribués à Vibrio parahaemolyticus."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de Bacteroides fragilis selon le texte, quelles propositions sont justes ?",
+      "choices": [
+        "C’est un bacille à Gram négatif anaérobie.",
+        "Il est hôte des cavités naturelles, notamment digestives et urogénitales.",
+        "Il est responsable d’infections d’origine endogène.",
+        "Il est naturellement multirésistant aux antibiotiques et responsable d’épidémies en réanimation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Bacteroides fragilis est un bacille à Gram négatif anaérobie, hôte des cavités naturelles digestives et urogénitales, responsable d’infections endogènes. La multirésistance naturelle avec épidémies en réanimation concerne Acinetobacter baumannii."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la diphtérie due à Corynebacterium diphtheriae, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut se manifester par une angine sévère à fausses membranes.",
+        "Elle peut s’accompagner d’un cou proconsulaire.",
+        "Elle comporte un risque d’asphyxie mortelle.",
+        "Elle est décrite comme une intoxication alimentaire grave."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diphtérie est associée à une angine sévère à fausses membranes, un cou proconsulaire et un risque d’asphyxie mortelle. L’intoxication alimentaire grave correspond au botulisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement et la prévention de la diphtérie selon le texte, quelles propositions sont correctes ?",
+      "choices": [
+        "Le sérum antidiphtérique est cité comme traitement.",
+        "La vaccination antidiphtérique est citée comme prévention.",
+        "Les aliments contaminés constituent la prévention indiquée.",
+        "La vaccination antidiphtérique est citée comme traitement curatif."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne le sérum antidiphtérique comme traitement et la vaccination antidiphtérique comme prévention."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de Listeria monocytogenes, quelles propositions sont justes ?",
+      "choices": [
+        "C’est une bactérie saprophyte largement répandue dans la nature.",
+        "Elle est responsable de la listériose.",
+        "La listériose est souvent d’origine digestive.",
+        "Elle est décrite comme un coccobacille à Gram négatif naturellement multirésistant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Listeria monocytogenes est une bactérie saprophyte largement répandue, responsable de la listériose, souvent d’origine digestive. Le coccobacille à Gram négatif naturellement multirésistant est Acinetobacter baumannii."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les complications attribuées à la listériose dans le texte, lesquelles sont exactes ?",
+      "choices": [
+        "Septicémie.",
+        "Infection foeto-placentaire.",
+        "Avortements répétés.",
+        "Méningo-encéphalite."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les complications citées de la listériose sont la septicémie, l’infection foeto-placentaire, les avortements répétés et la méningo-encéphalite."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les aliments impliqués dans la contamination par Listeria monocytogenes, quelles propositions sont exactes ?",
+      "choices": [
+        "Charcuteries.",
+        "Pâtés et rillettes.",
+        "Fromages au lait cru.",
+        "Poissons fumés."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme sources de contamination : aliments contaminés, charcuteries, pâtés, rillettes, fromages au lait cru et poissons fumés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Bacillus anthracis selon le texte, quelles manifestations sont mentionnées ?",
+      "choices": [
+        "Charbon cutané.",
+        "Septicémie chez les ovins.",
+        "Pneumonie grave ou mortelle chez l’homme.",
+        "Avortements répétés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Bacillus anthracis est associé au charbon cutané, à la septicémie chez les ovins et à une pneumonie grave ou mortelle chez l’homme. Les avortements répétés sont cités parmi les complications de la listériose."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle bactérie est associée à l’ulcère gastro-duodénal et au cancer gastrique selon le texte ?",
+      "choices": [
+        "Campylobacter jejuni.",
+        "Helicobacter pylori.",
+        "Vibrio cholerae.",
+        "Bacteroides fragilis."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Helicobacter pylori est associé à l’ulcère gastro-duodénal et au cancer gastrique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle bactérie est décrite comme un coccobacille à Gram négatif naturellement multirésistant aux antibiotiques, responsable d’infections nosocomiales et d’épidémies en réanimation ?",
+      "choices": [
+        "Acinetobacter baumannii.",
+        "Pseudomonas aeruginosa.",
+        "Brucella spp.",
+        "Bacteroides fragilis."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Acinetobacter baumannii est décrit comme un coccobacille à Gram négatif naturellement multirésistant, responsable d’infections nosocomiales, notamment d’épidémies en réanimation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle bactérie à Gram négatif intracellulaire facultative, à tropisme hydrique, est responsable de la légionellose ?",
+      "choices": [
+        "Legionella pneumophila.",
+        "Listeria monocytogenes.",
+        "Bordetella bronchiseptica.",
+        "Haemophilus ducreyi."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Legionella pneumophila est une bactérie à Gram négatif intracellulaire facultative, à tropisme hydrique, présente dans les milieux humides, responsable de la légionellose."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle espèce d’Haemophilus est responsable de conjonctivites selon le texte ?",
+      "choices": [
+        "Haemophilus influenzae.",
+        "Haemophilus aegyptius.",
+        "Haemophilus ducreyi.",
+        "Haemophilus parainfluenzae."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Haemophilus aegyptius est cité comme responsable de conjonctivites."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel Clostridium est l’agent du tétanos, toxi-infection potentiellement mortelle ?",
+      "choices": [
+        "Clostridium tetani.",
+        "Clostridium botulinum.",
+        "Clostridium perfringens.",
+        "Clostridium difficile."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Clostridium tetani est l’agent du tétanos, décrit comme une toxi-infection potentiellement mortelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel Clostridium est responsable du botulisme, intoxication alimentaire grave ?",
+      "choices": [
+        "Clostridium perfringens.",
+        "Clostridium tetani.",
+        "Clostridium botulinum.",
+        "Clostridium difficile."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Clostridium botulinum est l’agent du botulisme, présenté comme une intoxication alimentaire grave."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les atteintes néonatales ou du nouveau-né explicitement mentionnées, quelles propositions sont exactes ?",
+      "choices": [
+        "Neisseria gonorrhoeae peut provoquer une ophtalmie du nouveau-né.",
+        "Les staphylocoques à coagulase négative peuvent provoquer des infections néonatales.",
+        "Le streptocoque du groupe B peut provoquer des infections néonatales sévères.",
+        "Le streptocoque du groupe D peut provoquer des infections néonatales."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces quatre situations néonatales ou du nouveau-né."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bactéries ou groupes bactériens associés à une endocardite dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les staphylocoques à coagulase négative peuvent être responsables d’endocardites.",
+        "Le streptocoque du groupe D peut être responsable d’endocardites.",
+        "Les streptocoques non groupables peuvent être responsables d’endocardites.",
+        "Les entérocoques peuvent être responsables d’endocardites."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre groupes sont explicitement cités comme pouvant donner des endocardites."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les agents ou groupes suivants, lesquels sont explicitement liés à des infections nosocomiales dans le texte ?",
+      "choices": [
+        "Les staphylocoques à coagulase négative.",
+        "Le streptocoque du groupe D.",
+        "Les entérocoques, notamment sur sonde urinaire.",
+        "Treponema pallidum."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les staphylocoques à coagulase négative, le streptocoque du groupe D et les entérocoques sont associés à des infections nosocomiales ; Treponema pallidum est décrit comme agent de la syphilis."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions morphologiques ou structurales sont conformes au texte ?",
+      "choices": [
+        "Les streptocoques sont des cocci à Gram positif groupés en chaînettes.",
+        "Streptococcus pneumoniae est un cocci à Gram positif capsulé, en diplocoques ou courtes chaînettes.",
+        "Les mycoplasmes sont dépourvus de paroi.",
+        "Les mycobactéries ne se classent pas en Gram positif ou Gram négatif."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre caractéristiques sont explicitement mentionnées."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les infections suivantes, lesquelles sont citées comme possibles avec Streptococcus pneumoniae ?",
+      "choices": [
+        "Pneumonie communautaire.",
+        "Pleurésie.",
+        "Bactériémie et méningite.",
+        "Sinusite."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le pneumocoque est associé à pneumonie communautaire, pleurésie, bactériémie, méningite, otite moyenne aiguë, broncho-pneumonie et pneumonie franche lobaire aiguë ; la sinusite n’est pas citée pour lui dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractères biologiques des mycobactéries, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont acido-alcoolo-résistantes.",
+        "Leur acido-alcoolo-résistance est liée à la richesse lipidique de leur paroi.",
+        "Elles peuvent être colorées par Ziehl-Neelsen ou par l’auramine.",
+        "Elles ont une croissance lente."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit les mycobactéries comme BAAR, à paroi riche en lipides, colorables par Ziehl-Neelsen ou auramine, et à croissance lente."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations espèce mycobactérienne–manifestation sont exactes selon le texte ?",
+      "choices": [
+        "Mycobacterium tuberculosis : tuberculoses pulmonaires et extrapulmonaires.",
+        "Mycobacterium africanum : tuberculose, souvent après primo-infection asymptomatique ou avec fièvre et altération de l’état général.",
+        "Mycobacterium leprae : lèpre avec atteinte cutanée et nerveuse.",
+        "Mycobactéries non tuberculeuses : infections surtout chez les sujets immunodéprimés."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces associations sont directement rapportées dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de Treponema pallidum et de la syphilis, quelles propositions sont exactes ?",
+      "choices": [
+        "Treponema pallidum est l’agent d’une infection sexuellement transmissible.",
+        "La syphilis primaire peut comporter un chancre génital, anal ou buccal.",
+        "Le texte cite des formes secondaire, tertiaire et congénitale.",
+        "Le traitement mentionné est la pénicilline G."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte présente Treponema pallidum comme agent de la syphilis, en détaille les formes et cite la pénicilline G comme traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les Borrelia, quelles propositions sont exactes ?",
+      "choices": [
+        "Les borrélioses sont transmises par des vecteurs hématophages, notamment les poux et les tiques.",
+        "Borrelia burgdorferi, Borrelia garinii et Borrelia afzelii sont associées à la maladie de Lyme.",
+        "La maladie de Lyme est notamment caractérisée par un érythème chronique migrant.",
+        "Borrelia recurrentis est responsable de la fièvre Q."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Borrelia recurrentis peut provoquer des fièvres récurrentes ; la fièvre Q est due à Coxiella burnetii."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la leptospirose humaine décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "Leptospira icterohaemorrhagiae est responsable d’une anthropozoonose.",
+        "Le réservoir est constitué par les rongeurs.",
+        "L’évolution classique comporte deux phases séparées par une période d’apyrexie.",
+        "La contamination se fait exclusivement par piqûre de moustique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La contamination est décrite par effraction cutanée ou muqueuse, y compris à travers une peau saine, par voie digestive, cutanée ou conjonctivale ; le moustique n’est pas cité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les bactéries cultivables uniquement sur système cellulaire ou apparentées, quelles propositions sont exactes ?",
+      "choices": [
+        "Les Chlamydia sont de très petites bactéries cultivables uniquement sur système cellulaire.",
+        "Les rickettsies sont de très petites bactéries cultivables uniquement sur système cellulaire.",
+        "Les rickettsies sont sensibles aux antibiotiques.",
+        "Les mycoplasmes sont décrits comme cultivables uniquement sur système cellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue la culture uniquement sur système cellulaire aux Chlamydia et aux rickettsies, mais pas aux mycoplasmes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations concernant les espèces de Chlamydia sont exactes ?",
+      "choices": [
+        "Chlamydia trachomatis : trachome, infections urogénitales et respiratoires selon le sérotype.",
+        "Chlamydia pneumoniae : infections pleuropulmonaires bénignes de l’adulte jeune.",
+        "Chlamydia psittaci : psittacose, pneumonie atypique et encéphalite.",
+        "Chlamydia psittaci : anthropozoonose touchant surtout les rongeurs."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chlamydia psittaci est une anthropozoonose touchant surtout les oiseaux, et non les rongeurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rickettsies et bactéries apparentées citées, quelles propositions sont exactes ?",
+      "choices": [
+        "Rickettsia peut provoquer un typhus exanthématique transmis par les poux.",
+        "Rickettsia peut provoquer des fièvres boutonneuses.",
+        "Rickettsia peut provoquer des fièvres pourprées transmises par les tiques.",
+        "Rochalimaea quintana est responsable de colites pseudomembraneuses."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Rochalimaea quintana est responsable de la fièvre des tranchées selon le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la conjugaison bactérienne, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à un transfert de matériel génétique entre deux bactéries par l’intermédiaire de plasmides.",
+        "Une bactérie porteuse d’un plasmide conjugatif forme une paire avec une bactérie receveuse.",
+        "Le pilus sexuel intervient dans la formation de la paire donneur-receveur.",
+        "L’ADN plasmidique est transféré au receveur."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La conjugaison implique un plasmide conjugatif, un pilus sexuel, une paire donneur-receveur et le transfert d’ADN plasmidique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle bactérie est décrite comme commensale des muqueuses oropharyngées ?",
+      "choices": [
+        "Streptococcus pneumoniae.",
+        "Neisseria gonorrhoeae.",
+        "Treponema pallidum.",
+        "Leptospira icterohaemorrhagiae."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Streptococcus pneumoniae, ou pneumocoque, est commensal des muqueuses oropharyngées."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle coloration spéciale est citée pour mettre en évidence les mycobactéries ?",
+      "choices": [
+        "Ziehl-Neelsen.",
+        "Gram simple.",
+        "Bleu de méthylène.",
+        "Encre de Chine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les mycobactéries sont colorables par des colorations spéciales, notamment Ziehl-Neelsen et auramine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle espèce est associée à une tuberculose survenant souvent après primo-infection asymptomatique ou avec fièvre et altération de l’état général ?",
+      "choices": [
+        "Mycobacterium leprae.",
+        "Mycobacterium africanum.",
+        "Mycoplasma pneumoniae.",
+        "Chlamydia pneumoniae."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Mycobacterium africanum est décrit comme responsable de tuberculose, souvent après primo-infection asymptomatique ou avec fièvre et altération de l’état général."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à la syphilis primaire selon le texte ?",
+      "choices": [
+        "Érythème chronique migrant.",
+        "Chancre génital, anal ou buccal.",
+        "Phase d’ictère hémorragique.",
+        "Pneumonie atypique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La syphilis primaire est caractérisée dans le texte par un chancre génital, anal ou buccal."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle espèce de mycoplasme est associée à une pneumopathie atypique ?",
+      "choices": [
+        "Mycoplasma pneumoniae.",
+        "Mycoplasma hominis.",
+        "Ureaplasma urealyticum.",
+        "Chlamydia trachomatis."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Mycoplasma pneumoniae est cité comme responsable de pneumopathie atypique."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la leptospirose humaine classique, quelle phase est décrite avec ictère hémorragique et recrudescence fébrile ?",
+      "choices": [
+        "La phase septicémique fébrile initiale.",
+        "La phase d’ictère hémorragique.",
+        "La phase de chancre primaire.",
+        "La phase de pneumonie lobaire aiguë."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte décrit une deuxième phase d’ictère hémorragique avec recrudescence fébrile, séparée de la phase septicémique par une période d’apyrexie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la sensibilité bactérienne aux bactériophages et ses conséquences, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Toutes les bactéries sont sensibles aux bactériophages.",
+        "La sensibilité aux bactériophages nécessite des récepteurs spécifiques.",
+        "Le bactériophage peut agir comme vecteur lors d’un transfert partiel d’ADN bactérien.",
+        "La sensibilité aux bactériophages permet la lysotypie."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": "La transduction implique un bactériophage vecteur, mais seules les bactéries possédant des récepteurs spécifiques y sont sensibles ; cette sensibilité permet la lysotypie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les éléments dont le virus dépend pour sa multiplication, quelles propositions sont exactes ?",
+      "choices": [
+        "La cellule infectée fournit la matière première nécessaire.",
+        "La cellule infectée fournit la source d’énergie.",
+        "La cellule infectée fournit les enzymes nécessaires.",
+        "Le virus possède à lui seul toute la machinerie métabolique nécessaire à sa multiplication."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le virus ne possède que son génome ; la matière première, l’énergie et les enzymes nécessaires sont fournies par la cellule infectée."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’enveloppe virale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle dérive des membranes cellulaires lors du bourgeonnement.",
+        "Elle rend généralement le virus plus fragile dans le milieu extérieur.",
+        "Son absence définit les virus nus.",
+        "Elle confère aux virus enveloppés une meilleure résistance dans le tube digestif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’enveloppe dérive des membranes cellulaires et fragilise le virus dans le milieu extérieur ; les virus nus résistent mieux, notamment dans le tube digestif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes virales décrites, quelles propositions sont exactes ?",
+      "choices": [
+        "Le virion correspond à la forme extracellulaire infectieuse.",
+        "Le provirus correspond à une forme intracellulaire intégrée dans le génome de la cellule hôte.",
+        "Le provirus est la forme virale libre dans le milieu extérieur.",
+        "Le virion est nécessairement intégré au génome cellulaire."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le virion est la forme extracellulaire infectieuse, tandis que le provirus est intégré au génome de la cellule hôte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les taux de mutation des virus à ARN, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Ils sont élevés.",
+        "Leur réplication est plus sujette aux erreurs.",
+        "Ils ne disposent pas des systèmes de correction associés aux ADN polymérases.",
+        "Ils mutent moins que les virus à ADN grâce à une correction enzymatique performante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les virus à ARN ont des taux de mutation élevés en raison d’une réplication plus erronée et de l’absence de systèmes de correction comparables à ceux associés aux ADN polymérases."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déterminants de la stratégie de multiplication virale, quelles propositions sont exactes ?",
+      "choices": [
+        "La nature ADN ou ARN du génome intervient.",
+        "Le caractère bicaténaire ou monocaténaire intervient.",
+        "Le caractère segmenté ou non intervient.",
+        "La structure circulaire ou linéaire intervient."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La stratégie de multiplication dépend de la nature du génome, de son caractère simple ou double brin, de sa segmentation et de sa structure circulaire ou linéaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les premières étapes du cycle de réplication du VIH, quelles propositions sont exactes ?",
+      "choices": [
+        "La reconnaissance de la cellule cible implique le récepteur CD4 et le corécepteur CCR5.",
+        "La fusion concerne l’enveloppe virale et la membrane cellulaire.",
+        "L’ARN viral est transformé en ADN grâce à la transcriptase inverse.",
+        "L’intégration de l’ARN viral intact précède toute synthèse d’ADN."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le VIH reconnaît la cellule via CD4 et CCR5, fusionne avec la membrane cellulaire, puis son ARN est rétrotranscrit en ADN par la transcriptase inverse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étapes tardives du cycle du VIH, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ADN viral intégré peut être transcrit en ARN viral.",
+        "Les protéines virales sont synthétisées après transcription.",
+        "La protéase participe à la maturation des protéines virales.",
+        "La libération des nouveaux virus précède nécessairement la formation des virions."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après intégration, l’ADN viral est transcrit en ARN viral, les protéines virales sont synthétisées, puis la protéase intervient dans leur maturation avant la libération de nouveaux virus."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les protozoaires, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Ce sont des micro-organismes eucaryotes unicellulaires.",
+        "Ils peuvent être libres, parasites ou symbiotes.",
+        "Ils sont présents dans de nombreux habitats et sous tous les climats.",
+        "Ils sont toujours immobiles."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les protozoaires sont eucaryotes unicellulaires, souvent mobiles mais pas toujours, et peuvent être libres, parasites ou symbiotes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les constituants cytoplasmiques des protozoaires cités dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les mitochondries font partie des constituants cités.",
+        "L’appareil de Golgi fait partie des constituants cités.",
+        "Le réticulum endoplasmique fait partie des constituants cités.",
+        "Les ribosomes font partie des constituants cités."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le cytoplasme protozoaire contient notamment mitochondries, appareil de Golgi, réticulum endoplasmique et ribosomes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les organites spécialisés des protozoaires et leurs fonctions, quelles associations sont exactes ?",
+      "choices": [
+        "Flagelles, cils et pseudopodes : locomotion.",
+        "Fibres et microtubules : soutien.",
+        "Vacuoles digestives : digestion.",
+        "Trichocystes et toxicystes : défense."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte associe la locomotion aux flagelles, cils et pseudopodes ; le soutien aux fibres et microtubules ; la digestion aux vacuoles digestives ; la défense aux trichocystes et toxicystes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation cellulaire des protozoaires, quelles propositions sont exactes ?",
+      "choices": [
+        "La cellule protozoaire constitue un organisme autonome.",
+        "Elle assure toutes les fonctions physiologiques grâce à des organites spécialisés.",
+        "Elle est entourée d’une membrane cytoplasmique.",
+        "Son noyau peut contenir un ou plusieurs nucléoles."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le protozoaire est une cellule autonome entourée d’une membrane cytoplasmique, dotée d’organites spécialisés et d’un noyau contenant un ou plusieurs nucléoles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les flagellés décrits dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils se déplacent grâce à un ou plusieurs flagelles.",
+        "Ils se divisent le plus souvent par scission.",
+        "Certaines espèces parasitent l’homme.",
+        "Certaines espèces peuvent provoquer des maladies graves."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les flagellés utilisent un ou plusieurs flagelles, se divisent le plus souvent par scission et certaines espèces humaines peuvent causer des maladies graves."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour comparer virus et protozoaires selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les virus sont acaryotes et non cellulaires.",
+        "Les protozoaires sont eucaryotes et unicellulaires.",
+        "Les virus sont dépourvus de métabolisme propre.",
+        "La cellule protozoaire est décrite comme un organisme autonome."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte oppose les virus, acaryotes non cellulaires sans métabolisme propre, aux protozoaires, eucaryotes unicellulaires autonomes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle condition bactérienne est nécessaire à la sensibilité aux bactériophages selon le texte ?",
+      "choices": [
+        "La présence d’une enveloppe virale.",
+        "La présence de récepteurs spécifiques.",
+        "La présence simultanée d’ADN et d’ARN.",
+        "La possession d’un noyau individualisé."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Toutes les bactéries ne sont pas sensibles aux bactériophages ; elles doivent posséder des récepteurs spécifiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors du bourgeonnement viral, de quelle structure dérive l’enveloppe virale ?",
+      "choices": [
+        "Des membranes cellulaires.",
+        "Du peptidoglycane bactérien.",
+        "De la capside protéique seule.",
+        "Du génome viral circulaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’enveloppe virale dérive des membranes cellulaires lors du bourgeonnement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle forme virale correspond à la forme extracellulaire infectieuse ?",
+      "choices": [
+        "Le provirus.",
+        "Le virion.",
+        "La nucléole virale.",
+        "Le bactériophage intégré."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le virion est la forme extracellulaire infectieuse du virus."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification selon le génome, à quel groupe appartient le rotavirus selon le texte ?",
+      "choices": [
+        "Groupe I : virus à ADN double brin.",
+        "Groupe II : virus à ADN simple brin.",
+        "Groupe III : virus à ARN double brin.",
+        "Groupe VI : rétrovirus à ARN simple brin."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le rotavirus est cité comme exemple du groupe III, correspondant aux virus à ARN double brin."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le cycle du VIH, quelle enzyme permet la transformation de l’ARN viral en ADN ?",
+      "choices": [
+        "La protéase.",
+        "L’intégrase.",
+        "La transcriptase inverse.",
+        "L’ADN polymérase bactérienne."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La transcription inverse de l’ARN viral en ADN est assurée par la transcriptase inverse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mode de transmission est indiqué pour Trichomonas vaginalis dans le texte ?",
+      "choices": [
+        "Transmission par voie sexuelle.",
+        "Transmission par la mouche tsé-tsé.",
+        "Transmission par bourgeonnement viral.",
+        "Transmission par bactériophage."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que Trichomonas vaginalis est transmis par voie sexuelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les critères morphologiques permettant de distinguer les groupes de protozoaires cités, quelles propositions sont exactes ?",
+      "choices": [
+        "Les ciliés possèdent de nombreux cils assurant leur déplacement.",
+        "Les rhizopodes utilisent des pseudopodes pour se déplacer et capturer les proies.",
+        "Les sporozoaires possèdent des flagelles comme principal moyen de locomotion.",
+        "Les rhizopodes possèdent à la fois des cils et des flagelles."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les ciliés se déplacent par des cils. Les rhizopodes utilisent des pseudopodes, également impliqués dans la capture des proies. Les sporozoaires ne possèdent ni cils, ni flagelles, ni pseudopodes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des modalités de reproduction des protozoaires mentionnés, quelles propositions sont exactes ?",
+      "choices": [
+        "Les ciliés peuvent se reproduire par scissiparité.",
+        "Les ciliés peuvent avoir une reproduction sexuée.",
+        "Les sporozoaires se reproduisent par sporulation.",
+        "Les rhizopodes se reproduisent principalement par bourgeonnement selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que les ciliés se reproduisent par scissiparité ou reproduction sexuée, tandis que les sporozoaires se reproduisent par sporulation. Le bourgeonnement est décrit pour les levures, pas pour les rhizopodes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sporozoaires et Plasmodium, quelles propositions sont exactes ?",
+      "choices": [
+        "Les sporozoaires peuvent avoir un cycle complexe avec des stades chez différents hôtes.",
+        "Les sporozoaires sont souvent transmis par un vecteur.",
+        "Plasmodium parasite les globules rouges.",
+        "Plasmodium est transmis par les spores d’Aspergillus inhalées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les sporozoaires ont un cycle complexe, souvent vectoriel. Plasmodium est transmis par l’anophèle et parasite les globules rouges. Les spores d’Aspergillus concernent l’aspergillose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les protozooses citées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Balantidium coli est responsable de balantidiose.",
+        "Entamoeba histolytica est localisée dans l’intestin humain.",
+        "Entamoeba histolytica peut provoquer une dysenterie amibienne grave, parfois fatale.",
+        "Plasmodium est présenté comme l’agent de la trichomonase génitale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Balantidium coli est associé à la balantidiose. Entamoeba histolytica est intestinale et peut entraîner une dysenterie amibienne grave. Plasmodium est associé au paludisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la structure générale des champignons microscopiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des micro-organismes eucaryotes.",
+        "Leur structure comporte notamment une membrane plasmique, un noyau, un cytoplasme et des organites.",
+        "La plupart possèdent une paroi de chitine.",
+        "Ils sont dépourvus de noyau car ce sont des agents non cellulaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les micromycètes sont eucaryotes et possèdent une organisation cellulaire avec noyau et organites. La plupart ont une paroi de chitine. Les agents non cellulaires ne correspondent pas aux champignons microscopiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les propriétés générales et la classification des micromycètes, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent tolérer des pH acides.",
+        "Ils peuvent tolérer certaines températures élevées.",
+        "Ils se répartissent en moisissures et levures.",
+        "Ils sont strictement incapables de survivre en milieu acide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que les micromycètes peuvent tolérer des pH acides et certaines températures élevées. Ils se divisent en deux catégories : moisissures et levures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation des moisissures, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont formées de longs filaments fins et ramifiés appelés hyphes.",
+        "L’ensemble des hyphes forme un mycélium.",
+        "Chaque hyphe possède notamment membrane plasmique, noyau, cytoplasme, organites et paroi de chitine.",
+        "Elles sont toujours unicellulaires, ovales ou sphériques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les moisissures sont filamenteuses, constituées d’hyphes dont l’ensemble forme le mycélium. La forme unicellulaire ovale ou sphérique correspond aux levures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la teigne tondante décrite dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une infection du cuir chevelu.",
+        "Elle peut être causée par Trichophyton.",
+        "Elle peut être causée par Microsporum.",
+        "Elle est causée par Candida albicans dans le tube digestif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La teigne tondante est une infection du cuir chevelu due à Trichophyton ou Microsporum. Candida albicans est une levure commensale pouvant provoquer une candidose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les manifestations de la teigne tondante, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut entraîner une alopécie.",
+        "Elle peut s’accompagner d’inflammation.",
+        "Elle peut provoquer une desquamation.",
+        "Elle provoque principalement une encéphalopathie spongiforme transmissible."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La teigne tondante entraîne alopécie, inflammation et desquamation. Les encéphalopathies spongiformes transmissibles relèvent des prions."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’aspergillose décrite dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est causée par des champignons du genre Aspergillus.",
+        "Les spores responsables peuvent être véhiculées par l’air.",
+        "Les spores peuvent être inhalées.",
+        "Elle est due à un protozoaire parasitant les globules rouges."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’aspergillose est une infection due à Aspergillus. Les spores sont véhiculées par l’air et inhalées. Le parasitisme des globules rouges concerne Plasmodium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les espèces d’Aspergillus mentionnées, quelles propositions sont exactes ?",
+      "choices": [
+        "Aspergillus fumigatus est responsable de la majorité des aspergilloses humaines.",
+        "Aspergillus flavus peut produire des mycotoxines dangereuses.",
+        "Aspergillus appartient aux moisissures citées comme pouvant provoquer des mycoses.",
+        "Aspergillus flavus est décrit comme une levure commensale vaginale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "A. fumigatus est majoritairement impliqué dans les aspergilloses humaines. A. flavus peut produire des mycotoxines. Aspergillus est un genre de moisissures, non une levure commensale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les levures, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des champignons unicellulaires.",
+        "Elles peuvent être de forme ovale ou sphérique.",
+        "Elles ont une structure eucaryote.",
+        "Elles sont constituées de longs hyphes ramifiés formant un mycélium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les levures sont unicellulaires, ovales ou sphériques, et eucaryotes. Les hyphes ramifiés formant un mycélium caractérisent les moisissures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant Candida albicans comme levure commensale, quelles localisations sont citées dans le texte ?",
+      "choices": [
+        "La bouche.",
+        "La peau.",
+        "Le tube digestif.",
+        "Les globules rouges."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Candida albicans est cité comme commensal de la bouche, de la peau, du tube digestif et de la flore vaginale. Les globules rouges sont parasités par Plasmodium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les prions, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des agents transmissibles non conventionnels.",
+        "Ce sont des protéines infectieuses anormales.",
+        "Ils sont responsables d’encéphalopathies spongiformes transmissibles.",
+        "Ils sont des champignons unicellulaires se reproduisant par bourgeonnement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les prions sont des protéines infectieuses anormales, agents transmissibles non conventionnels, responsables d’encéphalopathies spongiformes transmissibles. Le bourgeonnement concerne surtout les levures."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle caractérise le mieux les sporozoaires ou apicomplexés selon le texte ?",
+      "choices": [
+        "Ils possèdent de nombreux cils permettant leur déplacement.",
+        "Ils ne possèdent ni cils, ni flagelles, ni pseudopodes.",
+        "Ils se déplacent grâce à des pseudopodes servant à capturer les proies.",
+        "Ils sont des champignons unicellulaires ovales ou sphériques."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les sporozoaires ou apicomplexés sont définis dans le texte par l’absence de cils, de flagelles et de pseudopodes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association est conforme à la teigne tondante décrite dans le texte ?",
+      "choices": [
+        "Infection du cuir chevelu avec alopécie, inflammation et desquamation.",
+        "Infection pulmonaire par inhalation de spores d’Aspergillus.",
+        "Dysenterie amibienne intestinale parfois fatale.",
+        "Encéphalopathie spongiforme transmissible."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La teigne tondante est une infection du cuir chevelu causant alopécie, inflammation et desquamation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle espèce est indiquée comme responsable de la majorité des aspergilloses humaines ?",
+      "choices": [
+        "Aspergillus fumigatus.",
+        "Aspergillus flavus.",
+        "Candida albicans.",
+        "Entamoeba histolytica."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise qu’Aspergillus fumigatus est responsable de la majorité des aspergilloses humaines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit spécifiquement les levures dans le texte ?",
+      "choices": [
+        "Champignons unicellulaires de forme ovale ou sphérique.",
+        "Longs filaments fins et ramifiés appelés hyphes.",
+        "Agents transmissibles non conventionnels constitués de protéines anormales.",
+        "Protozoaires dépourvus de cils, flagelles et pseudopodes."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les levures sont décrites comme des champignons unicellulaires de forme ovale ou sphérique."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, dans quelle circonstance Candida albicans peut-il devenir pathogène ?",
+      "choices": [
+        "En cas d’affaiblissement de l’organisme.",
+        "Lorsqu’il parasite les globules rouges.",
+        "Lorsqu’il est transmis par l’anophèle.",
+        "Lorsqu’il forme des spores inhalées véhiculées par l’air."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Candida albicans est une levure commensale qui peut devenir pathogène en cas d’affaiblissement de l’organisme et provoquer une candidose."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle maladie est citée parmi les encéphalopathies spongiformes transmissibles dues aux prions ?",
+      "choices": [
+        "Maladie de Creutzfeldt-Jakob.",
+        "Paludisme.",
+        "Balantidiose.",
+        "Candidose."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les prions sont responsables d’encéphalopathies spongiformes transmissibles, notamment la maladie de Creutzfeldt-Jakob."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T20:15:26.841Z"
+}

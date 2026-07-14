@@ -1,0 +1,3138 @@
+{
+  "category": "chirurgie",
+  "module": "urologie",
+  "courseId": null,
+  "courseTitle": null,
+  "supportTitle": "cancer_de_rein.pdf",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/cancer de rein.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 141,
+    "qcs": 59
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont des facteurs de risque principaux du cancer du rein selon le texte ?",
+      "choices": [
+        "Le tabagisme",
+        "L’obésité",
+        "L’hypertension artérielle",
+        "L’hyperthyroïdie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les principaux facteurs de risque cités sont l’âge, le tabagisme, l’obésité, l’hypertension artérielle et l’insuffisance rénale chronique. L’hyperthyroïdie n’est pas citée comme facteur de risque du cancer du rein."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient atteint d’insuffisance rénale chronique, quelle affirmation concernant le cancer du rein est exacte ?",
+      "choices": [
+        "Le risque est diminué par rapport à la population générale",
+        "Le risque peut atteindre dix fois celui de la population générale",
+        "Les atteintes sont toujours unilatérales",
+        "Les atteintes multifocales sont exceptionnelles"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’insuffisance rénale chronique augmente le risque de cancer du rein, pouvant atteindre dix fois celui de la population générale, avec des atteintes plus fréquemment bilatérales et/ou multifocales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets indésirables des produits de contraste, quelles propositions sont exactes ?",
+      "choices": [
+        "Les effets indésirables aigus surviennent dans la première heure après injection",
+        "Les effets indésirables aigus sont possibles avec tous les agents de contraste",
+        "Les réactions retardées surviennent dans la semaine suivant l’injection",
+        "Les réactions retardées sont principalement neurologiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les effets aigus peuvent survenir dans la première heure avec tous les agents, surtout les iodés. Les réactions retardées surviennent dans la semaine et sont principalement cutanées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les précautions liées aux produits iodés et gadolinés, quelles propositions sont exactes ?",
+      "choices": [
+        "Les produits iodés ne doivent pas être injectés en cas de suspicion d’hyperthyroïdie",
+        "La fibrose néphrogénique systémique concerne surtout les insuffisants rénaux sévères ou dialysés",
+        "Chez les patients à risque, le gadolinium est toujours strictement contre-indiqué",
+        "En cas d’utilisation du gadolinium chez un patient à risque, seuls les produits de stabilité élevée doivent être utilisés"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les produits iodés sont à éviter en cas de suspicion d’hyperthyroïdie. La fibrose néphrogénique systémique concerne surtout les insuffisants rénaux sévères ou dialysés. Le gadolinium n’est pas formellement contre-indiqué si le bénéfice clinique dépasse le risque, mais il faut utiliser des produits de stabilité élevée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels patients sont considérés à risque de néphropathie induite par les produits iodés selon les seuils indiqués ?",
+      "choices": [
+        "Patient présentant une insuffisance rénale aiguë",
+        "Patient avec DFG inférieur à 45 mL/min/1,73 m² pour une injection intra-artérielle sus-rénale",
+        "Patient avec DFG inférieur à 30 mL/min/1,73 m² pour une injection intraveineuse",
+        "Patient avec DFG inférieur à 60 mL/min/1,73 m² pour toute injection intraveineuse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le risque concerne l’insuffisance rénale aiguë, le DFG < 45 mL/min/1,73 m² pour une injection intra-artérielle sus-rénale ou en soins intensifs, et le DFG < 30 mL/min/1,73 m² pour une injection intra-artérielle sous-rénale ou intraveineuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient à risque de néphropathie induite par les produits iodés, quelles mesures sont recommandées ?",
+      "choices": [
+        "Proposer une autre modalité d’imagerie comme l’IRM ou l’échographie avec injection",
+        "Réaliser une hyperhydratation",
+        "Espacer d’au moins 3 jours les injections de produit iodé",
+        "Réaliser systématiquement une hémodialyse après l’injection pour réduire la toxicité rénale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez les patients à risque, il faut envisager une autre modalité, hyperhydrater et espacer les injections iodées d’au moins 3 jours. L’hémodialyse après injection ne réduit pas la toxicité rénale des produits iodés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hémodialyse et le choix d’imagerie chez les patients dialysés, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hémodialyse après injection iodée réduit la toxicité rénale",
+        "L’hémodialyse après gadolinium réduit le risque de fibrose néphrogénique systémique",
+        "Chez un patient dialysé, si le bénéfice diagnostique est équivalent, un scanner injecté est préférable à une IRM injectée",
+        "L’hémodialyse après injection ne réduit ni la toxicité rénale des iodés ni le risque de fibrose néphrogénique systémique"
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "explanation": "L’hémodialyse après injection ne diminue pas la toxicité rénale des iodés ni le risque de fibrose néphrogénique systémique. Chez les dialysés, à bénéfice diagnostique équivalent, le scanner injecté est préférable à l’IRM injectée."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient diabétique traité par metformine devant recevoir un produit de contraste, quelles propositions sont exactes ?",
+      "choices": [
+        "Si le DFG est supérieur à 30 mL/min/1,73 m², l’interruption de la metformine n’est pas indispensable",
+        "Si le DFG est inférieur à 30 mL/min/1,73 m², la metformine doit être interrompue le jour de l’injection",
+        "Si le DFG est inférieur à 30 mL/min/1,73 m², la reprise se fait après contrôle de la créatininémie à 48 heures en l’absence de modification significative",
+        "La metformine doit toujours être arrêtée une semaine avant toute injection de contraste"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La metformine n’a pas besoin d’être interrompue si le DFG est > 30. Si le DFG est < 30, elle est arrêtée le jour de l’injection et reprise après contrôle de la créatininémie à 48 heures si la fonction rénale est stable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les produits de contraste ultrasonores, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont les mieux tolérés",
+        "Ils n’ont pas de toxicité rénale",
+        "Ils nécessitent des précautions spécifiques en cas d’allergie aux produits iodés",
+        "Ils ne nécessitent pas de précaution spécifique en cas d’hyperthyroïdie"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les produits de contraste ultrasonores sont les mieux tolérés, sans toxicité rénale, et ne nécessitent pas de précaution spécifique en cas d’allergie aux iodés ou gadolinés, d’atopie ou d’hyperthyroïdie."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour l’imagerie rénale, quelle préparation est recommandée selon le texte ?",
+      "choices": [
+        "Mettre systématiquement le patient à jeun",
+        "Opacifier systématiquement le tube digestif",
+        "Ne pas laisser le patient à jeun et ne pas opacifier le tube digestif",
+        "Associer jeûne strict et opacification digestive"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Pour l’imagerie rénale, il est recommandé de ne pas laisser les patients à jeun et de ne pas opacifier le tube digestif."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles sont les possibilités de l’échographie-Doppler dans l’évaluation d’une masse rénale ?",
+      "choices": [
+        "Caractériser une masse rénale solide ou kystique",
+        "Évaluer la vascularisation",
+        "Rechercher une extension vasculaire à la veine rénale ou à la veine cave inférieure",
+        "Remplacer systématiquement le scanner thoraco-abdominal injecté comme examen de référence"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échographie-Doppler permet de caractériser une masse solide ou kystique, d’évaluer sa vascularisation, de rechercher une extension vasculaire et de guider une biopsie. Le scanner thoraco-abdominal injecté reste l’examen de référence en l’absence de contre-indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’échographie de contraste dans les tumeurs rénales, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle améliore la caractérisation des masses solides faiblement vascularisées",
+        "Elle aide à distinguer un thrombus tumoral d’un thrombus cruorique",
+        "Elle peut aider à repérer les zones non nécrotiques à biopsier dans les tumeurs volumineuses",
+        "Elle ne risque jamais de surestimer les lésions kystiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échographie de contraste améliore la caractérisation des masses solides faiblement vascularisées, des kystes atypiques, des thrombus et des zones à biopsier. Elle peut surestimer certaines lésions kystiques du fait de sa grande sensibilité aux petits vaisseaux."
+    },
+    {
+      "type": "QCS",
+      "question": "En l’absence de contre-indication aux produits iodés, quel est l’examen de référence pour le diagnostic et le bilan d’extension du cancer du rein ?",
+      "choices": [
+        "Échographie-Doppler seule",
+        "Scanner thoraco-abdominal injecté",
+        "IRM non injectée systématique",
+        "Échographie standard sans Doppler"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le scanner thoraco-abdominal injecté est l’examen de référence pour le diagnostic et le bilan d’extension du cancer du rein en l’absence de contre-indication aux produits iodés."
+    },
+    {
+      "type": "QCS",
+      "question": "Au scanner, quel seuil définit le rehaussement tumoral d’une masse rénale ?",
+      "choices": [
+        "Augmentation supérieure à 5 UH par rapport à l’acquisition sans injection",
+        "Augmentation supérieure à 10 UH par rapport à l’acquisition sans injection",
+        "Augmentation supérieure à 20 UH par rapport à l’acquisition sans injection",
+        "Densité spontanée inférieure à −20 UH"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le rehaussement tumoral est défini par une augmentation supérieure à 20 UH par rapport à l’acquisition sans injection."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les acquisitions du scanner dans l’évaluation d’une tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "L’acquisition sans injection est indispensable pour mesurer le rehaussement",
+        "La phase corticale se situe à 30–40 secondes",
+        "La phase tubulaire se situe à 80–100 secondes",
+        "La phase excrétoire est obligatoire dans tous les cas et ne doit jamais être adaptée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le scanner peut comprendre une acquisition sans injection, une phase corticale à 30–40 secondes, une phase tubulaire à 80–100 secondes et une phase tardive excrétoire. Les phases peuvent être adaptées pour limiter l’irradiation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles sont les utilités de la phase excrétoire tardive au scanner dans l’évaluation d’une masse rénale ?",
+      "choices": [
+        "Analyser les rapports avec les voies excrétrices",
+        "Rechercher un rehaussement tardif",
+        "Mesurer la graisse macroscopique par une densité inférieure à −20 UH uniquement",
+        "Remplacer l’acquisition sans injection pour calculer le rehaussement"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La phase excrétoire est utile pour analyser les rapports avec les voies excrétrices et rechercher un rehaussement tardif. L’acquisition sans injection reste indispensable pour mesurer le rehaussement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel critère scanographique permet d’identifier un angiomyolipome typique ?",
+      "choices": [
+        "Un rehaussement tumoral supérieur à 20 UH",
+        "La présence de graisse macroscopique de densité inférieure à −20 UH",
+        "Une phase tubulaire à 80–100 secondes",
+        "Une lésion classée Bosniak IIF"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le scanner est la technique de choix pour identifier les angiomyolipomes par la détection de graisse macroscopique, de densité inférieure à −20 UH."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les angiomyolipomes pauvres en graisse, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être spontanément hyperdenses",
+        "Ils peuvent présenter un rehaussement homogène",
+        "Ils sont toujours facilement identifiés par une densité inférieure à −20 UH",
+        "Ils ne sont jamais rehaussés après injection"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les angiomyolipomes pauvres en graisse peuvent être spontanément hyperdenses et présenter un rehaussement homogène. Ils ne présentent pas nécessairement la graisse macroscopique typique facilement détectable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification de Bosniak des masses kystiques rénales, quelles associations sont exactes ?",
+      "choices": [
+        "Bosniak I : kyste simple bénin, risque de malignité nul",
+        "Bosniak IIF : lésion probablement bénigne nécessitant une surveillance",
+        "Bosniak III : lésion suspecte, risque de malignité modéré",
+        "Bosniak IV : lésion bénigne atypique, risque de malignité très faible"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Bosniak I correspond à un kyste simple bénin à risque nul, Bosniak IIF à une lésion probablement bénigne nécessitant une surveillance, Bosniak III à une lésion suspecte à risque modéré. Bosniak IV est une lésion très suspecte à risque élevé."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quel contexte la classification de Bosniak s’applique-t-elle selon le texte ?",
+      "choices": [
+        "Aux masses solides rénales hypervascularisées",
+        "Aux masses kystiques en dehors d’un contexte infectieux ou de polykystose rénale autosomique",
+        "Aux thrombus de la veine cave inférieure",
+        "Aux angiomyolipomes pauvres en graisse uniquement"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La classification de Bosniak s’applique aux masses kystiques, en dehors d’un contexte infectieux ou de polykystose rénale autosomique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles sont les indications de l’IRM dans l’évaluation du cancer du rein citées dans le texte ?",
+      "choices": [
+        "Insuffisance rénale sévère avec DFG inférieur à 30 mL/min",
+        "Contre-indication majeure à l’injection de produit iodé",
+        "Caractérisation de masses kystiques ou solides atypiques indéterminées au scanner",
+        "Recherche systématique de graisse macroscopique de densité inférieure à −20 UH"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IRM est indiquée en cas d’insuffisance rénale sévère avec DFG < 30 mL/min, de contre-indication majeure aux produits iodés, pour caractériser des masses atypiques indéterminées au scanner et pour le bilan d’extension notamment vasculaire. La graisse macroscopique à −20 UH relève du scanner."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la composition d’une IRM multiparamétrique rénale selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comprend des séquences T2 axiales et coronales, avec et sans saturation de graisse.",
+        "Elle repose uniquement sur des séquences T1 après injection, sans acquisitions tardives.",
+        "Elle comprend des séquences T1 en phase et en opposition de phase.",
+        "Elle comprend des séquences de diffusion et des séquences dynamiques après injection avec acquisitions tardives."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’IRM multiparamétrique associe T2 axiales et coronales avec/sans saturation de graisse, T1 en phase/opposition de phase, diffusion et séquences dynamiques injectées avec acquisitions tardives."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les aspects IRM orientant le diagnostic histologique d’une masse rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Une chute de signal en opposition de phase et avec saturation de graisse est en faveur d’un angiomyolipome pauvre en graisse, sans être spécifique.",
+        "Les carcinomes à cellules claires présentent souvent un hypersignal T2 hétérogène.",
+        "Les carcinomes papillaires sont souvent en hyposignal T2.",
+        "Une zone centrale stellaire est spécifique d’un oncocytome."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La chute de signal peut orienter vers un angiomyolipome pauvre en graisse mais n’est pas spécifique. Le carcinome à cellules claires est souvent en hypersignal T2 hétérogène, le papillaire en hyposignal T2. La zone centrale stellaire peut être compatible avec un oncocytome mais n’est pas spécifique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’apport de l’IRM et de la diffusion dans l’évaluation des tumeurs rénales, quelles propositions sont exactes ?",
+      "choices": [
+        "La diffusion est utile pour détecter de petites tumeurs infra-centimétriques.",
+        "La diffusion peut aider à identifier des métastases ganglionnaires, surrénaliennes, pancréatiques ou hépatiques.",
+        "L’IRM permet d’identifier les zones de nécrose à éviter lors d’une biopsie.",
+        "La présence d’une zone centrale stellaire permet d’affirmer formellement un oncocytome."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diffusion aide à détecter les petites tumeurs et certaines localisations métastatiques. L’IRM permet également de repérer les zones nécrotiques à éviter lors d’une biopsie. La zone centrale stellaire n’est pas spécifique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le bilan préthérapeutique d’une tumeur rénale, que permet l’échographie selon le texte ?",
+      "choices": [
+        "Mesurer la taille tumorale.",
+        "Étudier les veines rénale et cave inférieure.",
+        "Rechercher un envahissement vasculaire.",
+        "Évaluer les métastases pulmonaires avec précision."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échographie permet de mesurer la taille tumorale, d’étudier les veines rénale et cave inférieure et de rechercher un envahissement vasculaire. Les métastases pulmonaires relèvent du bilan scanographique cité."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors du bilan préopératoire scanographique d’une tumeur rénale, quels éléments doivent être précisés ?",
+      "choices": [
+        "La taille tumorale et la localisation.",
+        "Les rapports avec les voies excrétrices et les vaisseaux.",
+        "L’atteinte de la graisse périrénale et l’extension veineuse.",
+        "Le grade nucléolaire ISUP avec certitude."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le scanner injecté doit préciser la taille, la localisation, les rapports avec les voies excrétrices et les vaisseaux, l’atteinte de la graisse périrénale et l’extension veineuse. Le grade ISUP est une donnée anatomopathologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le scanner injecté dans le bilan préopératoire d’un cancer du rein, quelles extensions doivent être recherchées selon le texte ?",
+      "choices": [
+        "Une atteinte ganglionnaire et surrénalienne.",
+        "Des métastases pulmonaires, hépatiques ou pancréatiques.",
+        "Une tumeur synchrone controlatérale.",
+        "Des métastases cérébrales systématiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le scanner doit rechercher l’atteinte ganglionnaire, surrénalienne, les métastases pulmonaires, hépatiques ou pancréatiques, ainsi qu’une tumeur synchrone controlatérale. Les métastases cérébrales systématiques ne sont pas mentionnées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la planification préthérapeutique d’une tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Le niveau d’un thrombus cave doit être précisé par rapport au diaphragme et aux veines sus-hépatiques.",
+        "Les scores anatomiques RENAL ou PADUA peuvent aider à évaluer la complexité d’une néphrectomie partielle.",
+        "L’IRM est discutée au cas par cas selon la fonction rénale et les résultats du scanner.",
+        "L’échographie remplace le scanner injecté comme examen clé du bilan préopératoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le scanner doit préciser le niveau du thrombus cave. Les scores RENAL ou PADUA aident à apprécier la complexité d’une néphrectomie partielle. L’IRM est discutée au cas par cas. Le scanner injecté reste l’examen clé du bilan préopératoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le bilan biologique d’une tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Il doit comprendre créatininémie, estimation du DFG et numération formule sanguine.",
+        "En cas de cancer métastatique, il faut ajouter bilan hépatique, phosphatases alcalines, LDH, calcémie corrigée et bilan de coagulation.",
+        "Il permet d’évaluer la fonction rénale, d’identifier des facteurs pronostiques et de dépister certains syndromes paranéoplasiques.",
+        "La numération formule sanguine n’est indiquée qu’en situation métastatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan initial comporte créatininémie, DFG et NFS. En cas de cancer métastatique, des examens supplémentaires sont ajoutés. La NFS fait partie du bilan de base, pas uniquement métastatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évaluation de la fonction rénale chez un patient porteur d’une tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "L’estimation du DFG repose préférentiellement sur l’équation CKD-EPI.",
+        "La créatininémie peut être moins fiable en cas de masse musculaire extrême, comme l’obésité ou la cachexie.",
+        "La créatininémie peut être moins fiable en cas d’inhibition de la sécrétion tubulaire de créatinine.",
+        "La créatininémie reste toujours parfaitement fiable quelle que soit la masse musculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le DFG est préférentiellement estimé par CKD-EPI. La créatininémie peut être moins fiable en cas de masse musculaire extrême ou d’inhibition de la sécrétion tubulaire de créatinine."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations une scintigraphie rénale est-elle conseillée pour évaluer la fonction rénale séparée ?",
+      "choices": [
+        "Insuffisance rénale.",
+        "Tumeurs bilatérales.",
+        "Rein unique.",
+        "Situation impérative."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La scintigraphie rénale est conseillée en cas d’insuffisance rénale, de tumeurs bilatérales, de rein unique ou de situation impérative afin d’évaluer la fonction rénale séparée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les principaux sous-types histologiques du carcinome rénal, quelles propositions sont exactes ?",
+      "choices": [
+        "Le carcinome à cellules claires représente environ 70 % des carcinomes rénaux.",
+        "Le carcinome papillaire représente environ 15 % des carcinomes rénaux.",
+        "Le carcinome chromophobe représente environ 5 % des carcinomes rénaux.",
+        "Les carcinomes non à cellules claires constituent un groupe homogène de pronostic identique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les principaux sous-types sont le carcinome à cellules claires, papillaire et chromophobe, représentant respectivement environ 70 %, 15 % et 5 %. Les carcinomes non à cellules claires forment un groupe hétérogène."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les carcinomes papillaires du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Les carcinomes papillaires de type 1 sont généralement de meilleur pronostic.",
+        "Les carcinomes papillaires de type 1 sont souvent multiples et/ou bilatéraux et associés à des altérations de la voie MET.",
+        "Les carcinomes papillaires de type 2 ont un pronostic plus défavorable et peuvent être associés à une activation de la voie NRF2–ARE.",
+        "Les carcinomes papillaires de type 2 ne nécessitent jamais de recherche de mutation de la fumarate hydratase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le type 1 est généralement de meilleur pronostic, souvent multiple et/ou bilatéral, associé à MET. Le type 2 est plus défavorable, peut impliquer NRF2–ARE, et impose de rechercher une mutation du gène de la fumarate hydratase et d’évoquer une translocation TFE3."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les carcinomes avec translocation des gènes de la famille MiTF et l’amplification de TFEB, quelles propositions sont exactes ?",
+      "choices": [
+        "Les carcinomes avec translocation des gènes de la famille MiTF doivent être évoqués chez les patients jeunes, notamment avant 40 ans.",
+        "Ils peuvent avoir une architecture complexe avec contingent papillaire et zones de cellules claires.",
+        "Ils comprennent notamment les carcinomes à translocation TFE3, à translocation TFEB et les carcinomes mélanotiques Xp11.",
+        "Les carcinomes avec amplification de TFEB surviennent plutôt chez des patients plus âgés et sont plus agressifs."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les carcinomes MiTF sont à évoquer chez les sujets jeunes, surtout avant 40 ans, avec architecture complexe. Ils incluent TFE3, TFEB et les carcinomes mélanotiques Xp11. L’amplification de TFEB concerne plutôt des patients plus âgés et des formes agressives souvent avancées ou métastatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs histopronostiques doivent être rapportés dans le compte rendu anatomopathologique d’un carcinome rénal ?",
+      "choices": [
+        "Le sous-type histologique et le grade nucléolaire ISUP.",
+        "La présence d’une composante sarcomatoïde ou rhabdoïde.",
+        "Les emboles vasculaires microscopiques et l’envahissement du système collecteur.",
+        "La nécrose tumorale, le stade pTNM et le statut des marges chirurgicales."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le compte rendu anatomopathologique doit rapporter le sous-type, le grade ISUP, les composantes sarcomatoïde/rhabdoïde, les emboles vasculaires, l’envahissement du système collecteur, la nécrose, le stade pTNM et le statut des marges."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle équation est préférentiellement utilisée pour estimer le débit de filtration glomérulaire selon le texte ?",
+      "choices": [
+        "Cockcroft-Gault.",
+        "MDRD.",
+        "CKD-EPI.",
+        "Formule de Schwartz."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que l’estimation du DFG repose préférentiellement sur l’équation CKD-EPI."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour un carcinome rénal à cellules claires, avant quel âge une consultation oncogénétique est-elle recommandée selon le texte ?",
+      "choices": [
+        "Avant 40 ans.",
+        "Avant 45 ans.",
+        "Avant 50 ans.",
+        "Avant 60 ans."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une consultation oncogénétique est recommandée pour tout carcinome à cellules claires diagnostiqué avant 50 ans."
+    },
+    {
+      "type": "QCS",
+      "question": "À quels sous-types histologiques le grade nucléolaire ISUP s’applique-t-il selon le texte ?",
+      "choices": [
+        "Aux carcinomes à cellules claires et papillaires.",
+        "Aux carcinomes chromophobes uniquement.",
+        "Aux angiomyolipomes et oncocytomes.",
+        "À tous les sous-types rénaux sans distinction."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le grade nucléolaire ISUP s’applique aux carcinomes à cellules claires et aux carcinomes papillaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation la biopsie percutanée d’une tumeur rénale n’est-elle pas conseillée ou doit-elle être discutée en réunion multidisciplinaire ?",
+      "choices": [
+        "Avant surveillance active d’une petite tumeur rénale.",
+        "Avant traitement ablatif percutané.",
+        "Devant une tumeur kystique sans contingent solide.",
+        "Avant traitement systémique sans preuve histologique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La biopsie n’est pas conseillée ou doit être discutée en réunion multidisciplinaire en cas de tumeur kystique sans contingent solide."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel calibre d’aiguille est conseillé pour la biopsie percutanée d’une tumeur rénale selon le texte ?",
+      "choices": [
+        "10 à 12 G.",
+        "12 à 14 G.",
+        "16 à 18 G.",
+        "22 à 25 G."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte conseille l’utilisation d’une aiguille de type biopsie 16 à 18 G."
+    },
+    {
+      "type": "QCS",
+      "question": "Laquelle des situations suivantes constitue une indication recommandée de biopsie percutanée d’une tumeur rénale selon le texte ?",
+      "choices": [
+        "Suspicion clinique d’angiomyolipome.",
+        "Risque hémorragique élevé.",
+        "Suspicion de carcinome urothélial.",
+        "Avant traitement ablatif percutané."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La biopsie percutanée est recommandée avant traitement ablatif percutané. Les autres situations citées relèvent des cas où la biopsie n’est pas conseillée ou doit être discutée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la technique de biopsie percutanée d’une tumeur rénale, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "L’utilisation d’une aiguille coaxiale est recommandée.",
+        "Il est recommandé de réaliser au moins deux prélèvements.",
+        "Les territoires nécrotiques doivent être évités lors du prélèvement.",
+        "La traversée tumorale répétée sans système coaxial est recherchée pour augmenter le rendement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La biopsie doit utiliser une technique coaxiale, comporter au moins deux prélèvements, éviter les zones nécrotiques et limiter le risque d’ensemencement du trajet de ponction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la performance diagnostique de la biopsie d’une tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est meilleure pour les tumeurs solides que pour les tumeurs kystiques.",
+        "Dans les tumeurs mixtes, elle est meilleure si le contingent solide est biopsié.",
+        "Elle est meilleure avec une biopsie tissulaire qu’avec une cytoponction.",
+        "Elle est équivalente quel que soit le type de prélèvement réalisé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le rendement diagnostique est supérieur pour les tumeurs solides, en ciblant le contingent solide des tumeurs mixtes, et avec une biopsie tissulaire plutôt qu’une cytoponction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les prélèvements issus d’une biopsie de tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils doivent être fixés dans du formaldéhyde tamponné à 4 %.",
+        "La fixation permet l’analyse histologique.",
+        "La fixation permet la FISH et les analyses génétiques.",
+        "La cytoponction est recommandée en première intention."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les prélèvements doivent être fixés dans du formaldéhyde tamponné à 4 %, ce qui permet l’histologie, la FISH et les analyses génétiques. La cytoponction n’est pas recommandée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les renseignements apportés par la biopsie d’une tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet généralement de déterminer le sous-type histologique.",
+        "Le grade ISUP peut être sous-estimé par rapport à la pièce opératoire.",
+        "La présence de nécrose doit être mentionnée car elle est souvent associée à un grade plus élevé.",
+        "Elle élimine toujours formellement la difficulté diagnostique entre oncocytome et carcinome chromophobe oncocytaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La biopsie renseigne généralement le sous-type histologique, mais le grade ISUP peut être sous-estimé. La nécrose doit être signalée. Les tumeurs oncocytaires restent une difficulté diagnostique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles complications sont citées comme les plus fréquentes après biopsie percutanée d’une tumeur rénale ?",
+      "choices": [
+        "Hématome mineur.",
+        "Hématurie mineure.",
+        "Douleur lombaire.",
+        "Complication grave systématique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les complications les plus fréquentes sont l’hématome mineur, l’hématurie mineure et la douleur lombaire. Les complications graves sont rares."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification TNM 2017 de la tumeur primitive du cancer du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "T1 correspond à une tumeur ≤ 7 cm limitée au rein.",
+        "T1a correspond à une tumeur ≤ 4 cm.",
+        "T1b correspond à une tumeur > 4 cm et ≤ 7 cm.",
+        "T2 correspond à une tumeur ≤ 4 cm limitée au rein."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "T1 est une tumeur ≤ 7 cm limitée au rein, subdivisée en T1a ≤ 4 cm et T1b > 4 cm et ≤ 7 cm. T2 correspond aux tumeurs > 7 cm limitées au rein."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les stades T2 de la classification TNM 2017 du cancer du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "T2 correspond à une tumeur > 7 cm limitée au rein.",
+        "T2a correspond à une tumeur > 7 cm et ≤ 10 cm.",
+        "T2b correspond à une tumeur > 10 cm.",
+        "T2 implique nécessairement un thrombus veineux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs T2 sont > 7 cm et limitées au rein : T2a entre > 7 et ≤ 10 cm, T2b > 10 cm. Le thrombus veineux relève du stade T3."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les stades T3 et T4 du cancer du rein selon TNM 2017, quelles propositions sont exactes ?",
+      "choices": [
+        "T3 peut correspondre à une tumeur avec thrombus veineux sans atteinte du fascia de Gerota homolatéral.",
+        "T3a peut inclure un envahissement de la graisse périrénale ou hilaire sans atteinte du fascia de Gerota.",
+        "T3b correspond à un thrombus dans la veine cave inférieure sous-diaphragmatique.",
+        "T4 correspond exclusivement à une tumeur limitée au rein de plus de 10 cm."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "T3 regroupe notamment l’atteinte veineuse ou graisseuse sans atteinte du fascia de Gerota. T3b est un thrombus cave inférieur sous-diaphragmatique. T4 correspond à l’infiltration du fascia de Gerota et/ou l’envahissement contigu de la surrénale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les catégories ganglionnaires et métastatiques de la classification TNM 2017 du cancer du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Nx signifie que l’atteinte ganglionnaire régionale n’est pas évaluable.",
+        "N0 signifie absence d’atteinte ganglionnaire régionale.",
+        "N1 signifie atteinte ganglionnaire régionale.",
+        "M1 signifie absence de métastase à distance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Nx : ganglions non évaluables ; N0 : absence d’atteinte ganglionnaire régionale ; N1 : atteinte ganglionnaire régionale. M1 signifie métastase à distance."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les entités suivantes, lesquelles appartiennent aux tumeurs malignes à cellules rénales citées dans le texte ?",
+      "choices": [
+        "Carcinome à cellules claires.",
+        "Carcinome rénal papillaire.",
+        "Carcinome à cellules chromophobes.",
+        "Tumeur germinale primitive du rein."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le carcinome à cellules claires, le carcinome papillaire et le carcinome chromophobe font partie des tumeurs malignes à cellules rénales. Les tumeurs germinales sont listées dans les autres tumeurs rénales."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les entités suivantes, lesquelles sont classées dans les autres tumeurs rénales selon le texte ?",
+      "choices": [
+        "Tumeurs métanéphriques.",
+        "Tumeurs neuroendocrines.",
+        "Tumeurs lymphoïdes et hématopoïétiques.",
+        "Carcinome des tubes collecteurs."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs métanéphriques, neuroendocrines, lymphoïdes et hématopoïétiques sont classées parmi les autres tumeurs rénales. Le carcinome des tubes collecteurs est une tumeur maligne à cellules rénales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les scores anatomiques RENAL, PADUA, C-index et le score de complexité artérielle, quels paramètres peuvent-ils décrire ?",
+      "choices": [
+        "La taille tumorale.",
+        "Le caractère antérieur ou postérieur de la tumeur.",
+        "La proximité du sinus rénal.",
+        "Le taux de LDH sérique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Ces scores décrivent des paramètres anatomiques : taille, localisation, caractère antérieur/postérieur, exophytique/endophytique, proximité du sinus, rapports aux voies excrétrices et au système artériel. La LDH est un facteur biologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments font partie des facteurs pronostiques anatomiques du cancer du rein selon le texte ?",
+      "choices": [
+        "Stade TNM.",
+        "Taille tumorale.",
+        "Atteinte veineuse.",
+        "Albuminémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs anatomiques incluent le stade TNM, la taille tumorale, l’atteinte veineuse, l’atteinte ganglionnaire et les métastases. L’albumine est un facteur biologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments font partie des facteurs pronostiques histologiques du cancer du rein selon le texte ?",
+      "choices": [
+        "Composante sarcomatoïde.",
+        "Composante rhabdoïde.",
+        "Emboles vasculaires.",
+        "Calcémie corrigée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs histologiques comprennent notamment les composantes sarcomatoïde et rhabdoïde, les emboles vasculaires, l’envahissement du système collecteur et la nécrose tumorale. La calcémie corrigée est un facteur biologique."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification TNM 2017 du cancer du rein, quelle catégorie correspond à une tumeur primitive non retrouvée ?",
+      "choices": [
+        "Tx.",
+        "T0.",
+        "T1.",
+        "T2."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "T0 correspond à une tumeur primitive non retrouvée. Tx signifie que la tumeur n’est pas évaluable."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification TNM 2017, une tumeur rénale de 6 cm limitée au rein correspond à quel stade T ?",
+      "choices": [
+        "T1a.",
+        "T1b.",
+        "T2a.",
+        "T3a."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Une tumeur > 4 cm et ≤ 7 cm limitée au rein correspond au stade T1b."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification TNM 2017, un thrombus tumoral dans la veine cave inférieure sus-diaphragmatique correspond à quel stade ?",
+      "choices": [
+        "T3a.",
+        "T3b.",
+        "T3c.",
+        "T4."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "T3c correspond à un thrombus dans la veine cave inférieure sus-diaphragmatique ou à une infiltration de sa paroi."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’intérêt principal des scores anatomiques dans une tumeur rénale selon le texte ?",
+      "choices": [
+        "Remplacer l’examen anatomopathologique.",
+        "Standardiser la description de la complexité tumorale, notamment avant néphrectomie partielle.",
+        "Déterminer directement le groupe IMDC.",
+        "Évaluer exclusivement le risque métastatique biologique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les scores anatomiques standardisent la description de la complexité tumorale, en particulier dans la planification d’une néphrectomie partielle."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la classification IMDC du cancer du rein métastatique, un patient présentant 2 facteurs pronostiques appartient à quel groupe ?",
+      "choices": [
+        "Bon pronostic.",
+        "Pronostic intermédiaire.",
+        "Mauvais pronostic.",
+        "Pronostic non évaluable."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans l’IMDC : 0 facteur = bon pronostic ; 1 ou 2 facteurs = pronostic intermédiaire ; 3 facteurs ou plus = mauvais pronostic."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour une petite tumeur du rein T1a inférieure à 4 cm, quel est le traitement de référence selon le texte ?",
+      "choices": [
+        "Néphrectomie partielle.",
+        "Néphrectomie totale systématique.",
+        "Cytoponction thérapeutique.",
+        "Surveillance exclusive obligatoire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La néphrectomie partielle est le traitement de référence des tumeurs T1a, avec des résultats carcinologiques équivalents à la néphrectomie totale et une meilleure préservation de la fonction rénale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les marges chirurgicales lors d’une néphrectomie partielle pour tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Le volume de parenchyme rénal préservé semble être le principal déterminant de la fonction rénale postopératoire.",
+        "Une marge minimale de tissu sain est considérée comme suffisante.",
+        "Une marge chirurgicale positive augmente le risque de récidive locale.",
+        "L’impact d’une marge positive sur la survie spécifique peut être limité si une surveillance rapprochée permet un traitement de rattrapage."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La préservation parenchymateuse conditionne la fonction rénale postopératoire. Une marge minimale suffit ; une marge positive augmente surtout le risque de récidive locale, avec un impact limité sur la survie spécifique si un rattrapage est possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’énucléation tumorale dans la prise en charge chirurgicale d’une tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être réalisée dans des cas sélectionnés.",
+        "Elle expose à une augmentation démontrée du risque de récidive locale.",
+        "Elle nécessite obligatoirement une large marge de tissu sain.",
+        "Le texte indique qu’elle peut être réalisée sans augmentation démontrée du risque de récidive locale."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "explanation": "L’énucléation tumorale est envisageable dans des cas sélectionnés. Le texte précise qu’aucune augmentation démontrée du risque de récidive locale n’a été rapportée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les voies d’abord de la néphrectomie partielle, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie ouverte fait partie des voies possibles.",
+        "La voie laparoscopique fait partie des voies possibles.",
+        "La voie robot-assistée fait partie des voies possibles.",
+        "Les résultats carcinologiques sont globalement équivalents entre les voies d’abord."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les trois voies d’abord citées sont ouverte, laparoscopique et robot-assistée. Le texte rapporte des résultats carcinologiques globalement équivalents."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les avantages potentiels de la voie robot-assistée pour la chirurgie rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut réduire les pertes sanguines dans certaines séries.",
+        "Elle peut réduire la durée d’hospitalisation dans certaines séries.",
+        "Elle peut réduire la durée d’ischémie dans certaines séries.",
+        "Elle peut réduire le taux de complications dans certaines séries."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Selon le texte, la voie robot-assistée peut diminuer les pertes sanguines, la durée d’hospitalisation, la durée d’ischémie et le taux de complications dans certaines séries."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les situations complexes de tumeur rénale T1a où la néphrectomie partielle est difficile, quelles options doivent être discutées ?",
+      "choices": [
+        "Une prise en charge par une équipe expérimentée.",
+        "L’utilisation de l’échographie peropératoire.",
+        "Une ablation percutanée si la chirurgie conservatrice est impossible.",
+        "Une néphrectomie totale systématique sans discussion multidisciplinaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En situation complexe, le texte recommande de discuter une équipe expérimentée, l’échographie peropératoire et une ablation percutanée si la chirurgie conservatrice est impossible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les techniques ablatives des petites tumeurs rénales, quelles propositions sont exactes ?",
+      "choices": [
+        "La radiofréquence fait partie des techniques les plus utilisées.",
+        "La cryothérapie fait partie des techniques les plus utilisées.",
+        "Les micro-ondes font partie des techniques en évaluation.",
+        "L’électroporation irréversible fait partie des techniques en évaluation."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les techniques les plus utilisées sont la radiofréquence et la cryothérapie. Les micro-ondes, le laser, les ultrasons focalisés, l’électroporation irréversible et la radiothérapie stéréotaxique sont en évaluation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations constituent des indications principales de traitement ablatif d’une tumeur rénale selon le texte ?",
+      "choices": [
+        "Petite tumeur rénale, généralement inférieure à 3 cm.",
+        "Patient âgé.",
+        "Comorbidités importantes ou contre-indication à la chirurgie.",
+        "Situation impérative avec rein unique ou insuffisance rénale préexistante."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les traitements ablatifs sont surtout proposés pour les petites tumeurs, chez les patients âgés, comorbides, contre-indiqués à la chirurgie ou en situation impérative rénale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rapport bénéfice-risque des traitements ablatifs dans les tumeurs rénales, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils ont une morbidité généralement inférieure à celle de la chirurgie.",
+        "Ils exposent à un risque de récidive locale légèrement plus élevé.",
+        "Ils doivent être proposés surtout chez les patients fragiles.",
+        "Ils doivent être proposés surtout chez les patients ayant une espérance de vie limitée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les traitements ablatifs sont moins morbides que la chirurgie, mais avec un risque de récidive locale légèrement plus élevé ; ils sont adaptés aux patients fragiles ou à espérance de vie limitée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la surveillance active d’une petite masse rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle consiste en une surveillance régulière par imagerie de la taille tumorale.",
+        "Elle évalue l’évolution de la tumeur dans le temps.",
+        "Elle peut être proposée chez des patients âgés ou comorbides.",
+        "Elle peut être proposée chez des patients ayant une petite masse rénale à faible risque évolutif."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La surveillance active repose sur l’imagerie répétée de la taille et de l’évolution tumorale. Elle concerne notamment les patients âgés, comorbides ou porteurs de petites masses à faible risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient sous surveillance active pour petite masse rénale, quels éléments peuvent faire envisager une intervention différée ?",
+      "choices": [
+        "Une augmentation significative de taille.",
+        "Une évolution radiologique suspecte.",
+        "L’apparition de symptômes.",
+        "Une modification du rapport bénéfice-risque."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Une intervention différée est envisagée si la tumeur augmente significativement, devient radiologiquement suspecte, devient symptomatique ou si le rapport bénéfice-risque se modifie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la néphrectomie partielle pour les tumeurs rénales localisées T1b et T2, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle doit être privilégiée lorsqu’elle est techniquement possible.",
+        "Elle doit être privilégiée lorsqu’elle est oncologiquement sûre.",
+        "Elle permet une meilleure préservation de la fonction rénale.",
+        "Son taux de complications peut augmenter avec la taille et la complexité tumorale."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Pour les tumeurs de plus de 4 cm, la néphrectomie partielle est privilégiée si elle est faisable et sûre sur le plan oncologique, avec bénéfice fonctionnel mais davantage de complications si la tumeur est volumineuse ou complexe."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez les patients âgés ou fragiles porteurs d’une tumeur rénale localisée T1b ou T2, quels éléments doivent être pris en compte avant d’indiquer une néphrectomie partielle ?",
+      "choices": [
+        "Le risque opératoire.",
+        "La complexité tumorale.",
+        "Le bénéfice attendu sur la fonction rénale.",
+        "L’espérance de vie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’indication doit être individualisée selon le risque opératoire, la complexité anatomique, le bénéfice fonctionnel attendu et l’espérance de vie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la néphrectomie totale élargie dans les tumeurs rénales localisées T1b et T2, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est indiquée lorsque la néphrectomie partielle n’est pas réalisable.",
+        "La surrénale doit être préservée de principe.",
+        "La surrénalectomie est indiquée en cas d’envahissement suspecté à l’imagerie.",
+        "La surrénalectomie est indiquée en cas d’envahissement constaté pendant l’intervention."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La néphrectomie totale élargie est réservée aux cas où la néphrectomie partielle n’est pas faisable. La surrénale est préservée sauf suspicion radiologique ou constat peropératoire d’envahissement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le curage ganglionnaire dans le cancer du rein non métastatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il n’est pas recommandé chez les patients sans adénopathie clinique ou radiologique.",
+        "Il est recommandé en cas d’adénopathies palpables.",
+        "Il est recommandé en cas d’adénopathies suspectes à l’imagerie.",
+        "En l’absence d’adénopathie, son bénéfice oncologique n’est pas démontré."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le curage ganglionnaire est indiqué en cas d’adénopathies palpables ou radiologiquement suspectes. En l’absence d’adénopathie, son bénéfice oncologique n’est pas établi."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une tumeur rénale localisée, quel élément semble être le principal déterminant de la fonction rénale postopératoire après chirurgie conservatrice ?",
+      "choices": [
+        "La largeur maximale de la marge de sécurité.",
+        "Le volume de parenchyme rénal préservé.",
+        "La réalisation systématique d’une surrénalectomie.",
+        "Le curage ganglionnaire prophylactique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que le volume parenchymateux préservé est le principal déterminant de la fonction rénale postopératoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation une néphrectomie totale peut-elle être envisagée pour une tumeur rénale T1a ?",
+      "choices": [
+        "Devant toute tumeur rénale inférieure à 4 cm.",
+        "En cas d’impossibilité technique de néphrectomie partielle, notamment tumeur totalement endophytique et sinusale.",
+        "Dès qu’une voie robot-assistée est disponible.",
+        "En cas de petite tumeur rénale à faible risque évolutif chez un patient fragile."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La néphrectomie totale n’est pas recommandée pour une T1a, sauf impossibilité technique de néphrectomie partielle, notamment tumeur totalement endophytique et sinusale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation concernant la biopsie avant surveillance active d’une petite masse rénale est exacte ?",
+      "choices": [
+        "Elle est toujours obligatoire avant toute surveillance active.",
+        "Elle est contre-indiquée avant surveillance active.",
+        "Elle n’est pas obligatoire, mais peut aider à la décision.",
+        "Elle remplace la surveillance radiologique régulière."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Avant surveillance active, la biopsie n’est pas obligatoire, mais elle peut aider à la décision thérapeutique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’attitude de principe vis-à-vis de la surrénale lors d’une néphrectomie totale élargie pour tumeur rénale localisée ?",
+      "choices": [
+        "Surrénalectomie systématique.",
+        "Préservation de principe de la surrénale.",
+        "Surrénalectomie uniquement si la tumeur mesure moins de 3 cm.",
+        "Surrénalectomie uniquement en cas de surveillance active préalable."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La surrénale doit être préservée de principe ; la surrénalectomie n’est indiquée qu’en cas d’envahissement suspecté à l’imagerie ou constaté pendant l’intervention."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle voie d’abord reste la voie standard pour les cancers du rein localement avancés ?",
+      "choices": [
+        "La voie ouverte.",
+        "La radiothérapie stéréotaxique exclusive.",
+        "La voie endoscopique urétérale.",
+        "La surveillance active exclusive."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Pour les tumeurs localement avancées, la voie ouverte reste la voie standard, même si la laparoscopie ou la robot-assistance peuvent être envisagées dans des cas sélectionnés."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas de thrombus tumoral dans la veine cave, quelle prise en charge est recommandée selon le texte ?",
+      "choices": [
+        "Surveillance active isolée.",
+        "Néphrectomie élargie associée à une thrombectomie cave.",
+        "Curage ganglionnaire isolé sans néphrectomie.",
+        "Surrénalectomie isolée."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En présence d’un thrombus tumoral cave, le texte recommande une néphrectomie élargie associée à une thrombectomie cave."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la néphrectomie cytoréductrice chez un patient atteint de cancer du rein métastatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle n’est plus recommandée en routine chez les patients de pronostic intermédiaire ou mauvais, asymptomatiques de la tumeur primitive, lorsqu’un traitement médical est indiqué.",
+        "Elle doit être réalisée systématiquement avant tout traitement systémique, quel que soit le groupe pronostique.",
+        "Elle peut être envisagée chez les patients de bon pronostic.",
+        "Elle peut être discutée en cas de faible charge métastatique avec possibilité d’exérèse complète de la tumeur primitive et des métastases."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La néphrectomie cytoréductrice n’est pas systématique. Elle peut être envisagée dans des situations sélectionnées : bon pronostic, bon état général, faible charge métastatique, maladie oligométastatique résécable ou exérèse complète possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations constituent des arguments en faveur d’une métastasectomie dans le cancer du rein métastatique ?",
+      "choices": [
+        "Métastase unique.",
+        "Maladie oligométastatique.",
+        "Possibilité uniquement d’une résection incomplète.",
+        "État général compatible avec une chirurgie."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La métastasectomie doit être envisagée en cas de métastase unique, maladie oligométastatique, état général compatible et possibilité d’exérèse complète."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels objectifs peuvent justifier un traitement local des métastases d’un cancer du rein ?",
+      "choices": [
+        "Contrôler des symptômes.",
+        "Prévenir des complications locales.",
+        "Différer l’instauration d’un traitement systémique.",
+        "Remplacer systématiquement toute stratégie systémique en maladie diffuse évolutive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les traitements locaux peuvent être indiqués à visée symptomatique, préventive des complications locales, pour différer un traitement systémique, obtenir une rémission complète ou permettre une pause thérapeutique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les modalités suivantes, lesquelles sont citées comme traitements locaux possibles des métastases du cancer du rein ?",
+      "choices": [
+        "Radiothérapie externe.",
+        "Radiothérapie stéréotaxique.",
+        "Radiofréquence ou cryothérapie.",
+        "Hormonothérapie anti-androgénique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les options locales citées sont la radiothérapie externe, la radiothérapie stéréotaxique, la radiofréquence, la cryothérapie, l’embolisation et la chirurgie de stabilisation osseuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour des métastases pulmonaires de cancer du rein, quels critères définissent les meilleurs candidats à un traitement local ?",
+      "choices": [
+        "Possibilité d’un traitement complet.",
+        "Moins de six lésions pulmonaires.",
+        "Intervalle long entre la néphrectomie et l’apparition des métastases.",
+        "Présence obligatoire d’une progression rapidement symptomatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les meilleurs candidats sont ceux chez qui un traitement complet est possible, avec moins de six lésions pulmonaires et un long intervalle entre néphrectomie et apparition des métastases."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prise en charge locale des métastases osseuses du cancer du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Une chirurgie peut être proposée en cas de lésion unique ou menaçante.",
+        "Une radiothérapie antalgique peut être indiquée.",
+        "Une radiothérapie stéréotaxique peut être utilisée si l’objectif est ablatif.",
+        "La radiothérapie panencéphalique est le traitement local de référence des métastases osseuses uniques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pour les métastases osseuses, le texte cite la chirurgie en cas de lésion unique ou menaçante, la radiothérapie antalgique, la radiothérapie stéréotaxique à visée ablative et l’embolisation en cas de lésions hypervasculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les métastases cérébrales du cancer du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Une chirurgie peut être proposée en cas de lésion accessible.",
+        "Une radiothérapie stéréotaxique peut être proposée en cas de lésion accessible.",
+        "La radiothérapie panencéphalique est réservée aux lésions multiples ou aux patients de mauvais pronostic.",
+        "L’embolisation est systématiquement recommandée comme traitement curatif des métastases cérébrales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas de métastase cérébrale accessible, chirurgie ou radiothérapie stéréotaxique peuvent être discutées. La radiothérapie panencéphalique est réservée aux lésions multiples ou aux patients de mauvais pronostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le cancer du rein métastatique, dans quelles situations l’embolisation peut-elle être proposée selon le texte ?",
+      "choices": [
+        "Réduire un saignement avant chirurgie.",
+        "Contrôler les symptômes de métastases osseuses.",
+        "Contrôler les symptômes de métastases paravertébrales.",
+        "Assurer systématiquement une rémission complète des métastases pulmonaires multiples."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’embolisation peut être proposée pour réduire un saignement avant chirurgie ou contrôler les symptômes de métastases osseuses ou paravertébrales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la stratégie médicale dans le carcinome rénal métastatique à cellules claires, quelles propositions sont exactes ?",
+      "choices": [
+        "Le choix thérapeutique dépend du groupe pronostique IMDC.",
+        "Le choix thérapeutique dépend de la ligne de traitement.",
+        "L’état général, les comorbidités et les contre-indications à l’immunothérapie ou aux antiangiogéniques doivent être pris en compte.",
+        "Une observation initiale est obligatoire chez tous les patients de pronostic intermédiaire, même symptomatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La stratégie dépend du groupe IMDC, de la ligne, de l’état général, des comorbidités et des contre-indications. L’observation initiale n’est proposée que chez certains patients de bon ou intermédiaire pronostic avec maladie peu symptomatique et indolente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les traitements de première ligne du carcinome rénal métastatique à cellules claires, quelles propositions sont exactes ?",
+      "choices": [
+        "En bon pronostic, le sunitinib ou le pazopanib sont cités.",
+        "En pronostic intermédiaire, l’association nivolumab plus ipilimumab est proposée en l’absence de contre-indication à l’immunothérapie.",
+        "En mauvais pronostic, le temsirolimus est cité comme option.",
+        "En bon pronostic, l’association nivolumab plus ipilimumab est le seul traitement cité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite sunitinib ou pazopanib en bon pronostic ; nivolumab plus ipilimumab en pronostic intermédiaire ou mauvais si pas de contre-indication ; temsirolimus est une option en mauvais pronostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les traitements de deuxième ligne du carcinome rénal métastatique à cellules claires, quelles propositions sont exactes ?",
+      "choices": [
+        "Après échec d’un anti-VEGFR, le nivolumab est cité.",
+        "Après échec d’un anti-VEGFR, le cabozantinib est cité.",
+        "Après échec d’une double immunothérapie, un traitement séquentiel par thérapie ciblée anti-VEGFR est proposé.",
+        "Après échec d’une double immunothérapie, le traitement séquentiel par anti-VEGFR est formellement contre-indiqué."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après échec d’un anti-VEGFR, le nivolumab ou le cabozantinib sont cités. Après échec d’une double immunothérapie, une thérapie ciblée anti-VEGFR peut être proposée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les stratégies de troisième ligne dans le carcinome rénal métastatique à cellules claires, quelles propositions sont exactes ?",
+      "choices": [
+        "Après antiangiogénique puis nivolumab, le cabozantinib est privilégié.",
+        "Après antiangiogénique puis cabozantinib, le nivolumab est privilégié.",
+        "L’axitinib, le sorafenib ou l’évérolimus sont cités comme options dans certaines séquences.",
+        "Le temsirolimus est cité comme traitement privilégié de troisième ligne après antiangiogénique puis nivolumab."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En troisième ligne, cabozantinib est privilégié après antiangiogénique puis nivolumab ; nivolumab est privilégié après antiangiogénique puis cabozantinib. Axitinib, sorafenib ou évérolimus sont des options."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les carcinomes rénaux métastatiques non à cellules claires, quelles propositions sont exactes ?",
+      "choices": [
+        "Les anti-VEGFR représentent le traitement standard.",
+        "Les inhibiteurs de mTOR semblent supérieurs aux anti-VEGFR en première ligne.",
+        "L’inclusion dans un essai clinique doit être encouragée.",
+        "Pour les carcinomes des tubes collecteurs et les carcinomes médullaires, une chimiothérapie par doublet à base de sel de platine peut être proposée."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Dans les formes non à cellules claires, les anti-VEGFR sont standards. Les inhibiteurs de mTOR peuvent être utilisés mais semblent inférieurs aux anti-VEGFR en première ligne. Les essais cliniques sont encouragés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes héréditaires de cancer du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles représentent environ 2 à 3 % des cancers du rein.",
+        "Elles surviennent généralement plus tard que les formes sporadiques.",
+        "Elles sont souvent bilatérales, multifocales et récidivantes.",
+        "Le diagnostic précoce permet une surveillance adaptée et un dépistage familial si l’anomalie génétique est identifiée."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Les formes héréditaires représentent environ 2 à 3 % des cancers du rein, surviennent plus tôt que les formes sporadiques et sont fréquemment bilatérales, multifocales et récidivantes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel gène est associé au cancer rénal papillaire héréditaire selon le texte ?",
+      "choices": [
+        "VHL",
+        "FH",
+        "MET",
+        "BHD/FLCN"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le cancer rénal papillaire héréditaire est associé au gène MET et aux carcinomes papillaires de type 1, souvent multiples et bilatéraux."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association est caractéristique de la maladie de von Hippel–Lindau selon le texte ?",
+      "choices": [
+        "Carcinomes chromophobes et fibrofolliculomes cutanés.",
+        "Carcinomes à cellules claires et hémangioblastomes du système nerveux central ou de la rétine.",
+        "Carcinomes papillaires de type 1 et mutation MET.",
+        "Carcinomes des tubes collecteurs et léiomyomes cutanés."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La maladie de von Hippel–Lindau est liée au gène VHL et associe notamment carcinomes à cellules claires, kystes rénaux et hémangioblastomes du système nerveux central et de la rétine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle prédisposition héréditaire est liée au gène FH selon le texte ?",
+      "choices": [
+        "Léiomyomatose cutanéo-utérine héréditaire avec cancer rénal.",
+        "Maladie de von Hippel–Lindau.",
+        "Syndrome de Birt–Hogg–Dubé.",
+        "Cancer rénal papillaire héréditaire lié à MET."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La léiomyomatose cutanéo-utérine héréditaire avec cancer rénal est liée au gène FH et peut comporter des carcinomes papillaires de type 2 et des carcinomes des tubes collecteurs."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément extrarénal est cité dans le syndrome de Birt–Hogg–Dubé ?",
+      "choices": [
+        "Hémangioblastome rétinien.",
+        "Phéochromocytome.",
+        "Fibrofolliculomes cutanés avec kystes pulmonaires et pneumothorax.",
+        "Léiomyomes utérins agressifs."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le syndrome de Birt–Hogg–Dubé est associé au gène BHD/FLCN et peut comporter fibrofolliculomes cutanés, kystes pulmonaires, pneumothorax et parfois polypes ou carcinomes colorectaux dans certaines familles."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans certaines formes héréditaires de cancer du rein à évolution lente, quel seuil d’intervention est mentionné dans le texte ?",
+      "choices": [
+        "Autour de 1 cm.",
+        "Autour de 3 cm.",
+        "Autour de 7 cm.",
+        "Uniquement après apparition de métastases."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte mentionne que, pour certaines formes héréditaires à évolution lente, un seuil d’intervention autour de 3 cm est souvent retenu."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient atteint de carcinome rénal métastatique à cellules claires de mauvais pronostic, quel traitement est cité en première ligne en l’absence de contre-indication à l’immunothérapie ?",
+      "choices": [
+        "Association nivolumab plus ipilimumab.",
+        "Pazopanib en monothérapie comme seul standard.",
+        "Évérolimus privilégié d’emblée.",
+        "Sorafenib comme traitement obligatoire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En mauvais pronostic, l’association nivolumab plus ipilimumab est citée en première ligne si absence de contre-indication à l’immunothérapie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs kystiques du rein, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elles représentent 5 à 7 % des tumeurs du rein.",
+        "Elles sont généralement plus agressives que les tumeurs solides.",
+        "Elles sont généralement de bas grade.",
+        "L’imagerie en coupe par scanner ou IRM est recommandée pour les caractériser."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Les tumeurs kystiques représentent 5 à 7 % des tumeurs rénales, sont généralement moins agressives et de bas grade. Leur caractérisation repose sur le scanner ou l’IRM."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont compatibles avec un kyste Bosniak I selon le texte ?",
+      "choices": [
+        "Paroi fine.",
+        "Absence de cloisons, calcifications ou composante tissulaire.",
+        "Rehaussement minime après injection.",
+        "Aucune surveillance nécessaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Un Bosniak I correspond à un kyste bénin à paroi fine, sans cloison, calcification ni composante tissulaire, de densité liquidienne, sans rehaussement, ne nécessitant aucune surveillance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lésions Bosniak IIF, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent présenter des cloisons nombreuses et fines.",
+        "Un minime épaississement des parois ou des cloisons est possible.",
+        "Une imagerie annuelle pendant 5 ans est conseillée.",
+        "Elles imposent systématiquement une chirurgie selon les règles oncologiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les Bosniak IIF sont probablement bénins mais nécessitent une surveillance annuelle pendant 5 ans. Ils peuvent présenter des cloisons fines nombreuses, un minime épaississement et un minime rehaussement."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments caractérisent une lésion Bosniak III selon le texte ?",
+      "choices": [
+        "Paroi épaisse et irrégulière.",
+        "Calcifications épaisses et irrégulières.",
+        "Rehaussement significatif de la paroi ou des cloisons.",
+        "Kyste bénin ne nécessitant aucune surveillance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le Bosniak III est un kyste suspect avec risque de malignité significatif, associant notamment paroi épaisse irrégulière, calcifications épaisses irrégulières et rehaussement significatif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lésions Bosniak IV, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent comporter des végétations intrakystiques rehaussées.",
+        "Elles sont considérées comme malignes jusqu’à preuve du contraire.",
+        "Une indication chirurgicale selon les règles oncologiques est retenue.",
+        "La surveillance simple est systématiquement recommandée sans autre discussion."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le Bosniak IV est défini par des éléments rehaussés, notamment des végétations intrakystiques, et doit être considéré comme malin jusqu’à preuve du contraire, avec indication chirurgicale oncologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la biopsie des tumeurs kystiques du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle n’est généralement pas recommandée.",
+        "Elle peut éventuellement se discuter pour un Bosniak IV.",
+        "Elle nécessite un contingent solide clairement identifiable lorsqu’elle est envisagée.",
+        "Elle est systématique pour les Bosniak I et II."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La biopsie des tumeurs kystiques n’est généralement pas recommandée, sauf éventuellement pour les Bosniak IV lorsqu’un contingent solide clairement identifiable existe."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont considérées comme impératives selon le texte ?",
+      "choices": [
+        "Rein unique anatomique.",
+        "Rein unique fonctionnel.",
+        "Tumeurs bilatérales.",
+        "Fonction rénale normale avec tumeur unilatérale unique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les situations impératives sont celles où une néphrectomie totale expose à un risque élevé d’insuffisance rénale terminale ou de dialyse définitive : rein unique anatomique ou fonctionnel, tumeurs bilatérales, insuffisance rénale préexistante."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les situations impératives de tumeur rénale, quelles mesures sont recommandées ou conseillées ?",
+      "choices": [
+        "Néphrectomie partielle si elle est techniquement réalisable.",
+        "Biopsie pour confirmer la malignité.",
+        "Consultation néphrologique préopératoire.",
+        "Néphrectomie totale systématique d’emblée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En situation impérative, la néphrectomie partielle est le traitement de référence si elle est techniquement réalisable. Une biopsie est recommandée et une consultation néphrologique préopératoire est conseillée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les traitements ablatifs dans les situations impératives, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent réduire la morbidité.",
+        "Ils peuvent préserver la fonction rénale.",
+        "Ils peuvent être discutés lorsque la chirurgie conservatrice est trop risquée.",
+        "Ils garantissent une survie sans récidive supérieure à celle de la néphrectomie partielle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les traitements ablatifs peuvent réduire la morbidité et préserver la fonction rénale, mais la survie sans récidive peut être inférieure à celle observée après néphrectomie partielle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs sur transplant rénal, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont rares.",
+        "Elles sont souvent de type tubulo-papillaire.",
+        "Une biopsie est recommandée.",
+        "Leur prise en charge est toujours une transplantectomie systématique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs sur transplant rénal sont rares, souvent tubulo-papillaires, et une biopsie est recommandée. La prise en charge doit être multidisciplinaire et individualisée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge d’une tumeur sur transplant rénal, quels éléments doivent être pris en compte ?",
+      "choices": [
+        "La fonction du transplant.",
+        "La taille et la localisation tumorale.",
+        "La complexité chirurgicale.",
+        "La pagination du dossier radiologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La décision doit tenir compte de la fonction du transplant, de la taille et de la localisation tumorale, de la complexité chirurgicale, du plateau technique disponible et des possibilités de néphrectomie partielle ou de traitement ablatif."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels sont les objectifs du suivi après traitement d’un cancer du rein selon le texte ?",
+      "choices": [
+        "Détecter les complications postopératoires.",
+        "Dépister une récidive locale ou des métastases.",
+        "Surveiller la fonction rénale et mettre en place des mesures de néphroprotection.",
+        "Éviter toute imagerie après exérèse complète d’une tumeur localisée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le suivi vise notamment à détecter les complications postopératoires, dépister récidive locale et métastases, détecter une tumeur controlatérale, surveiller la fonction rénale et instaurer des mesures de néphroprotection."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la récidive après exérèse d’une tumeur rénale localisée, quelles propositions sont exactes ?",
+      "choices": [
+        "La récidive locale est rare.",
+        "Le risque augmente avec la taille tumorale.",
+        "Le risque augmente en cas de marge positive.",
+        "Les récidives tardives sont impossibles après 5 ans."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La récidive locale est rare après exérèse de tumeurs localisées. Son risque augmente avec la taille tumorale, une marge positive, la multifocalité et le grade tumoral. Des récidives tardives restent possibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Après traitement ablatif d’une tumeur rénale, quelles propositions sont exactes concernant la surveillance ?",
+      "choices": [
+        "Une imagerie est nécessaire à 2 mois.",
+        "Une imagerie est nécessaire à 6 mois et à 1 an.",
+        "La surveillance devient ensuite annuelle.",
+        "La radiographie abdominale est l’examen le plus performant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après ablation thermique, la surveillance par imagerie est recommandée à 2 mois, 6 mois, 1 an, puis annuellement. Les examens les plus performants sont le scanner et l’IRM."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le suivi d’un cancer du rein localisé de faible risque, quelle est la durée totale de surveillance indiquée ?",
+      "choices": [
+        "2 ans.",
+        "5 ans.",
+        "10 ans.",
+        "Surveillance mensuelle à vie."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Pour le groupe de faible risque, le suivi comprend un contrôle à 6 mois, puis annuel pendant 3 ans, avec un dernier contrôle à 5 ans, soit une durée totale de 5 ans."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le premier site métastatique du cancer du rein cité dans le texte ?",
+      "choices": [
+        "Foie.",
+        "Os.",
+        "Poumon.",
+        "Cerveau."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que le poumon est le premier site métastatique du cancer du rein."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le suivi du cancer du rein métastatique, quel examen est généralement utilisé tous les 3 à 6 mois ?",
+      "choices": [
+        "Scanner thoraco-abdomino-pelvien.",
+        "Échographie rénale isolée.",
+        "Radiographie pulmonaire seule.",
+        "Scintigraphie rénale systématique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le suivi du cancer du rein métastatique repose généralement sur un scanner thoraco-abdomino-pelvien tous les 3 à 6 mois."
+    },
+    {
+      "type": "QCS",
+      "question": "Si le suivi après ablation thermique repose sur l’IRM abdominale, quel examen thoracique est recommandé annuellement ?",
+      "choices": [
+        "Radiographie thoracique de face.",
+        "Scanner thoracique annuel sans injection.",
+        "IRM thoracique injectée.",
+        "Échographie pleurale annuelle."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Lorsque le suivi repose sur l’IRM abdominale, un scanner thoracique annuel sans injection est recommandé pour rechercher des métastases pulmonaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel aspect radiologique fait suspecter une récidive locale après ablation thermique d’une tumeur rénale ?",
+      "choices": [
+        "Prise de contraste nodulaire ou ovalaire périphérique au contact de la zone traitée.",
+        "Disparition complète de toute prise de contraste.",
+        "Calcification fine isolée sans rehaussement.",
+        "Kyste à paroi fine sans cloison."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Après ablation, une récidive locale est suspectée devant une prise de contraste nodulaire ou ovalaire, souvent périphérique, au contact de la zone traitée ou du parenchyme rénal adjacent."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel rythme est indiqué pour le suivi d’un cancer du rein localisé ou localement avancé de haut risque pendant les 3 premières années ?",
+      "choices": [
+        "Tous les 3 mois pendant 1 an.",
+        "Tous les 6 mois pendant 3 ans.",
+        "Annuel pendant 3 ans.",
+        "Tous les 2 ans pendant 4 ans dès le diagnostic."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Pour le groupe de haut risque, le suivi par scanner thoraco-abdomino-pelvien, ou IRM abdominale associée à un scanner thoracique si besoin, est réalisé tous les 6 mois pendant 3 ans."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels font partie des principaux facteurs de risque du cancer du rein cités dans le texte ?",
+      "choices": [
+        "L’âge",
+        "Le tabagisme",
+        "L’obésité",
+        "L’hypertension artérielle"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les principaux facteurs de risque cités sont l’âge, le tabagisme, l’obésité, l’hypertension artérielle et l’insuffisance rénale chronique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le profil épidémiologique des cancers du rein chez les patients atteints d’insuffisance rénale chronique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le risque de cancer du rein est augmenté",
+        "Le risque peut atteindre dix fois celui de la population générale",
+        "Les atteintes sont plus souvent bilatérales",
+        "Les atteintes sont plus souvent multifocales"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’insuffisance rénale chronique augmente le risque de cancer du rein, jusqu’à dix fois celui de la population générale, avec des formes plus fréquemment bilatérales et/ou multifocales."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre produit de contraste et modalité d’imagerie sont conformes au texte ?",
+      "choices": [
+        "Produit iodé pour le scanner",
+        "Produit à base de gadolinium pour l’IRM",
+        "Produit de contraste ultrasonore pour l’échographie de contraste",
+        "Produit iodé comme produit de référence pour l’échographie de contraste"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les produits iodés sont utilisés au scanner, les produits gadolinés en IRM et les produits ultrasonores en échographie de contraste."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la temporalité et la nature des effets indésirables des produits de contraste, quelles propositions sont exactes ?",
+      "choices": [
+        "Les effets indésirables aigus surviennent dans la première heure après injection",
+        "Les effets indésirables aigus sont possibles avec tous les agents",
+        "Les réactions retardées surviennent dans la semaine suivant l’injection",
+        "Les réactions retardées sont principalement cutanées"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les réactions aiguës surviennent dans la première heure et peuvent exister avec tous les agents. Les réactions retardées surviennent dans la semaine et sont principalement cutanées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les produits de contraste et l’hyperthyroïdie, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Les produits iodés ne doivent pas être injectés en cas de suspicion d’hyperthyroïdie",
+        "Les produits de contraste ultrasonores ne nécessitent pas de précaution spécifique en cas d’hyperthyroïdie",
+        "L’hyperthyroïdie suspectée est une précaution spécifiquement mentionnée pour les produits iodés",
+        "Les produits ultrasonores sont présentés comme les mieux tolérés"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte contre-indique l’injection de produits iodés chez les patients suspects d’hyperthyroïdie, tandis que les produits ultrasonores ne nécessitent pas de précaution spécifique dans ce contexte et sont les mieux tolérés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fibrose néphrogénique systémique liée aux produits gadolinés, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle concerne principalement les patients ayant une insuffisance rénale sévère",
+        "Elle concerne principalement les patients dialysés",
+        "Chez les patients à risque, le gadolinium peut être utilisé si le bénéfice clinique est supérieur au risque",
+        "Chez les patients à risque, seuls les produits de stabilité élevée doivent être utilisés"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La fibrose néphrogénique systémique touche surtout les patients avec insuffisance rénale sévère ou dialysés. Le gadolinium peut être utilisé si le bénéfice dépasse le risque, avec des produits de stabilité élevée."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles définissent un patient à risque de néphropathie induite par produit iodé selon les seuils du texte ?",
+      "choices": [
+        "Insuffisance rénale aiguë",
+        "DFG inférieur à 45 mL/min/1,73 m² lors d’une injection intra-artérielle sus-rénale",
+        "DFG inférieur à 45 mL/min/1,73 m² chez un patient hospitalisé en soins intensifs",
+        "DFG inférieur à 30 mL/min/1,73 m² lors d’une injection intraveineuse"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte identifie comme patients à risque ceux ayant une insuffisance rénale aiguë, un DFG < 45 mL/min/1,73 m² pour injection intra-artérielle sus-rénale ou soins intensifs, et un DFG < 30 mL/min/1,73 m² pour injection intra-artérielle sous-rénale ou intraveineuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient à risque devant recevoir un produit iodé, quelles mesures relèvent de la réduction du risque selon le texte ?",
+      "choices": [
+        "Proposer une autre modalité d’imagerie comme l’IRM ou l’échographie avec injection",
+        "Limiter la dose injectée au minimum nécessaire",
+        "Respecter un intervalle d’au moins 3 jours entre les injections de produit iodé",
+        "Contrôler la créatininémie 48 à 72 heures après l’injection"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les mesures recommandées comprennent l’alternative d’imagerie, l’hyperhydratation, l’espacement d’au moins 3 jours, la réduction de dose et le contrôle de la créatininémie à 48–72 heures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la metformine chez un patient diabétique devant recevoir un produit de contraste, quelles propositions sont exactes ?",
+      "choices": [
+        "Si le DFG est supérieur à 30 mL/min/1,73 m², l’interruption de la metformine n’est pas indispensable",
+        "Si le DFG est inférieur à 30 mL/min/1,73 m², la metformine doit être interrompue le jour de l’injection",
+        "Si le DFG est inférieur à 30 mL/min/1,73 m², la reprise nécessite un contrôle de la créatininémie à 48 heures",
+        "La reprise est possible en l’absence de modification significative de la fonction rénale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue le seuil de 30 mL/min/1,73 m² : au-dessus, pas d’interruption indispensable ; en dessous, arrêt le jour de l’injection et reprise après contrôle de la créatininémie à 48 heures si la fonction rénale reste stable."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propriétés des produits de contraste ultrasonores sont mentionnées dans le texte ?",
+      "choices": [
+        "Ils sont les mieux tolérés",
+        "Ils n’ont pas de toxicité rénale",
+        "Ils ne nécessitent pas de précaution spécifique en cas d’allergie aux produits iodés ou gadolinés",
+        "Ils ne nécessitent pas de précaution spécifique en cas d’atopie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les produits ultrasonores sont les mieux tolérés, sans toxicité rénale, et ne nécessitent pas de précaution spécifique en cas d’allergie aux produits iodés ou gadolinés, d’atopie ou d’hyperthyroïdie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’exploration échographique d’une masse rénale, quelles actions sont possibles avec l’échographie-Doppler selon le texte ?",
+      "choices": [
+        "Caractériser une masse solide ou kystique",
+        "Évaluer la vascularisation",
+        "Rechercher une extension à la veine rénale",
+        "Guider une biopsie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’échographie-Doppler permet de caractériser la masse, d’évaluer sa vascularisation, de rechercher une extension vasculaire rénale ou cave et de guider une biopsie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’échographie de contraste dans les masses rénales, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle améliore la caractérisation des masses solides faiblement vascularisées",
+        "Elle améliore la caractérisation des masses kystiques atypiques",
+        "Elle peut aider à distinguer un thrombus tumoral d’un thrombus cruorique",
+        "Elle peut aider à identifier des zones non nécrotiques à biopsier dans les tumeurs volumineuses"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’échographie de contraste est utile pour les masses solides peu vascularisées, les masses kystiques atypiques, la distinction des thrombus et le ciblage des zones non nécrotiques à biopsier."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’interprétation scanographique d’une masse rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "L’acquisition sans injection est indispensable pour mesurer le rehaussement",
+        "Le rehaussement tumoral est défini par une augmentation supérieure à 20 UH",
+        "Les phases peuvent être adaptées afin de limiter l’irradiation",
+        "La phase excrétoire peut rechercher un rehaussement tardif"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le scanner sans injection sert de référence pour mesurer le rehaussement. Un rehaussement > 20 UH définit le rehaussement tumoral. Les phases peuvent être adaptées pour réduire l’irradiation, et la phase excrétoire peut rechercher un rehaussement tardif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lésions kystiques rénales et la classification de Bosniak, quelles propositions sont exactes ?",
+      "choices": [
+        "Bosniak I correspond à un kyste simple bénin",
+        "Bosniak II correspond à un kyste bénin atypique",
+        "Bosniak IIF correspond à une lésion probablement bénigne nécessitant une surveillance",
+        "Bosniak IV correspond à une lésion très suspecte avec risque élevé de malignité"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La classification de Bosniak hiérarchise les masses kystiques : I kyste simple bénin, II kyste bénin atypique, IIF probablement bénin à surveiller, IV très suspect avec risque élevé de malignité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le délai définissant un effet indésirable aigu après injection de produit de contraste ?",
+      "choices": [
+        "Dans la première heure après injection",
+        "Entre 24 et 48 heures après injection",
+        "Dans la semaine suivant l’injection",
+        "Après un mois de surveillance"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les effets indésirables aigus des produits de contraste surviennent dans la première heure après l’injection."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la nature principale des réactions retardées aux produits de contraste selon le texte ?",
+      "choices": [
+        "Respiratoire",
+        "Neurologique",
+        "Cutanée",
+        "Vasculaire"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les réactions retardées, survenant dans la semaine suivant l’injection, sont principalement cutanées."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil d’augmentation de densité définit le rehaussement tumoral d’une masse rénale au scanner ?",
+      "choices": [
+        "Supérieur à 5 UH",
+        "Supérieur à 10 UH",
+        "Supérieur à 20 UH",
+        "Supérieur à 40 UH"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le rehaussement tumoral est défini par une augmentation supérieure à 20 UH par rapport à l’acquisition sans injection."
+    },
+    {
+      "type": "QCS",
+      "question": "À quel temps correspond la phase corticale du scanner rénal injecté selon le texte ?",
+      "choices": [
+        "10–20 secondes",
+        "30–40 secondes",
+        "80–100 secondes",
+        "5 minutes"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La phase corticale est réalisée à 30–40 secondes après injection."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle densité scanographique permet d’identifier la graisse macroscopique d’un angiomyolipome typique ?",
+      "choices": [
+        "Inférieure à −20 UH",
+        "Supérieure à 20 UH",
+        "Supérieure à 45 UH",
+        "Égale à 0 UH"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le scanner identifie les angiomyolipomes typiques par la détection de graisse macroscopique, de densité inférieure à −20 UH."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quel contexte la classification de Bosniak s’applique-t-elle selon le texte ?",
+      "choices": [
+        "Aux masses kystiques hors contexte infectieux ou polykystose rénale autosomique",
+        "À toute masse solide hypervascularisée",
+        "Aux thrombus de la veine rénale",
+        "Aux angiomyolipomes pauvres en graisse"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La classification de Bosniak s’applique aux masses kystiques en dehors d’un contexte infectieux ou de polykystose rénale autosomique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le choix de l’imagerie chez un patient suspect de cancer rénal héréditaire familial, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "L’IRM peut être privilégiée afin de limiter l’irradiation liée aux scanners répétés",
+        "La répétition des scanners expose à une irradiation que l’on cherche à réduire",
+        "L’IRM est indiquée uniquement si le scanner initial est strictement normal",
+        "L’objectif principal mentionné est d’éviter les séquences de diffusion"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que l’IRM est utile notamment dans les cancers héréditaires familiaux afin de réduire l’irradiation liée aux scanners répétés."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une masse rénale en IRM, quels éléments constituent des pièges diagnostiques explicitement mentionnés ?",
+      "choices": [
+        "Une chute de signal en opposition de phase peut évoquer un angiomyolipome pauvre en graisse sans être spécifique",
+        "Une chute de signal sur les séquences avec saturation de graisse peut orienter vers un angiomyolipome pauvre en graisse sans certitude diagnostique",
+        "Une zone centrale stellaire peut être compatible avec un oncocytome sans être spécifique",
+        "Un hypersignal T2 homogène permet d’affirmer formellement un carcinome papillaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur le caractère non spécifique de la chute de signal évocatrice d’angiomyolipome pauvre en graisse et de la zone centrale stellaire compatible avec un oncocytome. Les carcinomes papillaires sont plutôt en hyposignal T2."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des signaux IRM orientant vers certains sous-types de tumeurs rénales, quelles propositions sont exactes ?",
+      "choices": [
+        "Les carcinomes à cellules claires présentent souvent un hypersignal T2 hétérogène",
+        "Les carcinomes papillaires sont souvent en hyposignal T2",
+        "L’hyposignal T2 est présenté comme un argument fréquent en faveur du carcinome papillaire",
+        "Le carcinome chromophobe est décrit dans le texte comme constamment en hypersignal T1"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne l’hypersignal T2 hétérogène des carcinomes à cellules claires et l’hyposignal T2 fréquent des carcinomes papillaires. Il ne décrit pas de signal T1 constant du carcinome chromophobe."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’intérêt pratique de l’IRM avant biopsie ou dans la recherche de lésions associées, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet d’identifier des zones de nécrose à éviter lors d’une biopsie",
+        "La diffusion peut aider à détecter de petites tumeurs infra-centimétriques",
+        "La diffusion peut aider à identifier des métastases ganglionnaires ou surrénaliennes",
+        "La diffusion remplace systématiquement le bilan biologique préthérapeutique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IRM aide à éviter les zones nécrotiques lors de la biopsie. La diffusion est utile pour les petites tumeurs infra-centimétriques et certaines métastases. Elle ne remplace pas le bilan biologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les manifestations suivantes, lesquelles sont citées comme syndromes paranéoplasiques pouvant être dépistés par le bilan biologique d’une tumeur rénale ?",
+      "choices": [
+        "Anémie",
+        "Polyglobulie",
+        "Hypercalcémie",
+        "Cholestase"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite explicitement l’anémie, la polyglobulie, l’hypercalcémie et la cholestase parmi les syndromes paranéoplasiques à dépister."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations l’évaluation de la fonction rénale par la créatininémie peut-elle être moins fiable selon le texte ?",
+      "choices": [
+        "Masse musculaire extrême, comme l’obésité ou la cachexie",
+        "Inhibition de la sécrétion tubulaire de créatinine",
+        "Modification de l’élimination extra-rénale de la créatinine par le microbiote intestinal",
+        "Présence isolée d’une tumeur rénale de petite taille sans autre facteur mentionné"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La créatininémie peut être moins fiable en cas de masse musculaire extrême, d’inhibition de la sécrétion tubulaire ou de modification de l’élimination extra-rénale par le microbiote."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du carcinome papillaire de type 1, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est généralement de meilleur pronostic",
+        "Il est souvent multiple et/ou bilatéral",
+        "Il est associé à des altérations de la voie MET",
+        "Il est défini dans le texte par une activation de la voie NRF2–ARE"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le carcinome papillaire de type 1 est généralement de meilleur pronostic, souvent multiple et/ou bilatéral, avec altérations de la voie MET. L’activation NRF2–ARE concerne le type 2."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un carcinome papillaire de type 2, quelles démarches ou associations sont conformes au texte ?",
+      "choices": [
+        "Considérer qu’il a un pronostic plus défavorable que le type 1",
+        "Rechercher une mutation du gène de la fumarate hydratase",
+        "Évoquer un carcinome à translocation TFE3",
+        "Retenir systématiquement une évolution lente et indolente"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le type 2 a un pronostic plus défavorable, peut être lié à NRF2–ARE, impose de rechercher une mutation FH et de discuter une translocation TFE3."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les carcinomes avec translocation des gènes de la famille MiTF, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils doivent être évoqués chez les patients jeunes, notamment avant 40 ans",
+        "Ils peuvent présenter une architecture complexe avec contingent papillaire",
+        "Ils peuvent comporter des zones de cellules claires",
+        "Ils correspondent uniquement à des carcinomes avec amplification de TFEB du sujet âgé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les carcinomes avec translocation MiTF sont évoqués chez les patients jeunes et peuvent associer contingent papillaire et zones de cellules claires. L’amplification de TFEB est une entité distincte, plutôt du sujet âgé."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des carcinomes avec amplification de TFEB, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils surviennent plutôt chez des patients plus âgés",
+        "Ils sont décrits comme plus agressifs",
+        "Ils sont souvent avancés ou métastatiques au diagnostic",
+        "Ils sont présentés comme toujours limités au rein au diagnostic"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que les carcinomes avec amplification de TFEB touchent plutôt des patients plus âgés, sont plus agressifs et souvent avancés ou métastatiques au diagnostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations relèvent d’une consultation oncogénétique selon les indications rapportées ?",
+      "choices": [
+        "Carcinome rénal à cellules claires diagnostiqué avant 50 ans",
+        "Carcinome papillaire quel que soit l’âge",
+        "Carcinome chromophobe quel que soit l’âge",
+        "Carcinome à cellules claires uniquement en présence de métastases pulmonaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une consultation oncogénétique est recommandée pour tout carcinome à cellules claires avant 50 ans et pour tout autre sous-type histologique de carcinome du rein quel que soit l’âge."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le compte rendu anatomopathologique d’un carcinome rénal, quels éléments doivent être rapportés comme facteurs histopronostiques ?",
+      "choices": [
+        "Composante sarcomatoïde",
+        "Composante rhabdoïde",
+        "Emboles vasculaires microscopiques",
+        "Expression des récepteurs hormonaux"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les composantes sarcomatoïde et rhabdoïde ainsi que les emboles vasculaires microscopiques. L’expression des récepteurs hormonaux n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations la biopsie percutanée d’une tumeur rénale est-elle recommandée car susceptible de modifier la prise en charge ?",
+      "choices": [
+        "Avant traitement ablatif percutané",
+        "Avant tout traitement systémique en l’absence de preuve histologique",
+        "En cas d’incertitude diagnostique à l’imagerie évoquant un lymphome, un sarcome, une pseudotumeur ou une métastase rénale",
+        "Pour confirmer systématiquement toute tumeur rénale avant chaque néphrectomie totale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La biopsie est recommandée avant ablation, avant traitement systémique sans preuve histologique, et en cas d’incertitude diagnostique. Elle n’est pas indiquée systématiquement avant toute néphrectomie totale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations imposent de ne pas conseiller la biopsie percutanée d’une tumeur rénale ou de la discuter en réunion multidisciplinaire ?",
+      "choices": [
+        "Suspicion de carcinome urothélial",
+        "Risque hémorragique élevé",
+        "Tumeur kystique sans contingent solide",
+        "Suspicion clinique d’angiomyolipome"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces quatre situations comme des cas où la biopsie n’est pas conseillée ou doit être discutée en réunion multidisciplinaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est qualifié d’examen clé du bilan préopératoire d’une tumeur rénale ?",
+      "choices": [
+        "Échographie abdominale simple",
+        "Scanner injecté",
+        "Scintigraphie osseuse",
+        "Radiographie thoracique isolée"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le scanner injecté est explicitement désigné comme l’examen clé du bilan préopératoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel sous-type histologique représente environ 5 % des principaux carcinomes rénaux selon le texte ?",
+      "choices": [
+        "Carcinome à cellules claires",
+        "Carcinome papillaire",
+        "Carcinome chromophobe",
+        "Carcinome urothélial"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le carcinome chromophobe représente environ 5 % des principaux sous-types histologiques de carcinome rénal."
+    },
+    {
+      "type": "QCS",
+      "question": "Lorsqu’une néphrectomie partielle est techniquement difficile, quel est l’objectif de la biopsie mentionné dans le texte ?",
+      "choices": [
+        "Mesurer le niveau d’un thrombus cave",
+        "Éliminer une tumeur bénigne",
+        "Confirmer une atteinte ganglionnaire médiastinale",
+        "Évaluer la clairance de la créatinine"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La biopsie peut être indiquée avant une néphrectomie partielle techniquement difficile afin d’éliminer une tumeur bénigne."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie est citée comme syndrome paranéoplasique dépistable dans le cadre du bilan biologique d’une tumeur rénale ?",
+      "choices": [
+        "Hypercalcémie",
+        "Hyponatrémie de dilution",
+        "Hypoglycémie organique",
+        "Hyperkaliémie isolée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hypercalcémie fait partie des syndromes paranéoplasiques cités, avec l’anémie, la polyglobulie et la cholestase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel aspect IRM est décrit comme souvent associé aux carcinomes papillaires du rein ?",
+      "choices": [
+        "Hyposignal T2",
+        "Hypersignal T2 hétérogène constant",
+        "Chute de signal spécifique en saturation de graisse",
+        "Zone centrale stellaire pathognomonique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les carcinomes papillaires sont souvent en hyposignal T2. Les autres éléments ne sont pas décrits comme spécifiques du carcinome papillaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mode de réalisation de la biopsie percutanée d’une tumeur rénale est explicitement mentionné ?",
+      "choices": [
+        "Sous anesthésie locale",
+        "Sous anesthésie générale obligatoire",
+        "Uniquement par laparotomie",
+        "Toujours avec hospitalisation prolongée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La biopsie percutanée peut être réalisée sous anesthésie locale, en ambulatoire, sous guidage échographique ou scanographique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont des facteurs pronostiques cliniques du cancer du rein cités dans le texte ?",
+      "choices": [
+        "Performance status",
+        "Index de Karnofsky",
+        "Cachexie",
+        "Calcémie corrigée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs pronostiques cliniques cités sont le performance status, l’index de Karnofsky, le score ECOG, la cachexie et les symptômes locaux. La calcémie corrigée est un facteur biologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels paramètres font partie des facteurs pronostiques biologiques du cancer du rein selon le texte ?",
+      "choices": [
+        "Anémie",
+        "Albumine",
+        "CRP",
+        "Composante sarcomatoïde"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs biologiques cités comprennent notamment l’anémie, l’albumine, la CRP, la calcémie corrigée, la LDH et le rapport neutrophiles/lymphocytes. La composante sarcomatoïde est un facteur histologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification pronostique IMDC du cancer du rein métastatique, quels éléments sont retenus comme facteurs défavorables ?",
+      "choices": [
+        "Index de Karnofsky inférieur à 80 %",
+        "Intervalle diagnostic-traitement systémique inférieur à 1 an",
+        "Thrombocytémie supérieure à la normale",
+        "LDH supérieure à 1,5 fois la normale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IMDC comprend notamment Karnofsky < 80 %, délai diagnostic-traitement systémique < 1 an, anémie, hypercalcémie corrigée, thrombocytémie et neutrophilie. La LDH > 1,5 N appartient au modèle historique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le modèle pronostique historique du cancer du rein métastatique, quels facteurs sont cités ?",
+      "choices": [
+        "Hémoglobinémie inférieure à la normale",
+        "Calcémie corrigée supérieure à la normale",
+        "LDH supérieure à 1,5 fois la normale",
+        "Neutrophilie supérieure à la normale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le modèle historique retient notamment l’hémoglobine basse, la calcémie corrigée élevée, la LDH > 1,5 N, Karnofsky < 80 % et le délai diagnostic-traitement systémique < 1 an. La neutrophilie appartient à l’IMDC."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs sont communs à la classification IMDC et au modèle pronostique historique ?",
+      "choices": [
+        "Index de Karnofsky inférieur à 80 %",
+        "Intervalle diagnostic-traitement systémique inférieur à 1 an",
+        "Hémoglobinémie inférieure à la normale",
+        "Thrombocytémie supérieure à la normale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les deux modèles partagent Karnofsky < 80 %, délai diagnostic-traitement systémique < 1 an, hémoglobine basse et calcémie corrigée élevée. La thrombocytémie élevée est spécifique de l’IMDC dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles différencient correctement l’IMDC du modèle pronostique historique ?",
+      "choices": [
+        "La neutrophilie supérieure à la normale est un facteur IMDC",
+        "La thrombocytémie supérieure à la normale est un facteur IMDC",
+        "La LDH supérieure à 1,5 fois la normale est un facteur du modèle historique",
+        "L’albumine basse est un facteur commun aux deux modèles"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IMDC inclut la neutrophilie et la thrombocytémie. Le modèle historique inclut la LDH > 1,5 N. L’albumine est citée comme facteur biologique, mais pas comme facteur de ces deux modèles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les groupes pronostiques du cancer du rein métastatique dans les modèles rapportés, quelles propositions sont exactes ?",
+      "choices": [
+        "L’absence de facteur correspond à un bon pronostic",
+        "Un ou deux facteurs correspondent à un pronostic intermédiaire",
+        "Trois facteurs ou plus correspondent à un mauvais pronostic",
+        "Deux facteurs correspondent toujours à un bon pronostic"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’IMDC comme dans le modèle historique, 0 facteur = bon pronostic, 1 ou 2 facteurs = pronostic intermédiaire, 3 facteurs ou plus = mauvais pronostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les tumeurs malignes à cellules rénales citées, lesquelles comportent explicitement une association moléculaire, génétique ou contextuelle dans leur dénomination ?",
+      "choices": [
+        "Carcinome associé aux translocations MiTF",
+        "Carcinome lié à un déficit en succinate déshydrogénase",
+        "Carcinome associé à la maladie kystique acquise",
+        "Carcinome à cellules chromophobes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite des entités associées aux translocations MiTF, au déficit en succinate déshydrogénase et à la maladie kystique acquise. Le carcinome chromophobe est cité sans association contextuelle dans sa dénomination."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels carcinomes figurent parmi les tumeurs malignes à cellules rénales citées dans le texte ?",
+      "choices": [
+        "Carcinome des tubes collecteurs",
+        "Carcinome médullaire",
+        "Carcinome tubulo-kystique",
+        "Tumeur germinale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les carcinomes des tubes collecteurs, médullaire et tubulo-kystique sont listés parmi les tumeurs malignes à cellules rénales. Les tumeurs germinales relèvent des autres tumeurs rénales."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les entités suivantes, lesquelles sont classées dans les autres tumeurs rénales selon le texte ?",
+      "choices": [
+        "Tumeurs neuroendocrines",
+        "Tumeurs lymphoïdes et hématopoïétiques",
+        "Tumeurs métastatiques",
+        "Carcinome papillaire à cellules claires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs neuroendocrines, lymphoïdes et hématopoïétiques ainsi que métastatiques font partie des autres tumeurs rénales. Le carcinome papillaire à cellules claires est une tumeur maligne à cellules rénales."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels scores ou systèmes de description anatomique des tumeurs rénales sont explicitement cités ?",
+      "choices": [
+        "RENAL",
+        "PADUA",
+        "index",
+        "Score ECOG"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les scores anatomiques cités sont RENAL, PADUA, C-index et le score de complexité artérielle. Le score ECOG est un facteur clinique de performance status, non un score anatomique tumoral."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les objectifs de la néphrectomie partielle pour une petite tumeur rénale T1a, quelles propositions sont exactes ?",
+      "choices": [
+        "Obtenir une exérèse complète",
+        "Préserver le maximum de parenchyme rénal sain",
+        "Éviter l’effraction de la pseudocapsule tumorale",
+        "Allonger volontairement la durée d’ischémie chaude"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La néphrectomie partielle vise une exérèse complète, la préservation du parenchyme sain et l’absence d’effraction de la pseudocapsule. La durée d’ischémie chaude doit au contraire être limitée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la néphrectomie partielle des tumeurs T1a, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "Elle est le traitement de référence des tumeurs T1a",
+        "Elle offre des résultats carcinologiques équivalents à la néphrectomie totale",
+        "Elle préserve mieux la fonction rénale que la néphrectomie totale",
+        "Elle impose une cytoponction systématique préalable"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pour les tumeurs T1a, la néphrectomie partielle est le traitement de référence, avec des résultats carcinologiques équivalents à la néphrectomie totale et une meilleure préservation fonctionnelle. La cytoponction n’est pas recommandée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les limites et pièges de la biopsie d’une tumeur rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Le grade ISUP peut être sous-estimé par rapport à la pièce opératoire",
+        "La nécrose doit être mentionnée lorsqu’elle est présente",
+        "Les tumeurs à cellules oncocytaires posent une difficulté diagnostique importante",
+        "Une biopsie non contributive interdit toute nouvelle biopsie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le grade ISUP peut être sous-estimé, la nécrose doit être signalée et les tumeurs oncocytaires sont difficiles à distinguer. En cas de biopsie non contributive, une seconde biopsie peut être envisagée."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification TNM 2017 du cancer du rein, à quoi correspond Tx ?",
+      "choices": [
+        "Tumeur primitive non retrouvée",
+        "Tumeur non évaluable",
+        "Tumeur limitée au rein de moins de 4 cm",
+        "Tumeur infiltrant le fascia de Gerota"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Tx correspond à une tumeur primitive non évaluable. T0 correspond à une tumeur primitive non retrouvée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil de l’index de Karnofsky constitue un facteur pronostique défavorable dans l’IMDC ?",
+      "choices": [
+        "Inférieur à 50 %",
+        "Inférieur à 60 %",
+        "Inférieur à 70 %",
+        "Inférieur à 80 %"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Dans la classification IMDC, un index de Karnofsky inférieur à 80 % est un facteur pronostique défavorable."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le modèle pronostique historique, quel seuil de LDH est retenu comme facteur défavorable ?",
+      "choices": [
+        "LDH supérieure à la normale",
+        "LDH supérieure à 1,5 fois la normale",
+        "LDH supérieure à 2 fois la normale",
+        "LDH inférieure à la normale"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le modèle historique retient une LDH supérieure à 1,5 fois la normale comme facteur pronostique défavorable."
+    },
+    {
+      "type": "QCS",
+      "question": "Lorsqu’un clampage est nécessaire pendant une néphrectomie partielle, quelle durée d’ischémie chaude est idéalement visée selon le texte ?",
+      "choices": [
+        "Moins de 10 minutes",
+        "Moins de 15 minutes",
+        "Moins de 25 minutes",
+        "Moins de 45 minutes"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que la durée d’ischémie chaude doit être limitée, idéalement à moins de 25 minutes lorsque le clampage est nécessaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la principale difficulté diagnostique rapportée lors de l’analyse d’une biopsie de tumeur rénale ?",
+      "choices": [
+        "Différencier un angiomyolipome typique d’un lipome",
+        "Différencier une tumeur à cellules oncocytaires d’un oncocytome ou d’un carcinome chromophobe oncocytaire",
+        "Différencier une métastase pulmonaire d’une métastase osseuse",
+        "Différencier un kyste Bosniak I d’un kyste Bosniak II"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique que la principale difficulté diagnostique concerne les tumeurs à cellules oncocytaires, pouvant correspondre à un oncocytome ou à un carcinome chromophobe oncocytaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon les groupes pronostiques rapportés, à partir de combien de facteurs un cancer du rein métastatique est-il classé de mauvais pronostic ?",
+      "choices": [
+        "À partir de 1 facteur",
+        "À partir de 2 facteurs",
+        "À partir de 3 facteurs",
+        "À partir de 5 facteurs uniquement"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans les classifications rapportées, 3 facteurs ou plus correspondent au groupe de mauvais pronostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition des cancers du rein localement avancés selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont non intracapsulaires.",
+        "Ils sont non métastatiques.",
+        "Ils peuvent inclure une extension locale.",
+        "Ils peuvent inclure une atteinte veineuse ou des tissus périrénaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte définit les cancers du rein localement avancés comme non intracapsulaires et non métastatiques, incluant notamment extension locale, atteinte veineuse ou atteinte des tissus périrénaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles ne correspondent pas à la définition d’un cancer du rein localement avancé telle que rapportée ?",
+      "choices": [
+        "Une tumeur rénale métastatique d’emblée.",
+        "Une tumeur strictement intracapsulaire.",
+        "Une tumeur rénale avec atteinte veineuse sans métastase.",
+        "Une tumeur rénale avec atteinte des tissus périrénaux sans métastase."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le cancer localement avancé est non métastatique et non intracapsulaire. L’atteinte veineuse ou périrénale peut en faire partie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement chirurgical d’un cancer du rein localement avancé, quelles propositions sont exactes ?",
+      "choices": [
+        "La chirurgie est réalisée avec intention curative.",
+        "L’objectif principal est l’obtention de marges chirurgicales négatives.",
+        "La voie ouverte reste la voie standard.",
+        "Une approche laparoscopique ou robot-assistée peut être envisagée dans des cas sélectionnés."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La chirurgie des formes localement avancées vise la guérison avec marges négatives. La voie ouverte est standard, mais les voies mini-invasives sont possibles si l’exérèse complète avec marges saines est réalisable."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un cancer du rein localement avancé, quelles conditions rendent envisageable une voie laparoscopique ou robot-assistée selon le texte ?",
+      "choices": [
+        "Un cas sélectionné.",
+        "La possibilité d’une exérèse complète.",
+        "La possibilité d’obtenir des marges saines.",
+        "L’acceptation préalable de marges positives pour réduire la morbidité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La laparoscopie ou la chirurgie robot-assistée ne sont envisageables que dans des cas sélectionnés si une exérèse complète avec marges saines est possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le curage ganglionnaire dans le cancer du rein localement avancé, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est recommandé en cas d’adénopathies palpables.",
+        "Il est recommandé en cas d’adénopathies suspectes à l’imagerie.",
+        "En l’absence d’adénopathie, son bénéfice oncologique n’est pas démontré.",
+        "Il doit être systématique même en l’absence d’adénopathie clinique ou radiologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le curage est indiqué devant des adénopathies palpables ou suspectes à l’imagerie. Sans adénopathie, le bénéfice oncologique n’est pas démontré."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les traitements adjuvants et néoadjuvants dans le cancer du rein localement avancé, quelles propositions sont exactes ?",
+      "choices": [
+        "Un traitement adjuvant par thérapie ciblée n’est pas recommandé en routine si le bénéfice est jugé insuffisant au regard de la toxicité.",
+        "Les traitements néoadjuvants par thérapie ciblée ne doivent être utilisés que dans des essais cliniques ou au cas par cas après discussion multidisciplinaire.",
+        "Les traitements néoadjuvants par immunothérapie peuvent relever d’essais cliniques ou d’une décision au cas par cas après discussion multidisciplinaire.",
+        "La toxicité des traitements adjuvants doit être prise en compte dans l’évaluation du bénéfice."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte ne recommande pas la thérapie ciblée adjuvante en routine lorsque le rapport bénéfice/toxicité est défavorable. Les traitements néoadjuvants ciblés ou immunologiques relèvent d’essais ou de décisions multidisciplinaires au cas par cas."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’envahissement des organes de voisinage par un cancer du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est difficile à prédire.",
+        "Certains patients cliniquement classés T4 peuvent bénéficier d’une résection chirurgicale.",
+        "L’obtention de marges négatives constitue un facteur pronostique majeur.",
+        "Le classement clinique T4 interdit toute tentative de résection chirurgicale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’envahissement de voisinage est difficile à prédire. Certains T4 peuvent être opérés, et l’obtention de marges négatives est un facteur pronostique majeur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le thrombus tumoral cave dans le cancer du rein, quelles propositions sont exactes ?",
+      "choices": [
+        "La prise en charge recommandée associe néphrectomie élargie et thrombectomie cave.",
+        "L’IRM préopératoire peut aider à prédire l’envahissement de la paroi veineuse.",
+        "La thrombectomie cave est associée à une morbidité et une mortalité élevées.",
+        "La morbidité et la mortalité augmentent avec le niveau du thrombus."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "En cas de thrombus cave, le texte recommande néphrectomie élargie avec thrombectomie. L’IRM peut évaluer la paroi veineuse, et le risque opératoire augmente avec le niveau du thrombus."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont rapportés comme facteurs de mauvais pronostic en cas de thrombus tumoral cave ?",
+      "choices": [
+        "La résection incomplète.",
+        "L’envahissement de la graisse périrénale.",
+        "Les métastases ganglionnaires.",
+        "L’envahissement de la paroi veineuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les facteurs défavorables cités sont notamment la résection incomplète, l’envahissement de la graisse périrénale, les métastases ganglionnaires et l’envahissement de la paroi veineuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la surrénale lors d’une néphrectomie totale élargie pour tumeur rénale localisée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle doit être préservée de principe.",
+        "La surrénalectomie est indiquée en cas d’envahissement suspecté à l’imagerie.",
+        "La surrénalectomie est indiquée en cas d’envahissement constaté pendant l’intervention.",
+        "La surrénalectomie est systématique lors de toute néphrectomie totale élargie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La préservation surrénalienne est la règle. La surrénalectomie n’est indiquée qu’en cas de suspicion radiologique ou de constat peropératoire d’envahissement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie laparoscopique lors d’une néphrectomie totale élargie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle doit être privilégiée lorsqu’elle permet un contrôle oncologique équivalent.",
+        "Elle réduit les pertes sanguines.",
+        "Elle réduit la douleur postopératoire, la durée d’hospitalisation et la convalescence.",
+        "Elle est indiquée même si le contrôle oncologique est inférieur à celui d’une autre voie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie laparoscopique est privilégiée si le contrôle oncologique est équivalent. Ses bénéfices portent sur les pertes sanguines, la douleur, l’hospitalisation et la convalescence."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la néphrectomie partielle pour les tumeurs rénales T1b et T2, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle doit être privilégiée pour les tumeurs de plus de 4 cm lorsqu’elle est techniquement possible.",
+        "Elle doit être réalisée seulement si elle est oncologiquement sûre.",
+        "Elle permet une meilleure préservation de la fonction rénale.",
+        "Son taux de complications augmente avec la taille et la complexité tumorale."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Pour les tumeurs de plus de 4 cm, la néphrectomie partielle est privilégiée si elle est techniquement possible et oncologiquement sûre, mais sa morbidité augmente avec la taille et la complexité."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient âgé ou fragile ayant une tumeur rénale T1b ou T2, quels paramètres doivent intervenir dans l’indication d’une néphrectomie partielle ?",
+      "choices": [
+        "Le risque opératoire.",
+        "La complexité tumorale.",
+        "Le bénéfice attendu sur la fonction rénale.",
+        "L’espérance de vie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Chez les patients âgés ou fragiles, l’indication doit intégrer risque opératoire, complexité tumorale, bénéfice fonctionnel rénal attendu et espérance de vie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’articulation entre surveillance active et traitement ablatif d’une petite masse rénale, quelles propositions sont exactes ?",
+      "choices": [
+        "La surveillance active repose sur l’imagerie régulière de la taille tumorale et de son évolution.",
+        "La biopsie n’est pas obligatoire avant surveillance active.",
+        "La biopsie est recommandée avant traitement ablatif.",
+        "L’apparition de symptômes peut faire envisager une intervention différée pendant la surveillance active."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La surveillance active est radiologique, la biopsie peut aider mais n’est pas obligatoire avant surveillance. En revanche, elle est recommandée avant traitement ablatif. Des symptômes peuvent conduire à intervenir secondairement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’objectif principal de la chirurgie d’un cancer du rein localement avancé selon le texte ?",
+      "choices": [
+        "Réduire uniquement la douleur postopératoire.",
+        "Obtenir des marges chirurgicales négatives.",
+        "Éviter systématiquement toute voie ouverte.",
+        "Réaliser systématiquement un traitement néoadjuvant."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’objectif principal de la chirurgie des cancers du rein localement avancés est l’obtention de marges chirurgicales négatives."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quel cadre un traitement néoadjuvant par thérapie ciblée ou immunothérapie peut-il être utilisé pour un cancer du rein localement avancé ?",
+      "choices": [
+        "En routine chez tous les patients opérables.",
+        "Uniquement en cas de tumeur strictement intracapsulaire.",
+        "Dans un essai clinique ou au cas par cas après discussion multidisciplinaire.",
+        "Seulement après apparition de métastases ganglionnaires prouvées."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les traitements néoadjuvants par thérapie ciblée ou immunothérapie ne doivent être utilisés que dans le cadre d’essais cliniques ou au cas par cas après discussion multidisciplinaire."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas de thrombus tumoral cave, quel est l’intérêt de l’IRM préopératoire mentionné dans le texte ?",
+      "choices": [
+        "Affirmer le caractère bénin de la tumeur rénale.",
+        "Prédire l’envahissement de la paroi veineuse.",
+        "Remplacer systématiquement la thrombectomie cave.",
+        "Évaluer uniquement la fonction rénale postopératoire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’IRM préopératoire peut aider à prédire l’envahissement de la paroi veineuse en cas de thrombus cave."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est présenté comme un facteur pronostique majeur en cas d’envahissement des organes de voisinage ?",
+      "choices": [
+        "La réalisation systématique d’un curage ganglionnaire en l’absence d’adénopathie.",
+        "L’obtention de marges négatives.",
+        "La préservation systématique de la surrénale.",
+        "La réalisation obligatoire d’un traitement adjuvant ciblé."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans l’envahissement des organes de voisinage, l’obtention de marges négatives est un facteur pronostique majeur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur fait augmenter la morbidité et la mortalité de la thrombectomie cave selon le texte ?",
+      "choices": [
+        "Le niveau du thrombus.",
+        "L’âge isolé du patient.",
+        "Le type de voie d’abord cutanée.",
+        "La présence d’un kyste Bosniak I associé."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La thrombectomie cave est associée à une morbidité et une mortalité élevées, augmentant avec le niveau du thrombus."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-04T16:38:15.882Z"
+}

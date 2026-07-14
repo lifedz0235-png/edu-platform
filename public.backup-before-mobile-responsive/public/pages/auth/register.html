@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <title>Pré-inscription PCR</title>
+
+  <link rel="stylesheet" href="/css/auth.css" />
+</head>
+
+<body>
+
+  <main class="auth-page">
+
+    <section class="auth-card">
+
+      <h1>Pré-inscription</h1>
+
+      <p>
+        Votre compte sera validé par l’administrateur.
+      </p>
+
+      <input
+  id="name"
+  type="text"
+  placeholder="Nom complet *"
+  autocomplete="name"
+  required
+/>
+
+<input
+  id="email"
+  type="email"
+  placeholder="Email *"
+  autocomplete="email"
+  required
+/>
+
+<input
+  id="password"
+  type="password"
+  placeholder="Mot de passe *"
+  autocomplete="new-password"
+  required
+/>
+
+<input
+  id="phone"
+  type="tel"
+  placeholder="Téléphone *"
+  autocomplete="tel"
+  required
+/>
+
+<input
+  id="university"
+  type="text"
+  placeholder="Université *"
+  required
+/>
+
+<input
+  id="promotion"
+  type="text"
+  placeholder="Promotion ex : Résidanat 2026 *"
+  required
+/>
+
+      <section class="plans-section">
+
+  <div class="plans-heading">
+    <span>💎</span>
+
+    <div>
+      <h2>Choisissez votre abonnement</h2>
+
+      <p>
+        Sélectionnez l’offre qui correspond à vos besoins.
+      </p>
+    </div>
+  </div>
+
+  <div class="plans-grid">
+
+    <label class="plan-card plan-platinum">
+
+      <input
+  type="radio"
+  name="subscriptionPlan"
+  value="platinum"
+  checked
+/>
+
+      <span class="plan-check">✓</span>
+
+      <span class="plan-badge">
+        Abonnement mensuel
+      </span>
+
+      <strong class="plan-name">
+        Pack Platinum
+      </strong>
+
+      <div class="plan-price">
+        <strong>12 000 DA</strong>
+        <span>/ mois</span>
+      </div>
+
+      <ul>
+        <li>Accès complet aux cours</li>
+        <li>Accès aux banques QCM</li>
+        <li>Communauté et suivi</li>
+        <li>Renouvellement mensuel</li>
+      </ul>
+
+    </label>
+
+    <label class="plan-card plan-gold">
+
+      <input
+  type="radio"
+  name="subscriptionPlan"
+  value="gold"
+/>
+
+      <span class="plan-check">✓</span>
+
+      <span class="plan-badge">
+        Paiement unique
+      </span>
+
+      <strong class="plan-name">
+        Pack Gold
+      </strong>
+
+      <div class="plan-price">
+        <strong>140 000 DA</strong>
+        <span>une seule fois</span>
+      </div>
+
+      <ul>
+        <li>Accès complet aux cours</li>
+        <li>Accès aux banques QCM</li>
+        <li>Communauté et suivi</li>
+        <li>Accès sans mensualité</li>
+      </ul>
+
+    </label>
+
+  </div>
+
+  <div class="payment-notice">
+    <span>🔒</span>
+
+    <p>
+      Votre compte sera activé après vérification du
+      paiement par l’administrateur.
+    </p>
+  </div>
+
+</section>
+
+      <button
+        id="registerBtn"
+        type="button"
+      >
+        Envoyer la demande
+      </button>
+
+      <div class="support-box">
+
+        <div class="support-heading">
+
+          <span class="support-heading-icon">
+            🎧
+          </span>
+
+          <div>
+            <h3>Besoin d’aide ?</h3>
+
+            <p>
+              Une question sur l’inscription ou les abonnements ?
+              Contactez directement le support PCR.
+            </p>
+          </div>
+
+        </div>
+
+        <div class="support-buttons">
+
+          <a
+            class="support-btn support-phone"
+            href="tel:+213771739206"
+          >
+            <span class="support-btn-icon">
+              📞
+            </span>
+
+            <span>
+              <small>Appeler le support</small>
+              <strong>0771 73 92 06</strong>
+            </span>
+          </a>
+
+          <a
+            class="support-btn support-whatsapp"
+            href="https://wa.me/213771739206?text=Bonjour%20PCR%2C%20je%20souhaite%20avoir%20plus%20d%27informations%20sur%20l%27inscription."
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <span class="support-btn-icon">
+              💬
+            </span>
+
+            <span>
+              <small>Écrire sur WhatsApp</small>
+              <strong>0771 73 92 06</strong>
+            </span>
+          </a>
+
+        </div>
+
+        <div class="support-footer">
+
+          <span class="support-status"></span>
+
+          <div>
+            <strong>Support PCR Oran</strong>
+
+            <small>
+              Accompagnement avant l’activation du compte
+            </small>
+          </div>
+
+        </div>
+
+      </div>
+
+      <a
+        class="auth-secondary-link"
+        href="/pages/auth/login.html"
+      >
+        J’ai déjà un compte
+      </a>
+
+    </section>
+
+  </main>
+
+  <script src="/js/register.js"></script>
+</body>
+</html>

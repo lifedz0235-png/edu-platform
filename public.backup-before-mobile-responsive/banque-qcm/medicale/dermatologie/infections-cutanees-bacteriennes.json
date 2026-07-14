@@ -1,0 +1,3140 @@
+{
+  "category": "medicale",
+  "module": "dermatologie",
+  "courseId": null,
+  "courseTitle": null,
+  "supportTitle": "infections_cutanees_bacteriennes.pdf",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/infections_cutanees_bacteriennes.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la définition générale des infections cutanées bactériennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles correspondent à des manifestations cutanées inflammatoires et suppuratives liées à des germes pyogènes.",
+        "Elles sont dominées par les bacilles Gram négatif dans la majorité des cas.",
+        "Elles peuvent être auto-inoculables et parfois contagieuses.",
+        "Elles nécessitent toujours une documentation microbiologique initiale avant traitement."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Les infections cutanées bactériennes sont des manifestations inflammatoires et suppuratives dues à des germes pyogènes. Les cocci Gram positif, surtout Staphylococcus aureus et les streptocoques β-hémolytiques, prédominent. La prise en charge repose souvent sur la clinique sans documentation microbiologique initiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les complications graves possibles des infections cutanées bactériennes, quelles propositions sont citées dans le texte ?",
+      "choices": [
+        "Fasciite ou infection nécrosante.",
+        "Bactériémie.",
+        "Endocardite.",
+        "Méningite virale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les infections cutanées bactériennes peuvent évoluer vers des formes graves : infection nécrosante, gangrène des tissus mous, atteinte systémique, bactériémie, arthrite septique, ostéomyélite ou endocardite. La méningite virale n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments participent aux défenses cutanées antibactériennes selon le texte ?",
+      "choices": [
+        "La continuité de la couche cornée.",
+        "Le pH cutané acide.",
+        "Les défensines, le lysozyme et les cathélicidines.",
+        "La stérilité permanente de la surface cutanée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La peau protège contre les bactéries par une barrière mécanique, chimique et biologique. La flore commensale résidente participe à la protection : la peau n’est donc pas stérile."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs favorisent la survenue d’une infection bactérienne cutanée ?",
+      "choices": [
+        "Rupture de la barrière cutanée.",
+        "Chaleur, humidité et macération.",
+        "Dermatite atopique ou varicelle.",
+        "Excès stable de flore commensale protectrice."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les infections bactériennes cutanées surviennent volontiers après altération des défenses : rupture cutanée, macération, dermatoses prurigineuses, dermatite atopique, varicelle, diabète, immunodépression, etc. La flore commensale résidente est protectrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs locaux ou généraux favorisant les infections cutanées bactériennes, quelles propositions sont exactes ?",
+      "choices": [
+        "L’insuffisance veineuse ou lymphatique est un facteur favorisant.",
+        "L’artériopathie est un facteur favorisant.",
+        "Le portage staphylococcique chronique est un facteur favorisant.",
+        "L’obésité est un facteur protecteur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’obésité, l’insuffisance veineuse ou lymphatique, l’artériopathie et le portage staphylococcique chronique sont des facteurs favorisants, et non protecteurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon la classification donnée, quelles infections sont des infections non folliculaires localisées ?",
+      "choices": [
+        "Impétigo.",
+        "Ecthyma.",
+        "Impétiginisation.",
+        "Furoncle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les infections non folliculaires localisées comprennent l’impétigo, l’ecthyma et l’impétiginisation. Le furoncle est une infection folliculaire profonde."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon la classification du texte, quelles propositions concernant les infections folliculaires sont exactes ?",
+      "choices": [
+        "La folliculite est une infection folliculaire superficielle.",
+        "Le furoncle est une infection folliculaire profonde.",
+        "L’anthrax est une infection folliculaire profonde.",
+        "La dermohypodermite bactérienne nécrosante est une infection folliculaire profonde."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les infections folliculaires superficielles comprennent la folliculite. Les formes profondes comprennent le furoncle, l’anthrax et la furonculose. La dermohypodermite nécrosante appartient aux infections non folliculaires diffuses."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’impétigo, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une infection purement épidermique.",
+        "Il peut être dû au streptocoque β-hémolytique du groupe A.",
+        "Il peut être dû à Staphylococcus aureus.",
+        "Il confère une immunité durable après guérison."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’impétigo est une infection cutanée purement épidermique due au streptocoque β-hémolytique du groupe A et/ou à Staphylococcus aureus. Il est non immunisant, auto- et hétéro-inoculable, très contagieux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’épidémiologie et les circonstances de l’impétigo, quelles propositions sont exactes ?",
+      "choices": [
+        "Il touche surtout l’enfant.",
+        "Il peut survenir sous forme de petites épidémies familiales ou en collectivité.",
+        "Chez l’adulte, il complique souvent une dermatose prurigineuse préexistante.",
+        "Chez l’adulte, l’impétiginisation exclut une ectoparasitose sous-jacente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’impétigo atteint surtout l’enfant et peut donner de petites épidémies familiales ou collectives. Chez l’adulte, il complique souvent une dermatose prurigineuse, notamment une ectoparasitose : c’est l’impétiginisation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments caractérisent la forme habituelle de l’impétigo de l’enfant ?",
+      "choices": [
+        "Vésiculo-bulle superficielle sous-cornée à contenu rapidement trouble.",
+        "Évolution vers une érosion recouverte de croûtes jaunâtres mélicériques.",
+        "Coexistence de lésions d’âges différents.",
+        "Signes généraux habituellement majeurs et constants."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lésion élémentaire est une vésiculo-bulle superficielle sous-cornée devenant pustuleuse, fragile, puis érosive avec croûtes mélicériques. Des lésions d’âges différents coexistent. Les signes généraux sont habituellement absents."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la topographie et l’extension de l’impétigo habituel de l’enfant, quelles propositions sont exactes ?",
+      "choices": [
+        "La localisation initiale est souvent péri-orificielle.",
+        "La diffusion au visage et au corps se fait notamment par manuportage.",
+        "L’extension peut être centrifuge avec aréole inflammatoire périphérique.",
+        "Les adénopathies régionales sont exceptionnelles."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’impétigo débute souvent en péri-orificiel, puis diffuse par manuportage. L’extension est centrifuge, parfois avec aréole inflammatoire périphérique. Les adénopathies régionales sont fréquentes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’impétigo bulleux, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est fréquent chez le nourrisson et le jeune enfant.",
+        "Il est le plus souvent lié à Staphylococcus aureus.",
+        "La lésion élémentaire est une bulle large de 1 à 5 cm.",
+        "Il s’accompagne habituellement de signes généraux importants."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’impétigo bulleux touche surtout le nourrisson et le jeune enfant, le plus souvent par Staphylococcus aureus. Il donne des bulles larges de 1 à 5 cm entourées d’un érythème. Les signes généraux sont habituellement absents."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ecthyma, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une forme creusante d’impétigo.",
+        "Il est lié à Streptococcus pyogenes et/ou Staphylococcus aureus.",
+        "Il est habituellement localisé aux membres inférieurs.",
+        "Il guérit toujours sans cicatrice."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ecthyma est une forme creusante d’impétigo, due à Streptococcus pyogenes et/ou Staphylococcus aureus, habituellement localisée aux membres inférieurs. Contrairement à l’impétigo simple, il peut laisser une cicatrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments font partie du traitement local de l’impétigo tel que décrit ?",
+      "choices": [
+        "Lavage biquotidien à l’eau et au savon.",
+        "Antiseptiques comme la chlorhexidine ou la povidone iodée.",
+        "Antibiotiques topiques si nécessaire, dont l’acide fusidique.",
+        "Durée habituelle du traitement local de 24 à 48 heures."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement local est systématique : lavage biquotidien, antiseptiques, antibiotiques topiques si nécessaire comme acide fusidique ou mupirocine en deuxième intention, applications 2 à 3 fois/jour, durée 8 à 10 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel germe est le plus souvent impliqué dans l’impétigo bulleux ?",
+      "choices": [
+        "Staphylococcus aureus.",
+        "Streptococcus pneumoniae.",
+        "Pseudomonas aeruginosa.",
+        "Escherichia coli."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’impétigo bulleux est le plus souvent lié à Staphylococcus aureus."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel signe clinique correspond le mieux à l’impétiginisation d’une dermatose prurigineuse ?",
+      "choices": [
+        "Apparition de croûtes mélicériques sur la dermatose.",
+        "Apparition d’une nécrose fasciale profonde.",
+        "Apparition d’un purpura nécrotique extensif.",
+        "Apparition exclusive de comédons fermés."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’impétiginisation correspond à la surinfection bactérienne d’une dermatose prurigineuse avec apparition de croûtes mélicériques ou plus rarement de pustules."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’impétigo, à quel moment une recherche de protéinurie par bandelette urinaire peut-elle être réalisée après l’infection ?",
+      "choices": [
+        "À 48 heures.",
+        "À 7 jours.",
+        "À 3 semaines.",
+        "À 6 mois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une recherche de protéinurie par bandelette urinaire peut être réalisée 3 semaines après l’infection, en lien avec le risque de glomérulonéphrite aiguë post-streptococcique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle complication immunologique rare est classiquement associée à l’impétigo ?",
+      "choices": [
+        "Glomérulonéphrite aiguë post-streptococcique.",
+        "Polyarthrite rhumatoïde.",
+        "Syndrome néphrotique idiopathique.",
+        "Dermatomyosite."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La complication immunologique citée est la glomérulonéphrite aiguë post-streptococcique."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation un prélèvement bactériologique est-il indiqué au cours d’un impétigo ?",
+      "choices": [
+        "Devant toute lésion typique isolée de l’enfant.",
+        "En cas de doute diagnostique ou si l’identification du germe est importante.",
+        "Systématiquement avant tout lavage à l’eau et au savon.",
+        "Uniquement après guérison clinique complète."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le diagnostic de l’impétigo est essentiellement clinique. Un prélèvement est indiqué en cas de doute diagnostique ou lorsque l’identification du germe est importante, notamment en cas de suspicion de Staphylococcus aureus résistant à la méticilline."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle conduite est spécifiquement mentionnée en cas de récidives d’impétigo ?",
+      "choices": [
+        "Rechercher des gîtes de portage, notamment nasaux.",
+        "Éviter tout traitement local.",
+        "Réaliser systématiquement une biopsie cutanée.",
+        "Surveiller uniquement sans mesure particulière."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas de récidives, il faut rechercher des gîtes de portage, notamment nasaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les antibiotiques cités comme possibles dans le traitement systémique de l’impétigo, lesquels sont mentionnés dans le texte ?",
+      "choices": [
+        "Oxacilline ou cloxacilline",
+        "Amoxicilline-acide clavulanique",
+        "Ciprofloxacine",
+        "Pristinamycine"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte cite la pénicilline M, l’amoxicilline-acide clavulanique, les céphalosporines de première génération, la pristinamycine et l’acide fusidique. La ciprofloxacine n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mesures complémentaires associées au traitement de l’impétigo, quelles propositions sont exactes ?",
+      "choices": [
+        "Un examen de l’entourage peut être nécessaire, notamment en collectivité",
+        "Le traitement éventuel de la fratrie est mentionné",
+        "Les ongles doivent être maintenus longs pour éviter les microtraumatismes",
+        "Une hygiène corporelle stricte est recommandée"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte recommande l’examen de l’entourage, le traitement éventuel de la fratrie, l’hygiène corporelle stricte et les ongles courts."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la définition générale des dermohypodermites bactériennes aiguës, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des infections bactériennes aiguës",
+        "Elles concernent les tissus situés entre l’épiderme et les muscles",
+        "Elles se manifestent le plus souvent par un placard inflammatoire avec signes généraux",
+        "Elles sont définies par une atteinte exclusivement épidermique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les dermohypodermites bactériennes aiguës sont des infections aiguës des tissus entre l’épiderme et les muscles, se manifestant le plus souvent par un placard inflammatoire avec signes généraux."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon la classification donnée des dermohypodermites bactériennes aiguës, quelles entités sont citées ?",
+      "choices": [
+        "Dermohypodermite bactérienne non nécrosante incluant l’érysipèle streptococcique",
+        "Dermohypodermites bactériennes d’origine non streptococcique",
+        "Dermohypodermite bactérienne nécrosante incluant la fasciite nécrosante",
+        "Dermohypodermite virale chronique récidivante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La classification mentionne les formes non nécrosantes, les formes d’origine non streptococcique et les formes nécrosantes incluant la fasciite nécrosante."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la dermohypodermite bactérienne non nécrosante, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est limitée au derme et à l’hypoderme",
+        "Elle est principalement due au streptocoque β-hémolytique du groupe A",
+        "Elle est toujours due à Staphylococcus aureus",
+        "La porte d’entrée est retrouvée dans 50 à 70 % des cas"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La dermohypodermite bactérienne non nécrosante est limitée au derme et à l’hypoderme, principalement due au streptocoque β-hémolytique du groupe A, avec une porte d’entrée retrouvée dans 50 à 70 % des cas."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’érysipèle, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à la forme clinique commune des dermohypodermites bactériennes non nécrosantes streptococciques",
+        "Il atteint surtout les membres inférieurs",
+        "Il peut toucher le visage",
+        "Il correspond obligatoirement à une fasciite nécrosante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’érysipèle est la forme clinique commune des dermohypodermites bactériennes non nécrosantes streptococciques, touchant surtout les membres inférieurs mais pouvant aussi atteindre le visage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la physiopathologie de la dermohypodermite bactérienne non nécrosante, quelles propositions sont exactes ?",
+      "choices": [
+        "L’infection s’étend horizontalement de proche en proche",
+        "L’extension se fait dans le derme profond et l’hypoderme",
+        "Le point de départ est habituellement une brèche cutanée",
+        "La diffusion se fait exclusivement par voie hématogène"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une extension horizontale de proche en proche dans le derme profond et l’hypoderme à partir d’une brèche cutanée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs favorisants des dermohypodermites bactériennes non nécrosantes sont cités dans le texte ?",
+      "choices": [
+        "Lymphœdème",
+        "Obésité",
+        "Antécédent d’érysipèle",
+        "Hypothyroïdie isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le lymphœdème, l’obésité et les antécédents d’érysipèle font partie des facteurs favorisants cités. L’hypothyroïdie isolée n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les portes d’entrée fréquentes aux membres inférieurs dans l’érysipèle, lesquelles sont mentionnées ?",
+      "choices": [
+        "Intertrigo interorteils",
+        "Ulcère veineux",
+        "Plaie traumatique",
+        "Otite moyenne aiguë"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Aux membres inférieurs, les portes d’entrée citées comprennent l’intertrigo interorteils, l’ulcère veineux, la plaie traumatique, les dermatoses érosives, l’eczéma, la varicelle et la brûlure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la clinique de l’érysipèle des membres inférieurs, quelles propositions sont exactes ?",
+      "choices": [
+        "Le début est brutal",
+        "La fièvre peut atteindre 39-40 °C",
+        "Le placard inflammatoire est habituellement mal limité",
+        "Des bulles ou un purpura peuvent être observés"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’érysipèle des membres inférieurs débute brutalement, avec fièvre élevée, placard inflammatoire bien circonscrit, douleur locale, bulles ou purpura possibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments orientent contre une forme nécrosante dans la présentation habituelle de l’érysipèle des membres inférieurs selon le texte ?",
+      "choices": [
+        "Absence habituelle de nécrose",
+        "Absence de crépitation",
+        "Présence obligatoire d’un choc septique",
+        "Placard inflammatoire bien circonscrit"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La forme habituelle est caractérisée par un placard inflammatoire bien circonscrit, avec absence habituelle de nécrose et absence de crépitation. Le choc septique n’est pas un élément habituel."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la démarche diagnostique devant un érysipèle, quelles propositions sont exactes ?",
+      "choices": [
+        "Le diagnostic est clinique",
+        "Il faut rechercher une porte d’entrée cutanée locorégionale",
+        "Le marquage au feutre des contours du placard peut aider au suivi",
+        "L’absence de porte d’entrée visible élimine le diagnostic"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic est clinique. Il faut rechercher une porte d’entrée et suivre l’évolution du placard par marquage ou photographie. L’absence de porte d’entrée visible n’élimine pas le diagnostic."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de gravité ou de doute diagnostique devant une dermohypodermite bactérienne non nécrosante, quels examens peuvent être réalisés selon le texte ?",
+      "choices": [
+        "Numération leucocytaire",
+        "CRP",
+        "Hémocultures",
+        "Sérologies streptococciques à visée diagnostique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas de gravité ou de doute, le texte cite la numération leucocytaire, la CRP et les hémocultures. Les sérologies streptococciques n’ont pas d’intérêt diagnostique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’érysipèle du visage, quelles propositions sont exactes ?",
+      "choices": [
+        "La porte d’entrée est souvent auriculaire",
+        "Un eczéma du conduit auditif externe peut constituer une porte d’entrée",
+        "Une fissure rétro-auriculaire peut être en cause",
+        "La localisation est toujours bilatérale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’érysipèle du visage, la porte d’entrée est souvent auriculaire, notamment un eczéma du conduit auditif externe ou une fissure rétro-auriculaire. La localisation est souvent unilatérale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est indiqué en cas de doute entre un érysipèle des membres inférieurs et une thrombose veineuse profonde ?",
+      "choices": [
+        "Écho-Doppler veineux",
+        "Sérologie streptococcique",
+        "Biopsie cutanée systématique",
+        "Radiographie standard du membre atteint"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’écho-Doppler veineux est indiqué en cas de doute avec une thrombose veineuse profonde."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’antibiothérapie de première intention chez l’adulte dans la dermohypodermite bactérienne non nécrosante selon le texte ?",
+      "choices": [
+        "Amoxicilline 50 mg/kg/j en 3 prises per os, sans dépasser 6 g/j",
+        "Pristinamycine 500 mg une fois par jour pendant 3 jours",
+        "Ciprofloxacine per os pendant 14 jours",
+        "Antibiothérapie locale seule"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Chez l’adulte, le traitement de première intention est l’amoxicilline 50 mg/kg/j en 3 prises per os, sans dépasser 6 g/j."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée recommandée de l’antibiothérapie dans la dermohypodermite bactérienne non nécrosante ?",
+      "choices": [
+        "3 jours",
+        "7 jours",
+        "14 jours systématiquement",
+        "Jusqu’à disparition complète des signes cutanés"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La durée recommandée est de 7 jours. La persistance de signes cutanés pendant 2 à 3 semaines ne justifie pas une prolongation systématique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément constitue un critère d’hospitalisation initiale dans une dermohypodermite bactérienne non nécrosante ?",
+      "choices": [
+        "Âge inférieur à 1 an",
+        "Régression de la fièvre sous traitement",
+        "Porte d’entrée non retrouvée isolément",
+        "Placard inflammatoire bien circonscrit sans signe de gravité"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’âge inférieur à 1 an fait partie des critères d’hospitalisation initiale mentionnés."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel critère impose une hospitalisation secondaire au cours de l’évolution d’une dermohypodermite bactérienne non nécrosante ?",
+      "choices": [
+        "Évolution défavorable après 24 à 48 heures d’antibiothérapie adaptée",
+        "Disparition des signes généraux",
+        "Régression du placard inflammatoire",
+        "Tolérance correcte du traitement oral"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une évolution défavorable après 24 à 48 heures d’antibiothérapie adaptée est une indication d’hospitalisation secondaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle attitude médicamenteuse est recommandée dans la dermohypodermite bactérienne non nécrosante ?",
+      "choices": [
+        "Prescrire systématiquement des corticoïdes pour réduire l’inflammation",
+        "Associer systématiquement une antibiothérapie locale",
+        "Ne pas prescrire de corticoïdes ni d’anti-inflammatoires non stéroïdiens pour traiter l’infection",
+        "Administrer préférentiellement les antibiotiques par voie intramusculaire chez le patient obèse"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte recommande de ne pas prescrire de corticoïdes ni d’AINS pour traiter une dermohypodermite bactérienne non nécrosante. Il précise aussi qu’il ne faut pas prescrire d’antibiothérapie locale."
+    },
+    {
+      "type": "QCM",
+      "question": "Après un épisode aigu de dermohypodermite bactérienne non nécrosante, quelles mesures sont citées pour prévenir les récidives ?",
+      "choices": [
+        "Traitement du lymphœdème par compression",
+        "Traitement des portes d’entrée et des intertrigos",
+        "Soins des plaies et prise en charge de l’obésité",
+        "Antibioprophylaxie systématique à vie après tout premier épisode"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prévention des récidives repose sur la correction des facteurs de risque : compression du lymphœdème, traitement des portes d’entrée, des intertrigos, soins des plaies et prise en charge de l’obésité. L’antibioprophylaxie n’est pas systématique après un premier épisode."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités d’antibioprophylaxie des dermohypodermites bactériennes non nécrosantes récidivantes, quelles propositions sont exactes ?",
+      "choices": [
+        "La benzathine benzylpénicilline G retard peut être administrée à la dose de 2,4 MUI IM toutes les 2 à 4 semaines",
+        "La pénicilline V per os peut être utilisée à la dose de 1 à 2 millions UI/j selon le poids, en 2 prises",
+        "La durée optimale n’est pas définie et doit être réévaluée selon l’évolution des facteurs de risque",
+        "La durée est toujours fixe et définitivement déterminée dès l’instauration du traitement"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les options citées sont la benzathine benzylpénicilline G retard IM ou la pénicilline V per os. La durée optimale n’est pas définie et doit être réévaluée en fonction des facteurs de risque."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la définition et de l’évolution des dermohypodermites bactériennes nécrosantes, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des infections aiguës nécrosantes du derme et de l’hypoderme",
+        "Elles peuvent atteindre le fascia, voire le muscle",
+        "Elles s’accompagnent souvent de production d’endo- et d’exotoxines",
+        "Leur évolution est souvent fulminante et met en jeu le pronostic vital"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les dermohypodermites bactériennes nécrosantes atteignent le derme et l’hypoderme, peuvent s’étendre au fascia et au muscle, et sont souvent toxinogènes. Leur évolution peut être fulminante avec mortalité élevée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étiologies microbiologiques des dermohypodermites bactériennes nécrosantes, quelles propositions sont exactes ?",
+      "choices": [
+        "Une forme monomicrobienne peut être principalement due au streptocoque du groupe A",
+        "Les formes polymicrobiennes peuvent associer streptocoque du groupe A et Staphylococcus aureus",
+        "Les formes polymicrobiennes peuvent associer entérobactéries, Pseudomonas aeruginosa et bactéries anaérobies",
+        "Elles sont toujours monomicrobiennes et exclusivement dues à Staphylococcus aureus"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les dermohypodermites nécrosantes peuvent être monomicrobiennes, surtout à streptocoque du groupe A, ou polymicrobiennes associant notamment streptocoque A, S. aureus, entérobactéries, Pseudomonas et anaérobies."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs de risque de dermohypodermite bactérienne nécrosante sont cités chez l’adulte ?",
+      "choices": [
+        "Diabète et prise d’anti-inflammatoires non stéroïdiens",
+        "Immunodépression, corticothérapie, chimiothérapie ou immunosuppresseurs",
+        "Insuffisance rénale chronique, cirrhose ou malnutrition",
+        "Varicelle comme facteur de risque spécifiquement cité chez l’adulte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez l’adulte, les facteurs de risque cités incluent le diabète, les AINS, l’immunodépression, les traitements immunosuppresseurs, l’insuffisance rénale chronique, la cirrhose et la malnutrition. La varicelle est citée comme facteur de risque chez l’enfant."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une dermohypodermite suspecte de nécrose, quels éléments appartiennent au qSOFA chez l’adulte selon le texte ?",
+      "choices": [
+        "Troubles de conscience",
+        "Fréquence respiratoire supérieure à 22/min",
+        "Pression artérielle systolique inférieure à 100 mmHg",
+        "Hyperthermie isolée supérieure à 39 °C"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le qSOFA ≥ 2 chez l’adulte repose sur les troubles de conscience, une fréquence respiratoire > 22/min et une pression artérielle systolique < 100 mmHg. L’hyperthermie isolée n’est pas un critère qSOFA cité."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes locaux doivent faire évoquer une dermohypodermite bactérienne nécrosante ou une fasciite nécrosante ?",
+      "choices": [
+        "Lividités ou taches cyaniques",
+        "Crépitations sous-cutanées",
+        "Hypoesthésie ou anesthésie locale",
+        "Induration dépassant l’érythème ou nécrose locale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les signes locaux de gravité cités sont les lividités, taches cyaniques, crépitation sous-cutanée, hypoesthésie ou anesthésie locale, induration dépassant l’érythème et nécrose locale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les éléments évolutifs évocateurs d’une fasciite nécrosante, quelles propositions sont exactes ?",
+      "choices": [
+        "Une extension rapide en quelques heures est évocatrice",
+        "Une aggravation des signes locaux 48 heures après introduction d’une antibiothérapie adaptée est évocatrice",
+        "La suspicion de fasciite nécrosante impose une hospitalisation en urgence",
+        "Il faut attendre systématiquement la disparition des signes généraux avant d’hospitaliser"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’extension rapide en quelques heures et l’aggravation malgré une antibiothérapie adaptée à 48 heures sont des signes d’alerte. La suspicion impose une hospitalisation urgente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les localisations et formes particulières des dermohypodermites bactériennes nécrosantes, quelles propositions sont exactes ?",
+      "choices": [
+        "Les membres inférieurs représentent la localisation la plus fréquente",
+        "Les formes cervicales font suite à des foyers infectieux buccodentaires, cervicaux ou ORL",
+        "Les formes périorbitaires surviennent surtout chez l’enfant après traumatisme ou infection des voies aériennes supérieures",
+        "Les formes thoracoabdominales peuvent compliquer une chirurgie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les membres inférieurs sont la localisation la plus fréquente. Les formes cervicales, périorbitaires et thoracoabdominales ont les circonstances citées dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la gangrène de Fournier, quelles portes d’entrée sont mentionnées ?",
+      "choices": [
+        "Génitale ou anorectale",
+        "Cutanée ou postopératoire",
+        "Liée à un acte invasif",
+        "Primitive, par exemple bartholinite ou pathologie anale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La gangrène de Fournier peut avoir une porte d’entrée génitale, anorectale, cutanée, postopératoire, liée à un acte invasif ou primitive comme une bartholinite ou une pathologie anale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement des dermohypodermites bactériennes nécrosantes et fasciites nécrosantes, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une urgence médico-chirurgicale",
+        "Le débridement chirurgical large de tous les tissus nécrosés est nécessaire",
+        "L’antibiothérapie est intraveineuse probabiliste puis adaptée aux prélèvements",
+        "La durée habituelle de l’antibiothérapie est de 14 à 21 jours selon l’évolution"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La prise en charge est urgente, médico-chirurgicale, avec débridement large, antibiothérapie IV probabiliste puis adaptée, habituellement 14 à 21 jours selon l’évolution."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la folliculite superficielle, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une infection superficielle du follicule pilo-sébacé",
+        "Elle est le plus souvent due à Staphylococcus aureus",
+        "La macération, le frottement et le rasage sont des facteurs favorisants",
+        "La fièvre élevée est habituelle et constante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La folliculite est une infection superficielle du follicule pilo-sébacé, le plus souvent à S. aureus. Elle est favorisée par macération, frottement et rasage. L’apyrexie est habituelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes de folliculite, quelles propositions sont exactes ?",
+      "choices": [
+        "La folliculite superficielle atteint l’ostium folliculaire",
+        "La folliculite superficielle se traduit par une pustule très superficielle",
+        "La folliculite profonde atteint la zone entre l’ostium folliculaire et l’abouchement de la glande sébacée",
+        "La folliculite profonde peut correspondre à une folliculite aiguë nécrosante avec nécrose de l’appareil pilo-sébacé"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue la folliculite superficielle, limitée à l’ostium folliculaire, et la folliculite profonde, située entre l’ostium et l’abouchement de la glande sébacée, pouvant être nécrosante."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du furoncle, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une infection profonde du follicule pilo-sébacé due à Staphylococcus aureus",
+        "Staphylococcus aureus peut parfois être producteur de leucocidine de Panton-Valentine",
+        "Les facteurs favorisants incluent macération, frottement, portage staphylococcique, diabète et immunodépression",
+        "L’évolution peut se faire en 5 à 10 jours vers l’élimination du follicule pileux sous forme de bourbillon"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le furoncle est une infection profonde du follicule pilo-sébacé à S. aureus, parfois producteur de leucocidine de Panton-Valentine. Les facteurs favorisants et l’évolution vers le bourbillon sont ceux cités."
+    },
+    {
+      "type": "QCS",
+      "question": "À partir de quelle situation une antibioprophylaxie peut-elle être proposée dans les dermohypodermites bactériennes non nécrosantes ?",
+      "choices": [
+        "Après un premier épisode isolé",
+        "Uniquement en cas de fièvre persistante",
+        "À partir de 2 épisodes dans l’année, surtout si des facteurs de risque persistent ou ne sont pas contrôlables",
+        "Seulement en cas de nécrose locale"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’antibioprophylaxie peut être proposée à partir de 2 épisodes de dermohypodermite bactérienne non nécrosante dans l’année, surtout en présence de facteurs de risque persistants ou non contrôlables."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle antibioprophylaxie est citée en cas d’allergie à la pénicilline dans la prévention des récidives de dermohypodermite bactérienne non nécrosante ?",
+      "choices": [
+        "Azithromycine 250 mg/j",
+        "Amoxicilline-acide clavulanique",
+        "Vancomycine intraveineuse prolongée",
+        "Benzathine benzylpénicilline G retard"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas d’allergie à la pénicilline, le texte cite l’azithromycine à 250 mg/j comme option d’antibioprophylaxie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur de risque de dermohypodermite bactérienne nécrosante est spécifiquement cité chez l’enfant ?",
+      "choices": [
+        "Cirrhose",
+        "Varicelle",
+        "Insuffisance veineuse",
+        "Toxicomanie intraveineuse"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Chez l’enfant, le facteur de risque cité dans le texte est la varicelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel caractère de la douleur doit faire suspecter une dermohypodermite bactérienne nécrosante ?",
+      "choices": [
+        "Douleur modérée strictement proportionnelle à l’érythème",
+        "Prurit isolé sans douleur",
+        "Douleur très intense, disproportionnée par rapport aux signes locaux",
+        "Douleur uniquement provoquée par le rasage"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une douleur très intense, disproportionnée par rapport aux signes locaux, est un signe d’alerte majeur en faveur d’une forme nécrosante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle mesure est spécifiquement citée dans le traitement du sycosis ?",
+      "choices": [
+        "Mousse à raser antiseptique, rasoirs jetables et espacement du rasage",
+        "Débridement chirurgical large systématique",
+        "Antibioprophylaxie par benzathine benzylpénicilline G retard",
+        "Corticothérapie locale prolongée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas de sycosis, le texte recommande une mousse à raser antiseptique, l’utilisation de rasoirs jetables et l’espacement du rasage."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle est une complication possible citée du furoncle ?",
+      "choices": [
+        "Bartholinite primitive",
+        "Endocardite",
+        "Intertrigo",
+        "Varicelle"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les complications possibles du furoncle citées incluent notamment la staphylococcie maligne de la face, l’abcès, la lymphangite, la dermohypodermite aiguë, la bactériémie, l’endocardite et les infections ostéo-articulaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition de la furonculose, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à une multiplicité de furoncles.",
+        "Elle correspond à une chronicité des furoncles.",
+        "Elle peut évoluer pendant des mois ou des années.",
+        "Elle se définit par un furoncle unique rapidement résolutif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La furonculose est définie par la multiplicité et la chronicité des furoncles, évoluant pendant des mois ou des années."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le bilan d’une furonculose, quels éléments doivent être recherchés selon le texte ?",
+      "choices": [
+        "Un diabète.",
+        "Un déficit immunitaire.",
+        "Des gîtes staphylococciques.",
+        "Un portage dans l’entourage familial."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le bilan d’une furonculose recherche un diabète, un déficit immunitaire, des gîtes staphylococciques et un portage familial."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels sites sont cités comme gîtes staphylococciques à rechercher au cours d’une furonculose ?",
+      "choices": [
+        "Les narines.",
+        "La région rétro-auriculaire.",
+        "Le pli interfessier.",
+        "Les cicatrices d’anciens furoncles."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les gîtes staphylococciques cités sont les narines, la région rétro-auriculaire, le pli interfessier et les cicatrices d’anciens furoncles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la staphylococcie maligne de la face, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est une complication grave d’un furoncle centro-facial.",
+        "Elle est souvent favorisée par une manipulation.",
+        "Elle peut se manifester par un placard inflammatoire rouge et douloureux.",
+        "Elle évolue toujours lentement sans aggravation rapide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La staphylococcie maligne de la face complique un furoncle centro-facial, souvent après manipulation, avec placard inflammatoire rouge et douloureux et aggravation rapide."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes cliniques sont décrits dans la staphylococcie maligne de la face ?",
+      "choices": [
+        "Extension centrifuge.",
+        "Pustules.",
+        "Aggravation rapide.",
+        "Placard inflammatoire rouge et douloureux."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La clinique associe un placard inflammatoire rouge et douloureux, une extension centrifuge, des pustules et une aggravation rapide."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles complications thrombotiques sont citées dans la staphylococcie maligne de la face ?",
+      "choices": [
+        "Thrombose du sinus caverneux.",
+        "Thrombose cérébrale.",
+        "Lymphangite.",
+        "Abcès sous-cutané."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les complications spécifiques citées de la staphylococcie maligne de la face sont la thrombose du sinus caverneux et la thrombose cérébrale."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les complications locorégionales des infections folliculaires profondes, lesquelles sont citées ?",
+      "choices": [
+        "Abcès sous-cutané.",
+        "Lymphangite.",
+        "Dermohypodermite aiguë.",
+        "Endocardite."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les complications locorégionales citées sont l’abcès sous-cutané, la lymphangite et la dermohypodermite aiguë. L’endocardite est classée parmi les complications systémiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles complications systémiques des infections folliculaires profondes sont mentionnées ?",
+      "choices": [
+        "Bactériémie à Staphylococcus aureus.",
+        "Endocardite.",
+        "Infections ostéo-articulaires.",
+        "Dermohypodermite aiguë."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les complications systémiques citées sont la bactériémie à Staphylococcus aureus, l’endocardite et les infections ostéo-articulaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement d’un furoncle isolé, quelles mesures sont recommandées ?",
+      "choices": [
+        "Hygiène rigoureuse.",
+        "Antiseptique local.",
+        "Éviter toute manipulation.",
+        "Excision chirurgicale systématique des tissus nécrosés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement du furoncle isolé repose sur l’hygiène rigoureuse, l’antiseptique local et l’absence de manipulation. L’excision chirurgicale est citée pour l’anthrax."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations le texte indique-t-il une antibiothérapie orale pour un furoncle ?",
+      "choices": [
+        "Furoncle centro-facial.",
+        "Fièvre.",
+        "Extension.",
+        "Furoncle isolé sans autre signe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une antibiothérapie orale est indiquée en cas de furoncle centro-facial, de fièvre ou d’extension."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels antibiotiques oraux sont cités pour le furoncle centro-facial, fébrile ou en extension ?",
+      "choices": [
+        "Pénicilline M.",
+        "Pristinamycine.",
+        "Acide fusidique.",
+        "Mupirocine nasale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la pénicilline M, la pristinamycine ou l’acide fusidique selon le contexte. La mupirocine est citée dans le protocole de décolonisation nasale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement de l’anthrax, quelles propositions sont exactes ?",
+      "choices": [
+        "Excision chirurgicale des tissus nécrosés.",
+        "Antibiothérapie générale adaptée à l’antibiogramme.",
+        "Soins locaux.",
+        "Traitement limité à l’évitement des manipulations."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement de l’anthrax associe excision chirurgicale des tissus nécrosés, antibiothérapie générale adaptée à l’antibiogramme et soins locaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures font partie du traitement de la furonculose selon le texte ?",
+      "choices": [
+        "Hygiène rigoureuse.",
+        "Antibiothérapie per os selon l’antibiogramme.",
+        "Recherche et traitement des gîtes staphylococciques.",
+        "Prise en charge du portage familial si nécessaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La furonculose nécessite hygiène rigoureuse, antibiothérapie per os adaptée, recherche et traitement des gîtes, ainsi qu’une prise en charge du portage familial si nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le protocole de décolonisation staphylococcique, quelles propositions sont exactes ?",
+      "choices": [
+        "Application nasale de mupirocine 2 fois par jour pendant 7 jours.",
+        "Toilette quotidienne pendant 7 jours avec une solution moussante de chlorhexidine.",
+        "Utilisation de la chlorhexidine comme savon et shampoing.",
+        "Hygiène corporelle stricte avec vêtements propres."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le protocole comprend mupirocine nasale 2 fois par jour pendant 7 jours, toilette quotidienne à la chlorhexidine pendant 7 jours comme savon et shampoing, et mesures d’hygiène corporelle avec vêtements propres."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le siège habituel de l’anthrax mentionné dans le texte ?",
+      "choices": [
+        "Partie haute du dos.",
+        "Pli interfessier.",
+        "Région rétro-auriculaire.",
+        "Narines."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le siège habituel cité pour l’anthrax est la partie haute du dos."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité d’application nasale de la mupirocine est indiquée dans le protocole de décolonisation staphylococcique ?",
+      "choices": [
+        "1 fois par jour pendant 7 jours.",
+        "2 fois par jour pendant 7 jours.",
+        "2 fois par jour pendant 10 jours par mois pendant 6 mois à 1 an.",
+        "1 fois par semaine pendant 1 an."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La mupirocine nasale est appliquée 2 fois par jour pendant 7 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "À partir de quel âge les bains de bouche à la chlorhexidine sont-ils cités chez l’enfant ?",
+      "choices": [
+        "À partir de 2 ans.",
+        "À partir de 4 ans.",
+        "À partir de 6 ans.",
+        "À partir de 10 ans."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les bains de bouche à la chlorhexidine sont cités chez l’adulte et chez l’enfant à partir de 6 ans."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la modalité du traitement local prolongé des gîtes staphylococciques selon le texte ?",
+      "choices": [
+        "1 fois par jour pendant 7 jours seulement.",
+        "2 fois par jour, 10 jours par mois, pendant 6 mois à 1 an.",
+        "2 fois par semaine pendant 1 mois.",
+        "1 fois par mois pendant 7 jours."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le traitement local prolongé des gîtes par antiseptiques ou antibiotiques locaux est indiqué 2 fois par jour, 10 jours par mois, pendant 6 mois à 1 an."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas de récidives, quelle mesure concernant les membres de la famille est indiquée ?",
+      "choices": [
+        "Prélèvement bactériologique et traitement des gîtes.",
+        "Antibiothérapie intraveineuse systématique.",
+        "Excision chirurgicale préventive.",
+        "Bains de bouche uniquement chez tous les membres."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas de récidives, le texte indique un prélèvement bactériologique et un traitement des gîtes chez les membres de la famille."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle prise en charge est indiquée devant une staphylococcie maligne de la face ?",
+      "choices": [
+        "Surveillance simple à domicile.",
+        "Antiseptique local seul.",
+        "Hospitalisation urgente et antibiothérapie urgente.",
+        "Traitement local prolongé 10 jours par mois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La staphylococcie maligne de la face impose une hospitalisation urgente et une antibiothérapie urgente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’approche microbiologique et diagnostique initiale des infections cutanées bactériennes, quelles propositions sont exactes ?",
+      "choices": [
+        "La prise en charge repose souvent sur des critères cliniques.",
+        "Une documentation microbiologique initiale est fréquemment absente.",
+        "Les cocci Gram négatif sont impliqués dans la majorité des cas.",
+        "Dans l’impétigo, l’aspect clinique permet de prédire avec fiabilité le germe responsable."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que la prise en charge est souvent clinique, sans documentation microbiologique initiale. Les germes majoritaires sont des cocci Gram positif, et l’aspect clinique de l’impétigo ne permet pas de prédire le germe."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des mécanismes de défense cutanée, quelles associations sont correctes ?",
+      "choices": [
+        "Continuité de la couche cornée : protection mécanique.",
+        "pH cutané acide, sébum, défensines : protection chimique.",
+        "Cellules de Langerhans, macrophages dermiques, lymphocytes à tropisme cutané : protection biologique.",
+        "Flore commensale résidente : protection mécanique exclusive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La couche cornée assure la barrière mécanique ; le pH acide, le sébum et les peptides antimicrobiens participent à la protection chimique ; les cellules immunitaires cutanées et la flore commensale participent à la protection biologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes peuvent altérer l’équilibre protecteur cutané et favoriser une infection bactérienne cutanée ?",
+      "choices": [
+        "Disparition du film sébacé ou de la flore commensale sous l’effet de détergents ou d’antiseptiques.",
+        "Modification du pH cutané.",
+        "Chaleur, humidité et macération.",
+        "Renforcement durable de la flore commensale résidente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la modification du pH, la disparition du film sébacé ou de la flore commensale, ainsi que chaleur, humidité et macération comme facteurs favorisants."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les propriétés de transmission de l’impétigo, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est auto-inoculable.",
+        "Il est hétéro-inoculable.",
+        "Il est immunisant après un premier épisode.",
+        "Il est très contagieux."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’impétigo est décrit comme auto- et hétéro-inoculable, non immunisant et très contagieux."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’impétigo, quelles propositions concernant le prélèvement bactériologique sont exactes ?",
+      "choices": [
+        "Il est indiqué en cas de doute diagnostique.",
+        "Il est indiqué lorsque l’identification du germe est importante.",
+        "Il peut être justifié en cas de suspicion de Staphylococcus aureus résistant à la méticilline.",
+        "Il est systématique devant tout impétigo typique peu étendu."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le prélèvement n’est pas systématique. Il est indiqué en cas de doute diagnostique ou lorsque l’identification du germe importe, notamment en cas de suspicion de S. aureus résistant à la méticilline."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la lésion élémentaire de la forme habituelle de l’impétigo de l’enfant, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit initialement d’une vésiculo-bulle superficielle sous-cornée.",
+        "Le contenu devient rapidement trouble puis pustuleux.",
+        "La lésion est flasque et fragile, évoluant vers une érosion croûteuse jaunâtre mélicérique.",
+        "La lésion initiale typique est une ulcération profonde d’emblée cicatricielle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme habituelle débute par une vésiculo-bulle superficielle sous-cornée, flasque et fragile, devenant pustuleuse puis érosive avec croûtes mélicériques. L’ulcération creusante cicatricielle évoque plutôt l’ecthyma."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la forme habituelle de l’impétigo de l’enfant, quels éléments évolutifs ou associés sont décrits ?",
+      "choices": [
+        "Une extension centrifuge peut être observée.",
+        "Des lésions d’âges différents peuvent coexister.",
+        "La diffusion au visage et au reste du corps peut se faire par manuportage.",
+        "Les signes généraux sont habituellement majeurs d’emblée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’extension est centrifuge, les lésions peuvent être d’âges différents et la diffusion se fait par manuportage. Les signes généraux sont habituellement absents."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’impétigo bulleux, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est fréquent chez le nourrisson et le jeune enfant.",
+        "Il est le plus souvent lié à Staphylococcus aureus.",
+        "La bulle est large, de 1 à 5 cm, entourée d’un érythème périphérique.",
+        "Les signes généraux sont habituellement constants et sévères."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’impétigo bulleux touche surtout le nourrisson et le jeune enfant, est le plus souvent staphylococcique, et donne des bulles larges de 1 à 5 cm entourées d’érythème. Les signes généraux sont habituellement absents."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les complications suivantes de l’impétigo, lesquelles appartiennent au groupe des complications toxiniques citées ?",
+      "choices": [
+        "Épidermolyse staphylococcique aiguë.",
+        "Syndrome staphylococcique de la peau ébouillantée.",
+        "Scarlatine staphylococcique.",
+        "Glomérulonéphrite aiguë post-streptococcique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les complications toxiniques citées sont l’épidermolyse staphylococcique aiguë, le syndrome staphylococcique de la peau ébouillantée et la scarlatine staphylococcique. La glomérulonéphrite aiguë post-streptococcique est une complication immunologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la scarlatine staphylococcique décrite comme complication toxinique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comporte un érythème diffus prédominant dans les plis.",
+        "Elle survient sans bulles.",
+        "Elle évolue vers une desquamation en 10 à 20 jours.",
+        "Elle est décrite comme une complication immunologique post-streptococcique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La scarlatine staphylococcique associe un érythème diffus prédominant dans les plis, sans bulles, avec desquamation en 10 à 20 jours. Elle est classée parmi les complications toxiniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ecthyma, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une forme creusante d’impétigo.",
+        "Il est habituellement localisé aux membres inférieurs.",
+        "Il peut évoluer vers une cicatrice.",
+        "Il est favorisé par un excellent état trophique cutané."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ecthyma est une forme creusante d’impétigo, souvent localisée aux membres inférieurs, avec évolution cicatricielle possible. Le mauvais état trophique cutané est un facteur favorisant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution de l’impétigo, quelles propositions sont exactes ?",
+      "choices": [
+        "Sous traitement adapté, la régression survient en quelques jours.",
+        "L’évolution se fait sans cicatrice, sauf en cas d’ecthyma.",
+        "En l’absence de traitement, des complications septiques locales comme abcès ou lymphangite sont possibles.",
+        "En l’absence de traitement, aucune complication générale n’est possible."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Sous traitement adapté, l’impétigo régresse en quelques jours, sans cicatrice sauf ecthyma. Sans traitement, des complications locales et générales peuvent survenir."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations constituent des indications d’antibiothérapie générale dans l’impétigo selon le texte ?",
+      "choices": [
+        "Lésions étendues.",
+        "Lésions extensives.",
+        "Signes généraux importants.",
+        "Immunodépression."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les lésions étendues, les lésions extensives, les signes généraux importants et l’immunodépression comme indications d’antibiothérapie générale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement local de l’impétigo, quelles propositions sont exactes ?",
+      "choices": [
+        "Le lavage biquotidien à l’eau et au savon est recommandé.",
+        "La chlorhexidine ou la povidone iodée peuvent être utilisées comme antiseptiques.",
+        "Les antibiotiques topiques cités sont l’acide fusidique et la mupirocine, cette dernière en deuxième intention.",
+        "Une durée de 24 heures est suffisante dans la forme typique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement local comprend lavage biquotidien, antiseptiques comme chlorhexidine ou povidone iodée, et antibiotiques topiques si nécessaire. La durée indiquée est de 8 à 10 jours, non 24 heures."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé caractérise le mieux le niveau anatomique de l’impétigo ?",
+      "choices": [
+        "Infection purement épidermique.",
+        "Infection primitivement hypodermique.",
+        "Infection musculaire profonde.",
+        "Infection limitée aux vaisseaux lymphatiques."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’impétigo est défini comme une infection cutanée purement épidermique."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’adulte, l’impétigo complique le plus souvent quelle situation selon le texte ?",
+      "choices": [
+        "Une dermatose prurigineuse préexistante, notamment une ectoparasitose.",
+        "Une fasciite nécrosante débutante.",
+        "Une endocardite bactérienne documentée.",
+        "Une arthrite septique primitive."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Chez l’adulte, l’impétigo complique souvent une dermatose prurigineuse préexistante, en particulier une ectoparasitose : c’est l’impétiginisation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément clinique correspond spécifiquement à la lésion élémentaire de l’impétigo bulleux ?",
+      "choices": [
+        "Papule folliculaire centrée par un poil.",
+        "Bulle large de 1 à 5 cm entourée d’un érythème périphérique.",
+        "Ulcération profonde d’emblée nécrotique.",
+        "Nodule sous-cutané froid non inflammatoire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’impétigo bulleux donne une bulle large, de 1 à 5 cm, entourée d’un érythème périphérique, qui se rompt rapidement et se recouvre d’une croûte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur favorisant de l’ecthyma est explicitement cité ?",
+      "choices": [
+        "Alcoolisme chronique.",
+        "Hyperthyroïdie.",
+        "Asthme allergique.",
+        "Migraine chronique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les facteurs favorisants cités pour l’ecthyma sont l’immunodépression, l’alcoolisme chronique, l’artériopathie et le mauvais état trophique cutané."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel signe est décrit comme fréquent dans la forme habituelle de l’impétigo de l’enfant ?",
+      "choices": [
+        "Adénopathies régionales.",
+        "Purpura nécrotique extensif.",
+        "Crépitations sous-cutanées.",
+        "Anesthésie cutanée complète."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans la forme habituelle de l’impétigo de l’enfant, des adénopathies régionales sont fréquentes, alors que les signes généraux sont habituellement absents."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle mesure est mentionnée en cas de récidives d’impétigo ?",
+      "choices": [
+        "Rechercher des gîtes de portage, notamment nasaux.",
+        "Administrer systématiquement une corticothérapie générale.",
+        "Éviter tout lavage cutané pendant 10 jours.",
+        "Réaliser systématiquement une chirurgie d’exérèse."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas de récidives d’impétigo, le texte recommande de rechercher des gîtes de portage, notamment nasaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les antibiotiques possibles dans le traitement systémique de l’impétigo selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’oxacilline ou la cloxacilline peuvent être utilisées à 30 à 50 mg/kg/j.",
+        "La pristinamycine peut être utilisée à 30 à 50 mg/kg/j.",
+        "L’amoxicilline-acide clavulanique fait partie des options citées.",
+        "Une céphalosporine de troisième génération est spécifiquement citée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la pénicilline M, l’amoxicilline-acide clavulanique, une céphalosporine de première génération, la pristinamycine et l’acide fusidique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les agents responsables des dermohypodermites bactériennes non nécrosantes, quelles propositions sont exactes ?",
+      "choices": [
+        "Le streptocoque β-hémolytique du groupe A est l’agent principal.",
+        "Les streptocoques des groupes G, C ou B peuvent être impliqués plus rarement.",
+        "Staphylococcus aureus est présenté comme l’agent principal de l’érysipèle.",
+        "L’érysipèle est la forme clinique commune des dermohypodermites bactériennes non nécrosantes streptococciques."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La dermohypodermite bactérienne non nécrosante est principalement streptococcique, surtout groupe A, plus rarement groupes G, C ou B."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le mode d’extension de la dermohypodermite bactérienne non nécrosante, quelles propositions sont exactes ?",
+      "choices": [
+        "L’infection s’étend horizontalement de proche en proche.",
+        "L’extension se fait dans le derme profond et l’hypoderme.",
+        "L’atteinte primitive des muscles est caractéristique de cette forme non nécrosante.",
+        "Le mécanisme décrit est exclusivement une dissémination hématogène."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte décrit une extension horizontale de proche en proche dans le derme profond et l’hypoderme à partir d’une brèche cutanée."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une dermohypodermite bactérienne non nécrosante, quelles mesures diagnostiques ou de suivi local sont recommandées ?",
+      "choices": [
+        "Rechercher une porte d’entrée cutanée locorégionale.",
+        "Marquer au feutre les contours du placard inflammatoire.",
+        "Réaliser une photographie pour suivre l’évolution.",
+        "Éliminer le diagnostic si aucune porte d’entrée n’est visible."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic est clinique ; la porte d’entrée doit être recherchée, mais son absence visible n’élimine pas le diagnostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les examens complémentaires dans l’érysipèle ou la dermohypodermite bactérienne non nécrosante, quelles propositions sont exactes ?",
+      "choices": [
+        "Aucun examen complémentaire n’est indispensable en l’absence de signes de gravité.",
+        "Une numération leucocytaire et une CRP peuvent être réalisées en cas de gravité ou de doute.",
+        "Un écho-Doppler veineux est indiqué en cas de doute avec une thrombose veineuse profonde.",
+        "Des hémocultures doivent être systématiques dans tous les cas simples."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les examens sont réservés aux situations de gravité ou de doute diagnostique ; ils ne sont pas systématiques dans une forme simple."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’érysipèle du visage, quelles propositions sont exactes ?",
+      "choices": [
+        "La porte d’entrée est souvent auriculaire.",
+        "Un eczéma du conduit auditif externe peut constituer la porte d’entrée.",
+        "Une fissure rétro-auriculaire peut constituer la porte d’entrée.",
+        "L’adénopathie régionale et la lymphangite sont constantes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’érysipèle du visage, la porte d’entrée est souvent auriculaire ; l’adénopathie et la lymphangite sont seulement inconstantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments constituent des critères d’hospitalisation initiale dans une dermohypodermite bactérienne non nécrosante ?",
+      "choices": [
+        "Une immunodépression.",
+        "Un diabète déséquilibré.",
+        "Une obésité morbide avec IMC > 40.",
+        "Une insuffisance cardiaque légère isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte retient notamment l’immunodépression, le diabète déséquilibré et l’obésité morbide avec IMC > 40 ; il mentionne l’insuffisance cardiaque sévère, non légère."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations pratiques ou sociales justifient une hospitalisation initiale selon le texte ?",
+      "choices": [
+        "Une impossibilité de traitement ou de surveillance à domicile.",
+        "Un risque de non-observance ou une précarité.",
+        "Une impossibilité de prise orale du traitement.",
+        "Un âge supérieur à 75 ans isolé, sans polypathologie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’âge supérieur à 75 ans est retenu lorsqu’il est associé à une polypathologie ; les autres situations sont explicitement citées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hospitalisation secondaire au cours d’une dermohypodermite bactérienne non nécrosante, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est indiquée devant l’apparition de signes de gravité locaux ou généraux.",
+        "Elle est indiquée en cas d’évolution défavorable après 24 à 48 heures d’antibiothérapie adaptée.",
+        "Elle est indiquée devant une fièvre persistante.",
+        "Elle est indiquée devant une extension du placard inflammatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Tous ces éléments sont cités comme indications d’hospitalisation secondaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’amoxicilline dans le traitement de première intention de la dermohypodermite bactérienne non nécrosante chez l’adulte, quelles propositions sont exactes ?",
+      "choices": [
+        "La dose recommandée est de 50 mg/kg/j.",
+        "Elle est administrée en 3 prises per os.",
+        "La dose maximale indiquée est de 6 g/j.",
+        "La durée recommandée est de 14 jours."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande l’amoxicilline 50 mg/kg/j en 3 prises per os, sans dépasser 6 g/j, pour une durée de 7 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution cutanée après traitement d’une dermohypodermite bactérienne non nécrosante, quelles propositions sont exactes ?",
+      "choices": [
+        "La régression complète des signes cutanés peut prendre 2 à 3 semaines.",
+        "Ce délai peut persister après la disparition des signes généraux.",
+        "Ce délai ne justifie pas une prolongation systématique de l’antibiothérapie.",
+        "La persistance de signes cutanés impose toujours de prolonger l’antibiothérapie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lente régression cutanée est possible et ne doit pas conduire systématiquement à prolonger l’antibiothérapie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures associées sont recommandées dans la prise en charge d’une dermohypodermite bactérienne non nécrosante ?",
+      "choices": [
+        "Le repos.",
+        "La surélévation du membre atteint jusqu’à amélioration des signes locaux.",
+        "La mise à jour de la vaccination antitétanique.",
+        "Le traitement de la porte d’entrée, d’un intertrigo, d’une plaie ou d’une dermatose sous-jacente."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces mesures font partie des mesures associées citées dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient ayant une dermohypodermite bactérienne non nécrosante, quelles mesures spécifiques sont citées en cas de lymphœdème ou d’obésité ?",
+      "choices": [
+        "Compression médicale en cas de lymphœdème.",
+        "Prise en charge de l’obésité.",
+        "Adaptation des doses d’antibiotiques chez le patient obèse.",
+        "Éviter les voies intramusculaire et sous-cutanée chez le patient obèse."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise ces mesures, notamment l’adaptation posologique et l’évitement des voies IM et SC chez le patient obèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anti-inflammatoires et corticoïdes dans la dermohypodermite bactérienne non nécrosante, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est recommandé de ne pas prescrire de corticoïdes pour traiter cette infection.",
+        "Il est recommandé de ne pas prescrire d’anti-inflammatoires non stéroïdiens pour traiter cette infection.",
+        "En cas de prise chronique d’AINS, un arrêt transitoire est recommandé jusqu’à guérison.",
+        "Les AINS doivent être poursuivis systématiquement car ils accélèrent la régression du placard."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les corticoïdes et AINS ne sont pas recommandés ; une prise chronique d’AINS doit être interrompue transitoirement jusqu’à guérison."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée habituelle de l’antibiothérapie systémique dans l’impétigo selon le texte ?",
+      "choices": [
+        "5 jours",
+        "7 jours",
+        "10 jours",
+        "14 jours"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique une durée habituelle de 10 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la posologie quotidienne d’acide fusidique citée chez l’adulte ?",
+      "choices": [
+        "1 à 1,5 g/j",
+        "500 mg/j",
+        "2 à 3 g/j",
+        "50 mg/kg/j uniquement, sans posologie adulte"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’acide fusidique est cité à 1 à 1,5 g/j chez l’adulte."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle proportion la porte d’entrée est-elle retrouvée au cours d’une dermohypodermite bactérienne non nécrosante ?",
+      "choices": [
+        "Moins de 10 % des cas",
+        "20 à 30 % des cas",
+        "50 à 70 % des cas",
+        "Plus de 95 % des cas"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que la porte d’entrée est retrouvée dans 50 à 70 % des cas."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la fréquence de positivité des hémocultures dans ce contexte selon le texte ?",
+      "choices": [
+        "Moins de 10 % des cas",
+        "Environ 30 % des cas",
+        "Environ 50 % des cas",
+        "Plus de 80 % des cas"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les hémocultures sont positives dans moins de 10 % des cas."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la place des sérologies streptococciques dans le diagnostic de dermohypodermite bactérienne non nécrosante ?",
+      "choices": [
+        "Elles confirment systématiquement le diagnostic.",
+        "Elles n’ont pas d’intérêt diagnostique.",
+        "Elles remplacent les hémocultures.",
+        "Elles sont indispensables avant toute antibiothérapie."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que les sérologies streptococciques n’ont pas d’intérêt diagnostique."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’adulte allergique à la pénicilline, quel traitement est proposé pour une dermohypodermite bactérienne non nécrosante ?",
+      "choices": [
+        "Pristinamycine 1 g trois fois par jour",
+        "Amoxicilline 50 mg/kg/j en 3 prises",
+        "Oxacilline 30 à 50 mg/kg/j",
+        "Antibiothérapie locale seule"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas d’allergie à la pénicilline, le texte propose la pristinamycine 1 g trois fois par jour."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez l’adulte, quels facteurs cités relèvent d’une exposition médicamenteuse ou iatrogène favorisant une dermohypodermite bactérienne nécrosante ou une fasciite nécrosante ?",
+      "choices": [
+        "La prise d’anti-inflammatoires non stéroïdiens",
+        "La corticothérapie",
+        "La chimiothérapie",
+        "La varicelle"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez l’adulte, les AINS, la corticothérapie, la chimiothérapie et les immunosuppresseurs sont cités. La varicelle est citée comme facteur de risque chez l’enfant."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes généraux doivent faire suspecter une dermohypodermite bactérienne nécrosante ou une fasciite nécrosante ?",
+      "choices": [
+        "Un sepsis",
+        "Un qSOFA supérieur ou égal à 2 chez l’adulte",
+        "Un choc toxinique",
+        "Une apyrexie habituelle isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les signes généraux évocateurs sont le sepsis, un qSOFA ≥ 2 chez l’adulte et le choc toxinique. L’apyrexie habituelle est décrite dans la folliculite simple."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments locaux ou sensitifs sont des signes de gravité évocateurs d’une forme nécrosante ?",
+      "choices": [
+        "Des lividités",
+        "Des taches cyaniques",
+        "Une crépitation sous-cutanée",
+        "Une hypoesthésie ou anesthésie locale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les lividités, taches cyaniques, crépitation sous-cutanée et troubles sensitifs locaux font partie des signes locaux de gravité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution d’une dermohypodermite bactérienne nécrosante, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être fulminante",
+        "Elle met en jeu le pronostic vital",
+        "L’extension peut être rapide en quelques heures",
+        "Une aggravation locale à 48 heures malgré une antibiothérapie adaptée est évocatrice"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’évolution est souvent fulminante, grave, avec mortalité élevée. L’extension rapide et l’aggravation à 48 heures malgré traitement adapté sont des arguments évocateurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations localisation-contexte sont exactes dans les formes particulières de dermohypodermite bactérienne nécrosante ?",
+      "choices": [
+        "Forme cervicale : foyer infectieux buccodentaire, cervical ou ORL",
+        "Forme périorbitaire : surtout chez l’enfant après traumatisme ou infection des voies aériennes supérieures",
+        "Forme thoracoabdominale : complication possible d’une chirurgie",
+        "Forme cervicale : complication habituelle d’une varicelle"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les formes cervicales suivent des foyers buccodentaires, cervicaux ou ORL ; les formes périorbitaires surviennent surtout chez l’enfant après traumatisme ou infection des VAS ; les formes thoracoabdominales peuvent compliquer une chirurgie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la gangrène de Fournier, quelles modalités de porte d’entrée sont citées ?",
+      "choices": [
+        "Une porte d’entrée postopératoire",
+        "Une porte d’entrée liée à un acte invasif",
+        "Une porte d’entrée primitive comme une bartholinite ou une pathologie anale",
+        "Une porte d’entrée ORL"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La gangrène de Fournier peut avoir une porte d’entrée génitale, anorectale, cutanée, postopératoire, liée à un acte invasif ou primitive comme une bartholinite ou une pathologie anale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments font partie de la prise en charge d’une dermohypodermite bactérienne nécrosante ou d’une fasciite nécrosante ?",
+      "choices": [
+        "Un débridement chirurgical large de tous les tissus nécrosés",
+        "Une antibiothérapie intraveineuse probabiliste puis adaptée aux prélèvements",
+        "La prise en charge des défaillances d’organe",
+        "La prévention antitétanique si nécessaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le traitement est une urgence médico-chirurgicale associant chirurgie large, antibiothérapie IV, prise en charge des défaillances, comorbidités, porte d’entrée et prévention antitétanique si nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs favorisants sont spécifiquement cités pour la folliculite ?",
+      "choices": [
+        "La macération",
+        "Le frottement",
+        "Le rasage",
+        "La cirrhose"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La folliculite est favorisée par la macération, les frottements et le rasage. La cirrhose est citée comme facteur de risque de forme nécrosante chez l’adulte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments cliniques correspondent à une folliculite selon le texte ?",
+      "choices": [
+        "Des papules érythémateuses centrées par un poil",
+        "Une évolution possible vers des pustules",
+        "Une apyrexie habituelle",
+        "Un choc toxinique constant"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La folliculite donne des papules érythémateuses centrées par un poil, pouvant évoluer vers des pustules, avec apyrexie habituelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes appartiennent à la clinique de la folliculite profonde ?",
+      "choices": [
+        "Une induration périfolliculaire",
+        "Un nodule induré",
+        "Un œdème important",
+        "Une pression artérielle systolique inférieure à 100 mmHg"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La folliculite profonde peut comporter induration périfolliculaire, nodule induré, œdème important, pustule centrale, écoulement purulent et douleur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement de la folliculite, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hygiène locale fait partie du traitement",
+        "Les antiseptiques pluriquotidiens sont indiqués",
+        "L’antibiothérapie per os est réservée aux formes étendues",
+        "L’amoxicilline-acide clavulanique est citée dans les formes étendues"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le traitement comprend hygiène locale, antiseptiques pluriquotidiens ; l’antibiothérapie orale n’est indiquée que dans les formes étendues, avec amoxicilline-acide clavulanique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du furoncle, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une infection profonde du follicule pilo-sébacé",
+        "Il est dû à Staphylococcus aureus",
+        "La souche peut produire une leucocidine de Panton-Valentine",
+        "Il est toujours une infection polymicrobienne"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le furoncle est une infection profonde du follicule pilo-sébacé due à Staphylococcus aureus, parfois producteur de leucocidine de Panton-Valentine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution spontanée du furoncle, quelles propositions sont exactes ?",
+      "choices": [
+        "L’évolution se fait en 5 à 10 jours",
+        "Il évolue vers la nécrose",
+        "Il peut éliminer le follicule pileux sous forme de bourbillon",
+        "Il peut laisser une cicatrice déprimée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "En 5 à 10 jours, le furoncle évolue vers la nécrose et l’élimination du follicule pileux sous forme de bourbillon, laissant une cicatrice déprimée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’anthrax décrit dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à une agglomération de plusieurs furoncles",
+        "Les furoncles sont situés dans une même région",
+        "Il se manifeste par un placard très inflammatoire",
+        "Il correspond à une atteinte isolée de l’ostium folliculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anthrax est défini comme une agglomération de plusieurs furoncles dans une même région, donnant un placard très inflammatoire. L’atteinte isolée de l’ostium correspond à la folliculite superficielle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle conduite est imposée par la suspicion de fasciite nécrosante ?",
+      "choices": [
+        "Surveillance ambulatoire rapprochée",
+        "Hospitalisation en urgence",
+        "Traitement local antiseptique seul",
+        "Arrêt de toute antibiothérapie initiale"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La suspicion de fasciite nécrosante impose une hospitalisation en urgence."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée habituelle de l’antibiothérapie dans une dermohypodermite bactérienne nécrosante ou une fasciite nécrosante ?",
+      "choices": [
+        "3 à 5 jours",
+        "7 jours fixes",
+        "14 à 21 jours selon l’évolution",
+        "6 semaines systématiques"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique une durée habituelle de 14 à 21 jours selon l’évolution."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la localisation la plus fréquente des dermohypodermites bactériennes nécrosantes ?",
+      "choices": [
+        "Les membres inférieurs",
+        "La région périorbitaire",
+        "La région cervicale",
+        "La région thoracoabdominale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les membres inférieurs constituent la localisation la plus fréquente."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel germe est le plus souvent impliqué dans la folliculite ?",
+      "choices": [
+        "Staphylococcus aureus",
+        "Pseudomonas aeruginosa",
+        "Streptocoque du groupe A",
+        "Entérobactérie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La folliculite est le plus souvent due à Staphylococcus aureus."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas d’allergie lors d’une folliculite étendue nécessitant une antibiothérapie orale, quel antibiotique est cité ?",
+      "choices": [
+        "Azithromycine",
+        "Pristinamycine",
+        "Pénicilline V",
+        "Benzathine benzylpénicilline G"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans les formes étendues de folliculite, l’amoxicilline-acide clavulanique est citée ; en cas d’allergie, la pristinamycine est proposée."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’évolution du furoncle, que désigne le bourbillon ?",
+      "choices": [
+        "Une pustule très superficielle de l’ostium folliculaire",
+        "L’élimination du follicule pileux nécrosé",
+        "Une crépitation sous-cutanée",
+        "Un placard érythémateux sans nécrose"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le furoncle évolue vers la nécrose et l’élimination du follicule pileux sous forme de bourbillon."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments sémiologiques suivants, lesquels appartiennent à la description de l’anthrax dans le texte ?",
+      "choices": [
+        "Lésions pustuleuses multiples",
+        "Creusement en cratère",
+        "Fièvre et malaise",
+        "Signes généraux intenses"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit l’anthrax par des lésions pustuleuses, un creusement en cratère, une fièvre, un malaise et des signes généraux intenses."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une furonculose chronique, quels éléments doivent être intégrés au bilan étiologique ou favorisant selon le texte ?",
+      "choices": [
+        "Recherche d’un diabète",
+        "Recherche d’un déficit immunitaire",
+        "Recherche de gîtes staphylococciques",
+        "Recherche d’un portage dans l’entourage familial"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le bilan d’une furonculose comprend la recherche d’un diabète, d’un déficit immunitaire, de gîtes staphylococciques et d’un portage familial."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les gîtes staphylococciques mentionnés dans la furonculose, quelles localisations sont citées ?",
+      "choices": [
+        "Narines",
+        "Région rétro-auriculaire",
+        "Pli interfessier",
+        "Cicatrices d’anciens furoncles"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les gîtes staphylococciques à rechercher sont les narines, la région rétro-auriculaire, le pli interfessier et les cicatrices d’anciens furoncles."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments caractérisent la staphylococcie maligne de la face dans le texte ?",
+      "choices": [
+        "Complication grave d’un furoncle centro-facial",
+        "Favorisée souvent par une manipulation",
+        "Aggravation rapide possible",
+        "Risque de thrombose du sinus caverneux"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La staphylococcie maligne de la face est une complication grave d’un furoncle centro-facial, souvent favorisée par une manipulation, avec aggravation rapide et risque de thrombose du sinus caverneux."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la clinique de la staphylococcie maligne de la face, quels signes locaux sont rapportés ?",
+      "choices": [
+        "Placard inflammatoire rouge et douloureux",
+        "Extension centrifuge",
+        "Pustules",
+        "Aggravation rapide"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le tableau clinique comprend un placard inflammatoire rouge et douloureux, une extension centrifuge, des pustules et une aggravation rapide."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les complications suivantes des infections folliculaires profondes, lesquelles sont classées comme locorégionales dans le texte ?",
+      "choices": [
+        "Abcès sous-cutané",
+        "Lymphangite",
+        "Dermohypodermite aiguë",
+        "Thrombose cérébrale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les complications locorégionales citées sont l’abcès sous-cutané, la lymphangite et la dermohypodermite aiguë. La thrombose cérébrale est citée parmi les complications de la staphylococcie maligne de la face."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles complications systémiques sont mentionnées après infections folliculaires profondes ?",
+      "choices": [
+        "Bactériémie à Staphylococcus aureus",
+        "Endocardite",
+        "Infections ostéo-articulaires",
+        "Lymphangite"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les complications systémiques citées sont la bactériémie à Staphylococcus aureus, l’endocardite et les infections ostéo-articulaires. La lymphangite est locorégionale."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour un furoncle isolé, quelles mesures thérapeutiques sont indiquées dans le texte ?",
+      "choices": [
+        "Hygiène rigoureuse",
+        "Antiseptique local",
+        "Éviter toute manipulation",
+        "Excision chirurgicale systématique des tissus nécrosés"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement du furoncle isolé repose sur l’hygiène rigoureuse, l’antiseptique local et l’absence de manipulation. L’excision chirurgicale des tissus nécrosés concerne l’anthrax."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations le texte indique-t-il une antibiothérapie orale devant un furoncle ?",
+      "choices": [
+        "Localisation centro-faciale",
+        "Fièvre",
+        "Extension",
+        "Tout furoncle isolé non compliqué"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une antibiothérapie orale est indiquée en cas de furoncle centro-facial, de fièvre ou d’extension. Elle n’est pas mentionnée pour tout furoncle isolé non compliqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels antibiotiques sont cités comme options par voie orale en cas de furoncle centro-facial, fébrile ou en extension ?",
+      "choices": [
+        "Pénicilline M",
+        "Pristinamycine",
+        "Acide fusidique",
+        "Mupirocine nasale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la pénicilline M, la pristinamycine ou l’acide fusidique selon le contexte. La mupirocine nasale relève du protocole de décolonisation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments font partie du traitement de l’anthrax selon le texte ?",
+      "choices": [
+        "Excision chirurgicale des tissus nécrosés",
+        "Antibiothérapie générale adaptée à l’antibiogramme",
+        "Soins locaux",
+        "Simple abstention thérapeutique avec surveillance"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement de l’anthrax associe excision chirurgicale des tissus nécrosés, antibiothérapie générale adaptée à l’antibiogramme et soins locaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prise en charge de la furonculose, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comporte une hygiène rigoureuse",
+        "Elle peut nécessiter une antibiothérapie per os selon l’antibiogramme",
+        "Elle impose la recherche et le traitement des gîtes staphylococciques",
+        "Elle peut nécessiter la prise en charge du portage familial"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La prise en charge de la furonculose comprend l’hygiène, l’antibiothérapie per os selon l’antibiogramme, la recherche et le traitement des gîtes, ainsi que la prise en charge du portage familial si nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le protocole de décolonisation staphylococcique, quelles mesures sont correctement rapportées ?",
+      "choices": [
+        "Application nasale de mupirocine deux fois par jour pendant 7 jours",
+        "Toilette quotidienne pendant 7 jours avec chlorhexidine moussante utilisée comme savon et shampoing",
+        "Hygiène corporelle stricte",
+        "Vêtements propres"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le protocole inclut la mupirocine nasale 2 fois par jour pendant 7 jours, la toilette quotidienne à la chlorhexidine moussante pendant 7 jours, l’hygiène corporelle stricte et les vêtements propres."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles mesures d’hygiène du linge ou de l’environnement sont citées dans la décolonisation staphylococcique ?",
+      "choices": [
+        "Changement fréquent du linge de toilette",
+        "Hygiène de l’environnement incluant le linge",
+        "Hygiène de l’environnement incluant la vaisselle",
+        "Entretien des locaux"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le protocole mentionne le changement fréquent du linge de toilette et l’hygiène de l’environnement : linge, vaisselle et entretien des locaux."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient présente des lésions pustuleuses avec creusement en cratère, siégeant à la partie haute du dos, associées à fièvre, malaise et signes généraux intenses. Quel diagnostic du texte est le plus évocateur ?",
+      "choices": [
+        "Furoncle isolé",
+        "Anthrax",
+        "Staphylococcie maligne de la face",
+        "Lymphangite"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’association de pustules, creusement en cratère, siège à la partie haute du dos et signes généraux intenses correspond à la description de l’anthrax."
+    },
+    {
+      "type": "QCS",
+      "question": "Un furoncle centro-facial manipulé se complique d’un placard inflammatoire rouge et douloureux avec extension centrifuge, pustules et aggravation rapide. Quelle complication faut-il évoquer ?",
+      "choices": [
+        "Staphylococcie maligne de la face",
+        "Anthrax dorsal",
+        "Ecthyma",
+        "Furonculose chronique simple"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La staphylococcie maligne de la face complique un furoncle centro-facial, souvent après manipulation, avec placard inflammatoire douloureux, pustules et aggravation rapide."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle prise en charge est spécifiquement indiquée dans la staphylococcie maligne de la face ?",
+      "choices": [
+        "Hospitalisation urgente et antibiothérapie urgente",
+        "Antiseptique local seul",
+        "Surveillance sans antibiothérapie",
+        "Traitement local prolongé des gîtes uniquement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La staphylococcie maligne de la face impose une hospitalisation urgente et une antibiothérapie urgente."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les complications suivantes, laquelle est une complication systémique des infections folliculaires profondes selon le texte ?",
+      "choices": [
+        "Lymphangite",
+        "Abcès sous-cutané",
+        "Endocardite",
+        "Dermohypodermite aiguë"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’endocardite est citée comme complication systémique. Les autres propositions appartiennent aux complications locorégionales."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le protocole de décolonisation staphylococcique, comment est utilisée la solution moussante de chlorhexidine ?",
+      "choices": [
+        "Comme savon et shampoing lors d’une toilette quotidienne pendant 7 jours",
+        "Uniquement en bain de bouche chez l’enfant de moins de 6 ans",
+        "En application nasale deux fois par jour",
+        "En injection locale dans les furoncles"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise une toilette quotidienne pendant 7 jours avec une solution moussante de chlorhexidine utilisée comme savon et shampoing."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité correspond au traitement local prolongé des gîtes staphylococciques ?",
+      "choices": [
+        "Antiseptiques ou antibiotiques locaux deux fois par jour, 10 jours par mois pendant 6 mois à 1 an",
+        "Mupirocine nasale une fois par mois pendant 24 heures",
+        "Chlorhexidine orale uniquement pendant 48 heures",
+        "Antibiothérapie générale systématique pendant 1 an"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le traitement local prolongé des gîtes se fait par antiseptiques ou antibiotiques locaux, comme l’acide fusidique ou la mupirocine, 2 fois par jour, 10 jours par mois pendant 6 mois à 1 an."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition générale des infections cutanées bactériennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles regroupent des manifestations cutanées inflammatoires et suppuratives liées à des germes pyogènes.",
+        "Les cocci Gram positif, surtout Staphylococcus aureus et les streptocoques β-hémolytiques, sont impliqués dans la majorité des cas.",
+        "La prise en charge repose souvent sur des critères cliniques en l’absence de documentation microbiologique initiale.",
+        "La documentation microbiologique initiale est constante et indispensable dans tous les cas."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte définit ces infections comme inflammatoires et suppuratives, dominées par les cocci Gram positif. La prise en charge est souvent clinique, sans documentation microbiologique initiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les évolutions graves possibles des infections cutanées bactériennes citées dans le texte, lesquelles sont exactes ?",
+      "choices": [
+        "Infection nécrosante ou gangrène des tissus mous.",
+        "Atteinte systémique ou bactériémie.",
+        "Arthrite septique, ostéomyélite ou endocardite.",
+        "Absence de toute possibilité d’extension générale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les formes nécrosantes, la gangrène des tissus mous, l’atteinte systémique, la bactériémie, l’arthrite septique, l’ostéomyélite et l’endocardite."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les défenses cutanées naturelles contre l’infection bactérienne, quelles propositions sont exactes ?",
+      "choices": [
+        "La continuité de la couche cornée participe à la protection mécanique.",
+        "Le pH cutané acide, le sébum, les défensines, le lysozyme et les cathélicidines participent à la protection chimique.",
+        "La flore commensale résidente, les cellules de Langerhans, les macrophages dermiques et les lymphocytes à tropisme cutané participent à la protection biologique.",
+        "La protection biologique repose exclusivement sur la disparition de la flore commensale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les défenses cutanées associent protection mécanique, chimique et biologique. La flore commensale est protectrice, sa disparition favorise au contraire l’infection."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes locaux d’altération de la barrière cutanée peuvent favoriser une infection bactérienne cutanée selon le texte ?",
+      "choices": [
+        "Rupture de la barrière cutanée.",
+        "Modification du pH cutané.",
+        "Disparition du film sébacé ou de la flore commensale par détergents ou antiseptiques.",
+        "Colonisation persistante par des germes habituellement transitoires."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Tous ces mécanismes sont cités comme facteurs favorisant l’infection bactérienne cutanée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels terrains ou situations générales sont cités comme facteurs favorisants des infections cutanées bactériennes ?",
+      "choices": [
+        "Diabète.",
+        "Immunodépression.",
+        "Obésité.",
+        "Insuffisance veineuse ou lymphatique et artériopathie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite notamment le diabète, l’immunodépression, l’obésité, l’insuffisance veineuse ou lymphatique et l’artériopathie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification des infections cutanées non folliculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "L’impétigo, l’ecthyma et l’impétiginisation sont des infections non folliculaires localisées.",
+        "Les dermohypodermites bactériennes et la fasciite nécrosante sont classées parmi les infections non folliculaires diffuses.",
+        "La folliculite est une infection non folliculaire localisée.",
+        "L’anthrax est classé parmi les infections non folliculaires diffuses."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les infections non folliculaires localisées comprennent l’impétigo, l’ecthyma et l’impétiginisation. Les formes diffuses comprennent les dermohypodermites et la fasciite nécrosante."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification des infections folliculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "La folliculite est une infection folliculaire superficielle.",
+        "Le furoncle, l’anthrax et la furonculose sont des infections folliculaires profondes.",
+        "L’impétigo est classé parmi les infections non folliculaires.",
+        "L’ecthyma est classé parmi les infections folliculaires profondes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La folliculite est superficielle ; furoncle, anthrax et furonculose sont profonds. L’impétigo et l’ecthyma sont non folliculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’impétigo, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une infection cutanée purement épidermique.",
+        "Il est dû au streptocoque β-hémolytique du groupe A et/ou à Staphylococcus aureus.",
+        "Il est auto- et hétéro-inoculable.",
+        "Il est non immunisant et très contagieux."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’impétigo est une infection épidermique, due au streptocoque β-hémolytique du groupe A et/ou à Staphylococcus aureus, auto- et hétéro-inoculable, non immunisante et très contagieuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’épidémiologie et les facteurs favorisants de l’impétigo, quelles propositions sont exactes ?",
+      "choices": [
+        "Il atteint surtout l’enfant.",
+        "Il peut donner de petites épidémies familiales ou en collectivité.",
+        "Chez l’adulte, il complique souvent une dermatose prurigineuse préexistante, notamment une ectoparasitose.",
+        "Chez l’adulte, la surinfection d’une dermatose prurigineuse n’est pas décrite dans le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’impétigo touche surtout l’enfant, avec possibilité de petites épidémies. Chez l’adulte, il complique souvent une dermatose prurigineuse, en particulier une ectoparasitose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les données microbiologiques de l’impétigo et de ses formes, quelles propositions sont exactes ?",
+      "choices": [
+        "L’impétigo bulleux est le plus souvent lié à Staphylococcus aureus.",
+        "L’ecthyma est lié à Streptococcus pyogenes et/ou à Staphylococcus aureus.",
+        "L’aspect clinique de l’impétigo ne permet pas de prédire le germe responsable.",
+        "L’aspect clinique permet toujours d’identifier avec certitude le germe responsable."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’impétigo bulleux est le plus souvent staphylococcique. L’ecthyma peut être lié à Streptococcus pyogenes et/ou Staphylococcus aureus. L’aspect clinique ne prédit pas le germe."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la forme habituelle de l’impétigo de l’enfant, quels éléments sont rapportés par le texte ?",
+      "choices": [
+        "Les signes généraux sont habituellement absents.",
+        "Des adénopathies régionales sont fréquentes.",
+        "Une glomérulonéphrite aiguë post-streptococcique est une complication rare.",
+        "Les signes généraux importants sont constants dès le début."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme habituelle de l’enfant s’accompagne fréquemment d’adénopathies régionales, sans signes généraux habituels. La glomérulonéphrite aiguë post-streptococcique est rare."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’impétiginisation et l’ecthyma, quelles propositions sont exactes ?",
+      "choices": [
+        "L’impétiginisation correspond à la surinfection bactérienne d’une dermatose prurigineuse.",
+        "L’impétiginisation peut se manifester par des croûtes mélicériques ou plus rarement par des pustules.",
+        "L’ecthyma est une forme creusante d’impétigo.",
+        "L’ecthyma évolue toujours sans cicatrice."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’impétiginisation est une surinfection d’une dermatose prurigineuse avec croûtes mélicériques ou pustules. L’ecthyma est une forme creusante pouvant laisser une cicatrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles complications septiques locales de l’impétigo non traité sont citées ?",
+      "choices": [
+        "Abcès.",
+        "Lymphangite.",
+        "Ostéomyélite.",
+        "Arthrite septique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les complications septiques locales citées sont l’abcès, la lymphangite, l’ostéomyélite et l’arthrite septique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement local de l’impétigo, quelles propositions sont exactes ?",
+      "choices": [
+        "Il comporte un lavage biquotidien à l’eau et au savon.",
+        "Des antiseptiques comme la chlorhexidine ou la povidone iodée peuvent être utilisés.",
+        "Les antibiotiques topiques possibles sont l’acide fusidique et la mupirocine en deuxième intention.",
+        "Les pommades grasses sont privilégiées pour ramollir les croûtes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le traitement local est systématique : lavage biquotidien, antiseptiques, antibiotiques topiques si nécessaire et pommades grasses pour ramollir les croûtes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quels germes sont impliqués dans la majorité des infections cutanées bactériennes selon le texte ?",
+      "choices": [
+        "Les bacilles Gram négatif uniquement.",
+        "Staphylococcus aureus et les streptocoques β-hémolytiques.",
+        "Les levures commensales exclusivement.",
+        "Les mycobactéries cutanées exclusivement."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les cocci Gram positif, principalement Staphylococcus aureus et les streptocoques β-hémolytiques, sont impliqués dans la majorité des cas."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les infections suivantes, laquelle est classée comme infection non folliculaire diffuse ?",
+      "choices": [
+        "Impétigo.",
+        "Ecthyma.",
+        "Fasciite nécrosante.",
+        "Folliculite."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La fasciite nécrosante est classée parmi les infections non folliculaires diffuses."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la localisation habituelle de l’ecthyma selon le texte ?",
+      "choices": [
+        "Cuir chevelu.",
+        "Membres inférieurs.",
+        "Paumes et plantes exclusivement.",
+        "Muqueuse buccale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’ecthyma est habituellement localisé aux membres inférieurs."
+    },
+    {
+      "type": "QCS",
+      "question": "Après un impétigo, à quel délai une recherche de protéinurie par bandelette urinaire peut-elle être réalisée ?",
+      "choices": [
+        "Le jour même de l’infection.",
+        "À 48 heures.",
+        "À 3 semaines.",
+        "À 6 mois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une recherche de protéinurie par bandelette urinaire peut être réalisée 3 semaines après l’infection."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’impétigo bulleux, quelle taille de bulle est décrite pour la lésion élémentaire ?",
+      "choices": [
+        "Moins de 1 mm.",
+        "1 à 5 cm.",
+        "Plus de 10 cm constamment.",
+        "Uniquement des microvésicules punctiformes."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La lésion élémentaire de l’impétigo bulleux est une bulle large de 1 à 5 cm entourée d’un érythème périphérique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée du traitement local de l’impétigo indiquée dans le texte ?",
+      "choices": [
+        "24 heures.",
+        "3 jours.",
+        "8 à 10 jours.",
+        "6 semaines."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le traitement local de l’impétigo est indiqué pour une durée de 8 à 10 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition et le cadre nosologique des dermohypodermites bactériennes aiguës, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des infections bactériennes aiguës des tissus situés entre l’épiderme et les muscles.",
+        "Elles correspondent toujours à une infection strictement limitée à l’épiderme.",
+        "Elles se manifestent le plus souvent par un placard inflammatoire accompagné de signes généraux.",
+        "Elles comprennent notamment les dermohypodermites bactériennes non nécrosantes et les formes nécrosantes incluant la fasciite nécrosante."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte définit les dermohypodermites bactériennes aiguës comme des infections des tissus entre l’épiderme et les muscles, souvent avec placard inflammatoire et signes généraux. Elles incluent les formes non nécrosantes, non streptococciques et nécrosantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la dermohypodermite bactérienne non nécrosante, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est limitée au derme et à l’hypoderme.",
+        "Elle est définie par l’absence de nécrose.",
+        "Elle survient surtout chez l’adulte.",
+        "Elle est plus fréquente chez l’enfant que chez l’adulte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La dermohypodermite bactérienne non nécrosante est une infection aiguë du derme et de l’hypoderme, sans nécrose, survenant surtout chez l’adulte et plus rarement chez l’enfant."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la place de l’érysipèle dans les dermohypodermites bactériennes non nécrosantes, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à la forme clinique commune de dermohypodermite bactérienne non nécrosante streptococcique.",
+        "Il atteint le plus souvent les membres inférieurs.",
+        "Il peut toucher le visage.",
+        "Il exclut l’existence d’une brèche cutanée initiale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’érysipèle est la forme clinique commune de dermohypodermite bactérienne non nécrosante streptococcique. Il siège le plus souvent aux membres inférieurs, mais peut toucher d’autres régions, notamment le visage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les agents bactériens de la dermohypodermite bactérienne non nécrosante selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le streptocoque bêta-hémolytique du groupe A est principalement impliqué.",
+        "Les streptocoques des groupes G, C ou B sont plus rarement en cause.",
+        "L’érysipèle est rattaché à une dermohypodermite non nécrosante streptococcique.",
+        "Staphylococcus aureus est présenté comme l’agent principal de cette forme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La dermohypodermite bactérienne non nécrosante est principalement due au streptocoque bêta-hémolytique du groupe A, plus rarement aux groupes G, C ou B."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la physiopathologie de l’érysipèle, quelles propositions sont exactes ?",
+      "choices": [
+        "L’extension se fait horizontalement.",
+        "L’extension se fait de proche en proche.",
+        "L’atteinte concerne le derme profond et l’hypoderme.",
+        "L’extension musculaire primitive est un mécanisme obligatoire décrit dans le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’érysipèle s’étend horizontalement de proche en proche dans le derme profond et l’hypoderme à partir d’une brèche cutanée."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les facteurs favorisants œdémateux ou vasculo-lymphatiques de dermohypodermite bactérienne non nécrosante, lesquels sont cités ?",
+      "choices": [
+        "Œdème, quelle qu’en soit la cause.",
+        "Lymphœdème.",
+        "Œdème de stase.",
+        "Insuffisance veino-lymphatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite l’œdème quelle qu’en soit la cause, le lymphœdème, l’œdème de stase et l’insuffisance veino-lymphatique comme facteurs favorisants."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels terrains ou antécédents sont cités comme facteurs favorisants de dermohypodermite bactérienne non nécrosante ?",
+      "choices": [
+        "Diabète.",
+        "Obésité.",
+        "Antécédent d’érysipèle.",
+        "Irradiation antérieure."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne notamment le diabète, l’obésité, l’antécédent d’érysipèle, l’immunosuppression et l’irradiation antérieure."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’érysipèle des membres inférieurs, quelles portes d’entrée fréquentes sont mentionnées ?",
+      "choices": [
+        "Intertrigo inter-orteils.",
+        "Ulcère veineux du membre inférieur.",
+        "Plaie traumatique.",
+        "Eczéma ou dermatose érosive."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les portes d’entrée fréquentes citées sont l’intertrigo inter-orteils, l’ulcère veineux du membre inférieur, la plaie traumatique, la dermatose érosive, l’eczéma et la varicelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le tableau clinique de l’érysipèle des membres inférieurs, quelles propositions sont exactes ?",
+      "choices": [
+        "Le début est brutal.",
+        "La fièvre peut atteindre 39–40 °C.",
+        "Le placard cutané inflammatoire est bien circonscrit.",
+        "Des bulles ou un purpura peuvent être observés."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit un début brutal, une fièvre à 39–40 °C, un placard inflammatoire bien circonscrit, avec bulles et purpura possibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’érysipèle des membres inférieurs, quels éléments sémiologiques sont rapportés par le texte ?",
+      "choices": [
+        "Absence de nécrose.",
+        "Absence de crépitation.",
+        "Adénopathie régionale possible.",
+        "Lymphangite possible."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise l’absence de nécrose et de crépitation, avec possibilité d’adénopathie régionale et de lymphangite."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la porte d’entrée de l’érysipèle du visage, quelles propositions sont exactes ?",
+      "choices": [
+        "La porte d’entrée principale est auriculaire.",
+        "Un eczéma du conduit auditif externe peut être en cause.",
+        "Une fissure rétro-auriculaire peut être en cause.",
+        "L’intertrigo inter-orteils est la porte d’entrée principale du visage."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pour l’érysipèle du visage, le texte indique une porte d’entrée principale auriculaire : eczéma du conduit auditif externe ou fissure rétro-auriculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les signes cliniques d’une dermohypodermite bactérienne non nécrosante à streptocoque, quelles propositions sont exactes ?",
+      "choices": [
+        "Apparition brutale d’un placard inflammatoire bien circonscrit.",
+        "Atteinte unilatérale en cas de localisation au membre.",
+        "Fièvre et/ou frissons associés ou précédents.",
+        "Adénopathie régionale et lymphangite constamment présentes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les signes décrits sont un placard inflammatoire bien circonscrit d’apparition brutale, une atteinte unilatérale au membre, une fièvre et/ou des frissons associés ou précédents. L’adénopathie et la lymphangite sont inconstantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles maladies associées justifient une hospitalisation d’emblée dans une dermohypodermite bactérienne non nécrosante selon le texte ?",
+      "choices": [
+        "Immunodépression.",
+        "Diabète déséquilibré.",
+        "Insuffisance cardiaque stade III ou plus.",
+        "Insuffisance rénale sévère."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite notamment l’immunodépression, le diabète déséquilibré, l’insuffisance cardiaque stade III ou plus, l’insuffisance rénale sévère et l’insuffisance hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modalités pratiques de l’antibiothérapie dans la dermohypodermite bactérienne non nécrosante, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est recommandé de ne pas prescrire d’antibiothérapie locale.",
+        "Chez le patient obèse, les doses d’antibiotiques doivent être adaptées.",
+        "Les voies intramusculaire et sous-cutanée sont à éviter.",
+        "L’absorption orale est en principe conservée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise l’absence d’indication d’antibiothérapie locale, l’adaptation des doses chez l’obèse, l’évitement des voies intramusculaire et sous-cutanée, et la conservation habituelle de l’absorption orale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel niveau anatomique définit le mieux les dermohypodermites bactériennes aiguës selon le texte ?",
+      "choices": [
+        "Infections limitées à la couche cornée.",
+        "Infections des tissus situés entre l’épiderme et les muscles.",
+        "Infections exclusivement musculaires.",
+        "Infections uniquement folliculaires superficielles."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les dermohypodermites bactériennes aiguës sont définies comme des infections bactériennes aiguës des tissus situés entre l’épiderme et les muscles."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle attitude diagnostique adopter devant une dermohypodermite bactérienne non nécrosante sans porte d’entrée visible ?",
+      "choices": [
+        "Éliminer le diagnostic.",
+        "Retenir obligatoirement une forme nécrosante.",
+        "Ne pas éliminer le diagnostic pour cette seule raison.",
+        "Conclure à une origine non bactérienne."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que l’absence de porte d’entrée visible ne doit pas faire éliminer le diagnostic."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est indiqué en cas de doute entre érysipèle et thrombose veineuse profonde ?",
+      "choices": [
+        "Sérologie streptococcique.",
+        "Écho-Doppler veineux.",
+        "Biopsie musculaire systématique.",
+        "Radiographie standard du membre."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En cas de doute avec une thrombose veineuse profonde, le texte indique la réalisation d’un écho-Doppler veineux."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil d’IMC définit l’obésité morbide citée comme critère d’hospitalisation d’emblée ?",
+      "choices": [
+        "IMC supérieur à 25.",
+        "IMC supérieur à 30.",
+        "IMC supérieur à 35.",
+        "IMC supérieur à 40."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’obésité morbide avec IMC supérieur à 40 est citée parmi les critères d’hospitalisation d’emblée."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’adulte allergique à la pénicilline ayant une dermohypodermite bactérienne non nécrosante, quel traitement est indiqué selon le texte ?",
+      "choices": [
+        "Pristinamycine 1 g trois fois par jour.",
+        "Amoxicilline 50 mg/kg/j en 3 prises.",
+        "Antibiothérapie locale seule.",
+        "Céphalosporine injectable systématique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas d’allergie à la pénicilline, le texte indique la pristinamycine à la dose de 1 g trois fois par jour."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée recommandée de l’antibiothérapie d’une dermohypodermite bactérienne non nécrosante chez l’adulte selon le texte ?",
+      "choices": [
+        "3 jours.",
+        "7 jours.",
+        "14 jours.",
+        "21 jours systématiquement."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La durée recommandée du traitement antibiotique de la dermohypodermite bactérienne non nécrosante chez l’adulte est de 7 jours."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-03T19:00:45.504Z"
+}

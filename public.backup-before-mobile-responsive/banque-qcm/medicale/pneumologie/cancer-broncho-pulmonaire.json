@@ -1,0 +1,3122 @@
+{
+  "category": "medicale",
+  "module": "pneumologie",
+  "courseId": null,
+  "courseTitle": null,
+  "supportTitle": "cancer_broncho_pulmonaire.pdf",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/cancer broncho pulmonaire.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 142,
+    "qcs": 58
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les principaux types histologiques des cancers bronchopulmonaires primitifs, quelles propositions sont exactes ?",
+      "choices": [
+        "Les cancers bronchopulmonaires non à petites cellules représentent environ 85 % des cas.",
+        "L’adénocarcinome est souvent périphérique et peut être TTF1 positif en immunohistochimie.",
+        "Le carcinome épidermoïde est souvent proximal et p40 positif en immunohistochimie.",
+        "Le cancer bronchopulmonaire à petites cellules représente environ 85 % des cas."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cancers non à petites cellules représentent environ 85 % des cas. L’adénocarcinome est souvent périphérique et TTF1 positif ; le carcinome épidermoïde est souvent proximal et p40 positif. Le cancer à petites cellules représente environ 15 % des cas."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil correspond le mieux à l’adénocarcinome pulmonaire selon le texte ?",
+      "choices": [
+        "Tumeur souvent proximale, p40 positive.",
+        "Forme la plus fréquente, souvent périphérique, à architecture glandulaire.",
+        "Tumeur toujours médiastinale avec marquage neuroendocrine positif.",
+        "Tumeur bénigne développée à partir du tissu pleural."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’adénocarcinome est décrit comme la forme la plus fréquente, souvent périphérique, à architecture glandulaire, souvent TTF1 positive."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du tabagisme actif dans le cancer du poumon, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est responsable d’environ 85 % des cancers du poumon.",
+        "Le risque dépend surtout de la précocité du début du tabagisme et de la durée d’exposition.",
+        "Il n’existe pas de seuil de consommation sans risque.",
+        "Après l’arrêt, le risque diminue mais ne revient jamais au niveau de celui d’un non-fumeur."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le tabagisme actif est le principal facteur de risque. Le risque dépend notamment de l’âge de début et de la durée d’exposition ; aucun seuil n’est sans risque, et l’arrêt diminue le risque sans le normaliser totalement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs de risque non directement liés au tabagisme actif, quelles propositions sont exactes ?",
+      "choices": [
+        "Le tabagisme passif augmente le risque de cancer du poumon.",
+        "L’exposition au tabagisme passif dans l’enfance est particulièrement importante.",
+        "L’amiante, la silice cristalline, les fumées diesel et les hydrocarbures aromatiques polycycliques font partie des expositions professionnelles à rechercher.",
+        "Le radon domestique est un gaz radioactif naturel, incolore et inodore."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte insiste sur le tabagisme passif, notamment dans l’enfance, les expositions professionnelles et le radon domestique comme facteurs de risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs individuels sont cités comme augmentant le risque de cancer du poumon ?",
+      "choices": [
+        "La BPCO.",
+        "Les pathologies pulmonaires fibrosantes.",
+        "Un antécédent personnel de cancer du poumon, surtout en cas de poursuite du tabagisme.",
+        "Les prédispositions familiales et individuelles."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite la BPCO, les pathologies fibrosantes, l’antécédent personnel de cancer pulmonaire surtout avec poursuite du tabagisme, ainsi que les prédispositions familiales et individuelles."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle est exacte concernant les mutations EGFR, KRAS et autres anomalies similaires ?",
+      "choices": [
+        "Ce sont des anomalies constitutionnelles transmises obligatoirement.",
+        "Ce sont des altérations des cellules tumorales.",
+        "Elles définissent exclusivement le cancer bronchopulmonaire à petites cellules.",
+        "Elles éliminent le diagnostic d’adénocarcinome."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les mutations somatiques EGFR, KRAS et autres sont des altérations des cellules tumorales, et non des anomalies constitutionnelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’addiction oncogénique dans le cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à une dépendance de certaines tumeurs à une anomalie oncogénique dominante.",
+        "La mutation activatrice d’EGFR peut en être un exemple.",
+        "Les réarrangements d’ALK et de ROS1 peuvent en être des exemples.",
+        "Ces anomalies prédisent une réponse aux inhibiteurs de tyrosine kinase."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Certaines tumeurs sont dépendantes d’une anomalie oncogénique dominante, comme EGFR, ALK ou ROS1 ; ces anomalies prédisent une réponse aux inhibiteurs de tyrosine kinase."
+    },
+    {
+      "type": "QCM",
+      "question": "Pourquoi les cancers du poumon sont-ils souvent diagnostiqués à un stade localement avancé ou métastatique ?",
+      "choices": [
+        "Le poumon et les bronches ont peu d’innervation nociceptive.",
+        "Les symptômes sont peu spécifiques.",
+        "Les signes apparaissent souvent lorsque les bronches, les vaisseaux, la paroi thoracique, la plèvre ou les organes métastatiques sont atteints.",
+        "Les symptômes initiaux sont habituellement spécifiques et permettent un diagnostic précoce."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le retard diagnostique est lié au faible caractère nociceptif du poumon et des bronches, à la non-spécificité des symptômes et à l’apparition tardive des signes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels symptômes respiratoires peuvent révéler un cancer bronchopulmonaire ?",
+      "choices": [
+        "Toux.",
+        "Dyspnée.",
+        "Hémoptysie.",
+        "Pneumopathie traînante ou récidivante."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les symptômes respiratoires cités comprennent la toux, la dyspnée, l’hémoptysie, les infections respiratoires basses récidivantes et les pneumopathies traînantes ou récidivantes."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un fumeur ou ancien fumeur âgé de 40 ans ou plus présentant un signe d’appel, quel est l’examen initial de référence ?",
+      "choices": [
+        "Radiographie thoracique seule.",
+        "Scanner thoracique.",
+        "Recherche systématique de marqueurs tumoraux sanguins.",
+        "Exploration fonctionnelle respiratoire comme examen diagnostique initial."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Devant un signe d’appel chez un fumeur ou ancien fumeur de 40 ans ou plus, l’examen initial de référence est le scanner thoracique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la radiographie thoracique dans le cancer du poumon, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut révéler une masse.",
+        "Elle peut révéler une atélectasie, une pneumopathie obstructive, un épanchement pleural ou des nodules.",
+        "Une radiographie thoracique normale n’élimine pas un cancer du poumon.",
+        "Elle suffit au bilan d’extension complet."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La radiographie thoracique peut montrer plusieurs anomalies, mais une radiographie normale n’élimine pas un cancer. Son rôle est limité pour le diagnostic et le bilan d’extension."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles sont les indications ou apports du scanner thoracique dans le cancer bronchopulmonaire ?",
+      "choices": [
+        "Aide au diagnostic.",
+        "Orientation des prélèvements avant bronchoscopie.",
+        "Bilan d’extension locorégionale et stadification TNM.",
+        "Recherche de métastases thoraciques, abdominales et cérébrales selon protocole."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le scanner thoracique est indiqué pour le diagnostic, l’orientation des prélèvements, le bilan locorégional, la stadification TNM et la recherche de métastases selon protocole."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le syndrome cave supérieur dans le cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est lié à la compression de la veine cave supérieure par la tumeur ou par des adénopathies médiastinales.",
+        "Il peut associer un œdème cervicofacial.",
+        "Il peut associer une turgescence veineuse et une circulation veineuse collatérale.",
+        "Il peut s’accompagner de dyspnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le syndrome cave supérieur résulte d’une compression de la veine cave supérieure et peut associer œdème cervicofacial, turgescence veineuse, circulation collatérale et dyspnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le syndrome de Pancoast, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à un cancer de l’apex pulmonaire envahissant la paroi thoracique, le plexus brachial et le ganglion sympathique stellaire.",
+        "Il peut se manifester par une névralgie cervicobrachiale avec douleurs radiculaires C8-D1.",
+        "Il peut s’accompagner d’un syndrome de Claude Bernard-Horner homolatéral.",
+        "Il doit conduire à la réalisation d’un scanner thoracique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le syndrome de Pancoast est lié à une tumeur apicale envahissante, responsable notamment de douleurs C8-D1 et d’un Claude Bernard-Horner homolatéral ; il impose un scanner thoracique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le mieux un syndrome paranéoplasique dans le cancer bronchopulmonaire ?",
+      "choices": [
+        "Manifestation due exclusivement à l’envahissement direct de la tumeur.",
+        "Manifestation liée à une sécrétion tumorale ou à une réaction immunitaire, survenant à distance de la tumeur.",
+        "Manifestation correspondant toujours à une métastase cérébrale.",
+        "Manifestation apparaissant uniquement après la bronchoscopie."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les syndromes paranéoplasiques sont liés à des sécrétions tumorales ou à une réaction immunitaire avec auto-anticorps ; ils surviennent à distance et ne correspondent pas à un envahissement direct."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments font partie des syndromes paranéoplasiques cités dans le cancer bronchopulmonaire ?",
+      "choices": [
+        "Sécrétion inappropriée d’hormone antidiurétique.",
+        "Hypercalcémie par sécrétion de pseudo-PTH.",
+        "Syndrome de Cushing par sécrétion de pseudo-ACTH.",
+        "Pseudomyasthénie et neuropathies périphériques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite notamment le SIADH, l’hypercalcémie par pseudo-PTH, le syndrome de Cushing par pseudo-ACTH, la pseudomyasthénie et les neuropathies périphériques."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les localisations suivantes, laquelle est citée comme site métastatique fréquent du cancer du poumon ?",
+      "choices": [
+        "Cerveau.",
+        "Veine cave supérieure.",
+        "Nerf récurrent.",
+        "Plexus brachial."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les sites métastatiques fréquents cités sont le cerveau, les os, le foie, les surrénales et la peau."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles manifestations générales peuvent faire partie de la présentation d’un cancer bronchopulmonaire ?",
+      "choices": [
+        "Altération inexpliquée de l’état général.",
+        "Amaigrissement.",
+        "Asthénie et anorexie.",
+        "Fièvre prolongée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les manifestations générales citées sont l’altération inexpliquée de l’état général, l’amaigrissement, l’asthénie, l’anorexie et la fièvre prolongée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation thromboembolique peut révéler un cancer du poumon selon le texte ?",
+      "choices": [
+        "Thrombose veineuse ou embolie pulmonaire sans facteur favorisant.",
+        "Thrombose veineuse uniquement après chirurgie thoracique.",
+        "Embolie pulmonaire uniquement chez un patient déjà métastatique connu.",
+        "Thrombose veineuse toujours expliquée par une compression directe visible."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une thrombose veineuse ou une embolie pulmonaire sans facteur favorisant peut révéler un cancer."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le cancer bronchopulmonaire à petites cellules, quelles propositions sont exactes ?",
+      "choices": [
+        "Il représente environ 15 % des cas.",
+        "Il s’agit d’une tumeur agressive, souvent volumineuse et proximale.",
+        "Il peut s’accompagner d’une extension médiastinale avec compression bronchique ou médiastinale.",
+        "Les syndromes paranéoplasiques sont fréquents et le marquage neuroendocrine est positif."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le cancer à petites cellules représente environ 15 % des cancers bronchopulmonaires ; il est agressif, souvent proximal et volumineux, avec extension médiastinale possible, syndromes paranéoplasiques fréquents et marquage neuroendocrine positif."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments le scanner thoracique peut-il préciser concernant la lésion pulmonaire ?",
+      "choices": [
+        "La topographie de la lésion.",
+        "La localisation centrale, hilaire ou périphérique.",
+        "La taille et les contours.",
+        "Le caractère spiculé ou excavé."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le scanner thoracique précise notamment la topographie, la localisation centrale, hilaire ou périphérique, la taille, les contours et certains caractères morphologiques comme l’aspect spiculé ou excavé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la stadification ganglionnaire radiologique dans le cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "N0 correspond à l’absence d’adénopathie.",
+        "N1 correspond à des ganglions hilaires homolatéraux.",
+        "N2 correspond à des ganglions médiastinaux homolatéraux ou sous-carinaires.",
+        "N3 correspond uniquement à des ganglions hilaires controlatéraux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "N0 signifie absence d’adénopathie, N1 correspond aux ganglions hilaires homolatéraux, N2 aux ganglions médiastinaux homolatéraux ou sous-carinaires. N3 correspond aux ganglions médiastinaux controlatéraux ou sus-claviculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la TEP-TDM au 18-FDG, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle utilise une imagerie fonctionnelle fondée sur du glucose marqué au fluor 18.",
+        "Elle est indiquée lorsqu’un traitement local curatif est envisagé.",
+        "Elle permet d’affirmer que toute fixation accrue correspond nécessairement à une tumeur.",
+        "Elle présente une valeur prédictive négative élevée pour le bilan d’extension."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La TEP-TDM au 18-FDG utilise du glucose marqué au fluor 18. Elle est indiquée lorsqu’un traitement local curatif est envisagé et possède une valeur prédictive négative élevée pour le bilan d’extension. Une fixation accrue peut aussi correspondre à une inflammation ou une infection."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les limites d’interprétation de la fixation en TEP-TDM au 18-FDG, quelles propositions sont exactes ?",
+      "choices": [
+        "Une tumeur peut présenter une fixation accrue.",
+        "Une infection peut présenter une fixation accrue.",
+        "Une inflammation peut présenter une fixation accrue.",
+        "Une fixation accrue élimine formellement une cause non tumorale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La fixation accrue du 18-FDG traduit un haut métabolisme et peut être observée dans une tumeur, une inflammation ou une infection. Elle n’est donc pas spécifique de malignité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’IRM thoracique dans le cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle n’est pas systématique.",
+        "Elle peut être utile pour les tumeurs de l’apex.",
+        "Elle précise les rapports avec les vaisseaux sous-claviers, le plexus brachial et les foramens intervertébraux.",
+        "Elle remplace systématiquement le scanner thoraco-abdomino-pelvien dans le bilan d’extension."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IRM thoracique n’est pas systématique. Elle est utile dans certaines tumeurs de l’apex pour préciser les rapports avec les vaisseaux sous-claviers, le plexus brachial et les foramens intervertébraux, notamment pour évaluer la résécabilité dans certains syndromes de Pancoast."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la bronchoscopie souple dans le diagnostic du cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle visualise l’arbre bronchique jusqu’au niveau sous-segmentaire.",
+        "Elle peut être réalisée sous anesthésie locale ou sédation.",
+        "Elle permet des biopsies bronchiques en cas d’anomalie endobronchique.",
+        "Elle est particulièrement utile pour les lésions périphériques sans contact bronchique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bronchoscopie souple visualise l’arbre bronchique jusqu’au niveau sous-segmentaire, peut être réalisée sous anesthésie locale ou sédation, et permet des biopsies en cas de bourgeon tumoral, infiltration ou anomalie endobronchique. Elle est surtout utile pour les lésions centrales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’écho-endoscopie bronchique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet la ponction à l’aiguille d’adénopathies médiastinales ou hilaires au contact de la trachée ou des grosses bronches.",
+        "Elle est indiquée pour documenter l’extension ganglionnaire.",
+        "Elle est un examen de première intention lorsqu’une preuve anatomopathologique de l’atteinte ganglionnaire est nécessaire.",
+        "Elle est principalement indiquée pour biopsier directement les métastases cutanées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’écho-endoscopie bronchique permet la ponction d’adénopathies médiastinales ou hilaires accessibles au contact de la trachée ou des grosses bronches. Elle sert à documenter l’extension ganglionnaire et constitue un examen de première intention si une preuve anatomopathologique ganglionnaire est nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la ponction-biopsie transpariétale à l’aiguille, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est réalisée sous anesthésie locale.",
+        "Elle est habituellement guidée par scanner.",
+        "Elle est utile pour les nodules et masses périphériques.",
+        "Sa complication possible principale citée est l’hémoptysie massive systématique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La ponction-biopsie transpariétale est réalisée sous anesthésie locale, guidée par scanner, et utile pour les nodules ou masses périphériques. Elle peut être échoguidée si la lésion est au contact de la paroi. Une complication possible est le pneumothorax, souvent minime et bien toléré."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les techniques chirurgicales diagnostiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont indiquées si les techniques moins invasives sont non contributives.",
+        "Elles peuvent être indiquées lorsqu’aucune lésion à distance n’est facilement accessible et que la suspicion de cancer est élevée.",
+        "La vidéo-thoracoscopie est indiquée en cas d’épanchement pleural exsudatif.",
+        "Elles doivent toujours être réalisées avant toute bronchoscopie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les techniques chirurgicales diagnostiques sont réservées aux situations où les méthodes moins invasives sont non contributives, sans lésion à distance facilement accessible, avec suspicion élevée de cancer. La vidéo-thoracoscopie est indiquée notamment en cas d’épanchement pleural exsudatif."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’une biopsie d’une lésion à distance est envisagée, quelles localisations métastatiques accessibles sont citées ?",
+      "choices": [
+        "Adénopathie sus-claviculaire.",
+        "Métastase cutanée.",
+        "Métastase hépatique.",
+        "Plaque pleurale calcifiée isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Si une localisation métastatique est accessible, sa biopsie peut être préférable. Les exemples cités sont l’adénopathie sus-claviculaire, la métastase cutanée, la métastase hépatique, la lésion ostéolytique et la métastase cérébrale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le choix de la technique diagnostique selon la localisation de la lésion, quelles propositions sont exactes ?",
+      "choices": [
+        "Une lésion centrale relève préférentiellement de la bronchoscopie souple.",
+        "Une lésion périphérique relève préférentiellement de la ponction transpariétale à l’aiguille.",
+        "Une lésion périphérique peut relever de la vidéo-thoracoscopie si la ponction transpariétale n’est pas possible.",
+        "Une adénopathie au contact de la trachée impose toujours une thoracotomie première."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le choix dépend de l’accessibilité : lésion centrale par bronchoscopie, lésion périphérique par ponction transpariétale puis éventuellement vidéo-thoracoscopie, adénopathies au contact de la trachée par ponction sous écho-endoscopie ou médiastinoscopie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les analyses complémentaires sur la tumeur, quelles propositions sont exactes ?",
+      "choices": [
+        "Il faut si possible obtenir du matériel histologique.",
+        "Un matériel cytologique riche en cellules tumorales peut suffire dans certains cas.",
+        "Une quantité suffisante de matériel est nécessaire pour les analyses moléculaires.",
+        "Les analyses moléculaires peuvent être réalisées sans cellules tumorales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Il est recommandé d’obtenir si possible du matériel histologique. Un matériel cytologique riche en cellules tumorales peut suffire dans certains cas. Les analyses moléculaires nécessitent une quantité suffisante de matériel tumoral."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les cancers bronchopulmonaires non à petites cellules de stade avancé, quels éléments font partie du bilan minimal recommandé ?",
+      "choices": [
+        "Expression de PD-L1.",
+        "Recherche de mutation EGFR.",
+        "Recherche de réarrangement ALK.",
+        "Dosage sérique systématique de marqueurs tumoraux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan minimal recommandé comprend l’expression de PD-L1, la recherche de mutation EGFR, la mutation KRAS, les réarrangements ALK et ROS1. Le dosage des marqueurs tumoraux sériques n’est pas recommandé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le bilan préthérapeutique du cancer bronchopulmonaire, quelles questions essentielles doivent être posées ?",
+      "choices": [
+        "S’agit-il d’un cancer à petites cellules ou non à petites cellules ?",
+        "En cas de cancer non à petites cellules, la tumeur est-elle résécable ?",
+        "Si la tumeur est résécable, le patient est-il opérable ?",
+        "Le dosage des marqueurs tumoraux sériques suffit-il à décider du traitement ?"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan préthérapeutique doit déterminer le type histologique, la résécabilité de la tumeur en cas de cancer non à petites cellules, puis l’opérabilité du patient. Les marqueurs tumoraux sériques ne sont pas recommandés pour décider du traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le bilan d’extension initial, quelles propositions sont exactes ?",
+      "choices": [
+        "Son objectif est de définir le stade TNM.",
+        "Il évalue l’extension locale de la tumeur.",
+        "Il évalue l’atteinte ganglionnaire et les métastases à distance.",
+        "Il repose exclusivement sur l’examen clinique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan d’extension vise à définir le stade TNM. Il évalue l’extension locale, l’atteinte ganglionnaire et les métastases à distance. Il repose sur l’examen clinique et les examens complémentaires adaptés."
+    },
+    {
+      "type": "QCS",
+      "question": "Sur quoi repose le diagnostic positif du cancer bronchopulmonaire ?",
+      "choices": [
+        "Une preuve cytologique ou histologique obtenue par prélèvement.",
+        "Un dosage élevé de marqueurs tumoraux sériques.",
+        "Une fixation pulmonaire isolée en TEP-TDM sans prélèvement.",
+        "Une altération du Performance Status OMS/ECOG."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le diagnostic positif repose sur une preuve cytologique ou histologique obtenue par prélèvement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’abord ganglionnaire caractéristique de la médiastinoscopie selon le texte ?",
+      "choices": [
+        "Les ganglions hilaires distaux uniquement.",
+        "Les sites ganglionnaires médiastinaux latéro-trachéaux.",
+        "Les métastases hépatiques profondes.",
+        "Les lésions cérébrales suspectes."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La médiastinoscopie permet l’abord des sites ganglionnaires médiastinaux latéro-trachéaux."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification pratique des cancers non à petites cellules, à quoi correspond le stade III ?",
+      "choices": [
+        "Stade localisé.",
+        "Stade localement avancé.",
+        "Stade disséminé.",
+        "Stade postopératoire uniquement."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Pour les cancers non à petites cellules, les stades I et II sont localisés, le stade III est localement avancé et le stade IV est disséminé."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle définition correspond au Performance Status OMS/ECOG 2 ?",
+      "choices": [
+        "Activité normale, efforts possibles sans limitation.",
+        "Réduction des efforts avec autonomie complète.",
+        "Autonome, fatigue facile, repos nécessaire moins de la moitié des heures de veille.",
+        "Dépendance totale, confiné au lit ou au fauteuil."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le Performance Status OMS/ECOG 2 correspond à un patient autonome, fatigable, nécessitant du repos moins de la moitié des heures de veille."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement le pTNM ?",
+      "choices": [
+        "Extension clinique fondée uniquement sur l’examen physique.",
+        "Extension clinique fondée sur l’examen et les examens complémentaires.",
+        "Extension anatomopathologique après chirurgie.",
+        "Classification réservée aux métastases cérébrales."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le cTNM correspond à l’extension clinique fondée sur l’examen et les examens complémentaires, tandis que le pTNM correspond à l’extension anatomopathologique après chirurgie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle attitude est recommandée concernant le dosage des marqueurs tumoraux sériques dans le cancer bronchopulmonaire ?",
+      "choices": [
+        "Il est recommandé systématiquement au diagnostic.",
+        "Il n’est pas recommandé.",
+        "Il remplace la preuve histologique en cas de lésion centrale.",
+        "Il est obligatoire avant toute TEP-TDM."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que le dosage des marqueurs tumoraux sériques n’est pas recommandé."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’un traitement local est envisagé pour un cancer bronchopulmonaire, quels éléments font partie de l’évaluation fonctionnelle ou globale recommandée ?",
+      "choices": [
+        "Une spirométrie et une mesure de la DLCO au minimum",
+        "Une épreuve d’effort cardio-respiratoire avec VO₂ max systématique, même si le bilan initial est normal",
+        "Une scintigraphie pulmonaire ventilation/perfusion pour estimer le VEMS postopératoire prévu",
+        "Une évaluation gériatrique chez les patients âgés, au minimum par score de dépistage"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte recommande au minimum spirométrie et DLCO. En cas d’anomalie, une épreuve d’effort avec VO₂ max est indiquée. La scintigraphie ventilation/perfusion aide à estimer le VEMS postopératoire prévu. Une évaluation gériatrique est indiquée chez les patients âgés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les contre-indications fonctionnelles à une chirurgie d’exérèse pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Un VEMS postopératoire prédit inférieur à 1 litre contre-indique fonctionnellement la chirurgie",
+        "Un VEMS préopératoire normal suffit toujours à autoriser la chirurgie",
+        "Un VEMS postopératoire prédit inférieur à 30 % de la valeur théorique contre-indique fonctionnellement la chirurgie",
+        "La contre-indication repose uniquement sur l’âge civil du patient"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "La contre-indication fonctionnelle mentionnée est un VEMS prédit postopératoire inférieur à 1 litre ou inférieur à 30 % de la valeur théorique. L’âge seul n’est pas présenté comme critère de contre-indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge des cancers bronchopulmonaires non à petites cellules, quels bénéfices sont attribués à l’arrêt du tabac ?",
+      "choices": [
+        "Diminution des complications périopératoires",
+        "Amélioration de l’efficacité des traitements systémiques",
+        "Réduction du risque de second cancer",
+        "Suppression de la nécessité d’un traitement oncologique spécifique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’arrêt du tabac est impératif car il diminue les complications périopératoires, améliore l’efficacité des traitements systémiques et réduit le risque de second cancer. Il ne remplace pas le traitement oncologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour les cancers bronchopulmonaires non à petites cellules localisés de stades I et II, quelles propositions sont exactes ?",
+      "choices": [
+        "Chez un patient opérable, le traitement repose sur une chirurgie d’exérèse anatomique",
+        "Une chimiothérapie adjuvante peut être proposée selon le stade anatomopathologique",
+        "Chez un patient inopérable, une radiothérapie à visée curative peut être proposée, si possible stéréotaxique",
+        "Le traitement systémique exclusif est systématiquement le traitement de référence"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Aux stades I et II, la chirurgie anatomique est indiquée si le patient est opérable. Une chimiothérapie adjuvante peut être discutée selon le stade anatomopathologique. En cas d’inopérabilité, une radiothérapie curative, idéalement stéréotaxique, est proposée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cancers bronchopulmonaires non à petites cellules de stade III, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils relèvent d’une association entre traitement local et traitement systémique",
+        "Le traitement local peut être une chirurgie ou une radiothérapie selon la résécabilité et le contexte",
+        "La chimiothérapie utilisée est souvent un doublet à base de sel de platine",
+        "La radiochimiothérapie concomitante est toujours contre-indiquée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au stade III, la stratégie associe traitement local et systémique. Le traitement local dépend de la résécabilité et du contexte. La chimiothérapie est souvent un doublet à base de platine. Si une radiothérapie est indiquée, la radiochimiothérapie concomitante est recherchée si possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Après radiochimiothérapie d’un cancer bronchopulmonaire non à petites cellules localement avancé, quelle(s) stratégie(s) peu(ven)t être envisagée(s) selon le texte ?",
+      "choices": [
+        "Une immunothérapie de consolidation peut être indiquée",
+        "Une surveillance sans aucune discussion thérapeutique est la seule option possible",
+        "La décision s’intègre dans la prise en charge des cancers localement avancés",
+        "Une chirurgie est systématiquement obligatoire après toute radiochimiothérapie"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte précise qu’après radiochimiothérapie, une immunothérapie de consolidation peut être indiquée. Il ne mentionne pas de chirurgie systématique ni de surveillance comme seule option."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les cancers bronchopulmonaires non à petites cellules métastatiques, quels paramètres guident le choix du traitement systémique ?",
+      "choices": [
+        "L’âge du patient",
+        "L’état général",
+        "L’expression de PD-L1",
+        "La seule taille de la tumeur primitive sans autre critère"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au stade IV, le traitement est systémique et son choix dépend notamment de l’âge, de l’état général, de l’expression de PD-L1 et des anomalies moléculaires ciblables."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles options thérapeutiques sont citées pour les cancers bronchopulmonaires non à petites cellules métastatiques ?",
+      "choices": [
+        "Inhibiteur de tyrosine kinase en cas d’altération moléculaire ciblable telle que EGFR, ALK ou ROS1",
+        "Immunothérapie seule si l’expression de PD-L1 est élevée",
+        "Association chimiothérapie et immunothérapie",
+        "Chirurgie anatomique systématique à visée curative"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les options citées sont les thérapies ciblées en cas d’altération moléculaire ciblable, l’immunothérapie seule si PD-L1 est élevé, l’association chimiothérapie-immunothérapie, ou une chimiothérapie conventionnelle avec platine si l’immunothérapie n’est pas indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cancers bronchopulmonaires à petites cellules, quelles caractéristiques thérapeutiques ou évolutives sont exactes ?",
+      "choices": [
+        "Ils ont une évolution très rapide sans traitement",
+        "Ils sont caractérisés par un temps de doublement cellulaire court",
+        "Ils constituent une urgence thérapeutique",
+        "La chirurgie est habituellement indiquée, y compris dans les formes disséminées"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cancers à petites cellules ont une évolution rapide, un temps de doublement court, un pronostic défavorable et imposent une urgence thérapeutique. La chirurgie est rarement indiquée, même au stade localisé."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du traitement de référence des cancers bronchopulmonaires à petites cellules, quelles propositions sont exactes ?",
+      "choices": [
+        "La chimiothérapie doit être instaurée précocement",
+        "Le traitement repose sur un doublet à base de sel de platine",
+        "Une immunothérapie est associée en cas de maladie métastatique",
+        "La chimiorésistance secondaire est inexistante après réponse initiale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement de référence repose sur une chimiothérapie précoce, souvent un doublet à base de platine. En cas de maladie métastatique, elle est associée à l’immunothérapie. Une chimiosensibilité initiale fréquente peut être suivie de rechutes rapides et de chimiorésistance secondaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la maladie limitée du cancer bronchopulmonaire à petites cellules, quelles modalités sont citées ?",
+      "choices": [
+        "Chimiothérapie",
+        "Radiothérapie thoracique précoce",
+        "Irradiation de la tumeur et du médiastin",
+        "Abstention thérapeutique initiale en raison d’une évolution lente"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En maladie limitée, le traitement associe chimiothérapie et radiothérapie thoracique précoce portant sur la tumeur et le médiastin. L’évolution est au contraire rapide sans traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les soins de support dans le cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils doivent être débutés dès l’apparition des symptômes, quel que soit le stade",
+        "La douleur est traitée par antalgiques selon des paliers croissants",
+        "Les opioïdes forts peuvent être utilisés si nécessaire",
+        "La constipation sous morphiniques ne nécessite aucune prévention"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les soins de support sont précoces dès les symptômes. La douleur est traitée par paliers antalgiques croissants, avec recours possible aux opioïdes forts. Une prévention systématique de la constipation sous morphiniques est recommandée."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour les douleurs liées à des localisations secondaires, quelles mesures sont citées dans le texte ?",
+      "choices": [
+        "Radiothérapie focale palliative antalgique pour certaines lésions osseuses, surrénaliennes ou cutanées douloureuses",
+        "Radiothérapie urgente en cas de menace de compression médullaire",
+        "Chirurgie possible avant radiothérapie si l’état général le permet, comme enclouage d’un os long ou laminectomie décompressive",
+        "Interdiction absolue de tout geste chirurgical en situation palliative"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la radiothérapie focale antalgique, la radiothérapie urgente si menace de compression médullaire et, si l’état général le permet, certains gestes chirurgicaux comme l’enclouage ou la laminectomie décompressive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prise en charge symptomatique de la dyspnée dans le cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Une obstruction trachéale ou bronchique principale peut relever d’une désobstruction endobronchique avec ou sans prothèse",
+        "Une pleurésie néoplasique abondante récidivante peut être traitée par ponctions, talcage ou drainage pleural à demeure",
+        "Un syndrome cave supérieur peut faire discuter un stent cave selon le contexte",
+        "La lymphangite carcinomateuse répond toujours très efficacement au seul traitement symptomatique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les obstructions centrales peuvent bénéficier d’une désobstruction endobronchique. Les pleurésies néoplasiques récidivantes peuvent relever de ponctions, talcage ou drainage à demeure. Le syndrome cave supérieur peut faire discuter un stent. Dans la lymphangite carcinomateuse, le traitement symptomatique est souvent peu efficace."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cancers secondaires du poumon, quelles propositions sont exactes ?",
+      "choices": [
+        "Le poumon est un site métastatique fréquent pour de nombreux cancers épithéliaux",
+        "Les sarcomes et mélanomes peuvent donner des métastases pulmonaires",
+        "Les cancers bronchopulmonaires primitifs eux-mêmes peuvent être à l’origine de localisations pulmonaires secondaires",
+        "Les métastases pulmonaires ne surviennent que dans les hémopathies"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les cancers épithéliaux, les sarcomes, les mélanomes, les cancers bronchopulmonaires primitifs et d’autres tumeurs solides comme pouvant donner des localisations secondaires pulmonaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation correspond à une contre-indication fonctionnelle à la chirurgie d’exérèse selon le texte ?",
+      "choices": [
+        "VEMS postopératoire prédit à 45 % de la valeur théorique",
+        "VEMS postopératoire prédit inférieur à 30 % de la valeur théorique",
+        "DLCO normale avec spirométrie normale",
+        "Âge avancé isolé sans anomalie fonctionnelle mentionnée"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La contre-indication fonctionnelle retenue est un VEMS postopératoire prédit inférieur à 1 litre ou inférieur à 30 % de la valeur théorique."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient ayant un cancer bronchopulmonaire non à petites cellules métastatique avec altération moléculaire ciblable EGFR, ALK ou ROS1, quelle option est citée ?",
+      "choices": [
+        "Inhibiteur de tyrosine kinase",
+        "Radiothérapie stéréotaxique exclusive obligatoire",
+        "Chirurgie d’exérèse anatomique systématique",
+        "Aucune thérapeutique systémique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En présence d’une altération moléculaire ciblable comme EGFR, ALK ou ROS1, une thérapie ciblée par inhibiteur de tyrosine kinase est une option citée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel aspect radiologique correspond au « lâcher de ballons » métastatique pulmonaire ?",
+      "choices": [
+        "Nodules lisses bilatéraux de distribution hématogène",
+        "Atélectasie lobaire isolée",
+        "Condensation alvéolaire unique excavée",
+        "Épanchement pleural transsudatif bilatéral"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le « lâcher de ballons » est décrit comme des nodules lisses bilatéraux de distribution hématogène."
+    },
+    {
+      "type": "QCS",
+      "question": "Devant des lésions pulmonaires secondaires avec cancer primitif inconnu, quelle exploration est recommandée selon le texte ?",
+      "choices": [
+        "TEP-TDM au 18-FDG",
+        "Dosage systématique isolé des marqueurs tumoraux sériques",
+        "Thoracotomie exploratrice systématique d’emblée",
+        "Surveillance sans recherche du primitif"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas de cancer primitif inconnu, la recherche du primitif repose notamment sur l’examen clinique, des explorations orientées et une TEP-TDM au 18-FDG recommandée."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient ayant un cancer primitif connu, dans quelle situation une preuve histologique de lésions pulmonaires suspectes de métastases est-elle indiquée ?",
+      "choices": [
+        "Si elle modifie la stratégie thérapeutique ou si une modification du phénotype ou du génotype tumoral est suspectée",
+        "Toujours, quelles que soient les conséquences thérapeutiques",
+        "Jamais, car l’imagerie suffit dans tous les cas",
+        "Uniquement si le patient n’a aucun symptôme respiratoire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Lorsque le primitif est connu, la biopsie n’est pas systématique. Elle est indiquée si elle modifie la stratégie thérapeutique ou si un changement phénotypique ou génotypique est suspecté."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la lymphangite carcinomateuse responsable de dyspnée, quelle affirmation est exacte ?",
+      "choices": [
+        "Le traitement repose sur le traitement du cancer, le traitement symptomatique étant souvent peu efficace",
+        "La désobstruction endobronchique avec prothèse est toujours le traitement de référence",
+        "Le talcage pleural est systématiquement curatif",
+        "Aucun traitement du cancer ne doit être discuté"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Pour la lymphangite carcinomateuse, le texte indique le traitement du cancer, avec un traitement symptomatique souvent peu efficace."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la conduite à tenir devant une atteinte pulmonaire isolée, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Une enquête diagnostique complète est nécessaire.",
+        "Un prélèvement histologique est nécessaire.",
+        "L’isolement de l’atteinte pulmonaire dispense d’une confirmation histologique.",
+        "Le texte recommande de traiter sans étape diagnostique complémentaire."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que si l’atteinte pulmonaire est isolée, une enquête diagnostique complète avec prélèvement histologique est nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du traitement local radical des métastases pulmonaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être envisagé dans certains cas.",
+        "La chirurgie fait partie des modalités possibles.",
+        "La radiothérapie stéréotaxique fait partie des modalités possibles.",
+        "Il est obligatoire dans toute atteinte pulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement local radical des métastases pulmonaires peut être envisagé dans certains cas, notamment par chirurgie ou radiothérapie stéréotaxique. Le texte ne le rend pas systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles modalités sont explicitement citées comme pouvant constituer un traitement local radical des métastases pulmonaires ?",
+      "choices": [
+        "Chirurgie.",
+        "Radiothérapie stéréotaxique.",
+        "Radiofréquence.",
+        "Simple surveillance sans traitement local."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois modalités citées sont la chirurgie, la radiothérapie stéréotaxique et la radiofréquence."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le caractère sélectif du traitement local radical des métastases pulmonaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Le texte utilise une formulation indiquant qu’il n’est pas systématique.",
+        "Il peut être discuté uniquement dans certains cas.",
+        "Il est présenté comme une possibilité thérapeutique.",
+        "Il est présenté comme une obligation pour toute métastase pulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La formulation « peut être envisagé dans certains cas » indique une option sélective, non obligatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments relèvent de la démarche diagnostique lorsque l’atteinte pulmonaire est isolée ?",
+      "choices": [
+        "Réaliser une enquête diagnostique complète.",
+        "Obtenir un prélèvement histologique.",
+        "Considérer que le diagnostic est acquis sans prélèvement.",
+        "Remplacer l’enquête diagnostique par un traitement local d’emblée."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Devant une atteinte pulmonaire isolée, le texte impose une enquête diagnostique complète avec prélèvement histologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels pièges d’interprétation doivent être évités à partir du texte ?",
+      "choices": [
+        "Affirmer qu’une atteinte pulmonaire isolée ne nécessite jamais de prélèvement histologique.",
+        "Considérer que le traitement local radical est systématique.",
+        "Limiter les options locales radicales à la chirurgie seule.",
+        "Retenir que la radiofréquence peut être une option locale radicale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte exige un prélèvement histologique en cas d’atteinte pulmonaire isolée, précise que le traitement local radical n’est envisagé que dans certains cas, et cite plusieurs options dont la radiofréquence."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la place du prélèvement histologique dans l’atteinte pulmonaire isolée, quelles propositions sont exactes ?",
+      "choices": [
+        "Il fait partie de l’enquête diagnostique complète.",
+        "Il est qualifié de nécessaire par le texte.",
+        "Il est remplacé par la radiothérapie stéréotaxique.",
+        "Il est présenté comme facultatif lorsque l’atteinte est isolée."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le prélèvement histologique est explicitement nécessaire dans le cadre d’une enquête diagnostique complète si l’atteinte pulmonaire est isolée."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la radiothérapie stéréotaxique dans ce contexte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est citée comme modalité de traitement local radical.",
+        "Elle concerne les métastases pulmonaires dans le texte.",
+        "Elle est présentée comme une option possible dans certains cas.",
+        "Elle remplace nécessairement le prélèvement histologique dans l’atteinte pulmonaire isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La radiothérapie stéréotaxique est citée parmi les options de traitement local radical des métastases pulmonaires, envisageable dans certains cas."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la radiofréquence appliquée aux métastases pulmonaires, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle est citée parmi les traitements locaux radicaux possibles.",
+        "Elle peut être envisagée dans certains cas.",
+        "Elle fait partie des alternatives locales mentionnées avec la chirurgie et la radiothérapie stéréotaxique.",
+        "Elle constitue l’unique option locale radicale mentionnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La radiofréquence est l’une des modalités citées, avec la chirurgie et la radiothérapie stéréotaxique ; elle n’est pas l’unique option."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels énoncés traduisent correctement la distinction entre diagnostic et traitement dans l’extrait ?",
+      "choices": [
+        "L’atteinte pulmonaire isolée impose une démarche diagnostique complète avec histologie.",
+        "Le traitement local radical est une possibilité thérapeutique dans certains cas.",
+        "La chirurgie est citée comme modalité thérapeutique locale radicale.",
+        "Le prélèvement histologique est cité comme une modalité de traitement local radical."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le prélèvement histologique relève de la démarche diagnostique, tandis que chirurgie, radiothérapie stéréotaxique et radiofréquence relèvent du traitement local radical."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions respectent strictement la formulation du texte concernant les métastases pulmonaires ?",
+      "choices": [
+        "Un traitement local radical peut être envisagé.",
+        "Ce traitement local radical peut inclure la chirurgie.",
+        "Ce traitement local radical peut inclure la radiothérapie stéréotaxique.",
+        "Ce traitement local radical doit être réalisé chez tous les patients."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte parle d’une possibilité dans certains cas, et non d’une indication universelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une atteinte pulmonaire isolée, quelles conclusions sont justifiées par le texte ?",
+      "choices": [
+        "La confirmation histologique s’intègre à l’évaluation diagnostique.",
+        "Une enquête diagnostique complète est requise.",
+        "L’atteinte isolée autorise à ignorer la preuve histologique.",
+        "Le traitement local radical est automatiquement indiqué avant toute démarche diagnostique."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’extrait insiste sur la nécessité d’une enquête diagnostique complète avec prélèvement histologique en cas d’atteinte pulmonaire isolée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles affirmations sont exactes concernant la chirurgie dans l’extrait ?",
+      "choices": [
+        "Elle est citée comme modalité possible de traitement local radical.",
+        "Elle concerne le traitement des métastases pulmonaires dans certains cas.",
+        "Elle est présentée comme la seule modalité thérapeutique locale radicale.",
+        "Elle dispense de l’enquête diagnostique complète en cas d’atteinte pulmonaire isolée."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La chirurgie est une modalité possible parmi d’autres ; elle ne remplace pas la démarche diagnostique requise en cas d’atteinte pulmonaire isolée."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles correspondent à des formulations prudentes conformes au texte ?",
+      "choices": [
+        "Le traitement local radical des métastases pulmonaires est envisageable mais non systématique.",
+        "Le diagnostic d’une atteinte pulmonaire isolée nécessite une démarche complète.",
+        "Le prélèvement histologique est nécessaire en cas d’atteinte pulmonaire isolée.",
+        "Toute métastase pulmonaire doit être traitée exclusivement par radiofréquence."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte emploie des formulations sélectives : enquête complète avec histologie si atteinte isolée, et traitement local radical seulement dans certains cas."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition résume le mieux la conduite diagnostique en cas d’atteinte pulmonaire isolée ?",
+      "choices": [
+        "Surveillance simple sans prélèvement.",
+        "Enquête diagnostique complète avec prélèvement histologique.",
+        "Traitement local radical systématique sans confirmation.",
+        "Radiothérapie stéréotaxique obligatoire d’emblée."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique clairement qu’une atteinte pulmonaire isolée nécessite une enquête diagnostique complète avec prélèvement histologique."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les modalités suivantes, laquelle est explicitement citée comme traitement local radical possible des métastases pulmonaires ?",
+      "choices": [
+        "Radiothérapie stéréotaxique.",
+        "Simple abstention diagnostique.",
+        "Prélèvement histologique.",
+        "Enquête diagnostique complète."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La radiothérapie stéréotaxique est citée comme modalité de traitement local radical ; le prélèvement histologique et l’enquête complète relèvent du diagnostic."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle interprétation de l’expression « peut être envisagé dans certains cas » est la plus correcte ?",
+      "choices": [
+        "Le traitement est systématique.",
+        "Le traitement est interdit.",
+        "Le traitement est possible de manière sélective.",
+        "Le traitement remplace toujours le diagnostic histologique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Cette formulation indique une option à discuter dans des situations sélectionnées, non une obligation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est nécessaire dans l’enquête diagnostique d’une atteinte pulmonaire isolée ?",
+      "choices": [
+        "Prélèvement histologique.",
+        "Radiofréquence obligatoire.",
+        "Chirurgie systématique.",
+        "Radiothérapie stéréotaxique systématique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le prélèvement histologique est explicitement mentionné comme nécessaire dans ce contexte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition est exacte concernant la radiofréquence ?",
+      "choices": [
+        "Elle est une modalité diagnostique obligatoire.",
+        "Elle est citée comme option de traitement local radical des métastases pulmonaires.",
+        "Elle remplace l’enquête diagnostique complète.",
+        "Elle est la seule option thérapeutique mentionnée."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La radiofréquence est citée parmi les options de traitement local radical, avec la chirurgie et la radiothérapie stéréotaxique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition est fausse selon le texte ?",
+      "choices": [
+        "La chirurgie peut être une modalité de traitement local radical.",
+        "La radiothérapie stéréotaxique peut être une modalité de traitement local radical.",
+        "La radiofréquence peut être une modalité de traitement local radical.",
+        "Le traitement local radical est systématique pour toutes les métastases pulmonaires."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte précise que le traitement local radical peut être envisagé dans certains cas, ce qui exclut son caractère systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les correspondances histologiques et immunohistochimiques dans les cancers bronchopulmonaires primitifs, quelles propositions sont exactes ?",
+      "choices": [
+        "L’adénocarcinome présente une architecture glandulaire et est souvent TTF1 positif.",
+        "Le carcinome épidermoïde est souvent p40 positif.",
+        "Le cancer bronchopulmonaire à petites cellules présente un marquage neuroendocrine positif.",
+        "Le carcinome épidermoïde est typiquement défini par une positivité TTF1."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’adénocarcinome est souvent TTF1 positif avec architecture glandulaire. Le carcinome épidermoïde est p40 positif. Le cancer à petites cellules exprime des marqueurs neuroendocrines."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la carcinogenèse pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle évolue en plusieurs étapes par accumulation d’altérations génétiques.",
+        "Elle peut comporter une activation d’oncogènes.",
+        "Elle peut comporter une inactivation de gènes suppresseurs de tumeurs.",
+        "Chez les fumeurs, les tumeurs présentent habituellement peu de mutations."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La carcinogenèse pulmonaire repose sur l’accumulation d’altérations génétiques, avec activation d’oncogènes et inactivation de gènes suppresseurs. Chez les fumeurs, les tumeurs présentent souvent de nombreuses mutations."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’addiction oncogénique et ses implications, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à une dépendance tumorale à une anomalie oncogénique dominante.",
+        "Elle peut être liée à une mutation activatrice d’EGFR.",
+        "Elle peut être liée à un réarrangement d’ALK ou de ROS1.",
+        "Elle ne permet pas de prédire une réponse aux inhibiteurs de tyrosine kinase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’addiction oncogénique correspond à la dépendance à une anomalie dominante comme EGFR, ALK ou ROS1. Ces anomalies prédisent une réponse aux inhibiteurs de tyrosine kinase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le tabagisme passif dans le cancer du poumon, quelles propositions sont exactes ?",
+      "choices": [
+        "Il augmente le risque de cancer du poumon.",
+        "L’exposition dans l’enfance constitue une situation particulièrement à risque.",
+        "Il est responsable d’une partie importante des cancers pulmonaires chez les non-fumeurs.",
+        "Il n’est considéré à risque que chez les fumeurs actifs associés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le tabagisme passif augmente le risque, surtout en cas d’exposition dans l’enfance, et explique une part importante des cancers pulmonaires chez les non-fumeurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les carcinogènes environnementaux cités, quelles propositions sont exactes ?",
+      "choices": [
+        "Le radon domestique est un gaz radioactif naturel.",
+        "Le radon est incolore et inodore.",
+        "Le radon est présent dans le sol et la pierre.",
+        "La pollution atmosphérique n’est pas citée parmi les facteurs environnementaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le radon domestique est un gaz radioactif naturel, incolore et inodore, présent dans le sol et la pierre. La pollution atmosphérique, notamment les particules fines et le diesel, est également citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les expositions professionnelles associées au cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’amiante fait partie des expositions professionnelles citées.",
+        "La silice cristalline fait partie des expositions professionnelles citées.",
+        "Les hydrocarbures aromatiques polycycliques et les fumées diesel sont cités.",
+        "L’enquête professionnelle est facultative si le patient est fumeur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les expositions professionnelles citées comprennent l’amiante, la silice cristalline, les hydrocarbures aromatiques polycycliques et les fumées diesel. Une enquête professionnelle doit être systématique devant tout diagnostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs de risque individuels et les pièges d’interprétation, quelles propositions sont exactes ?",
+      "choices": [
+        "La BPCO est citée comme facteur de risque individuel.",
+        "Les pathologies pulmonaires fibrosantes sont citées comme facteurs de risque.",
+        "Un antécédent personnel de cancer du poumon augmente le risque, surtout en cas de poursuite du tabagisme.",
+        "Les mutations somatiques EGFR et KRAS sont des anomalies constitutionnelles héréditaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La BPCO, les pathologies fibrosantes et l’antécédent personnel de cancer pulmonaire sont cités. Les mutations EGFR, KRAS et autres sont des altérations somatiques des cellules tumorales, non constitutionnelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les raisons de la présentation souvent tardive des cancers du poumon, quelles propositions sont exactes ?",
+      "choices": [
+        "Le poumon et les bronches ont peu d’innervation nociceptive.",
+        "Les symptômes sont peu spécifiques.",
+        "Les signes apparaissent souvent lorsque les bronches, vaisseaux, plèvre, paroi thoracique ou organes métastatiques sont atteints.",
+        "Les symptômes initiaux sont habituellement très spécifiques du cancer bronchopulmonaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic est souvent tardif car l’innervation nociceptive est faible, les symptômes sont peu spécifiques et les signes apparaissent souvent lors de l’atteinte de structures locorégionales ou métastatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les signes d’extension locorégionale du cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Une douleur thoracique peut traduire une extension locorégionale.",
+        "Une dysphonie peut être liée à l’atteinte du nerf récurrent.",
+        "Un syndrome cave supérieur peut être un signe d’extension locorégionale.",
+        "Une dysphonie traduit nécessairement une atteinte cérébrale métastatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les signes locorégionaux incluent douleur thoracique, dysphonie par atteinte du nerf récurrent, syndrome cave supérieur et syndrome de Pancoast."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le syndrome cave supérieur lié au cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être dû à une compression de la veine cave supérieure par la tumeur.",
+        "Il peut être dû à une compression par des adénopathies médiastinales.",
+        "Il peut associer œdème cervicofacial et turgescence veineuse.",
+        "Il exclut la présence d’une dyspnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome cave supérieur est lié à une compression de la veine cave supérieure par la tumeur ou des adénopathies médiastinales. Il peut associer œdème cervicofacial, turgescence veineuse, circulation collatérale et dyspnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le syndrome de Pancoast, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à un cancer de l’apex pulmonaire.",
+        "Il peut envahir la paroi thoracique et le plexus brachial.",
+        "Il peut s’accompagner d’un syndrome de Claude Bernard-Horner homolatéral.",
+        "Il correspond typiquement à une atteinte isolée des bases pulmonaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de Pancoast est lié à un cancer apical envahissant paroi thoracique, plexus brachial et ganglion sympathique stellaire, avec douleurs C8-D1 et syndrome de Claude Bernard-Horner homolatéral."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes des syndromes paranéoplasiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être liés à une sécrétion tumorale de substances hormonales.",
+        "Ils peuvent être liés à une sécrétion de neuromédiateurs.",
+        "Ils peuvent être liés à une réaction immunitaire avec auto-anticorps.",
+        "Ils correspondent par définition à un envahissement tumoral direct."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les syndromes paranéoplasiques sont liés à des sécrétions tumorales ou à une réaction immunitaire. Ils surviennent à distance de la tumeur et ne correspondent pas à un envahissement direct."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les syndromes paranéoplasiques endocrino-métaboliques cités, quelles propositions sont exactes ?",
+      "choices": [
+        "Une sécrétion inappropriée d’hormone antidiurétique peut être observée.",
+        "Une hypercalcémie par sécrétion de pseudo-PTH peut être observée.",
+        "Un syndrome de Cushing par sécrétion de pseudo-ACTH peut être observé.",
+        "Une hypercalcémie par envahissement osseux direct définit le syndrome paranéoplasique cité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les exemples cités incluent SIADH, hypercalcémie par pseudo-PTH et syndrome de Cushing par pseudo-ACTH. Le syndrome paranéoplasique ne correspond pas à un envahissement tumoral direct."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’imagerie thoracique initiale et ses limites, quelles propositions sont exactes ?",
+      "choices": [
+        "La radiographie thoracique peut révéler une masse ou une atélectasie.",
+        "Une radiographie thoracique normale n’élimine pas un cancer du poumon.",
+        "Le scanner thoracique peut orienter les prélèvements avant bronchoscopie.",
+        "La radiographie thoracique suffit au bilan d’extension complet."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La radiographie peut montrer masse, atélectasie, pneumopathie obstructive, épanchement ou nodules, mais une radiographie normale n’élimine pas le diagnostic. Son rôle est limité pour le diagnostic et le bilan d’extension ; le scanner est central."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple histologie-marqueur est correctement associé ?",
+      "choices": [
+        "Adénocarcinome — p40 positif habituel",
+        "Carcinome épidermoïde — p40 positif",
+        "Cancer à petites cellules — TTF1 négatif obligatoire",
+        "Carcinome épidermoïde — architecture glandulaire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le carcinome épidermoïde est souvent p40 positif. L’adénocarcinome est plutôt associé à une architecture glandulaire et souvent TTF1 positif."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement le radon domestique selon le texte ?",
+      "choices": [
+        "Gaz radioactif naturel, incolore et inodore",
+        "Particule fine exclusivement issue du diesel",
+        "Carcinogène professionnel uniquement rencontré dans l’amiante",
+        "Marqueur immunohistochimique des adénocarcinomes"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le radon domestique est décrit comme un gaz radioactif naturel, incolore et inodore, présent dans le sol et la pierre."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le cancer bronchopulmonaire, la dysphonie d’extension locorégionale est expliquée par quelle atteinte ?",
+      "choices": [
+        "Atteinte du nerf récurrent",
+        "Compression isolée de la surrénale",
+        "Sécrétion de pseudo-PTH",
+        "Mutation activatrice d’EGFR"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La dysphonie est citée comme signe d’extension locorégionale par atteinte du nerf récurrent."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la signification de la réapparition d’un syndrome paranéoplasique après traitement complet ?",
+      "choices": [
+        "Elle élimine une rechute tumorale.",
+        "Elle peut faire craindre une rechute.",
+        "Elle prouve une guérison complète.",
+        "Elle correspond obligatoirement à un effet indésirable du scanner."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que la réapparition d’un syndrome paranéoplasique après traitement complet peut faire craindre une rechute."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition est exacte concernant le risque après arrêt du tabac ?",
+      "choices": [
+        "Il devient immédiatement identique à celui d’un non-fumeur.",
+        "Il diminue mais ne revient jamais au niveau de celui d’un non-fumeur.",
+        "Il augmente toujours après sevrage.",
+        "Il ne dépend jamais de la durée d’exposition antérieure."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Après l’arrêt du tabac, le risque diminue, mais ne revient jamais au niveau de celui d’un non-fumeur. L’arrêt reste toujours bénéfique."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel le scanner thoracique peut-il préciser concernant la lésion pulmonaire ?",
+      "choices": [
+        "Le caractère spiculé ou excavé",
+        "Le taux sérique obligatoire d’un marqueur tumoral",
+        "Le caractère constitutionnel d’une mutation EGFR",
+        "La certitude d’un syndrome paranéoplasique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le scanner thoracique précise notamment la topographie, la localisation centrale, hilaire ou périphérique, la taille, les contours, ainsi que le caractère spiculé ou excavé."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’évaluation morphologique d’une lésion pulmonaire suspecte, quels éléments doivent être recherchés dans ses rapports et son retentissement thoracique ?",
+      "choices": [
+        "Ses rapports avec la plèvre, la paroi thoracique, le médiastin et les vaisseaux",
+        "L’existence d’une atélectasie ou d’une obstruction bronchique associée",
+        "La présence d’un envahissement ganglionnaire",
+        "Le taux sérique des marqueurs tumoraux comme critère morphologique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’imagerie précise les rapports locaux, l’atélectasie ou l’obstruction bronchique, l’envahissement ganglionnaire et les métastases. Le dosage sérique des marqueurs tumoraux n’est pas un critère morphologique et n’est pas recommandé."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la stadification ganglionnaire radiologique, quelles localisations correspondent à un stade N3 ?",
+      "choices": [
+        "Ganglions médiastinaux controlatéraux",
+        "Ganglions sus-claviculaires",
+        "Ganglions hilaires homolatéraux",
+        "Ganglions médiastinaux homolatéraux"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le N3 correspond aux ganglions médiastinaux controlatéraux ou sus-claviculaires. Les ganglions hilaires homolatéraux sont N1 et les médiastinaux homolatéraux sont N2."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’interprétation d’une fixation accrue en TEP-TDM au 18-FDG, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut correspondre à une tumeur",
+        "Elle peut correspondre à une inflammation",
+        "Elle peut correspondre à une infection",
+        "Elle affirme toujours une atteinte cancéreuse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le 18-FDG se fixe dans les tissus à haut métabolisme, notamment tumoraux, inflammatoires ou infectieux. Une fixation accrue n’est donc pas strictement spécifique du cancer."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations la TEP-TDM au 18-FDG présente-t-elle un intérêt selon le texte ?",
+      "choices": [
+        "Caractérisation d’un nodule pulmonaire de nature incertaine",
+        "Staging médiastinal d’un cancer potentiellement opérable",
+        "Bilan d’extension à distance avant chirurgie ou radiothérapie curative",
+        "Remplacement systématique de toute preuve histologique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La TEP-TDM aide à caractériser un nodule incertain, au staging médiastinal et au bilan d’extension avant traitement curatif. Elle ne remplace pas la preuve cytologique ou histologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour une tumeur de l’apex pulmonaire, quels apports potentiels de l’IRM thoracique sont cités ?",
+      "choices": [
+        "Préciser les rapports avec les vaisseaux sous-claviers",
+        "Préciser les rapports avec le plexus brachial",
+        "Préciser les rapports avec les foramens intervertébraux",
+        "Être systématique dans tout cancer bronchopulmonaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IRM thoracique n’est pas systématique, mais elle peut être utile pour les tumeurs apicales afin d’évaluer les rapports avec les vaisseaux sous-claviers, le plexus brachial et les foramens intervertébraux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la preuve diagnostique et le matériel tumoral, quelles propositions sont exactes ?",
+      "choices": [
+        "Le diagnostic positif repose sur une preuve cytologique ou histologique",
+        "Il faut si possible obtenir du matériel histologique",
+        "Un matériel cytologique riche en cellules tumorales peut suffire dans certains cas",
+        "Le dosage des marqueurs tumoraux sériques suffit à établir le diagnostic"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic repose sur un prélèvement cytologique ou histologique. Un matériel histologique est souhaitable, mais une cytologie riche peut suffire dans certains cas. Les marqueurs sériques ne sont pas recommandés."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la bronchoscopie souple dans ce contexte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle visualise l’arbre bronchique jusqu’au niveau sous-segmentaire",
+        "Elle peut être réalisée sous anesthésie locale ou sédation",
+        "Elle permet des biopsies en cas de bourgeon tumoral ou d’anomalie endobronchique",
+        "Elle est indiquée en première intention pour toutes les masses périphériques inaccessibles"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bronchoscopie souple explore l’arbre bronchique jusqu’au sous-segmentaire, sous anesthésie locale ou sédation, et permet des biopsies endobronchiques. Elle est surtout utile pour les lésions centrales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’écho-endoscopie bronchique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet la ponction à l’aiguille d’adénopathies médiastinales ou hilaires accessibles",
+        "Elle concerne les adénopathies au contact de la trachée ou des grosses bronches",
+        "Elle est indiquée pour documenter l’extension ganglionnaire",
+        "Elle est l’examen de choix des lésions périphériques sans contact avec les grosses bronches"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’écho-endoscopie bronchique permet la ponction des adénopathies médiastinales ou hilaires au contact de la trachée ou des grosses bronches, notamment pour documenter l’extension ganglionnaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la ponction-biopsie transpariétale à l’aiguille, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est réalisée sous anesthésie locale",
+        "Elle est le plus souvent guidée par scanner",
+        "Elle peut être échoguidée si la lésion est au contact de la paroi",
+        "Elle peut se compliquer d’un pneumothorax souvent minime et bien toléré"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La ponction-biopsie transpariétale est réalisée sous anesthésie locale, guidée par scanner, parfois échoguidée si la lésion est pariétale, avec un risque de pneumothorax souvent minime et bien toléré."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les techniques chirurgicales diagnostiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont indiquées si les techniques moins invasives sont non contributives",
+        "Elles peuvent être envisagées si aucune lésion à distance n’est facilement accessible",
+        "La vidéo-thoracoscopie est indiquée en cas d’épanchement pleural exsudatif",
+        "La vidéo-thoracoscopie peut biopsier une lésion périphérique non accessible à la ponction transthoracique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les techniques chirurgicales sont réservées aux situations où les approches moins invasives ne permettent pas le diagnostic, notamment en l’absence de cible métastatique accessible. La vidéo-thoracoscopie a plusieurs indications diagnostiques citées."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’une biopsie d’une lésion à distance est préférable, quelles cibles métastatiques accessibles sont citées ?",
+      "choices": [
+        "Adénopathie sus-claviculaire",
+        "Métastase cutanée",
+        "Métastase hépatique",
+        "Lésion ostéolytique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme localisations accessibles : adénopathie sus-claviculaire, métastase cutanée, métastase hépatique, lésion ostéolytique et métastase cérébrale."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour un cancer bronchopulmonaire non à petites cellules de stade avancé, quels éléments appartiennent au bilan minimal recommandé sur la tumeur ?",
+      "choices": [
+        "Expression de PD-L1",
+        "Recherche de mutation EGFR",
+        "Recherche de mutation KRAS",
+        "Recherche d’un réarrangement ALK ou ROS1"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le bilan minimal recommandé comprend l’expression de PD-L1, les mutations EGFR et KRAS, ainsi que les réarrangements ALK et ROS1."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le bilan d’extension initial, quels objectifs doivent être évalués pour définir le stade TNM ?",
+      "choices": [
+        "L’extension locale de la tumeur",
+        "L’atteinte ganglionnaire",
+        "Les métastases à distance",
+        "Le statut nutritionnel comme composante du TNM"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan d’extension vise à définir le TNM en évaluant l’extension locale, l’atteinte ganglionnaire et les métastases à distance. L’état nutritionnel est important mais ne constitue pas une composante du TNM."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évaluation globale préthérapeutique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’état général conditionne la décision thérapeutique",
+        "Le Performance Status OMS/ECOG est un facteur pronostique majeur",
+        "L’état nutritionnel doit être évalué systématiquement",
+        "Le dosage des marqueurs tumoraux sériques est recommandé pour guider la décision"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’état général et le Performance Status influencent la décision thérapeutique et le pronostic. L’état nutritionnel doit être évalué systématiquement. Les marqueurs tumoraux sériques ne sont pas recommandés."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement le cTNM ?",
+      "choices": [
+        "Extension anatomopathologique après chirurgie",
+        "Extension clinique fondée sur l’examen et les examens complémentaires",
+        "Classification limitée à l’atteinte ganglionnaire",
+        "Classification réservée aux cancers à petites cellules"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le cTNM correspond à l’extension clinique, fondée sur l’examen clinique et les examens complémentaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle définition correspond au Performance Status OMS/ECOG 3 ?",
+      "choices": [
+        "Activité normale, efforts possibles sans limitation",
+        "Autonome, fatigue facile, repos nécessaire moins de la moitié des heures de veille",
+        "Dépendance partielle, lever possible, repos nécessaire plus de la moitié des heures de veille",
+        "Dépendance totale, confiné au lit ou au fauteuil"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le PS 3 correspond à une dépendance partielle avec lever possible, mais repos nécessaire plus de la moitié des heures de veille."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les stades pratiques des cancers bronchopulmonaires non à petites cellules, à quoi correspond le stade IV ?",
+      "choices": [
+        "Stade localisé",
+        "Stade localement avancé",
+        "Stade disséminé",
+        "Stade potentiellement sous-carinaire"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans la classification pratique citée, le stade IV correspond au stade disséminé."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification TNM, que désigne la lettre M ?",
+      "choices": [
+        "L’extension locale de la tumeur",
+        "L’extension ganglionnaire médiastinale uniquement",
+        "Les métastases à distance",
+        "La masse tumorale mesurée en millimètres"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans le TNM, T désigne l’extension locale, N l’extension ganglionnaire et M les métastases à distance."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le choix de la technique diagnostique, quelle est l’approche de référence proposée pour une lésion centrale ?",
+      "choices": [
+        "Bronchoscopie souple",
+        "Ponction transpariétale systématique",
+        "Vidéo-thoracoscopie d’emblée",
+        "Biopsie cérébrale systématique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Pour une lésion centrale, le texte indique la bronchoscopie souple comme technique diagnostique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition est exacte concernant une lésion pulmonaire intermédiaire ?",
+      "choices": [
+        "Elle impose toujours une médiastinoscopie",
+        "Elle relève exclusivement de la bronchoscopie souple",
+        "Le choix entre bronchoscopie, ponction transpariétale ou vidéo-thoracoscopie dépend de l’accessibilité",
+        "Elle ne doit pas faire l’objet d’un prélèvement histologique"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Pour une lésion intermédiaire, le texte propose bronchoscopie, ponction transpariétale ou vidéo-thoracoscopie selon l’accessibilité."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’un traitement local est envisagé dans un cancer bronchopulmonaire, quelles propositions décrivent correctement l’évaluation fonctionnelle respiratoire ?",
+      "choices": [
+        "La spirométrie fait partie du bilan minimal.",
+        "La mesure de la DLCO fait partie du bilan minimal.",
+        "En cas d’anomalie, une épreuve d’effort cardio-respiratoire avec VO₂ max est indiquée.",
+        "La scintigraphie ventilation/perfusion remplace systématiquement la spirométrie initiale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise qu’au minimum une spirométrie et une DLCO sont nécessaires, puis une épreuve d’effort avec VO₂ max en cas d’anomalie. La scintigraphie ventilation/perfusion sert à estimer le VEMS postopératoire prévu, sans remplacer le bilan initial."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évaluation préthérapeutique chez un patient âgé ou candidat potentiel à une chirurgie d’exérèse pulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Une évaluation gériatrique est indiquée chez les patients âgés.",
+        "Le minimum requis pour l’évaluation gériatrique est un score de dépistage gériatrique.",
+        "Un VEMS postopératoire prévu inférieur à 1 litre autorise toujours la chirurgie sans réserve.",
+        "Un VEMS postopératoire prévu inférieur à 30 % de la valeur théorique constitue une contre-indication fonctionnelle à la chirurgie d’exérèse."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Chez les patients âgés, une évaluation gériatrique au minimum par score de dépistage est indiquée. La chirurgie d’exérèse est contre-indiquée fonctionnellement si le VEMS postopératoire prévu est inférieur à 1 L ou inférieur à 30 % de la valeur théorique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les cancers bronchopulmonaires non à petites cellules localisés de stades I et II, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Chez un patient opérable, le traitement repose sur une chirurgie d’exérèse anatomique.",
+        "Une chimiothérapie adjuvante peut être proposée selon le stade anatomopathologique.",
+        "Une chimiothérapie néoadjuvante est systématique avant toute chirurgie.",
+        "Chez un patient inopérable, une radiothérapie à visée curative peut être proposée, si possible stéréotaxique."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Pour les stades I et II, la chirurgie anatomique est indiquée si le patient est opérable. Une chimiothérapie adjuvante peut être discutée selon le stade anatomopathologique. Si le patient est inopérable, une radiothérapie curative, idéalement stéréotaxique, est envisagée."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour un cancer bronchopulmonaire non à petites cellules de stade III, quelles affirmations sont exactes ?",
+      "choices": [
+        "La stratégie associe un traitement local et un traitement systémique.",
+        "Le traitement systémique est exclu dès lors qu’une chirurgie est possible.",
+        "Le traitement local peut être une chirurgie ou une radiothérapie selon la résécabilité et le contexte.",
+        "La chimiothérapie repose souvent sur un doublet à base de sel de platine."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le stade III relève d’une stratégie combinant traitement local et traitement systémique. Le traitement local dépend de la résécabilité et du contexte, et la chimiothérapie est souvent un doublet à base de sel de platine."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’une radiothérapie est indiquée dans un cancer bronchopulmonaire non à petites cellules localement avancé, quelles propositions sont exactes ?",
+      "choices": [
+        "Une radiochimiothérapie concomitante est privilégiée si elle est possible.",
+        "Après radiochimiothérapie, une immunothérapie de consolidation peut être indiquée.",
+        "La radiothérapie exclut toute possibilité de traitement systémique associé.",
+        "La décision thérapeutique dépend du contexte clinique et de la résécabilité."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte indique que si la radiothérapie est indiquée, une radiochimiothérapie concomitante est proposée si possible. Après radiochimiothérapie, une immunothérapie de consolidation peut être indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les cancers bronchopulmonaires non à petites cellules métastatiques, quels paramètres interviennent dans le choix du traitement systémique ?",
+      "choices": [
+        "L’âge du patient.",
+        "L’état général.",
+        "L’expression de PD-L1.",
+        "La présence d’anomalies moléculaires ciblables."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le choix du traitement systémique au stade IV dépend de l’âge, de l’état général, de l’expression de PD-L1 et des anomalies moléculaires ciblables."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les options thérapeutiques systémiques des cancers bronchopulmonaires non à petites cellules métastatiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Une thérapie ciblée par inhibiteur de tyrosine kinase est possible en cas d’altération EGFR, ALK ou ROS1.",
+        "Une immunothérapie seule peut être proposée si l’expression de PD-L1 est élevée.",
+        "Une association chimiothérapie et immunothérapie fait partie des options citées.",
+        "Une chimiothérapie conventionnelle avec sel de platine peut être utilisée si l’immunothérapie n’est pas indiquée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les inhibiteurs de tyrosine kinase en cas d’altération moléculaire ciblable, l’immunothérapie seule si PD-L1 est élevé, l’association chimiothérapie-immunothérapie, et la chimiothérapie conventionnelle avec sel de platine si l’immunothérapie n’est pas indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cancers bronchopulmonaires à petites cellules, quelles caractéristiques évolutives ou thérapeutiques sont exactes ?",
+      "choices": [
+        "L’évolution est très rapide sans traitement.",
+        "Le temps de doublement cellulaire est court.",
+        "Le pronostic est défavorable.",
+        "Il existe une urgence thérapeutique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit les cancers à petites cellules comme ayant une évolution très rapide sans traitement, un temps de doublement court, un pronostic défavorable et nécessitant une prise en charge urgente."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du traitement des cancers bronchopulmonaires à petites cellules, quelles propositions sont exactes ?",
+      "choices": [
+        "La chimiothérapie doit être instaurée précocement.",
+        "Le traitement de référence comporte un doublet à base de sel de platine.",
+        "En cas de maladie métastatique, une association à l’immunothérapie est citée.",
+        "Une forte chimiosensibilité initiale peut être suivie de rechutes rapides et d’une chimiorésistance secondaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le traitement de référence repose sur une chimiothérapie précoce par doublet à base de platine, associée à l’immunothérapie en maladie métastatique. Une chimiosensibilité initiale fréquente n’empêche pas les rechutes rapides ni la chimiorésistance secondaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la maladie limitée du cancer bronchopulmonaire à petites cellules, quelles modalités sont citées ?",
+      "choices": [
+        "Une chimiothérapie.",
+        "Une radiothérapie thoracique précoce.",
+        "Une irradiation de la tumeur et du médiastin.",
+        "Une chirurgie systématique de première intention."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans la maladie limitée, le texte mentionne une chimiothérapie associée à une radiothérapie thoracique précoce portant sur la tumeur et le médiastin. La chirurgie est rarement indiquée, même au stade localisé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les soins de support et la prise en charge nutritionnelle, quelles propositions sont exactes ?",
+      "choices": [
+        "Les soins de support doivent débuter dès l’apparition des symptômes.",
+        "Les soins de support sont réservés aux stades métastatiques.",
+        "Ils doivent être proposés quel que soit le stade.",
+        "Un support nutritionnel par compléments hypercaloriques et hyperprotéiques est indiqué en cas de dénutrition ou de perte pondérale."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Les soins de support doivent être débutés dès l’apparition des symptômes, quel que soit le stade. En cas de dénutrition ou de perte pondérale, le texte recommande des compléments hypercaloriques et hyperprotéiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge de la douleur liée au cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Les antalgiques sont utilisés par paliers croissants.",
+        "Les opioïdes forts peuvent être utilisés si nécessaire.",
+        "La constipation doit être prévenue systématiquement sous morphiniques.",
+        "Une radiothérapie focale palliative antalgique peut être indiquée pour des lésions osseuses, surrénaliennes ou cutanées douloureuses."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La prise en charge de la douleur repose sur des antalgiques par paliers, avec opioïdes forts si besoin et prévention de la constipation sous morphiniques. Une radiothérapie focale palliative antalgique peut être proposée pour certaines localisations douloureuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les métastases osseuses ou vertébrales douloureuses, quelles mesures sont citées dans le texte ?",
+      "choices": [
+        "Les bisphosphonates ou un inhibiteur de RANK-ligand peuvent être utilisés dans les métastases osseuses.",
+        "Les anti-inflammatoires non stéroïdiens peuvent être utilisés s’ils ne sont pas contre-indiqués.",
+        "Les anti-inflammatoires non stéroïdiens doivent être administrés même en cas de contre-indication.",
+        "Une cimentoplastie percutanée ou une cryothérapie peut être discutée dans certains cas de métastases vertébrales douloureuses."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Pour les métastases osseuses, le texte cite les antalgiques, les AINS si non contre-indiqués, les bisphosphonates ou inhibiteurs de RANK-ligand. Pour certaines métastases vertébrales douloureuses, une cimentoplastie ou une cryothérapie peut être envisagée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prise en charge symptomatique de la dyspnée dans le cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Une obstruction trachéale ou bronchique principale peut relever d’une désobstruction endobronchique avec ou sans prothèse.",
+        "Une pleurésie néoplasique abondante récidivante peut relever de ponctions, d’un talcage ou d’un drainage pleural à demeure.",
+        "Dans la lymphangite carcinomateuse, le traitement symptomatique est souvent peu efficace.",
+        "Dans le syndrome cave supérieur, une anticoagulation et une corticothérapie peuvent être discutées selon le contexte, ainsi qu’un stent cave."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte détaille ces mesures selon le mécanisme de dyspnée : désobstruction endobronchique, prise en charge de la pleurésie récidivante, traitement du cancer dans la lymphangite avec symptomatique souvent peu efficace, et discussion thérapeutique dans le syndrome cave supérieur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est spécifiquement cité pour estimer le VEMS postopératoire prévu avant une chirurgie d’exérèse pulmonaire ?",
+      "choices": [
+        "La scintigraphie pulmonaire ventilation/perfusion.",
+        "La radiographie thoracique de face.",
+        "L’échographie pleurale.",
+        "La bronchoscopie souple."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que la scintigraphie pulmonaire ventilation/perfusion permet d’estimer le VEMS postopératoire prévu."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les cancers secondaires du poumon, quel élément doit être recherché systématiquement à l’examen clinique selon le texte ?",
+      "choices": [
+        "Des adénopathies axillaires, sus-claviculaires et cervicales.",
+        "Une splénomégalie douloureuse.",
+        "Une arthrite des grosses articulations.",
+        "Une ascite hémorragique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’examen clinique est souvent pauvre, mais la recherche d’adénopathies axillaires, sus-claviculaires et cervicales est systématique."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient ayant un cancer primitif connu et des anomalies pulmonaires évocatrices de métastases, dans quelle situation une preuve histologique est-elle indiquée ?",
+      "choices": [
+        "Lorsqu’elle modifie la stratégie thérapeutique ou qu’une modification du phénotype ou du génotype tumoral est suspectée.",
+        "Toujours, même si les anomalies radiologiques sont typiques et sans impact thérapeutique.",
+        "Jamais, dès lors qu’un cancer primitif est connu.",
+        "Uniquement si le patient n’a jamais reçu de traitement anticancéreux."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la biopsie n’est pas systématique en cas de cancer primitif connu. Elle est indiquée si elle modifie la stratégie thérapeutique ou si une modification phénotypique ou génotypique est suspectée."
+    },
+    {
+      "type": "QCS",
+      "question": "Si l’histologie pulmonaire est obtenue avant l’identification du cancer primitif, par quels éléments la recherche du primitif est-elle orientée ?",
+      "choices": [
+        "L’histologie, l’immunohistochimie et les analyses moléculaires.",
+        "Le seul aspect macroscopique des expectorations.",
+        "La numération formule sanguine isolée.",
+        "La réponse immédiate aux antalgiques."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Lorsque l’histologie pulmonaire est obtenue avant l’identification du primitif, la recherche est orientée par l’histologie, l’immunohistochimie et les analyses moléculaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la recherche d’un cancer primitif inconnu devant des lésions pulmonaires secondaires, quelle exploration est recommandée ?",
+      "choices": [
+        "La TEP-TDM au 18-FDG.",
+        "La scintigraphie osseuse systématique isolée.",
+        "La radiographie de l’abdomen sans préparation.",
+        "Le dosage isolé des marqueurs tumoraux sériques."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Devant des lésions pulmonaires secondaires avec cancer primitif inconnu, la TEP-TDM au 18-FDG est recommandée."
+    },
+    {
+      "type": "QCS",
+      "question": "Concernant un cancer primitif ancien considéré comme guéri, quelle affirmation est conforme au texte ?",
+      "choices": [
+        "Des métastases pulmonaires peuvent apparaître plus de 10 ans après.",
+        "Des métastases pulmonaires sont impossibles après 5 ans de rémission.",
+        "Une atteinte pulmonaire tardive exclut toute origine métastatique.",
+        "Une biopsie pulmonaire est toujours inutile dans ce contexte."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que des métastases pulmonaires peuvent apparaître plus de 10 ans après un cancer primitif ancien considéré comme guéri."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon l’extrait, devant une atteinte pulmonaire isolée, quelles démarches sont explicitement requises ?",
+      "choices": [
+        "Réaliser une enquête diagnostique complète",
+        "Obtenir un prélèvement histologique",
+        "Instaurer systématiquement une chimiothérapie",
+        "Éviter toute confirmation tissulaire"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise qu’en cas d’atteinte pulmonaire isolée, une enquête diagnostique complète avec prélèvement histologique est nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement local radical des métastases pulmonaires, quelles propositions sont conformes à l’extrait ?",
+      "choices": [
+        "Il peut être envisagé dans certains cas",
+        "Il comprend parmi les options possibles la chirurgie",
+        "Il est obligatoire dès qu’une métastase pulmonaire est suspectée",
+        "Il exclut la radiothérapie stéréotaxique"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte indique qu’un traitement local radical peut être envisagé dans certains cas et cite notamment la chirurgie."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les modalités suivantes, lesquelles sont citées comme traitement local radical possible des métastases pulmonaires ?",
+      "choices": [
+        "Chirurgie",
+        "Radiothérapie stéréotaxique",
+        "Radiofréquence",
+        "Surveillance exclusive systématique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois modalités citées sont la chirurgie, la radiothérapie stéréotaxique et la radiofréquence."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles formulations respectent la prudence du texte concernant le traitement local radical ?",
+      "choices": [
+        "Il peut être envisagé",
+        "Il concerne certains cas",
+        "Il doit être réalisé chez tous les patients",
+        "Il remplace nécessairement toute enquête diagnostique"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La formulation du texte est prudente : le traitement local radical peut être envisagé dans certains cas, sans caractère systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’extrait, quelles notions sont associées à l’expression « atteinte pulmonaire isolée » ?",
+      "choices": [
+        "Nécessité d’une enquête diagnostique complète",
+        "Nécessité d’un prélèvement histologique",
+        "Indication automatique d’une radiofréquence",
+        "Absence d’utilité de la confirmation histologique"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’atteinte pulmonaire isolée impose, selon le texte, une enquête diagnostique complète avec prélèvement histologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions distinguent correctement diagnostic et traitement dans l’extrait ?",
+      "choices": [
+        "L’enquête diagnostique complète relève de la démarche diagnostique",
+        "Le prélèvement histologique participe à la confirmation diagnostique",
+        "La chirurgie est citée parmi les traitements locaux radicaux possibles",
+        "La radiofréquence est décrite comme un examen diagnostique obligatoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’enquête et le prélèvement histologique relèvent du diagnostic ; la chirurgie fait partie des traitements locaux radicaux possibles. La radiofréquence est citée comme traitement, non comme examen diagnostique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le prélèvement histologique dans l’atteinte pulmonaire isolée, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est nécessaire selon le texte",
+        "Il s’inscrit dans une enquête diagnostique complète",
+        "Il est présenté comme facultatif dans cette situation",
+        "Il est remplacé par le traitement local radical dans tous les cas"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte associe l’atteinte pulmonaire isolée à une enquête diagnostique complète avec prélèvement histologique nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles erreurs d’interprétation doivent être évitées à partir de cet extrait ?",
+      "choices": [
+        "Considérer le traitement local radical comme systématique",
+        "Omettre le prélèvement histologique en cas d’atteinte pulmonaire isolée",
+        "Assimiler la radiofréquence à une modalité thérapeutique possible",
+        "Lire « certains cas » comme une sélection et non une obligation générale"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les erreurs sont de rendre systématique le traitement local radical et de négliger le prélèvement histologique. La radiofréquence est bien une modalité thérapeutique possible, et « certains cas » traduit une sélection."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon l’extrait, quelles propositions décrivent correctement la place de la radiothérapie stéréotaxique ?",
+      "choices": [
+        "Elle est citée comme option de traitement local radical",
+        "Elle peut être envisagée dans certains cas de métastases pulmonaires",
+        "Elle est imposée avant tout prélèvement histologique",
+        "Elle est la seule modalité thérapeutique locale citée"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La radiothérapie stéréotaxique fait partie des options de traitement local radical pouvant être envisagées dans certains cas, avec la chirurgie et la radiofréquence."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la chirurgie dans cet extrait, quelles affirmations sont exactes ?",
+      "choices": [
+        "Elle est citée parmi les traitements locaux radicaux possibles",
+        "Elle peut être envisagée dans certains cas de métastases pulmonaires",
+        "Elle est indiquée systématiquement devant toute atteinte pulmonaire isolée",
+        "Elle supprime la nécessité d’une enquête diagnostique complète"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La chirurgie est une option locale radicale possible dans certains cas, mais le texte ne la rend pas systématique et ne la substitue pas au diagnostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la radiofréquence dans les métastases pulmonaires, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle est citée comme traitement local radical possible",
+        "Elle fait partie des modalités pouvant être envisagées dans certains cas",
+        "Elle est décrite comme une méthode de prélèvement histologique",
+        "Elle est présentée comme obligatoire en cas d’atteinte pulmonaire isolée"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La radiofréquence est mentionnée comme modalité de traitement local radical envisageable dans certains cas, non comme technique diagnostique ni obligatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions sont directement soutenues par l’extrait, sans ajout non mentionné ?",
+      "choices": [
+        "Une atteinte pulmonaire isolée nécessite une enquête diagnostique complète",
+        "Le prélèvement histologique est nécessaire dans cette situation",
+        "Le traitement local radical peut inclure la radiothérapie stéréotaxique",
+        "La chimiothérapie est le traitement de référence obligatoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’extrait mentionne l’enquête diagnostique complète, le prélèvement histologique et les modalités locales radicales possibles. Il ne mentionne pas une chimiothérapie obligatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une lecture stricte de l’extrait, quelles propositions traduisent une conduite adaptée devant une atteinte pulmonaire isolée ?",
+      "choices": [
+        "Ne pas se limiter à une conclusion présomptive sans enquête complète",
+        "Prévoir une confirmation histologique",
+        "Décider d’emblée un traitement local radical dans tous les cas",
+        "Considérer que certaines options locales radicales peuvent être discutées selon les cas"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’atteinte isolée impose une enquête complète avec histologie ; un traitement local radical peut seulement être envisagé dans certains cas."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations terme–sens sont correctes selon l’extrait ?",
+      "choices": [
+        "« Nécessaire » : enquête diagnostique complète avec prélèvement histologique en cas d’atteinte pulmonaire isolée",
+        "« Peut être envisagé » : traitement local radical non systématique",
+        "« Certains cas » : indication universelle",
+        "« Traitement local radical » : chirurgie, radiothérapie stéréotaxique ou radiofréquence"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte impose le diagnostic complet avec histologie, mais reste conditionnel pour le traitement local radical, dont les modalités citées sont chirurgie, radiothérapie stéréotaxique et radiofréquence."
+    },
+    {
+      "type": "QCS",
+      "question": "Devant une atteinte pulmonaire isolée, quelle conduite est explicitement nécessaire selon l’extrait ?",
+      "choices": [
+        "Une enquête diagnostique complète avec prélèvement histologique",
+        "Une chirurgie systématique sans autre exploration",
+        "Une radiothérapie stéréotaxique obligatoire",
+        "Une radiofréquence diagnostique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La seule conduite explicitement nécessaire dans cette situation est l’enquête diagnostique complète avec prélèvement histologique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition résume le mieux la place du traitement local radical des métastases pulmonaires ?",
+      "choices": [
+        "Il est toujours indiqué",
+        "Il peut être envisagé dans certains cas",
+        "Il est interdit en cas d’atteinte pulmonaire isolée",
+        "Il remplace systématiquement le prélèvement histologique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que le traitement local radical peut être envisagé dans certains cas."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les options suivantes, laquelle est une modalité de traitement local radical citée dans l’extrait ?",
+      "choices": [
+        "Ponction lombaire",
+        "Radiofréquence",
+        "Endoscopie digestive",
+        "Scintigraphie osseuse"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La radiofréquence est citée parmi les traitements locaux radicaux possibles des métastases pulmonaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formulation est la plus fidèle à l’extrait concernant la radiothérapie stéréotaxique ?",
+      "choices": [
+        "Elle est une option possible de traitement local radical",
+        "Elle est obligatoire avant tout prélèvement histologique",
+        "Elle est le seul traitement local radical cité",
+        "Elle est décrite comme une technique d’enquête diagnostique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La radiothérapie stéréotaxique est citée comme une option possible de traitement local radical, avec la chirurgie et la radiofréquence."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’extrait, quel élément est associé au caractère nécessaire de la démarche diagnostique ?",
+      "choices": [
+        "Le prélèvement histologique",
+        "La radiofréquence systématique",
+        "La chimiothérapie obligatoire",
+        "La surveillance sans preuve tissulaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le prélèvement histologique est explicitement intégré à la démarche diagnostique nécessaire en cas d’atteinte pulmonaire isolée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition est fausse selon une lecture stricte de l’extrait ?",
+      "choices": [
+        "La chirurgie peut faire partie d’un traitement local radical",
+        "La radiothérapie stéréotaxique peut être envisagée dans certains cas",
+        "Le prélèvement histologique est inutile en cas d’atteinte pulmonaire isolée",
+        "La radiofréquence est citée comme option locale radicale"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "C’est faux : le texte indique au contraire qu’un prélèvement histologique est nécessaire en cas d’atteinte pulmonaire isolée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition et les grands groupes des tumeurs bronchopulmonaires primitives, quelles propositions sont exactes ?",
+      "choices": [
+        "Un cancer bronchopulmonaire primitif est une tumeur maligne développée à partir des tissus bronchiques ou pulmonaires.",
+        "Les cancers bronchopulmonaires non à petites cellules représentent environ 85 % des cas.",
+        "Les cancers bronchopulmonaires à petites cellules représentent environ 15 % des cas.",
+        "Une métastase pulmonaire d’un cancer extrapulmonaire correspond par définition à un cancer bronchopulmonaire primitif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cancer bronchopulmonaire primitif naît des tissus bronchiques ou pulmonaires. Les CBNPC représentent environ 85 % des cas et les CBPC environ 15 %. Une métastase pulmonaire n’est pas une tumeur primitive du poumon."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’adénocarcinome bronchopulmonaire, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Il constitue la forme histologique la plus fréquente.",
+        "Il est souvent périphérique.",
+        "Il présente une architecture glandulaire.",
+        "Il est classiquement caractérisé par une positivité p40."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’adénocarcinome est la forme la plus fréquente, souvent périphérique, d’architecture glandulaire, souvent TTF1 positif. La positivité p40 est associée au carcinome épidermoïde."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le carcinome épidermoïde bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est souvent proximal.",
+        "Il est associé à une positivité p40 en immunohistochimie.",
+        "Il est défini dans le texte par une architecture glandulaire.",
+        "Il est décrit comme typiquement périphérique et TTF1 positif."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le carcinome épidermoïde est souvent proximal et p40 positif. L’architecture glandulaire et la positivité TTF1 concernent plutôt l’adénocarcinome."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques initiales possibles du cancer bronchopulmonaire à petites cellules, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une tumeur agressive.",
+        "Il est souvent volumineux et proximal.",
+        "Il peut s’accompagner d’une extension médiastinale ou d’une compression bronchique ou médiastinale.",
+        "Les syndromes paranéoplasiques y sont décrits comme exceptionnels."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le CBPC est agressif, souvent volumineux, proximal, avec extension médiastinale et compressions possibles. Les syndromes paranéoplasiques y sont fréquents."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le tabagisme actif comme facteur de risque de cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est responsable d’environ 85 % des cancers du poumon.",
+        "La fumée de cigarette contient de nombreux carcinogènes.",
+        "Le risque dépend surtout de la précocité du début du tabagisme et de la durée d’exposition.",
+        "Il existe un seuil de consommation en dessous duquel le risque est nul."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le tabagisme actif est responsable d’environ 85 % des cancers pulmonaires. Le risque est lié notamment à l’âge de début et à la durée d’exposition. Il n’existe pas de seuil sans risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’addiction oncogénique dans les cancers bronchopulmonaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à la dépendance de certaines tumeurs à une anomalie oncogénique dominante.",
+        "Une mutation activatrice d’EGFR peut en être un exemple.",
+        "Un réarrangement d’ALK ou de ROS1 peut en être un exemple.",
+        "Ces anomalies sont décrites comme des anomalies constitutionnelles héréditaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’addiction oncogénique correspond à une dépendance tumorale à une anomalie dominante, comme EGFR, ALK ou ROS1. Le texte précise que les mutations somatiques concernent les cellules tumorales, non des anomalies constitutionnelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les manifestations respiratoires pouvant révéler un cancer bronchopulmonaire, quelles propositions sont citées ?",
+      "choices": [
+        "Toux.",
+        "Dyspnée.",
+        "Hémoptysie.",
+        "Pneumopathie traînante ou récidivante."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les symptômes respiratoires cités comprennent la toux, la dyspnée, l’hémoptysie, les infections respiratoires basses récidivantes et les pneumopathies traînantes ou récidivantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles manifestations générales sont citées comme circonstances possibles de découverte d’un cancer bronchopulmonaire ?",
+      "choices": [
+        "Altération inexpliquée de l’état général.",
+        "Amaigrissement.",
+        "Asthénie ou anorexie.",
+        "Fièvre prolongée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite l’altération inexpliquée de l’état général, l’amaigrissement, l’asthénie, l’anorexie et la fièvre prolongée parmi les manifestations générales."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels sites métastatiques fréquents du cancer bronchopulmonaire sont cités ?",
+      "choices": [
+        "Cerveau.",
+        "Os.",
+        "Foie et surrénales.",
+        "Peau."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les sites métastatiques fréquents cités sont le cerveau, l’os, le foie, les surrénales et la peau."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles correspondent à des exemples de syndromes paranéoplasiques cités ?",
+      "choices": [
+        "Hippocratisme digital.",
+        "Ostéoarthropathie hypertrophiante.",
+        "Pseudomyasthénie.",
+        "Syndrome cave supérieur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hippocratisme digital, l’ostéoarthropathie hypertrophiante et la pseudomyasthénie sont cités comme syndromes paranéoplasiques. Le syndrome cave supérieur relève d’une compression locorégionale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies que peut révéler une radiographie thoracique dans un cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Une masse.",
+        "Une atélectasie.",
+        "Une pneumopathie obstructive.",
+        "Un épanchement pleural ou des nodules."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La radiographie thoracique peut révéler une masse, une atélectasie, une pneumopathie obstructive, un épanchement pleural ou des nodules."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles indications du scanner thoracique sont explicitement citées dans le bilan d’un cancer bronchopulmonaire ?",
+      "choices": [
+        "Diagnostic.",
+        "Orientation des prélèvements avant bronchoscopie.",
+        "Bilan d’extension locorégionale.",
+        "Stadification TNM."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le scanner thoracique est indiqué pour le diagnostic, l’orientation des prélèvements avant bronchoscopie, le bilan d’extension locorégionale et la stadification TNM."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la recherche de métastases par scanner dans le cancer bronchopulmonaire, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le scanner peut rechercher des métastases thoraciques.",
+        "Le scanner peut rechercher des métastases abdominales.",
+        "Le scanner peut rechercher des métastases cérébrales selon protocole.",
+        "Le scanner permet de remplacer systématiquement la preuve histologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le scanner participe à la recherche de métastases thoraciques, abdominales et cérébrales selon protocole. Le texte ne dit pas qu’il remplace la preuve histologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments le scanner thoracique peut-il préciser concernant la lésion pulmonaire ?",
+      "choices": [
+        "Sa topographie.",
+        "Son caractère central, hilaire ou périphérique.",
+        "Sa taille et ses contours.",
+        "Son caractère spiculé ou excavé."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le scanner précise la topographie, la localisation centrale, hilaire ou périphérique, la taille, les contours et certains caractères morphologiques comme l’aspect spiculé ou excavé."
+    },
+    {
+      "type": "QCS",
+      "question": "Devant un signe d’appel chez un fumeur ou ancien fumeur de 40 ans ou plus, quel est l’examen initial de référence ?",
+      "choices": [
+        "Radiographie thoracique seule.",
+        "Scanner thoracique.",
+        "IRM cérébrale systématique.",
+        "Échographie abdominale seule."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que devant un signe d’appel chez un fumeur ou ancien fumeur de 40 ans ou plus, l’examen initial de référence est le scanner thoracique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation concernant une radiographie thoracique normale est exacte ?",
+      "choices": [
+        "Elle élimine formellement un cancer du poumon.",
+        "Elle élimine uniquement un cancer bronchopulmonaire périphérique.",
+        "Elle n’élimine pas un cancer du poumon.",
+        "Elle dispense de tout scanner en cas de signe d’appel."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une radiographie thoracique normale n’élimine pas un cancer du poumon. Son rôle est limité pour le diagnostic et le bilan d’extension."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation thromboembolique peut révéler un cancer bronchopulmonaire selon le texte ?",
+      "choices": [
+        "Une thrombose veineuse avec facteur favorisant évident uniquement.",
+        "Une embolie pulmonaire sans facteur favorisant.",
+        "Une phlébite post-traumatique récente isolée.",
+        "Une thrombose superficielle expliquée par un cathéter."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’une thrombose veineuse ou une embolie pulmonaire sans facteur favorisant peut révéler un cancer."
+    },
+    {
+      "type": "QCS",
+      "question": "Concernant le tabagisme passif, quelle proposition est exacte ?",
+      "choices": [
+        "Il n’augmente pas le risque de cancer du poumon.",
+        "Le risque est particulièrement important en cas d’exposition dans l’enfance.",
+        "Il n’est cité que chez les fumeurs actifs.",
+        "Il protège les non-fumeurs des cancers pulmonaires."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le tabagisme passif augmente le risque de cancer du poumon, avec un risque particulièrement important en cas d’exposition dans l’enfance."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle démarche est indiquée devant tout diagnostic de cancer du poumon concernant les expositions professionnelles ?",
+      "choices": [
+        "Aucune enquête professionnelle n’est nécessaire.",
+        "Une enquête professionnelle doit être systématique.",
+        "L’enquête professionnelle est réservée aux non-fumeurs.",
+        "L’enquête professionnelle est réservée aux sujets de moins de 40 ans."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique qu’une enquête professionnelle doit être systématique devant tout diagnostic de cancer du poumon."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel marquage est associé au cancer bronchopulmonaire à petites cellules dans le texte ?",
+      "choices": [
+        "Marquage neuroendocrine positif.",
+        "Marquage p40 obligatoire.",
+        "Marquage glandulaire exclusif.",
+        "Absence constante de tout marqueur."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le cancer bronchopulmonaire à petites cellules est décrit comme ayant un marquage neuroendocrine positif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la stadification ganglionnaire radiologique dans le cancer bronchopulmonaire, quelles correspondances sont exactes ?",
+      "choices": [
+        "N0 correspond à l’absence d’adénopathie.",
+        "N1 correspond à des ganglions hilaires homolatéraux.",
+        "N2 correspond à des ganglions médiastinaux controlatéraux.",
+        "N2 correspond à des ganglions médiastinaux homolatéraux ou sous-carinaires."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte définit N0 par l’absence d’adénopathie, N1 par les ganglions hilaires homolatéraux et N2 par les ganglions médiastinaux homolatéraux ou sous-carinaires. Les ganglions médiastinaux controlatéraux relèvent du N3."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la TEP-TDM au 18-FDG, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Il s’agit d’une imagerie fonctionnelle utilisant du glucose marqué au fluor 18.",
+        "Une fixation accrue peut être observée dans une tumeur, mais aussi dans une inflammation ou une infection.",
+        "Elle possède une valeur prédictive négative élevée pour le bilan d’extension.",
+        "Toute fixation accrue permet d’affirmer formellement une origine tumorale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La TEP-TDM au 18-FDG utilise du glucose marqué au fluor 18. La fixation accrue traduit un haut métabolisme et n’est pas spécifique, pouvant concerner tumeur, inflammation ou infection. Le texte mentionne une valeur prédictive négative élevée pour le bilan d’extension."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations constituent des indications ou intérêts de la TEP-TDM au 18-FDG selon le texte ?",
+      "choices": [
+        "Lorsqu’un traitement local curatif est envisagé.",
+        "Dans la caractérisation d’un nodule pulmonaire de nature incertaine.",
+        "Dans le staging médiastinal d’un cancer potentiellement opérable.",
+        "Comme examen systématique unique remplaçant toute preuve histologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la TEP-TDM lorsqu’un traitement local curatif est envisagé, pour caractériser un nodule incertain et pour le staging médiastinal d’un cancer potentiellement opérable. Elle ne remplace pas la preuve cytologique ou histologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’IRM thoracique dans le bilan d’un cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle n’est pas systématique.",
+        "Elle peut être utile pour les tumeurs de l’apex.",
+        "Elle peut préciser les rapports avec les vaisseaux sous-claviers, le plexus brachial et les foramens intervertébraux.",
+        "Elle est indiquée systématiquement devant toute lésion pulmonaire périphérique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IRM thoracique est non systématique. Elle peut être utile pour les tumeurs apicales, notamment pour analyser les rapports avec les vaisseaux sous-claviers, le plexus brachial et les foramens intervertébraux."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la bronchoscopie souple dans le diagnostic histologique du cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle visualise l’arbre bronchique jusqu’au niveau sous-segmentaire.",
+        "Elle peut être réalisée sous anesthésie locale ou sédation.",
+        "Elle permet des biopsies bronchiques en cas de bourgeon tumoral, infiltration ou anomalie endobronchique.",
+        "Elle est particulièrement utile pour les lésions périphériques non accessibles à la ponction."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bronchoscopie souple visualise l’arbre bronchique jusqu’au niveau sous-segmentaire, se réalise sous anesthésie locale ou sédation et permet des biopsies en cas d’anomalie endobronchique. Elle est surtout utile pour les lésions centrales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’écho-endoscopie bronchique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet la ponction à l’aiguille d’adénopathies médiastinales ou hilaires au contact de la trachée ou des grosses bronches.",
+        "Elle est indiquée pour documenter l’extension ganglionnaire.",
+        "Elle constitue un examen de première intention lorsqu’une preuve anatomopathologique de l’atteinte ganglionnaire est nécessaire.",
+        "Elle est la technique de référence pour biopsier une lésion périphérique au contact de la paroi thoracique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’écho-endoscopie bronchique permet la ponction d’adénopathies médiastinales ou hilaires au contact des voies aériennes centrales et sert à documenter l’extension ganglionnaire. Pour une lésion périphérique au contact de la paroi, le texte évoque plutôt la ponction transpariétale éventuellement échoguidée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la ponction-biopsie transpariétale à l’aiguille, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est réalisée sous anesthésie locale.",
+        "Elle est guidée par scanner.",
+        "Elle peut être échoguidée si la lésion est au contact de la paroi.",
+        "Elle peut se compliquer d’un pneumothorax souvent minime et bien toléré."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que la ponction-biopsie transpariétale est réalisée sous anesthésie locale, guidée par scanner, éventuellement échoguidée si la lésion est pariétale, et que le pneumothorax est une complication possible souvent minime et bien tolérée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles conditions les techniques chirurgicales diagnostiques sont-elles indiquées selon le texte ?",
+      "choices": [
+        "Lorsque les techniques moins invasives sont non contributives.",
+        "Lorsqu’aucune lésion à distance n’est facilement accessible.",
+        "Lorsque la suspicion de cancer est élevée.",
+        "D’emblée devant toute anomalie radiologique pulmonaire isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les techniques chirurgicales diagnostiques sont réservées aux situations où les techniques moins invasives sont non contributives, sans lésion à distance facilement accessible, avec une suspicion élevée de cancer."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la vidéo-thoracoscopie dans le diagnostic du cancer bronchopulmonaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est indiquée en cas d’épanchement pleural exsudatif.",
+        "Elle permet l’abord d’aires ganglionnaires non accessibles par médiastinoscopie.",
+        "Elle permet la biopsie d’une lésion périphérique non accessible à la ponction transthoracique.",
+        "Elle est spécifiquement destinée à l’abord des sites ganglionnaires médiastinaux latéro-trachéaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vidéo-thoracoscopie est indiquée en cas d’épanchement pleural exsudatif, permet l’abord de certaines aires ganglionnaires non accessibles par médiastinoscopie et la biopsie de lésions périphériques non accessibles à la ponction. L’abord latéro-trachéal médiastinal correspond à la médiastinoscopie."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’une localisation métastatique est accessible, quelles lésions à distance peuvent être préférées pour obtenir une biopsie selon le texte ?",
+      "choices": [
+        "Une adénopathie sus-claviculaire.",
+        "Une métastase cutanée.",
+        "Une métastase hépatique.",
+        "Une lésion ostéolytique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme cibles possibles une adénopathie sus-claviculaire, une métastase cutanée, une métastase hépatique, une lésion ostéolytique et une métastase cérébrale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le matériel tumoral nécessaire aux analyses complémentaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Il faut obtenir si possible du matériel histologique.",
+        "Un matériel cytologique riche en cellules tumorales peut suffire dans certains cas.",
+        "Une quantité suffisante de matériel est nécessaire pour les analyses moléculaires.",
+        "Le dosage des marqueurs tumoraux sériques est recommandé pour remplacer les analyses moléculaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande d’obtenir si possible du matériel histologique, précise qu’un matériel cytologique riche peut suffire dans certains cas, et insiste sur une quantité suffisante pour les analyses moléculaires. Les marqueurs tumoraux sériques ne sont pas recommandés."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour les cancers bronchopulmonaires non à petites cellules de stade avancé, quels éléments appartiennent au bilan minimal recommandé sur la tumeur ?",
+      "choices": [
+        "Expression de PD-L1.",
+        "Recherche de mutation EGFR.",
+        "Recherche de mutation KRAS.",
+        "Recherche de réarrangement ALK."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le bilan minimal recommandé comprend notamment l’expression de PD-L1, la recherche des mutations EGFR et KRAS, ainsi que les réarrangements ALK et ROS1."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le bilan préthérapeutique d’un cancer bronchopulmonaire, quelles questions essentielles sont explicitement posées par le texte ?",
+      "choices": [
+        "S’agit-il d’un cancer à petites cellules ou non à petites cellules ?",
+        "En cas de cancer non à petites cellules, la tumeur est-elle résécable ?",
+        "Si la tumeur est résécable, le patient est-il opérable ?",
+        "Le dosage sérique des marqueurs tumoraux permet-il de décider seul du traitement ?"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan préthérapeutique doit préciser le type histologique, la résécabilité d’un cancer non à petites cellules et l’opérabilité du patient si la tumeur est résécable. Les marqueurs tumoraux sériques ne sont pas recommandés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évaluation globale préthérapeutique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’état général conditionne la décision thérapeutique.",
+        "L’état général est un facteur pronostique majeur.",
+        "L’état nutritionnel doit être évalué systématiquement.",
+        "L’état nutritionnel est un facteur pronostique important."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte insiste sur l’importance de l’état général, évalué par le Performance Status OMS/ECOG, et de l’état nutritionnel, qui doit être évalué systématiquement et constitue un facteur pronostique important."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation concernant les marqueurs tumoraux sériques dans le cancer bronchopulmonaire est exacte selon le texte ?",
+      "choices": [
+        "Leur dosage est recommandé systématiquement au diagnostic.",
+        "Leur dosage n’est pas recommandé.",
+        "Ils remplacent la preuve cytologique ou histologique.",
+        "Ils permettent à eux seuls de définir le stade TNM."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique clairement que le dosage des marqueurs tumoraux sériques n’est pas recommandé."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle définition correspond au pTNM selon le texte ?",
+      "choices": [
+        "Extension clinique fondée uniquement sur l’examen physique.",
+        "Extension anatomopathologique après chirurgie.",
+        "Extension ganglionnaire médiastinale controlatérale.",
+        "Métastases à distance objectivées par TEP-TDM uniquement."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le pTNM correspond à l’extension anatomopathologique après chirurgie. Le cTNM correspond à l’extension clinique fondée sur l’examen et les examens complémentaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le Performance Status OMS/ECOG 2 selon le texte ?",
+      "choices": [
+        "Activité normale, efforts possibles sans limitation.",
+        "Réduction des efforts, autonomie complète.",
+        "Autonome, fatigue facile, repos nécessaire moins de la moitié des heures de veille.",
+        "Dépendance totale, confiné au lit ou au fauteuil."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le Performance Status OMS/ECOG 2 correspond à un patient autonome, facilement fatigué, nécessitant du repos moins de la moitié des heures de veille."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les stades pratiques des cancers bronchopulmonaires non à petites cellules, à quoi correspond le stade localisé ?",
+      "choices": [
+        "Aux stades I et II.",
+        "Au stade III uniquement.",
+        "Au stade IV uniquement.",
+        "Aux stades III et IV."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Selon le texte, le stade localisé correspond aux stades I et II ; le stade localement avancé correspond au stade III et le stade disséminé au stade IV."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-04T23:31:33.127Z"
+}

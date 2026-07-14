@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Banque QCM Module</title>
+  <link rel="stylesheet" href="/css/module-qcm.css" />
+</head>
+<body>
+  <main class="qcm-page">
+    <!-- Progression -->
+<section id="progressBox" class="progress-box">
+  <p id="progressText"></p>
+
+  <div class="progress-bar">
+    <div id="progressFill"></div>
+  </div>
+</section>
+
+<!-- Blocage des QCM -->
+<section id="lockBox" class="lock-box hidden"></section>
+   <a id="backToModules" href="/" class="back-btn">← Revoir les cours</a>
+
+    <section class="qcm-header">
+      <h1 id="moduleTitle">Banque QCM</h1>
+      <p id="moduleInfo">Chargement...</p>
+    </section>
+
+    <section class="qcm-actions">
+      <button id="startBtn">🚀 Commencer QCM aléatoire</button>
+      <button id="showAllBtn">📚 Afficher toutes les questions</button>
+    </section>
+
+    <section id="quizBox" class="quiz-box hidden">
+      <div id="questionCounter"></div>
+      <h2 id="questionText"></h2>
+      <div id="choicesBox"></div>
+
+      <button id="validateBtn">Valider</button>
+      <button id="nextBtn" class="hidden">Question suivante</button>
+
+      <p id="explanation"></p>
+    </section>
+
+    <section id="resultBox" class="result-box hidden"></section>
+    <section id="sessionResult" class="result-box hidden"></section>
+  </main>
+
+  <script src="/js/module-qcm.js"></script>
+  <script src="/js/auth-guard.js"></script>
+  <script src="/js/user-storage.js"></script>
+</body>
+</html>

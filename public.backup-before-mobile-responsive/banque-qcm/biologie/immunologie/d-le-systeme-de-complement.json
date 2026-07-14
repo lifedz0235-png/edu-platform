@@ -1,0 +1,3107 @@
+{
+  "category": "biologie",
+  "module": "immunologie",
+  "courseId": 36,
+  "courseTitle": "D Le Systeme De Complement",
+  "supportTitle": "d-le-systeme-de-complement",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/immunologie/d-le-systeme-de-complement.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les fonctions du système du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Il participe à l’inflammation et au chimiotactisme.",
+        "Il favorise l’opsonisation et augmente la phagocytose.",
+        "Il assure directement la production d’immunoglobulines spécifiques.",
+        "Il intervient dans la clairance des complexes immuns et la modulation de la réponse immunitaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le complément intervient dans l’inflammation, le chimiotactisme, l’opsonisation, la phagocytose, la lyse membranaire, la neutralisation de certains virus, la clairance des complexes immuns et la modulation immunitaire. Il ne produit pas directement les immunoglobulines."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des fragments biologiquement actifs du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "C3a, C4a et C5a sont des anaphylatoxines.",
+        "C3b et iC3b possèdent une activité opsonisante.",
+        "C2a est cité comme anaphylatoxine majeure.",
+        "C1q et C4b peuvent favoriser la phagocytose via des récepteurs du complément."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les anaphylatoxines citées sont C3a, C4a et C5a. Les molécules C3b, C4b, C1q et iC3b ont une activité opsonisante et favorisent la phagocytose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la nomenclature des composants du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Les composants de la voie classique sont désignés par la lettre C suivie d’un chiffre.",
+        "C1, C2, C3 et C4 appartiennent à la nomenclature de la voie classique.",
+        "Le facteur B et le facteur D sont désignés selon une nomenclature par lettres.",
+        "La properdine est un composant numéroté de la voie classique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les composants de la voie classique sont désignés C1, C2, C3, C4, etc. Les composants de la voie alterne et certaines protéines de régulation sont désignés par des lettres ou des noms, comme facteur B, facteur D, facteur H, facteur I et properdine."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels peuvent activer la voie classique du complément selon le texte ?",
+      "choices": [
+        "Les complexes immuns antigène-anticorps.",
+        "Les immunoglobulines agrégées, notamment IgM et certaines sous-classes d’IgG.",
+        "Le zymosan.",
+        "La protéine C réactive, le facteur XII, la thrombine ou la plasmine."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La voie classique est activée par les complexes immuns, les immunoglobulines agrégées principalement IgM, IgG1, IgG2 et IgG3, mais aussi par plusieurs autres activateurs comme la protéine C réactive, le facteur XII, la thrombine et la plasmine. Le zymosan est cité comme activateur de la voie alterne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le complexe C1 de la voie classique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est composé de C1q, C1r et C1s.",
+        "La fixation de C1q induit un changement conformationnel activant C1r et C1s.",
+        "C1r et C1s clivent directement C5 pour former le complexe d’attaque membranaire.",
+        "Le clivage de C4 et C2 aboutit à la C3 convertase C4b2a."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le complexe C1 comprend C1q, C1r et C1s. La fixation de C1q active C1r et C1s, qui clivent C4 et C2 pour former la C3 convertase classique C4b2a."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie des lectines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est activée par la fixation de lectines liant le mannose à des sucres riches en mannose.",
+        "Les sucres ciblés peuvent être présents à la surface de bactéries ou de virus.",
+        "Les protéases associées aux lectines clivent C4 et C2.",
+        "Elle génère une C3 convertase différente de celle de la voie classique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie des lectines est déclenchée par la fixation de lectines liant le mannose à des sucres riches en mannose présents sur bactéries ou virus. Elle clive C4 et C2 et génère la même C3 convertase que la voie classique : C4b2a."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la phase initiale de la voie alterne, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle repose sur l’activation spontanée de faibles quantités de C3 soluble en C3b.",
+        "Le C3b peut se fixer aux surfaces cellulaires.",
+        "Les surfaces microbiennes pauvres en acide sialique favorisent l’activation de cette voie.",
+        "Le facteur B associé au C3b est clivé par le facteur D."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La voie alterne débute par une activation spontanée de faibles quantités de C3 en C3b. Le C3b fixé aux surfaces, notamment microbiennes pauvres en acide sialique, se combine au facteur B, ensuite clivé par le facteur D."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont cités comme activateurs de la voie alterne du complément ?",
+      "choices": [
+        "Les polysaccharides microbiens et le zymosan.",
+        "Les endotoxines bactériennes.",
+        "Les IgA agrégées.",
+        "Les complexes immuns à IgM comme activateurs principaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les activateurs de la voie alterne comprennent les polysaccharides microbiens, le zymosan, les endotoxines bactériennes, les parois pauvres en acide sialique, les IgA agrégées et les IgE agrégées ou engagées dans des complexes immuns. Les IgM relèvent surtout de la voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la convergence des voies du complément et la phase terminale, quelles propositions sont exactes ?",
+      "choices": [
+        "Les trois voies convergent vers le clivage de C3 en C3a et C3b.",
+        "C3b participe à l’opsonisation et à la formation des C5 convertases.",
+        "C5b initie l’assemblage du complexe d’attaque membranaire avec C6, C7, C8 et C9.",
+        "C5a polymérise C9 pour former directement le complexe C5b-9."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois voies convergent vers C3. C3b intervient dans l’opsonisation et dans la formation des C5 convertases. C5b, et non C5a, initie l’assemblage du complexe d’attaque membranaire C5b-9."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les protéines régulatrices solubles du complément, quelles associations sont exactes ?",
+      "choices": [
+        "Le C1 inhibiteur dissocie le C1 activé et inhibe des sérine-protéases du complément, des kinines et de la coagulation.",
+        "La C4 binding protein dissocie la C3 convertase classique et sert de cofacteur au facteur I.",
+        "Le facteur H dissocie la C3 convertase alterne et régule l’activation sur les cellules de l’hôte.",
+        "La properdine dissocie la C3 convertase alterne pour empêcher son activation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le C1 inhibiteur, la C4 binding protein et le facteur H sont des régulateurs inhibiteurs. La properdine, au contraire, stabilise la C3 convertase alterne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les protéines membranaires de régulation du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "CR1 dissocie les C3 convertases et sert de cofacteur au facteur I.",
+        "DAF/CD55 dissocie les C3 et C5 convertases.",
+        "MCP/CD46 agit comme cofacteur du facteur I.",
+        "Les protéines membranaires à ancrage GPI favorisent la lyse des cellules de l’hôte par le complément."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "CR1, DAF/CD55 et MCP/CD46 sont des régulateurs membranaires protecteurs. Les protéines membranaires à ancrage GPI protègent les cellules de l’hôte contre la lyse par le complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles manifestations ou conséquences peuvent être observées au cours des déficits du complément ?",
+      "choices": [
+        "Infections récurrentes.",
+        "Maladies auto-immunes.",
+        "Glomérulopathies.",
+        "Hyperproduction physiologique d’anaphylatoxines protectrices."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits du complément peuvent entraîner infections récurrentes, maladies auto-immunes, défaut d’opsonisation et de phagocytose, défaut de lyse bactérienne, glomérulopathies, syndrome hémolytique et urémique atypique, angio-œdème héréditaire et susceptibilité aux infections à Neisseria."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déficits de la voie classique, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent concerner C1q, C1r, C1s, C4 ou C2.",
+        "Ils sont associés à un risque accru de maladies auto-immunes.",
+        "Le mécanisme évoqué inclut un défaut de clairance des complexes immuns et des débris apoptotiques.",
+        "Ils entraînent toujours un défaut isolé de formation du complexe C5b-9 sans autre conséquence."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits en C1q, C1r, C1s, C4 ou C2 sont associés aux maladies auto-immunes, notamment par défaut de clairance des complexes immuns et des débris apoptotiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le C1 inhibiteur, quelles propositions sont exactes ?",
+      "choices": [
+        "Il appartient à la famille des serpines.",
+        "Il inhibe C1r et C1s.",
+        "Il inhibe la kallikréine ainsi que les facteurs XI et XII.",
+        "Il active directement le facteur B pour amplifier la voie alterne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le C1 inhibiteur est une serpine inhibant C1r, C1s, les protéases associées à la voie des lectines, la kallikréine, les facteurs XI et XII, et partiellement la plasmine. Il n’active pas le facteur B."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel fragment du complément est décrit comme le plus puissant chimioattractant ?",
+      "choices": [
+        "C3a",
+        "C4a",
+        "C5a",
+        "C3b"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "C5a est une anaphylatoxine puissante et le facteur chimiotactique majeur cité dans le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la C3 convertase de la voie alterne ?",
+      "choices": [
+        "C4b2a",
+        "C3bBb",
+        "C4b2a3b",
+        "C5b-9"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans la voie alterne, C3b se combine au facteur B, clivé par le facteur D, pour former la C3 convertase alterne C3bBb."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle protéine bloque la fixation membranaire du complexe C5b-7 soluble ?",
+      "choices": [
+        "Vitronectine",
+        "Properdine",
+        "Facteur D",
+        "C1q"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La vitronectine bloque la fixation membranaire du complexe C5b-7 soluble."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel type de déficit du complément prédispose aux infections à Neisseria par défaut de formation du complexe d’attaque membranaire ?",
+      "choices": [
+        "Déficit en C5, C6, C7, C8 ou C9",
+        "Déficit isolé en C2",
+        "Déficit en C1 inhibiteur",
+        "Déficit en C4 binding protein"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les déficits de la voie terminale, concernant C5 à C9, empêchent la formation efficace du complexe d’attaque membranaire et prédisposent aux infections à Neisseria."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel déficit entraîne un défaut majeur d’opsonisation et de phagocytose responsable d’infections bactériennes récurrentes sévères ?",
+      "choices": [
+        "Déficit en C3",
+        "Déficit en C9",
+        "Déficit en CD59",
+        "Déficit en properdine uniquement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le déficit en C3 entraîne un défaut majeur d’opsonisation et de phagocytose, avec infections bactériennes récurrentes sévères."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel régulateur inhibe la formation du complexe d’attaque membranaire en empêchant la polymérisation de C9 ?",
+      "choices": [
+        "CD59",
+        "DAF/CD55",
+        "MCP/CD46",
+        "Facteur H"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "CD59 inhibe la formation du complexe d’attaque membranaire en empêchant la polymérisation de C9."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition de l’angio-œdème bradykinique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il se manifeste par des œdèmes récidivants de la peau et des muqueuses.",
+        "Il est dépendant de l’histamine.",
+        "Il correspond à une forme d’angio-œdème non histaminodépendante.",
+        "Il se caractérise par des œdèmes permanents sans caractère récidivant."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "L’angio-œdème bradykinique est défini par des œdèmes récidivants cutanés et muqueux, non dépendants de l’histamine."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles localisations sont particulièrement concernées par l’angio-œdème bradykinique selon le texte ?",
+      "choices": [
+        "Les extrémités.",
+        "Le visage.",
+        "Le tube digestif.",
+        "Une atteinte exclusivement limitée au tube digestif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que l’angio-œdème bradykinique touche surtout les extrémités, le visage et le tube digestif. Il n’est pas exclusivement digestif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la gravité et la durée des crises d’angio-œdème bradykinique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’atteinte laryngée peut entraîner une asphyxie.",
+        "Les crises persistent généralement 24 à 72 heures.",
+        "L’atteinte laryngée est décrite comme dénuée de risque vital.",
+        "Les crises durent habituellement moins d’une heure."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’atteinte laryngée expose à l’asphyxie. Les crises durent généralement 24 à 72 heures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution au cours de la vie de l’angio-œdème bradykinique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les crises peuvent débuter à tout âge.",
+        "Elles s’accentuent souvent à l’adolescence.",
+        "Elles peuvent diminuer en fréquence et en intensité avec l’âge.",
+        "Elles disparaissent systématiquement après l’adolescence."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises peuvent commencer à tout âge, s’aggraver à l’adolescence, puis parfois diminuer avec l’âge. Le texte ne dit pas qu’elles disparaissent systématiquement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les variations hormonales des crises d’angio-œdème bradykinique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les crises peuvent varier au cours du cycle menstruel.",
+        "Les crises peuvent varier au cours de la grossesse.",
+        "La grossesse exclut toute variation des crises.",
+        "Le texte affirme que les crises varient obligatoirement à chaque cycle menstruel."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne des variations possibles au cours du cycle menstruel et de la grossesse, sans caractère obligatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la physiopathologie initiale de l’angio-œdème bradykinique, quelles propositions sont exactes ?",
+      "choices": [
+        "Un déficit en C1 inhibiteur peut être en cause.",
+        "Un dysfonctionnement du C1 inhibiteur peut être en cause.",
+        "Il existe une activation excessive du système des kinines.",
+        "Le mécanisme principal décrit est une activation histaminique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit ou le dysfonctionnement du C1 inhibiteur entraîne une activation excessive du système des kinines. Le mécanisme n’est pas histaminique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rôle de la bradykinine dans l’angio-œdème bradykinique, quelles propositions sont exactes ?",
+      "choices": [
+        "La libération de bradykinine est liée à l’activation excessive du système des kinines.",
+        "La bradykinine est responsable de l’augmentation de la perméabilité vasculaire.",
+        "L’augmentation de la perméabilité vasculaire participe à la formation de l’œdème.",
+        "La bradykinine protège les cellules contre l’action lytique du complément."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bradykinine est libérée lors de l’activation excessive du système des kinines et augmente la perméabilité vasculaire, provoquant l’œdème. La protection contre la lyse du complément concerne DAF/CD55 et CD59."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’angio-œdème héréditaire de type I, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à un déficit quantitatif en C1 inhibiteur.",
+        "Il est présenté comme la forme la plus fréquente.",
+        "Il est associé aux syndromes lymphoprolifératifs dans la classification donnée.",
+        "Il correspond à un déficit qualitatif en C1 inhibiteur."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’angio-œdème héréditaire de type I est un déficit quantitatif en C1 inhibiteur et constitue la forme la plus fréquente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’angio-œdème héréditaire avec C1 inhibiteur normal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est décrit comme une forme héréditaire.",
+        "Il est souvent observé chez la femme.",
+        "Il peut être associé à une mutation du facteur XII.",
+        "Il est défini dans le texte comme un angio-œdème acquis auto-immun."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’angio-œdème héréditaire avec C1 inhibiteur normal est souvent observé chez la femme et peut être associé à une mutation du facteur XII."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes acquises d’angio-œdème, quelles associations sont exactes ?",
+      "choices": [
+        "L’angio-œdème acquis de type I est associé à des syndromes lymphoprolifératifs.",
+        "L’angio-œdème acquis de type II est associé à des mécanismes auto-immuns.",
+        "L’angio-œdème acquis de type I est associé dans le texte à une mutation du facteur XII.",
+        "L’angio-œdème acquis de type II est décrit comme la forme héréditaire la plus fréquente."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le type I acquis est associé aux syndromes lymphoprolifératifs ; le type II acquis est associé à des mécanismes auto-immuns."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles formes appartiennent explicitement à la classification de l’angio-œdème donnée dans le texte ?",
+      "choices": [
+        "Angio-œdème héréditaire de type I.",
+        "Angio-œdème héréditaire de type II.",
+        "Angio-œdème héréditaire avec C1 inhibiteur normal.",
+        "Angio-œdème acquis de type I."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les angio-œdèmes héréditaires de type I, de type II, avec C1 inhibiteur normal, ainsi que les angio-œdèmes acquis de type I et II."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les protéines DAF/CD55 et CD59, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des glycoprotéines membranaires.",
+        "Elles possèdent un ancrage GPI.",
+        "Elles protègent les cellules contre l’action lytique du complément.",
+        "Elles sont décrites comme des formes solubles du C1 inhibiteur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "DAF/CD55 et CD59 sont des glycoprotéines membranaires à ancrage GPI protégeant les cellules contre l’action lytique du complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le déficit en protéines à ancrage GPI, quelles propositions sont exactes ?",
+      "choices": [
+        "Il entraîne une sensibilité anormale des hématies à la lyse par le complément.",
+        "Il est responsable d’une hémoglobinurie paroxystique nocturne.",
+        "Il concerne des protéines membranaires régulatrices.",
+        "Il se manifeste dans le texte par des œdèmes récidivants de la peau et des muqueuses."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit en protéines membranaires régulatrices à ancrage GPI rend les hématies anormalement sensibles à la lyse par le complément, responsable d’une hémoglobinurie paroxystique nocturne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la comparaison entre déficit en C1 inhibiteur et déficit en protéines à ancrage GPI, quelles propositions sont exactes ?",
+      "choices": [
+        "Le déficit ou dysfonctionnement du C1 inhibiteur favorise la libération de bradykinine.",
+        "Le déficit en protéines à ancrage GPI expose les hématies à une lyse excessive par le complément.",
+        "Les deux déficits sont décrits comme responsables du même tableau d’angio-œdème héréditaire de type I.",
+        "DAF/CD55 et CD59 interviennent dans la protection contre l’action lytique du complément."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le C1 inhibiteur est impliqué dans le contrôle du système des kinines et de la bradykinine. Les protéines à ancrage GPI comme DAF/CD55 et CD59 protègent contre la lyse par le complément."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la forme d’angio-œdème héréditaire décrite comme la plus fréquente ?",
+      "choices": [
+        "Angio-œdème héréditaire de type I.",
+        "Angio-œdème héréditaire de type II.",
+        "Angio-œdème héréditaire avec C1 inhibiteur normal.",
+        "Angio-œdème acquis de type II."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le type I, correspondant à un déficit quantitatif en C1 inhibiteur, est décrit comme la forme la plus fréquente."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie définit l’angio-œdème héréditaire de type II selon le texte ?",
+      "choices": [
+        "Déficit quantitatif en C1 inhibiteur.",
+        "Déficit qualitatif en C1 inhibiteur.",
+        "C1 inhibiteur normal associé constamment à une mutation du facteur XII.",
+        "Mécanisme auto-immun acquis."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’angio-œdème héréditaire de type II correspond à un déficit qualitatif en C1 inhibiteur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association est rapportée avec l’angio-œdème héréditaire à C1 inhibiteur normal ?",
+      "choices": [
+        "Mutation du facteur XII.",
+        "Syndrome lymphoprolifératif.",
+        "Déficit quantitatif en C1 inhibiteur.",
+        "Déficit en protéines à ancrage GPI."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’angio-œdème héréditaire avec C1 inhibiteur normal peut être associé à une mutation du facteur XII."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association caractérise l’angio-œdème acquis de type I dans le texte ?",
+      "choices": [
+        "Mécanismes auto-immuns.",
+        "Syndromes lymphoprolifératifs.",
+        "Mutation du facteur XII.",
+        "Déficit qualitatif héréditaire en C1 inhibiteur."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’angio-œdème acquis de type I est associé à des syndromes lymphoprolifératifs."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle protéine ou combinaison de protéines correspond aux glycoprotéines membranaires à ancrage GPI citées dans le texte ?",
+      "choices": [
+        "DAF/CD55 et CD59.",
+        "C1 inhibiteur et facteur XII.",
+        "Bradykinine et histamine.",
+        "Kinines et C1 inhibiteur."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "DAF/CD55 et CD59 sont les glycoprotéines membranaires à ancrage GPI citées."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle conséquence est directement attribuée au déficit en protéines à ancrage GPI ?",
+      "choices": [
+        "Hémoglobinurie paroxystique nocturne.",
+        "Angio-œdème héréditaire de type II.",
+        "Mutation du facteur XII.",
+        "Activation excessive isolée du système des kinines."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le déficit en protéines à ancrage GPI rend les hématies sensibles à la lyse par le complément, responsable d’une hémoglobinurie paroxystique nocturne."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’état basal et de la nature du système du complément chez le sujet sain, quelles propositions sont exactes ?",
+      "choices": [
+        "Il comprend des protéines plasmatiques et membranaires.",
+        "Ses protéines sont normalement présentes sous forme inactive.",
+        "Plusieurs de ses composants sont des protéases.",
+        "Il correspond exclusivement à des immunoglobulines circulantes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complément est un ensemble de protéines plasmatiques et membranaires, normalement inactives, dont plusieurs sont des protéases. Il ne s’agit pas d’immunoglobulines."
+    },
+    {
+      "type": "QCM",
+      "question": "Après activation du complément, quelles propositions décrivent correctement la cascade effectrice ?",
+      "choices": [
+        "Elle comporte une succession de réactions de protéolyse.",
+        "Elle aboutit à la production de fragments biologiquement actifs.",
+        "Elle peut conduire, en cas d’activation complète, à la formation du complexe d’attaque membranaire.",
+        "Elle repose principalement sur la synthèse immédiate de nouvelles immunoglobulines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’activation déclenche une cascade de protéolyse générant des fragments actifs et pouvant aboutir au complexe d’attaque membranaire. La synthèse d’immunoglobulines n’est pas le mécanisme décrit."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la voie classique, concernant les événements liés à C1q, quelles propositions sont exactes ?",
+      "choices": [
+        "C1q peut se fixer directement à certaines surfaces pathogènes.",
+        "C1q peut se fixer aux complexes antigène-anticorps.",
+        "La fixation de C1q induit un changement conformationnel activant C1r et C1s.",
+        "C1q clive directement C5 pour former C5a et C5b."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "C1q initie la voie classique par fixation à certaines surfaces ou aux complexes immuns, entraînant l’activation de C1r et C1s. Le clivage de C5 relève des C5 convertases."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la formation de la C3 convertase de la voie classique, quelles propositions sont exactes ?",
+      "choices": [
+        "C1r et C1s activés clivent C4 et C2.",
+        "Les fragments C4b et C2a s’associent.",
+        "La C3 convertase classique est C4b2a.",
+        "La C3 convertase classique est formée par C5b, C6 et C7."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans la voie classique, C1r/C1s clivent C4 et C2, puis C4b et C2a forment C4b2a. C5b-C7 appartient à la phase terminale, pas à la C3 convertase."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du déclenchement de la voie des lectines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle implique la fixation de lectines liant le mannose.",
+        "La fixation se fait sur des sucres riches en mannose présents à la surface de bactéries ou de virus.",
+        "Les protéases associées aux lectines clivent C4 et C2.",
+        "Elle génère spécifiquement la C3 convertase C3bBb."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie des lectines est déclenchée par des lectines liant le mannose à des sucres riches en mannose, avec clivage de C4 et C2. Elle génère C4b2a, et non C3bBb."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conditions de formation de la C3 convertase alterne, quelles propositions sont exactes ?",
+      "choices": [
+        "De faibles quantités de C3 soluble peuvent être spontanément activées en C3b.",
+        "Le C3b peut se fixer aux surfaces cellulaires.",
+        "Les surfaces microbiennes pauvres en acide sialique favorisent la formation de C3bBb.",
+        "Le facteur H clive le facteur B pour former Bb."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie alterne repose sur l’activation spontanée de C3 en C3b, sa fixation aux surfaces et l’association avec le facteur B clivé par le facteur D. Le facteur H est régulateur, il ne clive pas le facteur B."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours de la voie alterne, quelles propositions relatives au facteur B, au facteur D et à la properdine sont exactes ?",
+      "choices": [
+        "Le C3b fixé peut se combiner au facteur B.",
+        "Le facteur D clive le facteur B associé au C3b.",
+        "La properdine stabilise la C3 convertase alterne.",
+        "La properdine dégrade C3b et C4b en présence de cofacteurs."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le C3b se lie au facteur B, clivé par le facteur D pour former C3bBb, stabilisé par la properdine. La dégradation de C3b/C4b relève du facteur I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la convergence des trois voies au niveau de C3, quelles propositions sont exactes ?",
+      "choices": [
+        "Les trois voies aboutissent au clivage de C3.",
+        "Le clivage de C3 produit C3a et C3b.",
+        "C3b participe à l’opsonisation.",
+        "C3a participe à la formation des C5 convertases."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois voies convergent vers le clivage de C3 en C3a et C3b. C3b intervient dans l’opsonisation et la formation des C5 convertases, contrairement à C3a."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des C5 convertases, quelles associations sont exactes ?",
+      "choices": [
+        "C4b2a3b correspond à la C5 convertase de la voie classique.",
+        "C4b2a3b correspond aussi à la C5 convertase de la voie des lectines.",
+        "C3bBb3b correspond à la C5 convertase de la voie alterne.",
+        "C5 convertase désigne le complexe C5b-9."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les C5 convertases sont C4b2a3b pour les voies classique et des lectines, et C3bBb3b pour la voie alterne. C5b-9 est le complexe d’attaque membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la phase terminale du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "C5b initie l’assemblage du complexe d’attaque membranaire.",
+        "C6, C7, C8 et C9 participent à la formation du complexe terminal.",
+        "Le complexe final est C5b-9.",
+        "C3a constitue l’élément structural central du complexe d’attaque membranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "C5b initie l’assemblage avec C6, C7, C8 et C9 pour former C5b-9. C3a n’est pas un composant structural du complexe d’attaque membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont explicitement présentés comme cofacteurs du facteur I ?",
+      "choices": [
+        "C4 binding protein.",
+        "CR1.",
+        "MCP/CD46.",
+        "CD59."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "C4 binding protein, CR1 et MCP/CD46 sont cités comme cofacteurs du facteur I. CD59 inhibe la polymérisation de C9, sans être décrit comme cofacteur du facteur I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la dissociation des convertases du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "C4 binding protein dissocie la C3 convertase classique.",
+        "Le facteur H dissocie la C3 convertase alterne.",
+        "CR1 dissocie les C3 convertases.",
+        "DAF/CD55 dissocie uniquement le complexe C1 activé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "C4BP, facteur H et CR1 participent à la dissociation des convertases indiquées. DAF/CD55 dissocie les C3 et C5 convertases ; la dissociation de C1 activé relève du C1 inhibiteur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déficits de la voie alterne, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent concerner le facteur B ou le facteur D.",
+        "Ils peuvent concerner la properdine.",
+        "Ils peuvent concerner le facteur H ou le facteur I.",
+        "Ils sont définis par un déficit isolé en C1q, C4 ou C2."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits de la voie alterne incluent facteur B, facteur D, properdine, facteur H et facteur I. C1q, C4 et C2 relèvent de la voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cibles inhibées par le C1 inhibiteur, quelles propositions sont exactes ?",
+      "choices": [
+        "C1r et C1s.",
+        "Les protéases associées à la voie des lectines.",
+        "La kallikréine.",
+        "Le facteur B de la voie alterne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le C1 inhibiteur inhibe C1r/C1s, les protéases de la voie des lectines et la kallikréine. Le facteur B n’est pas cité parmi ses cibles."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la C3 convertase commune à la voie classique et à la voie des lectines ?",
+      "choices": [
+        "C3bBb.",
+        "C4b2a.",
+        "C4b2a3b.",
+        "C5b-9."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La voie classique et la voie des lectines génèrent toutes deux la C3 convertase C4b2a."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur clive le facteur B lorsqu’il est associé au C3b sur une surface microbienne ?",
+      "choices": [
+        "Facteur H.",
+        "Facteur I.",
+        "Facteur D.",
+        "C1 inhibiteur."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans la voie alterne, le facteur B associé au C3b est clivé par le facteur D pour former la C3 convertase C3bBb."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle protéine est décrite comme stabilisant la C3 convertase alterne ?",
+      "choices": [
+        "Properdine.",
+        "Vitronectine.",
+        "C4 binding protein.",
+        "CD59."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La properdine stabilise la C3 convertase alterne C3bBb."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la C5 convertase de la voie alterne ?",
+      "choices": [
+        "C4b2a.",
+        "C3bBb.",
+        "C3bBb3b.",
+        "C5b-9."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La C5 convertase de la voie alterne est C3bBb3b."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la famille protéique du C1 inhibiteur selon le texte ?",
+      "choices": [
+        "Lectines.",
+        "Serpines.",
+        "Immunoglobulines.",
+        "Properdines."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le C1 inhibiteur est une protéine plasmatique appartenant à la famille des serpines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le rôle attribué aux protéases sériques dans la régulation du complément ?",
+      "choices": [
+        "Inactiver les anaphylatoxines.",
+        "Stabiliser la C3 convertase alterne.",
+        "Empêcher la polymérisation de C9.",
+        "Former la C5 convertase classique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les protéases sériques sont citées comme régulateurs capables d’inactiver les anaphylatoxines."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant des œdèmes récidivants, quels éléments sont compatibles avec un angio-œdème bradykinique tel que décrit dans le texte ?",
+      "choices": [
+        "Une atteinte récidivante de la peau et des muqueuses",
+        "Un mécanisme non dépendant de l’histamine",
+        "Une prédilection pour les extrémités, le visage et le tube digestif",
+        "Une atteinte exclusivement cutanée sans atteinte muqueuse possible"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’angio-œdème bradykinique touche la peau et les muqueuses, n’est pas histamino-dépendant et concerne surtout les extrémités, le visage et le tube digestif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les atteintes topographiques de l’angio-œdème bradykinique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le tube digestif fait partie des localisations préférentielles",
+        "L’atteinte laryngée peut engager le pronostic vital par asphyxie",
+        "Le visage peut être concerné par les œdèmes",
+        "L’atteinte laryngée est décrite comme toujours bénigne"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les extrémités, le visage et le tube digestif comme localisations principales, et précise que l’atteinte laryngée peut entraîner une asphyxie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du profil évolutif des crises d’angio-œdème bradykinique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les crises persistent généralement 24 à 72 heures",
+        "Elles peuvent débuter à tout âge",
+        "Elles s’accentuent souvent à l’adolescence",
+        "Elles disparaissent obligatoirement après l’adolescence"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises durent habituellement 24 à 72 heures, peuvent débuter à tout âge et s’accentuent souvent à l’adolescence, sans disparition obligatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments peuvent modifier la fréquence ou l’expression des crises d’angio-œdème bradykinique selon le texte ?",
+      "choices": [
+        "Le cycle menstruel",
+        "La grossesse",
+        "L’âge, avec possible diminution de fréquence et d’intensité",
+        "Une dépendance obligatoire à l’histamine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises peuvent varier avec le cycle menstruel et la grossesse, et diminuer en fréquence et en intensité avec l’âge. Elles ne dépendent pas de l’histamine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la chaîne physiopathologique de l’angio-œdème bradykinique, quelles propositions sont exactes ?",
+      "choices": [
+        "Un déficit ou un dysfonctionnement du C1 inhibiteur peut être en cause",
+        "Il existe une activation excessive du système des kinines",
+        "La bradykinine augmente la perméabilité vasculaire",
+        "L’œdème résulte d’une diminution de la perméabilité vasculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit ou dysfonctionnement du C1 inhibiteur active excessivement le système des kinines, libérant de la bradykinine, qui augmente la perméabilité vasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies du C1 inhibiteur dans les formes héréditaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Le type I correspond à un déficit quantitatif en C1 inhibiteur",
+        "Le type II correspond à un déficit qualitatif en C1 inhibiteur",
+        "Il existe une forme héréditaire avec C1 inhibiteur normal",
+        "Toutes les formes héréditaires imposent un déficit quantitatif du C1 inhibiteur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le type I est quantitatif, le type II qualitatif, et une forme héréditaire avec C1 inhibiteur normal est décrite."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’angio-œdème héréditaire avec C1 inhibiteur normal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est souvent observé chez la femme",
+        "Il peut être associé à une mutation du facteur XII",
+        "Il appartient aux formes héréditaires de la classification",
+        "Il correspond à un angio-œdème acquis de type II"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Cette forme est héréditaire, avec C1 inhibiteur normal, souvent observée chez la femme et parfois associée à une mutation du facteur XII."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes acquises d’angio-œdème citées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le type I acquis est associé à des syndromes lymphoprolifératifs",
+        "Le type II acquis est associé à des mécanismes auto-immuns",
+        "Les formes acquises sont distinguées des formes héréditaires dans la classification",
+        "Le type II acquis est défini par une mutation du facteur XII"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’angio-œdème acquis de type I est lié aux syndromes lymphoprolifératifs, tandis que le type II est associé aux mécanismes auto-immuns."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la classification proposée, quelles associations permettent de rattacher correctement une situation à une catégorie d’angio-œdème ?",
+      "choices": [
+        "Déficit quantitatif en C1 inhibiteur : angio-œdème héréditaire de type I",
+        "Déficit qualitatif en C1 inhibiteur : angio-œdème héréditaire de type II",
+        "C1 inhibiteur normal avec mutation possible du facteur XII : angio-œdème héréditaire avec C1 inhibiteur normal",
+        "Durée de crise de 24 à 72 heures : angio-œdème acquis de type I"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premières associations correspondent directement à la classification. La durée de crise ne définit pas une forme acquise spécifique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels énoncés évitent une erreur d’interprétation de la classification de l’angio-œdème ?",
+      "choices": [
+        "Un C1 inhibiteur normal n’exclut pas une forme héréditaire",
+        "L’association aux syndromes lymphoprolifératifs oriente vers une forme acquise de type I",
+        "L’association à des mécanismes auto-immuns oriente vers une forme acquise de type II",
+        "La forme héréditaire de type II est qualitative et non quantitative"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions respectent la classification donnée dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les protéines membranaires régulatrices DAF/CD55 et CD59, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des glycoprotéines membranaires à ancrage GPI",
+        "Elles protègent les cellules contre l’action lytique du complément",
+        "Leur déficit expose les hématies à une lyse anormale par le complément",
+        "Elles correspondent à des formes circulantes du C1 inhibiteur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "DAF/CD55 et CD59 sont des glycoprotéines membranaires à ancrage GPI protectrices contre la lyse complémentaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le déficit en protéines à ancrage GPI, quelles propositions sont exactes ?",
+      "choices": [
+        "Il entraîne une sensibilité anormale des hématies à la lyse par le complément",
+        "Il est responsable d’une hémoglobinurie paroxystique nocturne",
+        "Il concerne des protéines membranaires protectrices contre l’action lytique du complément",
+        "Il provoque directement une libération de bradykinine par déficit qualitatif en C1 inhibiteur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit en protéines à ancrage GPI rend les hématies sensibles à la lyse complémentaire et entraîne une hémoglobinurie paroxystique nocturne."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations manifestation-mécanisme sont conformes au texte ?",
+      "choices": [
+        "Œdème bradykinique : augmentation de la perméabilité vasculaire",
+        "Atteinte laryngée : risque d’asphyxie",
+        "Hémoglobinurie paroxystique nocturne : lyse des hématies par le complément",
+        "Variation pendant la grossesse : déficit en protéines à ancrage GPI"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’œdème est lié à la perméabilité vasculaire induite par la bradykinine, l’atteinte laryngée peut asphyxier, et l’HPN est liée à la lyse complémentaire des hématies."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles sont incompatibles avec les données du texte ?",
+      "choices": [
+        "L’angio-œdème bradykinique est dépendant de l’histamine",
+        "Le déficit du C1 inhibiteur diminue l’activation du système des kinines",
+        "Une forme héréditaire est impossible si le C1 inhibiteur est normal",
+        "CD59 participe à la protection cellulaire contre l’action lytique du complément"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premières propositions contredisent le texte. CD59 est bien une protéine protectrice contre la lyse par le complément."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée habituelle de persistance d’une crise d’angio-œdème bradykinique selon le texte ?",
+      "choices": [
+        "Quelques minutes",
+        "24 à 72 heures",
+        "Une à deux semaines",
+        "Plusieurs mois"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les crises persistent généralement 24 à 72 heures."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle localisation d’angio-œdème est explicitement associée à un risque d’asphyxie ?",
+      "choices": [
+        "Les extrémités",
+        "Le visage",
+        "Le tube digestif",
+        "Le larynx"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’atteinte laryngée peut entraîner une asphyxie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule est directement responsable de l’augmentation de la perméabilité vasculaire dans l’angio-œdème bradykinique ?",
+      "choices": [
+        "La bradykinine",
+        "Le facteur XII",
+        "DAF/CD55",
+        "CD59"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La bradykinine augmente la perméabilité vasculaire et provoque l’œdème."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle forme d’angio-œdème est souvent observée chez la femme et parfois associée à une mutation du facteur XII ?",
+      "choices": [
+        "Angio-œdème héréditaire de type I",
+        "Angio-œdème héréditaire de type II",
+        "Angio-œdème héréditaire avec C1 inhibiteur normal",
+        "Angio-œdème acquis de type I"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’angio-œdème héréditaire avec C1 inhibiteur normal est souvent observé chez la femme et parfois associé à une mutation du facteur XII."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le déficit en protéines à ancrage GPI, quel élément est explicitement rendu anormalement sensible à la lyse par le complément ?",
+      "choices": [
+        "Les hématies",
+        "Le tube digestif",
+        "Le larynx",
+        "Le facteur XII"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le déficit en protéines à ancrage GPI entraîne une sensibilité anormale des hématies à la lyse par le complément."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle entité est la conséquence clinique nommée du déficit en protéines à ancrage GPI ?",
+      "choices": [
+        "Angio-œdème acquis de type II",
+        "Hémoglobinurie paroxystique nocturne",
+        "Angio-œdème héréditaire de type I",
+        "Syndrome lymphoprolifératif"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le déficit en protéines à ancrage GPI est responsable d’une hémoglobinurie paroxystique nocturne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les immunoglobulines capables d’activer la voie classique du complément selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les IgM peuvent activer la voie classique.",
+        "Les IgG1 peuvent activer la voie classique.",
+        "Les IgG2 et IgG3 sont citées parmi les IgG activatrices.",
+        "Les IgA agrégées sont citées comme activateurs principaux de la voie classique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie classique est activée principalement par IgM, IgG1, IgG2 et IgG3. Les IgA agrégées sont citées comme activateurs de la voie alterne."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les activateurs non immunoglobuliniques suivants, lesquels sont cités comme activateurs possibles de la voie classique ?",
+      "choices": [
+        "L’ADN.",
+        "La protéine C réactive.",
+        "La thrombine.",
+        "Le zymosan."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADN, la protéine C réactive et la thrombine sont cités parmi les activateurs possibles de la voie classique. Le zymosan est cité parmi les activateurs de la voie alterne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les événements initiaux impliquant C1q dans la voie classique, quelles propositions sont exactes ?",
+      "choices": [
+        "C1q peut se fixer directement à certaines surfaces pathogènes.",
+        "C1q peut se fixer aux complexes antigène-anticorps.",
+        "La fixation de C1q induit un changement conformationnel activant C1r et C1s.",
+        "C1q clive directement C3 pour former C3a et C3b."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "C1q se fixe à certaines surfaces pathogènes ou aux complexes antigène-anticorps, ce qui active C1r et C1s. Le clivage de C3 survient plus tard par les C3 convertases."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la formation de la C3 convertase classique, quelles propositions sont exactes ?",
+      "choices": [
+        "C1r et C1s activés clivent C4 et C2.",
+        "C4b participe à la formation de la C3 convertase classique.",
+        "C2a participe à la formation de la C3 convertase classique.",
+        "La C3 convertase classique est C3bBb."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans la voie classique, C1r et C1s clivent C4 et C2 ; C4b et C2a forment C4b2a. C3bBb correspond à la C3 convertase alterne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie des lectines, quelles propositions permettent d’éviter une confusion avec la voie classique ?",
+      "choices": [
+        "Elle est déclenchée par la fixation de lectines liant le mannose.",
+        "Les sucres riches en mannose concernés peuvent être présents à la surface de bactéries ou de virus.",
+        "Les protéases associées aux lectines clivent C4 et C2.",
+        "Elle nécessite l’intervention du complexe C1 composé de C1q, C1r et C1s."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie des lectines dépend de lectines liant le mannose et de protéases associées aux lectines qui clivent C4 et C2. Le complexe C1 appartient à la voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la formation de la C3 convertase alterne sur une surface microbienne, quelles propositions sont exactes ?",
+      "choices": [
+        "De faibles quantités de C3 soluble peuvent être spontanément activées en C3b.",
+        "Le C3b peut se fixer aux surfaces cellulaires.",
+        "Sur les surfaces microbiennes, C3b se combine au facteur B.",
+        "Le facteur D clive le facteur B associé au C3b pour former C3bBb."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La voie alterne repose sur une activation spontanée de C3 en C3b, puis sur la fixation de C3b aux surfaces, son association au facteur B et le clivage par le facteur D pour former C3bBb."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont cités comme activateurs de la voie alterne ?",
+      "choices": [
+        "Les polysaccharides microbiens.",
+        "Le zymosan.",
+        "Les IgA agrégées.",
+        "Les IgM isolées comme principal activateur de cette voie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les polysaccharides microbiens, le zymosan et les IgA agrégées sont cités comme activateurs de la voie alterne. Les IgM sont surtout citées pour la voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Après convergence des trois voies au niveau de C3, quelles propositions sont exactes ?",
+      "choices": [
+        "C3 est clivé en C3a et C3b.",
+        "C3a appartient au groupe des anaphylatoxines.",
+        "C3b participe à l’opsonisation.",
+        "C3b participe à la formation des C5 convertases."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les trois voies convergent vers le clivage de C3 en C3a et C3b. C3a est une anaphylatoxine, tandis que C3b intervient dans l’opsonisation et dans les C5 convertases."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les produits du clivage de C5, quelles propositions sont exactes ?",
+      "choices": [
+        "C5 est clivé par une C5 convertase.",
+        "C5a est une anaphylatoxine puissante.",
+        "C5a est un facteur chimiotactique majeur.",
+        "C5b initie l’assemblage du complexe d’attaque membranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La C5 convertase clive C5 en C5a et C5b. C5a est une anaphylatoxine et un facteur chimiotactique majeur ; C5b initie l’assemblage du complexe C5b-9."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les acteurs enzymatiques de la cascade du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "C1r et C1s activés clivent C4 et C2.",
+        "Le facteur D clive le facteur B lorsqu’il est associé au C3b.",
+        "La C5 convertase clive C5 en C5a et C5b.",
+        "Le facteur I dégrade C3b et C4b en présence de cofacteurs."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre propositions décrivent des étapes enzymatiques ou régulatrices explicitement mentionnées dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les régulateurs qui associent dissociation de convertases et/ou cofacteur du facteur I, quelles propositions sont exactes ?",
+      "choices": [
+        "La C4 binding protein dissocie la C3 convertase classique et sert de cofacteur au facteur I.",
+        "CR1 dissocie les C3 convertases et sert de cofacteur au facteur I.",
+        "MCP/CD46 est cité comme cofacteur du facteur I.",
+        "DAF/CD55 est cité comme dissociant les C3 et C5 convertases."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "C4 binding protein, CR1, MCP/CD46 et DAF/CD55 sont des régulateurs du complément avec les fonctions indiquées dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments participent directement à la protection contre la phase lytique terminale du complément selon le texte ?",
+      "choices": [
+        "CD59, en empêchant la polymérisation de C9.",
+        "La vitronectine, en bloquant la fixation membranaire du complexe C5b-7 soluble.",
+        "Les protéines membranaires à ancrage GPI, en protégeant les cellules de l’hôte contre la lyse par le complément.",
+        "La properdine, en dissociant le complexe d’attaque membranaire déjà formé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "CD59, la vitronectine et les protéines à ancrage GPI protègent contre la lyse terminale. La properdine stabilise la C3 convertase alterne, elle ne dissocie pas le complexe d’attaque membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les associations entre déficits du complément et conséquences cliniques, quelles propositions sont exactes ?",
+      "choices": [
+        "Les déficits en C1q, C1r, C1s, C4 ou C2 augmentent le risque de maladies auto-immunes.",
+        "Le déficit en C3 entraîne un défaut majeur d’opsonisation et de phagocytose.",
+        "Les déficits en C5, C6, C7, C8 ou C9 prédisposent aux infections à Neisseria.",
+        "Les déficits en facteur H ou facteur I peuvent favoriser les glomérulopathies et le syndrome hémolytique et urémique atypique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces associations sont toutes conformes au texte : voie classique et auto-immunité, C3 et opsonisation, voie terminale et Neisseria, voie alterne/régulation et atteintes rénales dont SHU atypique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’activation complète du complément et ses conséquences membranaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle aboutit à la formation du complexe d’attaque membranaire.",
+        "Le complexe d’attaque membranaire est responsable de lésions irréversibles de la membrane des cellules cibles.",
+        "La lyse induite est décrite comme une lyse osmotique.",
+        "Le complexe terminal formé est C5b-9."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’activation complète du complément aboutit au complexe d’attaque membranaire C5b-9, responsable de lésions membranaires irréversibles et d’une lyse osmotique."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les immunoglobulines suivantes, laquelle n’est pas citée comme activatrice principale de la voie classique dans le texte ?",
+      "choices": [
+        "IgM.",
+        "IgG1.",
+        "IgG3.",
+        "IgG4."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte cite IgM, IgG1, IgG2 et IgG3. IgG4 n’est pas mentionnée parmi les activateurs principaux de la voie classique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle C3 convertase est générée par la voie des lectines ?",
+      "choices": [
+        "C4b2a.",
+        "C3bBb.",
+        "C4b2a3b.",
+        "C3bBb3b."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La voie des lectines clive C4 et C2 et génère la C3 convertase C4b2a."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel fragment initie l’assemblage du complexe d’attaque membranaire ?",
+      "choices": [
+        "C3a.",
+        "C3b.",
+        "C5a.",
+        "C5b."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "C5b initie l’assemblage du complexe d’attaque membranaire avec C6, C7, C8 et C9."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle protéine dissocie la C3 convertase alterne et régule l’activation du complément sur les cellules de l’hôte ?",
+      "choices": [
+        "Facteur H.",
+        "Properdine.",
+        "C4 binding protein.",
+        "CD59."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le facteur H dissocie la C3 convertase alterne et régule l’activation sur les cellules de l’hôte."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la nomenclature décrite, lequel des éléments suivants est désigné par une lettre plutôt que par la lettre C suivie d’un chiffre ?",
+      "choices": [
+        "C1.",
+        "C2.",
+        "Facteur I.",
+        "C9."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les composants de la voie alterne et les protéines de régulation sont désignés par des lettres, comme le facteur I."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle conséquence est spécifiquement rattachée aux déficits en C1q, C1r, C1s, C4 ou C2 dans le texte ?",
+      "choices": [
+        "Augmentation du risque de maladies auto-immunes par défaut de clairance des complexes immuns et des débris apoptotiques.",
+        "Défaut isolé de polymérisation de C9.",
+        "Activation excessive obligatoire du complexe C5b-9.",
+        "Production accrue de C3b responsable d’une opsonisation excessive."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les déficits précoces de la voie classique sont associés aux maladies auto-immunes, notamment par défaut de clairance des complexes immuns et des débris apoptotiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant des œdèmes récidivants, quels éléments orientent vers un angio-œdème bradykinique tel que décrit ?",
+      "choices": [
+        "La récidive d’œdèmes touchant la peau et les muqueuses",
+        "Une dépendance physiopathologique à l’histamine",
+        "Une persistance habituelle des crises entre 24 et 72 heures",
+        "Une atteinte exclusivement viscérale sans atteinte cutanée ni muqueuse"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "L’angio-œdème bradykinique est défini par des œdèmes récidivants de la peau et des muqueuses, non dépendants de l’histamine, durant généralement 24 à 72 heures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les localisations de l’angio-œdème bradykinique, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les extrémités et le visage font partie des sites surtout touchés",
+        "Le tube digestif peut être atteint",
+        "L’atteinte laryngée expose à un risque d’asphyxie",
+        "Le parenchyme pulmonaire est présenté comme la localisation principale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite surtout les extrémités, le visage et le tube digestif. L’atteinte laryngée est grave car elle peut entraîner une asphyxie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments évolutifs sont compatibles avec l’histoire naturelle des crises d’angio-œdème bradykinique ?",
+      "choices": [
+        "Un début possible à tout âge",
+        "Une accentuation fréquente à l’adolescence",
+        "Une diminution possible de la fréquence et de l’intensité avec l’âge",
+        "Des variations possibles au cours du cycle menstruel et de la grossesse"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que les crises peuvent débuter à tout âge, s’accentuer à l’adolescence, puis diminuer avec l’âge, et varier selon le cycle menstruel et la grossesse."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la physiopathologie de l’angio-œdème bradykinique, quelles étapes sont exactes ?",
+      "choices": [
+        "Un déficit ou un dysfonctionnement du C1 inhibiteur peut être en cause",
+        "Il existe une activation excessive du système des kinines",
+        "La bradykinine augmente la perméabilité vasculaire",
+        "L’histamine est le médiateur final responsable de l’œdème"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit ou dysfonctionnement du C1 inhibiteur active excessivement le système des kinines, avec libération de bradykinine responsable de l’augmentation de la perméabilité vasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes héréditaires liées au C1 inhibiteur, quelles propositions sont exactes ?",
+      "choices": [
+        "Le type I correspond à un déficit quantitatif en C1 inhibiteur",
+        "Le type II correspond à un déficit qualitatif en C1 inhibiteur",
+        "Le type I est décrit comme la forme la plus fréquente",
+        "Le type II est défini par un C1 inhibiteur normal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le type I est un déficit quantitatif en C1 inhibiteur et constitue la forme la plus fréquente. Le type II est un déficit qualitatif. La forme avec C1 inhibiteur normal est une catégorie distincte."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’angio-œdème héréditaire avec C1 inhibiteur normal, quelles propositions sont justes ?",
+      "choices": [
+        "Il est souvent observé chez la femme",
+        "Il peut être associé à une mutation du facteur XII",
+        "Il se distingue des formes héréditaires avec déficit quantitatif ou qualitatif en C1 inhibiteur",
+        "Il correspond à l’angio-œdème acquis associé aux syndromes lymphoprolifératifs"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Cette forme héréditaire est décrite avec un C1 inhibiteur normal, souvent chez la femme, parfois associée à une mutation du facteur XII. Elle ne correspond pas à une forme acquise."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations concernant les angio-œdèmes acquis sont correctes ?",
+      "choices": [
+        "Angio-œdème acquis de type I — syndromes lymphoprolifératifs",
+        "Angio-œdème acquis de type II — mécanismes auto-immuns",
+        "Angio-œdème acquis de type I — forme héréditaire la plus fréquente",
+        "Angio-œdème acquis de type II — variation physiologique de la grossesse"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte associe l’angio-œdème acquis de type I aux syndromes lymphoprolifératifs et le type II aux mécanismes auto-immuns."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant DAF/CD55 et CD59, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des glycoprotéines membranaires à ancrage GPI",
+        "Elles protègent les cellules contre l’action lytique du complément",
+        "Leur déficit expose à une perte de protection vis-à-vis de la lyse complément-dépendante",
+        "Elles sont décrites comme les médiateurs directs de libération de bradykinine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "DAF/CD55 et CD59 sont des glycoprotéines membranaires à ancrage GPI qui protègent les cellules de l’action lytique du complément. Le texte ne les présente pas comme médiateurs de la bradykinine."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le déficit en protéines à ancrage GPI, quelles conséquences sont rapportées ?",
+      "choices": [
+        "Une sensibilité anormale des hématies à la lyse par le complément",
+        "Une implication de l’action lytique du complément sur les globules rouges",
+        "Une hémoglobinurie paroxystique nocturne",
+        "Une asphyxie par œdème laryngé comme conséquence directe du déficit GPI"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit en protéines à ancrage GPI rend les hématies anormalement sensibles à la lyse par le complément, responsable d’une hémoglobinurie paroxystique nocturne."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations mécanisme-entité sont conformes au texte ?",
+      "choices": [
+        "Déficit ou dysfonctionnement du C1 inhibiteur — activation excessive du système des kinines",
+        "Angio-œdème héréditaire avec C1 inhibiteur normal — mutation du facteur XII possible",
+        "Déficit en protéines à ancrage GPI — hémoglobinurie paroxystique nocturne",
+        "CD59 — déficit quantitatif en C1 inhibiteur définissant le type I"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte relie le C1 inhibiteur au système des kinines, la forme héréditaire à C1 inhibiteur normal à une mutation possible du facteur XII, et le déficit GPI à l’HPN."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels regroupements respectent la classification de l’angio-œdème proposée ?",
+      "choices": [
+        "Les formes héréditaires comprennent les types I, II et la forme avec C1 inhibiteur normal",
+        "Les formes acquises comprennent un type I lymphoprolifératif et un type II auto-immun",
+        "L’hémoglobinurie paroxystique nocturne n’est pas classée comme un sous-type d’angio-œdème dans ce texte",
+        "Toute forme observée chez la femme est obligatoirement un angio-œdème acquis"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La classification distingue les formes héréditaires et acquises. L’HPN relève du déficit en protéines à ancrage GPI, non de la classification des angio-œdèmes."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations cliniques suivantes, lesquelles sont correctement rattachées à la classification du texte ?",
+      "choices": [
+        "Angio-œdème acquis associé à un syndrome lymphoprolifératif — type I acquis",
+        "Angio-œdème acquis associé à un mécanisme auto-immun — type II acquis",
+        "Femme avec angio-œdème héréditaire, C1 inhibiteur normal et mutation du facteur XII — forme héréditaire avec C1 inhibiteur normal",
+        "Hémoglobinurie paroxystique nocturne — angio-œdème héréditaire de type II"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premières associations reprennent la classification donnée. L’HPN est rattachée au déficit en protéines à ancrage GPI, pas à l’angio-œdème héréditaire de type II."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels énoncés traduisent correctement la distinction entre angio-œdème bradykinique et déficit en protéines à ancrage GPI ?",
+      "choices": [
+        "L’angio-œdème bradykinique implique la bradykinine et l’augmentation de la perméabilité vasculaire",
+        "Le déficit en protéines à ancrage GPI implique une sensibilité accrue des hématies à la lyse par le complément",
+        "L’hémoglobinurie paroxystique nocturne est la conséquence clinique nommée du déficit GPI",
+        "Le déficit GPI est décrit comme une cause directe d’activation excessive du système des kinines"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue l’angio-œdème bradykinique, médié par la bradykinine, du déficit GPI responsable d’une lyse complément-dépendante des hématies et d’HPN."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels pièges d’interprétation doivent être évités à partir du texte ?",
+      "choices": [
+        "Considérer l’angio-œdème bradykinique comme histamino-dépendant",
+        "Assimiler l’angio-œdème acquis de type I à une forme liée aux syndromes lymphoprolifératifs",
+        "Confondre le déficit en protéines à ancrage GPI avec un déficit quantitatif en C1 inhibiteur",
+        "Attribuer l’augmentation de la perméabilité vasculaire à la bradykinine"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "L’angio-œdème bradykinique est non histamino-dépendant. Le déficit GPI ne correspond pas au déficit quantitatif en C1 inhibiteur. Les propositions 1 et 3 sont conformes au texte et ne sont donc pas des pièges."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association est incohérente avec la classification donnée ?",
+      "choices": [
+        "Angio-œdème héréditaire de type I — déficit quantitatif en C1 inhibiteur",
+        "Angio-œdème héréditaire de type II — C1 inhibiteur normal avec mutation possible du facteur XII",
+        "Angio-œdème acquis de type I — syndromes lymphoprolifératifs",
+        "Angio-œdème acquis de type II — mécanismes auto-immuns"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le type II héréditaire correspond à un déficit qualitatif en C1 inhibiteur. Le C1 inhibiteur normal avec mutation possible du facteur XII définit une autre forme héréditaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Une patiente présente un angio-œdème héréditaire avec C1 inhibiteur normal et mutation du facteur XII. Quelle catégorie correspond le mieux ?",
+      "choices": [
+        "Angio-œdème héréditaire de type I",
+        "Angio-œdème héréditaire de type II",
+        "Angio-œdème héréditaire avec C1 inhibiteur normal",
+        "Angio-œdème acquis de type II"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte décrit une forme héréditaire avec C1 inhibiteur normal, souvent observée chez la femme et parfois associée à une mutation du facteur XII."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’angio-œdème bradykinique, quelle conséquence directe de la bradykinine explique l’apparition de l’œdème ?",
+      "choices": [
+        "Augmentation de la perméabilité vasculaire",
+        "Lyse directe des hématies",
+        "Activation d’un syndrome lymphoprolifératif",
+        "Ancrage membranaire des protéines GPI"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La bradykinine est responsable de l’augmentation de la perméabilité vasculaire, ce qui entraîne l’œdème."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme explique l’hémoglobinurie paroxystique nocturne dans le texte ?",
+      "choices": [
+        "Déficit qualitatif en C1 inhibiteur entraînant un angio-œdème de type II",
+        "Mutation du facteur XII avec C1 inhibiteur normal",
+        "Sensibilité anormale des hématies à la lyse par le complément par déficit en protéines à ancrage GPI",
+        "Activation excessive du système des kinines par un syndrome lymphoprolifératif"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le déficit en protéines à ancrage GPI rend les hématies anormalement sensibles à la lyse par le complément, responsable d’une HPN."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle durée de crise est la plus compatible avec l’évolution habituelle d’un angio-œdème bradykinique ?",
+      "choices": [
+        "Quelques minutes uniquement",
+        "48 heures",
+        "Deux semaines",
+        "Plusieurs mois"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les crises persistent généralement 24 à 72 heures ; une durée de 48 heures est donc compatible."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient ayant un angio-œdème bradykinique, quelle atteinte anatomique est spécifiquement signalée comme pouvant entraîner une asphyxie ?",
+      "choices": [
+        "Atteinte des extrémités",
+        "Atteinte du visage",
+        "Atteinte digestive",
+        "Atteinte laryngée"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’atteinte laryngée est la localisation grave mentionnée, car elle peut entraîner une asphyxie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les relations entre fragments du complément et effets biologiques, quelles propositions sont exactes ?",
+      "choices": [
+        "C3b participe à l’opsonisation.",
+        "iC3b favorise la phagocytose par des cellules porteuses de récepteurs du complément.",
+        "C5a associe une activité d’anaphylatoxine et un pouvoir chimiotactique majeur.",
+        "C5b est décrit comme l’anaphylatoxine la plus puissante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "C3b et iC3b sont opsonisants. C5a est une anaphylatoxine puissante et le principal facteur chimiotactique cité. C5b initie le complexe d’attaque membranaire, il n’est pas présenté comme anaphylatoxine."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les activateurs non immunoglobuliniques de la voie classique cités, lesquels appartiennent aux systèmes enzymatiques de la coagulation ou de la fibrinolyse ?",
+      "choices": [
+        "Le facteur XII.",
+        "La thrombine.",
+        "La plasmine.",
+        "La properdine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le facteur XII, la thrombine et la plasmine sont cités comme activateurs possibles de la voie classique. La properdine stabilise la C3 convertase alterne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie des lectines, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle débute par la fixation de lectines liant le mannose.",
+        "Elle reconnaît des sucres riches en mannose à la surface de bactéries ou de virus.",
+        "Les protéases associées aux lectines clivent C4 et C2.",
+        "Elle génère une C3 convertase différente de celle de la voie classique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie des lectines repose sur des lectines liant le mannose, reconnaissant des sucres riches en mannose, puis sur le clivage de C4 et C2. Elle génère la même C3 convertase que la voie classique : C4b2a."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la mise en place de la C3 convertase alterne sur une surface microbienne, quelles propositions sont exactes ?",
+      "choices": [
+        "De faibles quantités de C3 soluble peuvent être spontanément activées en C3b.",
+        "Le C3b fixé à une surface microbienne peut se combiner au facteur B.",
+        "Le facteur D clive le facteur B associé au C3b.",
+        "La richesse en acide sialique des surfaces microbiennes est présentée comme favorisant cette activation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie alterne commence par une activation spontanée de C3 en C3b. Sur les surfaces microbiennes pauvres en acide sialique, C3b se lie au facteur B, clivé par le facteur D pour former C3bBb."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les C5 convertases, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ajout de C3b à C4b2a permet de former C4b2a3b.",
+        "C4b2a3b correspond à la C5 convertase de la voie classique et de la voie des lectines.",
+        "C3bBb3b correspond à la C5 convertase de la voie alterne.",
+        "C4b2a est directement la C5 convertase de la voie classique sans participation de C3b."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "C4b2a est la C3 convertase classique/lectines. L’association avec C3b donne C4b2a3b, C5 convertase. Pour la voie alterne, la C5 convertase est C3bBb3b."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes de protection des cellules de l’hôte contre la lyse par le complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Les protéines membranaires à ancrage GPI protègent les cellules de l’hôte contre la lyse par le complément.",
+        "CD59 empêche la polymérisation de C9.",
+        "La vitronectine bloque la fixation membranaire du complexe C5b-7 soluble.",
+        "La properdine protège les cellules de l’hôte en inhibant le complexe d’attaque membranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les protéines à ancrage GPI, CD59 et la vitronectine participent à la protection contre la phase terminale. La properdine stabilise la C3 convertase alterne et n’est pas décrite comme inhibiteur du complexe d’attaque membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le facteur I dans la régulation du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Il dégrade C3b.",
+        "Il dégrade C4b.",
+        "Son action nécessite la présence de cofacteurs.",
+        "Il est responsable de l’inactivation des anaphylatoxines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le facteur I dégrade C3b et C4b en présence de cofacteurs. L’inactivation des anaphylatoxines est attribuée aux protéases sériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anaphylatoxines du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "C3a est une anaphylatoxine.",
+        "C4a est une anaphylatoxine.",
+        "C5a est une anaphylatoxine puissante.",
+        "C4b est cité comme anaphylatoxine majeure."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anaphylatoxines citées sont C3a, C4a et C5a. C4b est impliqué dans les convertases et l’opsonisation, mais n’est pas cité comme anaphylatoxine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déficits de la voie terminale du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent concerner C5, C6, C7, C8 ou C9.",
+        "Ils entraînent un défaut de formation du complexe d’attaque membranaire.",
+        "Ils prédisposent aux infections à Neisseria.",
+        "Ils entraînent principalement une accumulation de C4b2a."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits en C5 à C9 perturbent la formation du complexe d’attaque membranaire et prédisposent aux infections à Neisseria. Le texte ne rattache pas ces déficits à une accumulation de C4b2a."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déficits de la voie alterne, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent concerner le facteur B ou le facteur D.",
+        "Ils peuvent concerner la properdine, le facteur H ou le facteur I.",
+        "Ils peuvent favoriser les glomérulopathies et le syndrome hémolytique et urémique atypique.",
+        "Ils sont définis par un déficit en C1q, C1r ou C1s."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits de la voie alterne cités concernent facteur B, facteur D, properdine, facteur H ou facteur I. Ils peuvent favoriser infections récurrentes, glomérulopathies et SHU atypique. C1q, C1r et C1s relèvent de la voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le spectre d’inhibition du C1 inhibiteur, quelles propositions sont exactes ?",
+      "choices": [
+        "Il inhibe C1r et C1s.",
+        "Il inhibe les protéases associées à la voie des lectines.",
+        "Il inhibe la kallikréine ainsi que les facteurs XI et XII.",
+        "Il inhibe le facteur H."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le C1 inhibiteur inhibe C1r, C1s, les protéases associées aux lectines, la kallikréine, les facteurs XI et XII, et partiellement la plasmine. Le facteur H n’est pas cité comme cible du C1 inhibiteur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la nomenclature des protéines du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Les composants de la voie classique sont désignés par la lettre C suivie d’un chiffre.",
+        "Les composants de la voie alterne peuvent être désignés par des lettres, comme le facteur B.",
+        "Les protéines de régulation peuvent être désignées par des lettres, comme le facteur H.",
+        "La properdine est désignée comme un composant C suivi d’un chiffre."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie classique utilise la nomenclature C suivie d’un chiffre. Les composants de la voie alterne et plusieurs régulateurs sont désignés par des lettres. La properdine est nommée comme telle, non comme C suivi d’un chiffre."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les fonctions attribuées au système du complément, lesquelles sont explicitement citées ?",
+      "choices": [
+        "La neutralisation de certains virus.",
+        "La clairance des complexes immuns.",
+        "La modulation de la réponse immunitaire.",
+        "La synthèse des immunoglobulines spécifiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la neutralisation de certains virus, la clairance des complexes immuns et la modulation de la réponse immunitaire. Il ne mentionne pas une fonction de synthèse des immunoglobulines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’opsonisation dépendante du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "C3b possède une activité opsonisante.",
+        "C4b possède une activité opsonisante.",
+        "C1q possède une activité opsonisante.",
+        "C3a est cité comme fragment opsonisant favorisant directement la phagocytose."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les fragments ou molécules opsonisants cités sont C3b, C4b, C1q et iC3b. C3a est une anaphylatoxine, non un opsonisant cité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement la formation de la C3 convertase alterne C3bBb ?",
+      "choices": [
+        "C3b fixé à une surface microbienne se combine au facteur B, ensuite clivé par le facteur D.",
+        "C1q se fixe aux complexes immuns puis clive directement C3 en C3a et C3b.",
+        "Les lectines liant le mannose clivent directement C5 en C5a et C5b.",
+        "C5b s’associe à C6, C7, C8 et C9 pour former C3bBb."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La C3 convertase alterne est formée lorsque C3b fixé à une surface microbienne se combine au facteur B, clivé par le facteur D, donnant C3bBb."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel événement transforme la C3 convertase C4b2a en C5 convertase C4b2a3b ?",
+      "choices": [
+        "L’association d’un fragment C3b.",
+        "La polymérisation de C9.",
+        "La fixation de la vitronectine.",
+        "Le clivage du facteur B par le facteur D."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La C5 convertase de la voie classique et de la voie des lectines est C4b2a3b : elle correspond à C4b2a associée à C3b."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel régulateur est présenté comme cofacteur du facteur I sans rôle de dissociation des convertases indiqué dans le texte ?",
+      "choices": [
+        "MCP/CD46.",
+        "DAF/CD55.",
+        "Properdine.",
+        "Vitronectine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "MCP/CD46 est cité comme cofacteur du facteur I. DAF/CD55 dissocie les C3 et C5 convertases, la properdine stabilise la C3 convertase alterne et la vitronectine bloque C5b-7 soluble."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel déficit est explicitement responsable d’un angio-œdème héréditaire dans le texte ?",
+      "choices": [
+        "Déficit en C1 inhibiteur.",
+        "Déficit en facteur B.",
+        "Déficit en C9.",
+        "Déficit en properdine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que le déficit en C1 inhibiteur entraîne un angio-œdème héréditaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la cible fonctionnelle de CD59 dans la régulation terminale du complément ?",
+      "choices": [
+        "La polymérisation de C9.",
+        "Le clivage de C4 par C1s.",
+        "La fixation de C1q aux complexes immuns.",
+        "Le clivage du facteur B par le facteur D."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "CD59 inhibe la formation du complexe d’attaque membranaire en empêchant la polymérisation de C9."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à l’assemblage du complexe d’attaque membranaire ?",
+      "choices": [
+        "C5b s’associe à C6, C7, C8 et C9 pour former C5b-9.",
+        "C3b s’associe à C4a et C5a pour former C5b-9.",
+        "C1q, C1r et C1s polymérisent C9 pour former C5b-9.",
+        "Le facteur B, le facteur D et la properdine forment directement C5b-9."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Après clivage de C5, C5b initie l’assemblage du complexe d’attaque membranaire avec C6, C7, C8 et C9, formant C5b-9."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant des tuméfactions récidivantes, quels éléments sont en faveur d’un mécanisme bradykinique selon le texte ?",
+      "choices": [
+        "Le caractère récidivant des œdèmes cutanés ou muqueux",
+        "L’indépendance vis-à-vis de l’histamine",
+        "Une physiopathologie principalement histamino-dépendante",
+        "La possibilité d’une atteinte du tube digestif"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’angio-œdème bradykinique donne des œdèmes récidivants de la peau et des muqueuses, non dépendants de l’histamine, et peut toucher le tube digestif."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles atteintes anatomiques sont compatibles avec l’expression clinique de l’angio-œdème bradykinique décrite ?",
+      "choices": [
+        "Atteinte des extrémités",
+        "Atteinte digestive",
+        "Atteinte laryngée",
+        "Atteinte pleurale spécifiquement citée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite surtout les extrémités, le visage, le tube digestif et précise que l’atteinte laryngée peut entraîner une asphyxie. L’atteinte pleurale n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la chronologie des crises d’angio-œdème bradykinique, quelles propositions sont justes ?",
+      "choices": [
+        "Les crises peuvent débuter à tout âge",
+        "Elles s’accentuent souvent à l’adolescence",
+        "Elles peuvent diminuer en fréquence et en intensité avec l’âge",
+        "Elles débutent nécessairement dans la petite enfance"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique un début possible à tout âge, une accentuation fréquente à l’adolescence, puis une diminution possible avec l’âge."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’influence hormonale sur l’angio-œdème bradykinique, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les crises peuvent varier au cours du cycle menstruel",
+        "Les variations hormonales n’ont aucun effet sur les crises",
+        "Les crises peuvent varier pendant la grossesse",
+        "La grossesse exclut le diagnostic d’angio-œdème bradykinique"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte précise que les crises peuvent varier au cours du cycle menstruel et de la grossesse."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la chaîne physiopathologique de l’angio-œdème bradykinique, quelles étapes sont exactes ?",
+      "choices": [
+        "Un déficit ou un dysfonctionnement du C1 inhibiteur peut être impliqué",
+        "Il existe une activation excessive du système des kinines",
+        "La bradykinine augmente la perméabilité vasculaire",
+        "L’excès de C1 inhibiteur provoque directement la libération de bradykinine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit ou dysfonctionnement du C1 inhibiteur active excessivement le système des kinines, libérant la bradykinine, responsable de l’augmentation de la perméabilité vasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes héréditaires liées au C1 inhibiteur, quelles propositions sont exactes ?",
+      "choices": [
+        "Le type I correspond à un déficit quantitatif en C1 inhibiteur",
+        "Le type II correspond à un déficit qualitatif en C1 inhibiteur",
+        "Le type I correspond à un déficit qualitatif isolé en C1 inhibiteur",
+        "Le déficit ou le dysfonctionnement du C1 inhibiteur peut aboutir à une libération de bradykinine"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le type I est quantitatif, le type II qualitatif. Le déficit ou dysfonctionnement du C1 inhibiteur entraîne une activation du système des kinines avec libération de bradykinine."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour l’angio-œdème héréditaire avec C1 inhibiteur normal, quelles propositions sont correctes ?",
+      "choices": [
+        "Il appartient à la classification des angio-œdèmes héréditaires",
+        "Il est souvent observé chez la femme",
+        "Il est toujours associé à un syndrome lymphoprolifératif",
+        "Il peut être associé à une mutation du facteur XII"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Cette forme est héréditaire, avec C1 inhibiteur normal, souvent observée chez la femme et parfois associée à une mutation du facteur XII."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les angio-œdèmes acquis dans la classification fournie, quelles propositions sont exactes ?",
+      "choices": [
+        "L’angio-œdème acquis de type I est associé à des syndromes lymphoprolifératifs",
+        "L’angio-œdème acquis de type II est associé à des mécanismes auto-immuns",
+        "Ils sont distingués des formes héréditaires dans la classification",
+        "L’angio-œdème acquis de type I est défini par une mutation du facteur XII"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le type acquis I est associé aux syndromes lymphoprolifératifs, le type acquis II aux mécanismes auto-immuns. La mutation du facteur XII est citée pour certaines formes héréditaires avec C1 inhibiteur normal."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des protéines DAF/CD55 et CD59, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des glycoprotéines membranaires",
+        "Elles possèdent un ancrage GPI",
+        "Elles protègent les cellules contre l’action lytique du complément",
+        "Ce sont des protéines plasmatiques dépourvues d’ancrage membranaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "DAF/CD55 et CD59 sont décrites comme des glycoprotéines membranaires à ancrage GPI protégeant les cellules contre l’action lytique du complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le déficit en protéines à ancrage GPI, quelles conséquences sont rapportées ?",
+      "choices": [
+        "Une sensibilité anormale des hématies à la lyse par le complément",
+        "Une hémoglobinurie paroxystique nocturne",
+        "Un angio-œdème bradykinique par déficit obligatoire en facteur XII",
+        "Une perte de protection cellulaire contre l’action lytique du complément"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le déficit en protéines à ancrage GPI rend les hématies anormalement sensibles à la lyse par le complément, responsable d’une hémoglobinurie paroxystique nocturne."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre forme d’angio-œdème et mécanisme ou contexte sont conformes au texte ?",
+      "choices": [
+        "Angio-œdème héréditaire de type I — déficit quantitatif en C1 inhibiteur",
+        "Angio-œdème acquis de type II — mutation du facteur XII",
+        "Angio-œdème acquis de type I — syndrome lymphoprolifératif",
+        "Angio-œdème héréditaire avec C1 inhibiteur normal — possible mutation du facteur XII"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le type I héréditaire est quantitatif, l’acquis I est lié aux syndromes lymphoprolifératifs, et la mutation du facteur XII est citée dans certaines formes héréditaires avec C1 inhibiteur normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels énoncés permettent d’éviter une confusion entre angio-œdème bradykinique et déficit en protéines à ancrage GPI ?",
+      "choices": [
+        "Un C1 inhibiteur normal n’exclut pas toute forme héréditaire d’angio-œdème",
+        "Le déficit ou dysfonctionnement du C1 inhibiteur concerne le système des kinines dans l’angio-œdème bradykinique",
+        "L’hémoglobinurie paroxystique nocturne relève d’une sensibilité des hématies à la lyse par le complément",
+        "Tout déficit en protéines à ancrage GPI définit un angio-œdème héréditaire de type II"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue l’angio-œdème bradykinique, lié aux kinines, du déficit en protéines à ancrage GPI, responsable d’une lyse complément-dépendante des hématies."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels tableaux sont compatibles avec les données cliniques du texte ?",
+      "choices": [
+        "Œdèmes récidivants du visage et des extrémités durant environ 48 heures",
+        "Crises récidivantes avec atteinte digestive durant 24 à 72 heures",
+        "Atteinte laryngée au cours d’un angio-œdème avec risque d’asphyxie",
+        "Hémoglobinurie paroxystique nocturne considérée comme une localisation cutanéo-muqueuse d’angio-œdème"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises durent généralement 24 à 72 heures et peuvent toucher les extrémités, le visage, le tube digestif et le larynx. L’hémoglobinurie paroxystique nocturne est liée au déficit en protéines à ancrage GPI."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les associations molécule-rôle ou molécule-contexte, quelles propositions sont exactes ?",
+      "choices": [
+        "C1 inhibiteur — son déficit ou dysfonctionnement favorise l’activation excessive du système des kinines",
+        "CD59 — participe à la protection contre l’action lytique du complément",
+        "Bradykinine — diminue la perméabilité vasculaire et prévient l’œdème",
+        "Facteur XII — mutation parfois associée à l’angio-œdème héréditaire avec C1 inhibiteur normal"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La bradykinine augmente, et non diminue, la perméabilité vasculaire. Les autres associations sont conformes au texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé est incompatible avec la définition de l’angio-œdème bradykinique donnée dans le texte ?",
+      "choices": [
+        "Œdèmes récidivants de la peau et des muqueuses",
+        "Atteinte possible du tube digestif",
+        "Mécanisme non dépendant de l’histamine",
+        "Œdème principalement dépendant de l’histamine"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’angio-œdème bradykinique est explicitement défini comme non dépendant de l’histamine."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient présente une forme héréditaire d’angio-œdème avec déficit qualitatif en C1 inhibiteur. Quelle catégorie correspond à cette situation ?",
+      "choices": [
+        "Angio-œdème héréditaire de type I",
+        "Angio-œdème héréditaire de type II",
+        "Angio-œdème acquis de type I",
+        "Angio-œdème acquis de type II"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le type II héréditaire correspond au déficit qualitatif en C1 inhibiteur."
+    },
+    {
+      "type": "QCS",
+      "question": "Un angio-œdème acquis associé à un syndrome lymphoprolifératif doit être classé comme :",
+      "choices": [
+        "Angio-œdème héréditaire avec C1 inhibiteur normal",
+        "Angio-œdème héréditaire de type II",
+        "Angio-œdème acquis de type I",
+        "Angio-œdème acquis de type II"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’angio-œdème acquis de type I est associé à des syndromes lymphoprolifératifs."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition identifie correctement les glycoprotéines membranaires à ancrage GPI citées dans le texte ?",
+      "choices": [
+        "DAF/CD55 et CD59",
+        "C1 inhibiteur et facteur XII",
+        "Bradykinine et histamine",
+        "Kinines et immunoglobulines"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les protéines DAF/CD55 et CD59 sont les glycoprotéines membranaires à ancrage GPI citées."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’angio-œdème bradykinique lié au C1 inhibiteur, quel événement physiopathologique est directement situé en amont de la libération de bradykinine ?",
+      "choices": [
+        "Activation lytique terminale du complément sur les hématies",
+        "Mutation obligatoire du facteur XII",
+        "Activation excessive du système des kinines",
+        "Stimulation histaminique des mastocytes"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le déficit ou dysfonctionnement du C1 inhibiteur entraîne une activation excessive du système des kinines avec libération de bradykinine."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le déficit en protéines à ancrage GPI, quelle anomalie explique l’hémoglobinurie paroxystique nocturne selon le texte ?",
+      "choices": [
+        "Hyperperméabilité vasculaire induite par la bradykinine",
+        "Sensibilité anormale des hématies à la lyse par le complément",
+        "Déficit quantitatif en C1 inhibiteur",
+        "Dysfonctionnement qualitatif du C1 inhibiteur"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le déficit en protéines à ancrage GPI rend les hématies anormalement sensibles à la lyse par le complément, ce qui est responsable de l’hémoglobinurie paroxystique nocturne."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les fonctions suivantes, lesquelles sont explicitement attribuées au système du complément indépendamment de la seule lyse membranaire ?",
+      "choices": [
+        "Neutralisation de certains virus",
+        "Clairance des complexes immuns",
+        "Modulation de la réponse immunitaire",
+        "Synthèse spécifique des immunoglobulines E"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la neutralisation de certains virus, la clairance des complexes immuns et la modulation de la réponse immunitaire parmi les fonctions du complément. La synthèse des IgE n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anaphylatoxines et le chimiotactisme liés au complément, quelles propositions sont exactes ?",
+      "choices": [
+        "C3a, C4a et C5a sont des anaphylatoxines",
+        "C5a est le plus puissant chimioattractant cité",
+        "C3b est classé parmi les anaphylatoxines",
+        "C1q est présenté comme le facteur chimiotactique majeur"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "C3a, C4a et C5a sont des anaphylatoxines, et C5a est le plus puissant chimioattractant. C3b et C1q sont cités pour leur activité opsonisante, non comme anaphylatoxines."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’opsonisation dépendante du complément, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "C3b, C4b, C1q et iC3b ont une activité opsonisante",
+        "L’opsonisation favorise la phagocytose par des cellules porteuses de récepteurs du complément",
+        "C3a est cité comme opsonine majeure",
+        "L’opsonisation par le complément diminue la phagocytose"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les opsonines citées sont C3b, C4b, C1q et iC3b. Elles favorisent la phagocytose via les récepteurs du complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la nomenclature des composants du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Les composants de la voie classique sont désignés par la lettre C suivie d’un chiffre",
+        "Le facteur B et le facteur D illustrent la nomenclature par lettres de la voie alterne",
+        "Le facteur H illustre une protéine de régulation désignée par une lettre",
+        "Le C1 inhibiteur est nommé dans le texte facteur C1I"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie classique utilise la nomenclature C suivie d’un chiffre. La voie alterne et certaines protéines régulatrices utilisent des désignations par lettres, comme les facteurs B, D ou H. Le terme facteur C1I n’est pas utilisé."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont cités comme activateurs non immunoglobuliniques possibles de la voie classique ?",
+      "choices": [
+        "ADN",
+        "Lipide A des lipopolysaccharides des bactéries à Gram négatif",
+        "Protéine C réactive",
+        "Zymosan"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADN, le lipide A des LPS des bactéries à Gram négatif et la protéine C réactive sont cités comme activateurs possibles de la voie classique. Le zymosan est cité parmi les activateurs de la voie alterne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les immunoglobulines impliquées dans l’activation du complément, quelles associations sont exactes ?",
+      "choices": [
+        "IgM : activation principale de la voie classique lorsqu’elle est agrégée ou impliquée dans des complexes immuns",
+        "IgG1, IgG2 et IgG3 : activation principale de la voie classique",
+        "IgA agrégées : activateurs cités de la voie alterne",
+        "IgE agrégées ou engagées dans des complexes immuns : activateurs cités de la voie alterne"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue les IgM et IgG1/IgG2/IgG3 comme activateurs principaux de la voie classique, tandis que les IgA agrégées et les IgE agrégées ou en complexes immuns sont citées pour la voie alterne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le complexe C1 dans la voie classique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est composé de C1q, C1r et C1s",
+        "C1q peut se fixer directement à certaines surfaces pathogènes",
+        "La fixation de C1q induit un changement conformationnel activant C1r et C1s",
+        "C1q clive directement C3 pour former C3a et C3b"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complexe C1 comprend C1q, C1r et C1s. C1q se fixe à certaines surfaces pathogènes ou aux complexes antigène-anticorps, ce qui active C1r et C1s. Le clivage de C3 survient plus loin dans la cascade."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie des lectines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est activée par la fixation de lectines liant le mannose",
+        "Les sucres reconnus sont riches en mannose à la surface de bactéries ou de virus",
+        "Les protéases associées aux lectines clivent C4 et C2",
+        "Elle nécessite obligatoirement des complexes antigène-anticorps"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie des lectines dépend de lectines liant le mannose à des sucres riches en mannose présents sur bactéries ou virus. Les protéases associées clivent C4 et C2. Elle ne nécessite pas d’anticorps."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la constitution de la C3 convertase alterne sur les surfaces microbiennes, quelles propositions sont exactes ?",
+      "choices": [
+        "De faibles quantités de C3 soluble peuvent être spontanément activées en C3b",
+        "Le C3b peut se fixer aux surfaces cellulaires",
+        "Le facteur B associé au C3b est clivé par le facteur D",
+        "La properdine stabilise la C3 convertase C3bBb"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La voie alterne repose sur l’activation spontanée de C3 en C3b, la fixation du C3b aux surfaces, l’association au facteur B puis son clivage par le facteur D, avec stabilisation de C3bBb par la properdine."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont cités comme activateurs de la voie alterne ?",
+      "choices": [
+        "Polysaccharides microbiens",
+        "Zymosan",
+        "IgE agrégées ou engagées dans des complexes immuns",
+        "IgG2 engagées dans des complexes immuns"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les polysaccharides microbiens, le zymosan et les IgE agrégées ou engagées dans des complexes immuns sont cités comme activateurs de la voie alterne. IgG2 est citée parmi les activateurs principaux de la voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les C5 convertases et les produits du clivage de C5, quelles propositions sont exactes ?",
+      "choices": [
+        "C4b2a3b est la C5 convertase de la voie classique et de la voie des lectines",
+        "C3bBb3b est la C5 convertase de la voie alterne",
+        "C5a est une anaphylatoxine puissante et un facteur chimiotactique majeur",
+        "C5b est l’opsonine principale responsable de la phagocytose"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les C5 convertases sont C4b2a3b pour les voies classique et des lectines, et C3bBb3b pour la voie alterne. C5a est une anaphylatoxine puissante et un facteur chimiotactique majeur. C5b initie le complexe d’attaque membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation de la phase terminale du complément et la protection des cellules de l’hôte, quelles propositions sont exactes ?",
+      "choices": [
+        "La vitronectine bloque la fixation membranaire du complexe C5b-7 soluble",
+        "CD59 empêche la polymérisation de C9",
+        "Les protéines membranaires à ancrage GPI protègent les cellules de l’hôte contre la lyse par le complément",
+        "Les protéases sériques stabilisent les anaphylatoxines"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitronectine bloque la fixation membranaire de C5b-7 soluble, CD59 empêche la polymérisation de C9, et les protéines à ancrage GPI protègent les cellules de l’hôte. Les protéases sériques inactivent les anaphylatoxines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le déficit en C3, quelles propositions sont exactes ?",
+      "choices": [
+        "Il entraîne un défaut majeur d’opsonisation",
+        "Il entraîne un défaut majeur de phagocytose",
+        "Il est responsable d’infections bactériennes récurrentes sévères",
+        "Il correspond au déficit responsable de l’angio-œdème héréditaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit en C3 provoque un défaut majeur d’opsonisation et de phagocytose, responsable d’infections bactériennes récurrentes sévères. L’angio-œdème héréditaire est lié au déficit en C1 inhibiteur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déficits de la voie alterne, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent concerner le facteur B, le facteur D, la properdine, le facteur H ou le facteur I",
+        "Ils perturbent l’activation et la régulation de la voie alterne",
+        "Ils peuvent favoriser des infections récurrentes, des glomérulopathies et un syndrome hémolytique et urémique atypique",
+        "Ils définissent spécifiquement l’angio-œdème héréditaire par déficit en C1 inhibiteur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les déficits de la voie alterne concernent notamment les facteurs B, D, H, I et la properdine. Ils perturbent activation/régulation et peuvent favoriser infections, glomérulopathies et SHU atypique. L’angio-œdème héréditaire relève du déficit en C1 inhibiteur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle protéine bloque la fixation membranaire du complexe C5b-7 soluble ?",
+      "choices": [
+        "Vitronectine",
+        "Properdine",
+        "Facteur D",
+        "C4 binding protein"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La vitronectine bloque la fixation membranaire du complexe C5b-7 soluble."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle protéine dégrade C3b et C4b en présence de cofacteurs ?",
+      "choices": [
+        "Facteur I",
+        "Facteur B",
+        "C1q",
+        "C5b"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le facteur I dégrade C3b et C4b en présence de cofacteurs."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel déficit du complément entraîne un défaut majeur d’opsonisation et de phagocytose responsable d’infections bactériennes récurrentes sévères ?",
+      "choices": [
+        "Déficit en C3",
+        "Déficit en C9",
+        "Déficit en C1 inhibiteur",
+        "Déficit en CD59"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte attribue spécifiquement au déficit en C3 un défaut majeur d’opsonisation et de phagocytose avec infections bactériennes récurrentes sévères."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le complexe C1, quel composant assure la fixation aux complexes antigène-anticorps ou à certaines surfaces pathogènes ?",
+      "choices": [
+        "C1q",
+        "C1r",
+        "C1s",
+        "C2a"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "C1q se fixe aux complexes antigène-anticorps ou directement à certaines surfaces pathogènes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément cité est un activateur possible de la voie classique correspondant à une fraction des lipopolysaccharides des bactéries à Gram négatif ?",
+      "choices": [
+        "Lipide A",
+        "Zymosan",
+        "Properdine",
+        "iC3b"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le lipide A des lipopolysaccharides des bactéries à Gram négatif est cité comme activateur possible de la voie classique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel groupe de déficits entraîne un défaut de formation du complexe d’attaque membranaire ?",
+      "choices": [
+        "Déficits en C5, C6, C7, C8 ou C9",
+        "Déficits en C1q, C1r, C1s, C4 ou C2",
+        "Déficits isolés en C3",
+        "Déficit en C1 inhibiteur"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les déficits de la voie terminale, portant sur C5 à C9, entraînent un défaut de formation du complexe d’attaque membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la définition de l’angio-œdème bradykinique donnée par le texte, quels éléments sont corrects ?",
+      "choices": [
+        "Il s’agit d’œdèmes récidivants.",
+        "Il concerne la peau et les muqueuses.",
+        "Il est dépendant de l’histamine.",
+        "Il est lié à une augmentation de la perméabilité vasculaire induite par la bradykinine."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’angio-œdème bradykinique est récidivant, cutanéo-muqueux, non histaminique, et la bradykinine augmente la perméabilité vasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution au cours de la vie des crises d’angio-œdème bradykinique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les crises peuvent débuter à tout âge.",
+        "Elles s’accentuent souvent à l’adolescence.",
+        "Elles peuvent diminuer avec l’âge en fréquence et en intensité.",
+        "Elles disparaissent systématiquement après l’adolescence."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise un début possible à tout âge, une accentuation fréquente à l’adolescence, puis une diminution possible avec l’âge, sans disparition systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments de variabilité des crises d’angio-œdème bradykinique sont explicitement mentionnés ?",
+      "choices": [
+        "Variation au cours du cycle menstruel.",
+        "Variation au cours de la grossesse.",
+        "Variation possible de la fréquence avec l’âge.",
+        "Variation obligatoire selon le sexe masculin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises peuvent varier avec le cycle menstruel, la grossesse et l’âge. Aucune variation obligatoire liée au sexe masculin n’est mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’angio-œdème bradykinique, quelles localisations ou conséquences sont conformes au texte ?",
+      "choices": [
+        "Atteinte des extrémités.",
+        "Atteinte du visage.",
+        "Atteinte du tube digestif.",
+        "Atteinte laryngée exposant à l’asphyxie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les extrémités, le visage, le tube digestif et précise que l’atteinte laryngée peut entraîner une asphyxie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la physiopathologie décrite, quels événements appartiennent à la chaîne causale de l’angio-œdème bradykinique ?",
+      "choices": [
+        "Déficit ou dysfonctionnement du C1 inhibiteur.",
+        "Activation excessive du système des kinines.",
+        "Libération de bradykinine.",
+        "Diminution de la perméabilité vasculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit ou dysfonctionnement du C1 inhibiteur active excessivement le système des kinines, avec libération de bradykinine, qui augmente la perméabilité vasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes héréditaires avec anomalie du C1 inhibiteur, quelles propositions sont exactes ?",
+      "choices": [
+        "Le type I correspond à un déficit quantitatif en C1 inhibiteur.",
+        "Le type I est la forme la plus fréquente.",
+        "Le type II correspond à un déficit qualitatif en C1 inhibiteur.",
+        "Le type II est défini par un C1 inhibiteur normal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le type I est un déficit quantitatif et la forme la plus fréquente ; le type II est un déficit qualitatif. Le C1 inhibiteur normal définit une autre forme héréditaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’angio-œdème héréditaire avec C1 inhibiteur normal, quelles affirmations sont justes ?",
+      "choices": [
+        "Il peut être observé chez la femme.",
+        "Il est parfois associé à une mutation du facteur XII.",
+        "Il correspond au déficit quantitatif en C1 inhibiteur.",
+        "Il appartient aux formes héréditaires de l’angio-œdème."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Cette forme héréditaire a un C1 inhibiteur normal, est souvent observée chez la femme et peut être associée à une mutation du facteur XII."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les angio-œdèmes acquis dans la classification fournie, quelles associations sont exactes ?",
+      "choices": [
+        "Le type I acquis est associé à des syndromes lymphoprolifératifs.",
+        "Le type II acquis est associé à des mécanismes auto-immuns.",
+        "Les formes acquises sont distinguées des formes héréditaires.",
+        "Le type I acquis est défini par une mutation du facteur XII."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les formes acquises sont classées en type I associé aux syndromes lymphoprolifératifs et type II associé aux mécanismes auto-immuns."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles correspondances entre classification et anomalie sont correctes ?",
+      "choices": [
+        "Angio-œdème héréditaire type I : déficit quantitatif en C1 inhibiteur.",
+        "Angio-œdème héréditaire type II : déficit qualitatif en C1 inhibiteur.",
+        "Angio-œdème héréditaire avec C1 inhibiteur normal : parfois mutation du facteur XII.",
+        "Angio-œdème acquis type II : syndrome lymphoprolifératif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome lymphoprolifératif concerne l’angio-œdème acquis de type I, tandis que le type II acquis est associé à l’auto-immunité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant DAF/CD55 et CD59, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Ce sont des glycoprotéines membranaires.",
+        "Elles possèdent un ancrage GPI.",
+        "Elles protègent les cellules contre l’action lytique du complément.",
+        "Leur déficit augmente directement la libération de bradykinine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "DAF/CD55 et CD59 sont des glycoprotéines membranaires à ancrage GPI protégeant contre la lyse par le complément. Le texte ne les relie pas à la libération de bradykinine."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le déficit en protéines à ancrage GPI, quelles conséquences sont rapportées ?",
+      "choices": [
+        "Sensibilité anormale des hématies à la lyse par le complément.",
+        "Hémoglobinurie paroxystique nocturne.",
+        "Défaut de protection cellulaire contre l’action lytique du complément.",
+        "Œdèmes récidivants par libération de bradykinine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le déficit en protéines à ancrage GPI rend les hématies sensibles à la lyse par le complément et entraîne une hémoglobinurie paroxystique nocturne."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une symptomatologie faite de crises œdémateuses durant 24 à 72 heures, quelles données soutiennent le diagnostic d’angio-œdème bradykinique selon le texte ?",
+      "choices": [
+        "Récidive des œdèmes.",
+        "Atteinte de la peau et des muqueuses.",
+        "Caractère non dépendant de l’histamine.",
+        "Durée habituelle des crises limitée à quelques minutes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les crises sont récidivantes, cutanéo-muqueuses, non histaminiques et persistent généralement 24 à 72 heures."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations cliniques sont compatibles avec les localisations décrites de l’angio-œdème bradykinique ?",
+      "choices": [
+        "Tuméfaction récidivante du visage.",
+        "Œdème récidivant des extrémités.",
+        "Crises digestives liées à une atteinte du tube digestif.",
+        "Asphyxie possible en cas d’atteinte laryngée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces situations correspondent aux atteintes citées : visage, extrémités, tube digestif et larynx avec risque d’asphyxie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions permettent de ne pas confondre angio-œdème bradykinique et déficit en protéines à ancrage GPI ?",
+      "choices": [
+        "L’angio-œdème bradykinique implique la libération de bradykinine.",
+        "Le déficit en protéines à ancrage GPI expose les hématies à la lyse par le complément.",
+        "Le déficit en protéines à ancrage GPI est responsable d’hémoglobinurie paroxystique nocturne.",
+        "L’angio-œdème bradykinique est défini par une hémolyse des hématies."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’angio-œdème bradykinique est lié aux kinines et à la bradykinine ; le déficit en protéines GPI concerne la protection contre la lyse complémentaire des hématies."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le mieux l’angio-œdème héréditaire de type I selon la classification du texte ?",
+      "choices": [
+        "Déficit qualitatif en C1 inhibiteur.",
+        "Déficit quantitatif en C1 inhibiteur.",
+        "C1 inhibiteur normal avec mutation obligatoire du facteur XII.",
+        "Forme acquise associée à des mécanismes auto-immuns."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’angio-œdème héréditaire de type I correspond à un déficit quantitatif en C1 inhibiteur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la conséquence physiologique directe attribuée à la bradykinine dans le texte ?",
+      "choices": [
+        "Diminution de la perméabilité vasculaire.",
+        "Augmentation de la perméabilité vasculaire.",
+        "Protection des hématies contre le complément.",
+        "Ancrage GPI des protéines membranaires."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La bradykinine est responsable de l’augmentation de la perméabilité vasculaire, entraînant l’œdème."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle forme d’angio-œdème acquis est associée à des mécanismes auto-immuns ?",
+      "choices": [
+        "Angio-œdème acquis de type I.",
+        "Angio-œdème acquis de type II.",
+        "Angio-œdème héréditaire de type I.",
+        "Angio-œdème héréditaire avec C1 inhibiteur normal."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’angio-œdème acquis de type II est associé à des mécanismes auto-immuns."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond au rôle de DAF/CD55 et CD59 ?",
+      "choices": [
+        "Augmenter la libération de bradykinine.",
+        "Protéger les cellules contre l’action lytique du complément.",
+        "Définir l’angio-œdème acquis de type I.",
+        "Déclencher l’asphyxie laryngée."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "DAF/CD55 et CD59 protègent les cellules contre l’action lytique du complément."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie est responsable de l’hémoglobinurie paroxystique nocturne selon le texte ?",
+      "choices": [
+        "Déficit en protéines à ancrage GPI.",
+        "Déficit qualitatif isolé en facteur XII.",
+        "Augmentation de la bradykinine.",
+        "Atteinte laryngée récidivante."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le déficit en protéines à ancrage GPI rend les hématies sensibles à la lyse par le complément, responsable d’une hémoglobinurie paroxystique nocturne."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’angio-œdème bradykinique, quelle étape est située immédiatement en amont de la libération de bradykinine dans la physiopathologie décrite ?",
+      "choices": [
+        "Activation excessive du système des kinines.",
+        "Lyse des hématies par le complément.",
+        "Protection par CD59.",
+        "Ancrage GPI des glycoprotéines membranaires."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le déficit ou dysfonctionnement du C1 inhibiteur entraîne une activation excessive du système des kinines, avec libération secondaire de bradykinine."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T19:20:51.591Z"
+}

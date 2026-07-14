@@ -1,0 +1,3134 @@
+{
+  "category": "medicale",
+  "module": "epidemiologie",
+  "courseId": 145,
+  "courseTitle": "Vaccination",
+  "supportTitle": "vaccinations et calendrier vaccinal",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/medicale-pdf/EPIDEMIO/vaccinations et calendrier vaccinal.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les définitions de base en vaccinologie, quelles propositions sont exactes ?",
+      "choices": [
+        "Un vaccin est une préparation antigénique dérivée d’un agent pathogène spécifique, capable d’induire une réponse immunitaire protectrice.",
+        "Un anticorps se combine indifféremment avec tout antigène rencontré après sa production.",
+        "L’immunité repose sur des facteurs humoraux et cellulaires permettant la défense contre une agression, notamment infectieuse.",
+        "L’immunisation passive correspond à l’injection d’antigènes afin d’induire une réponse immunitaire."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le vaccin induit une réponse protectrice spécifique. L’anticorps se combine spécifiquement avec l’antigène qui a induit sa formation. L’immunisation passive correspond à l’injection d’anticorps spécifiques, tandis que l’immunisation active repose notamment sur la vaccination."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments peuvent entrer dans la composition d’un vaccin selon le texte ?",
+      "choices": [
+        "Un antigène.",
+        "Un adjuvant augmentant la réponse immunitaire.",
+        "Des stabilisants.",
+        "Des immunoglobulines spécifiques comme constituant constant."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un vaccin contient un antigène, peut contenir un adjuvant, des stabilisants, un liquide de suspension et parfois des antibiotiques. Les immunoglobulines spécifiques relèvent de l’immunisation passive et ne sont pas indiquées comme constituant constant des vaccins."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les vaccins suivants, lesquels sont des vaccins vivants atténués ?",
+      "choices": [
+        "BCG.",
+        "Vaccin rougeole-oreillons-rubéole.",
+        "Vaccin antipoliomyélitique oral.",
+        "Vaccin antipoliomyélitique injectable."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le BCG, le ROR et le vaccin antipoliomyélitique oral sont des vaccins vivants atténués. Le vaccin antipoliomyélitique injectable est un vaccin inactivé."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations vaccin-type sont exactes ?",
+      "choices": [
+        "Vaccin antipoliomyélitique injectable : vaccin inactivé.",
+        "Vaccin contre l’hépatite A : vaccin inactivé.",
+        "Vaccin contre l’hépatite B : vaccin sous-unitaire protéique ou à pseudo-particules virales.",
+        "Vaccin rougeole-oreillons-rubéole : vaccin inactivé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le vaccin antipoliomyélitique injectable et le vaccin contre l’hépatite A sont inactivés. Le vaccin contre l’hépatite B est sous-unitaire. Le ROR est un vaccin vivant atténué."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccins polysaccharidiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Le vaccin Haemophilus influenzae type b est un vaccin polysaccharidique conjugué.",
+        "Le vaccin pneumococcique conjugué appartient aux vaccins polysaccharidiques conjugués.",
+        "Le vaccin méningococcique A-C est un vaccin polysaccharidique non conjugué.",
+        "Le vaccin pneumococcique 23-valent est un vaccin polysaccharidique conjugué."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vaccins Hib et pneumococcique conjugué sont des vaccins polysaccharidiques conjugués. Le méningocoque A-C et le pneumocoque 23-valent sont classés parmi les polysaccharidiques non conjugués."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels vaccins sont administrés par voie intramusculaire selon le texte ?",
+      "choices": [
+        "Vaccins diphtérie-tétanos-coqueluche.",
+        "Vaccin contre l’hépatite B.",
+        "Vaccin Haemophilus influenzae type b.",
+        "Vaccin rougeole-oreillons-rubéole."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vaccins DTC, hépatite B et Hib sont administrés par voie intramusculaire. Le vaccin ROR est administré par voie sous-cutanée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les voies d’administration vaccinale, quelles propositions sont exactes ?",
+      "choices": [
+        "Le BCG s’administre par voie intradermique.",
+        "Le vaccin rougeole-oreillons-rubéole s’administre par voie sous-cutanée.",
+        "Le vaccin antipoliomyélitique oral s’administre par voie orale.",
+        "Le vaccin antigrippal vivant atténué peut être administré par voie nasale."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise ces quatre correspondances : BCG intradermique, ROR sous-cutané, vaccin antipoliomyélitique oral par voie orale, et vaccin antigrippal vivant atténué par voie nasale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sites et modalités d’injection, quelles propositions sont exactes ?",
+      "choices": [
+        "Avant l’âge de 2 ans, le site intramusculaire recommandé est la face antérolatérale de la cuisse.",
+        "Après l’âge de 2 ans, le site intramusculaire recommandé est le muscle deltoïde.",
+        "L’injection dans la fesse n’est pas recommandée.",
+        "La voie sous-cutanée est privilégiée en cas de risque hémorragique ou de traitement anticoagulant."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les sites intramusculaires varient avec l’âge : cuisse avant 2 ans, deltoïde après 2 ans. L’injection dans la fesse n’est pas recommandée. La voie sous-cutanée est privilégiée en cas de risque hémorragique, anticoagulant ou antiagrégant plaquettaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la conservation et certaines doses vaccinales usuelles, quelles propositions sont exactes ?",
+      "choices": [
+        "Les vaccins doivent être conservés entre +2 °C et +8 °C durant tout le circuit de distribution.",
+        "La dose de BCG chez l’enfant de moins de 1 an est de 0,05 ml.",
+        "La dose du vaccin antipoliomyélitique oral est de 2 gouttes par voie orale.",
+        "La forme adulte du vaccin contre l’hépatite B contient 10 µg d’antigène HBs."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La chaîne du froid doit maintenir les vaccins entre +2 °C et +8 °C. Le BCG est dosé à 0,05 ml avant 1 an. Le vaccin antipoliomyélitique oral se donne en 2 gouttes. La forme adulte du vaccin hépatite B contient 20 µg d’antigène HBs, et non 10 µg."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles doses usuelles sont correctement rapportées ?",
+      "choices": [
+        "Vaccin antipoliomyélitique injectable : 0,5 ml.",
+        "Vaccin contre l’hépatite B chez l’enfant : dose de 0,5 ml.",
+        "Vaccins diphtérie-tétanos-coqueluche, Hib et ROR : dose habituelle de 0,5 ml.",
+        "BCG chez l’enfant de plus de 1 an : 0,05 ml."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le vaccin antipoliomyélitique injectable est administré à 0,5 ml. Le vaccin hépatite B pédiatrique est dosé à 0,5 ml. Les vaccins DTC, Hib et ROR ont une dose habituelle de 0,5 ml. Le BCG après 1 an est dosé à 0,1 ml."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs influencent l’efficacité vaccinale selon le texte ?",
+      "choices": [
+        "La présence ou l’absence d’anticorps maternels.",
+        "L’âge du sujet vacciné.",
+        "L’état nutritionnel.",
+        "L’injection dans la fesse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’efficacité vaccinale dépend notamment des anticorps maternels, de la nature de l’antigène, de la dose antigénique, des adjuvants, de l’état nutritionnel, de l’âge et du terrain immunitaire. L’injection dans la fesse est seulement mentionnée comme non recommandée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les intervalles d’administration vaccinale, quelles propositions sont exactes ?",
+      "choices": [
+        "Un intervalle minimum de 4 semaines est recommandé entre deux doses d’un même vaccin.",
+        "En cas d’interruption du schéma vaccinal, il ne faut pas recommencer la vaccination.",
+        "Une interruption du schéma vaccinal retarde l’obtention d’une protection complète.",
+        "Toute interruption du schéma impose de reprendre toutes les doses depuis le début."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’intervalle minimal recommandé entre deux doses d’un même vaccin est de 4 semaines. En cas d’interruption, il faut compléter les doses manquantes sans recommencer, mais la protection complète est retardée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les interactions entre vaccins vivants et immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Après administration d’immunoglobulines, il faut attendre au moins 6 semaines avant un vaccin vivant.",
+        "Après un vaccin vivant, il faut attendre au moins 2 semaines avant d’administrer des immunoglobulines.",
+        "Si des immunoglobulines sont administrées moins de 14 jours après un vaccin vivant, une revaccination est nécessaire environ 3 mois plus tard.",
+        "Les immunoglobulines imposent systématiquement une contre-indication définitive à tous les vaccins inactivés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande d’attendre au moins 6 semaines, idéalement 3 mois selon le contexte, après immunoglobulines avant un vaccin vivant. Après vaccin vivant, il faut attendre au moins 2 semaines avant immunoglobulines. Si celles-ci sont administrées moins de 14 jours après le vaccin vivant, une revaccination environ 3 mois plus tard est nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations constituent des contre-indications générales des vaccins vivants atténués ?",
+      "choices": [
+        "Immunodépression congénitale ou acquise.",
+        "Grossesse.",
+        "Corticothérapie à forte dose prolongée.",
+        "Maladie maligne évolutive."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les vaccins vivants atténués sont contre-indiqués en cas d’immunodépression congénitale ou acquise, de grossesse, de traitement immunosuppresseur incluant corticothérapie forte dose prolongée, et de maladies malignes évolutives."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement une vaccination simultanée ?",
+      "choices": [
+        "Administration de plusieurs antigènes mélangés dans une même préparation et injectés en un seul point.",
+        "Administration de plusieurs vaccins au même moment, en des points différents séparés d’au moins 2,5 cm ou par des voies différentes.",
+        "Administration successive de deux doses d’un même vaccin à moins de 4 semaines d’intervalle.",
+        "Administration d’immunoglobulines spécifiques en même temps qu’un vaccin inactivé."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La vaccination simultanée correspond à l’administration de plusieurs vaccins au même moment, mais en des points différents séparés d’au moins 2,5 cm ou par des voies différentes. Le mélange d’antigènes dans une même préparation correspond à une vaccination combinée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la composition du vaccin hexavalent mentionné dans le texte ?",
+      "choices": [
+        "Diphtérie-tétanos-coqueluche-Hib.",
+        "Diphtérie-tétanos-coqueluche-Hib-polio injectable.",
+        "Diphtérie-tétanos-coqueluche-Hib-polio injectable-hépatite B.",
+        "Rougeole-oreillons-rubéole-varicelle-zona-grippe."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le vaccin hexavalent associe diphtérie, tétanos, coqueluche, Hib, polio injectable et hépatite B."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la dose de BCG recommandée chez l’enfant de moins de 1 an ?",
+      "choices": [
+        "0,01 ml.",
+        "0,05 ml.",
+        "0,1 ml.",
+        "0,5 ml."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le BCG est administré à la dose de 0,05 ml chez l’enfant de moins de 1 an et de 0,1 ml chez l’enfant de plus de 1 an."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les situations suivantes, laquelle contre-indique le vaccin antipoliomyélitique oral selon le texte ?",
+      "choices": [
+        "Déficit immunitaire congénital ou acquis chez le sujet à vacciner ou dans son entourage.",
+        "Âge supérieur à 2 ans.",
+        "Traitement antiagrégant plaquettaire isolé.",
+        "Nécessité de conserver le vaccin entre +2 °C et +8 °C."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le vaccin antipoliomyélitique oral est contre-indiqué en cas de déficit immunitaire congénital ou acquis chez le sujet à vacciner ou dans son entourage, ainsi qu’en cas de VIH, traitement immunosuppresseur, grossesse ou maladie maligne évolutive."
+    },
+    {
+      "type": "QCS",
+      "question": "Que faut-il faire si des immunoglobulines sont administrées moins de 14 jours après un vaccin vivant ?",
+      "choices": [
+        "Ne rien faire, car l’efficacité du vaccin vivant n’est pas modifiée.",
+        "Revacciner environ 3 mois plus tard en raison du risque d’échec vaccinal.",
+        "Administrer immédiatement une deuxième dose du même vaccin vivant.",
+        "Recommencer tout le calendrier vaccinal depuis le début."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’administration d’immunoglobulines moins de 14 jours après un vaccin vivant expose à un risque d’échec vaccinal ; une revaccination est nécessaire environ 3 mois plus tard."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle voie d’administration est privilégiée en cas de risque hémorragique, de traitement anticoagulant ou antiagrégant plaquettaire ?",
+      "choices": [
+        "Voie intradermique.",
+        "Voie intramusculaire dans la fesse.",
+        "Voie sous-cutanée.",
+        "Voie nasale."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La voie sous-cutanée est la voie privilégiée en cas de risque hémorragique, de traitement anticoagulant ou de traitement antiagrégant plaquettaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les contre-indications spécifiques du vaccin contre la varicelle et du vaccin coquelucheux à germes entiers, quelles propositions sont exactes ?",
+      "choices": [
+        "Le vaccin contre la varicelle est contre-indiqué pendant la grossesse.",
+        "Le vaccin contre la varicelle est contre-indiqué en cas d’immunodépression sévère.",
+        "Le vaccin coquelucheux à germes entiers est contre-indiqué en cas d’encéphalopathie évolutive, convulsivante ou non.",
+        "Le vaccin coquelucheux à germes entiers est contre-indiqué en cas de prématurité isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte retient la grossesse et l’immunodépression sévère pour la varicelle, et l’encéphalopathie évolutive pour le vaccin coquelucheux à germes entiers. La prématurité est une fausse contre-indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont citées comme fausses contre-indications à la vaccination ?",
+      "choices": [
+        "Asthme.",
+        "Mucoviscidose.",
+        "Faible poids de naissance.",
+        "Choc anaphylactique à un composant vaccinal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’asthme, la mucoviscidose et le faible poids de naissance sont explicitement cités comme fausses contre-indications. Le choc anaphylactique ou l’allergie sévère à un composant constitue une contre-indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les réactions locales et générales après vaccination, quelles propositions sont exactes ?",
+      "choices": [
+        "La douleur immédiate au point d’injection fait partie des réactions locales.",
+        "L’induration locale régresse habituellement en 24 à 48 heures.",
+        "La fièvre post-vaccinale peut survenir dans les 24 à 48 heures.",
+        "Les céphalées sont classées parmi les réactions allergiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Douleur, rougeur, tuméfaction et induration sont des réactions locales, régressant habituellement en 24 à 48 heures. La fièvre, les céphalées, les troubles digestifs et le malaise sont des réactions générales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les réactions allergiques, cutanées et rénales post-vaccinales, quelles propositions sont exactes ?",
+      "choices": [
+        "L’urticaire peut traduire une réaction allergique post-vaccinale.",
+        "Le choc anaphylactique est décrit comme rare.",
+        "Une éruption cutanée peut être observée après certains vaccins, notamment BCG ou rougeole.",
+        "Les néphropathies post-vaccinales sont fréquentes et attendues."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les réactions allergiques incluent urticaire, éruption cutanée et, rarement, choc anaphylactique. Des éruptions peuvent survenir après BCG ou rougeole. Les accidents rénaux sont rares."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les accidents neurologiques surtout décrits avec les vaccins coquelucheux à germes entiers, quelles propositions sont exactes ?",
+      "choices": [
+        "Les convulsions peuvent survenir entre 30 minutes et 3 jours après l’injection.",
+        "Les convulsions sont plus fréquentes en cas d’antécédents neurologiques personnels ou familiaux.",
+        "L’encéphalopathie est rare et peut survenir de quelques heures à 2-3 jours après l’injection.",
+        "Le syndrome du cri persistant apparaît habituellement dans les 5 minutes suivant chaque injection."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les convulsions surviennent entre 30 minutes et 3 jours et sont favorisées par des antécédents neurologiques. L’encéphalopathie est rare, de quelques heures à 2-3 jours. Le cri persistant apparaît généralement 6 à 10 heures après la première injection."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon le calendrier vaccinal pédiatrique utilisé en Algérie, quelles vaccinations sont prévues à l’âge de 2 mois ?",
+      "choices": [
+        "DTCa-Hib.",
+        "Hépatite B.",
+        "Vaccin antipoliomyélitique injectable.",
+        "Rougeole-oreillons-rubéole."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À 2 mois sont prévus DTCa-Hib, hépatite B, vaccin antipoliomyélitique injectable et pneumocoque conjugué. Le ROR est prévu à 11 mois puis à 18 mois."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccinations prévues entre 11 et 18 mois dans le calendrier pédiatrique algérien, quelles propositions sont exactes ?",
+      "choices": [
+        "Le vaccin rougeole-oreillons-rubéole est administré à 11 mois.",
+        "Le vaccin rougeole-oreillons-rubéole est administré à 18 mois.",
+        "À 12 mois, le vaccin antipoliomyélitique oral est prévu.",
+        "À 18 mois, le rappel diphtérie-tétanos adulte est prévu."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le ROR est administré à 11 mois puis à 18 mois. À 12 mois, le calendrier comporte notamment le VPO. Le rappel diphtérie-tétanos adulte concerne l’adolescent et l’adulte, non l’âge de 18 mois."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rappels après l’âge de 6 ans dans le calendrier vaccinal mentionné, quelles propositions sont exactes ?",
+      "choices": [
+        "À 6 ans, le DTCa pédiatrique est prévu.",
+        "À 11-13 ans, le diphtérie-tétanos adulte est prévu.",
+        "À 16-18 ans, le diphtérie-tétanos adulte est prévu.",
+        "À partir de 18 ans, un rappel diphtérie-tétanos adulte est prévu tous les 5 ans."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calendrier prévoit DTCa pédiatrique à 6 ans, diphtérie-tétanos adulte à 11-13 ans et 16-18 ans, puis un rappel diphtérie-tétanos adulte tous les 10 ans à partir de 18 ans."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont pris en compte pour l’établissement d’un calendrier vaccinal selon le texte ?",
+      "choices": [
+        "Les données épidémiologiques.",
+        "L’impact humain et médico-économique.",
+        "La réceptivité liée à l’âge et au terrain.",
+        "La préférence individuelle du vaccinateur comme critère principal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calendrier tient compte des données épidémiologiques, de l’impact humain et médico-économique, des données immunologiques, de la réceptivité selon l’âge et le terrain, des vaccins disponibles et des nouvelles formulations."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les principes généraux de vaccination chez l’immunodéprimé, quelles propositions sont exactes ?",
+      "choices": [
+        "La vaccination dépend de la nature du déficit immunitaire.",
+        "La vaccination dépend du degré d’immunodépression.",
+        "La vaccination dépend du risque d’exposition aux agents infectieux.",
+        "Les vaccins inactivés sont toujours contre-indiqués en cas d’immunodépression significative."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez l’immunodéprimé, la décision dépend de la nature du déficit, de son degré et du risque d’exposition. Les vaccins inactivés peuvent être administrés, même si la réponse immunitaire peut être diminuée."
+    },
+    {
+      "type": "QCM",
+      "question": "Après arrêt d’une chimiothérapie pour cancer, quels délais vaccinaux sont rapportés dans le texte ?",
+      "choices": [
+        "Au moins 6 mois avant un vaccin vivant ou un rappel vivant.",
+        "Environ 3 mois avant un vaccin inactivé.",
+        "Environ 3 mois avant un vaccin polysaccharidique.",
+        "Toujours 24 mois avant tout vaccin, quel que soit le type de chimiothérapie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après chimiothérapie, le texte indique au moins 6 mois pour les vaccins vivants, environ 3 mois pour les vaccins inactivés ou polysaccharidiques, et jusqu’à 12 mois en cas de chimiothérapie intensive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la corticothérapie et la vaccination, quelles propositions sont exactes ?",
+      "choices": [
+        "Une corticothérapie à dose physiologique ou faible ne contre-indique pas habituellement la vaccination.",
+        "Une corticothérapie inférieure à 20 mg/j pendant moins de 14 jours ne constitue pas une contre-indication habituelle.",
+        "Une corticothérapie d’au moins 20 mg/j pendant plus de 14 jours contre-indique les vaccins vivants.",
+        "Un vaccin vivant peut être administré immédiatement après l’arrêt d’une corticothérapie immunosuppressive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les faibles doses ou traitements courts ne constituent pas une contre-indication habituelle. Une corticothérapie élevée prolongée contre-indique les vaccins vivants, et il faut attendre au moins 1 mois après la fin d’une corticothérapie immunosuppressive."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un enfant infecté par le VIH ou né de mère séropositive avec signes cliniques ou immunodépression, quelles propositions sont exactes ?",
+      "choices": [
+        "Les vaccins vivants sont contre-indiqués.",
+        "Le BCG est notamment contre-indiqué.",
+        "Le vaccin antipoliomyélitique oral est notamment contre-indiqué.",
+        "Les vaccins inactivés, DTCa, Hib et hépatite B sont interdits quel que soit le calendrier."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez cet enfant, les vaccins vivants sont contre-indiqués, notamment BCG et polio orale. Les vaccins inactivés, DTCa, Hib et hépatite B sont administrés selon le calendrier."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccins inactivés et certaines situations particulières, quelles propositions sont exactes ?",
+      "choices": [
+        "Le vaccin contre l’hépatite B n’a pas de contre-indication spécifique habituelle en dehors d’une allergie sévère à un composant.",
+        "Le vaccin contre la rage n’a pas de contre-indication spécifique habituelle en dehors d’une allergie sévère à un composant.",
+        "Le vaccin antipoliomyélitique injectable n’a pas de contre-indication spécifique habituelle en dehors d’une allergie sévère à un composant.",
+        "Chez les patients atteints de sclérose en plaques, la vaccination contre l’hépatite B est systématiquement interdite."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vaccins inactivés cités, dont hépatite B, rage et polio injectable, n’ont pas de contre-indication spécifique habituelle sauf allergie sévère. En cas de sclérose en plaques, l’hépatite B doit être discutée selon le risque d’exposition et le bénéfice attendu."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle attitude est indiquée concernant une réinjection rapprochée de vaccin pneumococcique si une dose a été administrée depuis moins de 3 ans ?",
+      "choices": [
+        "Elle doit être systématiquement réalisée sans tenir compte du type de vaccin.",
+        "Elle doit être évitée selon le type de vaccin et les recommandations.",
+        "Elle est obligatoire uniquement si le patient est immunocompétent.",
+        "Elle est contre-indiquée définitivement pour toute la vie."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise d’éviter une réinjection rapprochée si une dose pneumococcique a été administrée depuis moins de 3 ans, selon le type de vaccin et les recommandations."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement les contre-indications spécifiques habituelles du vaccin Hib conjugué ?",
+      "choices": [
+        "Il est contre-indiqué en cas de prématurité.",
+        "Il est contre-indiqué en cas d’asthme.",
+        "Il n’a pas de contre-indication spécifique habituelle.",
+        "Il est contre-indiqué en cas de cardiopathie chronique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique que le vaccin Hib conjugué n’a pas de contre-indication spécifique habituelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel délai d’apparition est typique du syndrome du cri persistant après vaccin coquelucheux à germes entiers selon le texte ?",
+      "choices": [
+        "Immédiatement au moment de l’injection.",
+        "Généralement 6 à 10 heures après la première injection.",
+        "Toujours après 7 jours.",
+        "Uniquement entre 15 et 30 jours après l’injection."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le syndrome du cri persistant apparaît généralement 6 à 10 heures après la première injection."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association décrit le mieux le syndrome d’hypotonie-hyporéactivité post-vaccinal mentionné dans le texte ?",
+      "choices": [
+        "Collapsus, pâleur ou cyanose, de quelques minutes à 48 heures après vaccination.",
+        "Urticaire isolée, uniquement après 10 jours.",
+        "Induration locale durant systématiquement plus d’un mois.",
+        "Fièvre isolée survenant exclusivement après 15 jours."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le syndrome d’hypotonie-hyporéactivité associe collapsus, pâleur ou cyanose, survenant de quelques minutes à 48 heures après la vaccination."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle conduite est rapportée devant une dermatose étendue au moment d’une vaccination ?",
+      "choices": [
+        "Elle ne modifie jamais la vaccination, quel que soit le site.",
+        "Elle impose une contre-indication définitive à tous les vaccins.",
+        "Elle peut constituer une contre-indication temporaire selon le site et la sévérité.",
+        "Elle impose uniquement l’arrêt des vaccins inactivés."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une dermatose étendue peut être une contre-indication temporaire selon le site d’injection et la sévérité."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le calendrier vaccinal pédiatrique utilisé en Algérie, quelle association correspond aux vaccins administrés à la naissance ?",
+      "choices": [
+        "BCG et hépatite B.",
+        "DTCa-Hib et pneumocoque conjugué.",
+        "Rougeole-oreillons-rubéole et vaccin antipoliomyélitique oral.",
+        "Diphtérie-tétanos adulte et hépatite A."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "À la naissance, le calendrier mentionne le BCG et le vaccin contre l’hépatite B."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un enfant à statut VIH non encore exclu mais sans signe clinique, quelles attitudes vaccinales sont conformes au texte ?",
+      "choices": [
+        "Poursuivre les vaccinations selon le calendrier vaccinal",
+        "Différer le BCG jusqu’à exclusion de l’infection VIH",
+        "Suspendre toutes les vaccinations jusqu’à obtention d’une sérologie négative",
+        "Administrer systématiquement le BCG sans attendre l’exclusion du VIH"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte indique une vaccination selon le calendrier, avec exception du BCG qui est différé jusqu’à exclusion de l’infection VIH."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le BCG chez l’enfant né de mère infectée par le VIH, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est administré uniquement après sérologie négative",
+        "Il est généralement envisagé vers 9 à 10 mois selon le contexte",
+        "Il ne doit pas être administré systématiquement à la naissance",
+        "Il est indiqué dès la naissance si l’enfant est asymptomatique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez l’enfant né de mère infectée par le VIH, le BCG est réalisé uniquement après sérologie négative, généralement vers 9-10 mois selon le contexte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hémophilie et la vaccination, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hémophilie n’est pas une contre-indication à la vaccination",
+        "Le risque hémorragique doit être pris en compte",
+        "La vaccination doit être évitée définitivement chez tout hémophile",
+        "Les précautions visent surtout à limiter le saignement au point d’injection"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’hémophilie n’interdit pas la vaccination, mais impose des précautions liées au risque hémorragique."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient hémophile, quelles précautions techniques vaccinales sont rapportées dans le texte ?",
+      "choices": [
+        "Privilégier une zone facile à comprimer, notamment le bras",
+        "Réaliser une compression prolongée après l’injection",
+        "Préférer la voie sous-cutanée ou intradermique lorsque cela est possible et adapté au vaccin",
+        "Privilégier systématiquement une injection profonde dans une zone difficile à comprimer"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les précautions citées sont le choix d’une zone compressible, la compression prolongée et l’utilisation de la voie sous-cutanée ou intradermique si elle est adaptée."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une transfusion sanguine chez un hémophile, quelles propositions sont exactes concernant les vaccins vivants ?",
+      "choices": [
+        "Il faut attendre environ 6 semaines avant d’administrer un vaccin vivant comme le ROR",
+        "Le ROR est cité comme exemple de vaccin vivant concerné",
+        "Le délai mentionné concerne spécifiquement une situation de transfusion sanguine",
+        "Le texte recommande d’attendre 6 mois avant tout vaccin inactivé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En cas de transfusion sanguine, le texte recommande d’attendre environ 6 semaines avant un vaccin vivant comme le ROR."
+    },
+    {
+      "type": "QCM",
+      "question": "Pendant la grossesse, quels vaccins vivants atténués sont explicitement contre-indiqués dans le texte ?",
+      "choices": [
+        "Rougeole",
+        "Rubéole",
+        "Oreillons",
+        "Vaccin antigrippal inactivé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vaccins vivants atténués contre rougeole, rubéole et oreillons sont contre-indiqués pendant la grossesse. Le vaccin antigrippal inactivé ne l’est pas."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certains vaccins vivants pendant la grossesse, quelles propositions sont exactes ?",
+      "choices": [
+        "Le vaccin contre la varicelle est contre-indiqué",
+        "Le vaccin polio oral est contre-indiqué",
+        "Le vaccin contre la fièvre jaune est contre-indiqué sauf indication exceptionnelle avec évaluation du rapport bénéfice-risque",
+        "Le vaccin antigrippal inactivé est contre-indiqué au même titre que les vaccins vivants"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La varicelle, la polio orale et la fièvre jaune font partie des vaccins vivants contre-indiqués pendant la grossesse, avec une exception possible pour la fièvre jaune après évaluation bénéfice-risque."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du vaccin contre la fièvre jaune chez la femme enceinte, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Il fait partie des vaccins vivants atténués contre-indiqués pendant la grossesse",
+        "Il peut être envisagé en cas d’indication exceptionnelle",
+        "Son administration éventuelle nécessite une évaluation du rapport bénéfice-risque",
+        "Il est recommandé systématiquement chez toute femme enceinte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le vaccin fièvre jaune est contre-indiqué pendant la grossesse, sauf indication exceptionnelle avec analyse du rapport bénéfice-risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la vaccination antitétanique chez la femme enceinte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle contribue à prévenir le tétanos maternel",
+        "Elle contribue à prévenir le tétanos néonatal",
+        "Elle est mentionnée comme une mesure utile pendant la grossesse",
+        "Elle remplace l’ensemble des autres précautions vaccinales de la grossesse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que la vaccination antitétanique chez la femme enceinte prévient le tétanos maternel et néonatal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le vaccin antigrippal inactivé pendant la grossesse, quelles propositions sont exactes ?",
+      "choices": [
+        "Il n’est pas contre-indiqué pendant la grossesse",
+        "Il peut être recommandé selon le risque",
+        "Il se distingue des vaccins vivants atténués contre-indiqués pendant la grossesse",
+        "Il est formellement contre-indiqué chez toute femme enceinte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le vaccin antigrippal inactivé n’est pas contre-indiqué pendant la grossesse et peut être recommandé selon le risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez le personnel de santé, quelles vaccinations sont obligatoires ou fortement indiquées selon le risque professionnel d’après le texte ?",
+      "choices": [
+        "Hépatite B",
+        "Diphtérie-tétanos",
+        "Rappels selon le statut vaccinal",
+        "Rougeole-rubéole-oreillons systématique sans tenir compte du statut vaccinal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’hépatite B, diphtérie-tétanos et les rappels selon le statut vaccinal comme obligatoires ou fortement indiqués selon le risque professionnel."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre vaccinations fortement indiquées et recommandées chez le personnel de santé, quelles propositions sont exactes ?",
+      "choices": [
+        "La vaccination contre l’hépatite B est citée parmi les vaccinations obligatoires ou fortement indiquées selon le risque",
+        "La vaccination diphtérie-tétanos est citée parmi les vaccinations obligatoires ou fortement indiquées selon le risque",
+        "La grippe saisonnière est citée comme vaccination recommandée",
+        "Les rappels sont indépendants du statut vaccinal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez le personnel de santé, hépatite B et diphtérie-tétanos sont obligatoires ou fortement indiquées selon le risque ; la grippe saisonnière est recommandée ; les rappels dépendent du statut vaccinal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations nécessitent une décision adaptée au risque ou au contexte selon le texte ?",
+      "choices": [
+        "Vaccination fièvre jaune chez la femme enceinte en indication exceptionnelle après évaluation bénéfice-risque",
+        "Vaccination antigrippale inactivée pendant la grossesse pouvant être recommandée selon le risque",
+        "BCG chez l’enfant né de mère infectée par le VIH, généralement vers 9-10 mois selon le contexte après sérologie négative",
+        "Vaccination antitétanique chez la femme enceinte uniquement après une transfusion sanguine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur l’évaluation du risque ou du contexte pour la fièvre jaune chez la femme enceinte, la grippe inactivée pendant la grossesse et le BCG chez l’enfant né de mère VIH."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions correspondent à des situations où la vaccination reste possible ou indiquée malgré un terrain particulier ?",
+      "choices": [
+        "L’hémophilie n’est pas une contre-indication à la vaccination",
+        "Le vaccin antigrippal inactivé n’est pas contre-indiqué pendant la grossesse",
+        "La vaccination antitétanique chez la femme enceinte contribue à prévenir le tétanos maternel et néonatal",
+        "Les vaccins vivants atténués sont librement administrables pendant la grossesse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hémophilie n’interdit pas la vaccination, la grippe inactivée peut être utilisée pendant la grossesse, et le vaccin antitétanique a un intérêt materno-néonatal. Les vaccins vivants sont contre-indiqués pendant la grossesse."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un enfant sans signe clinique mais dont l’infection VIH n’est pas exclue, quelle vaccination constitue l’exception à la poursuite du calendrier vaccinal ?",
+      "choices": [
+        "BCG",
+        "Diphtérie-tétanos",
+        "Hépatite B",
+        "Grippe saisonnière"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le calendrier est poursuivi sauf pour le BCG, qui est différé jusqu’à exclusion de l’infection VIH."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’enfant né de mère infectée par le VIH, à quel moment le BCG est-il généralement envisagé selon le texte ?",
+      "choices": [
+        "À la naissance, systématiquement",
+        "Vers 9 à 10 mois, après sérologie négative selon le contexte",
+        "Après toute transfusion sanguine, sans autre condition",
+        "Uniquement à l’âge adulte"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le BCG est réalisé uniquement après sérologie négative, généralement vers 9-10 mois selon le contexte."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un hémophile ayant reçu une transfusion sanguine, quel délai est recommandé avant d’administrer un vaccin vivant comme le ROR ?",
+      "choices": [
+        "24 heures",
+        "7 jours",
+        "Environ 6 semaines",
+        "2 ans"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte recommande d’attendre environ 6 semaines avant l’administration d’un vaccin vivant comme le ROR après transfusion sanguine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel vaccin vivant atténué contre-indiqué pendant la grossesse peut néanmoins être envisagé en indication exceptionnelle après évaluation du rapport bénéfice-risque ?",
+      "choices": [
+        "Fièvre jaune",
+        "Rubéole",
+        "Varicelle",
+        "Polio orale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le vaccin contre la fièvre jaune est contre-indiqué pendant la grossesse, sauf indication exceptionnelle avec évaluation du rapport bénéfice-risque."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez le personnel de santé, quelle vaccination est citée comme recommandée dans le texte ?",
+      "choices": [
+        "Grippe saisonnière",
+        "BCG après sérologie négative",
+        "Fièvre jaune systématique",
+        "Polio orale pendant la grossesse"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La vaccination contre la grippe saisonnière est recommandée chez le personnel de santé."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle vaccination chez la femme enceinte contribue à prévenir à la fois le tétanos maternel et le tétanos néonatal ?",
+      "choices": [
+        "Vaccination antitétanique",
+        "Vaccination contre la varicelle",
+        "Vaccination polio orale",
+        "Vaccination contre la rubéole"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La vaccination antitétanique pendant la grossesse contribue à prévenir le tétanos maternel et néonatal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’immunisation active et l’immunisation passive, quelles propositions sont exactes ?",
+      "choices": [
+        "L’immunisation active repose sur l’injection d’antigènes, notamment par vaccination.",
+        "L’immunisation passive repose sur l’injection d’anticorps spécifiques, notamment par immunoglobulines.",
+        "La vaccination est l’exemple typique d’une immunisation passive.",
+        "Les immunoglobulines spécifiques correspondent à une injection d’antigènes vaccinaux."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’immunisation active correspond à l’administration d’antigènes, tandis que l’immunisation passive correspond à l’administration d’anticorps spécifiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anticorps et l’immunité, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Un anticorps est une protéine de type immunoglobuline.",
+        "Un anticorps est produit en réponse à une stimulation antigénique.",
+        "L’immunité met en jeu des facteurs humoraux et cellulaires.",
+        "Un anticorps se combine indifféremment avec tout antigène étranger."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anticorps est une immunoglobuline spécifique de l’antigène inducteur. L’immunité repose sur des mécanismes humoraux et cellulaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les vaccins suivants, lesquels sont classés dans les vaccins inactivés, tués ou inertes ?",
+      "choices": [
+        "Vaccin antipoliomyélitique injectable.",
+        "Vaccin contre la rage.",
+        "Vaccin contre l’hépatite A.",
+        "Vaccin contre le rotavirus."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le vaccin antipoliomyélitique injectable, les vaccins contre la rage et l’hépatite A sont inactivés. Le rotavirus est cité parmi les vaccins vivants atténués."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccins polysaccharidiques cités, quelles propositions sont exactes ?",
+      "choices": [
+        "Le vaccin Haemophilus influenzae type b est un vaccin polysaccharidique conjugué.",
+        "Le vaccin pneumococcique conjugué appartient aux vaccins polysaccharidiques conjugués.",
+        "Le vaccin pneumococcique 23-valent est un vaccin polysaccharidique non conjugué.",
+        "Le vaccin contre l’hépatite B est un vaccin polysaccharidique non conjugué."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Hib et pneumocoque conjugué sont des polysaccharidiques conjugués. Le pneumocoque 23-valent est non conjugué. L’hépatite B est classée parmi les vaccins protéiques ou pseudo-particules virales."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations vaccin-catégorie sont exactes ?",
+      "choices": [
+        "Méningocoque B : vaccin protéique ou pseudo-particule virale.",
+        "HPV : vaccin protéique ou pseudo-particule virale.",
+        "Encéphalite japonaise : vaccin inactivé.",
+        "Fièvre jaune : vaccin inactivé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Méningocoque B et HPV sont classés parmi les vaccins protéiques ou pseudo-particules virales. L’encéphalite japonaise est un vaccin inactivé. La fièvre jaune est un vaccin vivant atténué."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccins inactivés ou sous-unitaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont généralement bien tolérés.",
+        "Ils nécessitent souvent des adjuvants.",
+        "Ils sont toujours contre-indiqués pendant la grossesse selon le texte.",
+        "Ils correspondent exclusivement à des vaccins administrés par voie orale."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que les vaccins inactivés ou sous-unitaires sont généralement bien tolérés mais nécessitent souvent des adjuvants."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les voies orale et nasale d’administration vaccinale, quelles propositions sont exactes ?",
+      "choices": [
+        "Le vaccin antipoliomyélitique oral s’administre par voie orale.",
+        "Certains vaccins contre le rotavirus s’administrent par voie orale.",
+        "Le vaccin antigrippal vivant atténué peut s’administrer par voie nasale.",
+        "Le vaccin rougeole-oreillons-rubéole est administré par voie nasale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le VPO et certains vaccins rotavirus sont administrés par voie orale. Le vaccin antigrippal vivant atténué est administrable par voie nasale, notamment chez l’enfant de 2 à 18 ans selon les recommandations."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sites d’injection intramusculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La face antérolatérale de la cuisse est recommandée avant l’âge de 2 ans.",
+        "Le muscle deltoïde est recommandé après l’âge de 2 ans.",
+        "L’injection dans la fesse n’est pas recommandée.",
+        "La fesse est le site de référence pour les vaccins intramusculaires du nourrisson."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Avant 2 ans, le site intramusculaire recommandé est la face antérolatérale de la cuisse ; après 2 ans, le deltoïde. L’injection dans la fesse n’est pas recommandée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la conservation des vaccins, quelles propositions sont exactes ?",
+      "choices": [
+        "Les vaccins sont des produits fragiles.",
+        "Ils ont une durée de vie limitée.",
+        "Ils doivent être conservés entre +2 °C et +8 °C.",
+        "La chaîne du froid ne concerne que le moment de l’injection."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vaccins sont fragiles, à durée de vie limitée, et doivent être conservés entre +2 °C et +8 °C durant tout le circuit de distribution."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas d’interruption d’un schéma vaccinal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il ne faut pas recommencer toute la vaccination.",
+        "Il faut compléter les doses manquantes.",
+        "L’interruption peut retarder l’obtention d’une protection complète.",
+        "Toute interruption impose de reprendre le schéma depuis la première dose."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte insiste sur le fait qu’un schéma interrompu ne doit pas être recommencé ; il faut compléter les doses manquantes, même si la protection complète est retardée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccinations combinées, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles associent plusieurs antigènes dans une même préparation ou au moment de l’emploi.",
+        "Elles sont administrées en un seul point.",
+        "Le vaccin triple diphtérie-tétanos-coqueluche en est un exemple.",
+        "Elles imposent toujours des injections en des points différents séparés d’au moins 2,5 cm."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vaccinations combinées mélangent plusieurs antigènes et sont administrées en un seul point. Les injections en points différents concernent les vaccinations simultanées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les contre-indications du vaccin rougeole-oreillons-rubéole, quelles propositions sont exactes ?",
+      "choices": [
+        "L’immunodépression constitue une contre-indication.",
+        "La grossesse constitue une contre-indication.",
+        "L’allergie à la néomycine constitue une contre-indication.",
+        "L’administration récente d’immunoglobulines constitue une contre-indication."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme contre-indications du ROR l’immunodépression, la grossesse, l’allergie à la néomycine et l’administration récente d’immunoglobulines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les contre-indications du vaccin antipoliomyélitique oral, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est contre-indiqué en cas de déficit immunitaire congénital ou acquis chez le sujet à vacciner.",
+        "Il est contre-indiqué en cas de déficit immunitaire congénital ou acquis dans l’entourage du sujet.",
+        "Il est contre-indiqué en cas de traitement immunosuppresseur.",
+        "Il est indiqué préférentiellement en cas de maladie maligne évolutive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le vaccin antipoliomyélitique oral est contre-indiqué en cas de déficit immunitaire chez le sujet ou dans son entourage, ainsi qu’en cas de traitement immunosuppresseur, VIH, grossesse ou maladie maligne évolutive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le vaccin contre l’hépatite B, quelles propositions sont exactes ?",
+      "choices": [
+        "La forme pédiatrique contient 10 µg d’antigène HBs.",
+        "La forme adulte contient 20 µg d’antigène HBs.",
+        "La dose indiquée chez l’enfant est de 0,5 ml.",
+        "La forme pédiatrique contient 20 µg d’antigène HBs."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que la forme pédiatrique contient 10 µg d’antigène HBs, la forme adulte 20 µg, et que la dose chez l’enfant est de 0,5 ml."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel vaccin est administré par voie intradermique selon le texte ?",
+      "choices": [
+        "BCG.",
+        "Vaccin contre l’hépatite B.",
+        "Vaccin pneumococcique.",
+        "Vaccin rougeole-oreillons-rubéole."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le BCG est le vaccin cité comme administré par voie intradermique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la dose de BCG recommandée chez l’enfant de plus de 1 an ?",
+      "choices": [
+        "0,01 ml.",
+        "0,05 ml.",
+        "0,1 ml.",
+        "0,5 ml."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La dose de BCG est de 0,1 ml chez l’enfant de plus de 1 an."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’intervalle minimum recommandé entre deux doses d’un même vaccin ?",
+      "choices": [
+        "1 semaine.",
+        "2 semaines.",
+        "4 semaines.",
+        "6 mois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Un intervalle minimum de 4 semaines est recommandé entre deux doses d’un même vaccin."
+    },
+    {
+      "type": "QCS",
+      "question": "Après administration d’immunoglobulines, quel délai minimum faut-il respecter avant d’administrer un vaccin vivant ?",
+      "choices": [
+        "48 heures.",
+        "1 semaine.",
+        "6 semaines.",
+        "12 mois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Après administration d’immunoglobulines, il faut attendre au moins 6 semaines avant un vaccin vivant, idéalement 3 mois selon le contexte."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel est explicitement cité comme facteur influençant l’efficacité vaccinale ?",
+      "choices": [
+        "L’état nutritionnel.",
+        "Le site d’injection dans la fesse.",
+        "Le liquide de suspension.",
+        "La séparation de deux points d’injection de 2,5 cm."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’état nutritionnel fait partie des facteurs influençant l’efficacité vaccinale, avec l’âge, le terrain immunitaire, la dose antigénique, la nature de l’antigène, les anticorps maternels et les adjuvants."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel vaccin est classé parmi les vaccins inactivés, tués ou inertes ?",
+      "choices": [
+        "Vaccin contre la fièvre jaune.",
+        "Vaccin contre le zona.",
+        "Vaccin contre l’encéphalite à tiques.",
+        "Vaccin contre la varicelle."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le vaccin contre l’encéphalite à tiques est classé parmi les vaccins inactivés. Fièvre jaune, zona et varicelle sont des vaccins vivants atténués."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le vaccin coquelucheux à germes entiers, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Il est contre-indiqué en cas d’encéphalopathie évolutive, convulsivante ou non.",
+        "Une forte réaction post-injection avec fièvre supérieure à 40 °C constitue une contre-indication.",
+        "Un cri persistant après une injection antérieure impose une précaution d’emploi.",
+        "Une dermatose non étendue constitue une contre-indication spécifique à ce vaccin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le vaccin coquelucheux à germes entiers est contre-indiqué en cas d’encéphalopathie évolutive, de forte réaction post-injection notamment fièvre > 40 °C, ou d’hypersensibilité. Le cri persistant antérieur relève d’une précaution. La dermatose non étendue est une fausse contre-indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccins sans contre-indication spécifique habituelle, quelles propositions sont exactes ?",
+      "choices": [
+        "Les anatoxines diphtérique et tétanique n’ont pas de contre-indication spécifique habituelle en dehors des réactions allergiques sévères à un composant.",
+        "Le vaccin Hib conjugué n’a pas de contre-indication spécifique habituelle.",
+        "Le vaccin méningococcique n’a pas de contre-indication spécifique habituelle en dehors des allergies sévères.",
+        "Le vaccin pneumococcique ne nécessite jamais de prudence vis-à-vis d’une réinjection rapprochée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anatoxines diphtérique et tétanique, le vaccin Hib conjugué et le vaccin méningococcique n’ont pas de contre-indication spécifique habituelle en dehors des allergies sévères. Pour le pneumocoque, il faut éviter une réinjection rapprochée si une dose a été administrée depuis moins de 3 ans selon le type de vaccin et les recommandations."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccins inactivés cités dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les vaccins contre l’hépatite B, l’hépatite A, la grippe inactivée, la rage et la polio injectable n’ont pas de contre-indication spécifique habituelle en dehors d’une allergie sévère à un composant.",
+        "Chez un patient atteint de sclérose en plaques, la vaccination contre l’hépatite B doit être discutée selon le risque d’exposition et le bénéfice attendu.",
+        "Le vaccin antipoliomyélitique injectable est classé dans le texte parmi les vaccins vivants atténués.",
+        "Une réaction allergique sévère à un composant reste une contre-indication possible aux vaccins inactivés cités."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les vaccins inactivés cités n’ont pas de contre-indication spécifique habituelle sauf allergie sévère à un composant. La vaccination contre l’hépatite B chez les patients atteints de sclérose en plaques doit être discutée selon le risque d’exposition et le bénéfice attendu. La polio injectable est un vaccin inactivé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les dermatoses au moment d’une vaccination, quelles propositions sont exactes ?",
+      "choices": [
+        "Une dermatose non étendue est citée comme fausse contre-indication.",
+        "Une dermatose étendue peut constituer une contre-indication temporaire selon le site et la sévérité.",
+        "Toute dermatose impose une contre-indication définitive à la vaccination.",
+        "Le site et la sévérité de la dermatose doivent être pris en compte en cas de dermatose étendue."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte distingue la dermatose non étendue, fausse contre-indication, de la dermatose étendue, qui peut justifier une contre-indication temporaire selon son site et sa sévérité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les réactions locales après vaccination, quelles propositions sont exactes ?",
+      "choices": [
+        "Une douleur immédiate au point d’injection peut être observée.",
+        "Une rougeur ou une tuméfaction peuvent survenir localement.",
+        "Une induration locale peut régresser habituellement en 24 à 48 heures.",
+        "Le malaise est classé parmi les réactions locales au point d’injection."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les réactions locales comprennent douleur immédiate, rougeur, tuméfaction et induration, avec régression habituelle en 24 à 48 heures. Le malaise fait partie des réactions générales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les réactions générales, allergiques, cutanées et rénales post-vaccinales, quelles propositions sont exactes ?",
+      "choices": [
+        "La fièvre peut survenir dans les 24 à 48 heures après vaccination.",
+        "L’urticaire et le choc anaphylactique sont mentionnés parmi les réactions allergiques, le choc anaphylactique étant rare.",
+        "Une éruption ou une urticaire après certains vaccins, notamment BCG ou rougeole, disparaît habituellement en 3 à 6 jours.",
+        "Des néphropathies précoces ou tardives sont possibles mais rares."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite la fièvre dans les 24 à 48 heures, les manifestations allergiques dont urticaire et rare choc anaphylactique, les réactions cutanées disparaissant habituellement en 3 à 6 jours, et de rares néphropathies précoces ou tardives."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les accidents neurologiques surtout décrits avec les vaccins coquelucheux à germes entiers, quelles propositions sont exactes ?",
+      "choices": [
+        "Les convulsions peuvent survenir entre 30 minutes et 3 jours après l’injection.",
+        "Les convulsions sont plus fréquentes en cas d’antécédents neurologiques personnels ou familiaux.",
+        "Le syndrome d’hypotonie-hyporéactivité peut associer collapsus, pâleur ou cyanose.",
+        "L’encéphalopathie est décrite comme un accident fréquent survenant systématiquement dans les premières minutes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les convulsions peuvent apparaître entre 30 minutes et 3 jours, surtout en cas d’antécédents neurologiques. Le syndrome d’hypotonie-hyporéactivité associe collapsus, pâleur ou cyanose. L’encéphalopathie est rare et survient de quelques heures à 2-3 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les accidents rares rapportés après vaccination dans le texte, lesquels sont cités ?",
+      "choices": [
+        "Méningite.",
+        "Accident paralytique.",
+        "Atteinte articulaire.",
+        "Insuffisance rénale aiguë constante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne comme accidents rares la méningite, l’accident paralytique et l’atteinte articulaire. Il ne décrit pas une insuffisance rénale aiguë constante."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon le calendrier vaccinal pédiatrique utilisé en Algérie, quelles vaccinations sont prévues à l’âge de 4 mois ?",
+      "choices": [
+        "DTCa-Hib.",
+        "Hépatite B.",
+        "Vaccin antipoliomyélitique oral.",
+        "Pneumocoque conjugué."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "À 4 mois, le calendrier mentionne DTCa-Hib, hépatite B, vaccin antipoliomyélitique injectable et pneumocoque conjugué. Le vaccin antipoliomyélitique oral n’est pas cité à cet âge."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon le calendrier vaccinal pédiatrique utilisé en Algérie, quelles propositions concernant l’âge de 12 mois sont exactes ?",
+      "choices": [
+        "Le DTCa-Hib est administré.",
+        "Le rougeole-oreillons-rubéole est administré à 12 mois.",
+        "L’hépatite B et le vaccin antipoliomyélitique injectable sont administrés.",
+        "Le pneumocoque conjugué et le vaccin antipoliomyélitique oral sont administrés."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "À 12 mois, le calendrier comprend DTCa-Hib, hépatite B, vaccin antipoliomyélitique injectable, pneumocoque conjugué et vaccin antipoliomyélitique oral. Le ROR est prévu à 11 mois puis à 18 mois."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rappels vaccinaux chez l’adolescent et l’adulte dans le calendrier cité, quelles propositions sont exactes ?",
+      "choices": [
+        "À 11-13 ans, le diphtérie-tétanos adulte est administré avec le vaccin antipoliomyélitique oral.",
+        "À 16-18 ans, le diphtérie-tétanos adulte est administré.",
+        "À partir de 18 ans, un rappel diphtérie-tétanos adulte est prévu tous les 10 ans.",
+        "À 11-13 ans, le rougeole-oreillons-rubéole est systématiquement prévu dans le calendrier cité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calendrier indique à 11-13 ans DT adulte + VPO, à 16-18 ans DT adulte, puis à partir de 18 ans un rappel DT adulte tous les 10 ans. Le ROR n’est pas mentionné à 11-13 ans dans ce calendrier."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la notion de calendrier vaccinal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à l’ensemble des vaccinations recommandées selon l’âge.",
+        "Il vise à assurer une protection individuelle.",
+        "Il vise aussi à assurer une protection collective.",
+        "Il est établi uniquement en fonction du nombre de vaccins disponibles."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un calendrier vaccinal est l’ensemble des vaccinations recommandées selon l’âge afin d’assurer une protection individuelle et collective. Son établissement ne dépend pas uniquement des vaccins disponibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations chroniques suivantes, lesquelles sont citées comme de fausses contre-indications à la vaccination ?",
+      "choices": [
+        "Cardiopathie chronique.",
+        "Maladie respiratoire chronique.",
+        "Insuffisance rénale chronique.",
+        "Maladie hépatique chronique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite parmi les fausses contre-indications la cardiopathie chronique, la maladie respiratoire chronique, l’insuffisance rénale chronique et la maladie hépatique chronique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la vaccination en situation d’immunodépression, quelles propositions sont exactes ?",
+      "choices": [
+        "La conduite vaccinale dépend de la nature du déficit immunitaire.",
+        "La conduite vaccinale dépend du degré d’immunodépression.",
+        "La conduite vaccinale dépend du risque d’exposition aux agents infectieux.",
+        "Les vaccins inactivés entraînent toujours une réponse immunitaire normale chez l’immunodéprimé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vaccination chez l’immunodéprimé dépend de la nature du déficit, de son degré et du risque d’exposition. Les vaccins inactivés peuvent être administrés, mais la réponse immunitaire peut être diminuée."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient atteint de sclérose en plaques, quelle attitude est indiquée dans le texte vis-à-vis de la vaccination contre l’hépatite B ?",
+      "choices": [
+        "Elle est absolument contre-indiquée dans tous les cas.",
+        "Elle doit être discutée selon le risque d’exposition et le bénéfice attendu.",
+        "Elle doit être remplacée systématiquement par le vaccin contre l’hépatite A.",
+        "Elle ne peut être réalisée qu’après administration d’immunoglobulines."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que chez les patients atteints de sclérose en plaques, la vaccination contre l’hépatite B doit être discutée en fonction du risque d’exposition et du bénéfice attendu."
+    },
+    {
+      "type": "QCS",
+      "question": "À partir de 18 ans, quel rappel est prévu dans le calendrier vaccinal cité ?",
+      "choices": [
+        "Rappel rougeole-oreillons-rubéole tous les 5 ans.",
+        "Rappel diphtérie-tétanos adulte tous les 10 ans.",
+        "Rappel pneumococcique conjugué tous les 2 ans.",
+        "Rappel DTCa-Hib tous les 10 ans."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le calendrier indique qu’à partir de 18 ans, un rappel diphtérie-tétanos adulte est prévu tous les 10 ans."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée habituelle de disparition d’une éruption ou d’une urticaire après certains vaccins, notamment BCG ou rougeole ?",
+      "choices": [
+        "Quelques minutes.",
+        "24 à 48 heures exclusivement.",
+        "3 à 6 jours.",
+        "Plusieurs mois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les réactions cutanées de type éruption ou urticaire après certains vaccins disparaissent habituellement en 3 à 6 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les situations suivantes, laquelle est citée comme une fausse contre-indication à la vaccination ?",
+      "choices": [
+        "Immunodépression sévère pour un vaccin vivant atténué.",
+        "Grossesse pour le vaccin contre la varicelle.",
+        "Prématurité.",
+        "Corticothérapie à dose élevée prolongée pour un vaccin vivant."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La prématurité est explicitement citée parmi les fausses contre-indications. Les autres situations peuvent constituer de vraies contre-indications selon le vaccin et le contexte."
+    },
+    {
+      "type": "QCS",
+      "question": "Après arrêt d’une chimiothérapie, quel délai approximatif est indiqué avant l’administration de vaccins inactivés ou polysaccharidiques ?",
+      "choices": [
+        "Aucun délai dans tous les cas.",
+        "Environ 3 mois.",
+        "Au moins 6 mois systématiquement.",
+        "Au moins 24 mois."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Après arrêt d’une chimiothérapie, le texte indique un délai d’environ 3 mois pour les vaccins inactivés ou polysaccharidiques."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas de déficit immunitaire congénital, quelle règle vaccinale est énoncée dans le texte ?",
+      "choices": [
+        "Contre-indication des vaccins vivants.",
+        "Contre-indication de tous les vaccins inactivés.",
+        "Administration obligatoire du vaccin antipoliomyélitique oral.",
+        "Absence de toute restriction vaccinale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique qu’en cas de déficit immunitaire congénital, les vaccins vivants sont contre-indiqués."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le contexte d’une exposition périnatale au VIH, quelles propositions respectent la conduite vaccinale décrite ?",
+      "choices": [
+        "Un enfant sans signe clinique dont l’infection VIH n’est pas exclue poursuit les vaccinations du calendrier, en dehors du BCG.",
+        "Le BCG est administré uniquement après sérologie négative chez l’enfant né de mère infectée par le VIH.",
+        "Le BCG est généralement envisagé vers 9-10 mois selon le contexte après exclusion de l’infection VIH.",
+        "L’absence de signes cliniques autorise l’administration immédiate du BCG sans attendre l’exclusion du VIH."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez l’enfant exposé au VIH sans signe clinique, le calendrier est poursuivi sauf le BCG, qui n’est réalisé qu’après exclusion de l’infection, généralement vers 9-10 mois selon le contexte."
+    },
+    {
+      "type": "QCM",
+      "question": "Avant une injection vaccinale chez un patient hémophile, quelles précautions sont conformes au texte ?",
+      "choices": [
+        "Tenir compte du risque hémorragique.",
+        "Choisir si possible une zone facile à comprimer, notamment le bras.",
+        "Réaliser une compression prolongée après l’injection.",
+        "Considérer l’hémophilie comme une contre-indication à toute vaccination."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hémophilie n’est pas une contre-indication vaccinale, mais impose des précautions techniques pour réduire le risque hémorragique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le choix de la voie d’administration vaccinale chez l’hémophile, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie sous-cutanée peut être préférée lorsque cela est possible et adapté au vaccin.",
+        "La voie intradermique peut être préférée lorsque cela est possible et adapté au vaccin.",
+        "La voie sous-cutanée ou intradermique doit être imposée quel que soit le vaccin.",
+        "Le choix de la voie doit rester compatible avec le vaccin administré."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Chez l’hémophile, on préfère la voie sous-cutanée ou intradermique si cela est possible et adapté au vaccin ; elle ne doit pas être imposée de façon systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une transfusion sanguine chez un hémophile, quelles propositions concernant les vaccins vivants sont conformes au texte ?",
+      "choices": [
+        "Il faut attendre environ 6 semaines avant d’administrer un vaccin vivant.",
+        "Le ROR est cité comme exemple de vaccin vivant concerné.",
+        "L’administration immédiate du ROR après transfusion est recommandée.",
+        "La consigne de délai est rapportée dans le contexte d’une transfusion sanguine."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "En cas de transfusion sanguine chez l’hémophile, il est indiqué d’attendre environ 6 semaines avant un vaccin vivant comme le ROR."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez une femme enceinte, quels vaccins vivants atténués sont contre-indiqués selon la règle générale rapportée ?",
+      "choices": [
+        "Vaccin contre la rougeole.",
+        "Vaccin contre la varicelle.",
+        "Vaccin antipoliomyélitique oral.",
+        "Vaccin antigrippal inactivé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vaccins vivants atténués sont contre-indiqués pendant la grossesse, notamment rougeole, varicelle et polio orale. Le vaccin antigrippal inactivé n’est pas contre-indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la vaccination contre la fièvre jaune pendant la grossesse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle fait partie des vaccins vivants atténués contre-indiqués pendant la grossesse.",
+        "Elle peut être envisagée en indication exceptionnelle.",
+        "Une évaluation du rapport bénéfice-risque est nécessaire en cas d’indication exceptionnelle.",
+        "Elle est recommandée systématiquement pendant toute grossesse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le vaccin contre la fièvre jaune est contre-indiqué pendant la grossesse, sauf indication exceptionnelle après évaluation du rapport bénéfice-risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la vaccination antitétanique chez la femme enceinte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle contribue à prévenir le tétanos maternel.",
+        "Elle contribue à prévenir le tétanos néonatal.",
+        "Elle est citée comme une vaccination utile pendant la grossesse.",
+        "Elle est contre-indiquée car assimilée aux vaccins vivants atténués."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vaccination antitétanique de la femme enceinte contribue à prévenir à la fois le tétanos maternel et le tétanos néonatal."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du vaccin antigrippal inactivé chez la femme enceinte, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Il n’est pas contre-indiqué pendant la grossesse.",
+        "Il peut être recommandé selon le risque.",
+        "Il appartient à la liste des vaccins vivants atténués contre-indiqués.",
+        "Sa recommandation éventuelle dépend du contexte de risque."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le vaccin antigrippal inactivé n’est pas contre-indiqué pendant la grossesse et peut être recommandé selon le risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez le personnel de santé, quelles vaccinations sont obligatoires ou fortement indiquées selon le risque professionnel d’après le texte ?",
+      "choices": [
+        "Hépatite B.",
+        "Diphtérie-tétanos.",
+        "Rappels selon le statut vaccinal.",
+        "Grippe saisonnière dans la même catégorie obligatoire ou fortement indiquée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez le personnel de santé, l’hépatite B, diphtérie-tétanos et les rappels selon le statut vaccinal sont obligatoires ou fortement indiqués selon le risque. La grippe saisonnière est classée comme recommandée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation vaccinale du personnel de santé, quelles propositions sont exactes ?",
+      "choices": [
+        "La vaccination contre l’hépatite B est citée parmi les vaccinations obligatoires ou fortement indiquées selon le risque professionnel.",
+        "La vaccination diphtérie-tétanos est citée parmi les vaccinations obligatoires ou fortement indiquées selon le risque professionnel.",
+        "Les rappels doivent tenir compte du statut vaccinal.",
+        "La vaccination contre la grippe saisonnière est citée comme recommandée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue les vaccinations obligatoires ou fortement indiquées selon le risque professionnel, et la grippe saisonnière qui est recommandée."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un hémophile, quelles conduites seraient non conformes aux précautions vaccinales rapportées ?",
+      "choices": [
+        "Déclarer l’hémophilie comme contre-indication absolue à la vaccination.",
+        "Choisir volontairement une zone difficile à comprimer.",
+        "Omettre toute compression après l’injection.",
+        "Administrer un vaccin vivant comme le ROR immédiatement après une transfusion sanguine."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’hémophilie n’interdit pas la vaccination, mais impose de choisir une zone compressible, de comprimer prolongément et de différer un vaccin vivant environ 6 semaines après transfusion."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez une femme enceinte, quelles conduites seraient non conformes aux règles vaccinales décrites ?",
+      "choices": [
+        "Administrer un vaccin contre la rubéole pendant la grossesse.",
+        "Administrer un vaccin contre la varicelle pendant la grossesse.",
+        "Administrer le vaccin antipoliomyélitique oral pendant la grossesse.",
+        "Administrer le vaccin contre la fièvre jaune sans indication exceptionnelle ni évaluation bénéfice-risque."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les vaccins vivants atténués cités sont contre-indiqués pendant la grossesse ; la fièvre jaune ne peut être envisagée qu’en situation exceptionnelle avec évaluation bénéfice-risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge vaccinale d’un enfant exposé au VIH, quelles propositions sont incompatibles avec le texte ?",
+      "choices": [
+        "Suspendre toutes les vaccinations du calendrier chez un enfant sans signe clinique jusqu’à exclusion du VIH.",
+        "Administrer le BCG avant exclusion de l’infection VIH chez un enfant sans signe clinique.",
+        "Exiger une sérologie négative avant BCG chez l’enfant né de mère infectée par le VIH.",
+        "Envisager le BCG généralement vers 9-10 mois selon le contexte après sérologie négative."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le calendrier vaccinal est poursuivi chez l’enfant sans signe clinique, sauf le BCG qui est différé jusqu’à exclusion de l’infection VIH."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels enchaînements situation-attitude sont conformes au texte ?",
+      "choices": [
+        "Enfant né de mère infectée par le VIH avec sérologie négative : BCG envisageable généralement vers 9-10 mois selon le contexte.",
+        "Hémophile transfusé : différer un vaccin vivant comme le ROR d’environ 6 semaines.",
+        "Femme enceinte exposée à une indication de fièvre jaune : discussion uniquement en situation exceptionnelle avec évaluation bénéfice-risque.",
+        "Personnel de santé : remplacer les rappels diphtérie-tétanos par la seule vaccination antigrippale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premières associations reprennent les conduites décrites. La grippe saisonnière est recommandée mais ne remplace pas les vaccinations fortement indiquées ni les rappels selon le statut vaccinal."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un enfant sans signe clinique dont l’infection VIH n’est pas encore exclue, quelle vaccination doit être différée selon le texte ?",
+      "choices": [
+        "BCG.",
+        "Vaccination antitétanique.",
+        "Vaccination antigrippale inactivée.",
+        "Diphtérie-tétanos."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Chez cet enfant, la vaccination suit le calendrier, sauf le BCG jusqu’à exclusion de l’infection VIH."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’enfant né de mère infectée par le VIH, à quel moment le BCG est-il généralement envisagé selon le texte ?",
+      "choices": [
+        "À la naissance, quel que soit le statut VIH.",
+        "Après sérologie négative, généralement vers 9-10 mois selon le contexte.",
+        "Uniquement après l’âge adulte.",
+        "Immédiatement dès l’absence de fièvre."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le BCG est indiqué uniquement après sérologie négative, généralement vers 9-10 mois selon le contexte."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient hémophile devant recevoir un vaccin injectable, quelle zone est particulièrement privilégiée car facilement compressible ?",
+      "choices": [
+        "Le bras.",
+        "La région lombaire.",
+        "La région abdominale profonde.",
+        "Une zone impossible à comprimer."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte recommande de privilégier une zone facile à comprimer, notamment le bras."
+    },
+    {
+      "type": "QCS",
+      "question": "Après transfusion sanguine chez un hémophile, quel délai approximatif est indiqué avant un vaccin vivant comme le ROR ?",
+      "choices": [
+        "24 heures.",
+        "7 jours.",
+        "Environ 6 semaines.",
+        "Aucun délai."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Après transfusion sanguine, il faut attendre environ 6 semaines avant d’administrer un vaccin vivant comme le ROR."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez une femme enceinte, quelle proposition concernant le vaccin antigrippal inactivé est correcte ?",
+      "choices": [
+        "Il est systématiquement contre-indiqué car la grossesse interdit tous les vaccins.",
+        "Il n’est pas contre-indiqué et peut être recommandé selon le risque.",
+        "Il est un vaccin vivant atténué contre-indiqué.",
+        "Il remplace la vaccination antitétanique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le vaccin antigrippal inactivé n’est pas contre-indiqué pendant la grossesse et peut être recommandé selon le risque."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez le personnel de santé, quelle vaccination est classée comme recommandée dans le texte ?",
+      "choices": [
+        "Grippe saisonnière.",
+        "Fièvre jaune.",
+        "Varicelle systématique.",
+        "Polio orale systématique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La vaccination contre la grippe saisonnière est citée comme recommandée chez le personnel de santé."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des constituants non antigéniques pouvant entrer dans la composition d’un vaccin, quelles propositions sont exactes ?",
+      "choices": [
+        "Un adjuvant peut être ajouté pour augmenter la réponse immunitaire.",
+        "Des stabilisants peuvent faire partie de la préparation vaccinale.",
+        "Un liquide de suspension peut être présent.",
+        "Des antibiotiques, notamment des aminosides, peuvent être utilisés pour prévenir une contamination bactérienne."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite l’adjuvant, les stabilisants, le liquide de suspension et parfois des antibiotiques, notamment les aminosides, pour prévenir la contamination bactérienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les vaccins vivants atténués suivants, lesquels ont une voie d’administration explicitement non injectable dans le texte ?",
+      "choices": [
+        "Vaccin antipoliomyélitique oral.",
+        "Certains vaccins contre le rotavirus.",
+        "Vaccin antigrippal vivant atténué.",
+        "Vaccin contre la fièvre jaune."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le vaccin antipoliomyélitique oral et certains vaccins rotavirus sont administrés par voie orale ; le vaccin antigrippal vivant atténué est administré par voie nasale. La fièvre jaune est citée par voie sous-cutanée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccins contenant un antigène coquelucheux, quelles propositions sont exactes ?",
+      "choices": [
+        "Le vaccin coquelucheux à germes entiers est classé parmi les vaccins inactivés, tués ou inertes.",
+        "Le vaccin coquelucheux acellulaire est classé parmi les vaccins sous-unitaires protéiques ou apparentés.",
+        "Les vaccins diphtérie-tétanos-coqueluche sont cités parmi les vaccins administrés par voie intramusculaire.",
+        "Le vaccin coquelucheux acellulaire est classé parmi les vaccins vivants atténués."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La coqueluche à germes entiers est inactivée ; la coqueluche acellulaire est sous-unitaire ; les vaccins DTC sont administrés par voie intramusculaire. La coqueluche acellulaire n’est pas un vaccin vivant atténué."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification des vaccins polysaccharidiques cités, quelles propositions sont exactes ?",
+      "choices": [
+        "Haemophilus influenzae type b est cité parmi les vaccins polysaccharidiques conjugués.",
+        "Le pneumocoque conjugué est cité parmi les vaccins polysaccharidiques conjugués.",
+        "Le méningocoque A-C est cité parmi les vaccins polysaccharidiques non conjugués.",
+        "Le méningocoque A-C-Y-W est cité parmi les vaccins polysaccharidiques non conjugués."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Hib, pneumocoque conjugué, méningocoque C et méningocoque A-C-Y-W sont conjugués. Le méningocoque A-C et le pneumocoque 23-valent sont non conjugués."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccins antipoliomyélitiques et anti-hépatite A ou B, quelles propositions sont exactes ?",
+      "choices": [
+        "Le vaccin antipoliomyélitique injectable est un vaccin inactivé.",
+        "Le vaccin antipoliomyélitique oral est un vaccin vivant atténué administré par voie orale.",
+        "Le vaccin contre l’hépatite A est classé parmi les vaccins inactivés.",
+        "Le vaccin contre l’hépatite B est classé parmi les vaccins vivants atténués."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le VPI est inactivé, le VPO est vivant atténué et administré par voie orale, l’hépatite A est inactivée. L’hépatite B est un vaccin sous-unitaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels vaccins sont explicitement cités comme administrables par voie sous-cutanée ?",
+      "choices": [
+        "Rougeole-oreillons-rubéole.",
+        "Fièvre jaune.",
+        "Zona et varicelle.",
+        "Grippe inactivée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie sous-cutanée concerne ROR, fièvre jaune, zona et varicelle. La grippe inactivée est citée parmi les vaccins administrés par voie intramusculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les doses usuelles des vaccins cités, quelles propositions sont exactes ?",
+      "choices": [
+        "Le vaccin antipoliomyélitique injectable est administré à la dose de 0,5 ml.",
+        "Le vaccin contre l’hépatite B est administré chez l’enfant à la dose de 0,5 ml.",
+        "Les vaccins diphtérie-tétanos-coqueluche, Hib et ROR ont une dose habituelle de 0,5 ml.",
+        "Le vaccin antipoliomyélitique oral est administré à la dose de 0,5 ml."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le VPI, le vaccin hépatite B chez l’enfant, DTC, Hib et ROR sont cités à 0,5 ml. Le VPO est administré en 2 gouttes par voie orale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le vaccin contre l’hépatite B, quelles propositions sont exactes ?",
+      "choices": [
+        "La forme pédiatrique contient 10 µg d’antigène HBs.",
+        "La forme adulte contient 20 µg d’antigène HBs.",
+        "La forme pédiatrique contient 20 µg d’antigène HBs.",
+        "Il est classé parmi les vaccins sous-unitaires protéiques ou apparentés."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le vaccin hépatite B contient 10 µg d’antigène HBs en forme pédiatrique et 20 µg en forme adulte ; il appartient aux vaccins sous-unitaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la conservation des vaccins, quelles propositions sont exactes ?",
+      "choices": [
+        "Les vaccins sont fragiles.",
+        "Ils ont une durée de vie limitée.",
+        "Ils doivent être conservés entre +2 °C et +8 °C durant tout le circuit de distribution.",
+        "Le respect de la chaîne du froid n’est nécessaire qu’au moment de l’administration."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vaccins sont fragiles, à durée de vie limitée, et nécessitent une conservation entre +2 °C et +8 °C avec respect strict de la chaîne du froid pendant tout le circuit."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs sont cités comme influençant l’efficacité vaccinale ?",
+      "choices": [
+        "La présence ou l’absence d’anticorps maternels.",
+        "La nature de l’antigène et la dose antigénique.",
+        "L’état nutritionnel, l’âge et le terrain immunitaire.",
+        "L’injection dans la fesse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les anticorps maternels, la nature et la dose de l’antigène, les adjuvants, l’état nutritionnel, l’âge et le terrain immunitaire. L’injection dans la fesse n’est pas recommandée mais n’est pas listée comme facteur d’efficacité."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas d’interruption d’un schéma vaccinal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il ne faut pas recommencer toute la vaccination.",
+        "Il faut compléter les doses manquantes.",
+        "L’interruption retarde l’obtention d’une protection complète.",
+        "Toute interruption impose de reprendre le schéma depuis la première dose."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’interruption du schéma ne justifie pas de recommencer ; il faut administrer les doses manquantes. Elle retarde simplement l’obtention d’une protection complète."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’articulation entre vaccins vivants et immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Après administration d’immunoglobulines, il faut attendre au moins 6 semaines avant un vaccin vivant.",
+        "Après administration d’immunoglobulines, un délai idéal de 3 mois peut être retenu selon le contexte.",
+        "Après un vaccin vivant, il faut attendre au moins 2 semaines avant d’administrer des immunoglobulines.",
+        "L’administration d’immunoglobulines moins de 14 jours après un vaccin vivant n’a pas d’impact sur la validité vaccinale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les immunoglobulines peuvent interférer avec les vaccins vivants : délai d’au moins 6 semaines, idéalement 3 mois selon le contexte ; après vaccin vivant, attendre 2 semaines. Si les immunoglobulines sont données avant 14 jours, une revaccination est nécessaire environ 3 mois plus tard."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccinations combinées et simultanées, quelles propositions sont exactes ?",
+      "choices": [
+        "Une vaccination combinée administre plusieurs antigènes en un seul point.",
+        "Une vaccination simultanée administre plusieurs vaccins au même moment en des points différents ou par des voies différentes.",
+        "En vaccination simultanée, les points d’injection doivent être séparés d’au moins 2,5 cm.",
+        "Une vaccination simultanée impose de mélanger tous les vaccins dans la même seringue."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vaccins combinés sont dans une même préparation ou mélangés au moment de l’emploi et administrés en un seul point. Les vaccinations simultanées se font au même moment, en points différents séparés d’au moins 2,5 cm ou par des voies différentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certaines contre-indications vaccinales précisées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La grossesse est une contre-indication générale des vaccins vivants atténués.",
+        "Le BCG est contre-indiqué en cas d’infection VIH ou de déficit immunitaire.",
+        "Le vaccin antipoliomyélitique oral est contre-indiqué en cas de déficit immunitaire chez le sujet à vacciner ou dans son entourage.",
+        "L’allergie à la néomycine est citée parmi les contre-indications des vaccins rougeole-oreillons-rubéole."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre éléments sont explicitement rapportés : grossesse pour les vaccins vivants, BCG contre-indiqué en cas de VIH ou déficit immunitaire, VPO contre-indiqué si déficit immunitaire chez le vacciné ou l’entourage, et ROR contre-indiqué en cas d’allergie à la néomycine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel vaccin est classé parmi les vaccins polysaccharidiques non conjugués ?",
+      "choices": [
+        "Haemophilus influenzae type b.",
+        "Pneumocoque 23-valent.",
+        "Méningocoque C.",
+        "Pneumocoque conjugué."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le pneumocoque 23-valent est cité parmi les vaccins polysaccharidiques non conjugués."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour une injection intramusculaire vaccinale, à partir de quel âge le muscle deltoïde est-il le site indiqué dans le texte ?",
+      "choices": [
+        "Dès la naissance.",
+        "Avant 6 mois.",
+        "Après 2 ans.",
+        "Uniquement après 18 ans."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le site intramusculaire recommandé est la face antérolatérale de la cuisse avant 2 ans et le muscle deltoïde après 2 ans."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel vaccin est cité dans le groupe des vaccins protéiques ou pseudo-particules virales ?",
+      "choices": [
+        "HPV.",
+        "BCG.",
+        "Vaccin antipoliomyélitique injectable.",
+        "Fièvre jaune."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le vaccin HPV est cité parmi les vaccins protéiques ou pseudo-particules virales. Le BCG et la fièvre jaune sont vivants atténués ; le VPI est inactivé."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le mieux l’immunisation passive ?",
+      "choices": [
+        "Injection d’antigènes pour induire une réponse immunitaire.",
+        "Injection d’anticorps spécifiques, notamment par immunoglobulines.",
+        "Administration simultanée de plusieurs vaccins en des points différents.",
+        "Mélange de plusieurs antigènes dans une même préparation vaccinale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’immunisation passive correspond à l’injection d’anticorps spécifiques, notamment par immunoglobulines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel type d’antibiotiques est cité comme pouvant être présent dans certains vaccins pour prévenir la contamination bactérienne ?",
+      "choices": [
+        "Aminosides.",
+        "Macrolides.",
+        "Cyclines.",
+        "Glycopeptides."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite parfois des antibiotiques, notamment des aminosides, pour prévenir la contamination bactérienne."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors d’une vaccination simultanée par injections en points différents, quelle distance minimale doit séparer les points d’administration ?",
+      "choices": [
+        "0,5 cm.",
+        "1 cm.",
+        "2,5 cm.",
+        "5 cm."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les vaccins administrés simultanément doivent l’être en des points différents séparés d’au moins 2,5 cm, ou par des voies différentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le vaccin coquelucheux à germes entiers, quelles propositions distinguent correctement contre-indications et précautions ?",
+      "choices": [
+        "Une encéphalopathie évolutive, convulsivante ou non, constitue une contre-indication.",
+        "Une forte réaction post-injection avec fièvre supérieure à 40 °C constitue une contre-indication.",
+        "Un cri persistant après une injection antérieure impose une précaution d’emploi.",
+        "Un syndrome d’hypotonie-hyporéactivité après une injection antérieure impose une précaution d’emploi."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue les contre-indications formelles du vaccin coquelucheux à germes entiers et les situations nécessitant des précautions après une injection antérieure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccins ne présentant pas de contre-indication spécifique habituelle selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les anatoxines diphtérique et tétanique n’ont pas de contre-indication spécifique habituelle en dehors d’une allergie sévère à un composant.",
+        "Le vaccin Hib conjugué est décrit comme n’ayant pas de contre-indication spécifique habituelle.",
+        "Le vaccin méningococcique n’a pas de contre-indication spécifique habituelle en dehors des allergies sévères.",
+        "Les vaccins inactivés cités n’ont pas de contre-indication spécifique habituelle en dehors d’une réaction allergique sévère à un composant."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces formulations reprennent les contre-indications spécifiques habituelles mentionnées pour ces vaccins."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont considérées comme de fausses contre-indications à la vaccination ?",
+      "choices": [
+        "Une infection mineure.",
+        "Une prématurité.",
+        "Une corticothérapie à faible dose.",
+        "Une dermatose étendue sévère au site d’injection."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’infection mineure, la prématurité et la corticothérapie à faible dose sont citées comme fausses contre-indications. Une dermatose étendue peut être une contre-indication temporaire selon le site et la sévérité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les délais habituels des réactions indésirables post-vaccinales non neurologiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Les réactions locales régressent habituellement en 24 à 48 heures.",
+        "La fièvre post-vaccinale peut survenir dans les 24 à 48 heures.",
+        "Une éruption ou une urticaire après certains vaccins disparaît habituellement en 3 à 6 jours.",
+        "Les néphropathies post-vaccinales peuvent être précoces ou tardives, mais elles sont rares."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les délais et la rareté des complications rénales correspondent aux données rapportées dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les accidents neurologiques post-vaccinaux décrits surtout avec les vaccins coquelucheux à germes entiers, quelles associations événement-délai sont exactes ?",
+      "choices": [
+        "Convulsions : entre 30 minutes et 3 jours après l’injection.",
+        "Syndrome d’hypotonie-hyporéactivité : de quelques minutes à 48 heures après la vaccination.",
+        "Syndrome du cri persistant : généralement 6 à 10 heures après la première injection.",
+        "Encéphalopathie : de quelques heures à 2-3 jours après l’injection."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces délais sont ceux rapportés pour les complications neurologiques post-vaccinales dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon le calendrier vaccinal pédiatrique utilisé en Algérie, quels vaccins sont administrés à la fois à 2 mois et à 4 mois ?",
+      "choices": [
+        "DTCa-Hib.",
+        "Hépatite B.",
+        "Vaccin antipoliomyélitique injectable.",
+        "Pneumocoque conjugué."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "À 2 mois et à 4 mois, le calendrier mentionne les mêmes quatre vaccinations : DTCa-Hib, hépatite B, polio injectable et pneumocoque conjugué."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rappels et vaccinations après 6 ans dans le calendrier cité, quelles propositions sont exactes ?",
+      "choices": [
+        "À 6 ans, le calendrier prévoit DTCa pédiatrique et vaccin antipoliomyélitique oral.",
+        "À 11-13 ans, le calendrier prévoit diphtérie-tétanos adulte et vaccin antipoliomyélitique oral.",
+        "À 16-18 ans, le calendrier prévoit diphtérie-tétanos adulte.",
+        "À partir de 18 ans, le rappel diphtérie-tétanos adulte est prévu tous les 10 ans."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces éléments correspondent aux âges et rappels indiqués dans le calendrier vaccinal fourni."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déterminants de l’établissement d’un calendrier vaccinal, quels éléments sont explicitement pris en compte ?",
+      "choices": [
+        "Les formes graves et inapparentes des maladies.",
+        "Les données épidémiologiques.",
+        "L’impact humain et médico-économique.",
+        "Les nouvelles formulations, associations et combinaisons vaccinales."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces quatre éléments parmi les paramètres entrant dans l’établissement d’un calendrier vaccinal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la vaccination chez l’immunodéprimé, quelles propositions sont exactes ?",
+      "choices": [
+        "La conduite dépend de la nature du déficit immunitaire.",
+        "La conduite dépend du degré d’immunodépression.",
+        "La conduite dépend du risque d’exposition aux agents infectieux.",
+        "La conduite est indépendante du risque infectieux si le vaccin est inactivé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vaccination chez l’immunodéprimé dépend de la nature du déficit, de son degré et du risque d’exposition. Le texte ne dit pas qu’elle est indépendante du risque infectieux."
+    },
+    {
+      "type": "QCM",
+      "question": "Après arrêt d’une chimiothérapie, quelles propositions sont conformes aux délais vaccinaux rapportés ?",
+      "choices": [
+        "Un vaccin vivant nécessite un délai d’au moins 6 mois avant vaccination ou rappel.",
+        "Un vaccin inactivé nécessite un délai d’environ 3 mois.",
+        "Un vaccin polysaccharidique nécessite un délai d’environ 3 mois.",
+        "Après chimiothérapie intensive, le délai peut aller jusqu’à 12 mois."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les délais indiqués sont de 6 mois pour les vaccins vivants, 3 mois pour les vaccins inactivés ou polysaccharidiques, et jusqu’à 12 mois après chimiothérapie intensive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant corticothérapie et vaccination, quelles propositions sont exactes ?",
+      "choices": [
+        "Une dose physiologique ou faible ne constitue pas une contre-indication.",
+        "Une corticothérapie inférieure à 20 mg/j pendant moins de 14 jours ne constitue pas une contre-indication habituelle.",
+        "Une corticothérapie à dose élevée prolongée contre-indique les vaccins vivants.",
+        "Après une corticothérapie immunosuppressive, il faut attendre au moins 1 mois avant un vaccin vivant."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise les seuils de corticothérapie et le délai d’attente avant vaccin vivant après corticothérapie immunosuppressive."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un enfant infecté par le VIH ou né de mère séropositive avec signes cliniques ou immunodépression, quelles propositions sont exactes ?",
+      "choices": [
+        "Les vaccins vivants sont contre-indiqués.",
+        "Le BCG est notamment contre-indiqué.",
+        "La polio orale est notamment contre-indiquée.",
+        "Les vaccins inactivés, DTCa, Hib et hépatite B peuvent être administrés selon le calendrier."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "En présence de signes cliniques ou d’immunodépression, les vaccins vivants sont contre-indiqués, mais les vaccins inactivés et assimilés sont poursuivis selon le calendrier."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les vaccins suivants, lesquels sont cités dans le texte comme vaccins inactivés sans contre-indication spécifique habituelle en dehors d’une allergie sévère à un composant ?",
+      "choices": [
+        "Vaccin contre la rage.",
+        "Vaccin antipoliomyélitique injectable.",
+        "Vaccin antigrippal inactivé.",
+        "Vaccin contre la varicelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La rage, la polio injectable et la grippe inactivée sont citées parmi les vaccins inactivés. La varicelle est un vaccin vivant avec contre-indications spécifiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certaines situations particulières imposant une discussion ou une prudence vaccinale, quelles propositions sont exactes ?",
+      "choices": [
+        "Une réinjection pneumococcique rapprochée doit être évitée si une dose a été administrée depuis moins de 3 ans.",
+        "La prudence pour le pneumocoque dépend du type de vaccin et des recommandations.",
+        "Chez un patient atteint de sclérose en plaques, la vaccination contre l’hépatite B doit être discutée selon le risque d’exposition et le bénéfice attendu.",
+        "Chez un patient atteint de sclérose en plaques, le texte impose systématiquement l’interdiction définitive du vaccin contre l’hépatite B."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande d’éviter une réinjection pneumococcique rapprochée selon le contexte et de discuter l’hépatite B dans la sclérose en plaques, sans l’interdire systématiquement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’objectif correctement formulé d’un calendrier vaccinal selon le texte ?",
+      "choices": [
+        "Assurer uniquement une protection individuelle.",
+        "Assurer uniquement une protection collective.",
+        "Assurer une protection individuelle et une protection collective.",
+        "Remplacer les mesures de prévention non vaccinales."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le calendrier vaccinal vise à assurer à la fois une protection individuelle et une protection collective."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le calendrier vaccinal pédiatrique utilisé en Algérie, à quel âge le vaccin antipoliomyélitique oral apparaît-il pour la première fois ?",
+      "choices": [
+        "À la naissance.",
+        "À 2 mois.",
+        "À 12 mois.",
+        "À 18 mois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le vaccin antipoliomyélitique oral est mentionné pour la première fois à l’âge de 12 mois."
+    },
+    {
+      "type": "QCS",
+      "question": "Après une corticothérapie immunosuppressive, quel délai minimal faut-il attendre avant d’administrer un vaccin vivant ?",
+      "choices": [
+        "48 heures.",
+        "7 jours.",
+        "1 mois.",
+        "6 mois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique d’attendre au moins 1 mois après la fin d’une corticothérapie immunosuppressive avant d’administrer un vaccin vivant."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation de corticothérapie ne constitue pas une contre-indication habituelle à la vaccination selon le texte ?",
+      "choices": [
+        "Corticothérapie inférieure à 20 mg/j pendant moins de 14 jours.",
+        "Corticothérapie à 20 mg/j ou plus pendant plus de 14 jours.",
+        "Corticothérapie immunosuppressive en cours avant vaccin vivant.",
+        "Corticothérapie à dose élevée prolongée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une corticothérapie inférieure à 20 mg/j pendant moins de 14 jours ne constitue pas une contre-indication habituelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à un accident rénal post-vaccinal rare cité dans le texte ?",
+      "choices": [
+        "Induration du point d’injection.",
+        "Néphropathie précoce ou tardive.",
+        "Syndrome du cri persistant.",
+        "Malaise fébrile isolé."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les accidents rénaux cités sont des néphropathies précoces ou tardives, rares."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le calendrier vaccinal pédiatrique utilisé en Algérie, à quel âge le vaccin rougeole-oreillons-rubéole est-il administré pour la première fois ?",
+      "choices": [
+        "À 4 mois.",
+        "À 11 mois.",
+        "À 12 mois.",
+        "À 6 ans."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La première administration du vaccin rougeole-oreillons-rubéole est prévue à 11 mois."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans quelles situations le texte impose-t-il une temporisation ou une condition préalable avant l’administration du BCG ou d’un vaccin vivant ?",
+      "choices": [
+        "Enfant sans signe clinique dont l’infection VIH n’est pas exclue : différer le BCG jusqu’à exclusion de l’infection VIH",
+        "Enfant né de mère infectée par le VIH : n’administrer le BCG qu’après sérologie négative",
+        "Hémophile transfusé : attendre environ 6 semaines avant un vaccin vivant comme le ROR",
+        "Femme enceinte : différer systématiquement la vaccination antigrippale inactivée jusqu’après l’accouchement"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le BCG est différé en cas de statut VIH non exclu et n’est réalisé chez l’enfant né de mère VIH qu’après sérologie négative. Après transfusion chez l’hémophile, un délai d’environ 6 semaines est requis avant un vaccin vivant comme le ROR. Le vaccin antigrippal inactivé n’est pas contre-indiqué pendant la grossesse."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient hémophile devant être vacciné, quelles propositions traduisent correctement l’attitude rapportée ?",
+      "choices": [
+        "L’hémophilie n’est pas une contre-indication à la vaccination",
+        "Le risque hémorragique doit être pris en compte avant l’injection",
+        "La vaccination doit être annulée dès lors qu’un trouble de l’hémostase existe",
+        "Une compression prolongée après l’injection est recommandée"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’hémophilie n’interdit pas la vaccination, mais impose des précautions techniques : prise en compte du risque hémorragique et compression prolongée après injection."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels vaccins vivants atténués sont explicitement cités comme contre-indiqués pendant la grossesse ?",
+      "choices": [
+        "Rougeole",
+        "Rubéole",
+        "Oreillons",
+        "Varicelle"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les vaccins vivants atténués contre la rougeole, la rubéole, les oreillons et la varicelle comme contre-indiqués pendant la grossesse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations vaccin-situation sont conformes au texte ?",
+      "choices": [
+        "Vaccination antitétanique chez la femme enceinte : prévention du tétanos maternel et néonatal",
+        "Vaccin antigrippal inactivé chez la femme enceinte : non contre-indiqué et éventuellement recommandé selon le risque",
+        "Grippe saisonnière chez le personnel de santé : vaccination recommandée",
+        "Hépatite B chez le personnel de santé : vaccination obligatoire ou fortement indiquée selon le risque professionnel"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre associations sont directement rapportées : antitétanique pendant la grossesse, grippe inactivée selon le risque, grippe saisonnière recommandée chez les soignants, hépatite B obligatoire ou fortement indiquée selon le risque professionnel."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la vaccination du personnel de santé, quelles affirmations contredisent le texte ?",
+      "choices": [
+        "L’hépatite B n’est jamais concernée par le risque professionnel",
+        "La grippe saisonnière est classée dans le texte parmi les vaccinations recommandées",
+        "Les rappels ne tiennent pas compte du statut vaccinal",
+        "La vaccination diphtérie-tétanos n’est pas citée parmi les vaccinations obligatoires ou fortement indiquées"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite l’hépatite B et diphtérie-tétanos comme vaccinations obligatoires ou fortement indiquées selon le risque professionnel, avec rappels selon le statut vaccinal. La grippe saisonnière est bien recommandée."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la vaccination pendant la grossesse, quelles nuances sont exactes ?",
+      "choices": [
+        "Les vaccins vivants atténués sont contre-indiqués pendant la grossesse",
+        "La fièvre jaune est contre-indiquée sauf indication exceptionnelle après évaluation du rapport bénéfice-risque",
+        "Le vaccin antigrippal inactivé peut être recommandé selon le risque",
+        "La vaccination antitétanique contribue à prévenir le tétanos néonatal"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise la contre-indication des vaccins vivants atténués, l’exception possible de la fièvre jaune, l’intérêt éventuel du vaccin antigrippal inactivé selon le risque, et la prévention du tétanos maternel et néonatal par la vaccination antitétanique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le BCG dans le contexte d’exposition au VIH, quelles propositions respectent le texte ?",
+      "choices": [
+        "Chez l’enfant sans signe clinique dont le statut VIH n’est pas exclu, le calendrier vaccinal est poursuivi sauf pour le BCG",
+        "Chez l’enfant né de mère infectée par le VIH, le BCG n’est administré qu’après sérologie négative",
+        "Le BCG est généralement envisagé vers 9-10 mois selon le contexte chez l’enfant né de mère infectée par le VIH",
+        "L’absence de signe clinique suffit à elle seule à autoriser immédiatement le BCG avant exclusion de l’infection VIH"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calendrier est poursuivi sauf BCG jusqu’à exclusion du VIH. Chez l’enfant né de mère infectée, le BCG est conditionné par une sérologie négative, généralement vers 9-10 mois selon le contexte."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une transfusion sanguine chez un hémophile, quelles propositions sont conformes au texte concernant les vaccins vivants ?",
+      "choices": [
+        "Un délai d’environ 6 semaines est recommandé avant un vaccin vivant",
+        "Le ROR est donné comme exemple de vaccin vivant concerné",
+        "Cette précaution ne transforme pas l’hémophilie en contre-indication vaccinale générale",
+        "Le délai recommandé est de 6 mois pour tous les vaccins, vivants ou non"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après transfusion chez l’hémophile, il faut attendre environ 6 semaines avant un vaccin vivant comme le ROR. L’hémophilie elle-même n’est pas une contre-indication générale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles décisions vaccinales sont explicitement conditionnées par un contexte, un risque ou un statut dans le texte ?",
+      "choices": [
+        "BCG généralement vers 9-10 mois chez l’enfant né de mère VIH, selon le contexte",
+        "Vaccin contre la fièvre jaune pendant la grossesse après évaluation du rapport bénéfice-risque en indication exceptionnelle",
+        "Vaccin antigrippal inactivé chez la femme enceinte pouvant être recommandé selon le risque",
+        "Rappels chez le personnel de santé selon le statut vaccinal"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte insiste sur plusieurs décisions dépendantes du contexte : BCG chez l’enfant exposé au VIH, fièvre jaune pendant la grossesse, grippe inactivée chez la femme enceinte et rappels chez le personnel de santé."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles restrictions seraient excessives ou non justifiées par le texte ?",
+      "choices": [
+        "Refuser toute vaccination à un hémophile au seul motif de son hémophilie",
+        "Interdire le vaccin antigrippal inactivé pendant toute grossesse",
+        "Interdire définitivement le BCG à tout enfant né de mère infectée par le VIH même après sérologie négative",
+        "Considérer la fièvre jaune comme administrable sans aucune évaluation pendant la grossesse"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte ne considère pas l’hémophilie comme une contre-indication. Le vaccin antigrippal inactivé n’est pas contre-indiqué pendant la grossesse. Le BCG peut être fait après sérologie négative chez l’enfant né de mère VIH. La fièvre jaune nécessite une indication exceptionnelle avec évaluation bénéfice-risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions associent correctement une caractéristique vaccinale à une conduite particulière mentionnée dans le texte ?",
+      "choices": [
+        "Polio orale : vaccin vivant atténué contre-indiqué pendant la grossesse",
+        "Vaccin antigrippal inactivé : non contre-indiqué pendant la grossesse",
+        "ROR : exemple de vaccin vivant à différer environ 6 semaines après transfusion chez l’hémophile",
+        "Hépatite B : vaccin recommandé uniquement chez la femme enceinte dans le texte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La polio orale est citée parmi les vaccins vivants contre-indiqués pendant la grossesse, le vaccin antigrippal inactivé n’y est pas contre-indiqué, et le ROR est l’exemple de vaccin vivant à différer après transfusion chez l’hémophile. L’hépatite B est citée pour le personnel de santé."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions correspondent à des indications ou finalités explicitement rapportées ?",
+      "choices": [
+        "La vaccination antitétanique de la femme enceinte participe à la prévention du tétanos maternel",
+        "La vaccination antitétanique de la femme enceinte participe à la prévention du tétanos néonatal",
+        "La vaccination antigrippale saisonnière est recommandée chez le personnel de santé",
+        "Le BCG est administré chez l’enfant né de mère infectée par le VIH avant toute sérologie afin d’accélérer la protection"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue à la vaccination antitétanique une prévention maternelle et néonatale. Il recommande la grippe saisonnière chez le personnel de santé. Le BCG chez l’enfant né de mère VIH nécessite une sérologie négative."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les catégories de recommandations chez le personnel de santé, quelles propositions sont exactes ?",
+      "choices": [
+        "Les vaccinations obligatoires ou fortement indiquées dépendent du risque professionnel",
+        "L’hépatite B est citée parmi les vaccinations obligatoires ou fortement indiquées",
+        "Les rappels sont réalisés selon le statut vaccinal",
+        "La grippe saisonnière est citée comme vaccination recommandée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue les vaccinations obligatoires ou fortement indiquées selon le risque professionnel, incluant hépatite B et diphtérie-tétanos avec rappels selon le statut vaccinal, et la grippe saisonnière recommandée."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez l’hémophile, quelles propositions respectent la nuance technique du texte concernant la voie et le site d’administration ?",
+      "choices": [
+        "La voie sous-cutanée ou intradermique peut être préférée lorsque cela est possible et adapté au vaccin",
+        "La voie sous-cutanée ou intradermique doit être imposée quel que soit le vaccin, même si elle n’est pas adaptée",
+        "Une zone facile à comprimer, notamment le bras, doit être privilégiée",
+        "Le risque hémorragique doit guider les précautions de vaccination"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte recommande de préférer la voie sous-cutanée ou intradermique seulement si cela est possible et adapté au vaccin, de choisir une zone compressible comme le bras, et de tenir compte du risque hémorragique."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un enfant né de mère infectée par le VIH, quelle condition est requise avant l’administration du BCG selon le texte ?",
+      "choices": [
+        "Une sérologie négative",
+        "Une transfusion sanguine préalable",
+        "Une grossesse menée à terme",
+        "Une vaccination antigrippale maternelle"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le BCG chez l’enfant né de mère infectée par le VIH n’est administré qu’après sérologie négative."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez le personnel de santé, quel élément détermine les rappels vaccinaux selon le texte ?",
+      "choices": [
+        "Le poids du sujet",
+        "Le statut vaccinal",
+        "L’âge gestationnel",
+        "Le groupe sanguin"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que les rappels chez le personnel de santé sont réalisés selon le statut vaccinal."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel vaccin est donné comme exemple de vaccin vivant à différer environ 6 semaines après une transfusion sanguine chez un hémophile ?",
+      "choices": [
+        "ROR",
+        "Antigrippal inactivé",
+        "Diphtérie-tétanos",
+        "Hépatite B"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite le ROR comme exemple de vaccin vivant à administrer après un délai d’environ 6 semaines en cas de transfusion sanguine chez l’hémophile."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel vaccin vivant atténué peut faire l’objet d’une indication exceptionnelle pendant la grossesse après évaluation du rapport bénéfice-risque ?",
+      "choices": [
+        "Rougeole",
+        "Rubéole",
+        "Fièvre jaune",
+        "Varicelle"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La fièvre jaune est contre-indiquée pendant la grossesse, sauf indication exceptionnelle avec évaluation du rapport bénéfice-risque."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un enfant sans signe clinique dont l’infection VIH n’est pas encore exclue, quelle vaccination constitue l’exception à la poursuite du calendrier vaccinal ?",
+      "choices": [
+        "BCG",
+        "Vaccin antigrippal inactivé",
+        "Diphtérie-tétanos",
+        "Hépatite B"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le calendrier vaccinal est poursuivi chez l’enfant sans signe clinique dont le statut VIH n’est pas exclu, sauf le BCG jusqu’à exclusion de l’infection VIH."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formulation concernant la vaccination antigrippale pendant la grossesse est correcte selon le texte ?",
+      "choices": [
+        "Tout vaccin antigrippal est contre-indiqué pendant la grossesse",
+        "Le vaccin antigrippal inactivé n’est pas contre-indiqué et peut être recommandé selon le risque",
+        "Le vaccin antigrippal inactivé est réservé au personnel de santé uniquement",
+        "La vaccination antigrippale impose un délai de 6 semaines après l’accouchement"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le vaccin antigrippal inactivé n’est pas contre-indiqué pendant la grossesse et peut être recommandé selon le risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition d’un vaccin selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une préparation antigénique dérivée d’un agent pathogène spécifique.",
+        "Il vise à induire une réponse immunitaire protectrice chez un sujet réceptif.",
+        "Il correspond à l’injection d’anticorps spécifiques prêts à l’emploi.",
+        "Il est dirigé vis-à-vis de l’agent dont il dérive."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le vaccin est une préparation antigénique dérivée d’un agent pathogène spécifique, induisant une réponse protectrice contre cet agent. L’injection d’anticorps correspond à l’immunisation passive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les définitions de l’anticorps et de l’immunité, quelles propositions sont exactes ?",
+      "choices": [
+        "Un anticorps est une protéine de type immunoglobuline.",
+        "L’anticorps est produit en réponse à une stimulation antigénique.",
+        "L’immunité repose exclusivement sur des facteurs humoraux.",
+        "L’anticorps se combine spécifiquement avec l’antigène ayant induit sa formation."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’anticorps est une immunoglobuline produite après stimulation antigénique et se liant spécifiquement à l’antigène inducteur. L’immunité fait intervenir des facteurs humoraux et cellulaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels peuvent entrer dans la composition d’un vaccin selon le texte ?",
+      "choices": [
+        "Un antigène.",
+        "Un adjuvant augmentant la réponse immunitaire.",
+        "Un liquide de suspension.",
+        "Des aminosides destinés à prévenir une contamination bactérienne."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La composition vaccinale peut comporter un antigène, un adjuvant, des stabilisants, un liquide de suspension et parfois des antibiotiques comme les aminosides."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les vaccins suivants, lesquels sont cités comme vaccins vivants atténués ?",
+      "choices": [
+        "Vaccin contre la dengue.",
+        "Vaccin contre le zona.",
+        "Vaccin contre le rotavirus.",
+        "Vaccin antirabique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La dengue, le zona et le rotavirus figurent parmi les vaccins vivants atténués. Le vaccin antirabique est classé parmi les vaccins inactivés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification de certains vaccins selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le vaccin contre la rage est un vaccin inactivé.",
+        "Le vaccin contre l’encéphalite japonaise est un vaccin inactivé.",
+        "Le vaccin antigrippal vivant atténué appartient aux vaccins vivants atténués.",
+        "Le vaccin contre l’hépatite A est un vaccin vivant atténué."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La rage, l’encéphalite japonaise et l’hépatite A sont classées parmi les vaccins inactivés. La grippe atténuée est un vaccin vivant atténué."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccins sous-unitaires protéiques ou à pseudo-particules virales, quels exemples sont cités dans le texte ?",
+      "choices": [
+        "Vaccin contre le HPV.",
+        "Vaccin contre l’hépatite B.",
+        "Vaccin coquelucheux acellulaire.",
+        "Vaccin contre le méningocoque B."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme vaccins protéiques ou à pseudo-particules virales : coqueluche acellulaire, choléra, méningocoque B, HPV et hépatite B."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccins polysaccharidiques cités, quelles associations sont exactes ?",
+      "choices": [
+        "Haemophilus influenzae type b : vaccin polysaccharidique conjugué.",
+        "Méningocoque C : vaccin polysaccharidique conjugué.",
+        "Méningocoque A-C : vaccin polysaccharidique non conjugué.",
+        "Pneumocoque 23-valent : vaccin polysaccharidique non conjugué."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte classe Hib, pneumocoque conjugué, méningocoque C et A-C-Y-W parmi les conjugués ; méningocoque A-C et pneumocoque 23-valent parmi les non conjugués."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie sous-cutanée en vaccination, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est citée pour le vaccin rougeole-oreillons-rubéole.",
+        "Elle est citée pour le vaccin contre la fièvre jaune.",
+        "Elle est citée pour les vaccins zona et varicelle.",
+        "Elle est privilégiée en cas de traitement anticoagulant ou antiagrégant plaquettaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La voie sous-cutanée est citée pour ROR, fièvre jaune, zona et varicelle. Elle est aussi privilégiée en cas de risque hémorragique, anticoagulant ou antiagrégant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les voies d’administration orale et nasale, quelles propositions sont exactes ?",
+      "choices": [
+        "Le vaccin antipoliomyélitique oral s’administre par voie orale.",
+        "Certains vaccins contre le rotavirus s’administrent par voie orale.",
+        "Le vaccin antigrippal vivant atténué peut s’administrer par voie nasale.",
+        "Le BCG est administré par voie orale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le VPO et certains vaccins rotavirus sont administrés par voie orale. Le vaccin antigrippal vivant atténué est administré par voie nasale. Le BCG est intradermique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sites et voies d’injection vaccinale, quelles propositions sont exactes ?",
+      "choices": [
+        "La face antérolatérale de la cuisse est le site intramusculaire indiqué avant 2 ans.",
+        "Le muscle deltoïde est le site intramusculaire indiqué après 2 ans.",
+        "L’injection dans la fesse n’est pas recommandée.",
+        "Le BCG relève de la voie intradermique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise la cuisse avant 2 ans, le deltoïde après 2 ans, déconseille la fesse et indique la voie intradermique pour le BCG."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques et doses usuelles du BCG, quelles propositions sont exactes ?",
+      "choices": [
+        "Le BCG est un vaccin lyophilisé.",
+        "Il peut être présenté en flacons multidoses avec solvant.",
+        "La dose est de 0,05 ml chez l’enfant de moins de 1 an.",
+        "La dose est de 0,1 ml chez l’enfant de plus de 1 an."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le BCG est décrit comme lyophilisé, en flacons multidoses avec solvant ; les doses sont 0,05 ml avant 1 an et 0,1 ml après 1 an."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les intervalles d’administration vaccinale, quelles propositions sont exactes ?",
+      "choices": [
+        "Un intervalle minimum de 4 semaines est recommandé entre deux doses d’un même vaccin.",
+        "Une interruption du schéma impose de recommencer toute la vaccination depuis le début.",
+        "En cas d’interruption, il faut compléter les doses manquantes.",
+        "L’interruption peut retarder l’obtention d’une protection complète."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Il faut respecter au moins 4 semaines entre deux doses d’un même vaccin. En cas d’interruption, on ne recommence pas : on complète, mais la protection complète est retardée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les associations vaccinales, quelles propositions sont exactes ?",
+      "choices": [
+        "Une vaccination combinée administre plusieurs antigènes en un seul point.",
+        "Une vaccination simultanée administre plusieurs vaccins au même moment en des points différents ou par des voies différentes.",
+        "Les points d’injection simultanée doivent être séparés d’au moins 2,5 cm.",
+        "Le vaccin hexavalent associe diphtérie, tétanos, coqueluche, Hib, polio injectable et hépatite B."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les vaccinations combinées regroupent plusieurs antigènes en une même préparation ou un seul point. Les vaccinations simultanées nécessitent des points différents séparés d’au moins 2,5 cm ou des voies différentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les contre-indications générales des vaccins vivants atténués, quelles situations sont citées ?",
+      "choices": [
+        "Immunodépression congénitale ou acquise.",
+        "Traitement immunosuppresseur.",
+        "Corticothérapie à forte dose prolongée.",
+        "Maladie maligne évolutive."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les vaccins vivants atténués sont contre-indiqués en cas d’immunodépression, traitement immunosuppresseur, corticothérapie forte dose prolongée et maladie maligne évolutive."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la voie d’administration du vaccin antigrippal vivant atténué mentionnée dans le texte ?",
+      "choices": [
+        "Voie intradermique.",
+        "Voie intramusculaire.",
+        "Voie nasale.",
+        "Voie sous-cutanée profonde."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le vaccin antigrippal vivant atténué est administré par voie nasale, notamment chez l’enfant de 2 à 18 ans selon les recommandations."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel vaccin combiné associe diphtérie, tétanos, coqueluche, Hib, polio injectable et hépatite B ?",
+      "choices": [
+        "Vaccin triple.",
+        "Vaccin quadrivalent.",
+        "Vaccin pentavalent.",
+        "Vaccin hexavalent."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le vaccin hexavalent associe diphtérie, tétanos, coqueluche, Hib, polio injectable et hépatite B."
+    },
+    {
+      "type": "QCS",
+      "question": "Après l’administration d’un vaccin vivant, quel délai minimum faut-il respecter avant d’administrer des immunoglobulines ?",
+      "choices": [
+        "48 heures.",
+        "1 semaine.",
+        "2 semaines.",
+        "6 mois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Après un vaccin vivant, il faut attendre au moins 2 semaines avant l’administration d’immunoglobulines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation constitue une contre-indication spécifique du BCG selon le texte ?",
+      "choices": [
+        "Traitement antiagrégant plaquettaire isolé.",
+        "Infection VIH.",
+        "Âge supérieur à 1 an.",
+        "Administration par voie intradermique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le BCG est contre-indiqué en cas d’infection VIH ou de déficit immunitaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle quantité d’antigène HBs contient la forme adulte du vaccin contre l’hépatite B selon le texte ?",
+      "choices": [
+        "5 µg.",
+        "10 µg.",
+        "20 µg.",
+        "40 µg."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La forme adulte du vaccin contre l’hépatite B contient 20 µg d’antigène HBs ; la forme pédiatrique en contient 10 µg."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à un vaccin polysaccharidique non conjugué cité dans le texte ?",
+      "choices": [
+        "Haemophilus influenzae type b.",
+        "Méningocoque C.",
+        "Pneumocoque 23-valent.",
+        "Pneumocoque conjugué."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le pneumocoque 23-valent est cité parmi les vaccins polysaccharidiques non conjugués."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-03T20:56:29.866Z"
+}

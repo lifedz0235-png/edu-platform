@@ -1,0 +1,3145 @@
+{
+  "category": "medicale",
+  "module": "cardiologie",
+  "courseId": null,
+  "courseTitle": null,
+  "supportTitle": "endocardite.pdf",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/endocardite.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la définition de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une infection de l’endocarde le plus souvent valvulaire",
+        "Elle peut atteindre une prothèse intracardiaque",
+        "Elle est exclusivement due à des virus",
+        "Elle entraîne des lésions ulcéro-végétantes"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’endocardite infectieuse est une infection de l’endocarde, le plus souvent valvulaire, parfois pariétale ou sur prothèse intracardiaque, généralement bactérienne, responsable de lésions ulcéro-végétantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels caractérisent l’épidémiologie ou la gravité de l’endocardite infectieuse ?",
+      "choices": [
+        "Son incidence annuelle est d’environ 30 cas par million d’habitants",
+        "Il existe une prédominance masculine",
+        "Les endocardites sur prothèse représentent environ 20 % des cas",
+        "La mortalité est négligeable lorsqu’il existe une prothèse valvulaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’incidence est d’environ 30 cas par million d’habitants, avec prédominance masculine. Les formes sur prothèse représentent environ 20 % des cas. La mortalité est de 15 à 20 %, plus élevée en cas de prothèse valvulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles cardiopathies sont classées à haut risque d’endocardite infectieuse ?",
+      "choices": [
+        "Prothèse valvulaire",
+        "Antécédent d’endocardite infectieuse",
+        "Cardiopathie congénitale cyanogène non opérée",
+        "Communication interauriculaire isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cardiopathies à haut risque sont la prothèse valvulaire, l’antécédent d’endocardite infectieuse et la cardiopathie congénitale cyanogène non opérée. La communication interauriculaire isolée n’est pas retenue comme cardiopathie à risque dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles correspondent à des cardiopathies à risque moins élevé d’endocardite infectieuse ?",
+      "choices": [
+        "Insuffisance aortique",
+        "Bicuspidie aortique",
+        "Prolapsus de la valve mitrale avec insuffisance mitrale et/ou épaississement valvulaire",
+        "Cardiomyopathie hypertrophique obstructive avec souffle à l’auscultation"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre situations sont citées parmi les cardiopathies à risque moins élevé : valvulopathies, bicuspidie aortique, prolapsus mitral compliqué d’insuffisance mitrale et/ou d’épaississement valvulaire, et cardiomyopathie hypertrophique obstructive avec souffle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les portes d’entrée de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont retrouvées dans environ deux tiers des cas",
+        "La porte d’entrée bucco-dentaire peut être liée aux caries, aux soins dentaires ou au détartrage",
+        "La porte d’entrée nosocomiale est le plus souvent liée à un cathéter vasculaire",
+        "La porte d’entrée ORL est exclue des causes possibles"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une porte d’entrée est retrouvée dans environ deux tiers des cas. Elle peut être bucco-dentaire, digestive, uro-génitale, cutanée, ORL ou nosocomiale, cette dernière étant le plus souvent liée à un cathéter vasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels micro-organismes ou groupes microbiens sont cités comme responsables possibles d’endocardite infectieuse ?",
+      "choices": [
+        "Streptocoques",
+        "Staphylococcus aureus",
+        "Pseudomonas",
+        "Candida albicans"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les streptocoques sont les germes les plus fréquents. Les staphylocoques, dont Staphylococcus aureus, les bacilles Gram négatif dont Pseudomonas, et les champignons ou levures comme Candida albicans sont également cités."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations peuvent expliquer une endocardite infectieuse à hémocultures négatives ?",
+      "choices": [
+        "Antibiothérapie préalable",
+        "Micro-organismes à croissance lente ou difficile comme le groupe HACEK",
+        "Germes à croissance intracellulaire nécessitant une sérologie ou une analyse valvulaire",
+        "Absence obligatoire de toute infection endocardique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hémocultures peuvent être négatives en cas d’antibiothérapie préalable, de micro-organismes à croissance lente ou difficile comme HACEK, ou de germes intracellulaires nécessitant des examens spécifiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’endocardite sur valve native, quels éléments relèvent du processus destructif valvulaire ?",
+      "choices": [
+        "Ulcération",
+        "Perforation valvulaire",
+        "Rupture de cordages tendineux dans les localisations mitrales",
+        "Végétation constituée d’amas fibrino-plaquettaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le processus destructif comprend notamment ulcération, échancrure, perforation, mutilation valvulaire et rupture de cordages tendineux dans les localisations mitrales. La végétation fibrino-plaquettaire appartient au processus végétant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les végétations au cours de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles contiennent des amas fibrino-plaquettaires",
+        "Elles peuvent contenir des colonies microbiennes et des cellules inflammatoires",
+        "Elles sont toujours microscopiques et fixes",
+        "Le risque embolique augmente lorsqu’elles sont volumineuses ou mobiles"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les végétations sont faites d’amas fibrino-plaquettaires contenant colonies microbiennes et cellules inflammatoires. Elles peuvent être sessiles ou pédiculées, parfois volumineuses, et le risque embolique augmente si elles sont volumineuses ou mobiles."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions décrivent correctement l’endocardite infectieuse sur prothèse valvulaire ?",
+      "choices": [
+        "Sur prothèse biologique, de petites perforations sont possibles",
+        "Sur prothèse biologique, les lésions peuvent être difficiles à distinguer d’une dégénérescence",
+        "Sur prothèse mécanique, l’infection touche surtout la collerette d’implantation",
+        "Sur prothèse mécanique, l’extension à l’anneau valvulaire est impossible"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Sur prothèse biologique, de petites perforations sont possibles et les lésions peuvent simuler une dégénérescence. Sur prothèse mécanique, l’infection touche surtout la collerette d’implantation avec extension possible à l’anneau et aux structures adjacentes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’endocardite pariétale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut se localiser autour d’un défaut septal congénital",
+        "Une communication interventriculaire est un exemple de localisation possible",
+        "Elle est rarement primitive",
+        "Elle est surtout observée dans les septicopyohémies fongiques des immunodéprimés"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’endocardite pariétale peut se localiser autour d’un défaut septal congénital, notamment une communication interventriculaire. Elle est rarement primitive et surtout observée dans les septicopyohémies fongiques des immunodéprimés."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes physiopathologiques participent à la constitution d’une endocardite infectieuse ?",
+      "choices": [
+        "Altération endothéliale avec micro-ulcérations et microthrombi",
+        "Endocardite thrombotique non bactérienne favorisant l’adhérence bactérienne",
+        "Bactériémie transitoire colonisant le thrombus",
+        "Formation d’un thrombus septique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’altération endothéliale entraîne micro-ulcérations et microthrombi, constituant une endocardite thrombotique non bactérienne. Une bactériémie transitoire peut coloniser le thrombus et former un thrombus septique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles manifestations peuvent révéler cliniquement une endocardite infectieuse ?",
+      "choices": [
+        "Fièvre élevée avec frissons chez un patient porteur d’une valvulopathie",
+        "Asthénie, anorexie, amaigrissement et sueurs nocturnes dans les formes frustes",
+        "Accident vasculaire cérébral",
+        "Ischémie aiguë de membre"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La présentation est très variable : fièvre élevée avec frissons, formes frustes avec signes généraux, ou révélation par une complication embolique ou hémodynamique comme AVC, ischémie aiguë de membre ou insuffisance cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les signes suivants, lesquels font partie des signes cutanéo-muqueux ou ophtalmologiques possibles de l’endocardite infectieuse ?",
+      "choices": [
+        "Nodosités d’Osler",
+        "Lésions de Janeway",
+        "Pétéchies à centre blanc souvent buccales ou conjonctivales",
+        "Taches de Roth rétiniennes"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les signes décrits comprennent les nodosités d’Osler, les lésions de Janeway, les pétéchies à centre blanc souvent buccales ou conjonctivales, ainsi que les taches de Roth rétiniennes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel groupe bactérien est décrit comme le plus fréquent dans l’endocardite infectieuse ?",
+      "choices": [
+        "Streptocoques",
+        "Staphylocoques à coagulase négative",
+        "Entérobactéries",
+        "Pneumocoque"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les streptocoques sont indiqués comme les germes les plus fréquents responsables d’endocardite infectieuse."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle proportion approximative l’endocardite infectieuse peut-elle survenir en l’absence de cardiopathie connue ?",
+      "choices": [
+        "Environ 5 % des cas",
+        "Environ 10 % des cas",
+        "Environ 30 % des cas",
+        "Environ 70 % des cas"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise qu’une endocardite infectieuse peut survenir sans cardiopathie connue dans environ 30 % des cas."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément échocardiographique est directement associé à un risque embolique accru lorsqu’il est volumineux ou mobile ?",
+      "choices": [
+        "Végétation",
+        "Péricardite fibrineuse aseptique",
+        "Épaississement pariétal isolé",
+        "Splénomégalie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le risque embolique est accru en cas de végétation volumineuse ou mobile."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient stable suspect d’endocardite infectieuse, quel intervalle entre les prélèvements d’hémocultures est recommandé dans le texte ?",
+      "choices": [
+        "5 minutes",
+        "15 minutes",
+        "1 à 2 heures",
+        "24 heures strictement"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "En état stable, l’intervalle entre les prélèvements d’hémocultures est de 1 à 2 heures. En état critique, il peut être réduit à 5 minutes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle description correspond aux nodosités d’Osler ?",
+      "choices": [
+        "Nodules rouges douloureux, éphémères, situés à la pulpe des doigts ou des orteils, ne suppurant pas",
+        "Érythème hémorragique palmaire ou plantaire indolore",
+        "Pétéchies à centre blanc buccales ou conjonctivales",
+        "Hémorragies rétiniennes avec centre clair"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les nodosités d’Osler sont des nodules rouges douloureux, éphémères, situés à la pulpe des doigts ou des orteils, sans suppuration."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen complémentaire est décrit comme essentiel au diagnostic et recherche notamment végétation, abcès, perforation valvulaire et nouvelle fuite péri-prothétique ?",
+      "choices": [
+        "Échocardiographie",
+        "Électrocardiogramme",
+        "Radiographie thoracique",
+        "Dosage isolé de la CRP"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’échocardiographie est un examen essentiel au diagnostic ; elle recherche notamment végétation, abcès, perforation valvulaire, nouvelle fuite péri-prothétique et désinsertion récente de prothèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la répétition de l’échocardiographie transthoracique et transœsophagienne au cours d’une endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est indiquée en cas de mauvaise évolution.",
+        "Elle est indiquée en cas de suspicion de complication.",
+        "Elle est indiquée en cas d’insuffisance cardiaque.",
+        "Elle doit être réalisée uniquement avant le début de l’antibiothérapie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ETT et l’ETO doivent être répétées en cas de mauvaise évolution, de suspicion de complication ou d’insuffisance cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments biologiques peuvent être observés dans l’endocardite infectieuse selon le texte ?",
+      "choices": [
+        "Une anémie normocytaire normochrome.",
+        "Une hyperleucocytose possible.",
+        "Une CRP élevée et un fibrinogène élevé.",
+        "Une VS accélérée spécifique de l’endocardite infectieuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La biologie peut montrer une anémie normocytaire normochrome, une hyperleucocytose et un syndrome inflammatoire. La VS peut être accélérée, souvent supérieure à 50 mm à la première heure, mais elle est non spécifique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le bilan immunologique et rénal d’une endocardite infectieuse, quels examens ou anomalies sont cités ?",
+      "choices": [
+        "Recherche de complexes immuns circulants.",
+        "Facteur rhumatoïde parfois positif.",
+        "Recherche d’hématurie et de protéinurie.",
+        "Dosage systématique des enzymes pancréatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le bilan comprend notamment complexes immuns circulants, facteur rhumatoïde parfois positif, urée, créatinine, recherche d’hématurie, protéinurie et ECBU."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la recherche de la porte d’entrée au cours d’une endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Un panoramique dentaire et un avis stomatologique sont indiqués.",
+        "Une fibroscopie gastrique ou une coloscopie est proposée en cas de germe d’origine digestive.",
+        "Une échographie ou un scanner abdomino-pelvien est proposé en cas de germe d’origine urinaire.",
+        "Une imagerie rachidienne, scintigraphie au gallium ou IRM peut être proposée en cas de suspicion ostéoarticulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces explorations pour rechercher la porte d’entrée dentaire, digestive, urinaire ou ostéoarticulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon les critères de Duke modifiés, quelles situations correspondent à un critère majeur microbiologique ?",
+      "choices": [
+        "Micro-organisme typique isolé dans deux hémocultures séparées, sans foyer infectieux primaire.",
+        "Micro-organisme non typique isolé dans des hémocultures persistantes à plus de 12 heures d’intervalle.",
+        "Une hémoculture positive à Coxiella burnetii.",
+        "Une seule hémoculture positive à un micro-organisme non typique, sans autre précision."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les critères majeurs microbiologiques comprennent un germe typique dans deux hémocultures séparées, des hémocultures persistantes à germe non typique à plus de 12 heures, ou Coxiella burnetii avec hémoculture positive ou IgG > 1/800."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les critères mineurs de Duke modifiés, quels éléments sont classés comme phénomènes vasculaires ?",
+      "choices": [
+        "Embolies artérielles majeures.",
+        "Infarctus pulmonaires septiques.",
+        "Anévrisme mycotique.",
+        "Lésions de Janeway."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les phénomènes vasculaires incluent embolies artérielles majeures, infarctus pulmonaires septiques, anévrisme mycotique, hémorragie intracrânienne, hémorragies conjonctivales et lésions de Janeway."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments font partie des phénomènes immunologiques dans les critères mineurs de Duke modifiés ?",
+      "choices": [
+        "Glomérulonéphrite.",
+        "Nodosités d’Osler.",
+        "Taches de Roth.",
+        "Facteur rhumatoïde."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les phénomènes immunologiques cités sont la glomérulonéphrite, les nodosités d’Osler, les taches de Roth et le facteur rhumatoïde."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon les critères de Duke modifiés, quelles associations permettent de retenir une endocardite certaine ?",
+      "choices": [
+        "Deux critères majeurs.",
+        "Un critère majeur et trois critères mineurs.",
+        "Cinq critères mineurs.",
+        "Un critère majeur et un seul critère mineur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une endocardite certaine est définie par deux critères majeurs, ou un critère majeur associé à trois critères mineurs, ou cinq critères mineurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels diagnostics différentiels de l’endocardite infectieuse sont cités dans le texte ?",
+      "choices": [
+        "Rupture de cordages tendineux de la valve mitrale, notamment dans la maladie de Barlow.",
+        "Épisode thromboembolique isolé.",
+        "Poussée d’insuffisance cardiaque congestive.",
+        "Fièvre post-chirurgie cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces quatre situations comme diagnostics différentiels possibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles complications cardiaques de l’endocardite infectieuse sont mentionnées ?",
+      "choices": [
+        "Insuffisance cardiaque.",
+        "Infarctus du myocarde par embolie coronaire.",
+        "Troubles de la conduction auriculo-ventriculaire par abcès atteignant les voies de conduction.",
+        "Abcès cérébral."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les complications cardiaques comprennent insuffisance cardiaque, infarctus du myocarde par embolie coronaire, arythmies, troubles de conduction, péricardite et abcès intracardiaque. L’abcès cérébral est une complication neurologique extra-cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles complications extra-cardiaques de l’endocardite infectieuse sont citées ?",
+      "choices": [
+        "Accident vasculaire cérébral ischémique ou hémorragique.",
+        "Infarctus rénal ou glomérulonéphrite.",
+        "Infarctus splénique ou abcès splénique.",
+        "Péricardite."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les complications extra-cardiaques citées sont neurologiques, rénales, spléniques, artérielles périphériques et ostéoarticulaires. La péricardite est classée parmi les complications cardiaques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs de mauvais pronostic de l’endocardite infectieuse sont mentionnés ?",
+      "choices": [
+        "Diabète sucré.",
+        "Infection à Staphylococcus aureus.",
+        "Complications emboliques.",
+        "Endocardite sur prothèse."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme facteurs de mauvais pronostic le diabète sucré, l’infection à Staphylococcus aureus, les complications emboliques, l’endocardite sur prothèse et l’endocardite précoce sur prothèse à Staphylococcus aureus."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les principes de l’antibiothérapie dans l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle doit être bactéricide, parentérale et administrée à fortes doses.",
+        "Elle est prolongée, généralement 30 à 45 jours.",
+        "Elle doit idéalement être débutée après réalisation des hémocultures.",
+        "Elle repose habituellement sur une monothérapie courte d’emblée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’antibiothérapie doit être précoce, bactéricide, parentérale, à fortes doses, prolongée, idéalement débutée après hémocultures et adaptée secondairement à l’antibiogramme. Une bithérapie synergique est souvent utilisée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels paramètres doivent être pris en compte pour l’adaptation des doses ou la surveillance des antibiotiques dans l’endocardite infectieuse ?",
+      "choices": [
+        "La clairance de la créatinine.",
+        "La fonction hépatique.",
+        "Les concentrations plasmatiques, notamment pics et creux des aminosides.",
+        "La surveillance rénale sous aminosides et vancomycine."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les doses doivent être adaptées à la clairance de la créatinine, à la fonction hépatique et aux concentrations plasmatiques. Une surveillance rénale est nécessaire sous aminosides et vancomycine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée généralement indiquée de l’antibiothérapie dans l’endocardite infectieuse ?",
+      "choices": [
+        "7 à 10 jours.",
+        "10 à 14 jours.",
+        "30 à 45 jours.",
+        "Plus de 6 mois systématiquement."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que l’antibiothérapie est prolongée, généralement 30 à 45 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "En attente des hémocultures, quel schéma probabiliste est proposé pour une endocardite subaiguë avec porte d’entrée dentaire ou indéterminée évoquant un streptocoque ou un entérocoque ?",
+      "choices": [
+        "Pénicilline G ou amoxicilline associée à gentamicine.",
+        "Oxacilline seule.",
+        "Vancomycine, gentamicine et rifampicine.",
+        "Rifampicine seule."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Pour une endocardite subaiguë d’allure streptococcique ou entérococcique, le texte propose pénicilline G ou amoxicilline associée à gentamicine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement probabiliste est proposé pour une endocardite aiguë avec porte d’entrée cutanée ou toxicomanie évoquant un staphylocoque ?",
+      "choices": [
+        "Amoxicilline seule.",
+        "Oxacilline associée à gentamicine.",
+        "Pénicilline G associée à rifampicine.",
+        "Gentamicine seule."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En cas d’endocardite aiguë évoquant un staphylocoque, le schéma cité est oxacilline 200 mg/kg/j associée à gentamicine 3 mg/kg/j."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel schéma probabiliste est indiqué dans le texte pour une endocardite sur prothèse ?",
+      "choices": [
+        "Amoxicilline et gentamicine.",
+        "Oxacilline et gentamicine.",
+        "Vancomycine, gentamicine et rifampicine.",
+        "Pénicilline G seule."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Pour l’endocardite sur prothèse, le texte indique l’association vancomycine, gentamicine et rifampicine."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel est un critère d’efficacité du traitement antibiotique de l’endocardite infectieuse ?",
+      "choices": [
+        "Persistance de la fièvre.",
+        "Négativation des hémocultures.",
+        "Augmentation du syndrome inflammatoire biologique.",
+        "Apparition d’une nouvelle fuite péri-prothétique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les critères d’efficacité comprennent la disparition de la fièvre, le maintien de l’apyrexie, la négativation des hémocultures et la régression du syndrome inflammatoire biologique."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation la chirurgie cardiaque peut-elle être indiquée en phase aiguë d’une endocardite infectieuse selon le texte ?",
+      "choices": [
+        "Infection non contrôlée ou complication.",
+        "Stérilisation complète de l’infection sans lésion séquellaire mal tolérée.",
+        "Absence de retentissement hémodynamique.",
+        "Régression complète du syndrome inflammatoire sans autre anomalie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le traitement chirurgical peut être indiqué en phase aiguë si l’infection est non contrôlée ou en cas de complication."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles lésions ou dysfonctions valvulaires sont citées comme indications chirurgicales dans l’endocardite infectieuse ?",
+      "choices": [
+        "Dysfonction valvulaire sévère par déhiscence",
+        "Dysfonction valvulaire sévère par obstruction",
+        "Fistule vers une cavité cardiaque",
+        "Fuite valvulaire minime cliniquement stable"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la dysfonction valvulaire sévère par déhiscence ou obstruction, ainsi que la fistule vers une cavité cardiaque ou vers le péricarde. Une fuite minime stable n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fistules au cours de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Une fistule vers une cavité cardiaque est une indication chirurgicale citée",
+        "Une fistule vers le péricarde est une indication chirurgicale citée",
+        "La fistule figure également parmi les indications infectieuses listées",
+        "Une fistule vers la cavité pleurale est explicitement citée dans le texte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne les fistules vers une cavité cardiaque ou le péricarde, et cite aussi la fistule parmi les indications infectieuses. La cavité pleurale n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles correspondent à des indications infectieuses locales de chirurgie selon le texte ?",
+      "choices": [
+        "Infection locale non contrôlée",
+        "Abcès",
+        "Faux anévrisme",
+        "Risque annuel de récidive isolé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indications infectieuses comprennent l’infection locale non contrôlée, l’abcès et le faux anévrisme. Le risque annuel de récidive relève du pronostic, non d’une indication chirurgicale locale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fièvre persistante comme indication chirurgicale infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle doit être associée à des hémocultures positives",
+        "Elle est retenue après 7 à 10 jours d’antibiothérapie adaptée",
+        "Elle suffit à elle seule dès les premières 24 heures de traitement",
+        "Elle traduit une infection non contrôlée lorsqu’elle persiste malgré une antibiothérapie adaptée"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte cite la fièvre persistante avec hémocultures positives après 7 à 10 jours d’antibiothérapie adaptée. Une fièvre isolée à 24 heures n’est pas une indication citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels types d’infection sont cités comme indications chirurgicales infectieuses dans l’endocardite infectieuse ?",
+      "choices": [
+        "Infection fongique",
+        "Infection à micro-organisme multirésistant",
+        "Toute infection streptococcique d’emblée",
+        "Hémocultures négatives isolées sans autre élément"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne spécifiquement l’infection fongique et l’infection à micro-organisme multirésistant comme indications infectieuses. Les deux autres situations ne sont pas citées comme telles."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations correspondent aux indications anatomiques ou de prévention embolique citées ?",
+      "choices": [
+        "Embolies récidivantes",
+        "Végétation supérieure à 10 mm avec facteur emboligène",
+        "Végétation isolée supérieure à 15 mm",
+        "Végétation isolée de 9 mm sans autre facteur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indications anatomiques et de prévention embolique comprennent les embolies récidivantes, une végétation > 10 mm avec facteur emboligène, et une végétation isolée > 15 mm."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les seuils de taille des végétations dans les indications chirurgicales, quelles propositions sont exactes ?",
+      "choices": [
+        "Une végétation > 10 mm est une indication si elle est associée à un facteur emboligène",
+        "Une végétation isolée > 15 mm est une indication citée",
+        "Une végétation volumineuse est citée parmi les indications infectieuses",
+        "Toute végétation isolée > 10 mm est automatiquement une indication selon le texte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue la végétation > 10 mm avec facteur emboligène et la végétation isolée > 15 mm. Il cite aussi la végétation volumineuse parmi les indications infectieuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez quels patients l’antibioprophylaxie est-elle obligatoire avant un geste à risque selon le texte ?",
+      "choices": [
+        "Porteurs de prothèse valvulaire",
+        "Patients ayant un antécédent d’endocardite infectieuse",
+        "Patients ayant une cardiopathie congénitale cyanogène",
+        "Tous les patients ayant une cardiopathie considérée comme à risque moindre"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’antibioprophylaxie obligatoire avant un geste à risque concerne les porteurs de prothèse valvulaire, les antécédents d’endocardite infectieuse et les cardiopathies congénitales cyanogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conditions de l’antibioprophylaxie dans l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est envisagée avant un geste à risque",
+        "Elle est obligatoire chez les porteurs de prothèse valvulaire",
+        "Elle est obligatoire chez les patients ayant un antécédent d’endocardite infectieuse",
+        "Elle est systématique quotidiennement en dehors de tout geste"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise une antibioprophylaxie avant un geste à risque chez certains patients. Il n’est pas question d’une prophylaxie quotidienne systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs conditionnent le pronostic de l’endocardite infectieuse selon le texte ?",
+      "choices": [
+        "Le terrain du patient",
+        "L’état clinique",
+        "Le germe responsable",
+        "Les difficultés chirurgicales"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le pronostic dépend du terrain, de l’état clinique, du germe responsable et des difficultés chirurgicales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la mortalité de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est de 15 à 20 % dans les endocardites sur valve native",
+        "Elle est de 20 à 30 % dans les endocardites sur prothèse",
+        "Elle est plus élevée dans les endocardites sur prothèse que dans celles sur valve native selon les chiffres fournis",
+        "Elle est inférieure à 10 % dans les endocardites sur prothèse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte donne une mortalité de 15 à 20 % sur valve native et de 20 à 30 % sur prothèse, donc plus élevée sur prothèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions évitent une mauvaise interprétation des indications chirurgicales liées aux végétations et à l’infection persistante ?",
+      "choices": [
+        "Une végétation > 10 mm doit être associée à un facteur emboligène dans l’indication anatomique citée",
+        "Une végétation isolée doit dépasser 15 mm pour correspondre au seuil cité",
+        "La fièvre persistante doit être associée à des hémocultures positives après 7 à 10 jours d’antibiothérapie adaptée",
+        "Une végétation isolée de petite taille suffit toujours à indiquer une chirurgie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise les seuils de végétation et l’association fièvre persistante-hémocultures positives après 7 à 10 jours d’antibiothérapie adaptée. Une petite végétation isolée n’est pas citée comme indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels appartiennent aux indications infectieuses plutôt qu’aux indications de prévention embolique ?",
+      "choices": [
+        "Infection fongique",
+        "Infection à micro-organisme multirésistant",
+        "Fièvre persistante avec hémocultures positives après 7 à 10 jours d’antibiothérapie adaptée",
+        "Embolies récidivantes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les infections fongiques, les micro-organismes multirésistants et la fièvre persistante avec hémocultures positives malgré traitement adapté sont des indications infectieuses. Les embolies récidivantes relèvent de la prévention embolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions concernant les indications chirurgicales citées dans le texte sont exactes ?",
+      "choices": [
+        "Elles peuvent être liées à une dysfonction valvulaire sévère",
+        "Elles peuvent être liées à une infection locale non contrôlée",
+        "Elles peuvent être motivées par la prévention embolique",
+        "Elles reposent exclusivement sur le résultat de la mortalité attendue"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indications chirurgicales citées comprennent des indications valvulaires, infectieuses, anatomiques et de prévention embolique. Elles ne reposent pas exclusivement sur la mortalité attendue."
+    },
+    {
+      "type": "QCS",
+      "question": "Après un accident vasculaire cérébral hémorragique, quel délai de chirurgie est recommandé si possible ?",
+      "choices": [
+        "Environ 48 heures",
+        "Environ 1 semaine",
+        "Environ 2 semaines",
+        "Environ 4 semaines"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Après un AVC hémorragique, le texte recommande si possible un délai d’environ 4 semaines avant la chirurgie."
+    },
+    {
+      "type": "QCS",
+      "question": "Après un accident vasculaire cérébral ischémique, quel délai de chirurgie est recommandé si possible ?",
+      "choices": [
+        "Environ 24 heures",
+        "Environ 2 semaines",
+        "Environ 4 semaines",
+        "Environ 3 mois"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Après un AVC ischémique, le texte recommande si possible un délai d’environ 2 semaines avant la chirurgie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation neurologique est citée comme contre-indication à la chirurgie ?",
+      "choices": [
+        "Coma",
+        "AVC ischémique stabilisé",
+        "AVC hémorragique ancien",
+        "Embolie récidivante sans trouble de conscience"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le coma est explicitement cité comme une contre-indication à la chirurgie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le risque annuel approximatif de récidive de l’endocardite infectieuse selon le texte ?",
+      "choices": [
+        "0,3 à 2,5 % par an",
+        "5 à 10 % par an",
+        "15 à 20 % par an",
+        "20 à 30 % par an"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le risque de récidive est estimé à environ 0,3 à 2,5 % par an."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la survie globale approximative à 6 mois indiquée dans le texte ?",
+      "choices": [
+        "25 %",
+        "50 %",
+        "75 %",
+        "95 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La survie globale est d’environ 75 % à 6 mois."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation l’antibioprophylaxie est-elle décrite comme optionnelle ?",
+      "choices": [
+        "Chez les porteurs de prothèse valvulaire avant un geste à risque",
+        "Chez les patients ayant un antécédent d’endocardite infectieuse avant un geste à risque",
+        "Chez les patients ayant une cardiopathie congénitale cyanogène avant un geste à risque",
+        "Dans les autres situations à risque"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte précise que l’antibioprophylaxie est optionnelle dans les autres situations à risque, alors qu’elle est obligatoire dans les trois groupes à haut risque cités."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une suspicion d’endocardite infectieuse, quels éléments doivent éviter d’écarter à tort le diagnostic ?",
+      "choices": [
+        "L’absence de cardiopathie connue, possible dans environ 30 % des cas",
+        "L’absence de porte d’entrée, car celle-ci n’est retrouvée que dans environ deux tiers des cas",
+        "Des hémocultures initialement négatives, possibles dans 10 à 20 % des cas",
+        "Une forme clinique fruste avec asthénie, amaigrissement ou fébricule"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’endocardite infectieuse peut survenir sans cardiopathie connue, sans porte d’entrée identifiée, avec hémocultures négatives, et sous une présentation clinique peu bruyante."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont explicitement cités comme portes d’entrée bucco-dentaires possibles d’une endocardite infectieuse ?",
+      "choices": [
+        "Caries dentaires",
+        "Soins dentaires",
+        "Détartrage",
+        "Communication interauriculaire isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les portes d’entrée bucco-dentaires citées sont les caries, les soins dentaires et le détartrage. La communication interauriculaire isolée relève des cardiopathies congénitales, pas d’une porte d’entrée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les staphylocoques dans l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils constituent la deuxième cause d’endocardite infectieuse",
+        "Les formes staphylococciques sont souvent plus graves",
+        "Staphylococcus aureus est cité parmi les germes responsables",
+        "Les staphylocoques à coagulase négative sont notamment impliqués sur prothèse"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les staphylocoques sont la deuxième cause, souvent associés à des formes graves. Le texte cite Staphylococcus aureus et les staphylocoques à coagulase négative, notamment sur prothèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certains germes particuliers de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Le pneumocoque est notamment cité dans les formes aiguës",
+        "Candida albicans fait partie des champignons ou levures responsables possibles",
+        "Aspergillus est cité parmi les agents fongiques possibles",
+        "Les formes fongiques sont décrites comme des formes graves"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le pneumocoque est mentionné dans les formes aiguës. Candida albicans et Aspergillus sont cités parmi les agents fongiques, dont les formes sont graves."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’endocardite infectieuse sur prothèse biologique, quelles propositions sont exactes ?",
+      "choices": [
+        "De petites perforations peuvent être observées",
+        "Les lésions peuvent être difficiles à distinguer d’une dégénérescence",
+        "L’infection est le plus souvent limitée aux cuspides",
+        "L’infection touche surtout la collerette d’implantation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Sur prothèse biologique, les lésions peuvent être de petites perforations, parfois difficiles à distinguer d’une dégénérescence, et l’infection est souvent limitée aux cuspides. L’atteinte de la collerette concerne surtout les prothèses mécaniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’endocardite infectieuse sur prothèse mécanique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’infection touche surtout la collerette d’implantation",
+        "Une extension à l’anneau valvulaire est possible",
+        "Une extension aux structures adjacentes est possible",
+        "Un abcès annulaire ou une désinsertion de prothèse peuvent compliquer l’évolution"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Sur prothèse mécanique, l’infection atteint principalement la collerette d’implantation, avec possibilité d’extension à l’anneau et aux structures adjacentes, exposant à l’abcès annulaire et à la désinsertion."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’endocardite pariétale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut se localiser autour d’un défaut septal congénital",
+        "La communication interventriculaire est citée comme exemple de défaut septal concerné",
+        "Elle est rarement primitive",
+        "Elle est surtout observée dans les septicopyohémies fongiques des immunodéprimés"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’endocardite pariétale peut être liée à un défaut septal congénital, notamment une communication interventriculaire. Elle est rarement primitive et surtout observée dans les septicopyohémies fongiques des immunodéprimés."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les lésions cardiaques compliquées citées au cours de l’endocardite infectieuse, lesquelles sont exactes ?",
+      "choices": [
+        "Abcès cardiaque",
+        "Péricardite suppurée ou fibrineuse aseptique",
+        "Myocardite",
+        "Embolies coronaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les lésions cardiaques compliquées citées sont l’abcès cardiaque, la péricardite suppurée ou fibrineuse aseptique, la myocardite et les embolies coronaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la séquence physiopathologique conduisant au thrombus septique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’altération endothéliale entraîne des micro-ulcérations et des microthrombi",
+        "L’endocardite thrombotique non bactérienne favorise l’adhérence bactérienne",
+        "Une bactériémie transitoire peut coloniser le thrombus",
+        "La colonisation du thrombus aboutit à la formation d’un thrombus septique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit une séquence : altération endothéliale, micro-ulcérations et microthrombi, endocardite thrombotique non bactérienne, adhérence bactérienne lors d’une bactériémie, puis thrombus septique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations peuvent être à l’origine de l’altération endothéliale favorisant l’endocardite infectieuse ?",
+      "choices": [
+        "Flux sanguin turbulent",
+        "Cathéters ou électrodes intracardiaques",
+        "Inflammation notamment rhumatismale",
+        "Modifications dégénératives liées à l’âge"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces situations sont citées comme pouvant entraîner une altération endothéliale, étape initiale favorisant l’adhérence bactérienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les circonstances cliniques de révélation d’une endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Une fièvre élevée avec frissons est évocatrice, surtout chez un patient porteur d’une valvulopathie",
+        "Une fièvre élevée avec frissons est évocatrice chez un porteur de prothèse valvulaire",
+        "Un accident vasculaire cérébral peut révéler le diagnostic",
+        "Une ischémie aiguë de membre peut révéler le diagnostic"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le diagnostic peut être évoqué devant une fièvre élevée avec frissons sur terrain valvulaire ou prothétique, ou être révélé par une complication embolique comme un AVC ou une ischémie aiguë de membre."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’examen clinique cardiovasculaire et général d’une endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "L’apparition d’un souffle de régurgitation doit être recherchée",
+        "La modification d’un souffle préexistant doit être recherchée",
+        "Une splénomégalie peut être retrouvée",
+        "La splénomégalie est décrite comme modérée et inconstante"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’examen recherche un souffle nouveau de régurgitation, la modification d’un souffle ancien et une splénomégalie, décrite comme modérée et inconstante."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les hémocultures dans le diagnostic d’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles constituent un examen essentiel",
+        "Elles permettent d’isoler le germe dans environ 90 % des cas",
+        "Il est recommandé de réaliser en moyenne trois prélèvements veineux sur 24 heures",
+        "En état critique, l’intervalle entre les prélèvements peut être de 5 minutes"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les hémocultures sont essentielles, positives dans environ 90 % des cas, avec en moyenne trois prélèvements veineux sur 24 heures. En état critique, les prélèvements peuvent être espacés de 5 minutes."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de premières hémocultures négatives au cours d’une suspicion d’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Les hémocultures doivent être répétées pendant 2 à 3 jours",
+        "Une antibiothérapie préalable peut expliquer la négativité",
+        "Des micro-organismes à croissance lente ou difficile peuvent être en cause",
+        "La majorité des germes sont identifiés durant la première semaine de culture"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Si les premières hémocultures sont négatives, elles doivent être répétées 2 à 3 jours. La négativité peut être liée à une antibiothérapie préalable ou à des germes difficiles, et la majorité des germes sont identifiés durant la première semaine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cardiopathie congénitale non cyanogène est explicitement exclue des cardiopathies à risque moins élevé d’endocardite infectieuse ?",
+      "choices": [
+        "Communication interauriculaire isolée",
+        "Bicuspidie aortique",
+        "Cardiopathie congénitale cyanogène non opérée",
+        "Communication interventriculaire associée à une endocardite pariétale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les cardiopathies congénitales non cyanogènes sont classées à risque moins élevé, sauf la communication interauriculaire isolée."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient en état critique suspect d’endocardite infectieuse, quel intervalle entre les prélèvements d’hémocultures est indiqué ?",
+      "choices": [
+        "5 minutes",
+        "30 minutes",
+        "1 à 2 heures",
+        "24 heures"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En état critique, l’intervalle entre les prélèvements d’hémocultures peut être réduit à 5 minutes."
+    },
+    {
+      "type": "QCS",
+      "question": "Combien de prélèvements veineux d’hémocultures faut-il réaliser en moyenne sur 24 heures dans l’endocardite infectieuse ?",
+      "choices": [
+        "Un prélèvement",
+        "Deux prélèvements",
+        "Trois prélèvements",
+        "Six prélèvements"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte recommande en moyenne trois prélèvements veineux d’hémocultures sur 24 heures."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’incidence annuelle approximative de l’endocardite infectieuse indiquée dans le texte ?",
+      "choices": [
+        "3 cas par million d’habitants",
+        "30 cas par million d’habitants",
+        "300 cas par million d’habitants",
+        "30 cas pour 1000 habitants"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’incidence annuelle indiquée est d’environ 30 cas par million d’habitants."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle prédominance démographique est rapportée pour l’endocardite infectieuse ?",
+      "choices": [
+        "Prédominance masculine",
+        "Prédominance féminine",
+        "Atteinte exclusivement pédiatrique",
+        "Absence de toute prédominance rapportée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte mentionne une prédominance masculine."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la physiopathologie de l’endocardite infectieuse, quel événement colonise le thrombus pour former un thrombus septique ?",
+      "choices": [
+        "Une bactériémie transitoire",
+        "Une péricardite fibrineuse aseptique",
+        "Une splénomégalie modérée",
+        "Une dégénérescence valvulaire isolée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une bactériémie transitoire, spontanée ou provoquée par un geste invasif, colonise le thrombus et forme un thrombus septique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les lésions ou complications anatomiques que l’échocardiographie peut mettre en évidence au cours d’une endocardite infectieuse, lesquelles sont citées ?",
+      "choices": [
+        "Rupture de cordage",
+        "Fistule",
+        "Anévrisme du sinus de Valsalva",
+        "Hyperleucocytose"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échocardiographie peut objectiver des lésions anatomiques comme une rupture de cordage, une fistule ou un anévrisme du sinus de Valsalva. L’hyperleucocytose est une anomalie biologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les paramètres évalués par l’échocardiographie dans l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Les dégâts valvulaires",
+        "La taille et la mobilité des végétations",
+        "La régurgitation valvulaire",
+        "Le retentissement hémodynamique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’échocardiographie évalue les dégâts valvulaires, les végétations, la régurgitation et le retentissement hémodynamique, permettant aussi la surveillance évolutive."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le syndrome inflammatoire biologique d’une endocardite infectieuse, quelles anomalies sont mentionnées ?",
+      "choices": [
+        "CRP élevée",
+        "Fibrinogène élevé",
+        "VS accélérée, souvent supérieure à 50 mm à la première heure",
+        "Anémie normocytaire normochrome"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome inflammatoire comprend CRP élevée, fibrinogène élevé et VS accélérée. L’anémie normocytaire normochrome relève de la NFS, pas spécifiquement du syndrome inflammatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas de suspicion d’une porte d’entrée ostéoarticulaire d’endocardite infectieuse, quels examens sont cités ?",
+      "choices": [
+        "Imagerie rachidienne",
+        "Scintigraphie au gallium",
+        "IRM",
+        "Coloscopie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Devant une suspicion ostéoarticulaire, le texte cite l’imagerie rachidienne, la scintigraphie au gallium ou l’IRM. La coloscopie est indiquée en cas de germe d’origine digestive."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon les critères de Duke modifiés, quels éléments suivants sont des critères mineurs de terrain ou de présentation générale ?",
+      "choices": [
+        "Cardiopathie prédisposante",
+        "Toxicomanie intraveineuse",
+        "Fièvre supérieure ou égale à 38 °C",
+        "Nouveau souffle de régurgitation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cardiopathie prédisposante, la toxicomanie intraveineuse et la fièvre ≥ 38 °C sont des critères mineurs. Le nouveau souffle de régurgitation est un critère majeur d’atteinte endocardique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les critères majeurs d’atteinte endocardique de Duke modifiés, quels éléments peuvent être retenus ?",
+      "choices": [
+        "Végétation à l’échocardiographie",
+        "Abcès à l’échocardiographie",
+        "Nouvelle fuite péri-prothétique",
+        "Nouveau souffle de régurgitation"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les critères majeurs d’atteinte endocardique comprennent l’échocardiographie montrant végétation, abcès ou nouvelle fuite péri-prothétique, ainsi que le nouveau souffle de régurgitation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments microbiologiques appartiennent aux critères mineurs de Duke modifiés, et non aux critères majeurs ?",
+      "choices": [
+        "Hémocultures positives ne remplissant pas les critères majeurs",
+        "Sérologie positive compatible avec une infection active par un germe responsable d’endocardite",
+        "Une hémoculture positive à Coxiella burnetii",
+        "Micro-organisme typique isolé dans deux hémocultures séparées sans foyer primaire"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les hémocultures positives ne remplissant pas les critères majeurs et la sérologie positive compatible sont des critères mineurs. Coxiella burnetii et le micro-organisme typique dans deux hémocultures séparées relèvent des critères majeurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles complications cardiaques de l’endocardite infectieuse sont citées dans le texte ?",
+      "choices": [
+        "Infarctus du myocarde par embolie coronaire",
+        "Arythmies",
+        "Troubles de la conduction auriculo-ventriculaire",
+        "Péricardite"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les complications cardiaques citées comprennent l’insuffisance cardiaque, l’infarctus du myocarde par embolie coronaire, les arythmies, les troubles de conduction, la péricardite et les abcès intracardiaques."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les complications extra-cardiaques suivantes de l’endocardite infectieuse, lesquelles sont neurologiques ou rénales selon le texte ?",
+      "choices": [
+        "Accident vasculaire cérébral ischémique ou hémorragique",
+        "Abcès cérébral",
+        "Méningite",
+        "Infarctus rénal"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les AVC, abcès cérébral et méningite sont des complications neurologiques ; l’infarctus rénal est une complication rénale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles complications spléniques, artérielles périphériques ou ostéoarticulaires sont mentionnées dans l’endocardite infectieuse ?",
+      "choices": [
+        "Infarctus splénique",
+        "Abcès splénique",
+        "Anévrismes mycotiques",
+        "Ostéoarthrites"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les infarctus et abcès spléniques, les embolies et anévrismes mycotiques périphériques, ainsi que les arthralgies et ostéoarthrites."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs ou situations sont associés à un mauvais pronostic dans l’endocardite infectieuse selon le texte ?",
+      "choices": [
+        "Diabète sucré",
+        "Infection à Staphylococcus aureus",
+        "Complications emboliques",
+        "Endocardite sur prothèse"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le diabète, Staphylococcus aureus, les complications emboliques et l’endocardite sur prothèse sont cités parmi les facteurs de mauvais pronostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels objectifs thérapeutiques sont explicitement cités dans la prise en charge de l’endocardite infectieuse ?",
+      "choices": [
+        "Éradication du germe",
+        "Rétablissement d’une hémodynamique correcte",
+        "Prévention des complications emboliques et infectieuses",
+        "Prévention des récidives"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le traitement vise l’éradication du germe, la correction hémodynamique, la prévention des complications emboliques et infectieuses, le traitement des complications et séquelles, et la prévention des récidives."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement du foyer infectieux dans l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "La cure du foyer infectieux originel doit être réalisée pendant l’antibiothérapie",
+        "Si une chirurgie cardiaque est indiquée, le foyer infectieux doit être traité si possible avant l’intervention",
+        "La négativation des hémocultures est un critère d’efficacité de l’antibiothérapie et ne remplace pas la cure du foyer infectieux",
+        "La cure du foyer infectieux doit systématiquement être reportée après la chirurgie cardiaque"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le foyer infectieux originel doit être traité pendant l’antibiothérapie, et avant la chirurgie cardiaque si possible. La négativation des hémocultures évalue l’efficacité antibiotique mais ne constitue pas la cure du foyer."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles difficultés de la chirurgie cardiaque en phase aiguë d’endocardite infectieuse sont citées ?",
+      "choices": [
+        "Fragilité des tissus valvulaires",
+        "Milieu septique",
+        "Extension possible de l’infection au-delà de l’anneau",
+        "Adaptation des doses à la clairance de la créatinine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La chirurgie en phase aiguë est difficile du fait de la fragilité valvulaire, du milieu septique et de l’extension possible au-delà de l’anneau. L’adaptation à la clairance de la créatinine concerne l’antibiothérapie."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas de germe d’origine digestive au cours d’une endocardite infectieuse, quel examen est indiqué pour rechercher la porte d’entrée ?",
+      "choices": [
+        "Panoramique dentaire et avis stomatologique",
+        "Fibroscopie gastrique ou coloscopie",
+        "Échographie ou scanner abdomino-pelvien",
+        "Imagerie rachidienne ou IRM"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En cas de germe d’origine digestive, la recherche de porte d’entrée repose sur une fibroscopie gastrique ou une coloscopie."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas de germe d’origine urinaire dans une endocardite infectieuse, quel examen est proposé pour rechercher la porte d’entrée ?",
+      "choices": [
+        "Échographie ou scanner abdomino-pelvien",
+        "Scintigraphie au gallium",
+        "Panoramique dentaire",
+        "Fibroscopie gastrique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Pour un germe d’origine urinaire, le texte indique une échographie ou un scanner abdomino-pelvien."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel diagnostic différentiel est associé dans le texte à la maladie de Barlow ?",
+      "choices": [
+        "Rupture de cordages tendineux de la valve mitrale",
+        "Fièvre post-chirurgie cardiaque",
+        "Épisode thromboembolique isolé",
+        "Poussée d’insuffisance cardiaque congestive"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite la rupture de cordages tendineux de la valve mitrale, notamment dans la maladie de Barlow, comme diagnostic différentiel."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme est indiqué pour l’infarctus du myocarde compliquant une endocardite infectieuse ?",
+      "choices": [
+        "Embolie coronaire",
+        "Glomérulonéphrite",
+        "Abcès splénique",
+        "Hémorragie conjonctivale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’infarctus du myocarde peut compliquer l’endocardite infectieuse par embolie coronaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie biologique est décrite comme souvent supérieure à 50 mm à la première heure et non spécifique ?",
+      "choices": [
+        "CRP",
+        "Fibrinogène",
+        "Vitesse de sédimentation",
+        "Facteur rhumatoïde"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La VS est souvent supérieure à 50 mm à la première heure, mais elle est non spécifique."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas d’allergie aux bêta-lactamines dans une endocardite aiguë évoquant un staphylocoque, quel schéma est cité ?",
+      "choices": [
+        "Vancomycine 30 mg/kg/j associée à gentamicine",
+        "Pénicilline G associée à gentamicine",
+        "Amoxicilline seule pendant 4 semaines",
+        "Vancomycine, gentamicine et rifampicine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas d’allergie aux bêta-lactamines dans ce contexte, le texte propose vancomycine 30 mg/kg/j associée à gentamicine. Le schéma vancomycine-gentamicine-rifampicine concerne l’endocardite sur prothèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours d’une endocardite infectieuse traitée, quelles situations répondent précisément à la définition textuelle d’une indication chirurgicale infectieuse liée à la persistance fébrile ?",
+      "choices": [
+        "Fièvre persistante avec hémocultures positives après 7 à 10 jours d’antibiothérapie adaptée",
+        "Fièvre isolée après 48 heures d’antibiothérapie, sans autre précision",
+        "Fièvre persistante après 10 jours mais avec hémocultures négatives",
+        "Persistance de la fièvre et des hémocultures positives au 8e jour d’un traitement antibiotique adapté"
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "explanation": "Le texte retient comme indication infectieuse la fièvre persistante avec hémocultures positives après 7 à 10 jours d’antibiothérapie adaptée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’endocardite infectieuse, quelles lésions sont citées comme des indications infectieuses locales de chirurgie ?",
+      "choices": [
+        "Abcès",
+        "Faux anévrisme",
+        "Fistule",
+        "Obstruction valvulaire isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indications infectieuses comprennent notamment l’abcès, la fistule et le faux anévrisme. L’obstruction valvulaire relève de la dysfonction valvulaire sévère."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations relèvent d’une indication chirurgicale liée à l’atteinte hémodynamique ou valvulaire sévère ?",
+      "choices": [
+        "Insuffisance cardiaque non contrôlée",
+        "Déhiscence valvulaire sévère",
+        "Obstruction valvulaire sévère",
+        "Infection fongique isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’insuffisance cardiaque non contrôlée et la dysfonction valvulaire sévère par déhiscence ou obstruction. L’infection fongique est une indication infectieuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles correspondent à une indication anatomique ou de prévention embolique selon le texte ?",
+      "choices": [
+        "Végétation de 12 mm associée à un facteur emboligène",
+        "Végétation isolée de 14 mm sans autre facteur mentionné",
+        "Végétation isolée de 16 mm",
+        "Embolies récidivantes"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Les indications anatomiques et emboliques comprennent les embolies récidivantes, une végétation > 10 mm avec facteur emboligène et une végétation isolée > 15 mm."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fistules compliquant une endocardite infectieuse, quelles localisations de communication sont explicitement citées comme chirurgicales ?",
+      "choices": [
+        "Vers une cavité cardiaque",
+        "Vers le péricarde",
+        "Vers la lumière digestive",
+        "Vers la cavité pleurale"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne une fistule vers une cavité cardiaque ou vers le péricarde."
+    },
+    {
+      "type": "QCM",
+      "question": "Après un accident vasculaire cérébral au cours d’une endocardite infectieuse, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Après AVC hémorragique, un délai d’environ 4 semaines avant chirurgie est recommandé si possible",
+        "Après AVC ischémique, un délai d’environ 2 semaines avant chirurgie est recommandé si possible",
+        "Le coma constitue une contre-indication à la chirurgie",
+        "Le coma impose une chirurgie immédiate sans délai"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande environ 4 semaines après AVC hémorragique, environ 2 semaines après AVC ischémique, et considère le coma comme une contre-indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles données chiffrées pronostiques sont exactes selon le texte ?",
+      "choices": [
+        "Mortalité de 15 à 20 % dans les endocardites sur valve native",
+        "Mortalité de 20 à 30 % dans les endocardites sur prothèse",
+        "Risque de récidive d’environ 0,3 à 2,5 % par an",
+        "Survie globale d’environ 75 % à 6 mois"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre valeurs sont explicitement indiquées dans la partie pronostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles interprétations comparatives du pronostic sont correctes à partir du texte ?",
+      "choices": [
+        "La mortalité indiquée est plus élevée sur prothèse que sur valve native",
+        "La survie globale à 6 mois est d’environ trois quarts des patients",
+        "Le risque de récidive est exprimé en taux annuel",
+        "Le pronostic dépend uniquement du germe responsable"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mortalité est de 20–30 % sur prothèse contre 15–20 % sur valve native. La survie globale est d’environ 75 % à 6 mois et la récidive est exprimée par an. Le pronostic dépend de plusieurs facteurs, pas uniquement du germe."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour estimer le pronostic d’une endocardite infectieuse, quels éléments doivent être intégrés selon le texte ?",
+      "choices": [
+        "Le terrain du patient",
+        "L’état clinique",
+        "Le germe responsable",
+        "Les difficultés chirurgicales"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que le pronostic dépend du terrain, de l’état clinique, du germe responsable et des difficultés chirurgicales."
+    },
+    {
+      "type": "QCM",
+      "question": "Avant un geste à risque, chez quels patients l’antibioprophylaxie est obligatoire selon le texte ?",
+      "choices": [
+        "Porteur d’une prothèse valvulaire",
+        "Patient ayant un antécédent d’endocardite infectieuse",
+        "Patient ayant une cardiopathie congénitale cyanogène",
+        "Patient appartenant à toute autre situation à risque sans autre précision"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’antibioprophylaxie est obligatoire chez les porteurs de prothèse valvulaire, les patients avec antécédent d’endocardite infectieuse et ceux ayant une cardiopathie congénitale cyanogène. Elle est optionnelle dans les autres situations à risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles infections liées au micro-organisme constituent des indications infectieuses de chirurgie dans le texte ?",
+      "choices": [
+        "Infection fongique",
+        "Infection à micro-organisme multirésistant",
+        "Infection virale respiratoire associée",
+        "Colonisation cutanée simple sans endocardite compliquée"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte cite l’infection fongique et l’infection à micro-organisme multirésistant comme indications infectieuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la dysfonction valvulaire sévère mentionnée comme indication chirurgicale, quels mécanismes sont explicitement cités ?",
+      "choices": [
+        "Déhiscence",
+        "Obstruction",
+        "Calcification dégénérative isolée",
+        "Rétrécissement congénital isolé"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La dysfonction valvulaire sévère est précisée dans le texte par la déhiscence ou l’obstruction."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations impliquant une végétation sont citées comme pouvant justifier une chirurgie ?",
+      "choices": [
+        "Végétation volumineuse",
+        "Végétation > 10 mm avec facteur emboligène",
+        "Végétation isolée > 15 mm",
+        "Végétation isolée de 12 mm sans facteur emboligène"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la végétation volumineuse, la végétation > 10 mm avec facteur emboligène et la végétation isolée > 15 mm."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions évitent une extension abusive de l’antibioprophylaxie selon le texte ?",
+      "choices": [
+        "Elle concerne les gestes à risque, et non toute situation médicale indistincte",
+        "Dans les autres situations à risque, elle est optionnelle",
+        "Elle est obligatoire pour toutes les cardiopathies sans distinction",
+        "Elle est obligatoire en cas d’antécédent d’endocardite infectieuse"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte réserve l’obligation à certains groupes avant un geste à risque et précise que l’antibioprophylaxie est optionnelle dans les autres situations à risque."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la mortalité indiquée pour les endocardites infectieuses sur valve native ?",
+      "choices": [
+        "5 à 10 %",
+        "15 à 20 %",
+        "20 à 30 %",
+        "40 à 50 %"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique une mortalité de 15 à 20 % dans les endocardites sur valve native."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient atteint d’endocardite infectieuse ayant présenté un AVC hémorragique, quel délai avant chirurgie est recommandé si possible ?",
+      "choices": [
+        "Environ 48 heures",
+        "Environ 1 semaine",
+        "Environ 2 semaines",
+        "Environ 4 semaines"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Après AVC hémorragique, le délai recommandé avant chirurgie est d’environ 4 semaines si possible."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient atteint d’endocardite infectieuse ayant présenté un AVC ischémique, quel délai avant chirurgie est recommandé si possible ?",
+      "choices": [
+        "Environ 24 heures",
+        "Environ 2 semaines",
+        "Environ 4 semaines",
+        "Environ 3 mois"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Après AVC ischémique, le texte recommande un délai d’environ 2 semaines si possible."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation neurologique est considérée comme une contre-indication à la chirurgie dans le texte ?",
+      "choices": [
+        "Céphalée isolée",
+        "AVC ischémique stabilisé",
+        "Coma",
+        "AVC hémorragique ancien au-delà du délai recommandé"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le coma est explicitement cité comme contre-indication à la chirurgie."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation l’antibioprophylaxie est-elle qualifiée d’optionnelle selon le texte ?",
+      "choices": [
+        "Porteur de prothèse valvulaire",
+        "Antécédent d’endocardite infectieuse",
+        "Cardiopathie congénitale cyanogène",
+        "Autres situations à risque"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’antibioprophylaxie est optionnelle dans les autres situations à risque, contrairement aux trois groupes où elle est obligatoire avant un geste à risque."
+    },
+    {
+      "type": "QCS",
+      "question": "Un faux anévrisme au cours d’une endocardite infectieuse appartient à quelle catégorie d’indication chirurgicale dans le texte ?",
+      "choices": [
+        "Indication infectieuse",
+        "Indication neurologique exclusive",
+        "Indication prophylactique primaire",
+        "Indication pronostique chiffrée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le faux anévrisme est cité parmi les indications infectieuses de chirurgie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certaines données quantitatives et pièges diagnostiques de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Une endocardite infectieuse peut survenir sans cardiopathie connue dans environ 30 % des cas.",
+        "L’absence de porte d’entrée retrouvée permet d’écarter le diagnostic d’endocardite infectieuse.",
+        "Les endocardites sur prothèse représentent environ 20 % des cas.",
+        "Les endocardites à hémocultures négatives représentent environ 10 à 20 % des cas."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’endocardite peut survenir sans cardiopathie connue dans environ 30 % des cas. Les portes d’entrée ne sont retrouvées que dans environ deux tiers des cas. Les formes sur prothèse représentent environ 20 %, et les hémocultures négatives 10 à 20 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les portes d’entrée suivantes, lesquelles sont explicitement citées comme possibles dans l’endocardite infectieuse ?",
+      "choices": [
+        "Digestive.",
+        "Uro-génitale.",
+        "ORL.",
+        "Endocrinienne."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les portes d’entrée citées sont notamment bucco-dentaire, digestive, uro-génitale, cutanée, ORL et nosocomiale. Une porte d’entrée endocrinienne n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les germes responsables d’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Les streptocoques sont les germes les plus fréquents.",
+        "Les staphylocoques constituent la deuxième cause et donnent souvent des formes plus graves.",
+        "Les staphylocoques à coagulase négative sont notamment impliqués sur prothèse.",
+        "Les endocardites fongiques à Candida albicans ou Aspergillus sont décrites comme habituellement bénignes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les streptocoques sont les plus fréquents. Les staphylocoques sont la deuxième cause, souvent plus grave, et les staphylocoques à coagulase négative sont notamment retrouvés sur prothèse. Les formes fongiques sont décrites comme graves."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une endocardite infectieuse à hémocultures négatives, quelles explications ou démarches sont conformes au texte ?",
+      "choices": [
+        "Une antibiothérapie préalable peut expliquer la négativité des hémocultures.",
+        "Le groupe HACEK peut être en cause du fait d’une croissance lente ou difficile.",
+        "Certains germes à croissance intracellulaire peuvent nécessiter sérologie, culture tissulaire ou analyse valvulaire.",
+        "La négativité des hémocultures signifie toujours l’absence de micro-organisme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hémocultures négatives peuvent être liées à une antibiothérapie préalable, à des germes à croissance lente ou difficile comme HACEK, ou à des germes intracellulaires nécessitant d’autres méthodes diagnostiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’endocardite infectieuse sur valve native, quelles lésions appartiennent au processus destructif décrit ?",
+      "choices": [
+        "Ulcération valvulaire.",
+        "Rupture de cordages tendineux dans les localisations mitrales.",
+        "Anévrisme en doigt de gant.",
+        "Nouvelle fuite péri-prothétique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le processus destructif comprend notamment l’ulcération, l’échancrure du bord libre, la perforation, la mutilation valvulaire, la rupture de cordages mitraux et l’anévrisme en doigt de gant. La nouvelle fuite péri-prothétique concerne l’évaluation échographique d’une prothèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les végétations de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont constituées d’amas fibrino-plaquettaires contenant des colonies microbiennes et des cellules inflammatoires.",
+        "Elles correspondent uniquement à des dépôts plaquettaires stériles sans micro-organisme.",
+        "Elles peuvent être sessiles ou pédiculées.",
+        "Leur taille peut parfois atteindre 4 à 5 cm."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Les végétations sont des amas fibrino-plaquettaires contenant colonies microbiennes et cellules inflammatoires. Elles peuvent être sessiles ou pédiculées et parfois atteindre 4 à 5 cm."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’endocardite infectieuse sur prothèse valvulaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Sur prothèse biologique, l’infection est le plus souvent limitée aux cuspides.",
+        "Sur prothèse biologique, l’extension aux structures péri-prothétiques est décrite comme habituelle.",
+        "Sur prothèse mécanique, l’infection touche surtout la collerette d’implantation.",
+        "Sur prothèse mécanique, une extension à l’anneau peut se compliquer d’abcès annulaire ou de désinsertion."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Sur prothèse biologique, l’infection est souvent limitée aux cuspides et peut être difficile à distinguer d’une dégénérescence. Sur prothèse mécanique, elle touche surtout la collerette avec possible extension à l’anneau, abcès annulaire et désinsertion."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’endocardite pariétale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut se localiser autour d’un défaut septal congénital, notamment une communication interventriculaire.",
+        "Elle est décrite comme le plus souvent primitive.",
+        "Elle est observée surtout dans les septicopyohémies fongiques des immunodéprimés.",
+        "Elle correspond par définition à une infection limitée aux cuspides valvulaires."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "L’endocardite pariétale peut se localiser autour d’un défaut septal congénital, notamment une communication interventriculaire. Elle est rarement primitive et s’observe surtout dans les septicopyohémies fongiques des immunodéprimés."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles lésions cardiaques compliquées sont mentionnées au cours de l’endocardite infectieuse ?",
+      "choices": [
+        "Abcès cardiaque.",
+        "Péricardite suppurée ou fibrineuse aseptique.",
+        "Myocardite.",
+        "Embolies coronaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite parmi les lésions cardiaques compliquées : abcès cardiaque, péricardite suppurée ou fibrineuse aseptique, myocardite et embolies coronaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles circonstances peuvent provoquer l’altération endothéliale initiale favorisant l’endocardite infectieuse ?",
+      "choices": [
+        "Un flux sanguin turbulent.",
+        "Des cathéters ou électrodes intracardiaques.",
+        "Une inflammation, notamment rhumatismale.",
+        "Des modifications dégénératives liées à l’âge."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’altération endothéliale peut résulter d’un flux turbulent, de cathéters ou électrodes intracardiaques, d’une inflammation notamment rhumatismale, ou de modifications dégénératives liées à l’âge."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les formes frustes d’endocardite infectieuse, quels signes peuvent être observés ?",
+      "choices": [
+        "Asthénie, anorexie et amaigrissement.",
+        "Sueurs nocturnes.",
+        "Arthralgies et myalgies.",
+        "Tableau exclusivement limité à un choc septique brutal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les formes frustes peuvent associer asthénie, anorexie, amaigrissement, sueurs nocturnes, arthralgies, myalgies et fébricule. Le texte ne les limite pas à un choc septique brutal."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’examen clinique d’une endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "L’apparition d’un souffle de régurgitation peut être retrouvée.",
+        "Une modification d’un souffle préexistant peut être observée.",
+        "Une splénomégalie modérée et inconstante peut exister.",
+        "La recherche d’une porte d’entrée est inutile si les hémocultures sont positives."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen recherche notamment un souffle de régurgitation nouveau, une modification d’un souffle préexistant et une splénomégalie modérée inconstante. La recherche de la porte d’entrée est systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les signes cutanéo-muqueux ou ophtalmologiques de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Les nodosités d’Osler sont des nodules rouges douloureux, éphémères, situés à la pulpe des doigts ou des orteils, ne suppurant pas.",
+        "Les lésions de Janeway correspondent à un érythème hémorragique palmaire ou plantaire.",
+        "Les pétéchies à centre blanc sont souvent buccales ou conjonctivales.",
+        "Les taches de Roth sont rétiniennes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre descriptions correspondent aux signes cutanéo-muqueux ou ophtalmologiques cités dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les hémocultures dans l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles constituent un examen essentiel permettant d’isoler le germe dans environ 90 % des cas.",
+        "Il faut réaliser en moyenne trois prélèvements veineux sur 24 heures.",
+        "Elles doivent être répétées pendant 2 à 3 jours si les premières sont négatives.",
+        "Elles ne sont utiles que si elles sont prélevées uniquement au pic fébrile."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hémocultures sont essentielles, isolent le germe dans environ 90 % des cas, et reposent en moyenne sur trois prélèvements veineux sur 24 heures. Elles sont répétées 2 à 3 jours si les premières sont négatives."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel est recherché par l’échocardiographie dans l’endocardite infectieuse selon le texte ?",
+      "choices": [
+        "Une hypertrabéculation ventriculaire.",
+        "Une nouvelle fuite péri-prothétique.",
+        "Une sténose coronaire athéromateuse.",
+        "Une calcification péricardique chronique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’échocardiographie recherche notamment une végétation, un abcès, une perforation valvulaire et une nouvelle fuite péri-prothétique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement les lésions de Janeway ?",
+      "choices": [
+        "Nodules rouges douloureux de la pulpe des doigts ou des orteils.",
+        "Érythème hémorragique palmaire ou plantaire.",
+        "Hémorragies rétiniennes centrées par une tache blanche.",
+        "Pétéchies suppurées péri-unguéales."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les lésions de Janeway sont décrites comme un érythème hémorragique palmaire ou plantaire, plus rare."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quel délai la majorité des germes sont-ils identifiés lors des cultures d’hémocultures dans l’endocardite infectieuse ?",
+      "choices": [
+        "Durant la première semaine de culture.",
+        "Uniquement après trois semaines de culture.",
+        "Dans les premières minutes suivant le prélèvement.",
+        "Seulement après analyse histologique valvulaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la majorité des germes sont identifiés durant la première semaine de culture."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la porte d’entrée nosocomiale la plus souvent citée dans l’endocardite infectieuse ?",
+      "choices": [
+        "Sonde gastrique.",
+        "Cathéter vasculaire.",
+        "Drain pleural.",
+        "Sonde d’intubation."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La porte d’entrée nosocomiale est le plus souvent un cathéter vasculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme correspond au processus immunologique de l’endocardite infectieuse ?",
+      "choices": [
+        "Formation de complexes immuns antigène-anticorps.",
+        "Calcification primitive de l’anneau valvulaire.",
+        "Dégénérescence graisseuse myocardique.",
+        "Thrombose coronaire athéromateuse isolée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le processus immunologique de l’endocardite infectieuse correspond à la formation de complexes immuns antigène-anticorps."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement le rôle de la bactériémie dans la physiopathologie de l’endocardite infectieuse ?",
+      "choices": [
+        "Elle provoque directement une dégénérescence valvulaire sans thrombus.",
+        "Elle colonise un thrombus préexistant et forme un thrombus septique.",
+        "Elle empêche l’adhérence bactérienne sur l’endocarde altéré.",
+        "Elle survient uniquement en dehors de tout geste invasif."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Une bactériémie transitoire, spontanée ou provoquée par un geste invasif, colonise le thrombus et forme un thrombus septique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations suivantes entre situation clinique et antibiothérapie probabiliste, lesquelles sont conformes au texte ?",
+      "choices": [
+        "Endocardite subaiguë à porte d’entrée dentaire : pénicilline G ou amoxicilline associée à la gentamicine",
+        "Endocardite aiguë évoquant un staphylocoque : oxacilline associée à la gentamicine",
+        "Endocardite sur prothèse : vancomycine, gentamicine et rifampicine",
+        "Endocardite aiguë avec allergie aux bêta-lactamines : oxacilline et rifampicine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte propose pénicilline G ou amoxicilline + gentamicine dans les formes subaiguës évoquant streptocoque/entérocoque, oxacilline + gentamicine dans les formes aiguës évoquant staphylocoque, et vancomycine + gentamicine + rifampicine sur prothèse. En cas d’allergie aux bêta-lactamines, il propose vancomycine + gentamicine."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le schéma probabiliste d’une endocardite subaiguë avec porte d’entrée dentaire ou indéterminée, quels éléments sont exacts ?",
+      "choices": [
+        "La pénicilline G peut être utilisée à la dose de 200 000 à 300 000 UI/kg/j",
+        "L’amoxicilline peut être utilisée à la dose de 200 mg/kg/j",
+        "La gentamicine est associée à la dose de 3 mg/kg/j",
+        "La bithérapie est poursuivie 6 semaines sans relais par monothérapie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique pénicilline G 200 000 à 300 000 UI/kg/j ou amoxicilline 200 mg/kg/j, associée à gentamicine 3 mg/kg/j. La stratégie est une bithérapie pendant 2 semaines puis une monothérapie pendant 4 semaines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’antibiothérapie probabiliste d’une endocardite aiguë avec porte d’entrée cutanée ou toxicomanie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle vise un tableau évoquant un staphylocoque",
+        "L’oxacilline est proposée à 200 mg/kg/j",
+        "La gentamicine est proposée à 3 mg/kg/j",
+        "La rifampicine remplace systématiquement la gentamicine dans cette situation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pour une endocardite aiguë à porte d’entrée cutanée ou toxicomanie évoquant un staphylocoque, le texte propose oxacilline 200 mg/kg/j associée à gentamicine 3 mg/kg/j. La rifampicine n’est pas indiquée dans ce schéma, elle est citée dans l’endocardite sur prothèse."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles correspondent à des critères majeurs microbiologiques selon les critères de Duke modifiés rapportés ?",
+      "choices": [
+        "Micro-organisme typique isolé dans deux hémocultures séparées sans foyer infectieux primaire",
+        "Micro-organisme non typique isolé dans des hémocultures persistantes à plus de 12 heures d’intervalle",
+        "Une hémoculture positive à Coxiella burnetii",
+        "Facteur rhumatoïde positif isolé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premières situations sont des critères majeurs microbiologiques. Le facteur rhumatoïde appartient aux phénomènes immunologiques des critères mineurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre complication cardiaque et précision mécanistique sont conformes au texte ?",
+      "choices": [
+        "Infarctus du myocarde par embolie coronaire",
+        "Troubles de conduction auriculo-ventriculaire notamment par abcès atteignant les voies de conduction",
+        "Abcès intracardiaque comme complication cardiaque",
+        "Infarctus splénique comme complication cardiaque directe"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’infarctus du myocarde par embolie coronaire, les troubles de conduction auriculo-ventriculaire liés notamment à un abcès atteignant les voies de conduction, et l’abcès intracardiaque. L’infarctus splénique est une complication extra-cardiaque splénique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations suivantes entre complication extra-cardiaque et catégorie, lesquelles sont exactes ?",
+      "choices": [
+        "Abcès cérébral : complication neurologique",
+        "Infarctus rénal : complication rénale",
+        "Abcès splénique : complication splénique",
+        "Nodosités d’Osler : complication artérielle périphérique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’abcès cérébral est neurologique, l’infarctus rénal est rénal et l’abcès splénique est splénique. Les nodosités d’Osler sont citées comme phénomène immunologique dans les critères mineurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont mentionnés comme facteurs de mauvais pronostic de l’endocardite infectieuse ?",
+      "choices": [
+        "Diabète sucré",
+        "Infection à Staphylococcus aureus",
+        "Complications emboliques",
+        "Fièvre isolée supérieure ou égale à 38 °C"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diabète sucré, l’infection à Staphylococcus aureus et les complications emboliques sont cités comme facteurs de mauvais pronostic. La fièvre ≥ 38 °C est un critère mineur diagnostique, pas un facteur pronostique cité."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels objectifs thérapeutiques sont explicitement assignés à la prise en charge de l’endocardite infectieuse ?",
+      "choices": [
+        "Éradication du germe",
+        "Rétablissement d’une hémodynamique correcte",
+        "Prévention des complications emboliques et infectieuses",
+        "Normalisation immédiate et isolée de la vitesse de sédimentation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les objectifs cités sont l’éradication du germe, le rétablissement hémodynamique, la prévention des complications emboliques et infectieuses, le traitement des complications/séquelles et la prévention des récidives."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour l’adaptation ou la surveillance de l’antibiothérapie, quels paramètres sont mentionnés dans le texte ?",
+      "choices": [
+        "Clairance de la créatinine",
+        "Fonction hépatique",
+        "Concentrations plasmatiques, notamment pics et creux des aminosides",
+        "Taille échographique isolée de la végétation comme critère de dose"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les doses doivent être adaptées à la clairance de la créatinine, à la fonction hépatique et aux concentrations plasmatiques, notamment les pics et creux des aminosides. La taille de la végétation sert à l’évaluation échographique et du risque embolique, pas à l’adaptation posologique citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels critères d’efficacité du traitement antibiotique sont cités ?",
+      "choices": [
+        "Disparition de la fièvre",
+        "Maintien de l’apyrexie",
+        "Négativation des hémocultures",
+        "Apparition d’un nouveau souffle de régurgitation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les critères d’efficacité cités sont la disparition de la fièvre, le maintien de l’apyrexie, la négativation des hémocultures et la régression du syndrome inflammatoire biologique. Un nouveau souffle de régurgitation est un critère majeur d’atteinte endocardique, non un critère d’efficacité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement du foyer infectieux originel, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La cure du foyer infectieux originel doit être réalisée pendant l’antibiothérapie",
+        "Si une chirurgie cardiaque est indiquée, le foyer infectieux doit être traité si possible avant l’intervention",
+        "La cure du foyer infectieux doit toujours être différée après la fin de toute antibiothérapie",
+        "La présence d’un foyer infectieux originel contre-indique définitivement la chirurgie cardiaque"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte recommande la cure du foyer infectieux originel pendant l’antibiothérapie et, si une chirurgie cardiaque est indiquée, le traitement du foyer si possible avant l’intervention."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la chirurgie d’une endocardite stérilisée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être indiquée à distance après stérilisation de l’infection",
+        "Elle dépend de la tolérance des lésions valvulaires séquellaires",
+        "La mauvaise tolérance clinique, notamment d’une insuffisance aortique, peut fonder l’indication",
+        "Elle est réservée exclusivement aux infections non contrôlées en phase aiguë"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après stérilisation, une chirurgie à distance peut être indiquée selon la tolérance des lésions valvulaires séquellaires, notamment en cas de mauvaise tolérance clinique d’une insuffisance aortique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles difficultés de la chirurgie cardiaque en phase aiguë d’endocardite infectieuse sont citées ?",
+      "choices": [
+        "Fragilité des tissus valvulaires",
+        "Milieu septique",
+        "Extension possible de l’infection au-delà de l’anneau",
+        "Absence constante de destruction tissulaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les difficultés citées sont la fragilité des tissus valvulaires, le milieu septique et l’extension possible de l’infection au-delà de l’anneau."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels diagnostics différentiels sont explicitement mentionnés ?",
+      "choices": [
+        "Rupture de cordages tendineux de la valve mitrale, notamment dans la maladie de Barlow",
+        "Épisode thromboembolique isolé",
+        "Poussée d’insuffisance cardiaque congestive",
+        "Fièvre post-chirurgie cardiaque"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre situations sont citées comme diagnostics différentiels de l’endocardite infectieuse dans le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les critères mineurs de Duke modifiés, quel seuil de température définit la fièvre ?",
+      "choices": [
+        "37,5 °C",
+        "38 °C",
+        "38,5 °C",
+        "39 °C"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La fièvre est définie dans les critères mineurs par une température supérieure ou égale à 38 °C."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel titre d’IgG anti-Coxiella burnetii est cité comme critère majeur microbiologique ?",
+      "choices": [
+        "Supérieur à 1/80",
+        "Supérieur à 1/160",
+        "Supérieur à 1/800",
+        "Supérieur à 1/1600"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte retient comme critère majeur une hémoculture positive à Coxiella burnetii ou un titre d’IgG supérieur à 1/800."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour un micro-organisme non typique, quel intervalle entre hémocultures persistantes est requis pour un critère majeur microbiologique ?",
+      "choices": [
+        "Plus de 6 heures",
+        "Plus de 12 heures",
+        "Plus de 24 heures",
+        "Plus de 48 heures"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Un micro-organisme non typique isolé dans des hémocultures persistantes à plus de 12 heures d’intervalle constitue un critère majeur microbiologique."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le schéma probabiliste de l’endocardite subaiguë évoquant streptocoque ou entérocoque, quelle séquence thérapeutique est indiquée ?",
+      "choices": [
+        "Bithérapie 1 semaine puis monothérapie 1 semaine",
+        "Bithérapie 2 semaines puis monothérapie 4 semaines",
+        "Monothérapie 2 semaines puis bithérapie 4 semaines",
+        "Trithérapie 6 semaines sans relais"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique une bithérapie pendant 2 semaines, suivie d’une monothérapie pendant 4 semaines."
+    },
+    {
+      "type": "QCS",
+      "question": "En cas d’allergie aux bêta-lactamines dans une endocardite aiguë évoquant un staphylocoque, quel traitement est proposé ?",
+      "choices": [
+        "Vancomycine 30 mg/kg/j associée à gentamicine",
+        "Pénicilline G 300 000 UI/kg/j associée à rifampicine",
+        "Amoxicilline 200 mg/kg/j seule",
+        "Oxacilline 200 mg/kg/j seule"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas d’allergie aux bêta-lactamines dans ce contexte, le texte propose vancomycine 30 mg/kg/j associée à gentamicine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle surveillance est spécifiquement indiquée sous aminosides et vancomycine ?",
+      "choices": [
+        "Surveillance rénale",
+        "Surveillance ophtalmologique systématique",
+        "Surveillance de la calcémie",
+        "Surveillance de la glycémie capillaire horaire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise qu’une surveillance rénale est nécessaire sous aminosides et vancomycine."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’endocardite infectieuse compliquée, quels éléments relèvent d’une atteinte mécanique intracardiaque pouvant motiver une chirurgie selon le texte ?",
+      "choices": [
+        "Insuffisance cardiaque non contrôlée",
+        "Dysfonction valvulaire sévère par déhiscence ou obstruction",
+        "Fistule vers une cavité cardiaque ou vers le péricarde",
+        "Risque annuel de récidive entre 0,3 et 2,5 %"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’insuffisance cardiaque non contrôlée, la dysfonction valvulaire sévère par déhiscence ou obstruction, et les fistules vers une cavité cardiaque ou le péricarde comme situations chirurgicales. Le risque de récidive est une donnée pronostique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont des indications infectieuses locales de chirurgie, sans faire intervenir directement le type de micro-organisme ?",
+      "choices": [
+        "Infection locale non contrôlée",
+        "Abcès",
+        "Faux anévrisme",
+        "Cardiopathie congénitale cyanogène"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indications infectieuses locales comprennent l’infection locale non contrôlée, l’abcès, la fistule et le faux anévrisme. La cardiopathie congénitale cyanogène concerne l’antibioprophylaxie obligatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations du texte traduisent une indication chirurgicale liée au caractère persistant ou particulier de l’infection ?",
+      "choices": [
+        "Fièvre persistante avec hémocultures positives après 7 à 10 jours d’antibiothérapie adaptée",
+        "Infection fongique",
+        "Infection à micro-organisme multirésistant",
+        "Végétation isolée supérieure à 15 mm"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La fièvre persistante avec hémocultures positives malgré 7 à 10 jours d’antibiothérapie adaptée, l’infection fongique et l’infection à micro-organisme multirésistant sont des indications infectieuses. La végétation isolée > 15 mm relève de la prévention embolique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prévention embolique au cours de l’endocardite infectieuse, quelles situations sont explicitement retenues par le texte ?",
+      "choices": [
+        "Embolies récidivantes",
+        "Végétation supérieure à 10 mm avec facteur emboligène",
+        "Végétation isolée supérieure à 15 mm",
+        "Végétation de 8 mm sans facteur emboligène"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indications anatomiques et de prévention embolique sont les embolies récidivantes, une végétation > 10 mm avec facteur emboligène, ou une végétation isolée > 15 mm."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour retenir l’indication chirurgicale infectieuse liée à la fièvre persistante, quels éléments doivent être associés selon le texte ?",
+      "choices": [
+        "Persistance de la fièvre",
+        "Hémocultures positives",
+        "Délai de 7 à 10 jours sous antibiothérapie adaptée",
+        "Simple fièvre initiale avant toute antibiothérapie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte exige l’association d’une fièvre persistante, d’hémocultures positives et d’une antibiothérapie adaptée poursuivie pendant 7 à 10 jours. Une fièvre initiale isolée ne suffit pas."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la chirurgie après accident vasculaire cérébral au cours d’une endocardite infectieuse, quelles propositions respectent les délais indiqués ?",
+      "choices": [
+        "Après AVC hémorragique, un délai d’environ 4 semaines est recommandé si possible",
+        "Après AVC ischémique, un délai d’environ 2 semaines est recommandé si possible",
+        "Le coma constitue une contre-indication à la chirurgie",
+        "Après AVC hémorragique, la chirurgie est recommandée après seulement 2 semaines si possible"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande environ 4 semaines après AVC hémorragique, environ 2 semaines après AVC ischémique, si possible. Le coma est une contre-indication à la chirurgie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions décrivent correctement les données chiffrées de pronostic rapportées dans le texte ?",
+      "choices": [
+        "La mortalité sur valve native est de 15 à 20 %",
+        "La mortalité sur prothèse est de 20 à 30 %",
+        "La survie globale est d’environ 75 % à 6 mois",
+        "Le risque de récidive est de 15 à 20 % par an"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le risque annuel de récidive est d’environ 0,3 à 2,5 % par an, et non 15 à 20 %. Les autres chiffres sont conformes au texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments doivent être intégrés dans l’évaluation pronostique d’une endocardite infectieuse selon le texte ?",
+      "choices": [
+        "Le terrain",
+        "L’état clinique",
+        "Le germe responsable",
+        "Les difficultés chirurgicales"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le pronostic dépend du terrain, de l’état clinique, du germe responsable et des difficultés chirurgicales."
+    },
+    {
+      "type": "QCM",
+      "question": "Avant un geste à risque, chez quels patients l’antibioprophylaxie est-elle obligatoire selon le texte ?",
+      "choices": [
+        "Porteurs de prothèse valvulaire",
+        "Patients ayant un antécédent d’endocardite infectieuse",
+        "Patients ayant une cardiopathie congénitale cyanogène",
+        "Patients dans toutes les autres situations à risque"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’antibioprophylaxie est obligatoire chez les porteurs de prothèse valvulaire, les patients avec antécédent d’endocardite infectieuse et ceux ayant une cardiopathie congénitale cyanogène. Elle est optionnelle dans les autres situations à risque."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’antibioprophylaxie optionnelle, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "Elle concerne les autres situations à risque",
+        "Elle ne concerne pas les groupes pour lesquels la prophylaxie est obligatoire",
+        "Elle s’inscrit dans le contexte d’un geste à risque",
+        "Elle correspond à une fièvre persistante après 7 à 10 jours d’antibiothérapie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue l’antibioprophylaxie obligatoire pour certains groupes et optionnelle dans les autres situations à risque, avant un geste à risque. La fièvre persistante relève d’une indication chirurgicale infectieuse, pas de la prophylaxie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la dysfonction valvulaire sévère mentionnée par le texte, quels mécanismes sont explicitement cités ?",
+      "choices": [
+        "Déhiscence",
+        "Obstruction",
+        "Embolie récidivante",
+        "Infection fongique"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La dysfonction valvulaire sévère est précisée par deux mécanismes : déhiscence ou obstruction. Les embolies récidivantes et l’infection fongique relèvent d’autres catégories d’indications."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fistules dans l’endocardite infectieuse, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "Une fistule peut communiquer avec une cavité cardiaque",
+        "Une fistule peut communiquer avec le péricarde",
+        "La fistule est également listée parmi les indications infectieuses",
+        "La fistule est présentée comme une donnée de récidive annuelle"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les fistules vers une cavité cardiaque ou vers le péricarde, et mentionne aussi la fistule parmi les indications infectieuses. La récidive annuelle est une donnée pronostique distincte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles indications chirurgicales du texte ne reposent pas, dans leur formulation, sur un seuil de taille de végétation ?",
+      "choices": [
+        "Insuffisance cardiaque non contrôlée",
+        "Abcès",
+        "Infection fongique",
+        "Embolies récidivantes"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre situations sont citées comme indications sans seuil chiffré de végétation. Les seuils chiffrés concernent les végétations > 10 mm avec facteur emboligène et les végétations isolées > 15 mm."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour interpréter correctement le rôle des végétations dans les indications opératoires, quelles propositions sont exactes ?",
+      "choices": [
+        "Une végétation volumineuse est citée parmi les indications infectieuses",
+        "Une végétation > 10 mm nécessite un facteur emboligène pour l’indication de prévention embolique décrite",
+        "Une végétation isolée > 15 mm est une indication anatomique ou de prévention embolique",
+        "Toute végétation isolée > 10 mm suffit selon le texte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue la végétation volumineuse, la végétation > 10 mm avec facteur emboligène, et la végétation isolée > 15 mm. Il ne dit pas que toute végétation isolée > 10 mm suffit."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation correspond exactement à une indication de prévention embolique basée sur un seuil de végétation de 10 mm ?",
+      "choices": [
+        "Végétation > 10 mm avec facteur emboligène",
+        "Végétation isolée > 10 mm sans autre précision",
+        "Végétation > 10 mm uniquement si elle est fongique",
+        "Végétation de 8 mm avec fièvre initiale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le seuil de 10 mm est retenu dans le texte uniquement avec la présence d’un facteur emboligène."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les profils suivants, lequel impose une antibioprophylaxie obligatoire avant un geste à risque selon le texte ?",
+      "choices": [
+        "Patient ayant un antécédent d’endocardite infectieuse",
+        "Patient dans une autre situation à risque non précisée",
+        "Patient ayant une végétation volumineuse",
+        "Patient ayant des hémocultures positives persistantes"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’antécédent d’endocardite infectieuse fait partie des trois situations d’antibioprophylaxie obligatoire. Les autres situations à risque relèvent d’une prophylaxie optionnelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle donnée correspond au risque annuel de récidive de l’endocardite infectieuse indiqué dans le texte ?",
+      "choices": [
+        "0,3 à 2,5 % par an",
+        "15 à 20 % par an",
+        "20 à 30 % par an",
+        "75 % par an"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le risque de récidive est d’environ 0,3 à 2,5 % par an."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation neurologique est considérée comme une contre-indication à la chirurgie dans le texte ?",
+      "choices": [
+        "Coma",
+        "AVC ischémique isolé",
+        "AVC hémorragique avec possibilité d’attendre 4 semaines",
+        "AVC ischémique avec possibilité d’attendre 2 semaines"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le coma est explicitement cité comme contre-indication à la chirurgie."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel est cité comme facteur conditionnant le pronostic de l’endocardite infectieuse ?",
+      "choices": [
+        "Germe responsable",
+        "Cardiopathie congénitale cyanogène",
+        "Végétation isolée supérieure à 15 mm",
+        "Porteur de prothèse valvulaire uniquement pour la prophylaxie"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le pronostic dépend notamment du germe responsable. Les autres éléments sont cités dans le texte, mais dans d’autres cadres : prophylaxie ou indications chirurgicales."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle mortalité est rapportée pour les endocardites infectieuses sur prothèse ?",
+      "choices": [
+        "20 à 30 %",
+        "15 à 20 %",
+        "0,3 à 2,5 %",
+        "75 % à 6 mois"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La mortalité des endocardites sur prothèse est indiquée entre 20 et 30 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une infection de l’endocarde.",
+        "Elle est le plus souvent valvulaire.",
+        "Elle peut concerner une prothèse intracardiaque.",
+        "Elle entraîne des lésions ulcéro-végétantes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’endocardite infectieuse est définie comme une infection de l’endocarde, le plus souvent valvulaire, plus rarement pariétale ou d’une prothèse intracardiaque, entraînant des lésions ulcéro-végétantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’épidémiologie, la gravité et les principes généraux de prise en charge de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "La mortalité globale est estimée à 15 à 20 %.",
+        "La mortalité est plus élevée en cas de prothèse valvulaire.",
+        "Le diagnostic repose sur la clinique, les hémocultures et l’échocardiographie.",
+        "Le traitement est exclusivement chirurgical."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mortalité est de 15 à 20 %, plus élevée sur prothèse valvulaire. Le diagnostic associe clinique, hémocultures et échocardiographie. Le traitement est médical, parfois chirurgical, et non exclusivement chirurgical."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles cardiopathies appartiennent au groupe à haut risque d’endocardite infectieuse selon le texte ?",
+      "choices": [
+        "Prothèse valvulaire.",
+        "Antécédent d’endocardite infectieuse.",
+        "Cardiopathie congénitale cyanogène non opérée.",
+        "Communication interauriculaire isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cardiopathies à haut risque sont la prothèse valvulaire, l’antécédent d’endocardite infectieuse et la cardiopathie congénitale cyanogène non opérée. La communication interauriculaire isolée est explicitement exclue des cardiopathies congénitales non cyanogènes à risque moins élevé."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les cardiopathies à risque moins élevé d’endocardite infectieuse, lesquelles sont citées ?",
+      "choices": [
+        "Insuffisance aortique, insuffisance mitrale ou rétrécissement aortique.",
+        "Prolapsus de la valve mitrale avec insuffisance mitrale et/ou épaississement valvulaire.",
+        "Bicuspidie aortique.",
+        "Cardiomyopathie hypertrophique obstructive avec souffle à l’auscultation."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite parmi les cardiopathies à risque moins élevé certaines valvulopathies, le prolapsus mitral avec insuffisance mitrale et/ou épaississement valvulaire, la bicuspidie aortique et la cardiomyopathie hypertrophique obstructive avec souffle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les portes d’entrée de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont retrouvées dans environ deux tiers des cas.",
+        "Une porte d’entrée bucco-dentaire peut être liée à des caries, des soins dentaires ou un détartrage.",
+        "Une porte d’entrée nosocomiale est le plus souvent liée à un cathéter vasculaire.",
+        "Une porte d’entrée est toujours identifiée si les hémocultures sont positives."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les portes d’entrée sont retrouvées dans environ deux tiers des cas. Les portes bucco-dentaires incluent caries, soins dentaires et détartrage. La porte nosocomiale est le plus souvent un cathéter vasculaire. Le texte ne dit pas qu’une porte d’entrée est toujours identifiée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les endocardites infectieuses à hémocultures négatives, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles représentent 10 à 20 % des cas.",
+        "Une antibiothérapie préalable peut les expliquer.",
+        "Certains germes à croissance intracellulaire peuvent nécessiter une sérologie.",
+        "Une culture tissulaire ou une analyse valvulaire peut être nécessaire pour certains germes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les endocardites à hémocultures négatives représentent 10 à 20 % des cas. Elles peuvent être liées à une antibiothérapie préalable, à des micro-organismes difficiles ou à croissance intracellulaire nécessitant sérologie, culture tissulaire ou analyse valvulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’endocardite infectieuse sur valve native, quelles lésions relèvent du processus destructif ?",
+      "choices": [
+        "Ulcération.",
+        "Échancrure du bord libre valvulaire.",
+        "Mutilation valvulaire plus ou moins complète.",
+        "Amas fibrino-plaquettaires contenant des colonies microbiennes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le processus destructif comprend notamment ulcération, échancrure, perforation, mutilation valvulaire, rupture de cordages mitraux et anévrisme en doigt de gant. L’amas fibrino-plaquettaire avec colonies microbiennes correspond à la végétation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les végétations de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont constituées d’amas fibrino-plaquettaires.",
+        "Elles contiennent des colonies microbiennes et des cellules inflammatoires.",
+        "Elles peuvent être sessiles ou pédiculées.",
+        "Le risque embolique est accru lorsqu’elles sont volumineuses ou mobiles."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les végétations sont des amas fibrino-plaquettaires contenant colonies microbiennes et cellules inflammatoires. Elles peuvent être sessiles ou pédiculées, de taille variable, avec un risque embolique accru si elles sont volumineuses ou mobiles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’endocardite infectieuse sur prothèse valvulaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Sur prothèse biologique, de petites perforations sont possibles.",
+        "Sur prothèse biologique, les lésions peuvent être difficiles à distinguer d’une dégénérescence.",
+        "Sur prothèse biologique, l’infection est le plus souvent limitée aux cuspides sans extension aux structures péri-prothétiques.",
+        "Sur prothèse mécanique, une extension à l’anneau valvulaire et aux structures adjacentes est possible."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue l’atteinte des prothèses biologiques, souvent limitée aux cuspides, parfois difficile à différencier d’une dégénérescence, et l’atteinte des prothèses mécaniques pouvant s’étendre à l’anneau et aux structures adjacentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’endocardite pariétale et certaines lésions cardiaques compliquées, quelles propositions sont exactes ?",
+      "choices": [
+        "L’endocardite pariétale peut se localiser autour d’un défaut septal congénital.",
+        "La communication interventriculaire est citée comme exemple de défaut septal congénital concerné.",
+        "L’endocardite pariétale est rarement primitive.",
+        "La myocardite fait partie des lésions cardiaques compliquées citées."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’endocardite pariétale peut se localiser autour d’un défaut septal congénital, notamment une communication interventriculaire, et elle est rarement primitive. La myocardite est listée parmi les lésions cardiaques compliquées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la physiopathologie de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "L’altération endothéliale entraîne des micro-ulcérations et des microthrombi.",
+        "L’endocardite thrombotique non bactérienne favorise l’adhérence bactérienne.",
+        "Une bactériémie transitoire peut coloniser le thrombus.",
+        "Le processus immunologique implique la formation de complexes immuns antigène-anticorps."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La séquence physiopathologique comprend altération endothéliale, micro-ulcérations, microthrombi, endocardite thrombotique non bactérienne, adhérence bactérienne puis colonisation par une bactériémie transitoire. Le processus immunologique correspond à des complexes immuns antigène-anticorps."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles présentations cliniques peuvent révéler une endocardite infectieuse selon le texte ?",
+      "choices": [
+        "Fièvre élevée avec frissons chez un patient porteur d’une valvulopathie.",
+        "Accident vasculaire cérébral.",
+        "Ischémie aiguë de membre.",
+        "Poussée d’insuffisance cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’endocardite infectieuse peut se manifester par une fièvre élevée avec frissons, surtout en cas de valvulopathie ou de prothèse, ou être révélée par une complication : AVC, ischémie aiguë de membre ou poussée d’insuffisance cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les signes cutanéo-muqueux et ophtalmologiques de l’endocardite infectieuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Les nodosités d’Osler sont des nodules rouges douloureux et éphémères.",
+        "Les nodosités d’Osler siègent à la pulpe des doigts ou des orteils et ne suppurent pas.",
+        "Les lésions de Janeway correspondent à un érythème hémorragique palmaire ou plantaire.",
+        "Les taches de Roth sont rétiniennes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit les nodosités d’Osler comme des nodules rouges douloureux, éphémères, pulpaires, non suppuratifs. Les lésions de Janeway sont un érythème hémorragique palmaire ou plantaire. Les taches de Roth sont rétiniennes."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’échocardiographie dans l’endocardite infectieuse, quels éléments sont recherchés selon le texte ?",
+      "choices": [
+        "Végétation.",
+        "Abcès.",
+        "Perforation valvulaire.",
+        "Nouvelle fuite péri-prothétique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’échocardiographie est essentielle au diagnostic et recherche notamment végétation, abcès, perforation valvulaire et nouvelle fuite péri-prothétique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proportion approximative des endocardites infectieuses survient sur prothèse selon le texte ?",
+      "choices": [
+        "Environ 5 %.",
+        "Environ 10 %.",
+        "Environ 20 %.",
+        "Environ 50 %."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les endocardites sur prothèse représentent environ 20 % des cas."
+    },
+    {
+      "type": "QCS",
+      "question": "En l’absence de cardiopathie connue, quelle proportion approximative d’endocardites infectieuses reste possible selon le texte ?",
+      "choices": [
+        "Environ 5 % des cas.",
+        "Environ 10 % des cas.",
+        "Environ 30 % des cas.",
+        "Environ 70 % des cas."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise qu’une endocardite infectieuse sans cardiopathie connue est possible dans environ 30 % des cas."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen permet d’isoler le germe dans environ 90 % des cas d’endocardite infectieuse ?",
+      "choices": [
+        "L’électrocardiogramme.",
+        "Les hémocultures.",
+        "La radiographie thoracique.",
+        "Le dosage des troponines."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les hémocultures sont un examen essentiel et permettent d’isoler le germe dans environ 90 % des cas."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un patient stable suspect d’endocardite infectieuse, quel intervalle entre les prélèvements d’hémocultures est indiqué ?",
+      "choices": [
+        "5 minutes.",
+        "15 minutes.",
+        "1 à 2 heures.",
+        "12 heures."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique un intervalle de 1 à 2 heures entre les prélèvements d’hémocultures si l’état du patient est stable."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel groupe de germes est cité comme le plus fréquent dans l’endocardite infectieuse ?",
+      "choices": [
+        "Staphylocoques.",
+        "Streptocoques.",
+        "Pseudomonas.",
+        "Champignons et levures."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les streptocoques sont cités comme les germes les plus fréquents dans l’endocardite infectieuse."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’endocardite infectieuse sur prothèse mécanique, quelle structure est surtout touchée selon le texte ?",
+      "choices": [
+        "Les cuspides.",
+        "La collerette d’implantation.",
+        "Le péricarde viscéral.",
+        "Les cordages tendineux."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Sur prothèse mécanique, l’infection touche surtout la collerette d’implantation, avec extension possible à l’anneau valvulaire et aux structures adjacentes."
+    }
+  ],
+  "status": "done",
+  "error": "Connection error.",
+  "updatedAt": "2026-07-03T15:59:29.559Z"
+}

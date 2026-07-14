@@ -1,0 +1,3124 @@
+{
+  "category": "chirurgie",
+  "module": "urologie",
+  "courseId": null,
+  "courseTitle": null,
+  "supportTitle": "tumeurs_testicules.pdf",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/tumeurs testicules.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs testiculaires solides et les tumeurs germinales du testicule, quelles propositions sont exactes ?",
+      "choices": [
+        "Toute tumeur testiculaire solide doit être considérée comme un cancer jusqu’à preuve histologique du contraire.",
+        "Les tumeurs germinales représentent environ 95 % des tumeurs malignes du testicule.",
+        "Les tumeurs germinales se répartissent en tumeurs séminomateuses et non séminomateuses.",
+        "La néoplasie germinale in situ est un état précancéreux à l’origine de la majorité des tumeurs germinales du testicule."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise ces quatre éléments : présomption de malignité devant toute tumeur solide, fréquence élevée des tumeurs germinales, distinction séminome/non-séminome et rôle de la néoplasie germinale in situ."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les facteurs de risque de tumeurs germinales du testicule, lesquels sont cités dans le texte ?",
+      "choices": [
+        "Antécédent personnel de tumeur germinale.",
+        "Antécédent familial au 1er degré de tumeur germinale.",
+        "Cryptorchidie ou ectopie testiculaire.",
+        "Syndrome de dysgénésie testiculaire associant notamment infertilité, atrophie testiculaire, cryptorchidie ou hypospadias."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces situations sont toutes mentionnées comme facteurs de risque des tumeurs germinales testiculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la dissémination métastatique des tumeurs germinales testiculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Le tropisme métastatique est principalement lymphatique.",
+        "Les ganglions rétropéritonéaux font partie des sites lymphatiques préférentiels.",
+        "Des adénopathies médiastinales et sus-claviculaires gauches peuvent être observées.",
+        "Une dissémination hématogène peut atteindre notamment les poumons et le foie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La dissémination est surtout lymphatique vers les chaînes rétropéritonéales, médiastinales et sus-claviculaires gauches ; elle peut aussi être hématogène vers les poumons, le foie, plus rarement le cerveau et les os."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon la classification simplifiée des tumeurs primitives du testicule, quelles associations sont exactes ?",
+      "choices": [
+        "Séminome : tumeur germinale dérivant d’une néoplasie germinale in situ.",
+        "Tératome avec transformation somatique maligne : tumeur germinale dérivant d’une néoplasie germinale in situ.",
+        "Tumeur à cellules de Leydig : tumeur des cordons sexuels.",
+        "Gonadoblastome : tumeur mixte stromale et germinale."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces correspondances reprennent directement la classification du texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels contingents histologiques peuvent constituer une tumeur germinale non séminomateuse ?",
+      "choices": [
+        "Carcinome embryonnaire.",
+        "Choriocarcinome.",
+        "Tumeur du sac vitellin.",
+        "Tératome."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les tumeurs germinales non séminomateuses peuvent être constituées d’un seul de ces sous-types ou d’une association de plusieurs contingents."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles circonstances de découverte peuvent révéler une tumeur testiculaire ?",
+      "choices": [
+        "Masse scrotale dure, unilatérale, indolore.",
+        "Tableau subaigu mimant une orchi-épididymite ou une torsion testiculaire.",
+        "Détresse respiratoire liée à des métastases pulmonaires.",
+        "Adénopathie sus-claviculaire gauche palpable."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces quatre modalités de révélation, allant d’une forme locale typique à des manifestations métastatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’examen clinique d’une suspicion de tumeur testiculaire, quelles démarches sont appropriées selon le texte ?",
+      "choices": [
+        "Réaliser un examen testiculaire bilatéral et comparatif.",
+        "Rechercher une masse testiculaire circonscrite, dure, pierreuse, plus sensible que douloureuse.",
+        "Interpréter la conservation du sillon épididymo-testiculaire comme un argument en faveur d’une origine testiculaire.",
+        "Rechercher une gynécomastie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’examen clinique doit être bilatéral et comparatif, apprécier les caractéristiques de la masse, le sillon épididymo-testiculaire et rechercher notamment une gynécomastie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’échographie scrotale dans le bilan d’une tumeur testiculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est recommandée systématiquement.",
+        "Couplée à l’examen clinique, sa sensibilité est supérieure à 95 %.",
+        "Elle permet de distinguer les lésions intra- et extratesticulaires.",
+        "Elle permet d’explorer le testicule controlatéral."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’échographie scrotale est systématique, très sensible avec l’examen clinique, et permet l’analyse de la topographie lésionnelle ainsi que du testicule controlatéral."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments échographiques sont compatibles avec les données du texte ?",
+      "choices": [
+        "Les séminomes ont souvent l’aspect de masses lobulées hypoéchogènes.",
+        "Les séminomes peuvent être vascularisés au Doppler couleur.",
+        "Les séminomes peuvent être associés à des microlithes.",
+        "Les tumeurs germinales non séminomateuses sont souvent plus hétérogènes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit les séminomes comme souvent lobulés, hypoéchogènes et vascularisés, parfois avec microlithes ; les tumeurs non séminomateuses sont souvent plus hétérogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le bilan d’extension initial, quels objectifs justifient la tomodensitométrie thoracique, abdominale et pelvienne systématique ?",
+      "choices": [
+        "Évaluer l’extension ganglionnaire rétropéritonéale.",
+        "Rechercher des adénopathies médiastinales.",
+        "Rechercher des métastases pulmonaires.",
+        "Rechercher des métastases viscérales abdominales."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre objectifs sont explicitement indiqués comme raisons de réaliser systématiquement une TDM thoracique, abdominale et pelvienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les marqueurs tumoraux sériques des tumeurs testiculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Leur dosage doit être réalisé systématiquement avant et après orchidectomie.",
+        "La valeur postopératoire est utilisée pour les classifications pronostiques.",
+        "La décroissance des marqueurs doit être interprétée selon leur demi-vie.",
+        "La LDH est un marqueur non spécifique corrélé au renouvellement cellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le dosage pré- et postopératoire est systématique ; les valeurs postopératoires ont une utilité pronostique, et l’interprétation de la décroissance dépend de la demi-vie. La LDH est non spécifique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’alpha-fœtoprotéine et l’HCG totale dans les tumeurs germinales testiculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "L’alpha-fœtoprotéine est principalement produite par les tumeurs du sac vitellin.",
+        "L’alpha-fœtoprotéine peut être produite par le carcinome embryonnaire.",
+        "L’alpha-fœtoprotéine n’est pas totalement spécifique.",
+        "La demi-vie de l’HCG totale est de 24 à 36 heures."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’AFP est produite surtout par les tumeurs du sac vitellin et le carcinome embryonnaire, mais elle n’est pas totalement spécifique. L’HCG totale a une demi-vie de 24 à 36 heures."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les examens d’imagerie complémentaires, quelles propositions sont exactes ?",
+      "choices": [
+        "L’IRM scrotale n’apporte généralement pas d’élément déterminant au bilan local.",
+        "La TEP au 18FDG n’est pas recommandée dans le bilan d’extension initial d’une tumeur testiculaire.",
+        "L’IRM encéphalique peut être indiquée en cas de signes d’appel cliniques.",
+        "L’IRM hépatique peut être indiquée pour caractériser certaines formes métastatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte limite l’intérêt de l’IRM scrotale, déconseille la TEP au 18FDG en bilan initial, et réserve certaines IRM à des signes d’appel ou à la caractérisation métastatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le diagnostic histologique et le traitement local de référence d’une tumeur testiculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "L’orchidectomie totale élargie est le traitement local de référence.",
+        "L’orchidectomie totale élargie est le geste diagnostique de certitude.",
+        "Elle doit être réalisée par voie inguinale.",
+        "Elle comporte une ligature première du cordon spermatique à l’orifice inguinal interne."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte indique que l’orchidectomie totale élargie est à la fois le traitement local de référence et le geste diagnostique de certitude, réalisée par voie inguinale avec ligature première du cordon spermatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proportion des tumeurs germinales testiculaires est localisée au testicule au moment du diagnostic ?",
+      "choices": [
+        "10 à 20 % des cas.",
+        "30 à 40 % des cas.",
+        "60 à 70 % des cas.",
+        "90 à 95 % des cas."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La maladie est localisée au testicule dans 60 à 70 % des cas au diagnostic."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est décrit comme le plus sensible pour détecter les métastases pulmonaires et les adénopathies médiastinales ?",
+      "choices": [
+        "Radiographie thoracique.",
+        "TEP au 18FDG.",
+        "Scanner thoracique.",
+        "IRM scrotale."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le scanner thoracique est indiqué comme l’examen le plus sensible pour détecter les métastases pulmonaires et les adénopathies médiastinales."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle tumeur germinale sécrète systématiquement l’HCG totale selon le texte ?",
+      "choices": [
+        "Séminome pur.",
+        "Choriocarcinome.",
+        "Tératome.",
+        "Kyste épidermoïde."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’HCG totale est systématiquement sécrétée par le choriocarcinome."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la demi-vie de l’alpha-fœtoprotéine indiquée dans le texte ?",
+      "choices": [
+        "24 à 36 heures.",
+        "48 à 72 heures.",
+        "5 à 7 jours.",
+        "10 à 14 jours."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La demi-vie de l’alpha-fœtoprotéine est de 5 à 7 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Une tumeur mixte comportant un contingent séminomateux doit être classée comment ?",
+      "choices": [
+        "Comme un séminome pur si le contingent séminomateux est présent.",
+        "Comme un séminome pur si l’HCG est élevée.",
+        "Comme une tumeur mixte, sans pouvoir être classée comme séminome pur.",
+        "Comme une tumeur des cordons sexuels."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une tumeur germinale séminomateuse est une tumeur pure ; la présence d’un contingent séminomateux dans une tumeur mixte ne permet pas de la classer comme séminome pur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément ne doit pas être considéré comme un facteur de risque lorsqu’il est isolé ?",
+      "choices": [
+        "Cryptorchidie.",
+        "Atrophie testiculaire.",
+        "Microlithiases testiculaires isolées.",
+        "Antécédent personnel de tumeur germinale."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que les microlithiases testiculaires isolées ne doivent pas être considérées comme un facteur de risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Après orchidectomie pour tumeur testiculaire, quels éléments doivent être précisés par l’analyse histologique selon le texte ?",
+      "choices": [
+        "La taille tumorale",
+        "L’invasion du rete testis",
+        "Le taux sérique d’HCG au diagnostic",
+        "La présence d’une néoplasie germinale in situ"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’analyse histologique précise notamment la taille tumorale, les types histologiques, les invasions locales, la néoplasie germinale in situ et l’invasion lymphovasculaire. Le taux d’HCG est un marqueur sérique, non un élément histologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations peuvent justifier d’envisager une orchidectomie partielle selon le texte ?",
+      "choices": [
+        "Testicule unique",
+        "Tumeurs bilatérales synchrones",
+        "Suspicion forte de tumeur bénigne bien limitée",
+        "Tumeur germinale métastatique avec marqueurs élevés"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’orchidectomie partielle est réservée à des situations particulières : testicule unique, tumeurs bilatérales synchrones, ou suspicion forte de tumeur bénigne bien limitée, notamment à cellules de Leydig."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles conditions doivent être réunies pour envisager une orchidectomie partielle ?",
+      "choices": [
+        "Fonction endocrine normale",
+        "Testostéronémie normale",
+        "Volume tumoral inférieur à 30 % du volume testiculaire",
+        "Diamètre tumoral inférieur à 4 cm"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les conditions incluent une fonction endocrine normale, une testostéronémie normale, un volume tumoral inférieur à 30 % du volume testiculaire et un diamètre tumoral inférieur à 2 cm."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification pT de la tumeur primitive testiculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "pTis correspond à une néoplasie germinale intratubulaire",
+        "pT1 peut comporter une atteinte de l’albuginée sans atteinte de la vaginale",
+        "pT2 correspond toujours à une extension au cordon spermatique",
+        "pT4 correspond à une extension au scrotum"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "pTis correspond à la néoplasie germinale intratubulaire. pT1 est limité au testicule et à l’épididyme sans invasion lymphovasculaire, avec atteinte possible de l’albuginée mais sans atteinte de la vaginale. pT3 correspond à l’extension au cordon spermatique, tandis que pT4 correspond à l’extension au scrotum."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les catégories ganglionnaires régionales N, quelles propositions sont exactes ?",
+      "choices": [
+        "N0 signifie absence d’extension ganglionnaire régionale rétropéritonéale",
+        "N1 inclut une adénopathie de moins de 2 cm de grand axe",
+        "N2 inclut une adénopathie de 2 à 5 cm de grand axe",
+        "N3 correspond à une adénopathie de plus de 3 cm de grand axe"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "N0 signifie absence d’extension ganglionnaire régionale rétropéritonéale. N1 concerne les adénopathies de moins de 2 cm, N2 celles de 2 à 5 cm, et N3 celles de plus de 5 cm."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification des métastases à distance, quelles propositions sont exactes ?",
+      "choices": [
+        "M0 signifie absence de métastase à distance",
+        "M1 signifie présence de métastase à distance",
+        "M1a inclut les métastases pulmonaires",
+        "M1b correspond aux métastases pulmonaires isolées"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "M0 indique l’absence de métastase à distance et M1 leur présence. M1a inclut l’atteinte ganglionnaire non rétropéritonéale ou les métastases pulmonaires. M1b concerne les autres sites métastatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la catégorie S des marqueurs sériques au nadir après orchidectomie, quelles propositions sont exactes ?",
+      "choices": [
+        "S0 correspond à des marqueurs sériques normaux",
+        "S1 peut correspondre à une AFP inférieure à 1 000 ng/ml",
+        "S2 peut correspondre à une HCG entre 5 000 et 50 000 mUI/ml",
+        "S3 peut correspondre à une LDH supérieure à 10 fois la normale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "S0 correspond à des marqueurs normaux. S1 inclut LDH < 1,5 N, HCG < 5 000 mUI/ml et AFP < 1 000 ng/ml. S2 inclut LDH entre 1,5 et 10 N, HCG entre 5 000 et 50 000, ou AFP entre 1 000 et 10 000. S3 inclut LDH > 10 N, HCG > 50 000 ou AFP > 10 000."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations de stade tumoral sont exactes selon la classification fournie ?",
+      "choices": [
+        "Stade IA : pT1 N0 M0 S0",
+        "Stade IB : pT2-4 N0 M0 S0",
+        "Stade IS : pT1-4 N0 M0 S1-3",
+        "Stade IIC : pT1-4 N2 M0 S0-1"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le stade IA est pT1 N0 M0 S0, le stade IB pT2-4 N0 M0 S0, et le stade IS pT1-4 N0 M0 S1-3. Le stade IIC correspond à N3, non N2."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations concernant les stades II et III sont exactes ?",
+      "choices": [
+        "Stade IIA : pT1-4 N1 M0 S0-1",
+        "Stade IIB : pT1-4 N2 M0 S0-1",
+        "Stade IIIA : pT1-4 N0-3 M1a S0-1",
+        "Stade IIIC : pT1-4 N0-3 M1b S0-3"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces associations sont conformes au texte : IIA avec N1, IIB avec N2, IIIA avec M1a S0-1, et IIIC peut inclure M1b avec S0-3."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs germinales de stade I après orchidectomie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont définies par une maladie localisée",
+        "Le scanner thoraco-abdominal doit être normal",
+        "Les marqueurs tumoraux doivent être normalisés après orchidectomie",
+        "L’orchidectomie est curative dans environ 25 % des cas"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs germinales de stade I sont définies par une maladie localisée, un scanner thoraco-abdominal normal et une normalisation des marqueurs après orchidectomie. L’orchidectomie est curative dans environ 75 % des cas."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution des tumeurs germinales de stade I après orchidectomie, quelles propositions sont exactes ?",
+      "choices": [
+        "Une progression ganglionnaire rétropéritonéale survient dans environ 25 % des cas",
+        "La progression survient le plus souvent dans les 2 ans suivant l’orchidectomie",
+        "Une chimiothérapie de rattrapage peut être nécessaire en cas de progression",
+        "La progression habituelle initiale est scrotale dans la majorité des cas"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans environ 25 % des cas, une progression ganglionnaire rétropéritonéale survient, le plus souvent dans les 2 ans, nécessitant une chimiothérapie de rattrapage. Le texte ne décrit pas une progression scrotale majoritaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les séminomes de stade I, quelles propositions sont exactes ?",
+      "choices": [
+        "La taille tumorale supérieure à 4 cm est un facteur de risque de récidive",
+        "L’envahissement du rete testis est un facteur de risque de récidive",
+        "Le risque de récidive peut atteindre environ 28 % lorsque les deux facteurs sont présents",
+        "Les traitements adjuvants après orchidectomie augmentent le risque de récidive"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les séminomes de stade I, les facteurs de risque sont une taille tumorale > 4 cm et l’envahissement du rete testis. Leur association peut porter le risque de récidive à environ 28 %. Les traitements adjuvants réduisent ce risque à moins de 5 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les options thérapeutiques des séminomes de stade I, quelles propositions sont exactes ?",
+      "choices": [
+        "La surveillance clinique, biologique et scanographique est une option privilégiée, surtout sans facteur de risque",
+        "Une radiothérapie des aires ganglionnaires rétropéritonéales peut être discutée en cas de facteurs de risque",
+        "Une chimiothérapie par carboplatine peut être discutée en traitement adjuvant",
+        "La chimiothérapie adjuvante de référence citée est un cycle de bléomycine, étoposide et cisplatine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans le séminome de stade I, la surveillance est privilégiée surtout sans facteur de risque. En cas de facteurs de risque, une radiothérapie rétropéritonéale ou une chimiothérapie par carboplatine peut être discutée. Le BEP est cité pour les tumeurs non séminomateuses avec invasion lymphovasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les tumeurs germinales non séminomateuses de stade I, quelles propositions sont exactes ?",
+      "choices": [
+        "L’invasion lymphovasculaire est le principal facteur de risque de récidive",
+        "En cas d’invasion lymphovasculaire, le risque de récidive est d’environ 50 %",
+        "Une chimiothérapie adjuvante par bléomycine, étoposide et cisplatine peut être discutée",
+        "La chimiothérapie adjuvante réduit le risque de récidive à environ 30 %"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les tumeurs non séminomateuses de stade I, l’invasion lymphovasculaire est le principal facteur de récidive, avec un risque d’environ 50 %. Une chimiothérapie adjuvante, principalement par un cycle de BEP, peut être discutée et réduit le risque de récidive à environ 3 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification pT, à quoi correspond pT3 ?",
+      "choices": [
+        "Tumeur limitée au testicule sans invasion lymphovasculaire",
+        "Tumeur étendue au cordon spermatique, avec ou sans invasion lymphovasculaire",
+        "Tumeur étendue au scrotum",
+        "Néoplasie germinale intratubulaire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "pT3 correspond à une tumeur étendue au cordon spermatique, avec ou sans invasion lymphovasculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle catégorie S correspond à une AFP supérieure à 10 000 ng/ml au nadir après orchidectomie ?",
+      "choices": [
+        "S0",
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "S3 correspond notamment à une AFP > 10 000 ng/ml, ou une HCG > 50 000 mUI/ml, ou une LDH > 10 fois la normale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le traitement adjuvant principalement cité pour une tumeur germinale non séminomateuse de stade I avec invasion lymphovasculaire ?",
+      "choices": [
+        "Carboplatine seul",
+        "Radiothérapie des aires ganglionnaires rétropéritonéales",
+        "Un cycle de bléomycine, étoposide et cisplatine",
+        "Hormonothérapie anti-androgénique"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "En cas d’invasion lymphovasculaire dans une tumeur germinale non séminomateuse de stade I, une chimiothérapie adjuvante peut être discutée, principalement par un cycle de bléomycine, étoposide et cisplatine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen ou geste est contre-indiqué devant une tumeur germinale du testicule ?",
+      "choices": [
+        "L’immunohistochimie en cas de doute diagnostique",
+        "Le prélèvement de pulpe testiculaire saine à distance lors d’une orchidectomie partielle",
+        "La biopsie percutanée de la tumeur testiculaire",
+        "La mise en place d’une prothèse testiculaire dans le même temps chirurgical"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La biopsie percutanée d’une tumeur germinale du testicule est contre-indiquée. Les autres propositions sont admises dans des contextes précis."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel stade correspond à pT1-4 N0 M0 S1-3 ?",
+      "choices": [
+        "Stade IA",
+        "Stade IB",
+        "Stade IS",
+        "Stade IIA"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le stade IS correspond à pT1-4 N0 M0 S1-3."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel diagnostic différentiel est explicitement cité devant une masse testiculaire ou scrotale ?",
+      "choices": [
+        "Varicocèle pelvienne primitive",
+        "Orchi-épididymite",
+        "Cancer de la prostate",
+        "Hydronéphrose obstructive"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les diagnostics différentiels cités incluent notamment l’orchi-épididymite, l’abcès testiculaire, la torsion testiculaire, la tumeur épididymaire, le kyste intratesticulaire et d’autres masses scrotales non malignes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’arbitrage entre surveillance et traitement adjuvant, quels éléments sont explicitement cités comme devant être pris en compte ?",
+      "choices": [
+        "L’efficacité potentielle du traitement adjuvant",
+        "La toxicité d’un éventuel traitement de rattrapage",
+        "Les contraintes et les risques de mauvaise observance de la surveillance",
+        "La certitude préopératoire de la nature des masses résiduelles"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’efficacité potentielle du traitement adjuvant, la toxicité d’un éventuel traitement de rattrapage et les contraintes de surveillance. Il précise au contraire qu’aucun examen préopératoire ne permet de déterminer avec certitude la nature d’une masse résiduelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement des tumeurs germinales métastatiques après orchidectomie, quelles propositions sont exactes ?",
+      "choices": [
+        "Il repose sur la chimiothérapie",
+        "Le protocole standard associe bléomycine, étoposide et cisplatine",
+        "Le nombre de cycles est de 3 ou 4 selon le groupe pronostique",
+        "Le traitement standard repose sur une radiothérapie exclusive"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après orchidectomie, le traitement des tumeurs germinales métastatiques repose sur une chimiothérapie de type BEP, en 3 ou 4 cycles selon le groupe pronostique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels médicaments font partie du protocole standard de chimiothérapie cité pour les tumeurs germinales métastatiques ?",
+      "choices": [
+        "Bléomycine",
+        "Étoposide",
+        "Cisplatine",
+        "Carboplatine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le protocole standard mentionné est l’association bléomycine, étoposide et cisplatine. Le carboplatine n’est pas cité dans ce protocole."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du nombre de cycles de chimiothérapie dans les tumeurs germinales métastatiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Le protocole standard comporte 3 ou 4 cycles",
+        "Le choix du nombre de cycles dépend du groupe pronostique",
+        "Le nombre de cycles est identique pour tous les patients",
+        "Le nombre de cycles est fixé uniquement par la taille de la tumeur testiculaire initiale"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que la chimiothérapie est administrée en 3 ou 4 cycles selon le groupe pronostique."
+    },
+    {
+      "type": "QCM",
+      "question": "Après chimiothérapie d’une tumeur germinale métastatique, quels volets de réévaluation sont indiqués ?",
+      "choices": [
+        "Réévaluation clinique",
+        "Réévaluation biologique",
+        "Réévaluation radiologique",
+        "Absence de réévaluation si la chimiothérapie a été complète"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après chimiothérapie, une réévaluation clinique, biologique et radiologique est réalisée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les masses résiduelles après chimiothérapie, quelles propositions sont exactes ?",
+      "choices": [
+        "Une chirurgie de curage rétropéritonéal peut être indiquée",
+        "Elles correspondent souvent à de la fibrose",
+        "Aucun examen préopératoire ne permet d’en déterminer la nature avec certitude",
+        "Elles correspondent toujours à une tumeur viable"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique qu’en cas de masse résiduelle, un curage rétropéritonéal peut être indiqué. Les masses sont souvent fibreuses, mais leur nature ne peut pas être affirmée avec certitude avant l’intervention."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le curage des masses résiduelles dans les tumeurs germinales non séminomateuses, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est systématique pour toute masse résiduelle supérieure à 1 cm",
+        "Cette indication concerne les masses résiduelles après chimiothérapie",
+        "Il est discuté seulement pour les masses supérieures à 3 cm selon la TEP-TDM au 18FDG",
+        "Il n’est indiqué qu’en cas de certitude préopératoire de tumeur viable"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Dans les tumeurs germinales non séminomateuses, le curage est systématique pour toute masse résiduelle supérieure à 1 cm. Le seuil de 3 cm avec TEP-TDM concerne les séminomes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les masses résiduelles des séminomes après chimiothérapie, quelles propositions sont exactes ?",
+      "choices": [
+        "Le curage est discuté pour les masses supérieures à 3 cm",
+        "La discussion dépend de l’évaluation par TEP-TDM au 18FDG",
+        "Le curage est systématique pour toute masse supérieure à 1 cm",
+        "La TEP-TDM permet d’affirmer avec certitude la nature histologique de la masse"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Pour les séminomes, le curage des masses résiduelles est discuté au-delà de 3 cm selon l’évaluation par TEP-TDM au 18FDG. Le texte ne lui attribue pas une certitude histologique absolue."
+    },
+    {
+      "type": "QCM",
+      "question": "Quel est le rôle de la TEP-TDM au 18FDG dans la prise en charge des masses résiduelles selon le texte ?",
+      "choices": [
+        "Elle intervient dans la discussion des masses résiduelles de séminome supérieures à 3 cm",
+        "Elle participe à l’évaluation conditionnant l’indication de curage dans cette situation",
+        "Elle n’est pas présentée comme un examen permettant de déterminer avec certitude la nature de toute masse résiduelle",
+        "Elle remplace systématiquement le curage dans les tumeurs non séminomateuses"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La TEP-TDM au 18FDG est citée pour les masses résiduelles de séminome supérieures à 3 cm. Le texte précise par ailleurs qu’aucun examen préopératoire ne permet de déterminer avec certitude la nature d’une masse résiduelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les récidives après chimiothérapie et les résistances à la chimiothérapie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont de mauvais pronostic",
+        "Elles peuvent relever d’une chimiothérapie de rattrapage conventionnelle",
+        "Elles peuvent relever d’une intensification thérapeutique avec support de cellules souches",
+        "Elles imposent uniquement une surveillance simple"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les récidives après chimiothérapie et les résistances sont de mauvais pronostic et relèvent d’une chimiothérapie de rattrapage conventionnelle ou d’une intensification avec support de cellules souches."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la séquence thérapeutique d’une tumeur germinale métastatique, quelles étapes sont conformes au texte ?",
+      "choices": [
+        "Orchidectomie initiale",
+        "Chimiothérapie ensuite",
+        "Réévaluation clinique, biologique et radiologique après chimiothérapie",
+        "Curage rétropéritonéal possible en cas de masse résiduelle"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte décrit une prise en charge reposant, après orchidectomie, sur la chimiothérapie, suivie d’une réévaluation clinique, biologique et radiologique. En cas de masse résiduelle, un curage rétropéritonéal peut être indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les limites de l’évaluation préopératoire des masses résiduelles, quelles propositions sont exactes ?",
+      "choices": [
+        "La fibrose est une nature fréquente des masses résiduelles",
+        "La fréquence de la fibrose ne permet pas d’exclure formellement une autre nature",
+        "Aucun examen préopératoire ne permet d’en déterminer la nature avec certitude",
+        "La normalité de l’imagerie suffit à caractériser formellement la masse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Même si les masses résiduelles correspondent souvent à de la fibrose, le texte insiste sur l’impossibilité d’en déterminer la nature avec certitude par un examen préopératoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels inconvénients ou contraintes de la surveillance prolongée sont cités dans le texte ?",
+      "choices": [
+        "Le risque de mauvaise observance",
+        "L’impact psychologique",
+        "L’exposition répétée aux examens d’imagerie",
+        "La disparition du risque de recours à un traitement de rattrapage"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne les contraintes et risques de mauvaise observance, l’impact psychologique de la surveillance prolongée et l’exposition répétée à l’imagerie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre séminome et tumeur germinale non séminomateuse pour les masses résiduelles, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans les tumeurs non séminomateuses, le curage est systématique au-delà de 1 cm",
+        "Dans les séminomes, le curage est discuté au-delà de 3 cm",
+        "Dans les séminomes, la TEP-TDM au 18FDG intervient dans l’évaluation",
+        "Les seuils décisionnels ne sont pas identiques selon le type histologique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les indications diffèrent selon le type histologique : curage systématique au-delà de 1 cm dans les tumeurs non séminomateuses, discussion au-delà de 3 cm dans les séminomes avec TEP-TDM au 18FDG."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le protocole standard de chimiothérapie cité pour les tumeurs germinales métastatiques ?",
+      "choices": [
+        "Bléomycine, étoposide et cisplatine",
+        "Bléomycine, vinblastine et carboplatine",
+        "Étoposide, carboplatine et paclitaxel",
+        "Cisplatine, gemcitabine et ifosfamide"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le protocole standard cité est l’association bléomycine, étoposide et cisplatine."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, de quoi dépend le choix entre 3 et 4 cycles de chimiothérapie dans les tumeurs germinales métastatiques ?",
+      "choices": [
+        "Du groupe pronostique",
+        "Du seul taux initial d’alpha-fœtoprotéine",
+        "De la présence d’une douleur scrotale",
+        "Du résultat de l’échographie testiculaire uniquement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le protocole standard comporte 3 ou 4 cycles selon le groupe pronostique."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une tumeur germinale non séminomateuse, à partir de quelle taille de masse résiduelle le curage est-il systématique selon le texte ?",
+      "choices": [
+        "Supérieure à 1 cm",
+        "Supérieure à 2 cm",
+        "Supérieure à 3 cm",
+        "Supérieure à 5 cm"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le curage est systématique pour toute masse résiduelle supérieure à 1 cm dans les tumeurs germinales non séminomateuses."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans un séminome, pour quelle taille de masse résiduelle le curage est-il discuté selon l’évaluation par TEP-TDM au 18FDG ?",
+      "choices": [
+        "Supérieure à 1 cm",
+        "Supérieure à 2 cm",
+        "Supérieure à 3 cm",
+        "Supérieure à 10 cm"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans les séminomes, le curage est discuté pour les masses résiduelles supérieures à 3 cm, selon l’évaluation par TEP-TDM au 18FDG."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation résume correctement la valeur des examens préopératoires devant une masse résiduelle post-chimiothérapie ?",
+      "choices": [
+        "Ils permettent toujours de distinguer fibrose et tumeur viable",
+        "Aucun ne permet d’en déterminer la nature avec certitude",
+        "La TEP-TDM affirme toujours la fibrose",
+        "La biologie seule suffit à poser l’indication définitive"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’aucun examen préopératoire ne permet de déterminer avec certitude la nature d’une masse résiduelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle option thérapeutique est citée pour les récidives après chimiothérapie ou les résistances à la chimiothérapie ?",
+      "choices": [
+        "Antibiothérapie prolongée",
+        "Surveillance sans traitement",
+        "Intensification thérapeutique avec support de cellules souches",
+        "Orchidectomie controlatérale systématique"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les récidives après chimiothérapie et les résistances peuvent relever d’une intensification thérapeutique avec support de cellules souches, ou d’une chimiothérapie de rattrapage conventionnelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la néoplasie germinale in situ dans les tumeurs testiculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle constitue un état précancéreux.",
+        "Elle est à l’origine de la majorité des tumeurs germinales du testicule.",
+        "Toutes les tumeurs primitives du testicule en dérivent.",
+        "Le séminome fait partie des tumeurs germinales dérivant d’une néoplasie germinale in situ."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La néoplasie germinale in situ est un état précancéreux à l’origine de la majorité des tumeurs germinales. Toutes les tumeurs testiculaires n’en dérivent pas."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les entités suivantes, lesquelles sont classées comme tumeurs germinales ne dérivant pas d’une néoplasie germinale in situ ?",
+      "choices": [
+        "Tératome prépubertaire",
+        "Kyste épidermoïde",
+        "Choriocarcinome",
+        "Carcinome embryonnaire"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le tératome prépubertaire et le kyste épidermoïde sont explicitement classés parmi les tumeurs germinales ne dérivant pas d’une néoplasie germinale in situ."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sécrétions possibles des sous-types histologiques des tumeurs germinales, quelles propositions sont exactes ?",
+      "choices": [
+        "Le séminome avec cellules syncytiotrophoblastiques peut sécréter l’HCG.",
+        "Le choriocarcinome peut sécréter l’HCG.",
+        "Le carcinome embryonnaire peut sécréter l’AFP.",
+        "La tumeur à cellules de Leydig est décrite comme pouvant sécréter l’AFP."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la sécrétion possible d’HCG par le séminome avec cellules syncytiotrophoblastiques et le choriocarcinome, et d’AFP par le carcinome embryonnaire. Aucune sécrétion d’AFP par la tumeur de Leydig n’est mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les maladies syndromiques associées aux tumeurs germinales, quelles propositions sont exactes ?",
+      "choices": [
+        "La trisomie 21 est citée parmi les maladies syndromiques associées.",
+        "L’anomalie 47,XXY est citée parmi les maladies syndromiques associées.",
+        "Ces maladies sont associées en particulier aux tumeurs germinales extragonadiques médiastinales.",
+        "Les microlithiases testiculaires isolées sont classées parmi ces maladies syndromiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La trisomie 21 et l’anomalie 47,XXY sont citées, notamment en association avec les tumeurs germinales extragonadiques médiastinales. Les microlithiases isolées ne sont pas un facteur de risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments appartiennent au syndrome de dysgénésie testiculaire tel qu’il est décrit dans le texte ?",
+      "choices": [
+        "Infertilité",
+        "Atrophie testiculaire",
+        "Cryptorchidie ou hypospadias",
+        "Hydrocèle isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de dysgénésie testiculaire associe infertilité, atrophie testiculaire, cryptorchidie ou hypospadias. L’hydrocèle isolée n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification simplifiée des tumeurs primitives du testicule non strictement germinales, quelles propositions sont exactes ?",
+      "choices": [
+        "Les tumeurs à cellules de Leydig appartiennent aux tumeurs des cordons sexuels.",
+        "Les tumeurs à cellules de Sertoli appartiennent aux tumeurs des cordons sexuels.",
+        "Le gonadoblastome appartient aux tumeurs mixtes stromales et germinales.",
+        "L’hémangiome est cité comme une tumeur germinale non séminomateuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs de Leydig et de Sertoli sont des tumeurs des cordons sexuels. Le gonadoblastome est une tumeur mixte stromale et germinale. L’hémangiome est cité parmi les autres tumeurs rares."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la sémiologie locale d’une masse testiculaire suspecte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’examen doit être bilatéral et comparatif.",
+        "La masse peut être circonscrite, dure, pierreuse.",
+        "La masse est décrite comme plus sensible que douloureuse.",
+        "La disparition du sillon épididymo-testiculaire est en faveur d’une origine testiculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen testiculaire est bilatéral et comparatif. La masse suspecte est circonscrite, dure, pierreuse, plus sensible que douloureuse. La conservation du sillon épididymo-testiculaire est en faveur d’une origine testiculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’examen clinique d’une tumeur testiculaire suspectée, quels éléments participent à la recherche d’une extension ou de manifestations associées ?",
+      "choices": [
+        "Palpation abdominale profonde",
+        "Auscultation pulmonaire",
+        "Palpation des aires ganglionnaires sus-claviculaires",
+        "Recherche systématique d’adénopathies inguinales comme élément principal d’extension cité"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte recommande la palpation abdominale profonde, l’auscultation pulmonaire et la palpation des aires sus-claviculaires. Les adénopathies inguinales ne sont pas citées comme élément principal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’échographie scrotale dans une suspicion de tumeur testiculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle confirme la présence d’une lésion testiculaire.",
+        "Elle distingue les lésions intra- et extratesticulaires.",
+        "Elle explore le testicule controlatéral.",
+        "Elle remplace le diagnostic histologique de certitude."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échographie scrotale confirme la lésion, distingue les localisations intra- et extratesticulaires, et explore le testicule controlatéral. Le diagnostic de certitude reste histologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les aspects échographiques décrits des tumeurs germinales, quelles propositions sont exactes ?",
+      "choices": [
+        "Les séminomes sont souvent des masses lobulées hypoéchogènes.",
+        "Les séminomes peuvent être vascularisés au Doppler couleur.",
+        "Les tumeurs germinales non séminomateuses sont souvent plus hétérogènes.",
+        "L’absence de microlithes élimine un séminome."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les séminomes sont souvent lobulés, hypoéchogènes et vascularisés, parfois associés à des microlithes. L’absence de microlithes n’élimine pas le diagnostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tomodensitométrie thoracique, abdominale et pelvienne initiale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est recommandée systématiquement.",
+        "Elle évalue l’extension ganglionnaire rétropéritonéale.",
+        "Elle recherche des métastases viscérales abdominales.",
+        "Elle n’est indiquée qu’en cas d’élévation des marqueurs tumoraux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La TDM thoraco-abdomino-pelvienne est systématique pour rechercher l’extension ganglionnaire et viscérale. Elle ne dépend pas uniquement de l’élévation des marqueurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le dosage des marqueurs sériques dans les tumeurs testiculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Il doit être réalisé avant orchidectomie.",
+        "Il doit être réalisé après orchidectomie.",
+        "La valeur postopératoire est utilisée pour les classifications pronostiques.",
+        "La décroissance des marqueurs s’interprète indépendamment de leur demi-vie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les marqueurs sont dosés avant et après orchidectomie. La valeur postopératoire sert aux classifications pronostiques et leur décroissance doit être interprétée selon la demi-vie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’alpha-fœtoprotéine dans les tumeurs testiculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est principalement produite par les tumeurs du sac vitellin.",
+        "Elle peut être produite par le carcinome embryonnaire.",
+        "Sa demi-vie est de 5 à 7 jours.",
+        "Elle est totalement spécifique des tumeurs germinales testiculaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’AFP est surtout produite par la tumeur du sac vitellin et le carcinome embryonnaire, avec une demi-vie de 5 à 7 jours. Elle n’est pas totalement spécifique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’imagerie complémentaire hors échographie et scanner initial, quelles propositions sont exactes ?",
+      "choices": [
+        "L’IRM scrotale n’apporte généralement pas d’élément déterminant au bilan local.",
+        "La TEP au 18FDG n’est pas recommandée dans le bilan d’extension initial.",
+        "L’IRM encéphalique ou hépatique peut être indiquée en cas de signes d’appel cliniques.",
+        "L’IRM encéphalique est systématique pour toute tumeur testiculaire localisée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IRM scrotale est généralement peu déterminante, la TEP au 18FDG n’est pas recommandée initialement, et l’IRM encéphalique ou hépatique dépend de signes d’appel ou de certaines formes métastatiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel marqueur tumoral est décrit comme non spécifique et corrélé au renouvellement cellulaire ?",
+      "choices": [
+        "Alpha-fœtoprotéine",
+        "HCG totale",
+        "LDH",
+        "Sous-unité β de l’HCG seule"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La LDH est un marqueur non spécifique corrélé au renouvellement cellulaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la demi-vie de l’HCG totale indiquée dans le texte ?",
+      "choices": [
+        "6 à 12 heures",
+        "24 à 36 heures",
+        "5 à 7 jours",
+        "10 à 14 jours"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La demi-vie de l’HCG totale est de 24 à 36 heures."
+    },
+    {
+      "type": "QCS",
+      "question": "La conservation du sillon épididymo-testiculaire lors de l’examen clinique est en faveur de quelle origine ?",
+      "choices": [
+        "Origine épididymaire",
+        "Origine testiculaire",
+        "Origine funiculaire",
+        "Origine scrotale cutanée"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La conservation du sillon épididymo-testiculaire est en faveur d’une origine testiculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle entité est classée parmi les tumeurs mixtes stromales et germinales ?",
+      "choices": [
+        "Gonadoblastome",
+        "Lymphome à cellules B",
+        "Tumeur à cellules de Sertoli",
+        "Kyste épidermoïde"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le gonadoblastome est classé parmi les tumeurs mixtes stromales et germinales."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle entité est citée parmi les autres tumeurs rares primitives du testicule ?",
+      "choices": [
+        "Hémangiome",
+        "Carcinome urothélial",
+        "Adénocarcinome prostatique",
+        "Mélanome cutané primitif"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite notamment l’hémangiome parmi les autres tumeurs rares primitives du testicule."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour les classifications pronostiques fondées sur l’HCG, quel dosage ne doit pas être utilisé seul ?",
+      "choices": [
+        "HCG totale",
+        "Sous-unité β seule de l’HCG",
+        "AFP postopératoire",
+        "LDH sérique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La sous-unité β seule ne doit pas être utilisée pour les classifications pronostiques fondées sur l’HCG totale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les éléments péri-opératoires et anatomopathologiques autour de l’orchidectomie, quelles propositions sont exactes ?",
+      "choices": [
+        "Le geste chirurgical doit respecter le drainage lymphatique.",
+        "Une prothèse testiculaire peut être mise en place dans le même temps opératoire.",
+        "L’immunohistochimie peut être utile en cas de doute diagnostique.",
+        "La biopsie percutanée d’une tumeur germinale testiculaire est recommandée avant orchidectomie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique le respect du drainage lymphatique, la possibilité de mise en place d’une prothèse dans le même temps, et l’intérêt possible de l’immunohistochimie en cas de doute. La biopsie percutanée est contre-indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fertilité chez un patient atteint de cancer du testicule, quelles propositions sont exactes ?",
+      "choices": [
+        "Une information sur la conservation des gamètes doit être donnée avant tout traitement.",
+        "L’infertilité est plus fréquente chez les patients atteints d’un cancer du testicule.",
+        "La conservation des gamètes n’est discutée qu’après chimiothérapie.",
+        "Le texte ne mentionne aucun lien entre cancer du testicule et infertilité."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise qu’une information sur la conservation des gamètes doit être délivrée avant tout traitement et que l’infertilité est plus fréquente chez ces patients."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les diagnostics différentiels cités devant une masse testiculaire ou scrotale, lesquels sont exacts ?",
+      "choices": [
+        "Orchi-épididymite.",
+        "Abcès testiculaire.",
+        "Torsion testiculaire.",
+        "Kyste intratesticulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre entités sont explicitement citées dans le texte parmi les diagnostics différentiels."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les catégories pT1 et pT2 de la classification TNM testiculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "pT1 correspond à une tumeur limitée au testicule et à l’épididyme sans invasion lymphovasculaire.",
+        "En pT1, une atteinte de l’albuginée est possible en l’absence d’atteinte de la vaginale.",
+        "pT2 peut correspondre à une tumeur limitée au testicule et à l’épididyme avec invasion lymphovasculaire.",
+        "pT2 correspond nécessairement à une extension au scrotum."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "pT1 autorise une atteinte de l’albuginée sans atteinte de la vaginale et sans invasion lymphovasculaire. pT2 inclut l’invasion lymphovasculaire ou l’atteinte de la vaginale. L’extension au scrotum correspond à pT4."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les catégories ganglionnaires régionales N, quelles propositions sont exactes ?",
+      "choices": [
+        "N0 correspond à l’absence d’extension ganglionnaire régionale rétropéritonéale.",
+        "N1 peut correspondre à une adénopathie de moins de 2 cm de grand axe.",
+        "N2 peut correspondre à une adénopathie de 2 à 5 cm de grand axe.",
+        "N3 correspond à une adénopathie de plus de 5 cm de grand axe."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les quatre propositions reprennent les définitions des catégories N0, N1, N2 et N3 données dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la catégorie S des marqueurs sériques au nadir après orchidectomie, quelles propositions sont exactes ?",
+      "choices": [
+        "Sx signifie que les marqueurs ne sont pas disponibles ou non réalisés.",
+        "S0 correspond à des marqueurs sériques normaux.",
+        "S2 peut être défini par une AFP entre 1 000 et 10 000 ng/ml.",
+        "S3 peut être défini par une HCG supérieure à 50 000 mUI/ml."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces définitions sont conformes au texte : Sx, S0, S2 et S3 sont définis selon la disponibilité et les seuils des marqueurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’utilisation de Sx et S0 dans les stades tumoraux, quelles propositions sont exactes ?",
+      "choices": [
+        "Le stade 0 peut être défini par pTis N0 M0 S0.",
+        "Le stade 0 peut être défini par pTis N0 M0 Sx.",
+        "Le stade I peut être défini par pT1-4 N0 M0 Sx.",
+        "Le stade IA correspond à pT1 N0 M0 S0."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que le stade 0 est pTis N0 M0 S0 ou Sx, que le stade I inclut pT1-4 N0 M0 Sx, et que le stade IA est pT1 N0 M0 S0."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les stades IIIB et IIIC, quelles propositions sont exactes ?",
+      "choices": [
+        "Un stade IIIB peut correspondre à pT1-4 N1-3 M0 S2.",
+        "Un stade IIIB peut correspondre à pT1-4 N0-3 M1a S2.",
+        "Un stade IIIC peut correspondre à pT1-4 N1-3 M0 S3.",
+        "Un stade IIIC peut correspondre à pT1-4 N0-3 M1b S0-3."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre combinaisons sont explicitement décrites dans la classification des stades IIIB et IIIC."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les métastases à distance dans la classification TNM, quelles propositions sont exactes ?",
+      "choices": [
+        "M0 correspond à l’absence de métastase à distance.",
+        "M1 correspond à la présence d’une métastase à distance.",
+        "M1a inclut les métastases pulmonaires.",
+        "M1b correspond aux autres sites métastatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La classification distingue M0, M1, M1a pour atteinte ganglionnaire non rétropéritonéale ou métastases pulmonaires, et M1b pour les autres sites métastatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution globale des tumeurs germinales de stade I après orchidectomie, quelles propositions sont exactes ?",
+      "choices": [
+        "L’orchidectomie est curative dans environ 75 % des stades I.",
+        "Une progression ganglionnaire rétropéritonéale survient dans environ 25 % des cas.",
+        "La progression ganglionnaire rétropéritonéale survient le plus souvent dans les 2 ans suivant l’orchidectomie.",
+        "Une chimiothérapie de rattrapage peut être nécessaire en cas de progression."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte donne ces quatre éléments : guérison par orchidectomie dans environ 75 %, progression dans environ 25 %, souvent dans les 2 ans, nécessitant une chimiothérapie de rattrapage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les séminomes de stade I, quelles propositions sont exactes ?",
+      "choices": [
+        "Une taille tumorale supérieure à 4 cm est un facteur de risque de récidive.",
+        "L’envahissement du rete testis est un facteur de risque de récidive.",
+        "Lorsque les deux facteurs de risque sont présents, le risque de récidive peut atteindre environ 28 %.",
+        "Les traitements adjuvants après orchidectomie réduisent le risque de récidive à moins de 5 %."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite la taille tumorale > 4 cm et l’envahissement du rete testis comme facteurs de risque, avec un risque pouvant atteindre 28 % si les deux sont présents, et une réduction à moins de 5 % après traitement adjuvant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les tumeurs germinales non séminomateuses de stade I, quelles propositions sont exactes ?",
+      "choices": [
+        "L’invasion lymphovasculaire est le principal facteur de risque de récidive.",
+        "En cas d’invasion lymphovasculaire, le risque de récidive est d’environ 50 %.",
+        "Une chimiothérapie adjuvante peut être discutée en cas d’invasion lymphovasculaire.",
+        "La chimiothérapie adjuvante citée repose principalement sur un cycle de bléomycine, étoposide et cisplatine."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Dans les tumeurs germinales non séminomateuses de stade I, l’invasion lymphovasculaire est le principal facteur de risque ; elle expose à environ 50 % de récidive et peut faire discuter un cycle de BEP."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le curage rétropéritonéal de stadification dans les tumeurs germinales non séminomateuses de stade I, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être discuté.",
+        "Il est décrit comme un curage rétropéritonéal unilatéral de stadification.",
+        "Il se justifie notamment par le site habituel de récidive.",
+        "Il peut se discuter en raison de la possible présence de tératome ganglionnaire chimiorésistant."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne qu’un curage rétropéritonéal unilatéral de stadification peut être discuté, notamment du fait du site habituel de récidive et de la possible présence de tératome ganglionnaire chimiorésistant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition des tumeurs germinales de stade I avant décision de surveillance ou traitement adjuvant, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles correspondent à une maladie localisée.",
+        "Le scanner thoraco-abdominal est normal.",
+        "Les marqueurs tumoraux sont normalisés après orchidectomie.",
+        "Elles sont définies par la présence obligatoire d’adénopathies rétropéritonéales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le stade I est défini dans le texte par une maladie localisée, un scanner thoraco-abdominal normal et une normalisation des marqueurs après orchidectomie. Les adénopathies rétropéritonéales ne font pas partie du stade I."
+    },
+    {
+      "type": "QCS",
+      "question": "À quel moment une prothèse testiculaire peut-elle être mise en place selon le texte ?",
+      "choices": [
+        "Uniquement après confirmation d’une récidive.",
+        "Dans le même temps chirurgical.",
+        "Seulement après chimiothérapie.",
+        "Jamais lors de l’orchidectomie."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’une prothèse testiculaire peut être mise en place dans le même temps chirurgical."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation l’immunohistochimie est-elle indiquée comme pouvant être utile ?",
+      "choices": [
+        "En cas de doute diagnostique.",
+        "Systématiquement avant toute échographie.",
+        "Pour remplacer l’analyse histologique définitive.",
+        "Uniquement en cas de marqueurs tumoraux normaux."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte mentionne que l’immunohistochimie peut être utile en cas de doute diagnostique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle combinaison correspond au stade IA selon la classification fournie ?",
+      "choices": [
+        "pT1 N0 M0 S0.",
+        "pT2-4 N0 M0 S0.",
+        "pT1-4 N0 M0 S1-3.",
+        "pTis N0 M0 Sx."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le stade IA correspond précisément à pT1 N0 M0 S0."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification TNM, à quoi correspond pTis ?",
+      "choices": [
+        "Tumeur primitive non évaluable.",
+        "Absence de tumeur primitive.",
+        "Néoplasie germinale intratubulaire.",
+        "Tumeur étendue au scrotum."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "pTis correspond à une néoplasie germinale intratubulaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle catégorie ganglionnaire correspond à une adénopathie régionale de plus de 5 cm de grand axe ?",
+      "choices": [
+        "N0.",
+        "N1.",
+        "N2.",
+        "N3."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "N3 correspond à une adénopathie de plus de 5 cm de grand axe."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les tumeurs germinales non séminomateuses de stade I avec chimiothérapie adjuvante, à quel niveau le risque de récidive est-il réduit selon le texte ?",
+      "choices": [
+        "Environ 3 %.",
+        "Environ 10 %.",
+        "Environ 28 %.",
+        "Environ 50 %."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la chimiothérapie adjuvante dans cette situation réduit le risque de récidive à environ 3 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’une surveillance prolongée est envisagée, quels éléments relèvent directement des contraintes propres à cette surveillance selon le texte ?",
+      "choices": [
+        "Les risques de mauvaise observance de la surveillance",
+        "L’impact psychologique de la surveillance prolongée",
+        "L’exposition répétée aux examens d’imagerie",
+        "La certitude préopératoire sur la nature d’une masse résiduelle"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les contraintes et risques de mauvaise observance, l’impact psychologique et l’exposition répétée aux examens d’imagerie. Il précise au contraire qu’aucun examen préopératoire ne détermine avec certitude la nature d’une masse résiduelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge d’une tumeur germinale métastatique, quels éléments s’inscrivent après l’orchidectomie selon le texte ?",
+      "choices": [
+        "Une chimiothérapie",
+        "Une réévaluation clinique, biologique et radiologique après chimiothérapie",
+        "Un curage rétropéritonéal possible en cas de masse résiduelle",
+        "Une abstention systématique de traitement complémentaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après orchidectomie, le traitement repose sur la chimiothérapie, suivie d’une réévaluation clinique, biologique et radiologique. En cas de masse résiduelle, un curage rétropéritonéal peut être indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le protocole standard de chimiothérapie mentionné dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il associe bléomycine, étoposide et cisplatine",
+        "Il est administré en 3 ou 4 cycles",
+        "Le nombre de cycles dépend du groupe pronostique",
+        "Il remplace l’orchidectomie dans les formes métastatiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le protocole standard associe bléomycine, étoposide et cisplatine, en 3 ou 4 cycles selon le groupe pronostique. Le texte le situe après orchidectomie."
+    },
+    {
+      "type": "QCM",
+      "question": "Après chimiothérapie d’une tumeur germinale métastatique, quels volets de la réévaluation sont explicitement indiqués ?",
+      "choices": [
+        "Clinique",
+        "Biologique",
+        "Radiologique",
+        "Génétique constitutionnel systématique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réévaluation après chimiothérapie est décrite comme clinique, biologique et radiologique. Le texte ne mentionne pas d’évaluation génétique constitutionnelle systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une masse résiduelle après chimiothérapie, quelles propositions traduisent correctement la prudence diagnostique imposée par le texte ?",
+      "choices": [
+        "La masse résiduelle correspond souvent à de la fibrose",
+        "La nature de la masse ne peut pas être déterminée avec certitude par un examen préopératoire",
+        "Une chirurgie de curage rétropéritonéal peut être indiquée",
+        "La fibrose peut être affirmée avec certitude avant l’intervention"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les masses résiduelles correspondent souvent à de la fibrose, mais aucun examen préopératoire ne permet d’en déterminer la nature avec certitude. Un curage rétropéritonéal peut donc être indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour une tumeur germinale non séminomateuse avec masse résiduelle post-chimiothérapie, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le curage est systématique si la masse résiduelle est supérieure à 1 cm",
+        "L’indication concerne les masses résiduelles après chimiothérapie",
+        "Le geste mentionné est un curage rétropéritonéal",
+        "Le seuil décisionnel indiqué est supérieur à 3 cm"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les tumeurs germinales non séminomateuses, le curage des masses résiduelles est systématique au-delà de 1 cm. Le seuil de 3 cm concerne les séminomes."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour les masses résiduelles des séminomes après chimiothérapie, quelles affirmations respectent le texte ?",
+      "choices": [
+        "Le curage est discuté pour les masses supérieures à 3 cm",
+        "La décision tient compte de l’évaluation par TEP-TDM au 18FDG",
+        "L’indication est présentée comme discutée et non comme systématique",
+        "Le curage est systématique dès que la masse dépasse 1 cm"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les séminomes, le curage est discuté pour les masses supérieures à 3 cm selon l’évaluation par TEP-TDM au 18FDG. Le seuil de 1 cm systématique concerne les tumeurs non séminomateuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les récidives après chimiothérapie et les résistances à la chimiothérapie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont de mauvais pronostic",
+        "Elles peuvent relever d’une chimiothérapie de rattrapage conventionnelle",
+        "Elles peuvent relever d’une intensification thérapeutique avec support de cellules souches",
+        "Elles sont décrites comme ne nécessitant jamais de traitement de rattrapage"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que les récidives et résistances sont de mauvais pronostic et relèvent d’une chimiothérapie de rattrapage conventionnelle ou d’une intensification thérapeutique avec support de cellules souches."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la chronologie thérapeutique décrite pour une tumeur germinale métastatique, quelles propositions sont correctes ?",
+      "choices": [
+        "L’orchidectomie précède la chimiothérapie dans la stratégie décrite",
+        "La réévaluation intervient après la chimiothérapie",
+        "La discussion d’un curage dépend de l’existence d’une masse résiduelle",
+        "Le curage rétropéritonéal est décrit comme préalable obligatoire à toute chimiothérapie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une prise en charge après orchidectomie par chimiothérapie, puis réévaluation. En cas de masse résiduelle, un curage rétropéritonéal peut être indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles affirmations correspondent à des formulations excessives ou contraires au texte concernant les masses résiduelles ?",
+      "choices": [
+        "Toute masse résiduelle est nécessairement une fibrose",
+        "Un examen préopératoire permet toujours d’affirmer la nature de la masse",
+        "Dans le séminome, toute masse résiduelle supérieure à 3 cm impose systématiquement un curage",
+        "Dans les tumeurs non séminomateuses, une masse résiduelle supérieure à 1 cm justifie un curage systématique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que les masses sont souvent fibreuses, sans certitude préopératoire possible. Dans le séminome, le curage est discuté au-delà de 3 cm, tandis qu’il est systématique au-delà de 1 cm dans les formes non séminomateuses."
+    },
+    {
+      "type": "QCM",
+      "question": "En comparant les indications de curage selon le type histologique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le seuil retenu est plus bas dans les tumeurs germinales non séminomateuses que dans les séminomes",
+        "Le caractère systématique est mentionné pour les tumeurs germinales non séminomateuses au-delà du seuil indiqué",
+        "Dans les séminomes, l’évaluation par TEP-TDM au 18FDG intervient dans la discussion",
+        "Les mêmes seuils de taille sont appliqués aux séminomes et aux tumeurs non séminomateuses"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue clairement les tumeurs non séminomateuses, avec curage systématique au-delà de 1 cm, et les séminomes, avec discussion au-delà de 3 cm selon la TEP-TDM au 18FDG."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments cités dans le texte, lesquels concernent la toxicité liée aux traitements dans l’arbitrage thérapeutique ?",
+      "choices": [
+        "La toxicité potentielle du traitement adjuvant",
+        "La toxicité d’un éventuel traitement de rattrapage",
+        "Les contraintes de mauvaise observance de la surveillance",
+        "L’impact psychologique de la surveillance prolongée"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les deux éléments directement liés à la toxicité des traitements sont la toxicité du traitement adjuvant et celle d’un éventuel traitement de rattrapage. Les autres relèvent des contraintes de surveillance."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments du texte justifient qu’une masse résiduelle post-chimiothérapie ne soit pas considérée comme automatiquement bénigne ?",
+      "choices": [
+        "Aucun examen préopératoire ne permet d’en déterminer la nature avec certitude",
+        "Une chirurgie de curage peut être indiquée",
+        "La conduite dépend notamment du type de tumeur et de la taille de la masse",
+        "Le texte affirme que toute masse résiduelle est une fibrose certaine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Même si les masses résiduelles correspondent souvent à de la fibrose, leur nature ne peut être affirmée avec certitude avant l’intervention. Le curage peut être indiqué selon le type histologique et la taille."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions décrivent correctement les options de rattrapage mentionnées en cas de récidive ou de résistance après chimiothérapie ?",
+      "choices": [
+        "Chimiothérapie de rattrapage conventionnelle",
+        "Intensification thérapeutique",
+        "Support de cellules souches dans le cadre de l’intensification",
+        "Simple surveillance prolongée comme seule option citée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la chimiothérapie de rattrapage conventionnelle et l’intensification thérapeutique avec support de cellules souches. La simple surveillance n’est pas présentée comme option de rattrapage."
+    },
+    {
+      "type": "QCS",
+      "question": "Après orchidectomie pour tumeur germinale métastatique, sur quel traitement repose principalement la prise en charge selon le texte ?",
+      "choices": [
+        "La chimiothérapie",
+        "La surveillance seule",
+        "Le curage rétropéritonéal systématique immédiat",
+        "La TEP-TDM au 18FDG comme traitement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que le traitement des tumeurs germinales métastatiques repose, après orchidectomie, sur la chimiothérapie."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le protocole standard cité, quel élément détermine le choix entre 3 et 4 cycles ?",
+      "choices": [
+        "Le groupe pronostique",
+        "La seule taille du testicule initial",
+        "La présence d’une prothèse testiculaire",
+        "La durée de la surveillance psychologique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le nombre de cycles, 3 ou 4, dépend du groupe pronostique."
+    },
+    {
+      "type": "QCS",
+      "question": "Une masse résiduelle post-chimiothérapie de tumeur germinale non séminomateuse devient une indication systématique de curage à partir de quel seuil selon le texte ?",
+      "choices": [
+        "Supérieure à 1 cm",
+        "Supérieure à 3 cm",
+        "Supérieure à 5 cm",
+        "Quelle que soit sa taille"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans les tumeurs germinales non séminomateuses, le curage est systématique pour toute masse résiduelle supérieure à 1 cm."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans un séminome, à partir de quelle taille une masse résiduelle post-chimiothérapie fait discuter un curage selon l’évaluation par TEP-TDM au 18FDG ?",
+      "choices": [
+        "Supérieure à 1 cm",
+        "Supérieure à 2 cm",
+        "Supérieure à 3 cm",
+        "Supérieure à 10 cm"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans les séminomes, le curage est discuté pour les masses résiduelles supérieures à 3 cm, selon l’évaluation par TEP-TDM au 18FDG."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la valeur diagnostique attribuée aux examens préopératoires pour déterminer la nature d’une masse résiduelle ?",
+      "choices": [
+        "Ils permettent toujours de confirmer une fibrose",
+        "Ils permettent toujours d’exclure une lésion active",
+        "Aucun ne permet d’en déterminer la nature avec certitude",
+        "La TEP-TDM remplace toujours l’analyse décisionnelle"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise qu’aucun examen préopératoire ne permet de déterminer avec certitude la nature d’une masse résiduelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Comment le texte qualifie-t-il le pronostic des récidives après chimiothérapie et des résistances à la chimiothérapie ?",
+      "choices": [
+        "Bon pronostic",
+        "Mauvais pronostic",
+        "Pronostic toujours identique à celui des formes localisées",
+        "Pronostic non influencé par la résistance"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les récidives après chimiothérapie et les résistances à la chimiothérapie sont décrites comme étant de mauvais pronostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une masse scrotale suspecte, quels éléments cliniques sont compatibles avec une origine testiculaire tumorale selon le texte ?",
+      "choices": [
+        "Une masse circonscrite, dure, pierreuse, plus sensible que douloureuse",
+        "La conservation du sillon épididymo-testiculaire",
+        "La nécessité d’un examen testiculaire bilatéral et comparatif",
+        "Une lésion uniquement extratesticulaire affirmée à l’examen clinique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une masse testiculaire dure, pierreuse, plus sensible que douloureuse, avec conservation du sillon épididymo-testiculaire, et impose un examen bilatéral comparatif. Une lésion extratesticulaire n’est pas un argument d’origine testiculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les circonstances de découverte suivantes, lesquelles peuvent traduire une forme déjà étendue de tumeur germinale testiculaire ?",
+      "choices": [
+        "Douleur ou masse abdominale liée à une adénomégalie",
+        "Détresse respiratoire liée à des métastases pulmonaires",
+        "Adénopathie sus-claviculaire gauche palpable",
+        "Microcalcifications testiculaires isolées découvertes fortuitement"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La douleur ou masse abdominale, la détresse respiratoire par métastases pulmonaires et l’adénopathie sus-claviculaire gauche sont citées comme circonstances de découverte. Les microcalcifications isolées ne sont pas présentées comme circonstance clinique de forme étendue."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations histologie–sécrétion tumorale sont conformes au texte ?",
+      "choices": [
+        "Séminome avec cellules syncytiotrophoblastiques : possible sécrétion d’HCG",
+        "Choriocarcinome : sécrétion systématique d’HCG totale",
+        "Tumeur du sac vitellin : possible sécrétion d’AFP",
+        "Tératome prépubertaire : tumeur dérivant d’une néoplasie germinale in situ"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le séminome avec cellules syncytiotrophoblastiques peut sécréter l’HCG, le choriocarcinome sécrète systématiquement l’HCG totale, et la tumeur du sac vitellin peut sécréter l’AFP. Le tératome prépubertaire est classé parmi les tumeurs ne dérivant pas d’une néoplasie germinale in situ."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions correspondent à des erreurs ou formulations contraires au texte ?",
+      "choices": [
+        "Les microlithiases testiculaires isolées constituent à elles seules un facteur de risque de tumeur germinale",
+        "La sous-unité β de l’HCG peut remplacer seule l’HCG totale pour les classifications pronostiques",
+        "La TEP au 18FDG est recommandée dans le bilan d’extension initial d’une tumeur testiculaire",
+        "L’IRM scrotale apporte généralement un élément déterminant au bilan local"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions sont contraires au texte : les microlithiases isolées ne sont pas un facteur de risque, la β-HCG seule ne doit pas être utilisée pour les classifications pronostiques, la TEP au 18FDG n’est pas recommandée initialement, et l’IRM scrotale n’apporte généralement pas d’élément déterminant."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments appartiennent au bilan paraclinique systématique initial décrit devant une tumeur testiculaire suspecte ?",
+      "choices": [
+        "Échographie scrotale",
+        "Tomodensitométrie thoracique, abdominale et pelvienne",
+        "Dosage des marqueurs sériques avant et après orchidectomie",
+        "TEP au 18FDG dès le bilan d’extension initial"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échographie scrotale, le scanner thoraco-abdomino-pelvien et les marqueurs avant/après orchidectomie sont systématiques. La TEP au 18FDG n’est pas recommandée dans le bilan d’extension initial."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les objectifs de l’échographie scrotale, quelles propositions sont exactes ?",
+      "choices": [
+        "Confirmer la présence d’une lésion testiculaire",
+        "Distinguer une lésion intra- d’une lésion extratesticulaire",
+        "Explorer le testicule controlatéral",
+        "Rechercher des adénopathies médiastinales"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échographie scrotale confirme la lésion, distingue intra/extratesticulaire, explore le testicule controlatéral et recherche des microcalcifications. Les adénopathies médiastinales relèvent du scanner thoracique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels aspects échographiques sont correctement rapportés dans le texte ?",
+      "choices": [
+        "Les séminomes sont souvent des masses lobulées hypoéchogènes",
+        "Les séminomes peuvent être vascularisés au Doppler couleur",
+        "Les tumeurs germinales non séminomateuses sont souvent plus hétérogènes",
+        "Les séminomes sont toujours dépourvus de microlithes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les séminomes sont souvent lobulés, hypoéchogènes, vascularisés, parfois associés à des microlithes. Les tumeurs non séminomateuses sont souvent plus hétérogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’interprétation des marqueurs tumoraux sériques, quelles propositions sont exactes ?",
+      "choices": [
+        "L’AFP n’est pas totalement spécifique et peut s’élever dans certaines hépatopathies non tumorales",
+        "La LDH est un marqueur non spécifique corrélé au renouvellement cellulaire",
+        "La décroissance des marqueurs doit être interprétée selon leur demi-vie",
+        "La valeur postopératoire des marqueurs n’a pas d’intérêt pronostique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’AFP peut être élevée hors tumeur germinale, la LDH est non spécifique, et la cinétique des marqueurs dépend de leur demi-vie. La valeur postopératoire est utilisée pour les classifications pronostiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions décrivent correctement la dissémination des tumeurs germinales testiculaires ?",
+      "choices": [
+        "Le tropisme métastatique est principalement lymphatique",
+        "Les relais lymphatiques cités incluent les ganglions rétropéritonéaux, médiastinaux et sus-claviculaires gauches",
+        "La dissémination hématogène peut atteindre les poumons et le foie",
+        "Le cerveau et les os sont les sites hématogènes les plus fréquents"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La dissémination est surtout lymphatique vers les ganglions rétropéritonéaux, médiastinaux et sus-claviculaires gauches. La voie hématogène concerne notamment poumons et foie ; cerveau et os sont plus rares."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels antécédents ou états sont cités comme facteurs de risque de tumeur germinale testiculaire ?",
+      "choices": [
+        "Antécédent personnel de tumeur germinale",
+        "Antécédent familial au premier degré de tumeur germinale",
+        "Cryptorchidie ou ectopie testiculaire",
+        "Atrophie testiculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Tous ces éléments sont explicitement listés comme facteurs de risque de tumeur germinale testiculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des maladies syndromiques associées aux tumeurs germinales, quelles propositions sont exactes ?",
+      "choices": [
+        "La trisomie 21 est citée parmi les maladies syndromiques associées",
+        "L’anomalie 47,XXY est citée parmi les maladies syndromiques associées",
+        "Ces maladies sont associées en particulier aux tumeurs germinales extragonadiques médiastinales",
+        "Les microlithiases isolées sont classées dans ces maladies syndromiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite notamment la trisomie 21 et l’anomalie 47,XXY, associées en particulier aux tumeurs germinales extragonadiques médiastinales. Les microlithiases isolées n’en font pas partie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre type tumoral testiculaire et catégorie de classification simplifiée sont exactes ?",
+      "choices": [
+        "Tumeur à cellules de Leydig : tumeur des cordons sexuels",
+        "Tumeur à cellules de Sertoli : tumeur des cordons sexuels",
+        "Lymphome à cellules B : tumeur hématolymphoïde",
+        "Hémangiome : tumeur des tubes collecteurs et du rete testis"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs de Leydig et de Sertoli sont des tumeurs des cordons sexuels ; le lymphome B est une tumeur hématolymphoïde. L’hémangiome est cité parmi les autres tumeurs rares."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la composition histologique des tumeurs germinales, quelles propositions sont exactes ?",
+      "choices": [
+        "Une tumeur germinale non séminomateuse peut être constituée d’un seul sous-type histologique",
+        "Une tumeur germinale non séminomateuse peut associer plusieurs contingents histologiques",
+        "Une tumeur germinale séminomateuse est une tumeur pure",
+        "La présence d’un contingent séminomateux dans une tumeur mixte suffit à la classer comme séminome pur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs non séminomateuses peuvent être pures ou mixtes. Le séminome est pur ; une tumeur mixte contenant du séminome ne doit pas être classée comme séminome pur."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont explicitement intégrés à l’examen clinique général ou d’extension d’une tumeur testiculaire suspectée ?",
+      "choices": [
+        "Palpation abdominale profonde",
+        "Auscultation pulmonaire",
+        "Palpation des aires ganglionnaires sus-claviculaires",
+        "Recherche systématique d’une hépatosplénomégalie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne la palpation abdominale profonde, l’auscultation pulmonaire et la palpation des aires sus-claviculaires. La recherche d’une hépatosplénomégalie n’est pas citée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proportion approximative des tumeurs malignes du testicule est représentée par les tumeurs germinales ?",
+      "choices": [
+        "Environ 25 %",
+        "Environ 50 %",
+        "Environ 75 %",
+        "Environ 95 %"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte précise que les tumeurs germinales représentent environ 95 % des tumeurs malignes du testicule."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les entités suivantes, laquelle est classée comme tumeur germinale ne dérivant pas d’une néoplasie germinale in situ ?",
+      "choices": [
+        "Séminome",
+        "Carcinome embryonnaire",
+        "Kyste épidermoïde",
+        "Choriocarcinome"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le kyste épidermoïde est classé avec le tératome prépubertaire parmi les tumeurs germinales ne dérivant pas d’une néoplasie germinale in situ."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel dosage est requis pour les classifications pronostiques fondées sur l’HCG, la sous-unité β seule ne devant pas être utilisée ?",
+      "choices": [
+        "HCG totale",
+        "AFP seule",
+        "LDH seule",
+        "Testostérone totale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que la sous-unité β seule ne doit pas être utilisée pour les classifications pronostiques fondées sur l’HCG totale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen n’est pas recommandé dans le bilan d’extension initial d’une tumeur testiculaire ?",
+      "choices": [
+        "Échographie scrotale",
+        "Tomodensitométrie thoracique, abdominale et pelvienne",
+        "TEP au 18FDG",
+        "Dosage des marqueurs sériques"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La TEP au 18FDG n’est pas recommandée dans le bilan d’extension initial. Les autres examens cités font partie du bilan systématique ou recommandé."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors de l’orchidectomie totale élargie par voie inguinale, où doit être réalisée la ligature première du cordon spermatique selon le texte ?",
+      "choices": [
+        "Au pôle supérieur du testicule",
+        "À l’orifice inguinal interne",
+        "Au niveau du scrotum",
+        "Au niveau de l’épididyme"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que l’orchidectomie totale élargie doit être réalisée par voie inguinale avec ligature première du cordon spermatique à l’orifice inguinal interne."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel tableau subaigu peut être mimé par une tumeur testiculaire selon les circonstances de découverte citées ?",
+      "choices": [
+        "Appendicite aiguë isolée",
+        "Orchi-épididymite ou torsion testiculaire",
+        "Colique néphrétique isolée",
+        "Prostatite chronique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte mentionne qu’une tumeur testiculaire peut se révéler par un tableau subaigu mimant une orchi-épididymite ou une torsion testiculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments peuvent faire classer une tumeur testiculaire au-delà de pT1 dans la classification pT décrite ?",
+      "choices": [
+        "Une invasion lymphovasculaire",
+        "Une atteinte de la vaginale",
+        "Une extension au cordon spermatique",
+        "Une extension au scrotum"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "pT2 inclut l’invasion lymphovasculaire ou l’atteinte de la vaginale ; pT3 correspond à l’extension au cordon spermatique ; pT4 correspond à l’extension au scrotum."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la catégorie pT1 d’une tumeur testiculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La tumeur est limitée au testicule et à l’épididyme sans invasion lymphovasculaire",
+        "Une atteinte de l’albuginée peut être compatible avec pT1 si la vaginale n’est pas atteinte",
+        "Une atteinte de la vaginale reste compatible avec pT1",
+        "Une extension au cordon spermatique reste compatible avec pT1"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "pT1 correspond à une tumeur limitée au testicule et à l’épididyme sans invasion lymphovasculaire ; l’albuginée peut être atteinte, mais pas la vaginale. L’atteinte de la vaginale classe pT2, l’extension au cordon pT3."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la catégorie S des marqueurs sériques au nadir après orchidectomie, quelles propositions sont exactes ?",
+      "choices": [
+        "S1 nécessite LDH < 1,5 fois la normale, HCG < 5 000 mUI/ml et AFP < 1 000 ng/ml",
+        "S2 peut être retenu si un seul des marqueurs atteint l’intervalle défini pour S2",
+        "S3 nécessite obligatoirement l’élévation simultanée des trois marqueurs",
+        "S0 correspond à des marqueurs sériques normaux"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "S1 repose sur les trois seuils bas simultanément. S2 et S3 peuvent être définis par l’élévation d’un seul marqueur dans l’intervalle correspondant. S0 signifie marqueurs normaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les métastases à distance dans la classification décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "Une atteinte ganglionnaire non rétropéritonéale correspond à M1a",
+        "Des métastases pulmonaires correspondent à M1a",
+        "Les autres sites métastatiques que pulmonaires sont classés M1a",
+        "M1b correspond aux autres sites métastatiques"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "M1a inclut les ganglions non rétropéritonéaux et les métastases pulmonaires. M1b correspond aux autres sites métastatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour définir une tumeur germinale de stade I avant discussion thérapeutique, quels éléments sont requis selon le texte ?",
+      "choices": [
+        "Une maladie localisée",
+        "Un scanner thoraco-abdominal normal",
+        "Des marqueurs tumoraux normalisés après orchidectomie",
+        "La présence d’une adénopathie rétropéritonéale N1"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs germinales de stade I sont définies par une maladie localisée, un scanner thoraco-abdominal normal et des marqueurs normalisés après orchidectomie. Une atteinte ganglionnaire N1 n’est pas compatible avec cette définition."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conditions nécessaires pour envisager une orchidectomie partielle, quelles propositions sont exactes ?",
+      "choices": [
+        "La fonction endocrine et la testostéronémie doivent être normales",
+        "Le volume tumoral doit être inférieur à 30 % du volume testiculaire et le diamètre inférieur à 2 cm",
+        "Un prélèvement de pulpe testiculaire saine à distance doit rechercher une néoplasie germinale in situ",
+        "Le patient n’a pas besoin d’être informé d’un risque de totalisation secondaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’orchidectomie partielle impose des conditions strictes : fonction endocrine et testostéronémie normales, faible volume tumoral, diamètre inférieur à 2 cm et prélèvement de pulpe saine. Le patient doit être informé du risque de totalisation secondaire si la malignité est confirmée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les principes péri-opératoires et la fertilité dans les tumeurs testiculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Une prothèse testiculaire peut être mise en place dans le même temps chirurgical",
+        "Une information sur la conservation des gamètes doit être donnée avant tout traitement",
+        "L’infertilité est plus fréquente chez les patients atteints d’un cancer du testicule",
+        "La biopsie percutanée d’une tumeur germinale du testicule est autorisée si les marqueurs sont normaux"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prothèse peut être posée dans le même temps. La conservation des gamètes doit être abordée avant tout traitement. L’infertilité est plus fréquente chez ces patients. La biopsie percutanée d’une tumeur germinale testiculaire est contre-indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les séminomes de stade I, quelles propositions sont exactes ?",
+      "choices": [
+        "Les facteurs de risque de récidive sont une taille tumorale supérieure à 4 cm et l’envahissement du rete testis",
+        "Le risque de récidive peut atteindre environ 28 % lorsque les deux facteurs sont présents",
+        "La surveillance clinique, biologique et scanographique est une option privilégiée surtout sans facteur de risque",
+        "Un traitement adjuvant est obligatoire chez tous les patients après orchidectomie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les deux facteurs de risque des séminomes de stade I sont la taille > 4 cm et l’envahissement du rete testis. Le risque peut atteindre 28 % si les deux sont présents. La surveillance est privilégiée surtout en leur absence ; le traitement adjuvant est discuté, non systématique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les tumeurs germinales non séminomateuses de stade I, quelles propositions sont exactes ?",
+      "choices": [
+        "L’invasion lymphovasculaire est le principal facteur de risque de récidive",
+        "En cas d’invasion lymphovasculaire, le risque de récidive est d’environ 50 %",
+        "Une chimiothérapie adjuvante par un cycle de bléomycine, étoposide et cisplatine peut réduire le risque de récidive à environ 3 %",
+        "La chimiothérapie adjuvante principalement citée est le carboplatine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les tumeurs non séminomateuses de stade I, l’invasion lymphovasculaire est le principal facteur de récidive, avec un risque d’environ 50 %. Un cycle de BEP peut réduire ce risque à environ 3 %. Le carboplatine est cité dans les séminomes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations correspondent à un stade IIIC selon la classification fournie ?",
+      "choices": [
+        "pT1-4 N1-3 M0 S3",
+        "pT1-4 N0-3 M1a S3",
+        "pT1-4 N0-3 M1b S0-3",
+        "pT1-4 N0 M0 S2"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le stade IIIC inclut N1-3 M0 S3, M1a S3, ou toute situation M1b avec S0-3. Une tumeur N0 M0 S2 correspond au stade IS si pT1-4."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les stades tumoraux avec S0, Sx ou S1-3, quelles propositions sont exactes ?",
+      "choices": [
+        "Le stade 0 peut être pTis N0 M0 S0 ou Sx",
+        "Le stade I inclut pT1-4 N0 M0 Sx",
+        "Le stade IA correspond à pT1 N0 M0 S0",
+        "Le stade IB inclut pT2-4 N0 M0 S1-3"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le stade 0 peut être S0 ou Sx. Le stade I générique inclut Sx. Le stade IA est pT1 N0 M0 S0. Le stade IB est pT2-4 N0 M0 S0, tandis que S1-3 avec N0 M0 correspond au stade IS."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les catégories ganglionnaires régionales N, quelles propositions sont exactes ?",
+      "choices": [
+        "N1 peut correspondre à plusieurs adénopathies dont aucune ne dépasse 2 cm",
+        "N2 peut correspondre à une adénopathie de 2 à 5 cm de grand axe",
+        "N2 peut correspondre à plusieurs adénopathies dont aucune ne dépasse 5 cm",
+        "N3 correspond à une adénopathie exactement égale à 5 cm de grand axe"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "N1 : adénopathie < 2 cm ou plusieurs dont aucune ne dépasse 2 cm. N2 : adénopathie de 2 à 5 cm ou plusieurs dont aucune ne dépasse 5 cm. N3 nécessite une adénopathie de plus de 5 cm."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments anatomopathologiques sont cités comme facteurs pronostiques de récidive en stade I ?",
+      "choices": [
+        "Une taille tumorale supérieure à 4 cm dans les séminomes",
+        "L’invasion du rete testis dans les séminomes",
+        "L’invasion lymphovasculaire dans les tumeurs germinales non séminomateuses",
+        "L’invasion de la vaginale comme principal facteur pronostique des tumeurs non séminomateuses"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les séminomes de stade I, les facteurs pronostiques sont la taille > 4 cm et l’envahissement du rete testis. Dans les tumeurs non séminomateuses de stade I, le principal facteur est l’invasion lymphovasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le curage rétropéritonéal de stadification dans les tumeurs germinales non séminomateuses de stade I, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être discuté",
+        "Il est décrit comme un curage rétropéritonéal unilatéral",
+        "Il est justifié notamment par le site habituel de récidive",
+        "Il peut être discuté en raison de la possible présence de tératome ganglionnaire chimiorésistant"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Dans les tumeurs non séminomateuses de stade I, un curage rétropéritonéal unilatéral de stadification peut être discuté, notamment en raison du site habituel de récidive et de la possible présence d’un tératome ganglionnaire chimiorésistant."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification pT, une tumeur testiculaire étendue au scrotum, avec ou sans invasion lymphovasculaire, correspond à :",
+      "choices": [
+        "pT1",
+        "pT2",
+        "pT3",
+        "pT4"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "pT4 correspond à une tumeur étendue au scrotum, avec ou sans invasion lymphovasculaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Une tumeur limitée au testicule et à l’épididyme avec invasion lymphovasculaire, sans extension au cordon ni au scrotum, est classée :",
+      "choices": [
+        "pT1",
+        "pT2",
+        "pT3",
+        "pT4"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La présence d’une invasion lymphovasculaire dans une tumeur limitée au testicule et à l’épididyme classe la tumeur pT2."
+    },
+    {
+      "type": "QCS",
+      "question": "Au nadir après orchidectomie, une LDH à 2 fois la normale avec HCG et AFP normales correspond à quelle catégorie S ?",
+      "choices": [
+        "S0",
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une LDH entre 1,5 et 10 fois la normale suffit à classer S2, même si les autres marqueurs sont normaux."
+    },
+    {
+      "type": "QCS",
+      "question": "Une tumeur pT1-4 N0-3 M1b S1 correspond à quel stade tumoral ?",
+      "choices": [
+        "Stade IIIA",
+        "Stade IIIB",
+        "Stade IIIC",
+        "Stade IS"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Toute situation pT1-4 N0-3 M1b S0-3 est classée stade IIIC."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les séminomes de stade I, quelle chimiothérapie adjuvante peut être discutée selon le texte ?",
+      "choices": [
+        "Carboplatine",
+        "Bléomycine, étoposide et cisplatine",
+        "Cisplatine seul",
+        "Aucune chimiothérapie n’est citée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans les séminomes de stade I avec facteurs de risque, une chimiothérapie par carboplatine peut être discutée."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les tumeurs germinales de stade I, l’orchidectomie est curative dans environ :",
+      "choices": [
+        "25 % des cas",
+        "50 % des cas",
+        "75 % des cas",
+        "95 % des cas"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que l’orchidectomie est curative dans environ 75 % des tumeurs germinales de stade I."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de la discussion d’une surveillance prolongée après traitement initial, quels éléments relèvent explicitement des risques ou contraintes à expliquer au patient ?",
+      "choices": [
+        "Le risque de mauvaise observance de la surveillance",
+        "L’impact psychologique d’un suivi prolongé",
+        "L’exposition répétée aux examens d’imagerie",
+        "La nécessité systématique d’une radiothérapie prophylactique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les contraintes et risques de mauvaise observance, l’impact psychologique de la surveillance prolongée et l’exposition répétée aux examens d’imagerie. La radiothérapie prophylactique systématique n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une tumeur germinale métastatique, quelles propositions décrivent correctement la place de l’orchidectomie dans la stratégie thérapeutique ?",
+      "choices": [
+        "Elle précède la chimiothérapie dans la séquence décrite",
+        "Elle suffit à elle seule à définir le traitement des formes métastatiques",
+        "Après sa réalisation, le traitement repose sur la chimiothérapie",
+        "Elle rend inutile toute réévaluation ultérieure"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte indique que le traitement des tumeurs germinales métastatiques repose, après orchidectomie, sur la chimiothérapie. Il ne dit pas que l’orchidectomie suffit seule ni qu’elle dispense de réévaluation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le schéma standard de chimiothérapie des tumeurs germinales métastatiques, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "Il comporte du cisplatine",
+        "Il comporte de l’étoposide",
+        "Il comporte de la bléomycine",
+        "Il comporte obligatoirement du carboplatine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le protocole standard cité associe bléomycine, étoposide et cisplatine. Le carboplatine n’est pas cité dans ce protocole."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une chimiothérapie pour tumeur germinale métastatique, quels éléments doivent faire partie de la réévaluation selon le texte ?",
+      "choices": [
+        "Un examen clinique",
+        "Une évaluation biologique",
+        "Une évaluation radiologique",
+        "Une laparotomie exploratrice systématique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réévaluation post-chimiothérapie est clinique, biologique et radiologique. Une laparotomie exploratrice systématique n’est pas mentionnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une masse résiduelle après chimiothérapie, quelles propositions traduisent correctement l’incertitude diagnostique décrite ?",
+      "choices": [
+        "La masse peut correspondre à de la fibrose",
+        "La fibrose est une situation fréquente parmi les masses résiduelles",
+        "La nature de la masse peut être déterminée avec certitude avant l’intervention",
+        "Aucun examen préopératoire ne permet d’en affirmer la nature avec certitude"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise que les masses résiduelles correspondent souvent à de la fibrose, mais qu’aucun examen préopératoire ne permet d’en déterminer la nature avec certitude."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles correspondent à une indication de curage rétropéritonéal systématique selon le texte ?",
+      "choices": [
+        "Tumeur germinale non séminomateuse avec masse résiduelle de 15 mm",
+        "Tumeur germinale non séminomateuse avec masse résiduelle de 25 mm",
+        "Séminome avec masse résiduelle de 20 mm",
+        "Séminome avec masse résiduelle de 35 mm sans tenir compte de la TEP-TDM"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le curage est systématique pour toute masse résiduelle supérieure à 1 cm dans les tumeurs germinales non séminomateuses. Dans les séminomes, il est discuté pour les masses supérieures à 3 cm selon l’évaluation par TEP-TDM au 18FDG, et non systématique d’emblée."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour les masses résiduelles des séminomes après chimiothérapie, quelles propositions sont exactes ?",
+      "choices": [
+        "Le curage peut être discuté si la masse dépasse 3 cm",
+        "La décision tient compte de l’évaluation par TEP-TDM au 18FDG",
+        "Le curage est systématique dès que la masse dépasse 1 cm",
+        "Le seuil de discussion est différent de celui des tumeurs non séminomateuses"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Dans les séminomes, le curage est discuté pour les masses supérieures à 3 cm selon la TEP-TDM au 18FDG. Le seuil systématique de plus de 1 cm concerne les tumeurs germinales non séminomateuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les récidives ou résistances après chimiothérapie, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elles sont associées à un mauvais pronostic",
+        "Elles peuvent relever d’une chimiothérapie de rattrapage conventionnelle",
+        "Elles peuvent relever d’une intensification thérapeutique avec support de cellules souches",
+        "Elles relèvent exclusivement d’une simple surveillance"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que les récidives après chimiothérapie et les résistances sont de mauvais pronostic et relèvent d’une chimiothérapie de rattrapage conventionnelle ou d’une intensification avec support de cellules souches."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les tumeurs germinales métastatiques, quelles propositions sont des formulations erronées par rapport au texte ?",
+      "choices": [
+        "Le nombre de cycles est choisi selon le groupe pronostique",
+        "La chimiothérapie standard comporte 3 ou 4 cycles",
+        "Le nombre de cycles est toujours fixé à 2",
+        "La réévaluation post-chimiothérapie est uniquement clinique"
+      ],
+      "answers": [
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que le protocole standard est administré en 3 ou 4 cycles selon le groupe pronostique et que la réévaluation est clinique, biologique et radiologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions distinguent correctement les masses résiduelles des tumeurs non séminomateuses de celles des séminomes ?",
+      "choices": [
+        "Dans les tumeurs non séminomateuses, une masse résiduelle supérieure à 1 cm impose un curage systématique",
+        "Dans les séminomes, une masse supérieure à 3 cm fait discuter un curage",
+        "Dans les deux cas, la conduite est strictement identique quel que soit le type histologique",
+        "Dans les séminomes, la TEP-TDM au 18FDG intervient dans l’évaluation"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte distingue nettement les indications : curage systématique au-delà de 1 cm pour les tumeurs non séminomateuses ; discussion au-delà de 3 cm dans les séminomes selon la TEP-TDM au 18FDG."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’arbitrage autour d’un traitement adjuvant ou d’une surveillance, quels éléments sont explicitement liés aux traitements ou à leurs conséquences médicales ?",
+      "choices": [
+        "La toxicité potentielle du traitement adjuvant",
+        "La toxicité d’un éventuel traitement de rattrapage",
+        "L’exposition répétée aux examens d’imagerie",
+        "La nécessité d’une greffe rénale préventive"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne la toxicité potentielle du traitement adjuvant, la toxicité d’un éventuel traitement de rattrapage et l’exposition répétée aux examens d’imagerie. La greffe rénale préventive n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Après chimiothérapie, quelles affirmations justifient qu’une masse résiduelle puisse conduire à une chirurgie de curage ?",
+      "choices": [
+        "Une masse résiduelle peut persister après traitement systémique",
+        "La nature histologique de cette masse ne peut pas être affirmée avec certitude en préopératoire",
+        "Certaines indications de curage dépendent du type histologique et de la taille",
+        "Toute masse résiduelle est toujours une fibrose certaine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique qu’en cas de masse résiduelle, un curage peut être indiqué, notamment selon le type histologique et la taille. La fibrose est fréquente mais jamais certaine en préopératoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la TEP-TDM au 18FDG dans les masses résiduelles de séminome, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle intervient dans l’évaluation des masses résiduelles supérieures à 3 cm",
+        "Elle participe à la discussion du curage",
+        "Elle permet à elle seule d’affirmer avec certitude la nature de toute masse résiduelle",
+        "Elle est citée spécifiquement pour les séminomes"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La TEP-TDM au 18FDG est citée pour l’évaluation des masses résiduelles de séminome supérieures à 3 cm afin de discuter un curage. Le texte précise cependant qu’aucun examen préopératoire ne détermine la nature d’une masse avec certitude."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles conduites seraient contraires aux données du texte dans la prise en charge post-chimiothérapie ?",
+      "choices": [
+        "Considérer toute masse résiduelle comme bénigne sans autre réflexion",
+        "Omettre la réévaluation biologique après chimiothérapie",
+        "Discuter un curage selon la taille et le type histologique",
+        "Reconnaître le mauvais pronostic des résistances à la chimiothérapie"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Il est contraire au texte de considérer toute masse résiduelle comme bénigne avec certitude ou d’omettre la réévaluation biologique. Le texte recommande une réévaluation clinique, biologique et radiologique et distingue les indications de curage."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient traité pour une tumeur germinale non séminomateuse présente après chimiothérapie une masse résiduelle de 12 mm. Quelle conduite correspond au texte ?",
+      "choices": [
+        "Curage rétropéritonéal systématique",
+        "Surveillance seule obligatoire",
+        "Curage uniquement si la masse dépasse 3 cm",
+        "Décision exclusivement fondée sur la TEP-TDM au 18FDG"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans les tumeurs germinales non séminomateuses, le curage est systématique pour toute masse résiduelle supérieure à 1 cm."
+    },
+    {
+      "type": "QCS",
+      "question": "Un séminome traité par chimiothérapie présente une masse résiduelle de 4 cm. Quel élément intervient dans la discussion du curage selon le texte ?",
+      "choices": [
+        "Le dosage isolé de la calcitonine",
+        "L’évaluation par TEP-TDM au 18FDG",
+        "La scintigraphie osseuse systématique",
+        "La biopsie scrotale première"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Pour les masses résiduelles de séminome supérieures à 3 cm, le curage est discuté selon l’évaluation par TEP-TDM au 18FDG."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur détermine le choix entre 3 et 4 cycles du protocole standard dans les tumeurs germinales métastatiques ?",
+      "choices": [
+        "Le groupe pronostique",
+        "L’âge exact du patient",
+        "La présence d’une prothèse testiculaire",
+        "La latéralité de la tumeur"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que le protocole standard est administré en 3 ou 4 cycles selon le groupe pronostique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation résume le mieux la signification d’une masse résiduelle après chimiothérapie ?",
+      "choices": [
+        "Elle est toujours une fibrose prouvée",
+        "Elle correspond souvent à une fibrose, mais sa nature ne peut pas être affirmée avec certitude en préopératoire",
+        "Elle impose toujours une intensification avec cellules souches",
+        "Elle exclut toute indication chirurgicale"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique que les masses résiduelles correspondent souvent à de la fibrose, mais qu’aucun examen préopératoire ne permet d’en déterminer la nature avec certitude."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle option thérapeutique est citée en cas de récidive après chimiothérapie ?",
+      "choices": [
+        "Chimiothérapie de rattrapage conventionnelle",
+        "Antibiothérapie prolongée",
+        "Hormonothérapie exclusive",
+        "Ablation prophylactique du testicule controlatéral"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les récidives après chimiothérapie peuvent relever d’une chimiothérapie de rattrapage conventionnelle ou d’une intensification thérapeutique avec support de cellules souches."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association correspond exactement au protocole standard cité pour les tumeurs germinales métastatiques ?",
+      "choices": [
+        "Bléomycine, étoposide, cisplatine",
+        "Bléomycine, vincristine, prednisone",
+        "Carboplatine, paclitaxel, gemcitabine",
+        "Cisplatine, doxorubicine, cyclophosphamide"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le protocole standard mentionné associe bléomycine, étoposide et cisplatine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le principe diagnostique devant une tumeur testiculaire solide, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle doit être considérée comme un cancer jusqu’à preuve histologique du contraire.",
+        "L’absence de douleur permet d’écarter une tumeur maligne.",
+        "La certitude diagnostique repose sur l’analyse histologique.",
+        "Les tumeurs germinales constituent une minorité des tumeurs malignes du testicule."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Toute tumeur testiculaire solide est considérée comme un cancer jusqu’à preuve histologique contraire. Les tumeurs germinales représentent environ 95 % des tumeurs malignes testiculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les voies et sites de dissémination des tumeurs germinales testiculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Le tropisme métastatique est principalement lymphatique.",
+        "Les ganglions rétropéritonéaux font partie des relais décrits.",
+        "Les métastases hématogènes concernent notamment les poumons et le foie.",
+        "La dissémination osseuse est décrite comme le site hématogène le plus fréquent."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La dissémination est surtout lymphatique vers les ganglions rétropéritonéaux, médiastinaux et sus-claviculaires gauches. La voie hématogène atteint surtout les poumons et le foie, plus rarement le cerveau et les os."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont des facteurs de risque de tumeur germinale testiculaire selon le texte ?",
+      "choices": [
+        "Antécédent personnel de tumeur germinale.",
+        "Antécédent familial au premier degré de tumeur germinale.",
+        "Ectopie testiculaire.",
+        "Microlithiases testiculaires isolées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les antécédents personnel et familial au premier degré, la cryptorchidie, l’ectopie et l’atrophie testiculaire sont des facteurs de risque. Les microlithiases isolées ne doivent pas être considérées comme un facteur de risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anomalies constitutionnelles ou syndromiques associées aux tumeurs germinales, quelles propositions sont exactes ?",
+      "choices": [
+        "La trisomie 21 est citée parmi les maladies syndromiques associées.",
+        "L’anomalie 47,XXY est citée parmi les maladies syndromiques associées.",
+        "Ces anomalies sont associées en particulier aux tumeurs germinales extragonadiques médiastinales.",
+        "Les microlithiases isolées définissent un syndrome de dysgénésie testiculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La trisomie 21 et l’anomalie 47,XXY sont mentionnées, notamment en association avec les tumeurs germinales extragonadiques médiastinales. Les microlithiases isolées ne définissent pas le syndrome de dysgénésie testiculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles entités sont classées parmi les tumeurs germinales dérivant d’une néoplasie germinale in situ ?",
+      "choices": [
+        "Séminome avec cellules syncytiotrophoblastiques.",
+        "Tératome avec transformation somatique maligne.",
+        "Tumeurs mixtes associant plusieurs contingents histologiques.",
+        "Kyste épidermoïde."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le séminome avec cellules syncytiotrophoblastiques, le tératome avec transformation somatique maligne et les tumeurs mixtes dérivent d’une néoplasie germinale in situ. Le kyste épidermoïde n’en dérive pas."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les tumeurs primitives du testicule suivantes, lesquelles ne sont pas des tumeurs germinales au sens strict de la classification simplifiée ?",
+      "choices": [
+        "Tumeur à cellules de Leydig.",
+        "Tumeur à cellules de Sertoli.",
+        "Lymphome à cellules B.",
+        "Tumeur du sac vitellin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les tumeurs à cellules de Leydig et de Sertoli appartiennent aux tumeurs des cordons sexuels. Le lymphome à cellules B est une tumeur hématolymphoïde. La tumeur du sac vitellin est une tumeur germinale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre séminome pur et tumeur germinale non séminomateuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Une tumeur germinale séminomateuse est une tumeur pure.",
+        "La présence d’un contingent séminomateux dans une tumeur mixte ne suffit pas à classer la tumeur comme séminome pur.",
+        "Une tumeur germinale non séminomateuse peut associer plusieurs contingents histologiques.",
+        "Le choriocarcinome est classé comme une forme de séminome pur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le séminome est pur. Une tumeur mixte contenant un contingent séminomateux n’est pas classée comme séminome pur. Les tumeurs non séminomateuses peuvent être uniques ou mixtes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles circonstances de découverte peuvent révéler une tumeur testiculaire selon le texte ?",
+      "choices": [
+        "Masse scrotale dure, unilatérale et indolore.",
+        "Sensation de pesanteur testiculaire.",
+        "Détresse respiratoire liée à des métastases pulmonaires.",
+        "Disparition complète et spontanée d’une masse scrotale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les circonstances de découverte incluent une masse scrotale dure indolore, une pesanteur testiculaire et des manifestations métastatiques comme une détresse respiratoire. La disparition spontanée complète n’est pas citée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’examen local d’une masse testiculaire suspecte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’examen doit être bilatéral et comparatif.",
+        "La masse est typiquement circonscrite, dure et pierreuse.",
+        "Elle est décrite comme plus sensible que douloureuse.",
+        "La conservation du sillon épididymo-testiculaire oriente vers une origine extratesticulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’examen est bilatéral et comparatif. La masse tumorale est souvent circonscrite, dure, pierreuse, plus sensible que douloureuse. La conservation du sillon épididymo-testiculaire est en faveur d’une origine testiculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les objectifs de l’échographie scrotale dans le bilan initial, quelles propositions sont exactes ?",
+      "choices": [
+        "Confirmer la présence d’une lésion testiculaire.",
+        "Différencier une lésion intratesticulaire d’une lésion extratesticulaire.",
+        "Explorer le testicule controlatéral.",
+        "Remplacer la tomodensitométrie pour l’évaluation rétropéritonéale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’échographie scrotale confirme la lésion, distingue les localisations intra- et extratesticulaires, explore le testicule controlatéral et recherche des microcalcifications. Elle ne remplace pas le scanner d’extension."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels aspects échographiques sont compatibles avec les données du texte ?",
+      "choices": [
+        "Les séminomes sont souvent hypoéchogènes.",
+        "Les séminomes peuvent être vascularisés au Doppler couleur.",
+        "Les séminomes peuvent être associés à des microlithes.",
+        "Les tumeurs germinales non séminomateuses sont toujours homogènes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les séminomes ont souvent l’aspect de masses lobulées hypoéchogènes, vascularisées, parfois associées à des microlithes. Les tumeurs non séminomateuses sont souvent plus hétérogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la tomodensitométrie thoraco-abdomino-pelvienne initiale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle recherche une extension ganglionnaire rétropéritonéale.",
+        "Elle recherche des adénopathies médiastinales.",
+        "Elle recherche des métastases pulmonaires.",
+        "Elle est indiquée principalement pour caractériser les microlithiases testiculaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le scanner thoraco-abdomino-pelvien est systématique pour le bilan d’extension ganglionnaire et métastatique. Les microlithiases relèvent de l’échographie scrotale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’utilisation des marqueurs tumoraux sériques dans les tumeurs testiculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils doivent être dosés avant orchidectomie.",
+        "Ils doivent être dosés après orchidectomie.",
+        "Leur décroissance doit être interprétée selon leur demi-vie.",
+        "La sous-unité β de l’HCG seule suffit pour les classifications pronostiques fondées sur l’HCG totale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les marqueurs sont dosés avant et après orchidectomie. La valeur postopératoire sert aux classifications pronostiques et la cinétique dépend des demi-vies. La β-HCG seule ne doit pas être utilisée à la place de l’HCG totale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre type histologique et sécrétion de marqueur sont conformes au texte ?",
+      "choices": [
+        "Choriocarcinome et sécrétion systématique d’HCG totale.",
+        "Séminome et sécrétion possible d’HCG dans 10 à 20 % des cas.",
+        "Tumeur du sac vitellin et production d’alpha-fœtoprotéine.",
+        "Tératome prépubertaire et sécrétion systématique de LDH."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le choriocarcinome sécrète systématiquement l’HCG, 10 à 20 % des séminomes peuvent sécréter l’HCG, et la tumeur du sac vitellin produit principalement l’AFP. Aucune sécrétion systématique de LDH par le tératome prépubertaire n’est indiquée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proportion des tumeurs germinales est localisée au testicule au moment du diagnostic selon le texte ?",
+      "choices": [
+        "10 à 20 %",
+        "30 à 40 %",
+        "60 à 70 %",
+        "Plus de 95 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La maladie est localisée au testicule dans 60 à 70 % des cas au diagnostic."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel geste constitue à la fois le traitement local de référence et le geste diagnostique de certitude ?",
+      "choices": [
+        "Biopsie percutanée de la masse testiculaire.",
+        "Orchidectomie totale élargie.",
+        "Ponction cytologique scrotale.",
+        "Surveillance échographique simple."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’orchidectomie totale élargie est le traitement local de référence et permet le diagnostic histologique de certitude."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la demi-vie de l’alpha-fœtoprotéine indiquée dans le texte ?",
+      "choices": [
+        "6 à 12 heures",
+        "24 à 36 heures",
+        "5 à 7 jours",
+        "3 à 4 semaines"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La demi-vie de l’alpha-fœtoprotéine est de 5 à 7 jours."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification simplifiée, quelle entité appartient aux tumeurs hématolymphoïdes du testicule ?",
+      "choices": [
+        "Gonadoblastome.",
+        "Lymphome à cellules B.",
+        "Tumeur à cellules de Leydig.",
+        "Kyste épidermoïde."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le lymphome à cellules B est classé parmi les tumeurs hématolymphoïdes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen est décrit comme le plus sensible pour détecter les métastases pulmonaires et les adénopathies médiastinales ?",
+      "choices": [
+        "Radiographie thoracique standard.",
+        "Scanner thoracique.",
+        "IRM scrotale.",
+        "TEP au 18FDG."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le scanner thoracique est l’examen le plus sensible pour détecter les métastases pulmonaires et les adénopathies médiastinales."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen n’apporte généralement pas d’élément déterminant au bilan local d’une tumeur testiculaire ?",
+      "choices": [
+        "Échographie scrotale.",
+        "IRM scrotale.",
+        "Examen clinique testiculaire bilatéral.",
+        "Doppler couleur intégré à l’échographie."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’IRM scrotale n’apporte généralement pas d’élément déterminant au bilan local, contrairement à l’échographie scrotale systématique."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-04T17:26:25.189Z"
+}

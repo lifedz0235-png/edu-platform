@@ -1,0 +1,3122 @@
+{
+  "category": "biologie",
+  "module": "immunologie",
+  "courseId": 35,
+  "courseTitle": "C Les Immunoglobulines",
+  "supportTitle": "c-les-immunoglobulines",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/immunologie/c-les-immunoglobulines.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la structure de base d’une immunoglobuline, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comporte 4 chaînes polypeptidiques reliées par des ponts disulfures.",
+        "Elle possède 2 chaînes lourdes identiques d’environ 50 kDa.",
+        "Elle possède 2 chaînes légères identiques d’environ 25 kDa.",
+        "Elle présente une forme générale linéaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une immunoglobuline a une forme générale en Y et comporte 2 chaînes lourdes identiques et 2 chaînes légères identiques reliées par des ponts disulfures."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des domaines et régions fonctionnelles des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les régions variables des chaînes lourdes et légères portent le paratope.",
+        "Les régions constantes assurent notamment la fixation du complément.",
+        "Les chaînes légères comportent un domaine variable et un domaine constant.",
+        "Les chaînes lourdes comportent uniquement des domaines constants."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le paratope est porté par les régions variables. Les régions constantes assurent les fonctions effectrices. Les chaînes légères ont un domaine variable et un domaine constant."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fragments fonctionnels obtenus après clivage enzymatique des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "La papaïne donne 2 fragments Fab et 1 fragment Fc.",
+        "La pepsine donne un fragment F(ab’)₂ et un fragment pFc’.",
+        "Le fragment Fab est impliqué dans la liaison à l’antigène.",
+        "Le fragment Fc porte le site spécifique de reconnaissance de l’antigène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La papaïne produit 2 Fab et 1 Fc. La pepsine produit F(ab’)₂ et pFc’. Le Fab lie l’antigène, tandis que le Fc intervient dans les interactions effectrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la variabilité isotypique des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est définie par la nature de la chaîne lourde.",
+        "La chaîne lourde γ correspond aux IgG.",
+        "Les IgA comportent les sous-classes IgA1 et IgA2.",
+        "Les isotypes des chaînes légères sont μ et δ."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La variabilité isotypique dépend des chaînes lourdes. Les IgG portent une chaîne γ, les IgA ont deux sous-classes. Les chaînes légères sont κ et λ."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des variabilités allotypique et idiotypique des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "La variabilité allotypique correspond à des variations alléliques interindividuelles.",
+        "La variabilité idiotypique est impliquée dans la reconnaissance de l’antigène.",
+        "Les CDR sont les régions hypervariables déterminant la complémentarité avec l’antigène.",
+        "Les régions FR sont les régions les plus variables responsables directement de la complémentarité antigénique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’allotypie correspond à des variations alléliques entre individus. L’idiotypie dépend des régions hypervariables, notamment les CDR. Les FR sont des régions charpentes relativement invariantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la diversité centrale des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient dans les organes lymphoïdes centraux.",
+        "Elle repose sur la recombinaison V, D et J pour les chaînes lourdes.",
+        "Elle repose sur la recombinaison V et J pour les chaînes légères.",
+        "Elle comprend l’hypermutation somatique comme mécanisme principal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diversité centrale survient dans les organes lymphoïdes centraux et implique la recombinaison VDJ pour les chaînes lourdes et VJ pour les chaînes légères. L’hypermutation somatique est périphérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la diversité périphérique des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient dans les organes lymphoïdes secondaires.",
+        "Elle comprend l’hypermutation somatique.",
+        "Elle comprend la commutation de classe.",
+        "Elle repose exclusivement sur la recombinaison V, D et J."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diversité périphérique survient dans les organes lymphoïdes secondaires et comprend l’hypermutation somatique ainsi que la commutation isotypique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’hypermutation somatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient dans les lymphocytes B activés.",
+        "Elle introduit des mutations ponctuelles dans les régions variables réarrangées.",
+        "Elle peut modifier l’affinité de liaison à l’antigène.",
+        "Elle est indépendante de l’enzyme AID."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypermutation somatique concerne les lymphocytes B activés, introduit des mutations ponctuelles dans les régions variables et peut modifier l’affinité. Elle dépend notamment d’AID."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la commutation isotypique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet de modifier la classe d’immunoglobuline produite.",
+        "Elle conserve la même spécificité antigénique.",
+        "Elle dépend notamment de l’enzyme AID.",
+        "Elle remplace la spécificité antigénique initiale par une spécificité différente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La commutation isotypique change la classe d’immunoglobuline tout en conservant la spécificité antigénique. AID est impliquée dans ce mécanisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les IgG, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles ont une structure monomérique.",
+        "Elles représentent l’isotype le plus abondant dans le sérum.",
+        "Elles peuvent participer à l’opsonisation par les phagocytes.",
+        "Elles ne traversent jamais le placenta."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les IgG sont monomériques, les plus abondantes dans le sérum, participent à l’opsonisation et peuvent traverser le placenta, avec un passage faible pour IgG4."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des propriétés effectrices des IgG, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent fixer le complément via C1q, C3b et C4b, sauf IgG4.",
+        "Elles peuvent interagir avec les récepteurs Fc, sauf IgG2 et IgG4.",
+        "Elles participent à la cytotoxicité cellulaire dépendante des anticorps par les cellules NK.",
+        "Elles sont dépourvues de toute fonction effectrice portée par leur région constante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les IgG possèdent plusieurs fonctions effectrices : fixation du complément sauf IgG4, interaction avec des récepteurs Fc sauf IgG2 et IgG4, opsonisation et ADCC par les cellules NK."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les IgM, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont pentamériques sous forme sérique.",
+        "Elles possèdent une chaîne J.",
+        "Elles sont le premier isotype produit lors de la réponse des lymphocytes B.",
+        "Elles n’existent jamais comme récepteur membranaire des lymphocytes B."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les IgM sériques sont pentamériques, possèdent une chaîne J, constituent le premier isotype produit par le fœtus et lors de la réponse B, et peuvent exister sous forme membranaire comme BCR."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les IgA, quelles propositions sont exactes ?",
+      "choices": [
+        "La forme sérique est monomérique.",
+        "La forme sécrétoire est dimérique.",
+        "Elles sont la principale immunoglobuline des sécrétions.",
+        "Elles activent le complément par la voie classique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les IgA sont monomériques dans le sérum et dimériques dans les sécrétions. Elles constituent la principale immunoglobuline des sécrétions et n’activent pas le complément par la voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les IgD et les IgE, quelles propositions sont exactes ?",
+      "choices": [
+        "Les IgD sont monomériques et très rares dans le sérum.",
+        "Les IgD peuvent être des récepteurs de surface des lymphocytes B.",
+        "Les IgE interagissent avec les mastocytes et les basophiles.",
+        "Les IgE sont l’immunoglobuline sérique la plus abondante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les IgD sont monomériques, rares dans le sérum et présentes comme récepteurs de surface des lymphocytes B. Les IgE interagissent avec les mastocytes et basophiles et sont les plus rares dans le sérum."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle chaîne lourde définit l’isotype IgE ?",
+      "choices": [
+        "Chaîne μ",
+        "Chaîne δ",
+        "Chaîne ε",
+        "Chaîne α"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les IgE sont définies par la chaîne lourde ε."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel fragment d’immunoglobuline est principalement impliqué dans l’interaction avec les cellules effectrices ?",
+      "choices": [
+        "Fragment Fab",
+        "Fragment Fc",
+        "Fragment F(ab’)₂",
+        "Paratope"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le fragment Fc, ou fragment cristallisable, est impliqué dans les interactions avec les cellules effectrices."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme introduit des mutations ponctuelles dans les régions variables réarrangées des immunoglobulines ?",
+      "choices": [
+        "Commutation isotypique",
+        "Hypermutation somatique",
+        "Variabilité allotypique",
+        "Fixation du complément"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’hypermutation somatique introduit des mutations ponctuelles dans les régions variables réarrangées des immunoglobulines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle immunoglobuline est caractérisée par une structure pentamérique sous forme sérique ?",
+      "choices": [
+        "IgG",
+        "IgM",
+        "IgA",
+        "IgD"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les IgM ont une structure pentamérique sous forme sérique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle immunoglobuline est la principale immunoglobuline des sécrétions ?",
+      "choices": [
+        "IgG",
+        "IgM",
+        "IgA",
+        "IgE"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les IgA constituent la principale immunoglobuline des sécrétions, notamment dans les larmes, la salive et les sécrétions gastriques et pulmonaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit correctement un lymphocyte B donné selon sa spécificité anticorps ?",
+      "choices": [
+        "Il produit des immunoglobulines reconnaissant plusieurs épitopes sans spécificité unique.",
+        "Il produit des immunoglobulines ayant une seule spécificité anticorps.",
+        "Il produit uniquement des immunoglobulines solubles, jamais membranaires.",
+        "Il produit des immunoglobulines ciblant principalement des antigènes intracellulaires."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Un lymphocyte B donné produit des immunoglobulines ayant une seule spécificité anticorps, reconnaissant un seul épitope ou déterminant antigénique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les propriétés fonctionnelles des IgE mentionnées, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles interviennent notamment contre les helminthes.",
+        "Elles interagissent avec les récepteurs Fcε, notamment de haute affinité.",
+        "Elles ne fixent pas le complément.",
+        "Elles constituent le principal support de l’activation de la voie classique du complément."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que les IgE agissent notamment contre les helminthes, interagissent avec les récepteurs Fcε de haute affinité et ne fixent pas le complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les fonctions générales des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Neutralisation des micro-organismes.",
+        "Neutralisation des toxines.",
+        "Opsonisation facilitant l’ingestion par les cellules phagocytaires.",
+        "Cytotoxicité cellulaire dépendante des anticorps."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces fonctions sont citées dans le texte comme fonctions des immunoglobulines."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du lien entre immunoglobulines et complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Les immunoglobulines peuvent activer la voie classique du complément.",
+        "Cette activation peut participer à l’opsonisation.",
+        "Cette activation peut participer à la lyse de certains micro-organismes.",
+        "Les IgE fixent efficacement le complément."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne l’activation de la voie classique du complément, la participation à l’opsonisation et à la lyse de certains micro-organismes. Les IgE ne fixent pas le complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations peuvent s’accompagner d’une augmentation des immunoglobulines ?",
+      "choices": [
+        "Infections.",
+        "Processus inflammatoires.",
+        "Maladies auto-immunes.",
+        "Gammapathies monoclonales."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces quatre situations parmi les causes d’augmentation des immunoglobulines."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations peuvent être responsables d’une diminution des immunoglobulines ?",
+      "choices": [
+        "Déficits immunitaires.",
+        "Défaut de synthèse.",
+        "Pertes rénales.",
+        "Brûlures étendues."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les déficits immunitaires, le défaut de synthèse, les pertes rénales et les brûlures étendues sont cités comme causes de diminution des immunoglobulines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les variations du taux des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Le taux varie physiologiquement selon l’âge.",
+        "Le taux varie physiologiquement selon le sexe.",
+        "Une infection peut être associée à une augmentation des immunoglobulines.",
+        "Une perte digestive peut être associée à une diminution des immunoglobulines."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue les variations selon l’âge et le sexe, ainsi que les augmentations lors d’infections et les diminutions lors de pertes digestives."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles correspondent à des applications diagnostiques des immunoglobulines ?",
+      "choices": [
+        "Recherche d’antigènes solubles ou particulaires in vitro.",
+        "Sérodiagnostic.",
+        "Immunoscintigraphie utilisant des anticorps comme sondes spécifiques.",
+        "Sérothérapie antivenimeuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La recherche d’antigènes, le sérodiagnostic et l’immunoscintigraphie sont des applications diagnostiques. La sérothérapie relève des applications thérapeutiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’immunoscintigraphie utilisant des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle utilise des anticorps comme sondes spécifiques.",
+        "Les anticorps peuvent être marqués par fluorescence.",
+        "Les anticorps peuvent être marqués par une radioactivité faible.",
+        "Elle correspond à une neutralisation thérapeutique d’un venin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’immunoscintigraphie utilise des anticorps comme sondes spécifiques marquées par fluorescence ou faible radioactivité, visualisées in vivo par imagerie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions relèvent des applications thérapeutiques des immunoglobulines ?",
+      "choices": [
+        "Sérothérapie visant à neutraliser un antigène bactérien.",
+        "Sérothérapie visant à neutraliser une toxine.",
+        "Sérothérapie visant à neutraliser un virus ou un venin.",
+        "Administration d’immunoglobulines intraveineuses."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite la sérothérapie contre antigène bactérien, toxine, virus ou venin, ainsi que l’administration d’immunoglobulines intraveineuses."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le cadre de la sérothérapie, quelles cibles peuvent être neutralisées selon le texte ?",
+      "choices": [
+        "Un antigène bactérien.",
+        "Une toxine.",
+        "Un virus.",
+        "Un venin."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La sérothérapie est décrite comme permettant de neutraliser un antigène bactérien, une toxine, un virus ou un venin."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre variation des immunoglobulines et contexte clinique sont exactes ?",
+      "choices": [
+        "Infection : augmentation possible des immunoglobulines.",
+        "Maladie auto-immune : augmentation possible des immunoglobulines.",
+        "Pertes rénales : diminution possible des immunoglobulines.",
+        "Brûlures étendues : diminution possible des immunoglobulines."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces associations correspondent aux variations pathologiques citées : augmentation dans les infections et maladies auto-immunes, diminution lors de pertes rénales et de brûlures étendues."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’opsonisation par les immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle facilite l’ingestion par les cellules phagocytaires.",
+        "Elle fait partie des fonctions des immunoglobulines.",
+        "Elle peut être associée à l’activation de la voie classique du complément.",
+        "Elle correspond à une application diagnostique in vivo par imagerie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’opsonisation facilite la phagocytose et fait partie des fonctions des immunoglobulines. Le texte mentionne aussi la participation à l’opsonisation dans le cadre de l’activation du complément."
+    },
+    {
+      "type": "QCM",
+      "question": "En distinguant les applications in vitro et in vivo des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "La recherche d’antigènes solubles peut être réalisée in vitro.",
+        "La recherche d’antigènes particulaires peut être réalisée in vitro.",
+        "L’immunoscintigraphie repose sur une visualisation in vivo par imagerie.",
+        "La sérothérapie est une méthode diagnostique in vitro."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite la recherche in vitro d’antigènes solubles ou particulaires et l’immunoscintigraphie visualisée in vivo par imagerie. La sérothérapie est thérapeutique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles décrivent correctement des fonctions effectrices des immunoglobulines ?",
+      "choices": [
+        "Neutralisation de toxines.",
+        "Lyse de certains micro-organismes.",
+        "Cytotoxicité cellulaire dépendante des anticorps.",
+        "Visualisation par imagerie après marquage radioactif faible."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La neutralisation, la lyse de certains micro-organismes et la cytotoxicité cellulaire dépendante des anticorps sont des fonctions effectrices. La visualisation par imagerie correspond à une application diagnostique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle application utilise des anticorps comme sondes spécifiques marquées et visualisées in vivo par imagerie ?",
+      "choices": [
+        "Sérothérapie.",
+        "Immunoscintigraphie.",
+        "Administration d’immunoglobulines intraveineuses.",
+        "Opsonisation."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’immunoscintigraphie utilise des anticorps comme sondes spécifiques marquées, visualisées in vivo par imagerie."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les situations suivantes, laquelle est une cause de diminution des immunoglobulines ?",
+      "choices": [
+        "Infection.",
+        "Processus inflammatoire.",
+        "Pertes digestives.",
+        "Gammapathie monoclonale."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les pertes digestives sont citées comme cause de diminution des immunoglobulines. Les autres situations sont associées à une augmentation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à une caractéristique des IgE selon le texte ?",
+      "choices": [
+        "Elles fixent fortement le complément.",
+        "Elles ne fixent pas le complément.",
+        "Elles sont définies par une application d’immunoscintigraphie.",
+        "Elles diminuent spécifiquement dans les gammapathies monoclonales."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que les IgE ne fixent pas le complément."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle intervention correspond à une application thérapeutique destinée à neutraliser une toxine, un virus ou un venin ?",
+      "choices": [
+        "Sérothérapie.",
+        "Sérodiagnostic.",
+        "Recherche d’antigènes in vitro.",
+        "Immunoscintigraphie."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La sérothérapie est indiquée comme application thérapeutique pour neutraliser un antigène bactérien, une toxine, un virus ou un venin."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur est explicitement cité comme influençant physiologiquement le taux des immunoglobulines ?",
+      "choices": [
+        "Âge.",
+        "Venin.",
+        "Toxine.",
+        "Antigène particulaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le taux des immunoglobulines varie selon l’âge et le sexe. Parmi les choix proposés, seul l’âge est un facteur physiologique cité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation est associée à une augmentation des immunoglobulines ?",
+      "choices": [
+        "Défaut de synthèse.",
+        "Pertes rénales.",
+        "Brûlures étendues.",
+        "Maladie auto-immune."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Les maladies auto-immunes font partie des situations associées à une augmentation des immunoglobulines."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des formes d’existence et du rôle général des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent être exprimées à la surface des lymphocytes B sous forme de BCR.",
+        "Elles peuvent être présentes sous forme soluble dans le plasma, les liquides extravasculaires et les sécrétions.",
+        "Un lymphocyte B donné produit des immunoglobulines capables de reconnaître plusieurs épitopes différents.",
+        "Elles sont des médiateurs de l’immunité humorale dont les cibles sont principalement extracellulaires."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les immunoglobulines existent sous forme membranaire comme BCR et sous forme soluble. Un lymphocyte B donné a une seule spécificité anticorps. Les anticorps médient l’immunité humorale, surtout dirigée contre des cibles extracellulaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les régions de reconnaissance antigénique des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Le paratope est porté par les régions variables des chaînes lourdes et légères.",
+        "Les CDR correspondent aux régions hypervariables déterminant la complémentarité avec l’antigène.",
+        "Les régions FR sont des régions charpentes constituées de résidus relativement invariants.",
+        "La région constante de la chaîne légère constitue à elle seule le site de reconnaissance spécifique de l’antigène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le site de reconnaissance antigénique, ou paratope, dépend des régions variables des chaînes lourdes et légères. Les CDR sont hypervariables, alors que les FR sont relativement invariantes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des déterminants antigéniques des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "La variabilité allotypique est liée à des variations alléliques interindividuelles.",
+        "Les déterminants allotypiques peuvent être présents chez certains individus d’une même espèce.",
+        "La variabilité idiotypique dépend des régions hypervariables.",
+        "La variabilité idiotypique définit les classes IgG, IgA, IgM, IgD et IgE."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’allotypie correspond à des variations alléliques entre individus d’une même espèce. L’idiotypie dépend des régions hypervariables impliquées dans la reconnaissance antigénique. Les classes d’Ig relèvent de l’isotypie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’origine génétique centrale de la diversité des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les chaînes lourdes résultent de la recombinaison de segments V, D et J.",
+        "Les chaînes légères résultent de la recombinaison de segments V et J.",
+        "La diversité centrale comprend la diversité combinatoire et la diversité jonctionnelle.",
+        "La diversité centrale repose principalement sur l’hypermutation somatique dans les organes lymphoïdes secondaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diversité centrale survient dans les organes lymphoïdes centraux et repose sur les recombinaisons VDJ pour les chaînes lourdes, VJ pour les chaînes légères, ainsi que sur les diversités combinatoire et jonctionnelle."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’hypermutation somatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient dans les lymphocytes B activés.",
+        "Elle introduit des mutations ponctuelles dans les régions variables réarrangées.",
+        "Elle peut modifier l’affinité de liaison à l’antigène.",
+        "Elle dépend exclusivement des lymphocytes T et épargne les lymphocytes B."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypermutation somatique est active dans les lymphocytes B activés, introduit des mutations ponctuelles dans les régions variables réarrangées et peut modifier l’affinité pour l’antigène."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’enzyme AID, quelles propositions sont exactes ?",
+      "choices": [
+        "Son nom développé est activation-induced cytidine deaminase.",
+        "Elle est impliquée dans l’hypermutation somatique.",
+        "Elle est également impliquée dans la commutation isotypique.",
+        "Elle constitue le fragment cristallisable des immunoglobulines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "AID signifie activation-induced cytidine deaminase. Elle intervient dans l’hypermutation somatique et dans la commutation isotypique. Le fragment cristallisable est le fragment Fc."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la commutation isotypique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet de modifier la classe d’immunoglobuline produite.",
+        "Elle conserve la même spécificité antigénique.",
+        "Elle fait partie de la diversité périphérique.",
+        "Elle impose un changement de l’épitope reconnu par le lymphocyte B."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La commutation isotypique change la classe d’immunoglobuline produite tout en conservant la spécificité antigénique. Elle survient dans les organes lymphoïdes secondaires et relève de la diversité périphérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fixation du complément par les immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les IgM fixent le complément.",
+        "Les IgA n’activent pas le complément par la voie classique.",
+        "Les IgD ne fixent pas le complément.",
+        "Toutes les sous-classes d’IgG fixent le complément sans exception."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les IgM fixent le complément. Les IgA n’activent pas la voie classique et les IgD ne fixent pas le complément. Pour les IgG, l’IgG4 fait exception."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des interactions cellulaires des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fragment Fc est impliqué dans l’interaction avec les cellules effectrices.",
+        "Les IgG peuvent participer à la cytotoxicité cellulaire dépendante des anticorps par les cellules NK.",
+        "Les IgE interagissent avec les mastocytes et les basophiles.",
+        "Le fragment Fab assure principalement la fixation aux récepteurs Fc cellulaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fragment Fc interagit avec les cellules effectrices. Les IgG participent à l’ADCC via les cellules NK, et les IgE interagissent avec les mastocytes et les basophiles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certaines particularités fonctionnelles des sous-classes d’IgG, quelles propositions sont exactes ?",
+      "choices": [
+        "L’IgG4 présente un passage transplacentaire faible.",
+        "L’IgG4 ne fixe pas le complément selon les données du texte.",
+        "Les IgG2 et IgG4 font exception pour l’interaction avec les récepteurs Fc.",
+        "L’IgG2 est explicitement décrite comme la principale IgG impliquée dans la fixation du complément."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que le passage transplacentaire est faible pour IgG4, que l’IgG4 ne fixe pas le complément, et que les IgG2 et IgG4 font exception pour l’interaction avec les récepteurs Fc."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des caractéristiques de l’IgM utiles en immunologie clinique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est le premier isotype produit par le fœtus.",
+        "Elle est le premier isotype produit lors de la réponse des lymphocytes B.",
+        "Elle possède un fort pouvoir d’agglutination.",
+        "Elle est décrite sous forme sérique exclusivement monomérique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IgM est le premier isotype produit par le fœtus et lors de la réponse B. Elle a un fort pouvoir d’agglutination et sa forme sérique est pentamérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’IgA dans les sécrétions, quelles propositions sont exactes ?",
+      "choices": [
+        "Sa forme sécrétoire est dimérique.",
+        "Elle comporte une chaîne J.",
+        "Elle comporte une pièce sécrétoire.",
+        "Elle est absente des larmes et de la salive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IgA sécrétoire est dimérique, avec chaîne J et pièce sécrétoire. Elle est présente notamment dans les larmes et la salive."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’IgD, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle a une structure monomérique.",
+        "Elle possède une portion transmembranaire.",
+        "Elle peut jouer un rôle dans l’activation des lymphocytes B.",
+        "Elle est l’immunoglobuline sérique la plus abondante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IgD est monomérique, possède une portion transmembranaire, est un récepteur de surface des lymphocytes B et joue un rôle dans leur activation. Elle est très rare dans le sérum."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les données comparatives d’abondance des classes d’immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "L’IgG est l’isotype le plus abondant dans le sérum.",
+        "L’IgG est l’isotype le plus abondant dans les espaces extravasculaires.",
+        "L’IgA est le deuxième isotype le plus abondant après l’IgG.",
+        "L’IgE est plus abondante dans le sérum que l’IgG."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IgG prédomine dans le sérum et les espaces extravasculaires. L’IgA est le deuxième isotype le plus abondant. L’IgE est l’immunoglobuline sérique la plus rare."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle immunoglobuline est décrite comme l’immunoglobuline sérique la plus rare ?",
+      "choices": [
+        "IgA",
+        "IgD",
+        "IgE",
+        "IgM"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que l’IgE est l’immunoglobuline sérique la plus rare."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle classe d’immunoglobuline possède une pièce sécrétoire dans sa forme sécrétoire ?",
+      "choices": [
+        "IgA",
+        "IgD",
+        "IgE",
+        "IgG"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’IgA sécrétoire comporte une chaîne J et une pièce sécrétoire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle sous-classe d’IgG est explicitement signalée comme ne fixant pas le complément et ayant un passage transplacentaire faible ?",
+      "choices": [
+        "IgG1",
+        "IgG2",
+        "IgG3",
+        "IgG4"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’IgG4 est l’exception mentionnée pour la fixation du complément et son passage transplacentaire est faible."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cellule est impliquée dans la cytotoxicité cellulaire dépendante des anticorps associée aux IgG ?",
+      "choices": [
+        "Cellule NK",
+        "Mastocyte",
+        "Basophile",
+        "Lymphocyte B naïf"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les IgG participent à la cytotoxicité cellulaire dépendante des anticorps par les cellules NK."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme est impliquée à la fois dans l’hypermutation somatique et la commutation isotypique ?",
+      "choices": [
+        "AID",
+        "C1q",
+        "C3b",
+        "C4b"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "AID, activation-induced cytidine deaminase, est impliquée dans l’hypermutation somatique et la commutation isotypique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quels segments génétiques sont recombinés pour former les chaînes légères des immunoglobulines ?",
+      "choices": [
+        "Segments V et J",
+        "Segments V, D et J",
+        "Segments C1q et C3b",
+        "Segments CH3 et CH4"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les chaînes légères résultent de la recombinaison des segments V et J, contrairement aux chaînes lourdes qui utilisent V, D et J."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un raisonnement immunologique centré sur les IgE, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "Elles interviennent notamment dans la défense contre les helminthes.",
+        "Elles interagissent avec des récepteurs Fcε, notamment de haute affinité.",
+        "Elles ne fixent pas le complément.",
+        "Elles activent efficacement la voie classique du complément."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte associe les IgE à la défense contre les helminthes, aux récepteurs Fcε de haute affinité et précise qu’elles ne fixent pas le complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les mécanismes suivants, lesquels participent au contrôle des micro-organismes par les immunoglobulines selon le texte ?",
+      "choices": [
+        "Neutralisation des micro-organismes.",
+        "Opsonisation facilitant l’ingestion par les cellules phagocytaires.",
+        "Participation à la lyse de certains micro-organismes.",
+        "Variation du taux selon le sexe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La neutralisation, l’opsonisation et la lyse de certains micro-organismes sont des fonctions des immunoglobulines. La variation selon le sexe est une variation physiologique du taux, non un mécanisme antimicrobien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cibles pouvant être neutralisées par les immunoglobulines ou par la sérothérapie, quelles propositions sont exactes ?",
+      "choices": [
+        "Des micro-organismes.",
+        "Des toxines.",
+        "Un virus.",
+        "Un venin."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite la neutralisation des micro-organismes et des toxines parmi les fonctions, et la sérothérapie pour neutraliser notamment un virus ou un venin."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du lien entre immunoglobulines et complément dans le texte fourni, quelles propositions sont justes ?",
+      "choices": [
+        "Les immunoglobulines peuvent activer la voie classique du complément.",
+        "Cette activation peut participer à l’opsonisation.",
+        "Cette activation peut participer à la lyse de certains micro-organismes.",
+        "Les IgE sont décrites comme ne fixant pas le complément."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne l’activation de la voie classique du complément, sa participation à l’opsonisation et à la lyse de certains micro-organismes, ainsi que l’absence de fixation du complément par les IgE."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions correspondent à une intervention cellulaire dans les fonctions des immunoglobulines ?",
+      "choices": [
+        "Opsonisation facilitant l’ingestion par les cellules phagocytaires.",
+        "Cytotoxicité cellulaire dépendante des anticorps.",
+        "Interaction avec les récepteurs Fcε.",
+        "Recherche d’antigènes solubles in vitro."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’opsonisation implique les phagocytes, la cytotoxicité dépendante des anticorps implique des cellules effectrices, et les IgE interagissent avec les récepteurs Fcε. La recherche d’antigènes solubles est une application diagnostique in vitro."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’interprétation d’un dosage d’immunoglobulines, quels paramètres relèvent d’une variation physiologique selon le texte ?",
+      "choices": [
+        "L’âge.",
+        "Le sexe.",
+        "Les infections.",
+        "Les gammapathies monoclonales."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte indique que le taux des immunoglobulines varie physiologiquement selon l’âge et le sexe. Les infections et les gammapathies monoclonales sont citées parmi les causes d’augmentation."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une hypergammaglobulinémie, quels contextes sont explicitement compatibles avec une augmentation des immunoglobulines ?",
+      "choices": [
+        "Infections.",
+        "Processus inflammatoires.",
+        "Maladies auto-immunes.",
+        "Gammapathies monoclonales."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre situations sont toutes citées dans le texte comme causes d’augmentation des immunoglobulines."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations orientent vers une diminution des immunoglobulines par perte ou destruction tissulaire selon la liste fournie ?",
+      "choices": [
+        "Pertes rénales.",
+        "Pertes digestives.",
+        "Brûlures étendues.",
+        "Maladies auto-immunes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les pertes rénales, les pertes digestives et les brûlures étendues sont citées parmi les causes de diminution. Les maladies auto-immunes sont citées parmi les causes d’augmentation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions correspondent à des causes de baisse des immunoglobulines liées à un déficit de production ou à un déficit immunitaire ?",
+      "choices": [
+        "Déficits immunitaires.",
+        "Défaut de synthèse.",
+        "Infections.",
+        "Processus inflammatoires."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne les déficits immunitaires et le défaut de synthèse comme causes de diminution. Les infections et les processus inflammatoires sont associés à une augmentation."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles relèvent d’applications diagnostiques in vitro des immunoglobulines ?",
+      "choices": [
+        "Recherche d’antigènes solubles.",
+        "Recherche d’antigènes particulaires.",
+        "Sérodiagnostic.",
+        "Immunoscintigraphie visualisée in vivo par imagerie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La recherche d’antigènes solubles ou particulaires in vitro et le sérodiagnostic sont des applications diagnostiques in vitro. L’immunoscintigraphie est visualisée in vivo."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments décrivent correctement l’immunoscintigraphie telle qu’elle est présentée dans le texte ?",
+      "choices": [
+        "Elle utilise des anticorps comme sondes spécifiques.",
+        "Les anticorps peuvent être marqués par fluorescence.",
+        "Les anticorps peuvent être marqués par une radioactivité faible.",
+        "Elle correspond à une sérothérapie neutralisant un venin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’immunoscintigraphie utilise des anticorps comme sondes spécifiques marquées par fluorescence ou radioactivité faible, visualisées in vivo. La neutralisation d’un venin relève de la sérothérapie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions correspondent à des applications thérapeutiques des immunoglobulines dans le texte ?",
+      "choices": [
+        "Sérothérapie destinée à neutraliser un antigène bactérien.",
+        "Sérothérapie destinée à neutraliser une toxine.",
+        "Administration d’immunoglobulines intraveineuses.",
+        "Recherche d’antigènes particulaires in vitro."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sérothérapie et l’administration d’immunoglobulines intraveineuses sont des applications thérapeutiques. La recherche d’antigènes particulaires in vitro est diagnostique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la distinction diagnostic versus traitement, quelles propositions appartiennent au versant diagnostique ?",
+      "choices": [
+        "Recherche d’antigènes solubles in vitro.",
+        "Sérodiagnostic.",
+        "Administration d’immunoglobulines intraveineuses.",
+        "Sérothérapie contre une toxine."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La recherche d’antigènes solubles in vitro et le sérodiagnostic sont diagnostiques. Les immunoglobulines intraveineuses et la sérothérapie sont thérapeutiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre contexte clinique et variation attendue des immunoglobulines sont exactes selon le texte ?",
+      "choices": [
+        "Infection : augmentation des immunoglobulines.",
+        "Brûlures étendues : diminution des immunoglobulines.",
+        "Pertes rénales : diminution des immunoglobulines.",
+        "Maladie auto-immune : augmentation des immunoglobulines."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces associations sont conformes au texte : infections et maladies auto-immunes augmentent les immunoglobulines, tandis que brûlures étendues et pertes rénales les diminuent."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise spécifiquement les IgE vis-à-vis du complément dans le texte ?",
+      "choices": [
+        "Elles ne fixent pas le complément.",
+        "Elles activent la voie classique du complément.",
+        "Elles participent toujours à la lyse par le complément.",
+        "Elles constituent le principal facteur d’opsonisation par le complément."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que les IgE ne fixent pas le complément."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est un facteur physiologique de variation du taux des immunoglobulines ?",
+      "choices": [
+        "Une infection.",
+        "Le sexe.",
+        "Une gammapathie monoclonale.",
+        "Une perte digestive."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le sexe est cité avec l’âge comme facteur physiologique de variation. Les autres propositions correspondent à des contextes pathologiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les situations suivantes, laquelle est classée dans les causes d’augmentation des immunoglobulines ?",
+      "choices": [
+        "Défaut de synthèse.",
+        "Pertes rénales.",
+        "Gammapathie monoclonale.",
+        "Brûlures étendues."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les gammapathies monoclonales sont citées comme causes d’augmentation des immunoglobulines. Les autres propositions sont des causes de diminution."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cause de diminution des immunoglobulines correspond explicitement à une perte par le tube digestif ?",
+      "choices": [
+        "Pertes digestives.",
+        "Processus inflammatoires.",
+        "Maladies auto-immunes.",
+        "Infections."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les pertes digestives sont listées parmi les causes de diminution des immunoglobulines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle application est diagnostique et réalisée in vitro selon le texte ?",
+      "choices": [
+        "Administration d’immunoglobulines intraveineuses.",
+        "Sérothérapie antivenimeuse.",
+        "Sérodiagnostic.",
+        "Neutralisation d’un virus par sérothérapie."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le sérodiagnostic est une application diagnostique. Les autres propositions relèvent du traitement."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à une application thérapeutique et non diagnostique des immunoglobulines ?",
+      "choices": [
+        "Recherche d’antigènes solubles.",
+        "Recherche d’antigènes particulaires.",
+        "Immunoscintigraphie.",
+        "Administration d’immunoglobulines intraveineuses."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’administration d’immunoglobulines intraveineuses est thérapeutique. Les autres propositions appartiennent aux applications diagnostiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes solubles des immunoglobulines, quelles localisations sont explicitement mentionnées ?",
+      "choices": [
+        "Le plasma",
+        "Les liquides extravasculaires",
+        "Les sécrétions",
+        "Uniquement les organes lymphoïdes secondaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les immunoglobulines solubles sont présentes dans le plasma, les liquides extravasculaires et les sécrétions. Elles ne sont pas limitées aux organes lymphoïdes secondaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations chaîne lourde–classe ou sous-classe d’immunoglobuline sont correctes ?",
+      "choices": [
+        "La chaîne lourde γ définit les IgG, comportant quatre sous-classes",
+        "La chaîne lourde α définit les IgA, comportant deux sous-classes",
+        "La chaîne lourde μ définit les IgE",
+        "La chaîne lourde ε définit les IgM"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les IgG sont définies par la chaîne γ et comportent IgG1 à IgG4. Les IgA sont définies par la chaîne α et comportent IgA1 et IgA2. Les chaînes μ et ε définissent respectivement IgM et IgE."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation en domaines des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Une chaîne lourde comporte un domaine variable et trois ou quatre domaines constants",
+        "Une chaîne légère comporte un domaine variable et un domaine constant",
+        "Un domaine supplémentaire CH4 est mentionné pour les IgM et les IgE",
+        "Toutes les classes d’immunoglobulines possèdent obligatoirement un domaine CH4"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chaînes lourdes possèdent un domaine variable et 3 ou 4 domaines constants ; les chaînes légères possèdent un domaine variable et un domaine constant. Le domaine CH4 supplémentaire est cité pour IgM et IgE, pas pour toutes les classes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la spécificité antigénique au cours de la réponse B, quelles propositions sont justes ?",
+      "choices": [
+        "Un lymphocyte B donné produit des immunoglobulines reconnaissant un seul épitope",
+        "La commutation isotypique conserve la même spécificité antigénique",
+        "L’hypermutation somatique peut modifier l’affinité de liaison à l’antigène",
+        "La commutation isotypique modifie nécessairement le paratope afin de reconnaître un nouvel antigène"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un LB donné a une seule spécificité anticorps. La commutation isotypique change la classe produite sans changer la spécificité. L’hypermutation somatique peut modifier l’affinité de liaison."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des régions hypervariables et charpentes des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les CDR déterminent la complémentarité avec l’antigène",
+        "Les régions FR sont des régions charpentes",
+        "La variabilité idiotypique dépend des régions hypervariables",
+        "La variabilité allotypique correspond aux régions CDR impliquées dans la reconnaissance de l’antigène"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les CDR sont les régions hypervariables impliquées dans la complémentarité antigénique. Les FR sont des régions charpentes relativement invariantes. L’allotypie correspond à des variations alléliques interindividuelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le siège et les mécanismes de diversification des immunoglobulines, quelles propositions sont correctes ?",
+      "choices": [
+        "La recombinaison V, D et J des chaînes lourdes relève de la diversité centrale",
+        "La recombinaison V et J des chaînes légères relève de la diversité centrale",
+        "L’hypermutation somatique relève de la diversité périphérique",
+        "La commutation isotypique survient dans les organes lymphoïdes centraux selon le texte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diversité centrale repose sur les recombinaisons VDJ pour les chaînes lourdes et VJ pour les chaînes légères. La diversité périphérique comprend l’hypermutation somatique et la commutation isotypique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les exceptions fonctionnelles au sein des sous-classes d’IgG, quelles propositions sont exactes ?",
+      "choices": [
+        "IgG4 est signalée comme ne fixant pas le complément",
+        "IgG2 et IgG4 sont signalées comme n’interagissant pas avec les récepteurs Fc",
+        "Toutes les sous-classes d’IgG ont un passage transplacentaire identique",
+        "Les IgG participent à la cytotoxicité cellulaire dépendante des anticorps par les cellules NK"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "IgG4 fait exception pour la fixation du complément et a un passage transplacentaire faible. IgG2 et IgG4 font exception pour l’interaction avec les récepteurs Fc. Les IgG participent à l’ADCC via les cellules NK."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’IgM, quelles caractéristiques sont exactes ?",
+      "choices": [
+        "Elle est pentamérique sous forme sérique",
+        "Elle possède une chaîne J",
+        "Elle possède un domaine supplémentaire CH4",
+        "Sa forme membranaire de récepteur de surface est décrite comme pentamérique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IgM sérique est pentamérique, possède une chaîne J et un domaine CH4 supplémentaire. Le texte précise qu’elle peut exister comme récepteur membranaire, sans décrire cette forme comme pentamérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes sérique et sécrétoire de l’IgA, quelles propositions sont justes ?",
+      "choices": [
+        "La forme sérique est monomérique",
+        "La forme sécrétoire est dimérique",
+        "La forme sécrétoire comporte une chaîne J et une pièce sécrétoire",
+        "L’IgA active le complément par la voie classique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IgA sérique est monomérique, l’IgA sécrétoire est dimérique avec chaîne J et pièce sécrétoire. Elle n’active pas le complément par la voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les IgD et IgE, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "Les deux sont de structure monomérique",
+        "L’IgD possède une portion transmembranaire et peut servir de récepteur de surface des lymphocytes B",
+        "L’IgE interagit avec les mastocytes et les basophiles",
+        "Les deux fixent le complément"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "IgD et IgE sont monomériques. L’IgD est un récepteur de surface des LB et possède une portion transmembranaire. L’IgE interagit avec les mastocytes et basophiles. L’IgD ne fixe pas le complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les régions fonctionnelles des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les régions variables des chaînes lourdes et légères portent le paratope",
+        "Les régions constantes interviennent dans la fixation du complément",
+        "Les régions constantes interviennent dans le passage transmembranaire",
+        "Le fragment Fab est le fragment cristallisable impliqué dans l’interaction avec les cellules effectrices"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le paratope est porté par les régions variables. Les régions constantes portent les fonctions effectrices : complément, passage transmembranaire et récepteurs cellulaires. Le fragment cristallisable est le Fc, non le Fab."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes appartiennent à l’origine génétique de la diversité des immunoglobulines telle qu’elle est listée ?",
+      "choices": [
+        "La diversité combinatoire",
+        "La diversité jonctionnelle",
+        "L’hypermutation somatique",
+        "Le passage transplacentaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diversité des immunoglobulines repose sur la diversité combinatoire, la diversité jonctionnelle, l’hypermutation somatique et la commutation isotypique. Le passage transplacentaire est une propriété des IgG."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la fixation du complément par les IgG, quels éléments sont corrects ?",
+      "choices": [
+        "C1q est cité dans cette fixation",
+        "C3b est cité dans cette fixation",
+        "C4b est cité dans cette fixation",
+        "IgG4 est incluse parmi les sous-classes fixant le complément"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique une fixation du complément par les IgG via C1q, C3b et C4b, avec exception d’IgG4."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sites de présence de l’IgA dans les sécrétions, quelles propositions sont exactes ?",
+      "choices": [
+        "Les larmes",
+        "La salive",
+        "Les sécrétions gastriques et pulmonaires",
+        "Une présence exclusivement sérique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IgA est la principale immunoglobuline des sécrétions et se trouve notamment dans les larmes, la salive, les sécrétions gastriques et pulmonaires. Elle n’est pas exclusivement sérique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la masse moléculaire approximative d’une chaîne légère d’immunoglobuline selon le texte ?",
+      "choices": [
+        "25 kDa",
+        "50 kDa",
+        "75 kDa",
+        "150 kDa"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les chaînes légères identiques ont une masse approximative de 25 kDa."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel isotype est décrit comme le deuxième plus abondant après les IgG ?",
+      "choices": [
+        "IgM",
+        "IgA",
+        "IgD",
+        "IgE"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’IgA est décrite comme le deuxième isotype le plus abondant après IgG."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel fragment est obtenu après clivage d’une immunoglobuline par la pepsine ?",
+      "choices": [
+        "Un fragment F(ab’)₂",
+        "Deux fragments Fc intacts",
+        "Deux fragments Fab et un fragment Fc",
+        "Une chaîne lourde isolée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Après clivage par la pepsine, une immunoglobuline donne un fragment F(ab’)₂ et un fragment pFc’."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel isotype possède un fort pouvoir d’agglutination ?",
+      "choices": [
+        "IgG",
+        "IgA",
+        "IgM",
+        "IgD"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’IgM est caractérisée par un fort pouvoir d’agglutination."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle variabilité correspond à des déterminants antigéniques liés à des variations alléliques interindividuelles ?",
+      "choices": [
+        "Variabilité isotypique",
+        "Variabilité allotypique",
+        "Variabilité idiotypique",
+        "Diversité jonctionnelle"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La variabilité allotypique correspond à des déterminants antigéniques liés à des variations alléliques interindividuelles chez certains individus d’une même espèce."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle classe d’immunoglobuline est décrite comme médiateur de l’allergie ?",
+      "choices": [
+        "IgA",
+        "IgD",
+        "IgE",
+        "IgM"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’IgE interagit avec les mastocytes et les basophiles et est décrite comme médiateur de l’allergie."
+    },
+    {
+      "type": "QCM",
+      "question": "En séparant les effets directs de neutralisation des autres fonctions effectrices des immunoglobulines, quelles propositions correspondent à une neutralisation explicitement citée ?",
+      "choices": [
+        "Neutralisation des micro-organismes",
+        "Neutralisation des toxines",
+        "Opsonisation facilitant l’ingestion par les cellules phagocytaires",
+        "Cytotoxicité cellulaire dépendante des anticorps"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte cite comme fonctions de neutralisation : la neutralisation des micro-organismes et celle des toxines. L’opsonisation et la cytotoxicité cellulaire dépendante des anticorps sont d’autres fonctions effectrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les fonctions des immunoglobulines, lesquelles impliquent explicitement une intervention cellulaire selon le texte ?",
+      "choices": [
+        "Opsonisation facilitant l’ingestion par les cellules phagocytaires",
+        "Cytotoxicité cellulaire dépendante des anticorps",
+        "Neutralisation des toxines",
+        "Recherche d’antigènes solubles in vitro"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne les cellules phagocytaires dans l’opsonisation et une cytotoxicité cellulaire dépendante des anticorps. La neutralisation des toxines et la recherche d’antigènes in vitro ne décrivent pas ici une intervention cellulaire effectrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les fonctions liées au complément ou à ses conséquences, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Activation de la voie classique du complément",
+        "Participation à l’opsonisation",
+        "Participation à la lyse de certains micro-organismes",
+        "Neutralisation d’un venin par sérodiagnostic"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’activation de la voie classique du complément, la participation à l’opsonisation et la lyse de certains micro-organismes. La neutralisation d’un venin relève de la sérothérapie, pas du sérodiagnostic."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer les applications diagnostiques des applications thérapeutiques des immunoglobulines, quelles associations sont exactes ?",
+      "choices": [
+        "Recherche d’antigènes solubles ou particulaires in vitro : application diagnostique",
+        "Sérodiagnostic : application diagnostique",
+        "Sérothérapie neutralisant une toxine : application thérapeutique",
+        "Administration d’immunoglobulines intraveineuses : application thérapeutique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces associations reprennent la classification du texte : recherche d’antigènes et sérodiagnostic pour le diagnostic ; sérothérapie et immunoglobulines intraveineuses pour le traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’immunoscintigraphie telle qu’elle est décrite, quels éléments appartiennent au procédé ?",
+      "choices": [
+        "Utilisation d’anticorps comme sondes spécifiques",
+        "Marquage par fluorescence ou radioactivité faible",
+        "Visualisation in vivo par imagerie",
+        "Neutralisation thérapeutique d’un virus ou d’un venin"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’immunoscintigraphie utilise des anticorps comme sondes spécifiques marquées par fluorescence ou radioactivité faible, visualisées in vivo par imagerie. La neutralisation d’un virus ou d’un venin relève de la sérothérapie."
+    },
+    {
+      "type": "QCM",
+      "question": "Avant d’interpréter une variation du taux des immunoglobulines comme pathologique, quels paramètres physiologiques doivent être considérés selon le texte ?",
+      "choices": [
+        "L’âge",
+        "Le sexe",
+        "Une infection",
+        "Une gammapathie monoclonale"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que le taux des immunoglobulines varie physiologiquement selon l’âge et le sexe. Les infections et gammapathies monoclonales sont citées parmi les causes d’augmentation pathologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une augmentation des immunoglobulines, quels cadres nosologiques sont explicitement cités en dehors des gammapathies monoclonales ?",
+      "choices": [
+        "Infections",
+        "Processus inflammatoires",
+        "Maladies auto-immunes",
+        "Pertes rénales"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les infections, processus inflammatoires et maladies auto-immunes sont cités comme causes d’augmentation des immunoglobulines. Les pertes rénales sont citées parmi les causes de diminution."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations correspondent à une diminution des immunoglobulines par défaut de production ou déficit immunitaire selon la liste fournie ?",
+      "choices": [
+        "Déficits immunitaires",
+        "Défaut de synthèse",
+        "Infections",
+        "Processus inflammatoires"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les déficits immunitaires et le défaut de synthèse sont des causes de diminution. Les infections et processus inflammatoires sont cités parmi les causes d’augmentation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles causes de diminution des immunoglobulines correspondent à des pertes ou à des situations de déperdition mentionnées dans le texte ?",
+      "choices": [
+        "Pertes rénales",
+        "Pertes digestives",
+        "Brûlures étendues",
+        "Maladies auto-immunes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les pertes rénales, pertes digestives et brûlures étendues sont citées comme causes de diminution. Les maladies auto-immunes sont citées parmi les causes d’augmentation."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le cadre thérapeutique, quelles cibles peuvent être neutralisées par la sérothérapie selon le texte ?",
+      "choices": [
+        "Un antigène bactérien",
+        "Une toxine",
+        "Un virus",
+        "Un venin"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La sérothérapie est indiquée dans le texte pour neutraliser un antigène bactérien, une toxine, un virus ou un venin."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du profil fonctionnel associant défense anti-helminthique et récepteurs Fcε, quelles propositions sont exactes d’après le texte ?",
+      "choices": [
+        "Il participe notamment à la défense contre les helminthes",
+        "Il interagit avec les récepteurs Fcε",
+        "L’interaction concerne notamment des récepteurs de haute affinité",
+        "Il ne fixe pas le complément"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte associe ce profil à une action notamment contre les helminthes, à l’interaction avec les récepteurs Fcε, notamment de haute affinité, et à l’absence de fixation du complément."
+    },
+    {
+      "type": "QCM",
+      "question": "En analysant l’opsonisation, quels éléments sont explicitement compatibles avec le texte ?",
+      "choices": [
+        "Elle facilite l’ingestion par les cellules phagocytaires",
+        "Elle fait partie des fonctions des immunoglobulines",
+        "Le texte mentionne aussi une participation à l’opsonisation",
+        "Elle correspond au sérodiagnostic"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que l’opsonisation facilite l’ingestion par les cellules phagocytaires et la cite parmi les fonctions des immunoglobulines. Le sérodiagnostic est une application diagnostique, non une fonction d’opsonisation."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre contexte et sens de variation des immunoglobulines sont exactes selon le texte ?",
+      "choices": [
+        "Pertes digestives : diminution",
+        "Déficits immunitaires : diminution",
+        "Gammapathies monoclonales : augmentation",
+        "Processus inflammatoires : augmentation"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces associations sont conformes : les pertes digestives et déficits immunitaires diminuent les immunoglobulines ; les gammapathies monoclonales et processus inflammatoires les augmentent."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles relèvent d’un usage in vivo des anticorps ou immunoglobulines selon le texte ?",
+      "choices": [
+        "Immunoscintigraphie visualisée par imagerie",
+        "Sérothérapie neutralisante",
+        "Administration d’immunoglobulines intraveineuses",
+        "Recherche d’antigènes solubles ou particulaires in vitro"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’immunoscintigraphie est visualisée in vivo, la sérothérapie et les immunoglobulines intraveineuses sont thérapeutiques. La recherche d’antigènes solubles ou particulaires est explicitement in vitro."
+    },
+    {
+      "type": "QCS",
+      "question": "Un patient nécessite une neutralisation d’un venin par immunoglobulines. Quelle application correspond à cette indication selon le texte ?",
+      "choices": [
+        "Recherche d’antigènes particulaires in vitro",
+        "Sérodiagnostic",
+        "Immunoscintigraphie",
+        "Sérothérapie"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La sérothérapie est l’application thérapeutique citée pour neutraliser un antigène bactérien, une toxine, un virus ou un venin."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement le marquage et la visualisation utilisés en immunoscintigraphie selon le texte ?",
+      "choices": [
+        "Anticorps non marqués visualisés uniquement in vitro",
+        "Anticorps marqués par fluorescence ou radioactivité faible, visualisés in vivo par imagerie",
+        "Immunoglobulines intraveineuses utilisées comme test de sérodiagnostic",
+        "Anticorps utilisés pour neutraliser une toxine sans imagerie"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte définit l’immunoscintigraphie comme l’utilisation d’anticorps sondes spécifiques marquées par fluorescence ou faible radioactivité, visualisées in vivo par imagerie."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les situations suivantes, laquelle est classée comme cause de diminution et non d’augmentation des immunoglobulines ?",
+      "choices": [
+        "Infection",
+        "Processus inflammatoire",
+        "Maladie auto-immune",
+        "Perte digestive"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Les pertes digestives sont citées comme cause de diminution. Les infections, processus inflammatoires et maladies auto-immunes sont des causes d’augmentation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle fonction des immunoglobulines facilite l’ingestion par les cellules phagocytaires ?",
+      "choices": [
+        "Opsonisation",
+        "Sérodiagnostic",
+        "Immunoscintigraphie",
+        "Neutralisation d’un venin"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’opsonisation est décrite comme facilitant l’ingestion par les cellules phagocytaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple regroupe exclusivement des facteurs physiologiques de variation du taux des immunoglobulines selon le texte ?",
+      "choices": [
+        "Âge et sexe",
+        "Infection et âge",
+        "Sexe et perte rénale",
+        "Défaut de synthèse et brûlures étendues"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite uniquement l’âge et le sexe comme facteurs physiologiques de variation du taux des immunoglobulines."
+    },
+    {
+      "type": "QCS",
+      "question": "Concernant le profil associé aux récepteurs Fcε, quelle proposition contredit le texte ?",
+      "choices": [
+        "Il interagit avec les récepteurs Fcε",
+        "Il peut impliquer des récepteurs de haute affinité",
+        "Il fixe le complément",
+        "Il intervient notamment contre les helminthes"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que ce profil ne fixe pas le complément. Les autres propositions sont conformes au texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’immunité humorale, quelles propositions décrivent correctement les immunoglobulines selon le texte ?",
+      "choices": [
+        "Elles se lient spécifiquement à un antigène par leur fonction anticorps.",
+        "Elles ciblent principalement des éléments extracellulaires.",
+        "Elles peuvent être présentes sous forme soluble dans le plasma et les sécrétions.",
+        "Elles sont produites par un lymphocyte B donné avec plusieurs spécificités antigéniques simultanées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les immunoglobulines assurent la fonction anticorps, sont médiatrices de l’immunité humorale à cibles surtout extracellulaires et existent sous forme soluble dans plusieurs liquides biologiques. Un lymphocyte B donné produit des Ig d’une seule spécificité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le couple paratope-régions variables des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Le paratope correspond au site de reconnaissance spécifique de l’antigène.",
+        "Les régions variables des chaînes lourdes et légères participent à la reconnaissance antigénique.",
+        "Les CDR déterminent la complémentarité avec l’antigène.",
+        "Les régions constantes des chaînes légères portent le paratope."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le paratope est porté par les régions variables des chaînes lourdes et légères. Les CDR sont les régions hypervariables impliquées dans la complémentarité antigénique. Les régions constantes ne portent pas le paratope."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’organisation en domaines et de certaines particularités CH des immunoglobulines, quelles propositions sont justes ?",
+      "choices": [
+        "Une chaîne lourde comporte un domaine variable et 3 ou 4 domaines constants.",
+        "Une chaîne légère comporte un domaine variable et un domaine constant.",
+        "Les IgM possèdent un domaine supplémentaire CH4.",
+        "Les IgE possèdent un domaine supplémentaire CH4."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les chaînes lourdes comportent 1 domaine variable et 3 ou 4 domaines constants, les chaînes légères 1 domaine variable et 1 constant. Les IgM et IgE sont citées comme possédant un domaine supplémentaire CH4."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fragments obtenus après digestion enzymatique des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "La papaïne donne deux fragments Fab et un fragment Fc.",
+        "La pepsine donne un fragment F(ab’)₂ et un fragment pFc’.",
+        "Le fragment Fab est impliqué dans la liaison à l’antigène.",
+        "La papaïne donne directement un fragment F(ab’)₂."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La papaïne produit 2 Fab et 1 Fc. La pepsine produit F(ab’)₂ et pFc’. Le Fab est le fragment de liaison à l’antigène."
+    },
+    {
+      "type": "QCM",
+      "question": "Après commutation isotypique d’un lymphocyte B activé, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "La classe d’immunoglobuline produite peut être modifiée.",
+        "La spécificité antigénique est conservée.",
+        "Le mécanisme appartient à la diversité périphérique.",
+        "La commutation isotypique impose un changement d’épitope reconnu."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La commutation isotypique modifie la classe d’Ig produite tout en conservant la même spécificité antigénique. Elle survient dans les organes lymphoïdes secondaires et appartient à la diversité périphérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les exceptions fonctionnelles signalées parmi les sous-classes d’IgG, quelles propositions sont exactes ?",
+      "choices": [
+        "IgG4 a un passage transplacentaire faible.",
+        "IgG4 ne fixe pas le complément selon le texte.",
+        "IgG2 et IgG4 font exception pour l’interaction avec les récepteurs Fc.",
+        "Toutes les sous-classes d’IgG ont une fixation identique du complément et des récepteurs Fc."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise un passage transplacentaire faible pour IgG4, une absence de fixation du complément pour IgG4, et une absence d’interaction avec les récepteurs Fc pour IgG2 et IgG4."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’abondance relative des classes d’immunoglobulines, quelles propositions sont correctes ?",
+      "choices": [
+        "Les IgG sont l’isotype le plus abondant dans le sérum.",
+        "Les IgG sont l’isotype le plus abondant dans les espaces extravasculaires.",
+        "Les IgA représentent le deuxième isotype le plus abondant après les IgG.",
+        "Les IgE sont décrites comme l’immunoglobuline sérique la plus rare."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte attribue aux IgG la prédominance sérique et extravasculaire, aux IgA la deuxième place après les IgG, et aux IgE le statut d’immunoglobuline sérique la plus rare."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse d’une immunoglobuline prédominant dans les sécrétions, quelles propositions orientent vers l’IgA ?",
+      "choices": [
+        "Elle est la principale immunoglobuline des sécrétions.",
+        "Sa forme sécrétoire est dimérique.",
+        "Elle possède une chaîne J et une pièce sécrétoire dans sa forme sécrétoire.",
+        "Elle active le complément par la voie classique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’IgA est la principale immunoglobuline des sécrétions, dimérique en forme sécrétoire, avec chaîne J et pièce sécrétoire. Elle n’active pas le complément par la voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les IgM au cours du développement et de la réponse immunitaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont le premier isotype produit par le fœtus.",
+        "Elles sont le premier isotype produit lors de la réponse des lymphocytes B.",
+        "Elles présentent une structure pentamérique sous forme sérique.",
+        "Elles sont dépourvues de chaîne J sous forme sérique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les IgM sont les premières produites par le fœtus et lors de la réponse des lymphocytes B. Sous forme sérique, elles sont pentamériques et possèdent une chaîne J."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les immunoglobulines pouvant être exprimées comme récepteurs de surface des lymphocytes B, quelles propositions sont justes ?",
+      "choices": [
+        "L’IgD est un récepteur de surface des lymphocytes B.",
+        "L’IgM peut exister comme récepteur de surface des lymphocytes B sous forme membranaire.",
+        "L’IgD possède une portion transmembranaire.",
+        "L’IgA sécrétoire est décrite comme le récepteur de surface principal des lymphocytes B."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne l’IgD comme récepteur de surface avec portion transmembranaire, et l’IgM comme pouvant exister sous forme membranaire à la surface des lymphocytes B. L’IgA sécrétoire relève des sécrétions."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les chaînes lourdes, chaînes légères et sous-classes, quelles associations sont correctes ?",
+      "choices": [
+        "Les chaînes légères peuvent être de type κ ou λ.",
+        "Les IgA possèdent deux sous-classes : IgA1 et IgA2.",
+        "Les IgG possèdent quatre sous-classes : IgG1, IgG2, IgG3 et IgG4.",
+        "La chaîne légère κ définit l’isotype IgE."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chaînes légères sont κ ou λ. Les IgA ont deux sous-classes et les IgG quatre sous-classes. L’IgE est définie par la chaîne lourde ε, non par une chaîne légère."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la diversité centrale des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient dans les organes lymphoïdes centraux.",
+        "Elle implique la recombinaison V, D et J pour les chaînes lourdes.",
+        "Elle implique la recombinaison V et J pour les chaînes légères.",
+        "Elle repose exclusivement sur l’hypermutation somatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diversité centrale se déroule dans les organes lymphoïdes centraux et repose notamment sur les recombinaisons VDJ des chaînes lourdes et VJ des chaînes légères, ainsi que les diversités combinatoire et jonctionnelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conséquences de l’hypermutation somatique sur la réponse B, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient dans les lymphocytes B activés.",
+        "Elle introduit des mutations ponctuelles dans les régions variables réarrangées.",
+        "Elle peut modifier l’affinité de liaison à l’antigène.",
+        "Elle sélectionne préférentiellement les lymphocytes B dont le BCR a une meilleure affinité pour l’antigène."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’hypermutation somatique concerne les lymphocytes B activés, introduit des mutations ponctuelles dans les régions variables réarrangées, peut modifier l’affinité antigénique et permet la sélection des BCR de meilleure affinité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les régions constantes des immunoglobulines et leurs fonctions, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles portent des fonctions effectrices.",
+        "Elles peuvent intervenir dans la fixation du complément.",
+        "Elles peuvent intervenir dans la fixation aux récepteurs cellulaires.",
+        "Elles constituent les CDR déterminant la complémentarité avec l’antigène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les régions constantes portent les fonctions effectrices : fixation du complément, passage transmembranaire et fixation aux récepteurs cellulaires. Les CDR appartiennent aux régions hypervariables."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle classe d’immunoglobuline associe structure pentamérique sérique, chaîne J, fixation du complément et fort pouvoir d’agglutination ?",
+      "choices": [
+        "IgG",
+        "IgM",
+        "IgA",
+        "IgD"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’IgM sérique est pentamérique, possède une chaîne J, fixe le complément et a un fort pouvoir d’agglutination."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle classe d’immunoglobuline est monomérique, très rare dans le sérum, ne fixe pas le complément et intervient comme récepteur de surface des lymphocytes B ?",
+      "choices": [
+        "IgA",
+        "IgE",
+        "IgD",
+        "IgG"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’IgD est monomérique, très rare dans le sérum, ne fixe pas le complément et joue un rôle de récepteur de surface des lymphocytes B."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme est explicitement impliquée dans l’hypermutation somatique et également dans la commutation isotypique ?",
+      "choices": [
+        "AID",
+        "C1q",
+        "C3b",
+        "C4b"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’enzyme AID, activation-induced cytidine deaminase, est mentionnée comme impliquée dans l’hypermutation somatique et la commutation isotypique."
+    },
+    {
+      "type": "QCS",
+      "question": "Après clivage d’une immunoglobuline par la pepsine, quel fragment est obtenu avec le fragment F(ab’)₂ ?",
+      "choices": [
+        "Deux fragments Fc complets",
+        "Un fragment pFc’",
+        "Deux chaînes légères libres",
+        "Un fragment Fab unique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La pepsine donne un fragment F(ab’)₂ et un fragment pFc’."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle immunoglobuline associe interaction avec les mastocytes et basophiles, médiation de l’allergie et rôle dans la défense antiparasitaire ?",
+      "choices": [
+        "IgG",
+        "IgM",
+        "IgA",
+        "IgE"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "L’IgE interagit avec les mastocytes et basophiles, est médiatrice de l’allergie et participe à la défense antiparasitaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement le résultat essentiel d’une commutation isotypique ?",
+      "choices": [
+        "Modification de la classe d’immunoglobuline sans changement de spécificité antigénique",
+        "Modification obligatoire de l’épitope reconnu par le lymphocyte B",
+        "Suppression des régions variables réarrangées",
+        "Transformation d’une chaîne légère κ en chaîne lourde μ"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La commutation isotypique permet à un lymphocyte B de changer la classe d’immunoglobuline produite tout en conservant la même spécificité antigénique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’évaluation d’une baisse du taux des immunoglobulines, quels mécanismes ou contextes sont explicitement cités ?",
+      "choices": [
+        "Déficit immunitaire",
+        "Défaut de synthèse",
+        "Pertes rénales",
+        "Processus inflammatoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les diminutions des immunoglobulines peuvent être liées à un déficit immunitaire, un défaut de synthèse ou des pertes rénales. Les processus inflammatoires sont cités parmi les causes d’augmentation."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les fonctions des immunoglobulines, lesquelles correspondent à une neutralisation directe mentionnée dans le texte ?",
+      "choices": [
+        "Neutralisation des micro-organismes",
+        "Neutralisation des toxines",
+        "Activation de la voie classique du complément",
+        "Cytotoxicité cellulaire dépendante des anticorps"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte distingue la neutralisation des micro-organismes et des toxines des autres fonctions effectrices comme l’activation du complément ou l’ADCC."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets liés au complément dans les fonctions des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les immunoglobulines peuvent activer la voie classique du complément",
+        "Elles participent à l’opsonisation",
+        "Elles participent à la lyse de certains micro-organismes",
+        "Elles interagissent avec les récepteurs Fcε pour activer le complément"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite l’activation de la voie classique, la participation à l’opsonisation et à la lyse de certains micro-organismes. L’interaction Fcε est mentionnée dans un autre contexte et n’est pas décrite comme une activation du complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels cadres cliniques ou biologiques peuvent s’accompagner d’une augmentation des immunoglobulines selon le texte ?",
+      "choices": [
+        "Infections",
+        "Maladies auto-immunes",
+        "Gammapathies monoclonales",
+        "Brûlures étendues"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les infections, maladies auto-immunes et gammapathies monoclonales sont citées comme causes d’augmentation. Les brûlures étendues sont citées parmi les causes de diminution."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les applications diagnostiques réalisées in vitro, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Recherche d’antigènes solubles",
+        "Recherche d’antigènes particulaires",
+        "Sérodiagnostic",
+        "Administration d’immunoglobulines intraveineuses"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les applications diagnostiques in vitro comprennent la recherche d’antigènes solubles ou particulaires et le sérodiagnostic. Les immunoglobulines intraveineuses relèvent du traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’immunoscintigraphie décrite, quels éléments sont exacts ?",
+      "choices": [
+        "Elle utilise des anticorps comme sondes spécifiques",
+        "Les sondes peuvent être marquées par fluorescence",
+        "Les sondes peuvent être marquées par une radioactivité faible",
+        "Elle correspond à une sérothérapie antivenimeuse"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’immunoscintigraphie utilise des anticorps spécifiques marqués par fluorescence ou faible radioactivité et visualisés in vivo par imagerie. Elle n’est pas une sérothérapie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions correspondent à des applications thérapeutiques des immunoglobulines ?",
+      "choices": [
+        "Sérothérapie neutralisant une toxine",
+        "Sérothérapie neutralisant un virus",
+        "Administration d’immunoglobulines intraveineuses",
+        "Recherche in vitro d’antigènes particulaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sérothérapie et l’administration d’immunoglobulines intraveineuses sont thérapeutiques. La recherche d’antigènes in vitro est diagnostique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels paramètres doivent être pris en compte comme variations physiologiques du taux des immunoglobulines ?",
+      "choices": [
+        "Âge",
+        "Sexe",
+        "Pertes digestives",
+        "Gammapathie monoclonale"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le taux des immunoglobulines varie physiologiquement selon l’âge et le sexe. Les pertes digestives et les gammapathies monoclonales relèvent de situations pathologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le profil fonctionnel associé aux récepteurs Fcε dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il existe une interaction avec des récepteurs Fcε",
+        "L’interaction concerne notamment des récepteurs de haute affinité",
+        "Ce profil est associé à une défense contre les helminthes",
+        "Ce profil s’accompagne d’une fixation du complément"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne la défense contre les helminthes, l’interaction avec les récepteurs Fcε notamment de haute affinité et l’absence de fixation du complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le contrôle immunologique des micro-organismes par les immunoglobulines, quels mécanismes sont cités ?",
+      "choices": [
+        "Neutralisation des micro-organismes",
+        "Opsonisation facilitant l’ingestion par les phagocytes",
+        "Lyse de certains micro-organismes",
+        "Pertes rénales d’immunoglobulines"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les immunoglobulines peuvent neutraliser les micro-organismes, favoriser leur ingestion via l’opsonisation et participer à la lyse de certains d’entre eux. Les pertes rénales sont une cause de diminution, non un mécanisme effecteur."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations relèvent d’une diminution des immunoglobulines par perte ou déperdition selon le texte ?",
+      "choices": [
+        "Pertes rénales",
+        "Pertes digestives",
+        "Brûlures étendues",
+        "Maladies auto-immunes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les pertes rénales, digestives et les brûlures étendues sont citées parmi les causes de diminution. Les maladies auto-immunes sont associées à une augmentation."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une indication de neutralisation d’un venin par des immunoglobulines, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Il s’agit d’une application thérapeutique",
+        "La modalité correspond à une sérothérapie",
+        "La finalité est la neutralisation",
+        "La modalité correspond au sérodiagnostic"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La neutralisation d’un venin par sérothérapie est une application thérapeutique. Le sérodiagnostic est une application diagnostique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles cibles peuvent être neutralisées dans le cadre de la sérothérapie selon le texte ?",
+      "choices": [
+        "Antigène bactérien",
+        "Toxine",
+        "Virus",
+        "Venin"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite explicitement la sérothérapie pour neutraliser un antigène bactérien, une toxine, un virus ou un venin."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre contexte et variation des immunoglobulines sont exactes ?",
+      "choices": [
+        "Brûlures étendues — diminution",
+        "Gammapathie monoclonale — augmentation",
+        "Pertes digestives — diminution",
+        "Sexe — cause pathologique d’augmentation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les brûlures étendues et pertes digestives sont associées à une diminution, tandis que les gammapathies monoclonales sont associées à une augmentation. Le sexe est un facteur physiologique de variation."
+    },
+    {
+      "type": "QCS",
+      "question": "Un dosage d’immunoglobulines varie chez deux sujets sans contexte pathologique identifié. Quel facteur physiologique cité peut expliquer cette variation ?",
+      "choices": [
+        "Pertes rénales",
+        "Sexe",
+        "Toxine",
+        "Venin"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le sexe est explicitement cité comme facteur physiologique de variation du taux des immunoglobulines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation est classée dans le texte parmi les causes de diminution des immunoglobulines ?",
+      "choices": [
+        "Infection",
+        "Processus inflammatoire",
+        "Pertes digestives",
+        "Maladie auto-immune"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les pertes digestives sont citées comme cause de diminution. Les infections, processus inflammatoires et maladies auto-immunes sont associés à une augmentation."
+    },
+    {
+      "type": "QCS",
+      "question": "Une technique utilise des anticorps spécifiques marqués, visualisés in vivo par imagerie. Quelle application est décrite ?",
+      "choices": [
+        "Sérodiagnostic",
+        "Immunoscintigraphie",
+        "Sérothérapie",
+        "Administration d’immunoglobulines intraveineuses"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’immunoscintigraphie utilise des anticorps comme sondes spécifiques marquées, visualisées in vivo par imagerie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à une application thérapeutique explicitement citée, indépendante du diagnostic in vitro ?",
+      "choices": [
+        "Recherche d’antigènes solubles",
+        "Recherche d’antigènes particulaires",
+        "Administration d’immunoglobulines intraveineuses",
+        "Immunoscintigraphie"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’administration d’immunoglobulines intraveineuses est une application thérapeutique. Les autres propositions relèvent du diagnostic."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle fonction des immunoglobulines facilite directement l’ingestion des agents ciblés par les cellules phagocytaires ?",
+      "choices": [
+        "Opsonisation",
+        "Sérodiagnostic",
+        "Immunoscintigraphie",
+        "Variation selon l’âge"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’opsonisation facilite l’ingestion par les cellules phagocytaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle propriété est associée dans le texte au profil interagissant avec les récepteurs Fcε ?",
+      "choices": [
+        "Fixation du complément",
+        "Absence de fixation du complément",
+        "Recherche d’antigènes in vitro",
+        "Pertes rénales"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que ce profil ne fixe pas le complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la nature générale des immunoglobulines et leurs formes d'existence, quelles propositions sont exactes ?",
+      "choices": [
+        "Les immunoglobulines sont des glycoprotéines capables de se lier spécifiquement à un antigène.",
+        "La forme soluble des immunoglobulines est limitée exclusivement au plasma.",
+        "Les immunoglobulines membranaires présentes à la surface des lymphocytes B constituent le BCR.",
+        "Les cibles de l'immunité humorale sont principalement intracellulaires."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Les Ig sont des glycoprotéines exerçant la fonction anticorps. Elles existent sous forme membranaire constituant le BCR et sous forme soluble dans le plasma, les liquides extravasculaires et les sécrétions. Les cibles humorales sont principalement extracellulaires."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l'architecture moléculaire de base d'une immunoglobuline, quelles propositions sont justes ?",
+      "choices": [
+        "Elle comporte quatre chaînes polypeptidiques reliées par des ponts disulfures.",
+        "Elle possède deux chaînes lourdes identiques d'environ 50 kDa.",
+        "Elle comporte obligatoirement deux chaînes légères différentes, l'une κ et l'autre λ.",
+        "Sa forme générale est décrite comme une structure en Y."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La structure de base comprend deux chaînes lourdes identiques et deux chaînes légères identiques, reliées par des ponts disulfures, avec une forme générale en Y. Les deux chaînes légères ne sont pas décrites comme obligatoirement différentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l'analyse de la spécificité anticorps d'un lymphocyte B donné, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "Un lymphocyte B donné produit des immunoglobulines ayant une seule spécificité anticorps.",
+        "Cette spécificité correspond à la reconnaissance d'un seul épitope ou déterminant antigénique.",
+        "La commutation isotypique conserve la même spécificité antigénique.",
+        "Un même lymphocyte B produit simultanément des immunoglobulines reconnaissant tous les épitopes possibles."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un lymphocyte B donné est engagé dans une seule spécificité anticorps. La commutation isotypique modifie la classe d'immunoglobuline produite tout en conservant cette spécificité antigénique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les domaines des chaînes lourdes et légères et la reconnaissance antigénique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les chaînes lourdes possèdent un domaine variable et trois ou quatre domaines constants.",
+        "Les chaînes légères possèdent un domaine variable et un domaine constant.",
+        "Le paratope est porté exclusivement par les régions constantes.",
+        "Les régions variables des chaînes lourdes et légères participent au site de reconnaissance spécifique de l'antigène."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les domaines variables des chaînes lourdes et légères portent le paratope. Les régions constantes assurent les fonctions effectrices."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des régions constantes et du fragment Fc des immunoglobulines, quelles propositions sont correctes ?",
+      "choices": [
+        "Les régions constantes portent la fonction de fixation du complément.",
+        "Les régions constantes participent au passage transmembranaire.",
+        "Les régions constantes permettent la fixation aux récepteurs cellulaires.",
+        "Le fragment Fab est le fragment cristallisable impliqué dans l'interaction avec les cellules effectrices."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les régions constantes portent les fonctions effectrices : complément, passage transmembranaire et fixation aux récepteurs cellulaires. Le fragment Fc, et non Fab, est impliqué dans l'interaction avec les cellules effectrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d'un clivage enzymatique d'une immunoglobuline, quelles associations enzyme-fragments sont exactes ?",
+      "choices": [
+        "La papaïne donne deux fragments Fab et un fragment Fc.",
+        "La pepsine donne un fragment F(ab')₂ et un fragment pFc'.",
+        "La papaïne donne un fragment F(ab')₂ et un fragment pFc'.",
+        "La pepsine donne deux fragments Fab totalement séparés et un fragment Fc intact."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La papaïne produit deux Fab et un Fc. La pepsine produit un F(ab')₂ et un pFc'."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les différents niveaux de variabilité antigénique des immunoglobulines, quelles propositions sont justes ?",
+      "choices": [
+        "La variabilité isotypique correspond aux classes et sous-classes définies par la chaîne lourde.",
+        "Les isotypes de chaînes légères sont κ et λ.",
+        "La variabilité allotypique correspond à des déterminants liés à des variations alléliques interindividuelles.",
+        "La variabilité idiotypique est indépendante des régions hypervariables."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La variabilité isotypique concerne les classes et sous-classes, les chaînes légères ont les isotypes κ et λ, et l'allotypie dépend de variations alléliques interindividuelles. L'idiotypie dépend des régions hypervariables."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des CDR et des régions FR des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les CDR correspondent aux régions hypervariables.",
+        "Les CDR déterminent la complémentarité avec l'antigène.",
+        "Les régions FR sont des régions charpentes constituées de résidus relativement invariants.",
+        "Les régions FR correspondent à la pièce sécrétoire de l'IgA."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les CDR sont les régions hypervariables impliquées dans la complémentarité avec l'antigène. Les FR sont des régions charpentes relativement invariantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la localisation et les mécanismes de diversification génétique des immunoglobulines, quelles propositions sont correctes ?",
+      "choices": [
+        "La diversité centrale survient dans les organes lymphoïdes centraux.",
+        "Les chaînes lourdes utilisent une recombinaison des segments V, D et J.",
+        "Les chaînes légères utilisent une recombinaison des segments V, D et J.",
+        "La diversité périphérique comprend l'hypermutation somatique et la commutation isotypique."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La diversité centrale implique les segments VDJ pour les chaînes lourdes et VJ pour les chaînes légères. La diversité périphérique comprend hypermutation somatique et commutation isotypique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l'hypermutation somatique des immunoglobulines, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle est active uniquement dans les lymphocytes B.",
+        "Elle survient dans les lymphocytes B activés.",
+        "Elle introduit des mutations ponctuelles dans les régions variables réarrangées.",
+        "Elle ne dépend pas de l'enzyme AID."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L'hypermutation somatique concerne les lymphocytes B activés, introduit des mutations ponctuelles dans les régions variables réarrangées et dépend notamment de l'enzyme AID."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la commutation isotypique d'un lymphocyte B activé, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet de modifier la classe d'immunoglobuline produite.",
+        "Elle conserve la même spécificité antigénique.",
+        "Elle fait partie de la diversité périphérique survenant dans les organes lymphoïdes secondaires.",
+        "Elle repose sur la recombinaison centrale des segments V, D et J."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La commutation isotypique est un mécanisme périphérique qui change la classe d'Ig produite sans modifier la spécificité antigénique. La recombinaison VDJ appartient à la diversité centrale."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des propriétés des IgG et de leurs exceptions fonctionnelles, quelles propositions sont exactes ?",
+      "choices": [
+        "Les IgG ont une structure monomérique.",
+        "Les IgG sont les immunoglobulines les plus abondantes dans le sérum et les espaces extravasculaires.",
+        "Le passage transplacentaire est faible pour IgG4.",
+        "Toutes les sous-classes d'IgG fixent le complément sans exception."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les IgG sont monomériques et prédominent dans le sérum et les espaces extravasculaires. IgG4 a un passage transplacentaire faible et ne fixe pas le complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes polymériques et sécrétoires des immunoglobulines, quelles propositions sont justes ?",
+      "choices": [
+        "L'IgM sérique est pentamérique et possède une chaîne J.",
+        "L'IgA sécrétoire est dimérique et possède une chaîne J ainsi qu'une pièce sécrétoire.",
+        "L'IgA sérique est monomérique.",
+        "L'IgA sécrétoire est décrite comme pentamérique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L'IgM sérique est pentamérique avec chaîne J. L'IgA sérique est monomérique, tandis que l'IgA sécrétoire est dimérique avec chaîne J et pièce sécrétoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les IgD et IgE, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "Les IgD et les IgE sont monomériques.",
+        "L'IgD possède une portion transmembranaire et intervient comme récepteur de surface des lymphocytes B.",
+        "L'IgE interagit avec les mastocytes et les basophiles.",
+        "L'IgD fixe le complément."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "IgD et IgE sont monomériques. L'IgD est un récepteur de surface des lymphocytes B et ne fixe pas le complément. L'IgE interagit avec les mastocytes et les basophiles."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la masse moléculaire approximative d'une chaîne lourde d'immunoglobuline selon le texte ?",
+      "choices": [
+        "Environ 25 kDa",
+        "Environ 50 kDa",
+        "Environ 3 kDa",
+        "Environ 4 kDa"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les chaînes lourdes des immunoglobulines sont décrites comme identiques et d'environ 50 kDa."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle région d'une immunoglobuline porte principalement les fonctions effectrices ?",
+      "choices": [
+        "Les régions variables",
+        "Les CDR",
+        "Les régions constantes",
+        "Le paratope"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les régions constantes portent les fonctions effectrices : fixation du complément, passage transmembranaire et fixation aux récepteurs cellulaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Où survient la diversité périphérique des immunoglobulines selon le texte ?",
+      "choices": [
+        "Dans les organes lymphoïdes centraux",
+        "Dans les organes lymphoïdes secondaires",
+        "Dans le plasma uniquement",
+        "Dans les sécrétions uniquement"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La diversité périphérique survient dans les organes lymphoïdes secondaires et comprend l'hypermutation somatique et la commutation isotypique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle classe d'immunoglobuline possède les sous-classes IgA1 et IgA2 ?",
+      "choices": [
+        "IgG",
+        "IgM",
+        "IgA",
+        "IgE"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L'IgA possède deux sous-classes : IgA1 et IgA2."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel résultat correspond au clivage d'une immunoglobuline par la papaïne ?",
+      "choices": [
+        "Un fragment F(ab')₂ et un fragment pFc'",
+        "Deux fragments Fab et un fragment Fc",
+        "Un fragment Fc uniquement",
+        "Deux fragments pFc' et une chaîne J"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Après clivage par la papaïne, une immunoglobuline donne deux fragments Fab et un fragment Fc."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel fragment d'une immunoglobuline est impliqué dans l'interaction avec les cellules effectrices ?",
+      "choices": [
+        "Le fragment Fab",
+        "Le fragment Fc",
+        "Le paratope",
+        "Les CDR"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le fragment Fc est le fragment cristallisable impliqué dans l'interaction avec les cellules effectrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un schéma récapitulatif des effets effecteurs des immunoglobulines, quelles propositions correspondent à des fonctions explicitement citées, en dehors de la simple variation de leur taux sérique ?",
+      "choices": [
+        "Neutralisation des micro-organismes",
+        "Opsonisation facilitant l’ingestion par les cellules phagocytaires",
+        "Activation de la voie classique du complément",
+        "Cytotoxicité cellulaire dépendante des anticorps"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme fonctions des immunoglobulines la neutralisation, l’opsonisation, l’activation de la voie classique du complément et la cytotoxicité cellulaire dépendante des anticorps."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient présentant une diminution des immunoglobulines, quelles situations doivent être retenues comme causes possibles selon la liste fournie ?",
+      "choices": [
+        "Déficit immunitaire",
+        "Pertes rénales",
+        "Pertes digestives",
+        "Brûlures étendues"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les déficits immunitaires, le défaut de synthèse, les pertes rénales, les pertes digestives et les brûlures étendues sont cités comme causes de diminution des immunoglobulines."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une hyperimmunoglobulinémie, quels cadres étiologiques sont compatibles avec le texte ?",
+      "choices": [
+        "Infection",
+        "Processus inflammatoire",
+        "Maladie auto-immune",
+        "Gammapathie monoclonale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les augmentations d’immunoglobulines peuvent s’observer lors d’infections, de processus inflammatoires, de maladies auto-immunes et de gammapathies monoclonales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le profil fonctionnel décrit pour l’isotype impliqué notamment contre les helminthes, quelles propositions sont exactes ?",
+      "choices": [
+        "Il intervient notamment contre les helminthes",
+        "Il interagit avec les récepteurs Fcε",
+        "L’interaction peut concerner des récepteurs Fcε de haute affinité",
+        "Il ne fixe pas le complément"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le passage décrit un profil associant action notamment contre les helminthes, interaction avec les récepteurs Fcε, notamment de haute affinité, et absence de fixation du complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse des fonctions dépendantes ou associées au complément, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les immunoglobulines peuvent activer la voie classique du complément",
+        "Elles peuvent participer à l’opsonisation",
+        "Elles peuvent participer à la lyse de certains micro-organismes",
+        "La neutralisation des toxines est listée séparément des effets liés au complément"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue la neutralisation des toxines des fonctions impliquant le complément : activation de la voie classique, participation à l’opsonisation et à la lyse de certains micro-organismes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une situation où l’effet recherché est une élimination facilitée d’un agent ciblé, quels mécanismes cités peuvent impliquer une participation cellulaire ?",
+      "choices": [
+        "Opsonisation facilitant l’ingestion par les cellules phagocytaires",
+        "Cytotoxicité cellulaire dépendante des anticorps",
+        "Activation de la voie classique du complément",
+        "Interaction avec des récepteurs Fcε"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’opsonisation implique les cellules phagocytaires, l’ADCC est une cytotoxicité cellulaire dépendante des anticorps, et l’interaction avec les récepteurs Fcε met en jeu des récepteurs cellulaires. L’activation du complément est citée séparément."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour ne pas confondre indication diagnostique et thérapeutique, quelles propositions relèvent d’une application diagnostique selon le texte ?",
+      "choices": [
+        "Recherche d’antigènes solubles in vitro",
+        "Recherche d’antigènes particulaires in vitro",
+        "Sérodiagnostic",
+        "Immunoscintigraphie par anticorps marqués visualisés in vivo"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les applications diagnostiques comprennent la recherche in vitro d’antigènes solubles ou particulaires, le sérodiagnostic et l’immunoscintigraphie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la description de l’immunoscintigraphie, quels éléments techniques sont explicitement mentionnés ?",
+      "choices": [
+        "Utilisation d’anticorps comme sondes spécifiques",
+        "Marquage possible par fluorescence",
+        "Marquage possible par radioactivité faible",
+        "Visualisation in vivo par imagerie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’immunoscintigraphie utilise des anticorps comme sondes spécifiques marquées par fluorescence ou radioactivité faible, visualisées in vivo par imagerie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une stratégie thérapeutique par sérothérapie, quelles cibles peuvent être neutralisées d’après le texte ?",
+      "choices": [
+        "Antigène bactérien",
+        "Toxine",
+        "Virus",
+        "Venin"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La sérothérapie est citée pour neutraliser un antigène bactérien, une toxine, un virus ou un venin."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’on interprète un dosage d’immunoglobulines, quelles propositions permettent de distinguer variation physiologique et variation pathologique selon le texte ?",
+      "choices": [
+        "L’âge peut influencer physiologiquement le taux des immunoglobulines",
+        "Le sexe peut influencer physiologiquement le taux des immunoglobulines",
+        "Les infections sont citées parmi les causes d’augmentation",
+        "Les pertes rénales sont citées parmi les causes de diminution"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’âge et le sexe sont des facteurs physiologiques. Les infections augmentent les immunoglobulines, tandis que les pertes rénales peuvent les diminuer."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un brûlé étendu avec baisse des immunoglobulines, quelles affirmations restent strictement compatibles avec le texte ?",
+      "choices": [
+        "Les brûlures étendues figurent parmi les causes de diminution des immunoglobulines",
+        "Un défaut de synthèse peut aussi expliquer une diminution des immunoglobulines",
+        "Une gammapathie monoclonale est classée parmi les causes d’augmentation des immunoglobulines",
+        "L’administration d’immunoglobulines intraveineuses est une application thérapeutique citée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les brûlures étendues et le défaut de synthèse parmi les causes de diminution, les gammapathies monoclonales parmi les causes d’augmentation, et les immunoglobulines intraveineuses comme application thérapeutique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un tableau opposant neutralisation directe et autres fonctions effectrices, quelles propositions doivent être classées comme neutralisation explicitement mentionnée ?",
+      "choices": [
+        "Neutralisation des micro-organismes",
+        "Neutralisation des toxines",
+        "Neutralisation d’un virus par sérothérapie",
+        "Neutralisation d’un venin par sérothérapie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne la neutralisation des micro-organismes et des toxines comme fonctions, ainsi que la neutralisation d’un virus ou d’un venin dans le cadre de la sérothérapie."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour classer correctement les situations entraînant une baisse des immunoglobulines, quelles propositions relèvent d’un mécanisme de perte ou de déperdition mentionné ?",
+      "choices": [
+        "Pertes rénales",
+        "Pertes digestives",
+        "Brûlures étendues",
+        "Processus inflammatoires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les pertes rénales, les pertes digestives et les brûlures étendues sont citées parmi les causes de diminution. Les processus inflammatoires sont associés à une augmentation."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les applications des immunoglobulines, quelles associations sont exactes ?",
+      "choices": [
+        "Sérodiagnostic — application diagnostique",
+        "Recherche d’antigènes particulaires in vitro — application diagnostique",
+        "Administration d’immunoglobulines intraveineuses — application thérapeutique",
+        "Sérothérapie neutralisant une toxine — application thérapeutique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le sérodiagnostic et la recherche d’antigènes in vitro sont diagnostiques. L’administration d’immunoglobulines intraveineuses et la sérothérapie sont thérapeutiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur est cité comme variation physiologique du taux des immunoglobulines ?",
+      "choices": [
+        "Infection",
+        "Sexe",
+        "Pertes digestives",
+        "Maladie auto-immune"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le taux des immunoglobulines varie physiologiquement selon l’âge et le sexe."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation est classée parmi les causes d’augmentation des immunoglobulines ?",
+      "choices": [
+        "Brûlures étendues",
+        "Pertes rénales",
+        "Processus inflammatoire",
+        "Défaut de synthèse"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les processus inflammatoires sont cités parmi les causes d’augmentation des immunoglobulines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle application diagnostique repose sur des anticorps spécifiques marqués et visualisés in vivo par imagerie ?",
+      "choices": [
+        "Sérothérapie",
+        "Immunoscintigraphie",
+        "Administration d’immunoglobulines intraveineuses",
+        "Neutralisation d’un venin"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’immunoscintigraphie utilise des anticorps marqués, visualisés in vivo par imagerie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond au profil décrit pour l’immunoglobuline interagissant avec les récepteurs Fcε ?",
+      "choices": [
+        "Elle fixe fortement le complément",
+        "Elle est dépourvue de toute interaction avec les récepteurs Fc",
+        "Elle intervient notamment contre les helminthes",
+        "Elle est uniquement utilisée pour le sérodiagnostic"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte associe ce profil à une intervention notamment contre les helminthes, une interaction avec les récepteurs Fcε et une absence de fixation du complément."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle fonction des immunoglobulines facilite directement l’ingestion par les cellules phagocytaires ?",
+      "choices": [
+        "Sérodiagnostic",
+        "Opsonisation",
+        "Immunoscintigraphie",
+        "Neutralisation d’un venin"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’opsonisation facilite l’ingestion des agents ciblés par les cellules phagocytaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modalité est citée comme application thérapeutique des immunoglobulines en dehors de la sérothérapie ?",
+      "choices": [
+        "Recherche d’antigènes solubles in vitro",
+        "Sérodiagnostic",
+        "Administration d’immunoglobulines intraveineuses",
+        "Immunoscintigraphie"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte cite l’administration d’immunoglobulines intraveineuses parmi les applications thérapeutiques."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T19:05:22.759Z"
+}

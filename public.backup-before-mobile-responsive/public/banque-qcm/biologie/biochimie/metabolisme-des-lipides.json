@@ -1,0 +1,3106 @@
+{
+  "category": "biologie",
+  "module": "biochimie",
+  "courseId": 8,
+  "courseTitle": "Metabolisme Des Glucides",
+  "supportTitle": "metabolisme-des-lipides",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/BIOCHIMIE/metabolisme-des-lipides.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la structure générale des lipoprotéines plasmatiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles possèdent une enveloppe constituée d’une monocouche de phospholipides et de cholestérol libre.",
+        "Leur cœur hydrophobe contient principalement des triglycérides et des esters de cholestérol.",
+        "Les apolipoprotéines participent à la reconnaissance par les récepteurs et les enzymes.",
+        "Leur enveloppe est constituée d’une bicouche lipidique identique à celle des membranes cellulaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lipoprotéines ont une enveloppe en monocouche de phospholipides et cholestérol libre, un cœur hydrophobe riche en triglycérides et esters de cholestérol, et des apolipoprotéines fonctionnelles. Il ne s’agit pas d’une bicouche membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Les lipides délivrés aux cellules par les lipoprotéines peuvent être utilisés pour quelles fonctions ?",
+      "choices": [
+        "La production d’énergie.",
+        "Le stockage énergétique.",
+        "La synthèse d’hormones stéroïdiennes et d’acides biliaires.",
+        "La synthèse directe des apolipoprotéines plasmatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lipides délivrés servent à l’énergie, au stockage, au maintien membranaire et à la synthèse de substances endogènes comme les hormones stéroïdiennes et les acides biliaires. Le texte ne mentionne pas leur utilisation directe pour synthétiser les apolipoprotéines."
+    },
+    {
+      "type": "QCM",
+      "question": "La classification des lipoprotéines peut reposer sur quels critères ?",
+      "choices": [
+        "La taille et la densité.",
+        "La composition en lipides et en protéines.",
+        "La fonction métabolique.",
+        "La concentration plasmatique de glucose."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lipoprotéines sont classées selon leurs propriétés physiques, leur composition et leur fonction métabolique. La glycémie n’est pas un critère de classification dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les chylomicrons, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils transportent les lipides alimentaires de l’intestin vers les tissus périphériques.",
+        "Ils contiennent principalement des triglycérides.",
+        "L’apoB-48 est nécessaire à leur assemblage.",
+        "Ils sont synthétisés et sécrétés principalement par le foie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chylomicrons transportent les lipides alimentaires depuis l’intestin, sont très riches en triglycérides et nécessitent l’apoB-48 pour leur assemblage. Les VLDL, et non les chylomicrons, sont synthétisées et sécrétées par le foie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des VLDL, quelles affirmations sont justes ?",
+      "choices": [
+        "Elles sont synthétisées et sécrétées par le foie.",
+        "Elles participent au transport endogène des lipides du foie vers les tissus périphériques.",
+        "Elles contiennent les apolipoprotéines B-100, E, C-I, C-II et C-III.",
+        "Elles ont une densité inférieure à celle des chylomicrons."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les VLDL sont d’origine hépatique, assurent le transport endogène des lipides et contiennent notamment apoB-100, E et apoC. Leur densité est supérieure à celle des chylomicrons."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les IDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles proviennent de l’hydrolyse des VLDL par les lipases.",
+        "Leur taille et leur densité sont intermédiaires entre celles des VLDL et des LDL.",
+        "Chaque particule d’IDL contient une molécule d’apoB-100 et plusieurs molécules d’apoE.",
+        "Elles sont les précurseurs directs des chylomicrons."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les IDL dérivent des VLDL après hydrolyse, ont des caractéristiques intermédiaires entre VLDL et LDL, et contiennent apoB-100 et apoE. Elles ne sont pas des précurseurs des chylomicrons."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours de la transformation VLDL → IDL → LDL, quelles modifications sont décrites ?",
+      "choices": [
+        "La particule perd la majeure partie de ses triglycérides.",
+        "La particule s’enrichit en esters de cholestérol.",
+        "Les LDL représentent la dernière classe de lipoprotéines de la cascade contenant l’apoB-100.",
+        "La particule acquiert progressivement l’apoB-48."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cascade VLDL → IDL → LDL s’accompagne d’une perte de triglycérides et d’un enrichissement en esters de cholestérol. Les LDL sont la dernière classe contenant apoB-100. L’apoB-48 concerne les chylomicrons."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les LDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Chaque particule contient une seule molécule d’apoB-100.",
+        "L’apoB-100 est indispensable au maintien de leur intégrité structurale.",
+        "Elles sont athérogènes, surtout lorsqu’elles sont petites et denses.",
+        "Elles ont une densité inférieure à celle des VLDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chaque LDL contient une molécule d’apoB-100 indispensable à sa structure. Les LDL sont athérogènes, particulièrement les petites LDL denses. Leur densité est supérieure à celle des VLDL."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des HDL naissantes et de leur maturation, quelles affirmations sont exactes ?",
+      "choices": [
+        "Les HDL naissantes sont discoïdes.",
+        "Elles sont sécrétées par le foie et l’intestin.",
+        "Lors de leur maturation, les apoC-II, apoC-III et apoE sont transférées vers les lipoprotéines riches en triglycérides.",
+        "Elles se transforment en particules sphériques après acquisition des apoA-II et A-IV."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les HDL naissantes sont discoïdes, issues notamment du foie et de l’intestin. Leur maturation implique le transfert des apoC-II, apoC-III et apoE vers les lipoprotéines riches en triglycérides et l’acquisition d’apoA-II et A-IV permettant la sphérisation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sous-fractions HDL2 et HDL3, quelles propositions sont justes selon le texte ?",
+      "choices": [
+        "Les HDL3 ont une taille de 70 à 90 Å.",
+        "Les HDL3 ont une densité de 1,125 à 1,210 g/ml.",
+        "Les HDL2 ont une taille de 90 à 100 Å.",
+        "Les HDL2 ont une densité supérieure à celle des HDL3."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HDL3 sont plus petites et plus denses que les HDL2. Les HDL2 mesurent 90 à 100 Å avec une densité de 1,063 à 1,125 g/ml, inférieure à celle des HDL3."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la lipoprotéine(a), quelles affirmations sont exactes ?",
+      "choices": [
+        "Elle est riche en esters de cholestérol.",
+        "Elle est associée au risque de maladies cardiovasculaires et cérébrovasculaires.",
+        "Elle résulte de l’association d’une particule de type LDL avec l’apo(a).",
+        "L’apo(a) se lie à l’apoB-48 par un lien peptidique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La Lp(a) est riche en esters de cholestérol, associée au risque cardiovasculaire et cérébrovasculaire, et correspond à une particule de type LDL liée à l’apo(a). L’apo(a) se lie à l’apoB-100 par un lien disulfure."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles comparaisons entre classes de lipoprotéines sont correctes ?",
+      "choices": [
+        "Les VLDL ont une densité supérieure à celle des chylomicrons.",
+        "Les HDL ont une densité supérieure à celle des LDL.",
+        "Le diamètre des HDL est inférieur à celui des VLDL.",
+        "Les chylomicrons ont un diamètre inférieur à celui des LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les VLDL sont plus denses que les chylomicrons. Les HDL sont plus denses que les LDL et plus petites que les VLDL. Les chylomicrons sont au contraire les plus volumineux parmi les particules décrites."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la composition lipidoprotéique des lipoprotéines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les chylomicrons contiennent approximativement 86 % de triglycérides.",
+        "Les VLDL contiennent approximativement 55 % de triglycérides.",
+        "Les LDL contiennent approximativement 42 % d’esters de cholestérol.",
+        "Les HDL3 contiennent approximativement 55 % de protéines."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces valeurs correspondent aux compositions approximatives données : chylomicrons très riches en triglycérides, VLDL riches en triglycérides, LDL riches en esters de cholestérol, HDL3 riches en protéines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les apolipoprotéines structurales ou fonctionnelles citées, quelles associations sont exactes ?",
+      "choices": [
+        "ApoB-48 : nécessaire à l’assemblage des chylomicrons.",
+        "ApoB-100 : nécessaire à l’assemblage et à l’intégrité structurale des VLDL.",
+        "ApoB-100 : indispensable au maintien de l’intégrité structurale des LDL.",
+        "Apo(a) : synthétisée par le foie indépendamment de l’apoB-100."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte attribue à l’apoB-48 l’assemblage des chylomicrons, à l’apoB-100 un rôle structural dans les VLDL et LDL, et précise que l’apo(a) est synthétisée par le foie indépendamment de l’apoB-100."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle apolipoprotéine est nécessaire à l’assemblage des chylomicrons ?",
+      "choices": [
+        "ApoB-48",
+        "ApoB-100",
+        "Apo(a)",
+        "ApoE"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’apoB-48 est explicitement indiquée comme nécessaire à l’assemblage des chylomicrons."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle lipoprotéine est le précurseur immédiat des LDL dans la cascade décrite ?",
+      "choices": [
+        "Chylomicron",
+        "VLDL",
+        "IDL",
+        "HDL3"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les LDL proviennent des IDL dans la cascade VLDL → IDL → LDL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel phénotype LDL correspond à une prédominance de petites LDL denses, plus athérogènes ?",
+      "choices": [
+        "Phénotype A",
+        "Phénotype B",
+        "Phénotype HDL2",
+        "Phénotype chylomicron remnant"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le phénotype B est défini par la prédominance de petites LDL denses, plus athérogènes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la densité approximative des VLDL selon le texte ?",
+      "choices": [
+        "Environ 0,93 g/ml",
+        "0,95 à 1,010 g/ml",
+        "1,019 à 1,060 g/ml",
+        "1,125 à 1,210 g/ml"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les VLDL ont une densité de 0,95 à 1,010 g/ml. La valeur 0,93 g/ml correspond aux chylomicrons."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la composition approximative des LDL, quel constituant est le plus représenté ?",
+      "choices": [
+        "Triglycérides",
+        "Esters de cholestérol",
+        "Cholestérol libre",
+        "Protéines"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les LDL contiennent approximativement 42 % d’esters de cholestérol, proportion la plus élevée parmi les constituants listés."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la lipoprotéine(a), par quel type de liaison l’apo(a) se fixe-t-elle à l’apoB-100 des LDL ?",
+      "choices": [
+        "Lien disulfure",
+        "Liaison ionique",
+        "Liaison hydrogène",
+        "Liaison ester"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’apo(a) se lie à l’apoB-100 des LDL par un lien disulfure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étapes de la voie exogène des lipides, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lipides alimentaires sont hydrolysés dans l’intestin grêle avant leur absorption.",
+        "Après absorption, les lipides sont réestérifiés dans les cellules épithéliales intestinales.",
+        "Les chylomicrons sont assemblés avec l’apoB-48.",
+        "Les chylomicrons rejoignent directement la circulation sanguine sans passage lymphatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans la voie exogène, les lipides alimentaires sont hydrolysés dans l’intestin grêle, absorbés, réestérifiés puis assemblés avec l’apoB-48 en chylomicrons. Ceux-ci sont sécrétés dans la lymphe avant de rejoindre le sang."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la régulation de l’hydrolyse des triglycérides des chylomicrons, quelles affirmations sont exactes ?",
+      "choices": [
+        "L’apoC-II active la lipoprotéine lipase.",
+        "L’apoC-III inhibe la lipoprotéine lipase.",
+        "Le rapport apoC-II/apoC-III influence la vitesse de transformation des chylomicrons en remnants.",
+        "La lipase hépatique est l’enzyme principale responsable de la transformation initiale des chylomicrons en remnants dans les capillaires musculaires et adipeux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lipoprotéine lipase hydrolyse les triglycérides des chylomicrons au niveau musculaire et adipeux. Elle est activée par l’apoC-II et inhibée par l’apoC-III ; leur rapport module la transformation en remnants."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le devenir des remnants de chylomicrons, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont captés par le foie.",
+        "Leur captation implique le récepteur LDL.",
+        "Leur captation implique la protéine apparentée au récepteur LDL.",
+        "Ils sont principalement captés par les muscles pour y être transformés en LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les remnants de chylomicrons sont captés par le foie via le récepteur LDL et la protéine apparentée au récepteur LDL. Le texte ne décrit pas une transformation musculaire en LDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie endogène des lipides, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle assure le transport vers les tissus des lipides synthétisés ou transformés par le foie.",
+        "Elle devient particulièrement impliquée quelques heures après un repas lorsque les chylomicrons circulants diminuent.",
+        "Les VLDL sont hydrolysées par la lipoprotéine lipase dans les capillaires.",
+        "Les LDL sont directement produites par l’intestin à partir des lipides alimentaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie endogène correspond au transport des lipides hépatiques par les VLDL vers les tissus, surtout lorsque les chylomicrons diminuent. Les VLDL sont hydrolysées par la lipoprotéine lipase ; les LDL dérivent des IDL et non directement de l’intestin."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les enzymes impliquées dans le métabolisme des LDL ou des lipoprotéines contenant l’apoB-100, quelles propositions sont exactes ?",
+      "choices": [
+        "La lipase hépatique peut hydrolyser les triglycérides restant dans les LDL.",
+        "La lipase endothéliale peut hydrolyser les triglycérides des lipoprotéines contenant l’apoB-100.",
+        "La LCAT peut estérifier le cholestérol libre au niveau des LDL.",
+        "La CETP hydrolyse directement les triglycérides des LDL pour former des acides gras libres."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lipase hépatique et la lipase endothéliale hydrolysent des triglycérides selon les contextes décrits. La LCAT peut estérifier le cholestérol libre des LDL. La CETP réalise des échanges lipidiques, sans hydrolyse directe."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la clairance plasmatique des LDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Les LDL sont retirées de la circulation par le récepteur LDL.",
+        "Le récepteur LDL reconnaît l’apoB-100.",
+        "La demi-vie moyenne des LDL est d’environ 2,7 jours.",
+        "Une diminution de la clairance des LDL raccourcit leur demi-vie plasmatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les LDL sont éliminées via le récepteur LDL qui reconnaît l’apoB-100. Leur demi-vie moyenne est d’environ 2,7 jours et augmente lorsque leur clairance diminue."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’origine des constituants des HDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Les apolipoprotéines des HDL sont synthétisées par le foie et l’intestin.",
+        "Certaines apolipoprotéines des HDL proviennent de l’hydrolyse des chylomicrons et des VLDL par les lipases.",
+        "Les phospholipides des HDL proviennent principalement des autres lipoprotéines.",
+        "Les phospholipides des HDL proviennent exclusivement de la synthèse rénale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les apolipoprotéines des HDL ont une origine hépatique, intestinale et proviennent aussi de l’hydrolyse des chylomicrons et VLDL. Les phospholipides des HDL proviennent principalement des autres lipoprotéines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les systèmes impliqués dans l’acquisition du cholestérol par les HDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Le récepteur SR-B1/Cla-1 est présent notamment dans les macrophages.",
+        "Le récepteur SR-B1/Cla-1 est présent notamment dans le foie et les tissus stéroïdogéniques.",
+        "Le système ABCA-1 est présent dans les macrophages, le foie, les reins, l’intestin et les glandes surrénales.",
+        "Le système ABCA-1 est décrit comme spécifique des chylomicrons circulants."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte situe SR-B1/Cla-1 notamment dans les macrophages, le foie et les tissus stéroïdogéniques. ABCA-1 est présent dans les macrophages, le foie, les reins, l’intestin et les glandes surrénales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la maturation et le recyclage des HDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Le cholestérol libre acquis par les HDL est estérifié par la LCAT.",
+        "L’enrichissement des HDL en cholestérol s’accompagne d’une augmentation de taille, avec passage de HDL3 à HDL2.",
+        "Après livraison de leurs esters de cholestérol, les HDL peuvent retourner en circulation pour participer à un nouveau cycle.",
+        "Après captation par SR-B1/Cla-1, les HDL sont obligatoirement détruites et ne peuvent plus participer au transport inverse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La LCAT estérifie le cholestérol libre des HDL. L’enrichissement en cholestérol augmente leur taille de HDL3 à HDL2. Après livraison du cholestérol, les HDL peuvent être recyclées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le retour hépatique du cholestérol transporté par les HDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Les esters de cholestérol peuvent être transférés des HDL vers les LDL et VLDL sous l’action de la CETP.",
+        "Les esters de cholestérol transférés aux LDL et VLDL peuvent retourner au foie via le récepteur LDL.",
+        "Les HDL peuvent délivrer leur cholestérol au foie via SR-B1/Cla-1.",
+        "Le cholestérol délivré aux tissus stéroïdogéniques est transformé en sels biliaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La CETP transfère des esters de cholestérol des HDL vers les lipoprotéines contenant l’apoB-100. Ces lipoprotéines peuvent retourner au foie via le récepteur LDL. Les tissus stéroïdogéniques utilisent le cholestérol pour produire des hormones stéroïdiennes, non des sels biliaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lipides transférés par la CETP, quelles propositions sont exactes ?",
+      "choices": [
+        "La CETP participe au transfert des esters de cholestérol.",
+        "La CETP participe au transfert des triglycérides.",
+        "La CETP participe au transfert des esters de rétinol.",
+        "La CETP transfère principalement le cholestérol libre des VLDL vers les chylomicrons."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La CETP transfère des lipides neutres, notamment esters de cholestérol, triglycérides, esters de rétinol et une partie des phospholipides. Le transfert principal décrit concerne les esters de cholestérol des HDL vers les lipoprotéines contenant l’apoB-100 contre des triglycérides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la formation des LDL petites et denses, quelles propositions sont exactes ?",
+      "choices": [
+        "La CETP permet un échange d’esters de cholestérol des LDL et HDL vers les VLDL contre des triglycérides.",
+        "Les LDL enrichies en triglycérides deviennent de meilleurs substrats pour la lipase hépatique et la lipase endothéliale.",
+        "L’hydrolyse des triglycérides des LDL contribue à rendre les particules plus petites et plus denses.",
+        "Plus les VLDL sont pauvres en triglycérides, plus le transfert de triglycérides vers les LDL est important."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La CETP enrichit les LDL en triglycérides par échange avec les VLDL. Ces LDL deviennent des substrats des lipases hépatique et endothéliale, dont l’action les rend plus petites et plus denses. Le transfert augmente lorsque les VLDL sont riches en triglycérides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs enzymatiques impliqués dans les LDL petites et denses, quelles propositions sont exactes ?",
+      "choices": [
+        "La CETP est impliquée dans leur formation.",
+        "La lipase hépatique est impliquée dans leur formation.",
+        "La lipase endothéliale est impliquée dans leur formation.",
+        "La LCAT est décrite comme l’enzyme principale hydrolysant les triglycérides des LDL pour les rendre petites et denses."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La formation des LDL petites et denses implique notamment la CETP, la lipase hépatique et la lipase endothéliale. La LCAT est une enzyme d’estérification du cholestérol libre, non l’enzyme principale d’hydrolyse des triglycérides des LDL dans ce mécanisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les apolipoprotéines de la famille A citées, quelles propositions sont exactes ?",
+      "choices": [
+        "L’apoA-I a un rôle structural et active physiologiquement la LCAT.",
+        "L’apoA-II module la lipase hépatique et participe à l’efflux de cholestérol.",
+        "L’apoA-IV intervient dans le transport inverse du cholestérol et peut activer la LCAT.",
+        "L’apoA-V est synthétisée par l’intestin et constitue une apolipoprotéine spécifique des HDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’apoA-I active la LCAT et participe à l’efflux du cholestérol. L’apoA-II module la lipase hépatique. L’apoA-IV intervient dans le transport inverse et l’activation de la LCAT. L’apoA-V est synthétisée par le foie et concerne le métabolisme des lipoprotéines riches en triglycérides."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la voie exogène, par quel compartiment les chylomicrons passent-ils avant de rejoindre la circulation sanguine ?",
+      "choices": [
+        "La lymphe",
+        "La bile",
+        "Le liquide céphalorachidien",
+        "Le système porte exclusivement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les chylomicrons sont sécrétés dans la lymphe puis rejoignent la circulation sanguine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme hydrolyse les triglycérides des IDL et conduit à la formation de LDL enrichies en esters de cholestérol ?",
+      "choices": [
+        "La LCAT",
+        "La lipase hépatique",
+        "La CETP",
+        "La phospholipase A2 sécrétée"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les résidus de VLDL, ou IDL, subissent l’hydrolyse de leurs triglycérides par la lipase hépatique, conduisant à la formation de LDL enrichies en esters de cholestérol."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle protéine assure principalement le transfert des esters de cholestérol des HDL vers les lipoprotéines contenant l’apoB-100 en échange de triglycérides ?",
+      "choices": [
+        "ABCA-1",
+        "SR-B1/Cla-1",
+        "CETP",
+        "Lipoprotéine lipase"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La CETP transfère principalement les esters de cholestérol des HDL vers les VLDL, IDL et LDL en échange de triglycérides."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle apolipoprotéine est reconnue par le récepteur LDL lors du retrait des LDL de la circulation ?",
+      "choices": [
+        "ApoA-I",
+        "ApoB-100",
+        "ApoC-III",
+        "ApoA-IV"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le récepteur LDL reconnaît l’apoB-100 portée par les LDL."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors de l’enrichissement progressif des HDL en cholestérol, quelle transition de sous-fraction est décrite ?",
+      "choices": [
+        "HDL2 vers HDL3",
+        "HDL3 vers HDL2",
+        "LDL vers HDL3",
+        "VLDL vers HDL2"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "À mesure que les HDL s’enrichissent en cholestérol, leur taille augmente, passant de HDL3 à HDL2."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la demi-vie moyenne des LDL indiquée dans le texte ?",
+      "choices": [
+        "Environ 12 heures",
+        "Environ 24 heures",
+        "Environ 2,7 jours",
+        "Environ 7 jours"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que la demi-vie moyenne des LDL est d’environ 2,7 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’apoC-I, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est synthétisée par le foie et l’intestin.",
+        "Elle est distribuée dans les chylomicrons, les VLDL et les HDL.",
+        "Elle inhibe la CETP et active la LCAT.",
+        "Elle favorise la liaison aux récepteurs LDL, LRP et VLDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’apoC-I est synthétisée par le foie et l’intestin, présente dans les chylomicrons, VLDL et HDL. Elle inhibe la CETP, active la LCAT et inhibe la liaison aux récepteurs LDL, LRP et VLDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’apoC-III, quelles affirmations sont justes ?",
+      "choices": [
+        "Elle est synthétisée par le foie et l’intestin.",
+        "Elle est retrouvée dans les chylomicrons, les VLDL et les HDL.",
+        "Elle inhibe physiologiquement la lipoprotéine lipase.",
+        "Elle stimule la captation hépatique des lipoprotéines riches en triglycérides."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’apoC-III est synthétisée par le foie et l’intestin, distribuée dans les chylomicrons, VLDL et HDL. Elle inhibe la lipoprotéine lipase et inhibe aussi la captation hépatique des lipoprotéines riches en triglycérides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’apoE, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est synthétisée par le foie, les macrophages et le cerveau.",
+        "Elle est présente dans les chylomicrons, les VLDL, les IDL et les HDL.",
+        "Elle agit comme ligand des récepteurs LDL et LRP.",
+        "Elle est distribuée exclusivement dans les LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’apoE est produite par le foie, les macrophages et le cerveau. Elle se retrouve dans les chylomicrons, VLDL, IDL et HDL, et sert de ligand pour les récepteurs LDL et LRP."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’apoF, l’apoJ et l’apoSAA, quelles associations sont exactes ?",
+      "choices": [
+        "L’apoF est synthétisée par le foie.",
+        "L’apoF est distribuée dans les LDL, les VLDL et les HDL.",
+        "L’apoJ est distribuée dans les HDL et possède un effet anti-inflammatoire.",
+        "L’apoSAA est une protéine de phase aiguë de l’inflammation distribuée dans les HDL et les chylomicrons."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces associations sont conformes au texte : apoF hépatique et inhibitrice de la CETP, apoJ anti-inflammatoire dans les HDL, apoSAA protéine de phase aiguë présente dans les HDL et chylomicrons."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lipases impliquées dans le métabolisme des lipoprotéines, quelles propositions sont exactes ?",
+      "choices": [
+        "La lipoprotéine lipase est localisée au niveau de l’endothélium capillaire.",
+        "La lipase hépatique est localisée au niveau de l’endothélium.",
+        "La lipase hépatique hydrolyse les triglycérides et les phospholipides des remnants de VLDL, des IDL, des LDL et des HDL.",
+        "La lipase endothéliale hydrolyse principalement les esters de cholestérol des LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lipoprotéine lipase est capillaire. La lipase hépatique, endothéliale, hydrolyse triglycérides et phospholipides de plusieurs lipoprotéines. La lipase endothéliale hydrolyse les phospholipides des HDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la LCAT, la CETP et la PLTP, quelles propositions sont exactes ?",
+      "choices": [
+        "La LCAT est distribuée dans les HDL.",
+        "La LCAT assure l’estérification du cholestérol des HDL et des LDL.",
+        "La CETP transfère des esters de cholestérol, des triglycérides et des phospholipides.",
+        "La PLTP transfère notamment des phospholipides, des lipopolysaccharides et de l’alpha-tocophérol."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La LCAT est associée aux HDL et estérifie le cholestérol des HDL et LDL. La CETP transfère esters de cholestérol, triglycérides et phospholipides. La PLTP transfère plusieurs molécules dont phospholipides, lipopolysaccharides et alpha-tocophérol."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la paraoxonase 1 et la PAF-acétylhydrolase, quelles propositions sont exactes ?",
+      "choices": [
+        "La paraoxonase 1 est distribuée dans les HDL.",
+        "La paraoxonase 1 hydrolyse des lipides oxydés pro-inflammatoires.",
+        "La PAF-acétylhydrolase est distribuée dans les HDL, les LDL et la Lp(a).",
+        "La PAF-acétylhydrolase hydrolyse le PAF et des dérivés lipidiques hydroperoxydés."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les deux enzymes sont associées à des fonctions anti-inflammatoires ou anti-oxydatives : paraoxonase 1 sur HDL, PAF-acétylhydrolase sur HDL, LDL et Lp(a), avec hydrolyse du PAF et de dérivés hydroperoxydés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les hyperlipidémies, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elles peuvent être d’origine génétique.",
+        "Elles peuvent être secondaires à d’autres pathologies.",
+        "Elles peuvent être associées à une augmentation du risque cardiovasculaire.",
+        "Elles ne peuvent pas être classées selon l’électrophorèse des lipoprotéines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hyperlipidémies peuvent être génétiques ou secondaires, et sont associées à une augmentation du risque cardiovasculaire. Elles peuvent être classées selon l’électrophorèse des lipoprotéines."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont citées comme causes secondaires possibles d’hyperlipidémie ?",
+      "choices": [
+        "Syndrome néphrotique.",
+        "Diabète.",
+        "Éthylisme chronique.",
+        "Déficit isolé en paraoxonase 1."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite comme causes secondaires possibles : syndrome néphrotique, diabète et éthylisme chronique. Le déficit isolé en paraoxonase 1 n’est pas mentionné comme cause secondaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hypertriglycéridémie et l’hyperchylomicronémie, quelles propositions sont exactes ?",
+      "choices": [
+        "Une hypertriglycéridémie peut résulter d’un déficit d’activité de la lipoprotéine lipase.",
+        "Une hypertriglycéridémie peut résulter d’une carence insulinique.",
+        "Une hyperchylomicronémie peut entraîner un sérum lactescent.",
+        "La persistance anormale de chylomicrons à jeun peut s’accompagner d’un sérum lactescent."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte relie l’hypertriglycéridémie au déficit d’activité de la lipoprotéine lipase et à la carence insulinique. L’hyperchylomicronémie peut donner un sérum lactescent, notamment à jeun si les chylomicrons persistent."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les manifestations cutanées de l’hyperchylomicronémie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut s’accompagner de xanthomes éruptifs.",
+        "Les lésions peuvent se présenter sous forme de papules jaunâtres.",
+        "Les lésions sont décrites notamment sur le tronc et l’abdomen.",
+        "Les lésions décrites correspondent à des nodules bleutés des extrémités."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hyperchylomicronémie peut s’accompagner de xanthomes éruptifs sous forme de papules jaunâtres, en particulier sur le tronc et l’abdomen."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hypercholestérolémie familiale liée à l’apoB-100, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être liée à une anomalie structurale de l’apoB-100.",
+        "L’anomalie peut altérer la reconnaissance des LDL par leur récepteur.",
+        "Elle implique nécessairement une anomalie structurale de l’apoB-48.",
+        "Elle supprime la synthèse intestinale des chylomicrons selon le texte."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne une hypercholestérolémie familiale liée à une anomalie structurale de l’apoB-100, responsable d’une altération de la reconnaissance des LDL par leur récepteur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le cholestérol, quelles propositions sont exactes ?",
+      "choices": [
+        "Il possède une origine endogène et exogène.",
+        "Il est un précurseur de la biosynthèse des hormones stéroïdiennes.",
+        "Il est éliminé par la bile, directement ou après transformation en sels biliaires.",
+        "Son augmentation sanguine favorise l’athérosclérose."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le cholestérol a une double origine, participe à la biosynthèse des hormones stéroïdiennes, est éliminé par voie biliaire et son augmentation sanguine favorise l’athérosclérose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les triglycérides, les acides gras et leur oxydation, quelles propositions sont exactes ?",
+      "choices": [
+        "Les triglycérides fournissent plus de deux fois plus d’énergie que les glucides.",
+        "Le foie est un site majeur de synthèse endogène des triglycérides.",
+        "Les acides gras possèdent une fonction acide et ont le plus souvent un nombre pair d’atomes de carbone.",
+        "La bêta-oxydation des acides gras fait intervenir une thiolase et entraîne la réduction du FAD."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes les propositions reprennent les éléments du texte : rendement énergétique élevé des triglycérides, synthèse hépatique, caractéristiques des acides gras et implication d’une thiolase avec réduction du FAD dans la bêta-oxydation."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’ancien nom de la lipoprotéine lipase ?",
+      "choices": [
+        "Facteur clarifiant du sérum.",
+        "Transférase des esters de cholestérol.",
+        "Lipase des phospholipides HDL.",
+        "Protéine de phase aiguë lipidique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La lipoprotéine lipase est anciennement appelée facteur clarifiant du sérum."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme est décrite comme assurant l’hydrolyse des phospholipides des HDL ?",
+      "choices": [
+        "LCAT.",
+        "Lipase endothéliale.",
+        "CETP.",
+        "Paraoxonase 1."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La lipase endothéliale, localisée à l’endothélium, hydrolyse les phospholipides des HDL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle apolipoprotéine est l’activateur physiologique de la lipoprotéine lipase ?",
+      "choices": [
+        "ApoC-I.",
+        "ApoC-II.",
+        "ApoC-III.",
+        "ApoF."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’apoC-II est l’activateur physiologique de la lipoprotéine lipase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule enzymatique intervient notamment dans la régulation du cholestérol ?",
+      "choices": [
+        "HMG-CoA réductase.",
+        "PAF-acétylhydrolase.",
+        "Thiolase.",
+        "PLTP."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La régulation du cholestérol implique notamment l’HMG-CoA réductase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel organe est cité comme site majeur de synthèse endogène des triglycérides ?",
+      "choices": [
+        "Cœur.",
+        "Foie.",
+        "Cerveau.",
+        "Intestin uniquement."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le foie est mentionné comme un site majeur de synthèse endogène des triglycérides."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle apolipoprotéine distribuée dans les HDL et les chylomicrons est une protéine de phase aiguë de l’inflammation ?",
+      "choices": [
+        "ApoJ.",
+        "ApoF.",
+        "ApoSAA.",
+        "ApoB-100."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’apoSAA est distribuée dans les HDL et les chylomicrons et correspond à une protéine de phase aiguë de l’inflammation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modifications et le devenir des lipoprotéines au cours de leur circulation plasmatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles subissent des modifications de composition, de structure et de fonction.",
+        "Elles sont captées exclusivement par des récepteurs spécifiques.",
+        "Elles permettent le transport de composés hydrophobes dans un milieu hydrophile.",
+        "Leurs apolipoprotéines participent à la reconnaissance par les récepteurs et les enzymes."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Les lipoprotéines transportent des lipides hydrophobes dans le plasma hydrophile, se modifient durant leur circulation, et leurs apolipoprotéines conditionnent leur reconnaissance et leur devenir. La captation peut se faire par des récepteurs spécifiques ou non spécifiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la composition approximative des chylomicrons, quelles propositions sont exactes ?",
+      "choices": [
+        "Les triglycérides représentent environ 86 % de leur composition.",
+        "Les protéines représentent environ 2 % de leur composition.",
+        "Les phospholipides constituent la fraction majoritaire.",
+        "Les esters de cholestérol sont plus abondants que le cholestérol libre."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les chylomicrons sont très riches en triglycérides : environ 86 %. Ils contiennent environ 2 % de protéines, 7 % de phospholipides, 3 % d’esters de cholestérol et 2 % de cholestérol libre."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les apolipoprotéines suivantes, lesquelles sont citées comme présentes dans les chylomicrons mais non listées parmi les apolipoprotéines des VLDL ?",
+      "choices": [
+        "ApoA-I",
+        "ApoA-II",
+        "ApoA-IV",
+        "ApoB-100"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chylomicrons contiennent notamment les apoA-I, A-II et A-IV, absentes de la liste des VLDL dans le texte. Les VLDL contiennent l’apoB-100, alors que les chylomicrons contiennent l’apoB-48."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les VLDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont synthétisées et sécrétées par le foie.",
+        "Elles contiennent environ 55 % de triglycérides.",
+        "Leur proportion en phospholipides est supérieure à celle des esters de cholestérol.",
+        "Leur teneur en protéines est d’environ 22 %."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les VLDL sont hépatiques, riches en triglycérides à environ 55 %, avec environ 18 % de phospholipides et 12 % d’esters de cholestérol. Leur teneur en protéines est d’environ 8 %, non 22 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’évolution des paramètres physiques des lipoprotéines de la cascade chylomicrons, VLDL, IDL et LDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Les chylomicrons ont le diamètre le plus élevé parmi les particules citées.",
+        "Les LDL sont plus petites que les IDL.",
+        "La densité des LDL est supérieure à celle des IDL.",
+        "Les VLDL sont moins denses que les chylomicrons."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chylomicrons mesurent 800 à 5000 Å, les VLDL 300 à 700 Å, les IDL 272 à 300 Å et les LDL 220 à 272 Å. La densité augmente globalement vers les LDL. Les VLDL ont une densité supérieure à celle des chylomicrons."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la composition approximative des IDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles contiennent environ 23 % de triglycérides.",
+        "Elles contiennent environ 29 % d’esters de cholestérol.",
+        "Elles contiennent environ 19 % de protéines.",
+        "Elles contiennent environ 2 % de cholestérol libre."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les IDL contiennent environ 23 % de triglycérides, 29 % d’esters de cholestérol, 9 % de cholestérol libre, 19 % de phospholipides et 19 % de protéines."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du contenu apolipoprotéique des IDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Chaque particule d’IDL contient une molécule d’apoB-100.",
+        "Les IDL contiennent plusieurs molécules d’apoE.",
+        "Lors de leur transformation, les apoC perdent leur affinité avec la particule.",
+        "L’apoB-48 est indispensable au maintien de l’intégrité structurale des IDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chaque IDL contient une molécule d’apoB-100 et plusieurs molécules d’apoE. Les apoC perdent leur affinité et sont échangées avec les VLDL, HDL et chylomicrons. L’apoB-48 concerne l’assemblage des chylomicrons."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la composition et la structure des LDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Les esters de cholestérol représentent environ 42 % de leur composition.",
+        "Les triglycérides représentent environ 6 % de leur composition.",
+        "Les phospholipides et les protéines représentent chacun environ 22 %.",
+        "Chaque LDL contient plusieurs molécules d’apoB-100."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les LDL contiennent environ 42 % d’esters de cholestérol, 6 % de triglycérides, 8 % de cholestérol libre, 22 % de phospholipides et 22 % de protéines. Chaque LDL contient une seule molécule d’apoB-100."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les HDL naissantes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles ont une forme discoïde.",
+        "Elles sont stabilisées par des apolipoprotéines.",
+        "Elles peuvent être sécrétées par le foie et l’intestin.",
+        "Elles contiennent initialement principalement l’apoA-II comme apolipoprotéine caractéristique de maturation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HDL naissantes sont discoïdes, stabilisées par des apolipoprotéines, sécrétées par le foie et l’intestin, et dérivent aussi de résidus d’hydrolyse. Elles contiennent surtout des phospholipides et les apoA-I, C-II, C-III et E ; l’acquisition d’apoA-II survient lors de la maturation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la maturation des HDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Les apoC-II, apoC-III et apoE sont transférées vers les lipoprotéines riches en triglycérides.",
+        "Les HDL acquièrent les apoA-II et apoA-IV.",
+        "La maturation permet la transformation en particules sphériques.",
+        "La maturation repose sur le transfert des esters de cholestérol des VLDL vers les HDL naissantes selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Lors de la maturation des HDL, les apoC-II, C-III et E sont transférées vers les lipoprotéines riches en triglycérides, tandis que les HDL acquièrent les apoA-II et A-IV, ce qui permet leur transformation en particules sphériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les relations entre HDL2 et HDL3, quelles propositions sont exactes ?",
+      "choices": [
+        "Les HDL2 sont de plus grande taille que les HDL3.",
+        "Les HDL3 sont plus denses que les HDL2.",
+        "Les HDL3 ont une proportion protéique plus élevée que les HDL2.",
+        "Les HDL2 ont une proportion de phospholipides inférieure à celle des HDL3."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HDL2 mesurent 90 à 100 Å et les HDL3 70 à 90 Å. Les HDL3 ont une densité de 1,125 à 1,210 g/ml, supérieure à celle des HDL2. Les HDL3 contiennent environ 55 % de protéines contre 40 % pour les HDL2. Les HDL2 ont 55 % de phospholipides contre 25 % pour les HDL3."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les HDL comparées aux LDL et aux VLDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles participent au transport inverse du cholestérol.",
+        "Elles favorisent le retour du cholestérol des tissus vers le foie.",
+        "Leur densité est supérieure à celle des LDL.",
+        "Leur diamètre est supérieur à celui des VLDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HDL participent au transport inverse du cholestérol et au retour du cholestérol des tissus vers le foie. Leur densité est supérieure à celle des LDL et leur diamètre est inférieur à celui des VLDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la lipoprotéine(a), quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est riche en esters de cholestérol.",
+        "Elle est associée au risque de maladies cardiovasculaires et cérébrovasculaires.",
+        "Elle résulte de l’association d’une particule de type LDL avec l’apo(a).",
+        "Elle résulte de l’association d’un chylomicron avec l’apo(a)."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La Lp(a) est une lipoprotéine riche en esters de cholestérol, associée au risque cardiovasculaire et cérébrovasculaire. Elle correspond à une particule de type LDL associée à l’apo(a)."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rôles structuraux des apoB dans les lipoprotéines, quelles propositions sont exactes ?",
+      "choices": [
+        "L’apoB-48 est nécessaire à l’assemblage des chylomicrons.",
+        "L’apoB-100 est nécessaire à l’assemblage et à l’intégrité structurale des VLDL.",
+        "L’apoB-100 est indispensable au maintien de l’intégrité structurale des LDL.",
+        "L’apoB-48 est présente comme molécule unique dans chaque LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’apoB-48 intervient dans l’assemblage des chylomicrons. L’apoB-100 est nécessaire aux VLDL et chaque LDL contient une seule molécule d’apoB-100, indispensable à son intégrité structurale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle lipoprotéine mesure environ 272 à 300 Å et possède une densité de 1,008 à 1,019 g/ml ?",
+      "choices": [
+        "Chylomicron",
+        "VLDL",
+        "IDL",
+        "HDL3"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les IDL mesurent environ 272 à 300 Å et ont une densité de 1,008 à 1,019 g/ml."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle sous-fraction HDL a une taille de 90 à 100 Å et une densité de 1,063 à 1,125 g/ml ?",
+      "choices": [
+        "HDL naissante",
+        "HDL2",
+        "HDL3",
+        "LDL"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les HDL2 ont une taille de 90 à 100 Å et une densité de 1,063 à 1,125 g/ml."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, quelle est la proportion approximative de phospholipides dans les HDL2 ?",
+      "choices": [
+        "25 %",
+        "40 %",
+        "55 %",
+        "13 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La composition approximative des HDL2 indique environ 55 % de phospholipides."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle lipoprotéine représente la dernière classe de la cascade des lipoprotéines contenant l’apoB-100 ?",
+      "choices": [
+        "VLDL",
+        "IDL",
+        "LDL",
+        "HDL2"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les LDL proviennent des IDL et représentent la dernière classe de lipoprotéines de la cascade contenant l’apoB-100."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle classe de lipoprotéines assure le transport des lipides alimentaires de l’intestin vers les tissus périphériques ?",
+      "choices": [
+        "Chylomicrons",
+        "VLDL",
+        "LDL",
+        "HDL3"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les chylomicrons transportent les lipides alimentaires de l’intestin vers les tissus périphériques."
+    },
+    {
+      "type": "QCS",
+      "question": "Concernant l’apo(a) de la Lp(a), quelle proposition est exacte ?",
+      "choices": [
+        "Elle est synthétisée par le foie indépendamment de l’apoB-100.",
+        "Elle est synthétisée par l’intestin en association avec l’apoB-48.",
+        "Elle remplace l’apoB-100 dans la particule LDL.",
+        "Elle se fixe aux HDL naissantes pour former la Lp(a)."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’apo(a) est synthétisée par le foie indépendamment de l’apoB-100 et se lie à l’apoB-100 d’une particule de type LDL par un lien disulfure."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le relais métabolique postprandial entre chylomicrons et VLDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Quelques heures après un repas, la diminution des chylomicrons circulants s’accompagne d’une prise en charge des besoins périphériques en triglycérides par les VLDL.",
+        "Les VLDL transportent des lipides synthétisés ou transformés par le foie vers les tissus.",
+        "En situation normale, les chylomicrons circulants restent élevés environ 12 heures après un repas.",
+        "La voie endogène correspond au transport des lipides alimentaires directement issus de l’intestin vers les tissus."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Après le repas, lorsque les chylomicrons diminuent, les VLDL assurent l’apport périphérique en triglycérides à partir de lipides hépatiques. Les chylomicrons deviennent normalement très faibles environ 12 heures après un repas."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rapport apoC-II/apoC-III dans le métabolisme des lipoprotéines riches en triglycérides, quelles propositions sont exactes ?",
+      "choices": [
+        "Il détermine la vitesse de transformation des chylomicrons en remnants.",
+        "Il module l’activité de la lipoprotéine lipase lors de l’hydrolyse des VLDL.",
+        "L’apoC-II inhibe la lipoprotéine lipase.",
+        "L’apoC-III active la lipoprotéine lipase."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’apoC-II active la lipoprotéine lipase alors que l’apoC-III l’inhibe. Leur rapport influence donc l’hydrolyse des triglycérides des chylomicrons et des VLDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les modifications enzymatiques possibles des LDL selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La lipase hépatique peut hydrolyser les triglycérides restant dans les LDL.",
+        "La lipase endothéliale peut hydrolyser les triglycérides des lipoprotéines contenant l’apoB-100.",
+        "La LCAT peut agir sur les LDL en estérifiant le cholestérol libre.",
+        "La lipoprotéine lipase retire directement les LDL de la circulation en reconnaissant l’apoB-100."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue à la lipase hépatique, à la lipase endothéliale et à la LCAT des actions possibles sur les LDL ou les lipoprotéines contenant l’apoB-100. Le retrait des LDL dépend du récepteur LDL reconnaissant l’apoB-100."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distribution tissulaire des systèmes impliqués dans l’acquisition du cholestérol par les HDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Le récepteur SR-B1/Cla-1 est présent notamment dans les macrophages.",
+        "Le système ABCA-1 est présent dans les reins.",
+        "Le foie est cité parmi les sites où se trouvent SR-B1/Cla-1 et ABCA-1.",
+        "Le système ABCA-1 est cité dans les muscles et le tissu adipeux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "SR-B1/Cla-1 est cité dans les macrophages, le foie et les tissus stéroïdogéniques. ABCA-1 est cité dans les macrophages, le foie, les reins, l’intestin et les glandes surrénales."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’acquisition de lipides par les HDL au cours du transport inverse du cholestérol, quelles propositions sont exactes ?",
+      "choices": [
+        "Les HDL reçoivent du cholestérol libre lors de l’hydrolyse d’autres lipoprotéines.",
+        "Les HDL reçoivent des esters de cholestérol lors de l’hydrolyse d’autres lipoprotéines.",
+        "Les phospholipides des HDL proviennent principalement des autres lipoprotéines.",
+        "Les apolipoprotéines des HDL proviennent exclusivement de la synthèse intestinale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HDL acquièrent du cholestérol libre, des esters de cholestérol et des phospholipides à partir d’autres lipoprotéines. Leurs apolipoprotéines proviennent du foie, de l’intestin et de l’hydrolyse des chylomicrons et VLDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le devenir du cholestérol délivré par les HDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans le foie, le cholestérol peut être transformé en sels biliaires.",
+        "Dans le foie, le cholestérol peut être excrété directement dans la bile.",
+        "Dans les tissus stéroïdogéniques, le cholestérol peut être transformé en hormones stéroïdiennes.",
+        "Après livraison de leurs esters de cholestérol, les HDL sont obligatoirement éliminées définitivement de la circulation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cholestérol hépatique peut devenir sels biliaires ou être excrété dans la bile. Dans les tissus stéroïdogéniques, il sert à la synthèse d’hormones stéroïdiennes. Les HDL peuvent retourner en circulation après livraison."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les deux modalités de retour hépatique des esters de cholestérol associés aux HDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Les HDL peuvent être captées par le récepteur SR-B1/Cla-1 du foie.",
+        "Les esters de cholestérol transférés aux LDL et VLDL peuvent retourner au foie via le récepteur LDL.",
+        "La CETP permet un échange entre HDL et lipoprotéines contenant l’apoB-100.",
+        "Les esters de cholestérol des HDL retournent uniquement au foie sous forme de chylomicrons."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le retour hépatique peut se faire directement par captation des HDL via SR-B1/Cla-1 ou indirectement après transfert des esters de cholestérol aux LDL/VLDL, qui retournent au foie via le récepteur LDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les transferts assurés par la CETP dans le plasma, quelles propositions sont exactes ?",
+      "choices": [
+        "La CETP assure des transferts d’esters de cholestérol.",
+        "La CETP assure des transferts de triglycérides.",
+        "La CETP peut transférer des esters de rétinol.",
+        "La CETP transfère principalement l’apoB-100 des LDL vers les HDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La CETP transfère des lipides neutres : esters de cholestérol, triglycérides, esters de rétinol et une partie des phospholipides. Elle ne transfère pas principalement l’apoB-100."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la séquence conduisant aux LDL petites et denses, quelles propositions sont exactes ?",
+      "choices": [
+        "La CETP favorise l’enrichissement des LDL en triglycérides.",
+        "Plus les VLDL sont riches en triglycérides, plus le transfert de triglycérides vers les LDL est important.",
+        "Les LDL enrichies en triglycérides deviennent de meilleurs substrats pour la lipase hépatique et la lipase endothéliale.",
+        "L’hydrolyse des triglycérides des LDL rend les particules plus grandes et moins denses."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La CETP permet l’échange favorisant l’enrichissement des LDL en triglycérides. Ces LDL deviennent des substrats des lipases, dont l’action les rend plus petites et plus denses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la phospholipase A2 sécrétée dans la formation des LDL petites et denses, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut contribuer à l’hydrolyse des lipides des LDL.",
+        "Elle peut participer à la formation de LDL petites et denses.",
+        "Elle peut contribuer à l’augmentation du risque cardiovasculaire.",
+        "Elle transforme directement les HDL3 en HDL2 par estérification du cholestérol libre."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que la phospholipase A2 sécrétée peut hydrolyser les lipides des LDL, contribuer aux LDL petites et denses et augmenter le risque cardiovasculaire. La transformation HDL3 vers HDL2 relève de l’enrichissement en cholestérol et de l’action de la LCAT."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les points communs entre apoA-I et apoA-IV selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont synthétisées par le foie et l’intestin.",
+        "Elles sont distribuées dans les chylomicrons et les HDL.",
+        "Elles sont associées à l’activation de la LCAT.",
+        "Elles sont distribuées exclusivement dans les LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "ApoA-I et apoA-IV sont synthétisées par le foie et l’intestin, présentes dans les chylomicrons et HDL, et associées à l’activation de la LCAT. Elles ne sont pas décrites comme exclusivement LDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’apoA-II, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est synthétisée par le foie et l’intestin.",
+        "Elle est distribuée dans les HDL.",
+        "Elle a un rôle structural.",
+        "Elle active physiologiquement la lipoprotéine lipase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’apoA-II est synthétisée par le foie et l’intestin, distribuée dans les HDL, avec un rôle structural, une modulation de la lipase hépatique et un rôle dans l’efflux de cholestérol. L’activation physiologique de la lipoprotéine lipase n’est pas son rôle dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’apoA-V, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est synthétisée par le foie.",
+        "Elle intervient dans le métabolisme des lipoprotéines riches en triglycérides.",
+        "Elle est décrite comme synthétisée uniquement par l’intestin.",
+        "Elle est décrite comme le ligand reconnu par le récepteur LDL pour la clairance des LDL."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’apoA-V est synthétisée par le foie et intervient dans le métabolisme des lipoprotéines riches en triglycérides. La reconnaissance des LDL par le récepteur LDL concerne l’apoB-100."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’orientation générale des trois grandes voies du transport lipidique, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie exogène transporte les lipides alimentaires de l’intestin vers les tissus.",
+        "La voie endogène transporte les lipides synthétisés ou transformés par le foie vers les tissus.",
+        "Le transport inverse du cholestérol ramène le cholestérol des tissus périphériques vers le foie.",
+        "Le transport inverse du cholestérol correspond au transport principal des triglycérides hépatiques vers les muscles et le tissu adipeux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois voies sont définies par l’origine et la destination des lipides : intestin vers tissus, foie vers tissus, et tissus périphériques vers foie pour le cholestérol."
+    },
+    {
+      "type": "QCS",
+      "question": "En situation normale, à quel moment les chylomicrons circulants deviennent-ils très faibles après un repas ?",
+      "choices": [
+        "Environ 2 heures après le repas",
+        "Environ 6 heures après le repas",
+        "Environ 12 heures après le repas",
+        "Environ 2,7 jours après le repas"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique que les chylomicrons circulants deviennent très faibles environ 12 heures après un repas."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel système impliqué dans l’acquisition du cholestérol par les HDL est cité comme présent dans les reins ?",
+      "choices": [
+        "Le récepteur LDL",
+        "Le système ABCA-1",
+        "La CETP",
+        "La lipase hépatique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "ABCA-1 est cité dans les macrophages, le foie, les reins, l’intestin et les glandes surrénales."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la conséquence d’une diminution de la clairance des LDL selon le texte ?",
+      "choices": [
+        "Une diminution de la demi-vie des LDL",
+        "Une augmentation de la demi-vie des LDL",
+        "Une disparition de l’apoB-100 des LDL",
+        "Une transformation immédiate des LDL en chylomicrons"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La demi-vie moyenne des LDL est d’environ 2,7 jours et peut augmenter en cas de diminution de leur clairance."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les tissus stéroïdogéniques, en quoi le cholestérol délivré par les HDL peut-il être transformé ?",
+      "choices": [
+        "En sels biliaires",
+        "En hormones stéroïdiennes",
+        "En apoB-48",
+        "En remnants de chylomicrons"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans les tissus stéroïdogéniques, le cholestérol délivré par les HDL est transformé en hormones stéroïdiennes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme peut hydrolyser les triglycérides restant dans les LDL ?",
+      "choices": [
+        "La lipase hépatique",
+        "La LCAT",
+        "La CETP",
+        "Le système ABCA-1"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la lipase hépatique peut hydrolyser les triglycérides restant dans les LDL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle apolipoprotéine est décrite comme modulant la lipase hépatique et participant à l’efflux de cholestérol ?",
+      "choices": [
+        "ApoA-I",
+        "ApoA-II",
+        "ApoA-V",
+        "ApoB-100"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’apoA-II a un rôle structural, module la lipase hépatique et participe à l’efflux de cholestérol."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les apolipoprotéines suivantes, lesquelles associent, selon le texte, une synthèse hépatique et intestinale et une distribution dans les chylomicrons, les VLDL et les HDL ?",
+      "choices": [
+        "ApoC-I",
+        "ApoC-II",
+        "ApoC-III",
+        "ApoF"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "ApoC-I, ApoC-II et ApoC-III sont synthétisées par le foie et l’intestin et sont distribuées dans les chylomicrons, les VLDL et les HDL. ApoF est synthétisée par le foie et distribuée dans les LDL, VLDL et HDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les interactions entre apolipoprotéines et récepteurs lipoprotéiques, quelles propositions sont exactes ?",
+      "choices": [
+        "L’apoB-100 est un ligand du récepteur LDL.",
+        "L’apoE est un ligand des récepteurs LDL et LRP.",
+        "L’apoC-I inhibe la liaison aux récepteurs LDL, LRP et VLDL.",
+        "L’apoB-48 est décrite comme ligand du récepteur LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue à l’apoB-100 un rôle de ligand du récepteur LDL, et à l’apoE un rôle de ligand des récepteurs LDL et LRP. L’apoC-I inhibe la liaison aux récepteurs LDL, LRP et VLDL. L’apoB-48 a un rôle structural dans les chylomicrons, sans fonction de ligand LDL indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont décrits comme inhibiteurs de la CETP ?",
+      "choices": [
+        "ApoC-I",
+        "ApoF",
+        "ApoC-II",
+        "PLTP"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "ApoC-I et ApoF inhibent la CETP. ApoC-II active la lipoprotéine lipase. La PLTP est une protéine de transfert, sans rôle d’inhibition de la CETP mentionné."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les protéines ou enzymes associées aux HDL, quelles propositions sont exactes ?",
+      "choices": [
+        "La LCAT estérifie le cholestérol des HDL et des LDL.",
+        "La paraoxonase 1 hydrolyse des lipides oxydés pro-inflammatoires.",
+        "La PAF-acétylhydrolase est distribuée exclusivement dans les HDL.",
+        "La lipase endothéliale hydrolyse les phospholipides des HDL."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La LCAT est associée aux HDL et estérifie le cholestérol des HDL et LDL. La paraoxonase 1 hydrolyse des lipides oxydés pro-inflammatoires. La lipase endothéliale hydrolyse les phospholipides des HDL. La PAF-acétylhydrolase est distribuée dans les HDL, LDL et Lp(a), donc pas exclusivement dans les HDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments font partie des molécules transférées par la PLTP selon le texte ?",
+      "choices": [
+        "Phospholipides",
+        "Lipopolysaccharides",
+        "Cholestérol libre",
+        "Esters de cholestérol et triglycérides"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PLTP transfère les phospholipides, lipopolysaccharides, diacylglycérides, cholestérol libre et alpha-tocophérol. Les esters de cholestérol et triglycérides relèvent du transfert par la CETP."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs peuvent réduire ou compromettre l’hydrolyse des triglycérides des lipoprotéines riches en triglycérides ?",
+      "choices": [
+        "L’inhibition de la lipoprotéine lipase par l’apoC-III",
+        "Un déficit d’activité de la lipoprotéine lipase",
+        "Une carence insulinique",
+        "L’activation de la lipoprotéine lipase par l’apoC-II"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "ApoC-III inhibe la lipoprotéine lipase. Une hypertriglycéridémie peut résulter d’un déficit d’activité de la lipoprotéine lipase ou d’une carence insulinique. ApoC-II active au contraire la lipoprotéine lipase."
+    },
+    {
+      "type": "QCM",
+      "question": "La lipase hépatique hydrolyse les triglycérides et phospholipides de quelles particules selon le texte ?",
+      "choices": [
+        "Remnants de VLDL",
+        "IDL",
+        "LDL et HDL",
+        "Chylomicrons"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lipase hépatique hydrolyse les triglycérides et phospholipides des remnants de VLDL, des IDL, des LDL et des HDL. Les chylomicrons ne sont pas cités dans cette fonction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les hyperlipidémies, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elles peuvent être génétiques.",
+        "Elles peuvent être secondaires à un syndrome néphrotique, un diabète ou un éthylisme chronique.",
+        "Elles peuvent être classées selon l’électrophorèse des lipoprotéines.",
+        "Elles ne sont pas associées à une augmentation du risque cardiovasculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hyperlipidémies peuvent être génétiques, secondaires à certaines pathologies, et classées selon l’électrophorèse des lipoprotéines. Elles sont associées à une augmentation du risque cardiovasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’expression clinique et biologique d’une hyperchylomicronémie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut entraîner un sérum lactescent lorsque les chylomicrons persistent anormalement à jeun.",
+        "Elle peut s’accompagner de xanthomes éruptifs.",
+        "Les xanthomes éruptifs sont décrits comme des papules jaunâtres, notamment sur le tronc et l’abdomen.",
+        "Elle est expliquée par une anomalie structurale de l’apoB-100 altérant la reconnaissance des LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hyperchylomicronémie peut donner un sérum lactescent, notamment à jeun si les chylomicrons persistent anormalement, et des xanthomes éruptifs sous forme de papules jaunâtres surtout sur le tronc et l’abdomen. L’anomalie de l’apoB-100 concerne l’hypercholestérolémie familiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hypercholestérolémie familiale liée à l’apoB-100, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être liée à une anomalie structurale de l’apoB-100.",
+        "Elle entraîne une altération de la reconnaissance des LDL par leur récepteur.",
+        "L’apoB-100 est distribuée dans les VLDL, IDL et LDL.",
+        "Elle résulte d’un déficit d’activité de la lipoprotéine lipase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique qu’une anomalie structurale de l’apoB-100 peut altérer la reconnaissance des LDL par leur récepteur. L’apoB-100 est distribuée dans les VLDL, IDL et LDL. Le déficit de lipoprotéine lipase concerne l’hypertriglycéridémie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du cholestérol, quelles propositions sont exactes ?",
+      "choices": [
+        "Il a une origine endogène et exogène.",
+        "Il est un précurseur de la biosynthèse des hormones stéroïdiennes.",
+        "Il est éliminé par la bile directement ou après transformation en sels biliaires.",
+        "Son augmentation sanguine protège de l’athérosclérose."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le cholestérol a une origine endogène et exogène, sert de précurseur aux hormones stéroïdiennes et est éliminé par la bile directement ou sous forme de sels biliaires. Son augmentation sanguine favorise l’athérosclérose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les triglycérides, les acides gras et leur bêta-oxydation, quelles propositions sont exactes ?",
+      "choices": [
+        "Les triglycérides fournissent plus de deux fois plus d’énergie que les glucides.",
+        "Le cœur est un important consommateur d’acides gras issus des triglycérides.",
+        "Les acides gras possèdent une fonction acide et ont le plus souvent un nombre pair d’atomes de carbone.",
+        "La bêta-oxydation des acides gras entraîne la réduction du FAD."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions reprennent les données du texte : haut rendement énergétique des triglycérides, consommation cardiaque d’acides gras, caractéristiques générales des acides gras et réduction du FAD au cours de la bêta-oxydation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre apoB-100 et apoB-48, quelles propositions sont exactes ?",
+      "choices": [
+        "L’apoB-100 est distribuée dans les VLDL, IDL et LDL.",
+        "L’apoB-48 est distribuée dans les chylomicrons.",
+        "Les deux ont un rôle structural dans les particules auxquelles elles sont associées.",
+        "L’apoB-48 est décrite comme ligand du récepteur LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’apoB-100 est associée aux VLDL, IDL et LDL et joue un rôle structural ainsi qu’un rôle de ligand du récepteur LDL. L’apoB-48 est associée aux chylomicrons et a un rôle structural dans leur synthèse et sécrétion, sans rôle de ligand LDL mentionné."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations distribution-fonction sont exactes selon le texte ?",
+      "choices": [
+        "ApoJ : HDL ; effet anti-inflammatoire",
+        "ApoSAA : HDL et chylomicrons ; protéine de phase aiguë de l’inflammation",
+        "PAF-acétylhydrolase : HDL, LDL et Lp(a) ; hydrolyse du PAF et de dérivés lipidiques hydroperoxydés",
+        "ApoB-48 : HDL ; inhibition de la CETP"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "ApoJ est associée aux HDL avec un effet anti-inflammatoire. ApoSAA est présente dans les HDL et chylomicrons comme protéine de phase aiguë. La PAF-acétylhydrolase est présente dans les HDL, LDL et Lp(a). ApoB-48 est associée aux chylomicrons et n’inhibe pas la CETP."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle apolipoprotéine est décrite comme synthétisée par l’intestin, distribuée dans les chylomicrons et impliquée dans leur rôle structural ainsi que leur synthèse et sécrétion ?",
+      "choices": [
+        "ApoB-48",
+        "ApoC-II",
+        "ApoE",
+        "ApoF"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’apoB-48 est synthétisée par l’intestin, distribuée dans les chylomicrons et participe à leur structure, synthèse et sécrétion."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme est spécifiquement localisée à l’endothélium capillaire selon le texte ?",
+      "choices": [
+        "Lipoprotéine lipase",
+        "Lipase hépatique",
+        "LCAT",
+        "CETP"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La lipoprotéine lipase est localisée à l’endothélium capillaire. La lipase hépatique est localisée à l’endothélium, tandis que LCAT et CETP sont distribuées dans les HDL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle protéine de transfert associée aux HDL transfère notamment les phospholipides, lipopolysaccharides, diacylglycérides, cholestérol libre et alpha-tocophérol ?",
+      "choices": [
+        "LCAT",
+        "CETP",
+        "PLTP",
+        "Paraoxonase 1"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La PLTP transfère les phospholipides, lipopolysaccharides, diacylglycérides, cholestérol libre et alpha-tocophérol."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une hyperchylomicronémie, que traduit le sérum lactescent observé notamment à jeun ?",
+      "choices": [
+        "Une activation de la LCAT",
+        "Une persistance anormale des chylomicrons",
+        "Une inhibition de la CETP par ApoF",
+        "Une hydrolyse du PAF par la PAF-acétylhydrolase"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le sérum lactescent de l’hyperchylomicronémie traduit la persistance anormale des chylomicrons, notamment à jeun."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel devenir du cholestérol est explicitement indiqué dans le texte ?",
+      "choices": [
+        "Élimination par la bile, directement ou après transformation en sels biliaires",
+        "Hydrolyse par la lipoprotéine lipase",
+        "Transformation obligatoire en triglycérides",
+        "Transfert exclusif par la PLTP sous forme d’esters de cholestérol"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le cholestérol est éliminé par la bile, directement ou après transformation en sels biliaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modification coenzymatique est mentionnée au cours de la bêta-oxydation des acides gras ?",
+      "choices": [
+        "Réduction du FAD",
+        "Activation de la CETP",
+        "Estérification du cholestérol des HDL",
+        "Hydrolyse du PAF"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La bêta-oxydation des acides gras fait intervenir une thiolase et entraîne la réduction du FAD."
+    },
+    {
+      "type": "QCM",
+      "question": "Une lipoprotéine de très grande taille, de densité proche de 0,93 g/ml, contenant environ 86 % de triglycérides, est analysée. Quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’un chylomicron.",
+        "Elle transporte principalement les lipides alimentaires d’origine intestinale.",
+        "Son assemblage nécessite l’apoB-48.",
+        "Elle dérive de l’hydrolyse des VLDL par les lipases."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chylomicrons sont très volumineux, très riches en triglycérides, de densité environ 0,93 g/ml, transportent les lipides alimentaires et nécessitent l’apoB-48 pour leur assemblage. Les IDL, et non les chylomicrons, dérivent de l’hydrolyse des VLDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une particule de 300 à 700 Å, de densité 0,95 à 1,010 g/ml, contenant apoB-100, apoE et apoC, quelles conclusions sont justes ?",
+      "choices": [
+        "Elle est synthétisée et sécrétée par le foie.",
+        "Elle participe au transport endogène des lipides.",
+        "Elle donne naissance aux IDL après hydrolyse par la lipoprotéine lipase.",
+        "Elle contient obligatoirement une apoB-48 structurale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Ce profil correspond aux VLDL : synthèse hépatique, transport endogène des lipides du foie vers les tissus périphériques, hydrolyse par la LPL donnant les IDL. L’apoB-48 concerne les chylomicrons."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les lipoprotéines suivantes, lesquelles appartiennent à la cascade des lipoprotéines contenant l’apoB-100 décrite dans le texte ?",
+      "choices": [
+        "VLDL",
+        "IDL",
+        "LDL",
+        "HDL naissantes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cascade contenant l’apoB-100 est VLDL → IDL → LDL. Les HDL naissantes ne font pas partie de cette cascade."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours de la progression VLDL → IDL → LDL, quelles variations chiffrées ou directionnelles sont conformes au texte ?",
+      "choices": [
+        "La proportion de triglycérides diminue progressivement de 55 % à 23 % puis 6 %.",
+        "La proportion d’esters de cholestérol augmente de 12 % à 29 % puis 42 %.",
+        "La densité augmente au cours de la cascade.",
+        "La particule s’enrichit progressivement en apoB-48."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transformation VLDL → IDL → LDL s’accompagne d’une perte majeure de triglycérides, d’un enrichissement en esters de cholestérol et d’une augmentation de densité. L’apoB-48 n’intervient pas dans cette cascade."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la comparaison HDL2–HDL3, quelles propositions sont exactes ?",
+      "choices": [
+        "Les HDL3 sont plus denses que les HDL2.",
+        "Les HDL3 sont plus petites que les HDL2.",
+        "Les HDL3 ont une proportion protéique plus élevée que les HDL2.",
+        "Les HDL2 ont une densité supérieure à celle des HDL3."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HDL3 mesurent 70 à 90 Å, ont une densité de 1,125 à 1,210 g/ml et contiennent environ 55 % de protéines. Les HDL2 sont plus grandes, moins denses et moins riches en protéines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les changements apolipoprotéiques au cours de la maturation des HDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Les HDL naissantes contiennent principalement les apoA-I, C-II, C-III et E.",
+        "Les apoC-II, apoC-III et apoE sont transférées vers les lipoprotéines riches en triglycérides.",
+        "Les HDL acquièrent les apoA-II et A-IV lors de leur transformation en particules sphériques.",
+        "L’acquisition d’apoB-100 est indispensable à la maturation sphérique des HDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HDL naissantes contiennent surtout apoA-I, C-II, C-III et E. Lors de leur maturation, elles cèdent C-II, C-III et E aux lipoprotéines riches en triglycérides et acquièrent A-II et A-IV. L’apoB-100 n’est pas impliquée dans la maturation des HDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les particules associées au risque athérogène ou cardiovasculaire dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les LDL sont décrites comme athérogènes.",
+        "Les LDL petites et denses sont particulièrement athérogènes.",
+        "La Lp(a) est associée au risque de maladies cardiovasculaires et cérébrovasculaires.",
+        "Les HDL sont décrites comme ayant la même fonction que les LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que les LDL sont athérogènes, surtout les petites LDL denses, et que la Lp(a) est associée au risque cardiovasculaire et cérébrovasculaire. Les HDL ont une fonction inverse de celle des LDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon les compositions approximatives données, quelles lipoprotéines ont une proportion d’esters de cholestérol supérieure à celle des triglycérides ?",
+      "choices": [
+        "IDL",
+        "LDL",
+        "VLDL",
+        "Chylomicrons"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les IDL contiennent environ 29 % d’esters de cholestérol et 23 % de triglycérides ; les LDL 42 % d’esters de cholestérol et 6 % de triglycérides. Les VLDL et chylomicrons sont au contraire majoritairement riches en triglycérides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la proportion protéique des principales lipoprotéines de la cascade VLDL–IDL–LDL et des chylomicrons, quelles propositions sont exactes ?",
+      "choices": [
+        "Les chylomicrons ont une faible proportion protéique, autour de 2 %.",
+        "Les VLDL contiennent environ 8 % de protéines.",
+        "Les IDL contiennent environ 19 % de protéines.",
+        "Les LDL contiennent moins de protéines que les chylomicrons."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chylomicrons contiennent environ 2 % de protéines, les VLDL 8 %, les IDL 19 % et les LDL 22 %. Les LDL sont donc plus riches en protéines que les chylomicrons."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rapports de taille et de densité entre lipoprotéines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les HDL ont un diamètre inférieur à celui des VLDL.",
+        "Les HDL ont une densité supérieure à celle des LDL.",
+        "Les LDL sont plus petites que les IDL.",
+        "Les chylomicrons ont une densité supérieure à celle des VLDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HDL sont plus petites que les VLDL et plus denses que les LDL. Les LDL sont plus petites que les IDL. Les chylomicrons ont une densité plus faible que les VLDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rôles de l’apoB-48 et de l’apoB-100 dans les particules décrites, quelles propositions sont exactes ?",
+      "choices": [
+        "L’apoB-48 est nécessaire à l’assemblage des chylomicrons.",
+        "L’apoB-100 est nécessaire à l’assemblage et à l’intégrité structurale des VLDL.",
+        "L’apoB-100 est indispensable au maintien de l’intégrité structurale des LDL.",
+        "L’apoB-48 assure la transformation des HDL discoïdes en HDL sphériques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’apoB-48 est indispensable aux chylomicrons. L’apoB-100 intervient dans les VLDL et les LDL. La maturation des HDL implique notamment les apoA-II et A-IV, pas l’apoB-48."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’orientation du transport lipidique assuré par différentes lipoprotéines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les chylomicrons distribuent les triglycérides alimentaires aux muscles et au tissu adipeux.",
+        "Les chylomicrons apportent le cholestérol alimentaire au foie.",
+        "Les VLDL transportent des lipides endogènes du foie vers les tissus périphériques.",
+        "Les HDL participent au retour du cholestérol des tissus vers le foie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre orientations sont explicitement décrites : voie alimentaire par les chylomicrons, transport endogène par les VLDL et transport inverse du cholestérol par les HDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques des LDL selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles proviennent des IDL.",
+        "Chaque particule contient une seule molécule d’apoB-100.",
+        "Leur constituant lipidique majoritaire est représenté par les esters de cholestérol.",
+        "Elles ont une densité inférieure à celle des VLDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les LDL dérivent des IDL, contiennent une seule apoB-100 et sont riches en esters de cholestérol. Leur densité est supérieure à celle des VLDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les particules issues d’une hydrolyse ou d’un remaniement métabolique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hydrolyse des chylomicrons donne des remnants enrichis en cholestérol.",
+        "L’hydrolyse des VLDL par les lipases donne des IDL.",
+        "Les HDL naissantes peuvent dériver des résidus d’hydrolyse des lipoprotéines riches en triglycérides.",
+        "Les chylomicrons sont produits par hydrolyse des LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chylomicrons hydrolysés donnent des remnants enrichis en cholestérol ; les VLDL hydrolysées donnent les IDL ; les HDL naissantes peuvent dériver de résidus d’hydrolyse des lipoprotéines riches en triglycérides. Les chylomicrons ne dérivent pas des LDL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle lipoprotéine mesure 70 à 90 Å, a une densité de 1,125 à 1,210 g/ml et contient environ 55 % de protéines ?",
+      "choices": [
+        "HDL2",
+        "HDL3",
+        "LDL",
+        "IDL"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les HDL3 ont une taille de 70 à 90 Å, une densité de 1,125 à 1,210 g/ml et une composition comportant environ 55 % de protéines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle lipoprotéine contient approximativement 86 % de triglycérides et seulement 2 % de protéines ?",
+      "choices": [
+        "Chylomicron",
+        "VLDL",
+        "LDL",
+        "HDL3"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les chylomicrons sont les particules les plus riches en triglycérides dans les données fournies, avec environ 86 % de triglycérides et 2 % de protéines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle apolipoprotéine est synthétisée par le foie indépendamment de l’apoB-100 et s’associe à une particule de type LDL dans la Lp(a) ?",
+      "choices": [
+        "ApoA-I",
+        "Apo(a)",
+        "ApoC-II",
+        "ApoB-48"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans la Lp(a), l’apo(a), synthétisée par le foie indépendamment de l’apoB-100, s’associe à l’apoB-100 d’une particule de type LDL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle particule contient une molécule d’apoB-100 et plusieurs molécules d’apoE ?",
+      "choices": [
+        "Chylomicron",
+        "IDL",
+        "HDL2",
+        "LDL"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Chaque particule d’IDL contient une molécule d’apoB-100 et plusieurs molécules d’apoE."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les particules suivantes, laquelle présente la proportion de phospholipides la plus élevée selon les compositions approximatives du texte ?",
+      "choices": [
+        "VLDL",
+        "LDL",
+        "HDL2",
+        "HDL3"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les HDL2 contiennent environ 55 % de phospholipides, proportion supérieure à celle des VLDL, LDL et HDL3."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle particule associe une taille de 220 à 272 Å, une densité de 1,019 à 1,060 g/ml et une seule molécule d’apoB-100 ?",
+      "choices": [
+        "LDL",
+        "IDL",
+        "VLDL",
+        "Chylomicron"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les LDL mesurent environ 220 à 272 Å, ont une densité de 1,019 à 1,060 g/ml et chaque particule contient une seule molécule d’apoB-100."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la phase intestinale de la voie exogène, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lipides alimentaires sont hydrolysés dans l’intestin grêle avant leur absorption.",
+        "Les cellules épithéliales intestinales réestérifient les lipides absorbés.",
+        "L’assemblage des chylomicrons se fait avec l’apoB-100.",
+        "Les chylomicrons nouvellement formés sont sécrétés dans la lymphe."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les lipides alimentaires sont hydrolysés dans l’intestin grêle, absorbés par les cellules épithéliales intestinales, réestérifiés puis assemblés avec l’apoB-48 pour former des chylomicrons sécrétés dans la lymphe."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’utilisation des acides gras libérés par hydrolyse des triglycérides des lipoprotéines riches en triglycérides, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans la voie exogène, les acides gras issus des chylomicrons peuvent servir à la production d’énergie.",
+        "Dans la voie exogène, les acides gras issus des chylomicrons peuvent être stockés.",
+        "Dans la voie endogène, les acides gras libérés des VLDL servent de source énergétique.",
+        "Les acides gras libérés des VLDL sont décrits comme retournant directement dans la bile."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les acides gras libérés des chylomicrons servent à la production d’énergie ou au stockage. Ceux libérés des VLDL servent de source énergétique. Le retour direct dans la bile n’est pas décrit pour ces acides gras."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les récepteurs impliqués dans la clairance des particules résiduelles et des LDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Les remnants de chylomicrons peuvent être captés par le foie via le récepteur LDL.",
+        "Les remnants de chylomicrons peuvent être captés par la protéine apparentée au récepteur LDL.",
+        "Les LDL sont retirées de la circulation par un récepteur reconnaissant l’apoB-48.",
+        "Le récepteur LDL reconnaît l’apoB-100 des LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les remnants de chylomicrons sont captés par le foie via le récepteur LDL et la protéine apparentée au récepteur LDL. Les LDL sont retirées par le récepteur LDL, qui reconnaît l’apoB-100."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les actions attribuées à la LCAT dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle estérifie le cholestérol libre au cours de la maturation des HDL.",
+        "Elle peut agir sur les LDL en estérifiant le cholestérol libre.",
+        "Son activation physiologique est attribuée à l’apoA-I.",
+        "Elle hydrolyse les triglycérides des IDL pour former les LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La LCAT estérifie le cholestérol libre, notamment dans les HDL, et peut agir sur les LDL. L’apoA-I est son activateur physiologique. L’hydrolyse des triglycérides des IDL relève de la lipase hépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rôle de la CETP dans l’enrichissement en triglycérides des LDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet l’échange d’esters de cholestérol des LDL et HDL vers les VLDL contre des triglycérides.",
+        "Elle peut rendre les LDL enrichies en triglycérides.",
+        "Plus les VLDL sont riches en triglycérides, plus le transfert de triglycérides vers les LDL est important.",
+        "Elle transforme directement les LDL en sels biliaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La CETP échange des esters de cholestérol contre des triglycérides, notamment entre LDL/HDL et VLDL. Cette étape enrichit les LDL en triglycérides, surtout lorsque les VLDL sont très riches en triglycérides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les LDL enrichies en triglycérides dans la formation des LDL petites et denses, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles deviennent de meilleurs substrats pour la lipase hépatique.",
+        "Elles deviennent de meilleurs substrats pour la lipase endothéliale.",
+        "L’hydrolyse de leurs triglycérides rend les particules plus petites et plus denses.",
+        "Elles deviennent moins athérogènes selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les LDL enrichies en triglycérides sont de meilleurs substrats pour les lipases hépatique et endothéliale. L’hydrolyse de leurs triglycérides les rend petites et denses, particules décrites comme particulièrement athérogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "Après délivrance du cholestérol par les HDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Les HDL peuvent retourner en circulation.",
+        "Les HDL peuvent participer à un nouveau cycle de transport inverse.",
+        "Dans le foie, le cholestérol peut être transformé en sels biliaires.",
+        "Dans les macrophages, le cholestérol délivré est transformé en hormones stéroïdiennes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après livraison de leurs esters de cholestérol, les HDL peuvent revenir dans la circulation et participer à un nouveau cycle. Dans le foie, le cholestérol est transformé en sels biliaires ou excrété dans la bile. La transformation en hormones stéroïdiennes concerne les tissus stéroïdogéniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les apolipoprotéines A décrites, quelles propositions sont exactes ?",
+      "choices": [
+        "L’apoA-I est synthétisée par le foie et l’intestin.",
+        "L’apoA-II est distribuée dans les HDL.",
+        "L’apoA-IV participe au transport inverse du cholestérol.",
+        "L’apoA-V est synthétisée par le foie et l’intestin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’apoA-I est synthétisée par le foie et l’intestin. L’apoA-II est distribuée dans les HDL. L’apoA-IV participe au transport inverse du cholestérol. L’apoA-V est indiquée comme synthétisée par le foie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les apolipoprotéines impliquées dans la LCAT selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "L’apoA-I assure l’activation physiologique de la LCAT.",
+        "L’apoA-IV est associée à une activation de la LCAT.",
+        "L’apoA-II est décrite comme l’activateur physiologique principal de la LCAT.",
+        "L’apoA-V est décrite comme activant directement la LCAT."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’apoA-I est l’activateur physiologique de la LCAT. L’apoA-IV est également décrite comme activant la LCAT. L’apoA-II module la lipase hépatique et l’apoA-V intervient dans le métabolisme des lipoprotéines riches en triglycérides."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lipases et leurs substrats dans la voie endogène, quelles propositions sont exactes ?",
+      "choices": [
+        "La lipoprotéine lipase hydrolyse les VLDL dans les capillaires.",
+        "La lipase hépatique hydrolyse les triglycérides des IDL.",
+        "La lipase hépatique peut hydrolyser les triglycérides restant dans les LDL.",
+        "La lipase endothéliale hydrolyse exclusivement les triglycérides des chylomicrons."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les VLDL sont hydrolysées par la lipoprotéine lipase dans les capillaires. Les IDL subissent l’hydrolyse de leurs triglycérides par la lipase hépatique, qui peut aussi agir sur les triglycérides restant dans les LDL. La lipase endothéliale peut hydrolyser les triglycérides des lipoprotéines contenant l’apoB-100."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les origines des constituants des HDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Leurs apolipoprotéines sont synthétisées par le foie.",
+        "Leurs apolipoprotéines sont synthétisées par l’intestin.",
+        "Certaines apolipoprotéines des HDL proviennent de l’hydrolyse des chylomicrons et des VLDL par les lipases.",
+        "Leurs phospholipides proviennent principalement d’une synthèse exclusive par les tissus stéroïdogéniques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les apolipoprotéines des HDL sont synthétisées par le foie et l’intestin et proviennent aussi de l’hydrolyse des chylomicrons et VLDL. Les phospholipides des HDL proviennent principalement des autres lipoprotéines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lipides neutres transférés par la CETP dans le plasma, quelles propositions sont exactes ?",
+      "choices": [
+        "Les esters de cholestérol font partie des lipides transférés.",
+        "Les triglycérides font partie des lipides transférés.",
+        "Les esters de rétinol font partie des lipides transférés.",
+        "Les acides biliaires sont cités comme lipides neutres transférés par la CETP."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La CETP transfère notamment les esters de cholestérol, les triglycérides, les esters de rétinol et une partie des phospholipides. Les acides biliaires ne sont pas cités comme substrats de transfert de la CETP."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la phospholipase A2 sécrétée dans le contexte des LDL petites et denses, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut contribuer à l’hydrolyse des lipides des LDL.",
+        "Elle peut contribuer à la formation de LDL petites et denses.",
+        "Elle peut contribuer à l’augmentation du risque cardiovasculaire.",
+        "Elle est décrite comme diminuant l’athérogénicité des LDL petites et denses."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phospholipase A2 sécrétée peut contribuer à l’hydrolyse des lipides des LDL, à la formation de LDL petites et denses et à l’augmentation du risque cardiovasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le retour hépatique du cholestérol associé aux HDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Les esters de cholestérol transférés aux LDL peuvent retourner au foie via le récepteur LDL.",
+        "Les esters de cholestérol transférés aux VLDL peuvent retourner au foie via le récepteur LDL.",
+        "Les HDL peuvent être captées par le récepteur SR-B1/Cla-1 du foie.",
+        "Le retour hépatique nécessite obligatoirement la transformation préalable des HDL en chylomicrons."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les esters de cholestérol transférés aux LDL et VLDL retournent au foie via le récepteur LDL. Les HDL peuvent aussi être captées directement par le récepteur SR-B1/Cla-1 hépatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors de la formation intestinale des chylomicrons, avec quelle apolipoprotéine les lipides réestérifiés sont-ils assemblés ?",
+      "choices": [
+        "ApoA-II",
+        "ApoB-48",
+        "ApoB-100",
+        "ApoA-V"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les lipides réestérifiés dans les cellules épithéliales intestinales sont assemblés avec l’apoB-48 pour former les chylomicrons."
+    },
+    {
+      "type": "QCS",
+      "question": "Au cours de l’enrichissement des HDL en cholestérol, quelle évolution morphologique est décrite ?",
+      "choices": [
+        "Passage de HDL2 vers HDL3 avec diminution de taille",
+        "Passage de HDL3 vers HDL2 avec augmentation de taille",
+        "Transformation des HDL en LDL par perte d’apoB-100",
+        "Transformation des HDL en chylomicrons par acquisition d’apoB-48"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "À mesure que les HDL s’enrichissent en cholestérol, leur taille augmente, avec passage de HDL3 à HDL2."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la source de synthèse indiquée pour l’apoA-V ?",
+      "choices": [
+        "Foie",
+        "Intestin uniquement",
+        "Reins",
+        "Macrophages"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’apoA-V est indiquée comme synthétisée par le foie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel récepteur est responsable du retrait des LDL de la circulation en reconnaissant l’apoB-100 ?",
+      "choices": [
+        "ABCA-1",
+        "Récepteur LDL",
+        "SR-B1/Cla-1",
+        "Protéine de transfert des phospholipides"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les LDL sont retirées de la circulation par le récepteur LDL, qui reconnaît l’apoB-100."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les localisations suivantes, laquelle n’est pas citée pour le système ABCA-1 dans le texte ?",
+      "choices": [
+        "Macrophages",
+        "Reins",
+        "Intestin",
+        "Muscle squelettique"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le système ABCA-1 est cité dans les macrophages, le foie, les reins, l’intestin et les glandes surrénales. Le muscle squelettique n’est pas mentionné."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la formation des LDL petites et denses, quel événement rend les LDL de meilleurs substrats pour les lipases hépatique et endothéliale ?",
+      "choices": [
+        "Leur enrichissement en triglycérides",
+        "Leur transformation directe en chylomicrons",
+        "Leur captation par ABCA-1",
+        "Leur excrétion directe dans la bile"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les LDL enrichies en triglycérides deviennent de meilleurs substrats pour la lipase hépatique et la lipase endothéliale, dont l’action les rend plus petites et plus denses."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations apolipoprotéine–site de synthèse suivantes, lesquelles sont exactes selon le texte ?",
+      "choices": [
+        "ApoB-48 : intestin",
+        "ApoE : foie, macrophages, cerveau",
+        "ApoF : foie",
+        "ApoC-II : cerveau"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’apoB-48 est synthétisée par l’intestin. L’apoE est synthétisée par le foie, les macrophages et le cerveau. L’apoF est synthétisée par le foie. L’apoC-II est synthétisée par le foie et l’intestin, non par le cerveau."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les apolipoprotéines modulant les interactions avec les récepteurs ou la captation hépatique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’apoC-I inhibe la liaison aux récepteurs LDL, LRP et VLDL",
+        "L’apoC-III inhibe la captation hépatique des lipoprotéines riches en triglycérides",
+        "L’apoE inhibe la liaison aux récepteurs LDL et LRP",
+        "L’apoB-100 inhibe physiologiquement la reconnaissance des LDL par leur récepteur"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’apoC-I inhibe la liaison aux récepteurs LDL, LRP et VLDL. L’apoC-III inhibe la captation hépatique des lipoprotéines riches en triglycérides. L’apoE est au contraire un ligand des récepteurs LDL et LRP. L’apoB-100 est un ligand du récepteur LDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation de la lipoprotéine lipase, quelles propositions sont exactes ?",
+      "choices": [
+        "L’apoC-II active physiologiquement la lipoprotéine lipase",
+        "L’insuline active la lipoprotéine lipase",
+        "L’apoC-III inhibe la lipoprotéine lipase",
+        "L’apoF active la lipoprotéine lipase"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lipoprotéine lipase est activée par l’apoC-II et l’insuline, et inhibée par l’apoC-III. L’apoF est décrite comme inhibitrice de la CETP, non comme activatrice de la LPL."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions relatives aux protéines ou enzymes associées aux HDL, lesquelles sont exactes ?",
+      "choices": [
+        "La PAF-acétylhydrolase est distribuée dans les HDL, les LDL et la Lp(a)",
+        "La paraoxonase 1 est distribuée dans les HDL",
+        "La LCAT est distribuée dans les HDL",
+        "La lipoprotéine lipase a pour distribution les HDL"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PAF-acétylhydrolase est distribuée dans les HDL, LDL et Lp(a). La paraoxonase 1 et la LCAT sont distribuées dans les HDL. La lipoprotéine lipase est localisée à l’endothélium capillaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les protéines de transfert lipidiques, quelles propositions sont exactes ?",
+      "choices": [
+        "La CETP transfère des esters de cholestérol, des triglycérides et des phospholipides",
+        "La PLTP transfère notamment des lipopolysaccharides, des diacylglycérides, du cholestérol libre et de l’alpha-tocophérol",
+        "La CETP assure l’hydrolyse du PAF",
+        "La PLTP transfère spécifiquement les esters de cholestérol"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La CETP transfère les esters de cholestérol, les triglycérides et les phospholipides. La PLTP transfère des phospholipides, lipopolysaccharides, diacylglycérides, cholestérol libre et alpha-tocophérol. L’hydrolyse du PAF relève de la PAF-acétylhydrolase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les enzymes capables d’hydrolyser des phospholipides de lipoprotéines, quelles propositions sont exactes ?",
+      "choices": [
+        "La lipase hépatique hydrolyse les phospholipides des remnants de VLDL, des IDL, des LDL et des HDL",
+        "La lipase endothéliale hydrolyse les phospholipides des HDL",
+        "La lipoprotéine lipase hydrolyse les phospholipides des chylomicrons et des VLDL",
+        "La LCAT hydrolyse les phospholipides des HDL"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La lipase hépatique hydrolyse les triglycérides et phospholipides des remnants de VLDL, IDL, LDL et HDL. La lipase endothéliale hydrolyse les phospholipides des HDL. La LPL hydrolyse les triglycérides des chylomicrons et VLDL. La LCAT estérifie le cholestérol."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles apolipoprotéines ont une distribution incluant les IDL selon le texte ?",
+      "choices": [
+        "ApoB-100",
+        "ApoE",
+        "ApoB-48",
+        "ApoF"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’apoB-100 est distribuée dans les VLDL, IDL et LDL. L’apoE est distribuée dans les chylomicrons, VLDL, IDL et HDL. L’apoB-48 est limitée aux chylomicrons, et l’apoF aux LDL, VLDL et HDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les protéines liées à l’inflammation ou aux lipides oxydés, quelles propositions sont exactes ?",
+      "choices": [
+        "L’apoJ a un effet anti-inflammatoire",
+        "L’apoSAA est une protéine de phase aiguë de l’inflammation",
+        "La paraoxonase 1 hydrolyse des lipides oxydés pro-inflammatoires",
+        "La PAF-acétylhydrolase inhibe la CETP"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’apoJ a un effet anti-inflammatoire. L’apoSAA est une protéine de phase aiguë de l’inflammation. La paraoxonase 1 hydrolyse des lipides oxydés pro-inflammatoires. La PAF-acétylhydrolase hydrolyse le PAF et des dérivés lipidiques hydroperoxydés."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une hyperchylomicronémie, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Un sérum lactescent peut être observé notamment à jeun",
+        "Le sérum lactescent à jeun traduit une persistance anormale des chylomicrons",
+        "Des xanthomes éruptifs peuvent se présenter comme des papules jaunâtres du tronc et de l’abdomen",
+        "Le mécanisme spécifique décrit est une anomalie structurale de l’apoB-100"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hyperchylomicronémie peut entraîner un sérum lactescent, notamment à jeun lorsque les chylomicrons persistent anormalement. Elle peut s’accompagner de xanthomes éruptifs sous forme de papules jaunâtres, surtout sur le tronc et l’abdomen. L’anomalie structurale de l’apoB-100 concerne l’hypercholestérolémie familiale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hypercholestérolémie familiale liée à l’apoB-100, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être liée à une anomalie structurale de l’apoB-100",
+        "Elle entraîne une altération de la reconnaissance des LDL par leur récepteur",
+        "Elle résulte d’une anomalie de l’apoB-48 responsable d’un défaut de sécrétion des chylomicrons",
+        "Elle est définie dans le texte par un déficit d’activité de la lipoprotéine lipase"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que l’hypercholestérolémie familiale peut être liée à une anomalie structurale de l’apoB-100, avec altération de la reconnaissance des LDL par leur récepteur. Le déficit de LPL est cité dans l’hypertriglycéridémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le cholestérol, quelles propositions sont exactes ?",
+      "choices": [
+        "Il possède une origine endogène et exogène",
+        "Il est un précurseur de la biosynthèse des hormones stéroïdiennes",
+        "Il est éliminé par la bile, directement ou après transformation en sels biliaires",
+        "Son augmentation sanguine favorise l’athérosclérose"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes les propositions sont conformes au texte : le cholestérol a une double origine, participe à la biosynthèse des hormones stéroïdiennes, est éliminé par voie biliaire et son élévation sanguine favorise l’athérosclérose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la lipase hépatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est localisée à l’endothélium",
+        "Elle hydrolyse les triglycérides et les phospholipides des IDL",
+        "Elle hydrolyse les triglycérides et les phospholipides des LDL et des HDL",
+        "Elle est activée par l’apoC-II et l’insuline"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La lipase hépatique est localisée à l’endothélium et hydrolyse les triglycérides et phospholipides des remnants de VLDL, IDL, LDL et HDL. L’activation par apoC-II et insuline concerne la lipoprotéine lipase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les hyperlipidémies, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent être génétiques",
+        "Elles peuvent être secondaires à d’autres pathologies",
+        "Elles peuvent être classées selon l’électrophorèse des lipoprotéines",
+        "Elles sont toujours sans lien avec le risque cardiovasculaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hyperlipidémies peuvent être génétiques ou secondaires, et leur classification peut se faire selon l’électrophorèse des lipoprotéines. Elles sont associées à une augmentation du risque cardiovasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les triglycérides et les acides gras, quelles propositions sont exactes ?",
+      "choices": [
+        "Les triglycérides fournissent plus de deux fois plus d’énergie que les glucides",
+        "Le foie est un site majeur de synthèse endogène des triglycérides",
+        "Le cœur est un important consommateur d’acides gras issus des triglycérides",
+        "Les acides gras ont le plus souvent un nombre impair d’atomes de carbone"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les triglycérides ont un rendement énergétique supérieur à deux fois celui des glucides. Le foie est un site majeur de synthèse endogène des triglycérides et le cœur consomme beaucoup d’acides gras issus des triglycérides. Les acides gras ont le plus souvent un nombre pair d’atomes de carbone."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle apolipoprotéine est synthétisée par le foie, distribuée dans les LDL, VLDL et HDL, et inhibe la CETP ?",
+      "choices": [
+        "ApoC-I",
+        "ApoF",
+        "ApoJ",
+        "ApoSAA"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’apoF est synthétisée par le foie, distribuée dans les LDL, VLDL et HDL, et a pour fonction l’inhibition de la CETP."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme ou protéine hydrolyse le PAF et des dérivés lipidiques hydroperoxydés ?",
+      "choices": [
+        "Paraoxonase 1",
+        "PAF-acétylhydrolase",
+        "CETP",
+        "LCAT"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La PAF-acétylhydrolase hydrolyse le PAF ainsi que des dérivés lipidiques hydroperoxydés."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les situations suivantes, laquelle est citée comme pouvant entraîner une hypertriglycéridémie ?",
+      "choices": [
+        "Carence insulinique",
+        "Effet anti-inflammatoire de l’apoJ",
+        "Transformation du cholestérol en sels biliaires",
+        "Présence de l’apoSAA dans les HDL"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite la carence insulinique comme cause possible d’hypertriglycéridémie, avec le déficit d’activité de la lipoprotéine lipase."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, quelle est la voie d’élimination du cholestérol ?",
+      "choices": [
+        "Par la bile, directement ou après transformation en sels biliaires",
+        "Par hydrolyse par la lipoprotéine lipase",
+        "Par transfert exclusif vers les triglycérides",
+        "Par réduction du FAD"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le cholestérol est éliminé par la bile, soit directement, soit après transformation en sels biliaires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme est citée comme intervenant dans la bêta-oxydation des acides gras ?",
+      "choices": [
+        "Thiolase",
+        "LCAT",
+        "CETP",
+        "Lipoprotéine lipase"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La bêta-oxydation des acides gras fait intervenir une thiolase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle apolipoprotéine est synthétisée par le foie, les macrophages et le cerveau, et sert de ligand des récepteurs LDL et LRP ?",
+      "choices": [
+        "ApoB-100",
+        "ApoE",
+        "ApoC-III",
+        "ApoSAA"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’apoE est synthétisée par le foie, les macrophages et le cerveau. Elle est ligand des récepteurs LDL et LRP."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation structurale générale d’une lipoprotéine plasmatique, quelles propositions sont exactes ?",
+      "choices": [
+        "L’enveloppe comporte une monocouche de phospholipides et de cholestérol libre.",
+        "Le cœur hydrophobe contient des triglycérides et des esters de cholestérol.",
+        "Les apolipoprotéines sont uniquement localisées dans le cœur hydrophobe.",
+        "Le cholestérol libre est décrit comme un constituant principal du cœur hydrophobe."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les lipoprotéines possèdent une enveloppe faite d’une monocouche de phospholipides et de cholestérol libre, et un cœur hydrophobe contenant triglycérides et esters de cholestérol."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du rôle général des apolipoprotéines dans les particules lipoprotéiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles interviennent dans la reconnaissance par les récepteurs.",
+        "Elles interviennent dans la reconnaissance par les enzymes.",
+        "Elles déterminent la fonction et le devenir métabolique de la particule.",
+        "Elles remplacent le cœur lipidique dans le transport plasmatique des lipides."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les apolipoprotéines participent à la reconnaissance par les récepteurs et les enzymes, et conditionnent la fonction ainsi que le devenir métabolique des lipoprotéines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la finalité du transport lipoprotéique plasmatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Il permet le transport de composés hydrophobes dans un milieu hydrophile.",
+        "Il assure le transfert des lipides d’un tissu à l’autre.",
+        "Il s’accompagne de modifications de composition, de structure et de fonction au cours de la circulation.",
+        "Il aboutit à une délivrance cellulaire via des récepteurs spécifiques ou non spécifiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que les lipoprotéines transportent des lipides hydrophobes dans le plasma, subissent des remaniements et peuvent être captées par des récepteurs spécifiques ou non spécifiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Les lipides délivrés aux cellules par les lipoprotéines peuvent servir à quelles fonctions selon le texte ?",
+      "choices": [
+        "Production d’énergie.",
+        "Stockage énergétique.",
+        "Production et maintien des membranes cellulaires.",
+        "Synthèse d’hormones stéroïdiennes et d’acides biliaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les lipides délivrés sont utilisés pour l’énergie, le stockage, les membranes et la synthèse de substances endogènes comme les hormones stéroïdiennes et les acides biliaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels critères de classification des lipoprotéines sont explicitement mentionnés ?",
+      "choices": [
+        "La taille et la densité.",
+        "La composition en lipides et protéines.",
+        "La fonction métabolique.",
+        "La pagination du document de référence."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lipoprotéines sont classées selon leurs propriétés physiques, leur composition et leur fonction métabolique. La pagination n’est pas un critère biologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les chylomicrons dans la distribution des lipides alimentaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils distribuent les triglycérides alimentaires aux muscles.",
+        "Ils distribuent les triglycérides alimentaires au tissu adipeux.",
+        "Ils acheminent le cholestérol alimentaire vers le foie.",
+        "Après hydrolyse, ils donnent des remnants appauvris en cholestérol."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chylomicrons délivrent les triglycérides alimentaires aux muscles et au tissu adipeux, et le cholestérol alimentaire au foie. Après hydrolyse, les remnants sont enrichis en cholestérol."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les apolipoprotéines structurales nécessaires à l’assemblage ou à l’intégrité de certaines particules, quelles propositions sont exactes ?",
+      "choices": [
+        "L’apoB-48 est nécessaire à l’assemblage des chylomicrons.",
+        "L’apoB-100 est nécessaire à l’assemblage et à l’intégrité structurale des VLDL.",
+        "L’apoB-100 est indispensable au maintien de l’intégrité structurale des LDL.",
+        "L’apo(a) est nécessaire à l’assemblage intestinal des chylomicrons."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’apoB-48 est requise pour les chylomicrons, tandis que l’apoB-100 intervient dans l’assemblage/intégrité des VLDL et dans l’intégrité des LDL. L’apo(a) concerne la Lp(a)."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’origine des principales particules lipoprotéiques décrites, quelles propositions sont exactes ?",
+      "choices": [
+        "Les VLDL sont synthétisées et sécrétées par le foie.",
+        "Les HDL naissantes sont sécrétées par le foie et l’intestin.",
+        "Les HDL naissantes peuvent dériver des résidus d’hydrolyse des lipoprotéines riches en triglycérides.",
+        "Les LDL sont décrites comme directement sécrétées par l’intestin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les VLDL sont d’origine hépatique. Les HDL naissantes proviennent du foie, de l’intestin et des résidus d’hydrolyse. Les LDL proviennent des IDL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les relations globales de densité entre les classes lipoprotéiques citées, quelles propositions sont exactes ?",
+      "choices": [
+        "Les VLDL ont une densité supérieure à celle des chylomicrons.",
+        "Les LDL ont une densité supérieure à celle des IDL.",
+        "Les HDL3 ont une densité supérieure à celle des HDL2.",
+        "Les chylomicrons sont les particules décrites avec la densité la plus faible."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les chylomicrons ont une densité d’environ 0,93 g/ml, les VLDL 0,95–1,010, les IDL 1,008–1,019, les LDL 1,019–1,060, et les HDL3 sont plus denses que les HDL2."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la filiation métabolique VLDL–IDL–LDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Les VLDL sont hydrolysées par la lipoprotéine lipase pour donner des IDL.",
+        "Les IDL proviennent de l’hydrolyse des VLDL par les lipases.",
+        "Les LDL proviennent des IDL.",
+        "La transformation s’accompagne d’une perte majeure de triglycérides et d’un enrichissement en esters de cholestérol."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La cascade VLDL → IDL → LDL repose sur l’hydrolyse progressive des triglycérides et l’enrichissement relatif en esters de cholestérol."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de la transformation des IDL, quelles propositions sont exactes concernant les apolipoprotéines C ?",
+      "choices": [
+        "Les apoC perdent leur affinité avec la particule.",
+        "Les apoC peuvent être échangées avec les VLDL.",
+        "Les apoC peuvent être échangées avec les HDL.",
+        "Les apoC deviennent l’unique apolipoprotéine structurale des LDL finales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Lors de la transformation des IDL, les apoC perdent leur affinité et sont échangées avec les VLDL, HDL et chylomicrons. Les LDL finales contiennent une seule apoB-100."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la maturation des HDL naissantes, quelles propositions sont exactes ?",
+      "choices": [
+        "Les apoC-II, apoC-III et apoE sont transférées vers les lipoprotéines riches en triglycérides.",
+        "Les HDL acquièrent les apoA-II et apoA-IV.",
+        "La maturation permet le passage vers des particules sphériques.",
+        "Les HDL matures sont décrites comme dépourvues d’apolipoprotéines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HDL naissantes discoïdes évoluent en particules sphériques après transferts d’apoC/apoE et acquisition d’apoA-II et apoA-IV."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sous-populations de LDL, quelles propositions sont exactes ?",
+      "choices": [
+        "Le phénotype A correspond à une prédominance de grosses LDL.",
+        "Le phénotype B correspond à une prédominance de petites LDL denses.",
+        "Les petites LDL denses sont décrites comme plus athérogènes.",
+        "Le phénotype B est caractérisé par des LDL moins athérogènes que les grosses LDL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue le phénotype A, dominé par de grosses LDL, et le phénotype B, dominé par de petites LDL denses, plus athérogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la lipoprotéine(a), quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est riche en esters de cholestérol.",
+        "Elle est associée au risque de maladies cardiovasculaires.",
+        "Elle est associée au risque de maladies cérébrovasculaires.",
+        "Elle résulte de l’association d’une particule de type HDL avec l’apoB-48."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La Lp(a) est une lipoprotéine riche en esters de cholestérol, liée au risque cardiovasculaire et cérébrovasculaire. Elle associe une particule de type LDL à l’apo(a)."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel constituant est localisé dans le cœur hydrophobe d’une lipoprotéine selon le texte ?",
+      "choices": [
+        "Cholestérol libre.",
+        "Phospholipides.",
+        "Esters de cholestérol.",
+        "Apolipoprotéines C."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le cœur hydrophobe contient les triglycérides et les esters de cholestérol. Le cholestérol libre et les phospholipides appartiennent à l’enveloppe."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement le devenir immédiat des chylomicrons après hydrolyse ?",
+      "choices": [
+        "Ils deviennent des remnants enrichis en cholestérol.",
+        "Ils deviennent directement des LDL petites et denses.",
+        "Ils se transforment en HDL3 par acquisition d’apoB-100.",
+        "Ils sont sécrétés à nouveau par le foie sous forme de VLDL."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Après hydrolyse, les chylomicrons donnent des remnants enrichis en cholestérol."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle classe lipoprotéique est synthétisée et sécrétée par le foie pour participer au transport endogène des lipides vers les tissus périphériques ?",
+      "choices": [
+        "Chylomicrons.",
+        "VLDL.",
+        "HDL3 exclusivement.",
+        "Lp(a) exclusivement."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les VLDL sont synthétisées et sécrétées par le foie et participent au transport endogène des lipides."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors de la maturation des HDL, quelles apolipoprotéines sont acquises pour permettre la transformation en particules sphériques ?",
+      "choices": [
+        "ApoB-48 et apoB-100.",
+        "ApoA-II et apoA-IV.",
+        "Apo(a) et apoB-100.",
+        "ApoC-I et apoC-II exclusivement."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les HDL acquièrent les apoA-II et apoA-IV lors de leur maturation, ce qui participe à leur transformation en particules sphériques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle fonction des HDL est décrite comme inverse de celle des LDL ?",
+      "choices": [
+        "Transport des lipides alimentaires de l’intestin vers les tissus périphériques.",
+        "Retour du cholestérol des tissus vers le foie.",
+        "Assemblage hépatique des VLDL.",
+        "Formation de remnants enrichis en cholestérol après hydrolyse."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les HDL participent au transport inverse du cholestérol, c’est-à-dire au retour du cholestérol des tissus vers le foie."
+    },
+    {
+      "type": "QCS",
+      "question": "Par quel type de liaison l’apo(a) se fixe-t-elle à l’apoB-100 des LDL dans la Lp(a) ?",
+      "choices": [
+        "Liaison hydrogène.",
+        "Lien disulfure.",
+        "Liaison ionique calcium-dépendante.",
+        "Liaison ester."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’apo(a), synthétisée par le foie indépendamment de l’apoB-100, se lie à l’apoB-100 des LDL par un lien disulfure."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T16:13:49.928Z"
+}

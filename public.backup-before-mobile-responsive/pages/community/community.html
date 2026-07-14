@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <title>Communauté PCR</title>
+
+  <link
+    rel="stylesheet"
+    href="/css/community.css"
+  />
+</head>
+
+<body class="auth-checking">
+
+  <main class="community-page">
+
+    <header class="community-top">
+      <div class="community-navigation">
+        <a href="/" class="back-btn">
+          ← Accueil
+        </a>
+
+        <a
+          href="/pages/profile/profile.html"
+          class="back-btn"
+        >
+          👤 Profil
+        </a>
+      </div>
+
+      <div>
+        <h1>Communauté PCR</h1>
+
+        <p>
+          Discussions et publications entre étudiants.
+        </p>
+      </div>
+    </header>
+
+    <section class="community-search">
+      <input
+        id="communitySearch"
+        type="search"
+        placeholder="🔍 Rechercher dans la communauté..."
+      />
+    </section>
+
+    <section class="notifications-box">
+      <button
+        id="notificationsBtn"
+        class="notifications-btn"
+        type="button"
+      >
+        🔔 Notifications
+
+        <span id="notificationsCount">
+          0
+        </span>
+      </button>
+
+      <div
+        id="notificationsPanel"
+        class="notifications-panel hidden"
+      ></div>
+    </section>
+
+    <section
+      id="postsList"
+      class="posts-list"
+    ></section>
+
+    <section class="composer">
+      <textarea
+        id="postText"
+        placeholder="Écrire un message..."
+      ></textarea>
+
+      <label class="file-btn">
+        📷
+
+        <input
+          type="file"
+          id="postImage"
+          accept="image/*"
+        />
+      </label>
+
+      <button
+        id="publishBtn"
+        type="button"
+      >
+        Envoyer
+      </button>
+    </section>
+
+  </main>
+
+  <!-- PROFIL PUBLIC -->
+  <div
+    id="publicProfileModal"
+    class="public-profile-modal hidden"
+  >
+
+    <div class="public-profile-card">
+
+      <button
+        id="closePublicProfileModal"
+        class="public-profile-close"
+        type="button"
+        aria-label="Fermer"
+      >
+        ×
+      </button>
+
+      <div class="public-profile-header">
+
+        <div
+          id="publicProfileAvatar"
+          class="public-profile-avatar"
+        >
+          P
+        </div>
+
+        <div class="public-profile-identity">
+
+          <h2 id="publicProfileName">
+            Utilisateur PCR
+          </h2>
+
+          <p id="publicProfileRole">
+            Étudiant
+          </p>
+
+          <small id="publicProfileEmail"></small>
+
+        </div>
+
+      </div>
+
+      <div class="public-profile-bio-box">
+        <strong>Bio</strong>
+
+        <p id="publicProfileBio">
+          Aucune bio renseignée.
+        </p>
+      </div>
+
+      <div class="public-profile-info-grid">
+
+        <div class="public-profile-info-item">
+          <strong>Université</strong>
+
+          <span id="publicProfileUniversity">
+            —
+          </span>
+        </div>
+
+        <div class="public-profile-info-item">
+          <strong>Promotion</strong>
+
+          <span id="publicProfilePromotion">
+            —
+          </span>
+        </div>
+
+      </div>
+
+      <div class="public-profile-stats">
+
+        <article>
+          <strong id="publicProfilePosts">
+            0
+          </strong>
+
+          <span>Publications</span>
+        </article>
+
+        <article>
+          <strong id="publicProfileComments">
+            0
+          </strong>
+
+          <span>Commentaires</span>
+        </article>
+
+        <article>
+          <strong id="publicProfileLikes">
+            0
+          </strong>
+
+          <span>Likes reçus</span>
+        </article>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- L’ORDRE EST IMPORTANT -->
+  <script src="/js/auth-guard.js"></script>
+  <script src="/js/community.js"></script>
+
+</body>
+</html>

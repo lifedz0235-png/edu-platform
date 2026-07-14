@@ -1,0 +1,3090 @@
+{
+  "category": "biologie",
+  "module": "immunologie",
+  "courseId": 38,
+  "courseTitle": "F Rimc",
+  "supportTitle": "f-rimc",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/immunologie/f-rimc.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les antigènes ou cellules pouvant déclencher une réponse immunitaire à médiation cellulaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Les bactéries peuvent être détectées comme agents antigéniques.",
+        "Les protozoaires peuvent être impliqués dans la détection antigénique.",
+        "Les cellules tumorales peuvent être reconnues comme cellules anormales.",
+        "Les hématies normales constituent une cible habituelle de cette réponse selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les bactéries, protozoaires, cellules infectées, tumorales, allogéniques et cellules devenues anormales. Les hématies normales ne sont pas mentionnées comme cible."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’arrivée des macrophages et des cellules dendritiques sur le site de l’agression, quelles fonctions sont décrites ?",
+      "choices": [
+        "Phagocytose des antigènes.",
+        "Présentation antigénique.",
+        "Activation des lymphocytes T et B.",
+        "Destruction directe exclusive des cellules infectées par reconnaissance HLA-I."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les macrophages et cellules dendritiques phagocytent les antigènes, les présentent et activent les lymphocytes T et B. La destruction directe restreinte au HLA-I relève surtout des lymphocytes T CD8+."
+    },
+    {
+      "type": "QCM",
+      "question": "Si la phagocytose initiale élimine tous les antigènes, quelles conséquences sont attendues selon le texte ?",
+      "choices": [
+        "Élimination physique de l’agent agresseur.",
+        "Résolution rapide de l’infection.",
+        "Activation obligatoire des lymphocytes T cytotoxiques.",
+        "Différenciation systématique des lymphocytes B en plasmocytes."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Lorsque la phagocytose élimine tous les antigènes, il y a élimination physique de l’agent agresseur et résolution rapide de l’infection, sans nécessité décrite d’activation adaptative complète."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas d’élimination initiale insuffisante de l’antigène, quelles étapes sont décrites ?",
+      "choices": [
+        "Les macrophages et surtout les cellules dendritiques activent les lymphocytes T.",
+        "Les lymphocytes T auxiliaires stimulent les lymphocytes B.",
+        "Les lymphocytes B se différencient en plasmocytes sécréteurs d’anticorps et en cellules mémoires.",
+        "Les lymphocytes T cytotoxiques se transforment directement en cellules dendritiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit l’activation des lymphocytes T, l’aide des T auxiliaires aux lymphocytes B, puis la différenciation B en plasmocytes et cellules mémoires. Il ne décrit pas de transformation des LT cytotoxiques en cellules dendritiques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des déficits en cellules T, quelles affirmations sont exactes ?",
+      "choices": [
+        "Le syndrome de DiGeorge correspond à une absence congénitale de thymus.",
+        "Le syndrome de DiGeorge entraîne une absence ou un déficit majeur en lymphocytes T.",
+        "L’infection par le VIH/SIDA détruit progressivement les lymphocytes T CD4+.",
+        "Le VIH/SIDA entraîne principalement une prolifération incontrôlée des lymphocytes T CD8+ selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte associe DiGeorge à l’absence congénitale de thymus et au déficit majeur en LT. Le VIH/SIDA détruit progressivement les LT CD4+, entraînant une immunodéficience sévère."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques générales des lymphocytes T, quelles propositions sont justes ?",
+      "choices": [
+        "Ce sont des globules blancs appartenant au groupe des lymphocytes.",
+        "Ils expriment à leur surface un récepteur spécifique appelé TCR.",
+        "Leur développement et leur différenciation se déroulent principalement dans le thymus.",
+        "Ils reconnaissent directement les anticorps libres comme signal principal d’activation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lymphocytes T sont des lymphocytes exprimant le TCR et se développent principalement dans le thymus. Ils reconnaissent des peptides antigéniques présentés par le CMH/HLA, et non directement des anticorps libres."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la reconnaissance antigénique par les lymphocytes T CD4+ et CD8+, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T CD4+ reconnaissent principalement des peptides présentés par le CMH de classe II.",
+        "Les lymphocytes T CD8+ reconnaissent principalement des peptides endogènes présentés par le CMH de classe I.",
+        "Les lymphocytes T CD4+ et CD8+ reconnaissent des complexes peptide-HLA différents.",
+        "Les lymphocytes T CD8+ reconnaissent exclusivement des antigènes non présentés par le CMH."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise la restriction CMH-II pour les CD4+ et CMH-I pour les CD8+, avec reconnaissance de complexes peptide-HLA différents."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du complexe TCR-CD3, quelles affirmations sont exactes ?",
+      "choices": [
+        "Le TCR assure la reconnaissance spécifique du complexe peptide-CMH.",
+        "Le CD3 est associé au TCR et assure la transduction du signal d’activation.",
+        "Le complexe CD3 comporte notamment les chaînes ε, δ et γ.",
+        "Le CD3 remplace le CMH dans la présentation des peptides antigéniques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le TCR reconnaît le complexe peptide-CMH ; le CD3 transmet le signal et comporte plusieurs chaînes dont ε, δ et γ. Le CD3 ne remplace pas le CMH."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les propriétés moléculaires du CD3 décrites dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Les chaînes du CD3 possèdent des motifs ITAM intracellulaires.",
+        "Les motifs ITAM contiennent des tyrosines phosphorylables.",
+        "Les régions transmembranaires du CD3 comportent des résidus chargés négativement.",
+        "Les chaînes du CD3 portent les anticorps neutralisants sécrétés par les plasmocytes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne les motifs ITAM intracellulaires contenant des tyrosines phosphorylables et des résidus transmembranaires chargés négativement. Le CD3 n’est pas un support d’anticorps sécrétés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les corécepteurs CD4 et CD8, quelles propositions sont justes ?",
+      "choices": [
+        "Ils augmentent l’affinité globale de l’interaction entre le TCR et le complexe peptide-CMH.",
+        "Ils participent à la signalisation intracellulaire nécessaire à l’activation lymphocytaire.",
+        "Ils définissent respectivement les lymphocytes T auxiliaires CD4+ et cytotoxiques CD8+.",
+        "Ils assurent à eux seuls la phagocytose des antigènes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "CD4 et CD8 renforcent l’interaction TCR-peptide-CMH, participent à la signalisation et caractérisent les grandes populations T CD4+ et CD8+. La phagocytose est assurée par des cellules phagocytaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sous-populations lymphocytaires T citées, quelles propositions sont exactes ?",
+      "choices": [
+        "Il existe des lymphocytes T à TCR αβ/CD3 CD4+ CD8-.",
+        "Il existe des lymphocytes T à TCR αβ/CD3 CD4- CD8+.",
+        "Il existe des lymphocytes T à TCR γδ/CD3 CD4- CD8-.",
+        "Les lymphocytes T à TCR γδ représentent environ 95 % des lymphocytes T."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite ces sous-populations. La répartition approximative est inverse : les TCR αβ représentent environ 95 %, les TCR γδ environ 5 %."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la répartition approximative des lymphocytes T, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T à TCR αβ représentent environ 95 %.",
+        "Les lymphocytes T à TCR γδ représentent environ 5 %.",
+        "Parmi les lymphocytes T conventionnels à TCR αβ, les CD4+ helper représentent environ deux tiers.",
+        "Parmi les lymphocytes T conventionnels à TCR αβ, les CD8+ cytotoxiques représentent environ deux tiers."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les TCR αβ sont majoritaires à environ 95 %, les TCR γδ environ 5 %. Parmi les T αβ conventionnels, les CD4+ représentent environ 2/3 et les CD8+ environ 1/3."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lymphocytes T mémoires, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils persistent durablement dans l’organisme.",
+        "Ils répondent rapidement lors d’un nouveau contact avec le même antigène.",
+        "Ils assurent une protection spécifique de longue durée.",
+        "Ils présentent une conversion phénotypique de CD45RO vers CD45RA."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lymphocytes T mémoires persistent, répondent rapidement au même antigène et assurent une protection spécifique durable. La conversion décrite est de CD45RA vers CD45RO."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cellules pouvant être éliminées par les lymphocytes T cytotoxiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Cellules infectées par un virus.",
+        "Cellules cancéreuses.",
+        "Cellules du greffon.",
+        "Cellules dendritiques normales non activées, systématiquement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cibles citées sont les cellules infectées par un virus, cancéreuses, du greffon et allogéniques. La destruction systématique de cellules dendritiques normales n’est pas décrite."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel événement correspond au premier signal nécessaire à l’activation d’un lymphocyte T naïf ?",
+      "choices": [
+        "Interaction CD28/B7.",
+        "Reconnaissance spécifique de l’antigène par le TCR.",
+        "Interaction IL-2/récepteur de l’IL-2.",
+        "Sécrétion d’anticorps par les plasmocytes."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le premier signal est la reconnaissance spécifique de l’antigène par le TCR. La costimulation CD28/B7 correspond au deuxième signal et l’IL-2 au troisième signal."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle interaction correspond au deuxième signal d’activation des lymphocytes T naïfs selon le texte ?",
+      "choices": [
+        "CD28/B7.",
+        "TCR/anticorps soluble.",
+        "CD45RA/CD45RO.",
+        "HLA-I/plasmocyte."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le deuxième signal est la costimulation, notamment l’interaction CD28/B7."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule de surface caractérise les lymphocytes T cytotoxiques conventionnels décrits comme T CD8+ ?",
+      "choices": [
+        "CD4.",
+        "CD8.",
+        "CD25 seul.",
+        "CD45RO seul."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les lymphocytes T cytotoxiques expriment le TCR et la molécule CD8, définissant les lymphocytes T CD8+."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cellule représente la majorité de l’activité cytotoxique lymphocytaire T selon le texte ?",
+      "choices": [
+        "Lymphocyte T CD8+.",
+        "Lymphocyte B mémoire.",
+        "Plasmocyte sécréteur d’anticorps.",
+        "Macrophage phagocytaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les lymphocytes T CD8+ représentent la majorité de l’activité cytotoxique lymphocytaire T."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la restriction de reconnaissance des lymphocytes T CD8+ majoritairement cytotoxiques ?",
+      "choices": [
+        "Molécules HLA de classe I.",
+        "Molécules HLA de classe II uniquement.",
+        "Anticorps circulants libres.",
+        "Récepteur de l’IL-2 sans antigène."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la reconnaissance des lymphocytes T CD8+ est restreinte aux molécules HLA de classe I."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme final est induit dans les cellules cibles par les cellules NK et les lymphocytes T cytotoxiques selon le texte ?",
+      "choices": [
+        "Apoptose des cellules cibles.",
+        "Différenciation en plasmocytes.",
+        "Conversion CD45RO vers CD45RA.",
+        "Présentation antigénique par le CD3."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les mécanismes cytotoxiques des cellules NK et des lymphocytes T cytotoxiques sont similaires et induisent l’apoptose des cellules cibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les deux voies cytotoxiques décrites, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie des granules cytotoxiques implique une libération de molécules cytotoxiques par la cellule effectrice.",
+        "La voie des récepteurs de mort implique l’activation de récepteurs pro-apoptotiques à la surface de la cellule cible.",
+        "La voie des granules cytotoxiques repose sur la reconnaissance indirecte dépendante des opsonines.",
+        "La voie des récepteurs de mort correspond à la présentation des antigènes aux lymphocytes T."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte distingue la voie des granules cytotoxiques, avec libération de molécules cytotoxiques par la cellule effectrice, et la voie des récepteurs de mort, avec activation de récepteurs pro-apoptotiques à la surface de la cellule cible."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la voie des granules cytotoxiques, quelles étapes sont explicitement décrites ?",
+      "choices": [
+        "Libération de molécules cytotoxiques par la cellule effectrice.",
+        "Activation des récepteurs du complément CR1, CR3 et CR4.",
+        "Induction de l’apoptose de la cellule cible.",
+        "Capture et traitement de l’antigène par une cellule présentatrice d’antigène."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "La voie des granules cytotoxiques associe la libération de molécules cytotoxiques par la cellule effectrice et l’induction de l’apoptose de la cellule cible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie des récepteurs de mort, quelles affirmations sont exactes ?",
+      "choices": [
+        "Elle active des récepteurs pro-apoptotiques à la surface de la cellule cible.",
+        "Elle déclenche une cascade apoptotique.",
+        "Elle dépend des récepteurs aux IgG CD16 et CD32.",
+        "Elle correspond à la reconnaissance directe des PAMPs par les TLR."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La voie des récepteurs de mort est définie par l’activation de récepteurs pro-apoptotiques à la surface de la cellule cible, puis le déclenchement de la cascade apoptotique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la reconnaissance directe des microorganismes, quelles propositions sont justes ?",
+      "choices": [
+        "Elle fait intervenir les récepteurs de type Toll.",
+        "Les TLR reconnaissent directement les PAMPs des microorganismes.",
+        "Elle nécessite obligatoirement les récepteurs aux IgG CD16 et CD32.",
+        "Elle est définie comme une reconnaissance dépendante des opsonines."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La reconnaissance directe repose sur les TLR, capables de reconnaître directement les PAMPs des microorganismes. La dépendance aux opsonines caractérise la reconnaissance indirecte."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la reconnaissance indirecte dépendante des opsonines, quelles familles de récepteurs sont citées ?",
+      "choices": [
+        "Récepteurs aux IgG.",
+        "Récepteurs du complément.",
+        "Récepteurs des collectines.",
+        "Récepteur du MBL."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite quatre groupes dans la reconnaissance indirecte dépendante des opsonines : récepteurs aux IgG, récepteurs du complément, récepteurs des collectines et récepteur du MBL."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels récepteurs sont mentionnés comme récepteurs aux IgG ?",
+      "choices": [
+        "CD16.",
+        "CD32.",
+        "CR1.",
+        "CD93."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les récepteurs aux IgG cités sont CD16 et CD32. CR1 est un récepteur du complément et CD93 est le récepteur du MBL."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels récepteurs sont cités comme récepteurs du complément ?",
+      "choices": [
+        "CR1.",
+        "CR3.",
+        "CR4.",
+        "C1qR."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les récepteurs du complément cités sont CR1, CR3 et CR4. C1qR est présenté comme un récepteur des collectines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les récepteurs des collectines et du MBL, quelles propositions sont exactes ?",
+      "choices": [
+        "C1qR est cité comme récepteur des collectines.",
+        "CD93 est cité comme récepteur du MBL.",
+        "CD16 est cité comme récepteur du MBL.",
+        "CR4 est cité comme récepteur des collectines."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte associe C1qR aux collectines et CD93 au MBL. CD16 appartient aux récepteurs aux IgG et CR4 aux récepteurs du complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles fonctions sont attribuées aux cellules présentatrices d’antigène ?",
+      "choices": [
+        "Capture des antigènes.",
+        "Traitement des antigènes.",
+        "Présentation des antigènes aux lymphocytes T.",
+        "Activation des récepteurs pro-apoptotiques à la surface de la cellule cible."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cellules présentatrices d’antigène assurent la capture, le traitement et la présentation des antigènes aux lymphocytes T. L’activation des récepteurs pro-apoptotiques relève de la voie des récepteurs de mort."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cellule cible dans les mécanismes cytotoxiques décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut subir une apoptose induite par la voie des granules cytotoxiques.",
+        "Elle porte les récepteurs pro-apoptotiques activés dans la voie des récepteurs de mort.",
+        "Elle est le siège du déclenchement de la cascade apoptotique dans la voie des récepteurs de mort.",
+        "Elle libère les molécules cytotoxiques dans la voie des granules cytotoxiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cellule cible subit l’apoptose et porte les récepteurs pro-apoptotiques activés dans la voie des récepteurs de mort. La libération des molécules cytotoxiques est assurée par la cellule effectrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre reconnaissance directe et indirecte des microorganismes, quelles propositions sont justes ?",
+      "choices": [
+        "La reconnaissance directe implique les TLR.",
+        "La reconnaissance directe porte sur les PAMPs des microorganismes.",
+        "La reconnaissance indirecte dépend des opsonines.",
+        "La reconnaissance indirecte est limitée aux récepteurs des collectines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La reconnaissance directe se fait par les TLR reconnaissant les PAMPs. La reconnaissance indirecte est dépendante des opsonines et inclut plusieurs récepteurs, pas seulement ceux des collectines."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations récepteur-ligand ou récepteur-catégorie sont conformes au texte ?",
+      "choices": [
+        "CD16 — récepteur aux IgG.",
+        "CR3 — récepteur du complément.",
+        "C1qR — récepteur des collectines.",
+        "CD93 — récepteur du MBL."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces associations sont explicitement indiquées dans le texte : CD16 pour les IgG, CR3 pour le complément, C1qR pour les collectines et CD93 pour le MBL."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions corrigent correctement une confusion entre les récepteurs de reconnaissance indirecte ?",
+      "choices": [
+        "CD32 doit être classé parmi les récepteurs aux IgG, et non parmi les récepteurs du complément.",
+        "CR1 doit être classé parmi les récepteurs du complément, et non parmi les récepteurs des collectines.",
+        "C1qR doit être classé parmi les récepteurs des collectines, et non comme récepteur du MBL.",
+        "CD93 doit être classé comme récepteur du MBL, et non comme récepteur aux IgG."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte classe CD32 avec les récepteurs aux IgG, CR1 avec les récepteurs du complément, C1qR avec les récepteurs des collectines et CD93 comme récepteur du MBL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la convergence apoptotique des voies cytotoxiques citées, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie des granules cytotoxiques aboutit à l’induction de l’apoptose de la cellule cible.",
+        "La voie des récepteurs de mort déclenche une cascade apoptotique.",
+        "Les deux voies citées comportent une étape liée à l’apoptose.",
+        "La présentation antigénique aux lymphocytes T est décrite comme le déclencheur direct de la cascade apoptotique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie des granules cytotoxiques induit l’apoptose de la cellule cible, et la voie des récepteurs de mort déclenche une cascade apoptotique. Le texte ne décrit pas la présentation antigénique comme déclencheur direct de cette cascade."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel type de récepteur assure la reconnaissance directe des PAMPs des microorganismes ?",
+      "choices": [
+        "Récepteurs de type Toll.",
+        "Récepteurs aux IgG.",
+        "Récepteurs du complément.",
+        "Récepteurs des collectines."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les TLR, ou récepteurs de type Toll, reconnaissent directement les PAMPs des microorganismes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel récepteur est cité comme récepteur du MBL ?",
+      "choices": [
+        "CD16.",
+        "CD32.",
+        "CD93.",
+        "CR3."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique que le récepteur du MBL est CD93."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel récepteur est cité comme récepteur des collectines ?",
+      "choices": [
+        "C1qR.",
+        "CR1.",
+        "CD32.",
+        "CD93."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "C1qR est mentionné comme récepteur des collectines."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à un récepteur aux IgG cité dans le texte ?",
+      "choices": [
+        "CR4.",
+        "CD32.",
+        "C1qR.",
+        "CD93."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "CD32 est un récepteur aux IgG selon le texte. CR4 est un récepteur du complément, C1qR un récepteur des collectines et CD93 le récepteur du MBL."
+    },
+    {
+      "type": "QCS",
+      "question": "À quelles cellules les cellules présentatrices d’antigène présentent-elles les antigènes ?",
+      "choices": [
+        "Aux lymphocytes T.",
+        "Aux récepteurs du complément.",
+        "Aux PAMPs.",
+        "Aux collectines."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les cellules présentatrices d’antigène assurent la présentation des antigènes aux lymphocytes T."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la voie des récepteurs de mort, quel événement est décrit à la surface de la cellule cible ?",
+      "choices": [
+        "Libération de molécules cytotoxiques.",
+        "Activation de récepteurs pro-apoptotiques.",
+        "Reconnaissance directe des PAMPs.",
+        "Capture de l’antigène."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La voie des récepteurs de mort comporte l’activation de récepteurs pro-apoptotiques à la surface de la cellule cible."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une élimination initiale insuffisante de l’antigène, quelles propositions décrivent correctement le relais immunitaire cellulaire et lymphocytaire ?",
+      "choices": [
+        "Les lymphocytes T auxiliaires stimulent les lymphocytes B.",
+        "Les lymphocytes B peuvent se différencier en plasmocytes sécréteurs d’anticorps et en cellules mémoires.",
+        "Les lymphocytes T cytotoxiques détruisent les cellules infectées ou anormales.",
+        "Les lymphocytes T auxiliaires se transforment directement en plasmocytes sécréteurs d’anticorps."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une activation des lymphocytes T, une aide des T auxiliaires aux lymphocytes B, puis une différenciation B en plasmocytes et cellules mémoires. Les T auxiliaires ne deviennent pas des plasmocytes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’identité générale des lymphocytes T, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des globules blancs appartenant au groupe des lymphocytes.",
+        "Ils expriment à leur surface un récepteur spécifique appelé TCR.",
+        "Le TCR est une immunoglobuline sécrétée dans le plasma.",
+        "Tous les lymphocytes T sont assimilés à des plasmocytes."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les lymphocytes T sont des leucocytes lymphocytaires exprimant un TCR membranaire. Le texte ne les assimile ni à des plasmocytes ni à des cellules sécrétrices d’immunoglobulines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la nature de la reconnaissance antigénique des lymphocytes T, quelles propositions sont justes ?",
+      "choices": [
+        "Les lymphocytes T reconnaissent des peptides antigéniques présentés par des molécules du CMH.",
+        "Les lymphocytes T CD4+ reconnaissent principalement des peptides présentés par le CMH de classe II.",
+        "Les lymphocytes T CD8+ reconnaissent principalement des peptides endogènes présentés par le CMH de classe I.",
+        "Les lymphocytes T CD8+ reconnaissent principalement des peptides présentés par le CMH de classe II."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La reconnaissance T dépend de peptides présentés par le CMH. Les CD4+ sont surtout restreints au CMH II, tandis que les CD8+ reconnaissent surtout des peptides endogènes présentés par le CMH I."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des lymphocytes T auxiliaires ou helper, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Ils aident d’autres cellules immunitaires.",
+        "Ils aident notamment les lymphocytes B à produire des anticorps.",
+        "Ils participent à la coordination de la réponse immunitaire.",
+        "Ils sont définis dans le texte comme des lymphocytes T CD8+ conventionnels."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lymphocytes T helper aident les cellules immunitaires, notamment les lymphocytes B, et coordonnent la réponse. Le texte les associe à l’expression de CD4, non de CD8."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lymphocytes T cytotoxiques conventionnels, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils expriment le TCR et la molécule CD8.",
+        "Ils correspondent aux lymphocytes T CD8+ dans la différenciation décrite.",
+        "Ils peuvent détruire des cellules infectées, tumorales ou allogéniques.",
+        "Leur rôle principal décrit est la stimulation des lymphocytes B pour produire des anticorps."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lymphocytes T cytotoxiques conventionnels sont décrits comme TCR+ CD8+ et détruisent des cellules infectées, tumorales ou allogéniques. La stimulation des lymphocytes B relève surtout des T helper."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sous-populations T CD4+ CD8− mentionnées avec le marqueur CD25, quelles propositions sont exactes ?",
+      "choices": [
+        "Une sous-population TCR αβ/CD3 CD4+ CD8− CD25− est citée.",
+        "Une sous-population TCR αβ/CD3 CD4+ CD8− CD25+ est citée.",
+        "Ces sous-populations appartiennent aux lymphocytes T à TCR αβ dans le texte.",
+        "Le texte décrit les lymphocytes T γδ/CD3 CD4− CD8− comme étant obligatoirement CD25+."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite des sous-populations TCR αβ/CD3 CD4+ CD8− avec CD25− ou CD25+. Il ne précise pas que les T γδ CD4− CD8− seraient obligatoirement CD25+."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lymphocytes T à TCR γδ décrits, quelles propositions sont justes ?",
+      "choices": [
+        "Ils sont associés au CD3.",
+        "Ils sont décrits comme CD4− CD8−.",
+        "Ils représentent approximativement 5 % des lymphocytes T.",
+        "Ils représentent approximativement 95 % des lymphocytes T."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lymphocytes T γδ sont décrits comme TCR γδ/CD3 CD4− CD8− et représentent environ 5 %. Les TCR αβ représentent environ 95 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le troisième signal d’activation des lymphocytes T naïfs, quelles propositions sont exactes ?",
+      "choices": [
+        "Il implique des cytokines.",
+        "L’IL-2 est citée parmi les éléments de ce signal.",
+        "L’interaction IL-2/récepteur de l’IL-2 est mentionnée.",
+        "Il correspond à l’interaction CD28/B7."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le troisième signal correspond aux cytokines, notamment l’IL-2 et l’interaction IL-2/récepteur de l’IL-2. CD28/B7 correspond au deuxième signal de costimulation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cytokines produites par les lymphocytes T helper de type 1, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elles participent à l’activation des précurseurs cytotoxiques.",
+        "Elles participent à la différenciation des précurseurs cytotoxiques en lymphocytes T cytotoxiques effecteurs.",
+        "Elles remplacent la reconnaissance spécifique de l’antigène par le TCR.",
+        "Elles sont rattachées aux lymphocytes T helper de type 1 dans le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte attribue aux cytokines des T helper de type 1 un rôle dans l’activation et la différenciation des précurseurs cytotoxiques. Elles ne remplacent pas le premier signal TCR-antigène."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sites d’activation et d’action de la réponse T mentionnés, quelles propositions sont exactes ?",
+      "choices": [
+        "Les organes lymphoïdes secondaires sont cités.",
+        "Les sites inflammatoires sont cités.",
+        "Le thymus est présenté comme l’unique site d’action effectrice.",
+        "Le texte exclut les sites inflammatoires des lieux d’action."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte cite les organes lymphoïdes secondaires et les sites inflammatoires comme sites d’activation et d’action. Le thymus est surtout mentionné pour le développement des lymphocytes T."
+    },
+    {
+      "type": "QCM",
+      "question": "Après activation des lymphocytes T, quelles issues sont décrites ?",
+      "choices": [
+        "Ils peuvent participer à l’élimination du pathogène.",
+        "Ils peuvent participer à l’activation d’autres cellules immunitaires.",
+        "Une partie d’entre eux se différencie en lymphocytes T mémoires.",
+        "Ils perdent toute capacité de réponse spécifique lors d’un nouveau contact antigénique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après activation, les lymphocytes T participent à l’élimination du pathogène ou à l’activation d’autres cellules immunitaires, et une fraction devient mémoire. La mémoire T conserve une spécificité antigénique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la phase d’élimination et de nettoyage immunitaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Les anticorps neutralisent les antigènes.",
+        "Les anticorps facilitent l’élimination des antigènes.",
+        "Les macrophages phagocytent les débris cellulaires et les microorganismes détruits.",
+        "Les microorganismes détruits se différencient en cellules mémoires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que les anticorps neutralisent les antigènes et facilitent leur élimination, tandis que les macrophages phagocytent les débris et microorganismes détruits."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les corécepteurs CD4 et CD8, quelles propositions sont justes ?",
+      "choices": [
+        "Ils augmentent l’affinité globale de l’interaction entre le TCR et le complexe peptide-CMH.",
+        "Ils participent à la signalisation intracellulaire nécessaire à l’activation lymphocytaire.",
+        "Ils assurent à eux seuls la reconnaissance spécifique du complexe peptide-CMH à la place du TCR.",
+        "Ils suppriment la nécessité des autres signaux d’activation décrits."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "CD4 et CD8 renforcent l’interaction TCR/peptide-CMH et participent à la signalisation. La reconnaissance spécifique est assurée par le TCR et l’activation nécessite plusieurs signaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cellules impliquées dans la cytotoxicité, quelles propositions sont exactes ?",
+      "choices": [
+        "Les cellules NK sont citées.",
+        "Les cellules NKT sont citées.",
+        "Les lymphocytes T γδ sont cités.",
+        "Les lymphocytes B sont cités comme cellules cytotoxiques dans cette liste."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les lymphocytes T CD8+, certains T CD4+ cytotoxiques, les cellules NK, NKT et les lymphocytes T γδ. Les lymphocytes B ne sont pas listés comme cellules cytotoxiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’humain, quel terme est utilisé dans le texte pour désigner le complexe majeur d’histocompatibilité ?",
+      "choices": [
+        "CD3",
+        "HLA",
+        "TCR",
+        "IL-2R"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que le complexe majeur d’histocompatibilité est appelé CMH, ou HLA chez l’humain."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal site de développement et de différenciation des lymphocytes T selon le texte ?",
+      "choices": [
+        "La moelle osseuse exclusivement",
+        "Le thymus",
+        "Le foie",
+        "Les sites inflammatoires"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le développement et la différenciation des lymphocytes T se déroulent principalement dans le thymus."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle conversion phénotypique est associée aux lymphocytes T mémoires dans le texte ?",
+      "choices": [
+        "CD45RA vers CD45RO",
+        "CD45RO vers CD45RA",
+        "CD4 vers CD8",
+        "TCR αβ vers TCR γδ"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les lymphocytes T mémoires présentent une conversion phénotypique de CD45RA vers CD45RO."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel déficit est associé à une absence congénitale de thymus entraînant une absence ou un déficit majeur en lymphocytes T ?",
+      "choices": [
+        "Infection par le VIH/SIDA",
+        "Syndrome de DiGeorge",
+        "Transformation plasmocytaire",
+        "Activation CD28/B7 isolée"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le syndrome de DiGeorge est décrit comme une absence congénitale de thymus responsable d’une absence ou d’un déficit majeur en lymphocytes T."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’infection par le VIH/SIDA, quelle population lymphocytaire est progressivement détruite selon le texte ?",
+      "choices": [
+        "Lymphocytes T CD4+",
+        "Lymphocytes T γδ exclusivement",
+        "Cellules dendritiques uniquement",
+        "Plasmocytes exclusivement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le VIH/SIDA entraîne une destruction progressive des lymphocytes T CD4+, responsable d’une immunodéficience sévère."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelles cellules présentent des peptides issus d’agents infectieux aux lymphocytes T selon le texte ?",
+      "choices": [
+        "Les cellules présentatrices d’antigène",
+        "Les érythrocytes",
+        "Les plaquettes",
+        "Les plasmocytes uniquement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que les cellules présentatrices d’antigène présentent des peptides issus d’agents infectieux aux lymphocytes T."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les enchaînements suivants, lesquels respectent strictement les étapes cytotoxiques décrites dans l’extrait ?",
+      "choices": [
+        "Voie des granules cytotoxiques : libération de molécules cytotoxiques par la cellule effectrice puis induction de l’apoptose de la cellule cible.",
+        "Voie des récepteurs de mort : activation de récepteurs pro-apoptotiques à la surface de la cellule cible puis déclenchement de la cascade apoptotique.",
+        "Voie des granules cytotoxiques : activation de récepteurs pro-apoptotiques à la surface de la cellule cible comme première étape décrite.",
+        "Voie des récepteurs de mort : libération de molécules cytotoxiques par la cellule cible comme mécanisme initial décrit."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’extrait distingue deux voies : les granules cytotoxiques avec libération de molécules cytotoxiques par la cellule effectrice, et la voie des récepteurs de mort avec activation de récepteurs pro-apoptotiques sur la cellule cible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la localisation des événements immunologiques décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "La libération des molécules cytotoxiques est attribuée à la cellule effectrice.",
+        "L’activation des récepteurs pro-apoptotiques est située à la surface de la cellule cible.",
+        "La reconnaissance directe des PAMPs est assurée par les récepteurs aux IgG.",
+        "Les cellules présentatrices d’antigène présentent les antigènes aux lymphocytes T."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La cellule effectrice libère les molécules cytotoxiques ; les récepteurs pro-apoptotiques sont activés à la surface de la cellule cible ; les CPA présentent les antigènes aux lymphocytes T. Les PAMPs sont reconnus directement par les TLR, non par les récepteurs aux IgG."
+    },
+    {
+      "type": "QCM",
+      "question": "En classant les récepteurs selon leur mode de reconnaissance, quelles propositions sont conformes à l’extrait ?",
+      "choices": [
+        "Les TLR relèvent de la reconnaissance directe.",
+        "CD16 et CD32 sont des récepteurs aux IgG.",
+        "CR1, CR3 et CR4 sont des récepteurs du complément.",
+        "C1qR est présenté comme le récepteur du MBL."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les TLR reconnaissent directement les PAMPs. CD16 et CD32 sont des récepteurs aux IgG. CR1, CR3 et CR4 sont des récepteurs du complément. C1qR est un récepteur des collectines, tandis que CD93 est le récepteur du MBL."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la reconnaissance indirecte dépendante des opsonines, quels éléments sont explicitement cités dans l’extrait ?",
+      "choices": [
+        "CD16 et CD32.",
+        "CR1 et CR4.",
+        "C1qR.",
+        "CD93."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Tous ces éléments sont cités dans la reconnaissance indirecte dépendante des opsonines : CD16/CD32 pour les IgG, CR1/CR3/CR4 pour le complément, C1qR pour les collectines et CD93 pour le MBL."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la reconnaissance directe des microorganismes, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle implique les récepteurs de type Toll.",
+        "Elle porte sur les PAMPs des microorganismes.",
+        "Elle dépend des récepteurs aux IgG CD16 et CD32.",
+        "Elle est distinguée de la reconnaissance indirecte dépendante des opsonines."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La reconnaissance directe est assurée par les TLR qui reconnaissent les PAMPs. La reconnaissance via CD16 et CD32 appartient à la reconnaissance indirecte dépendante des opsonines."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations famille de récepteurs–exemples, lesquelles sont exactes d’après l’extrait ?",
+      "choices": [
+        "Récepteurs aux IgG : CD16 et CD32.",
+        "Récepteurs du complément : CR1, CR3 et CR4.",
+        "Récepteurs des collectines : C1qR.",
+        "Récepteur du MBL : CD93."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’extrait donne précisément ces correspondances entre familles de récepteurs et exemples moléculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions corrigent correctement une erreur de classement des récepteurs cités ?",
+      "choices": [
+        "CD16 n’est pas cité comme récepteur du complément.",
+        "CR3 n’est pas cité comme récepteur aux IgG.",
+        "CD93 n’est pas cité comme récepteur des collectines.",
+        "C1qR n’est pas cité comme récepteur du MBL."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "CD16 est un récepteur aux IgG ; CR3 est un récepteur du complément ; CD93 est le récepteur du MBL ; C1qR est un récepteur des collectines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fonctions attribuées aux cellules présentatrices d’antigène, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles assurent la capture des antigènes.",
+        "Elles assurent le traitement des antigènes.",
+        "Elles assurent la présentation des antigènes aux lymphocytes T.",
+        "Elles assurent la reconnaissance directe des PAMPs par les TLR dans la formulation donnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue aux cellules présentatrices d’antigène la capture, le traitement et la présentation des antigènes aux lymphocytes T. La reconnaissance directe des PAMPs par les TLR est une notion séparée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la voie des récepteurs de mort, quels termes ou événements sont explicitement mentionnés ?",
+      "choices": [
+        "Activation.",
+        "Récepteurs pro-apoptotiques.",
+        "Surface de la cellule cible.",
+        "Déclenchement de la cascade apoptotique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La voie des récepteurs de mort est décrite par l’activation de récepteurs pro-apoptotiques à la surface de la cellule cible, entraînant le déclenchement de la cascade apoptotique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la voie des granules cytotoxiques, quelles propositions reprennent fidèlement le mécanisme décrit ?",
+      "choices": [
+        "Il y a libération de molécules cytotoxiques.",
+        "La libération est effectuée par la cellule effectrice.",
+        "Le résultat décrit est l’induction de l’apoptose de la cellule cible.",
+        "Le mécanisme initial décrit est l’activation de récepteurs pro-apoptotiques à la surface de la cellule cible."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie des granules cytotoxiques comporte la libération de molécules cytotoxiques par la cellule effectrice et l’induction de l’apoptose de la cellule cible. L’activation de récepteurs pro-apoptotiques appartient à l’autre voie."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles correspondent à des permutations incorrectes par rapport au classement de l’extrait ?",
+      "choices": [
+        "Classer CD16 parmi les récepteurs du complément.",
+        "Classer CR4 parmi les récepteurs aux IgG.",
+        "Classer C1qR comme récepteur du MBL.",
+        "Classer CD93 parmi les récepteurs des collectines."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions sont des permutations erronées : CD16 est un récepteur aux IgG, CR4 un récepteur du complément, C1qR un récepteur des collectines et CD93 le récepteur du MBL."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les sigles suivants, lesquels sont rattachés dans le texte à la reconnaissance indirecte dépendante des opsonines ?",
+      "choices": [
+        "TLR.",
+        "CD32.",
+        "CR4.",
+        "CD93."
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": "CD32, CR4 et CD93 sont inclus dans la reconnaissance indirecte dépendante des opsonines. Les TLR appartiennent à la reconnaissance directe des PAMPs."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions gardent correctement le destinataire de l’effet ou de la présentation dans l’extrait ?",
+      "choices": [
+        "La cellule cible subit l’apoptose induite dans la voie des granules cytotoxiques.",
+        "La cellule cible porte les récepteurs pro-apoptotiques activés dans la voie des récepteurs de mort.",
+        "Les lymphocytes T reçoivent la présentation des antigènes par les cellules présentatrices d’antigène.",
+        "Les microorganismes reçoivent la présentation des antigènes par les cellules présentatrices d’antigène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cellule cible est concernée par l’apoptose et par les récepteurs de mort ; les antigènes sont présentés aux lymphocytes T, non aux microorganismes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles relations mécanistiques sont explicitement formulées dans le texte ?",
+      "choices": [
+        "Activation des récepteurs pro-apoptotiques puis déclenchement de la cascade apoptotique.",
+        "Libération de molécules cytotoxiques puis induction de l’apoptose de la cellule cible.",
+        "Reconnaissance directe des PAMPs des microorganismes par les TLR.",
+        "Reconnaissance directe des PAMPs par CD16 et CD32."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premières relations sont conformes à l’extrait. CD16 et CD32 sont des récepteurs aux IgG impliqués dans la reconnaissance indirecte dépendante des opsonines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément distingue le mieux la voie des récepteurs de mort de la voie des granules cytotoxiques dans l’extrait ?",
+      "choices": [
+        "La capture de l’antigène par une cellule présentatrice d’antigène.",
+        "L’activation de récepteurs pro-apoptotiques à la surface de la cellule cible.",
+        "La reconnaissance directe des PAMPs par les TLR.",
+        "La présentation des antigènes aux lymphocytes T."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La voie des récepteurs de mort est définie par l’activation de récepteurs pro-apoptotiques à la surface de la cellule cible."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple récepteur–catégorie est exact selon la reconnaissance indirecte dépendante des opsonines ?",
+      "choices": [
+        "CR1 – récepteur aux IgG.",
+        "CD32 – récepteur aux IgG.",
+        "CD93 – récepteur des collectines.",
+        "C1qR – récepteur du complément."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "CD32 est cité comme récepteur aux IgG. CR1 est un récepteur du complément, CD93 le récepteur du MBL et C1qR un récepteur des collectines."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la reconnaissance directe, que reconnaissent les récepteurs de type Toll selon l’extrait ?",
+      "choices": [
+        "Les antigènes présentés aux lymphocytes T.",
+        "Les PAMPs des microorganismes.",
+        "Les récepteurs pro-apoptotiques de la cellule cible.",
+        "Les molécules cytotoxiques libérées par la cellule effectrice."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les TLR reconnaissent directement les PAMPs des microorganismes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle série contient uniquement des récepteurs du complément cités dans l’extrait ?",
+      "choices": [
+        "CD16, CD32, CD93.",
+        "CR1, CR3, CR4.",
+        "C1qR, CD93, CD16.",
+        "TLR, CR1, CD32."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les récepteurs du complément cités sont CR1, CR3 et CR4."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formulation résume exactement les fonctions des cellules présentatrices d’antigène dans l’extrait ?",
+      "choices": [
+        "Reconnaissance, cytotoxicité et apoptose de la cellule cible.",
+        "Capture, traitement et présentation des antigènes aux lymphocytes T.",
+        "Activation des récepteurs de mort, libération de molécules cytotoxiques et cascade apoptotique.",
+        "Reconnaissance des PAMPs, fixation du MBL et activation du complément."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les cellules présentatrices d’antigène assurent la capture, le traitement et la présentation des antigènes aux lymphocytes T."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la voie des récepteurs de mort, quel événement est décrit comme conséquence de l’activation des récepteurs pro-apoptotiques ?",
+      "choices": [
+        "La capture de l’antigène.",
+        "La libération de molécules cytotoxiques par la cellule effectrice.",
+        "Le déclenchement de la cascade apoptotique.",
+        "La reconnaissance directe des PAMPs."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Après activation des récepteurs pro-apoptotiques à la surface de la cellule cible, le texte indique le déclenchement de la cascade apoptotique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le champ d’action des réponses immunitaires contrôlées par les cellules T, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont essentielles dans la défense contre de nombreux agents infectieux.",
+        "Elles participent à la défense contre certaines cellules anormales.",
+        "Elles n’interviennent pas contre les cellules tumorales.",
+        "Elles peuvent concerner des cellules allogéniques."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise que les réponses contrôlées par les cellules T sont essentielles contre de nombreux agents infectieux et certaines cellules anormales, incluant notamment des cellules tumorales ou allogéniques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des déficits en cellules T décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Le syndrome de DiGeorge comporte une absence congénitale de thymus.",
+        "Le syndrome de DiGeorge peut entraîner une absence ou un déficit majeur en lymphocytes T.",
+        "L’infection par le VIH/SIDA détruit progressivement les lymphocytes T CD4+.",
+        "Le VIH/SIDA est décrit comme une maladie due à un excès de lymphocytes T cytotoxiques CD8+."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le DiGeorge est lié à l’absence congénitale de thymus avec déficit en lymphocytes T. Le VIH/SIDA entraîne une destruction progressive des lymphocytes T CD4+."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors du relais immunitaire après une élimination initiale insuffisante, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les lymphocytes T auxiliaires stimulent les lymphocytes B.",
+        "Les lymphocytes B peuvent se différencier en plasmocytes sécréteurs d’anticorps.",
+        "Les lymphocytes B peuvent donner des cellules mémoires.",
+        "Les lymphocytes T auxiliaires deviennent les principales cellules phagocytaires des débris."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que les lymphocytes T auxiliaires stimulent les lymphocytes B, qui se différencient en plasmocytes sécréteurs d’anticorps et en cellules mémoires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fonctions effectrices des anticorps et des macrophages dans l’extrait, quelles propositions sont exactes ?",
+      "choices": [
+        "Les anticorps neutralisent les antigènes.",
+        "Les anticorps facilitent l’élimination des antigènes.",
+        "Les macrophages phagocytent les débris cellulaires.",
+        "Les anticorps phagocytent directement les microorganismes détruits."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anticorps neutralisent les antigènes et facilitent leur élimination. Les macrophages phagocytent les débris cellulaires et les microorganismes détruits."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les deux types principaux de lymphocytes T décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T auxiliaires aident d’autres cellules immunitaires.",
+        "Les lymphocytes T auxiliaires aident notamment les lymphocytes B à produire des anticorps.",
+        "Les lymphocytes T cytotoxiques détruisent des cellules infectées, tumorales ou allogéniques.",
+        "Les lymphocytes T cytotoxiques se différencient en plasmocytes sécréteurs d’anticorps."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lymphocytes T helper coordonnent la réponse et aident notamment les lymphocytes B. Les lymphocytes T cytotoxiques détruisent les cellules infectées, tumorales ou allogéniques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la différenciation phénotypique des lymphocytes T auxiliaires et cytotoxiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T auxiliaires expriment le TCR et CD4.",
+        "Les lymphocytes T cytotoxiques expriment le TCR et CD8.",
+        "Les lymphocytes T CD4+ et CD8+ reconnaissent des complexes peptide-HLA différents.",
+        "Les lymphocytes T CD8+ conventionnels sont définis par l’expression conjointe de CD4 et CD25."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lymphocytes T auxiliaires sont TCR+ CD4+, les cytotoxiques sont TCR+ CD8+, et ces deux populations reconnaissent des complexes peptide-HLA différents."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la reconnaissance antigénique par les lymphocytes T, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T CD4+ reconnaissent principalement des peptides présentés par le CMH de classe II.",
+        "Les lymphocytes T CD8+ reconnaissent principalement des peptides endogènes présentés par le CMH de classe I.",
+        "Les lymphocytes T CD8+ reconnaissent principalement des peptides présentés par le CMH de classe II.",
+        "Les lymphocytes T reconnaissent des peptides antigéniques présentés par des molécules du CMH/HLA."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte distingue la reconnaissance CD4+ restreinte principalement au CMH II et la reconnaissance CD8+ de peptides endogènes présentés par le CMH I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le complexe TCR-CD3, quelles propositions sont exactes ?",
+      "choices": [
+        "Le TCR assure la reconnaissance spécifique du complexe peptide-CMH.",
+        "Le CD3 assure la transduction du signal d’activation.",
+        "Le complexe CD3 comporte notamment les chaînes ε, δ et γ.",
+        "Le CD3 correspond au récepteur de l’IL-2."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le TCR reconnaît le complexe peptide-CMH. Le CD3, associé au TCR, transmet le signal d’activation et comporte plusieurs chaînes dont ε, δ et γ."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les propriétés moléculaires du CD3, quelles propositions sont exactes ?",
+      "choices": [
+        "Ses chaînes possèdent des motifs ITAM intracellulaires.",
+        "Ses motifs ITAM contiennent des tyrosines phosphorylables.",
+        "Ses régions transmembranaires comportent des résidus chargés négativement.",
+        "Il assure la sécrétion directe d’anticorps."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chaînes du CD3 possèdent des motifs ITAM intracellulaires avec tyrosines phosphorylables, et leurs régions transmembranaires comportent des résidus chargés négativement."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des corécepteurs CD4 et CD8, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils augmentent l’affinité globale de l’interaction entre le TCR et le complexe peptide-CMH.",
+        "Ils participent à la signalisation intracellulaire nécessaire à l’activation lymphocytaire.",
+        "Ils remplacent le TCR pour la reconnaissance spécifique de l’antigène.",
+        "Ils assurent la phagocytose des antigènes par les macrophages."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "CD4 et CD8 renforcent l’interaction TCR–peptide-CMH et participent à la signalisation intracellulaire d’activation."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les sous-populations lymphocytaires T citées, lesquelles sont explicitement mentionnées ?",
+      "choices": [
+        "Lymphocytes T à TCR αβ/CD3 CD4+ CD8-.",
+        "Lymphocytes T à TCR αβ/CD3 CD4- CD8+.",
+        "Lymphocytes T à TCR γδ/CD3 CD4- CD8-.",
+        "Lymphocytes T à TCR γδ/CD3 CD4+ CD8+."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite des lymphocytes T αβ CD4+ CD8-, αβ CD4- CD8+ et γδ CD4- CD8-. Il ne cite pas de population γδ CD4+ CD8+."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la répartition approximative des lymphocytes T, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T à TCR αβ représentent environ 95 %.",
+        "Les lymphocytes T à TCR γδ représentent environ 5 %.",
+        "Parmi les lymphocytes T conventionnels à TCR αβ, les CD4+ helper représentent environ deux tiers.",
+        "Parmi les lymphocytes T conventionnels à TCR αβ, les CD8+ cytotoxiques représentent environ deux tiers."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La répartition donnée est : TCR αβ environ 95 %, TCR γδ environ 5 %, et parmi les T αβ conventionnels, CD4+ environ deux tiers et CD8+ environ un tiers."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lymphocytes T mémoires, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils persistent durablement dans l’organisme.",
+        "Ils répondent rapidement lors d’un nouveau contact avec le même antigène.",
+        "Ils assurent une protection spécifique de longue durée.",
+        "Ils conservent obligatoirement le phénotype CD45RA sans conversion vers CD45RO."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lymphocytes T mémoires persistent durablement, répondent rapidement au même antigène et assurent une protection spécifique prolongée, avec conversion CD45RA vers CD45RO."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes cytotoxiques décrits pour les cellules NK et les lymphocytes T cytotoxiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Leurs mécanismes cytotoxiques sont similaires.",
+        "Ils induisent l’apoptose des cellules cibles.",
+        "Les principales voies citées sont l’exocytose des granules cytotoxiques et la voie des récepteurs de mort.",
+        "Les plasmocytes représentent la majorité de l’activité cytotoxique lymphocytaire T."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que les cellules NK et les lymphocytes T cytotoxiques utilisent des mécanismes similaires induisant l’apoptose, via les granules cytotoxiques et les récepteurs de mort."
+    },
+    {
+      "type": "QCS",
+      "question": "Après stimulation par les lymphocytes T auxiliaires, quelle cellule est explicitement décrite comme sécrétrice d’anticorps ?",
+      "choices": [
+        "Plasmocyte",
+        "Macrophage",
+        "Cellule dendritique",
+        "Cellule NK"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les lymphocytes B se différencient en plasmocytes sécréteurs d’anticorps."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le complexe TCR-CD3, quel élément assure la transduction du signal d’activation ?",
+      "choices": [
+        "TCR",
+        "CD3",
+        "CD28",
+        "HLA"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le TCR reconnaît spécifiquement le complexe peptide-CMH, tandis que le CD3 assure la transduction du signal d’activation."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les lymphocytes T conventionnels à TCR αβ, quelle proportion approximative correspond aux lymphocytes T CD8+ cytotoxiques ?",
+      "choices": [
+        "Environ 5 %",
+        "Environ un tiers",
+        "Environ deux tiers",
+        "Environ 95 %"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Parmi les lymphocytes T conventionnels à TCR αβ, les CD8+ cytotoxiques représentent environ un tiers."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle population est citée comme pouvant exercer une cytotoxicité dans certains contextes, sans représenter la majorité de l’activité cytotoxique lymphocytaire T ?",
+      "choices": [
+        "Lymphocytes T cytotoxiques CD4+",
+        "Plasmocytes",
+        "Lymphocytes B mémoires",
+        "Macrophages exclusivement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite les lymphocytes T cytotoxiques CD4+ dans certains contextes, tandis que les lymphocytes T CD8+ représentent la majorité de l’activité cytotoxique lymphocytaire T."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel site est cité comme site d’action aux côtés des organes lymphoïdes secondaires ?",
+      "choices": [
+        "Moelle osseuse uniquement",
+        "Sites inflammatoires",
+        "Thymus uniquement",
+        "Circulation lymphatique exclusivement"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les sites d’activation et d’action cités sont les organes lymphoïdes secondaires et les sites inflammatoires."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cytokine est nommément citée dans le troisième signal d’activation des lymphocytes T naïfs ?",
+      "choices": [
+        "IL-2",
+        "IL-4",
+        "TNF-α",
+        "IFN-γ"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le troisième signal correspond aux cytokines, notamment l’IL-2 et l’interaction IL-2/récepteur de l’IL-2."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la voie des granules cytotoxiques, quelles formulations respectent correctement l’agent effecteur et la cellule cible ?",
+      "choices": [
+        "La cellule effectrice libère des molécules cytotoxiques.",
+        "La cellule cible libère les molécules cytotoxiques responsables de sa propre destruction.",
+        "L’apoptose induite concerne la cellule cible.",
+        "Les récepteurs pro-apoptotiques sont libérés par la cellule effectrice sous forme de granules."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte attribue à la cellule effectrice la libération des molécules cytotoxiques et précise que l’apoptose induite concerne la cellule cible."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la voie des récepteurs de mort, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle comporte l’activation de récepteurs pro-apoptotiques.",
+        "Ces récepteurs sont situés à la surface de la cellule cible.",
+        "Elle débute par la reconnaissance des PAMPs par les TLR.",
+        "Elle déclenche une cascade apoptotique."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La voie des récepteurs de mort repose sur l’activation de récepteurs pro-apoptotiques à la surface de la cellule cible, suivie du déclenchement de la cascade apoptotique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la reconnaissance directe des microorganismes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle implique les récepteurs de type Toll.",
+        "Elle porte sur les PAMPs des microorganismes.",
+        "Elle dépend de la fixation préalable d’opsonines.",
+        "Elle utilise comme exemples CD16 et CD32."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La reconnaissance directe est assurée par les TLR, qui reconnaissent directement les PAMPs des microorganismes. CD16 et CD32 relèvent des récepteurs aux IgG dans la reconnaissance indirecte."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations suivantes de la reconnaissance indirecte dépendante des opsonines, lesquelles sont correctes ?",
+      "choices": [
+        "Récepteurs aux IgG : CD16 et CD32.",
+        "Récepteurs du complément : CR1, CR3 et CR4.",
+        "Récepteurs des collectines : C1qR.",
+        "Récepteurs aux IgG : TLR et CD93."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite CD16 et CD32 comme récepteurs aux IgG, CR1/CR3/CR4 comme récepteurs du complément et C1qR comme récepteur des collectines."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la liste des récepteurs dépendant des opsonines, quelles familles sont représentées par un seul récepteur cité dans le texte ?",
+      "choices": [
+        "Les récepteurs des collectines, représentés par C1qR.",
+        "Le récepteur du MBL, représenté par CD93.",
+        "Les récepteurs aux IgG, représentés uniquement par CD16.",
+        "Les récepteurs du complément, représentés uniquement par CR3."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les collectines sont associées à C1qR et le MBL à CD93. Les IgG ont deux récepteurs cités, et le complément en a trois."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les récepteurs portant une nomenclature CD dans l’extrait, quelles propositions sont exactes ?",
+      "choices": [
+        "CD16 est cité parmi les récepteurs aux IgG.",
+        "CD32 est cité parmi les récepteurs aux IgG.",
+        "CD93 est cité comme récepteur du MBL.",
+        "CD16 est cité parmi les récepteurs du complément."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "CD16 et CD32 sont des récepteurs aux IgG, tandis que CD93 est le récepteur du MBL dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les récepteurs désignés par le préfixe CR dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "CR1 est un récepteur du complément.",
+        "CR3 est un récepteur du complément.",
+        "CR4 est un récepteur du complément.",
+        "CR1 est classé comme récepteur aux IgG."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "CR1, CR3 et CR4 sont tous cités comme récepteurs du complément."
+    },
+    {
+      "type": "QCM",
+      "question": "En comparant les deux mécanismes cytotoxiques décrits, quelles propositions sont justes ?",
+      "choices": [
+        "La voie des granules cytotoxiques aboutit à l’induction de l’apoptose de la cellule cible.",
+        "La voie des récepteurs de mort déclenche une cascade apoptotique.",
+        "La voie des granules cytotoxiques repose sur les récepteurs du complément.",
+        "La reconnaissance des PAMPs par les TLR constitue l’une des deux voies cytotoxiques décrites."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les deux mécanismes cités convergent vers l’apoptose, mais les TLR et les récepteurs du complément appartiennent au chapitre de la reconnaissance des microorganismes, non aux voies cytotoxiques décrites."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre élément reconnu ou traité et structure impliquée sont conformes au texte ?",
+      "choices": [
+        "TLR — PAMPs des microorganismes.",
+        "Cellules présentatrices d’antigène — antigènes.",
+        "Récepteurs aux IgG — IgG.",
+        "CR1 — collectines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les TLR reconnaissent les PAMPs, les cellules présentatrices d’antigène capturent, traitent et présentent les antigènes, et CD16/CD32 sont des récepteurs aux IgG. CR1 est un récepteur du complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cellules présentatrices d’antigène, quelles actions sont explicitement attribuées par le texte ?",
+      "choices": [
+        "La capture des antigènes.",
+        "Le traitement des antigènes.",
+        "La présentation des antigènes aux lymphocytes T.",
+        "La présentation des PAMPs aux récepteurs TLR."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cellules présentatrices d’antigène assurent la capture, le traitement et la présentation des antigènes aux lymphocytes T."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels enchaînements respectent l’ordre logique explicitement décrit dans l’extrait ?",
+      "choices": [
+        "Voie des granules cytotoxiques : libération de molécules cytotoxiques puis induction de l’apoptose de la cellule cible.",
+        "Voie des récepteurs de mort : activation de récepteurs pro-apoptotiques puis déclenchement de la cascade apoptotique.",
+        "Reconnaissance directe : opsonisation puis reconnaissance des IgG par CD16.",
+        "Présentation antigénique : présentation aux lymphocytes T puis capture de l’antigène."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte décrit la libération de molécules cytotoxiques suivie de l’apoptose, et l’activation des récepteurs pro-apoptotiques suivie de la cascade apoptotique."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour ne pas confondre reconnaissance directe et reconnaissance indirecte, quelles propositions sont correctes ?",
+      "choices": [
+        "Les TLR ne sont pas classés dans les récepteurs dépendant des opsonines.",
+        "CD16 et CD32 ne sont pas présentés comme des récepteurs de reconnaissance directe dans l’extrait.",
+        "CD93 est présenté comme un récepteur de type Toll.",
+        "C1qR est cité comme récepteur des collectines."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les TLR appartiennent à la reconnaissance directe. CD16/CD32 relèvent des IgG, CD93 du MBL, et C1qR des collectines."
+    },
+    {
+      "type": "QCM",
+      "question": "En se fondant sur le nombre d’exemples cités pour chaque catégorie de récepteurs dépendant des opsonines, quelles propositions sont exactes ?",
+      "choices": [
+        "Deux récepteurs aux IgG sont cités.",
+        "Trois récepteurs du complément sont cités.",
+        "Un récepteur des collectines est cité.",
+        "Deux récepteurs du MBL sont cités."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite CD16 et CD32 pour les IgG, CR1/CR3/CR4 pour le complément, C1qR pour les collectines et CD93 pour le MBL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les localisations ou cibles d’action mentionnées, quelles propositions sont exactes ?",
+      "choices": [
+        "Les récepteurs pro-apoptotiques de la voie des récepteurs de mort sont activés à la surface de la cellule cible.",
+        "Dans la voie des granules cytotoxiques, l’apoptose concerne la cellule cible.",
+        "Les cellules présentatrices d’antigène présentent les antigènes aux lymphocytes T.",
+        "Les PAMPs sont décrits comme présentés aux lymphocytes T par les TLR."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise la surface de la cellule cible pour les récepteurs de mort, l’apoptose de la cellule cible pour les granules cytotoxiques et la présentation des antigènes aux lymphocytes T par les CPA."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle série contient uniquement des récepteurs appartenant à la reconnaissance indirecte dépendante des opsonines ?",
+      "choices": [
+        "CD16, CD32, CR1.",
+        "TLR, CD16, CD32.",
+        "TLR, C1qR, CD93.",
+        "PAMPs, CR3, CR4."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "CD16, CD32 et CR1 appartiennent aux récepteurs dépendant des opsonines. Les TLR relèvent de la reconnaissance directe et les PAMPs sont des motifs reconnus."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel récepteur est associé aux collectines dans l’extrait ?",
+      "choices": [
+        "CD16.",
+        "CR3.",
+        "C1qR.",
+        "CD93."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "C1qR est le récepteur des collectines cité dans le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association récepteur–opsonine est correcte concernant le MBL ?",
+      "choices": [
+        "MBL — CD93.",
+        "MBL — CD32.",
+        "MBL — CR4.",
+        "MBL — TLR."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite CD93 comme récepteur du MBL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le plus fidèlement la reconnaissance directe des microorganismes selon le texte ?",
+      "choices": [
+        "Les TLR reconnaissent directement les PAMPs des microorganismes.",
+        "Les récepteurs aux IgG reconnaissent directement les PAMPs.",
+        "Les récepteurs du complément assurent la présentation des antigènes aux lymphocytes T.",
+        "CD93 déclenche directement la cascade apoptotique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La reconnaissance directe est définie par la reconnaissance des PAMPs des microorganismes par les récepteurs de type Toll."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la voie des récepteurs de mort, où sont activés les récepteurs pro-apoptotiques ?",
+      "choices": [
+        "À la surface de la cellule cible.",
+        "Dans les granules cytotoxiques de la cellule effectrice.",
+        "Sur les PAMPs des microorganismes.",
+        "Au niveau des récepteurs du complément."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que les récepteurs pro-apoptotiques sont activés à la surface de la cellule cible."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formulation résume correctement le rôle des cellules présentatrices d’antigène ?",
+      "choices": [
+        "Elles libèrent des molécules cytotoxiques pour induire l’apoptose.",
+        "Elles capturent, traitent et présentent les antigènes aux lymphocytes T.",
+        "Elles reconnaissent directement les PAMPs par CD16 et CD32.",
+        "Elles activent les récepteurs pro-apoptotiques du complément."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les cellules présentatrices d’antigène assurent la capture, le traitement et la présentation des antigènes aux lymphocytes T."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’une phagocytose initiale ne suffit pas à éliminer l’antigène, quels événements appartiennent au relais immunitaire décrit ?",
+      "choices": [
+        "Activation des lymphocytes T par les macrophages et surtout les cellules dendritiques",
+        "Stimulation des lymphocytes B par les lymphocytes T auxiliaires",
+        "Différenciation des lymphocytes B en plasmocytes sécréteurs d’anticorps et en cellules mémoires",
+        "Destruction des cellules infectées ou anormales par les lymphocytes T cytotoxiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "En cas d’élimination initiale insuffisante, le texte décrit l’activation des lymphocytes T, l’aide aux lymphocytes B, leur différenciation et l’action cytotoxique contre les cellules infectées ou anormales."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont cités à la fois dans le contexte de la détection de l’antigène ou d’une anomalie cellulaire et comme cibles ultérieures possibles de la réponse cytotoxique T ?",
+      "choices": [
+        "Cellules infectées",
+        "Cellules tumorales ou cancéreuses",
+        "Cellules allogéniques ou cellules du greffon",
+        "Protozoaires libres"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cellules infectées, tumorales/cancéreuses et allogéniques ou du greffon sont des cibles cellulaires mentionnées. Les protozoaires sont cités dans la détection antigénique, mais pas comme cellules éliminées par les lymphocytes T cytotoxiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’aide apportée aux lymphocytes B dans la réponse décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T auxiliaires stimulent les lymphocytes B",
+        "Les lymphocytes B peuvent se différencier en plasmocytes sécréteurs d’anticorps",
+        "Les lymphocytes B peuvent se différencier en cellules mémoires",
+        "Les anticorps produits participent à la neutralisation des antigènes et facilitent leur élimination"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que les lymphocytes T auxiliaires stimulent les lymphocytes B, lesquels deviennent plasmocytes sécréteurs d’anticorps et cellules mémoires. Les anticorps neutralisent les antigènes et facilitent leur élimination."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des déficits en cellules T mentionnés, quelles associations sont conformes au texte ?",
+      "choices": [
+        "Syndrome de DiGeorge — absence congénitale de thymus",
+        "Syndrome de DiGeorge — absence ou déficit majeur en lymphocytes T",
+        "VIH/SIDA — destruction progressive des lymphocytes T CD4+",
+        "VIH/SIDA — déficit congénital primitif du thymus"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de DiGeorge est lié à une absence congénitale de thymus entraînant une absence ou un déficit majeur en lymphocytes T. Le VIH/SIDA détruit progressivement les lymphocytes T CD4+."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les phénotypes suivants, lesquels correspondent à des sous-populations lymphocytaires T explicitement citées ?",
+      "choices": [
+        "TCR αβ/CD3 CD4+ CD8− CD25+",
+        "TCR αβ/CD3 CD4− CD8+",
+        "TCR γδ/CD3 CD4− CD8−",
+        "TCR αβ/CD3 CD4+ CD8+"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite des lymphocytes T αβ/CD3 CD4+ CD8− avec ou sans CD25, des lymphocytes T αβ/CD3 CD4− CD8+ et des lymphocytes T γδ/CD3 CD4− CD8−. Le phénotype CD4+ CD8+ n’est pas listé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lymphocytes T auxiliaires et cytotoxiques conventionnels, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T auxiliaires expriment le TCR et CD4",
+        "Les lymphocytes T cytotoxiques expriment le TCR et CD8",
+        "Les lymphocytes T CD4+ et CD8+ reconnaissent des complexes peptide-HLA différents",
+        "Les lymphocytes T auxiliaires sont définis dans le texte comme CD8+"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lymphocytes T auxiliaires sont CD4+, les lymphocytes T cytotoxiques conventionnels sont CD8+, et ces deux populations reconnaissent des complexes peptide-HLA différents."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le complexe TCR-CD3, quelles propositions attribuent correctement une fonction ou une caractéristique au bon élément ?",
+      "choices": [
+        "Le TCR assure la reconnaissance spécifique du complexe peptide-CMH",
+        "Le CD3 assure la transduction du signal d’activation",
+        "Les chaînes du CD3 possèdent des motifs ITAM intracellulaires contenant des tyrosines phosphorylables",
+        "Les résidus chargés négativement du CD3 sont décrits dans les régions extracellulaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le TCR reconnaît le complexe peptide-CMH. Le CD3 transmet le signal et comporte des motifs ITAM intracellulaires. Les résidus chargés négativement sont décrits dans les régions transmembranaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les corécepteurs CD4 et CD8, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Ils augmentent l’affinité globale de l’interaction entre le TCR et le complexe peptide-CMH",
+        "Ils participent à la signalisation intracellulaire nécessaire à l’activation lymphocytaire",
+        "Ils remplacent le TCR dans la reconnaissance spécifique de l’antigène",
+        "Ils assurent seuls la présentation antigénique aux lymphocytes T"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "CD4 et CD8 renforcent l’interaction TCR–peptide-CMH et participent à la signalisation. Ils ne remplacent pas le TCR et ne sont pas des molécules de présentation antigénique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lymphocytes T mémoires, quelles propositions caractérisent leur rôle dans le texte ?",
+      "choices": [
+        "Ils persistent durablement dans l’organisme",
+        "Ils répondent rapidement lors d’un nouveau contact avec le même antigène",
+        "Ils assurent une protection spécifique de longue durée",
+        "Ils présentent une conversion phénotypique de CD45RO vers CD45RA"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lymphocytes T mémoires persistent, répondent rapidement au même antigène et assurent une protection spécifique durable. La conversion décrite est de CD45RA vers CD45RO."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles cellules sont citées comme impliquées dans la cytotoxicité, en dehors des seuls lymphocytes T CD8+ ?",
+      "choices": [
+        "Cellules NK",
+        "Cellules NKT",
+        "Lymphocytes T γδ",
+        "Plasmocytes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les cellules NK, NKT et les lymphocytes T γδ parmi les cellules impliquées dans la cytotoxicité. Les plasmocytes sont cités comme sécréteurs d’anticorps, non comme cellules cytotoxiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’activation des lymphocytes T naïfs et la différenciation cytotoxique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le premier signal correspond à la reconnaissance spécifique de l’antigène par le TCR",
+        "Le deuxième signal correspond notamment à l’interaction CD28/B7",
+        "Le troisième signal implique des cytokines, notamment l’IL-2 et son récepteur",
+        "Les cytokines des lymphocytes T helper de type 1 participent à l’activation et à la différenciation des précurseurs cytotoxiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte individualise trois signaux d’activation : TCR-antigène, costimulation CD28/B7, puis cytokines dont IL-2/IL-2R. Les cytokines Th1 participent à la différenciation des précurseurs cytotoxiques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des mécanismes cytotoxiques utilisés par les cellules NK et les lymphocytes T cytotoxiques, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Ils sont décrits comme similaires",
+        "Ils induisent l’apoptose des cellules cibles",
+        "Ils comprennent une voie d’exocytose des granules cytotoxiques",
+        "Ils reposent principalement sur la transformation des lymphocytes B en plasmocytes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les mécanismes cytotoxiques des cellules NK et des lymphocytes T cytotoxiques sont similaires, induisent l’apoptose et comportent notamment la voie des granules cytotoxiques. La différenciation B en plasmocytes relève de la réponse humorale aidée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lieux et le devenir fonctionnel des lymphocytes T après activation, quelles propositions sont exactes ?",
+      "choices": [
+        "Les sites d’activation et d’action cités comprennent les organes lymphoïdes secondaires",
+        "Les sites d’activation et d’action cités comprennent les sites inflammatoires",
+        "Après activation, les lymphocytes T peuvent participer à l’élimination du pathogène ou à l’activation d’autres cellules immunitaires",
+        "Le développement principal des lymphocytes T se déroule dans les organes lymphoïdes secondaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les organes lymphoïdes secondaires et les sites inflammatoires sont cités comme sites d’activation et d’action. Après activation, les lymphocytes T éliminent le pathogène ou activent d’autres cellules. Leur développement principal se fait dans le thymus."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la répartition approximative des populations lymphocytaires T, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T à TCR αβ représentent environ 95 %",
+        "Les lymphocytes T à TCR γδ représentent environ 5 %",
+        "Parmi les lymphocytes T conventionnels à TCR αβ, les CD4+ helper représentent environ deux tiers",
+        "Parmi les lymphocytes T conventionnels à TCR αβ, les CD8+ cytotoxiques représentent environ deux tiers"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique environ 95 % de lymphocytes T αβ, 5 % de lymphocytes T γδ, et parmi les T αβ conventionnels environ deux tiers de CD4+ helper et un tiers de CD8+ cytotoxiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans un groupe théorique de 300 lymphocytes T conventionnels à TCR αβ, combien seraient approximativement des lymphocytes T CD8+ cytotoxiques selon la proportion donnée ?",
+      "choices": [
+        "50",
+        "100",
+        "150",
+        "200"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Parmi les lymphocytes T conventionnels à TCR αβ, les CD8+ cytotoxiques représentent environ un tiers. Un tiers de 300 correspond à environ 100."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel phénotype correspond à la sous-population de lymphocytes T à TCR γδ citée dans le texte ?",
+      "choices": [
+        "TCR γδ/CD3 CD4+ CD8−",
+        "TCR γδ/CD3 CD4− CD8+",
+        "TCR γδ/CD3 CD4− CD8−",
+        "TCR γδ/CD3 CD4+ CD8+"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La sous-population T γδ mentionnée est décrite comme TCR γδ/CD3 CD4− CD8−."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal site de développement et de différenciation des lymphocytes T dans le texte ?",
+      "choices": [
+        "Moelle osseuse",
+        "Thymus",
+        "Rate",
+        "Sites inflammatoires"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que le développement et la différenciation des lymphocytes T se déroulent principalement dans le thymus."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition résume le mieux la situation où la phagocytose initiale élimine tous les antigènes ?",
+      "choices": [
+        "Activation obligatoire des lymphocytes T cytotoxiques",
+        "Différenciation systématique des lymphocytes B en plasmocytes",
+        "Élimination physique de l’agent agresseur avec résolution rapide de l’infection",
+        "Destruction progressive des lymphocytes T CD4+"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Si la phagocytose élimine tous les antigènes, le texte décrit l’élimination physique de l’agent agresseur et une résolution rapide de l’infection."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle interaction correspond à la costimulation des lymphocytes T naïfs mentionnée dans le texte ?",
+      "choices": [
+        "TCR/CD3",
+        "CD28/B7",
+        "IL-2/récepteur de l’IL-2",
+        "CD45RA/CD45RO"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le deuxième signal d’activation est la costimulation, notamment l’interaction CD28/B7."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel n’est pas cité comme cellule pouvant être éliminée par les lymphocytes T cytotoxiques ?",
+      "choices": [
+        "Cellule infectée par un virus",
+        "Cellule cancéreuse",
+        "Cellule du greffon",
+        "Bactérie"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Les cibles citées des lymphocytes T cytotoxiques sont des cellules infectées par un virus, cancéreuses, du greffon ou allogéniques. Les bactéries sont citées comme antigènes détectés, non comme cellules éliminées par les LT cytotoxiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’extrait, quelles affirmations attribuent correctement l’apoptose au mécanisme cytotoxique concerné ?",
+      "choices": [
+        "La voie des granules cytotoxiques comporte la libération de molécules cytotoxiques puis l’induction de l’apoptose de la cellule cible.",
+        "La voie des récepteurs de mort comporte l’activation de récepteurs pro-apoptotiques à la surface de la cellule cible puis le déclenchement de la cascade apoptotique.",
+        "La reconnaissance directe par les TLR déclenche la cascade apoptotique de la cellule cible.",
+        "Les récepteurs CD16 et CD32 induisent l’apoptose par reconnaissance directe des PAMPs."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les deux mécanismes cytotoxiques décrits aboutissent à l’apoptose selon des étapes distinctes. Les TLR, CD16 et CD32 relèvent de la reconnaissance des microorganismes, non des étapes apoptotiques décrites."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour éviter une inversion entre cellule effectrice et cellule cible, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "La cellule effectrice libère des molécules cytotoxiques dans la voie des granules cytotoxiques.",
+        "La cellule cible subit une induction de l’apoptose dans la voie des granules cytotoxiques.",
+        "Des récepteurs pro-apoptotiques sont activés à la surface de la cellule cible dans la voie des récepteurs de mort.",
+        "La cellule cible assure le traitement des antigènes dans la voie des récepteurs de mort."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue la libération des molécules cytotoxiques à la cellule effectrice et l’apoptose à la cellule cible. Le traitement des antigènes est attribué aux cellules présentatrices d’antigène, pas à la cellule cible dans cette voie."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles classent correctement un récepteur dans une modalité de reconnaissance des microorganismes ?",
+      "choices": [
+        "Les TLR appartiennent à la reconnaissance directe des PAMPs des microorganismes.",
+        "C1qR est cité parmi les récepteurs des collectines dans la reconnaissance indirecte dépendante des opsonines.",
+        "CR4 est cité parmi les récepteurs du complément dans la reconnaissance indirecte dépendante des opsonines.",
+        "CD93 est cité comme récepteur direct des PAMPs des microorganismes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les TLR reconnaissent directement les PAMPs. C1qR relève des collectines, CR4 du complément. CD93 est cité comme récepteur du MBL, non comme récepteur direct des PAMPs."
+    },
+    {
+      "type": "QCM",
+      "question": "Si l’on ne retient que les rubriques de reconnaissance indirecte comportant un seul récepteur nommé, quelles propositions sont exactes ?",
+      "choices": [
+        "La rubrique des récepteurs des collectines comporte C1qR.",
+        "La rubrique du récepteur du MBL comporte CD93.",
+        "La rubrique des récepteurs aux IgG comporte uniquement CD16.",
+        "La rubrique des récepteurs du complément comporte uniquement CR1."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les collectines sont associées à C1qR et le MBL à CD93. Les récepteurs aux IgG sont CD16 et CD32 ; les récepteurs du complément sont CR1, CR3 et CR4."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la rubrique « récepteurs du complément », quelles propositions sont exactes ?",
+      "choices": [
+        "CR1 y est cité.",
+        "CR3 et CR4 y sont cités.",
+        "Trois récepteurs du complément sont nommés.",
+        "C1qR y est cité comme récepteur du complément."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La rubrique des récepteurs du complément comprend CR1, CR3 et CR4. C1qR est classé avec les récepteurs des collectines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les opérations assurées par les cellules présentatrices d’antigène, quelles formulations respectent le texte ?",
+      "choices": [
+        "Elles assurent la capture des antigènes.",
+        "Elles assurent le traitement des antigènes.",
+        "Elles assurent la présentation des antigènes aux lymphocytes T.",
+        "Elles assurent la présentation des lymphocytes T aux antigènes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cellules présentatrices d’antigène assurent capture, traitement et présentation des antigènes aux lymphocytes T. L’inversion du sens de présentation est incorrecte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions comportent une relation explicite avec la reconnaissance des microorganismes dans l’extrait ?",
+      "choices": [
+        "Les TLR reconnaissent directement les PAMPs des microorganismes.",
+        "La reconnaissance directe est une modalité de reconnaissance des microorganismes.",
+        "La reconnaissance indirecte dépendante des opsonines est présentée sous la rubrique reconnaissance des microorganismes.",
+        "Les récepteurs de mort reconnaissent directement les microorganismes à la surface de la cellule cible."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte place la reconnaissance directe et la reconnaissance indirecte dépendante des opsonines dans la reconnaissance des microorganismes. Les récepteurs de mort relèvent d’un mécanisme cytotoxique, non de la reconnaissance microbienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules cytotoxiques de la voie des granules cytotoxiques, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elles sont libérées par la cellule effectrice.",
+        "Elles appartiennent à la voie des granules cytotoxiques.",
+        "Leur libération est associée à l’induction de l’apoptose de la cellule cible.",
+        "Elles correspondent aux récepteurs CD16 et CD32."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans la voie des granules cytotoxiques, la cellule effectrice libère des molécules cytotoxiques, avec induction de l’apoptose de la cellule cible. CD16 et CD32 sont des récepteurs aux IgG."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les binômes récepteur–rubrique suivants, lesquels sont exacts d’après l’extrait ?",
+      "choices": [
+        "CD16 — récepteur aux IgG.",
+        "CR3 — récepteur du complément.",
+        "C1qR — récepteur des collectines.",
+        "CD93 — récepteur du MBL."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les quatre associations sont explicitement données dans la liste des récepteurs de reconnaissance indirecte dépendante des opsonines."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels couples mécanisme–aboutissement sont conformes au texte sans substituer un élément de reconnaissance microbienne ?",
+      "choices": [
+        "Voie des granules cytotoxiques — induction de l’apoptose de la cellule cible.",
+        "Voie des récepteurs de mort — déclenchement de la cascade apoptotique.",
+        "Reconnaissance directe par les TLR — induction de l’apoptose de la cellule cible.",
+        "Reconnaissance indirecte dépendante des opsonines — déclenchement de la cascade apoptotique."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les aboutissements apoptotiques cités appartiennent aux deux voies cytotoxiques. Les modalités de reconnaissance des microorganismes ne sont pas décrites comme déclenchant l’apoptose dans l’extrait."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les récepteurs à nomenclature CD cités dans la reconnaissance indirecte, quelles attributions sont justes ?",
+      "choices": [
+        "CD16 est un récepteur aux IgG.",
+        "CD32 est un récepteur aux IgG.",
+        "CD93 est le récepteur du MBL.",
+        "CD93 est un récepteur aux IgG."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "CD16 et CD32 sont classés comme récepteurs aux IgG. CD93 est cité comme récepteur du MBL, et non comme récepteur aux IgG."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions corrigent une attribution erronée aux TLR en replaçant le bon élément dans sa rubrique ?",
+      "choices": [
+        "CD16 et CD32 doivent être replacés parmi les récepteurs aux IgG.",
+        "CR1, CR3 et CR4 doivent être replacés parmi les récepteurs du complément.",
+        "C1qR doit être replacé parmi les récepteurs des collectines.",
+        "CD93 doit être replacé parmi les TLR."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les TLR relèvent de la reconnaissance directe des PAMPs. CD16/CD32, CR1/CR3/CR4 et C1qR appartiennent aux rubriques de reconnaissance indirecte indiquées ; CD93 est le récepteur du MBL."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’ordre d’énumération des mécanismes ou fonctions, quelles séquences respectent le texte ?",
+      "choices": [
+        "Libération de molécules cytotoxiques, puis induction de l’apoptose de la cellule cible.",
+        "Activation de récepteurs pro-apoptotiques à la surface de la cellule cible, puis déclenchement de la cascade apoptotique.",
+        "Capture, traitement et présentation des antigènes aux lymphocytes T.",
+        "Présentation des antigènes, puis capture et traitement par les cellules présentatrices d’antigène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les séquences correctes reprennent l’ordre donné pour la voie des granules cytotoxiques, la voie des récepteurs de mort et les fonctions des cellules présentatrices d’antigène."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions distinguent correctement les familles de récepteurs de la reconnaissance indirecte selon les exemples cités ?",
+      "choices": [
+        "Les récepteurs aux IgG cités sont CD16 et CD32.",
+        "Les récepteurs du complément cités sont CR1, CR3 et CR4.",
+        "Le récepteur des collectines cité est C1qR.",
+        "Le récepteur du MBL cité est CD93."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre distinctions correspondent exactement aux rubriques et exemples fournis pour la reconnaissance indirecte dépendante des opsonines."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la liste des récepteurs dépendants des opsonines, quel élément porte une nomenclature CD sans être rangé avec les récepteurs aux IgG ?",
+      "choices": [
+        "CD16",
+        "CD32",
+        "CD93",
+        "CR3"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "CD93 porte une nomenclature CD mais il est cité comme récepteur du MBL, contrairement à CD16 et CD32 qui sont des récepteurs aux IgG."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond au déclenchement final nommé dans la voie des récepteurs de mort ?",
+      "choices": [
+        "Libération de molécules cytotoxiques par la cellule effectrice.",
+        "Déclenchement de la cascade apoptotique.",
+        "Capture des antigènes.",
+        "Reconnaissance directe des PAMPs par les TLR."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans la voie des récepteurs de mort, l’activation des récepteurs pro-apoptotiques aboutit au déclenchement de la cascade apoptotique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel libellé associe correctement une structure de reconnaissance directe et son élément reconnu ?",
+      "choices": [
+        "TLR — PAMPs des microorganismes.",
+        "CR1 — PAMPs des microorganismes.",
+        "CD93 — PAMPs des microorganismes.",
+        "C1qR — PAMPs des microorganismes."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La reconnaissance directe est attribuée aux récepteurs de type Toll, qui reconnaissent directement les PAMPs des microorganismes."
+    },
+    {
+      "type": "QCS",
+      "question": "Combien de récepteurs sont explicitement cités dans la rubrique des récepteurs du complément ?",
+      "choices": [
+        "Un.",
+        "Deux.",
+        "Trois.",
+        "Quatre."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les récepteurs du complément cités sont CR1, CR3 et CR4, soit trois récepteurs."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi ces propositions, laquelle reprend l’ensemble des actions des cellules présentatrices d’antigène sans ajout ni omission ?",
+      "choices": [
+        "Capture et présentation des antigènes aux lymphocytes T uniquement.",
+        "Capture, traitement et présentation des antigènes aux lymphocytes T.",
+        "Traitement des antigènes et déclenchement de la cascade apoptotique.",
+        "Reconnaissance directe des PAMPs et présentation des antigènes aux lymphocytes T."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte attribue aux cellules présentatrices d’antigène trois actions : capture, traitement et présentation des antigènes aux lymphocytes T."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les récepteurs dépendants des opsonines, quel élément n’appartient ni à la série CD16/CD32 ni à la série CR1/CR3/CR4, tout en étant un récepteur nommé ?",
+      "choices": [
+        "C1qR",
+        "TLR",
+        "PAMPs",
+        "Cellule cible"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "C1qR est un récepteur nommé dans la reconnaissance indirecte, classé comme récepteur des collectines. TLR appartient à la reconnaissance directe, PAMPs est un motif reconnu, et la cellule cible n’est pas un récepteur."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels appartiennent explicitement à la phase de détection de l’antigène ou de l’anomalie cellulaire ?",
+      "choices": [
+        "Bactéries",
+        "Protozoaires",
+        "Cellules tumorales",
+        "Complexes immuns circulants"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les bactéries, les protozoaires, les cellules devenues anormales, infectées, tumorales et allogéniques. Les complexes immuns circulants ne sont pas mentionnés."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’arrivée des macrophages et des cellules dendritiques, quelles actions sont décrites dans le texte ?",
+      "choices": [
+        "Phagocytose des antigènes",
+        "Présentation antigénique",
+        "Activation des lymphocytes T et B",
+        "Différenciation directe en plasmocytes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les macrophages et cellules dendritiques phagocytent les antigènes, présentent l’antigène et activent les lymphocytes T et B. La différenciation en plasmocytes concerne les lymphocytes B."
+    },
+    {
+      "type": "QCM",
+      "question": "Si la phagocytose élimine tous les antigènes, quelles conséquences sont indiquées ?",
+      "choices": [
+        "Élimination physique de l’agent agresseur",
+        "Destruction obligatoire des lymphocytes T CD4+",
+        "Résolution rapide de l’infection",
+        "Différenciation systématique en lymphocytes T mémoires"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte associe cette situation à l’élimination physique de l’agent agresseur et à une résolution rapide de l’infection."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la phase de nettoyage après neutralisation ou destruction, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les anticorps neutralisent les antigènes.",
+        "Les anticorps facilitent l’élimination des antigènes.",
+        "Les macrophages phagocytent les débris cellulaires.",
+        "Les macrophages se transforment en cellules NK effectrices."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anticorps neutralisent les antigènes et facilitent leur élimination ; les macrophages phagocytent les débris cellulaires et les microorganismes détruits."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la reconnaissance antigénique des lymphocytes T, quelles affirmations sont exactes ?",
+      "choices": [
+        "Le TCR reconnaît spécifiquement le complexe peptide-CMH.",
+        "Chez l’humain, le CMH est aussi appelé HLA.",
+        "Les lymphocytes T CD4+ reconnaissent principalement des peptides présentés par le CMH de classe II.",
+        "Les lymphocytes T CD8+ reconnaissent principalement des peptides présentés par le CMH de classe II."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le TCR reconnaît le complexe peptide-CMH ; le CMH humain est appelé HLA. Les CD4+ reconnaissent surtout le CMH II, tandis que les CD8+ reconnaissent surtout le CMH I."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du complexe TCR-CD3, quelles propositions sont correctes ?",
+      "choices": [
+        "Le TCR assure la reconnaissance spécifique du complexe peptide-CMH.",
+        "Le CD3 est associé au TCR.",
+        "Le CD3 comporte notamment les chaînes ε, δ et γ.",
+        "Les motifs ITAM du CD3 sont extracellulaires et dépourvus de tyrosines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le TCR reconnaît le complexe peptide-CMH ; le CD3 est associé au TCR et comporte plusieurs chaînes dont ε, δ et γ. Les ITAM sont intracellulaires et contiennent des tyrosines phosphorylables."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les corécepteurs CD4 et CD8, quelles propositions respectent le texte ?",
+      "choices": [
+        "Ils augmentent l’affinité globale de l’interaction entre le TCR et le complexe peptide-CMH.",
+        "Ils participent à la signalisation intracellulaire nécessaire à l’activation lymphocytaire.",
+        "Ils remplacent le TCR dans la reconnaissance spécifique de l’antigène.",
+        "Ils sont impliqués dans la différenciation phénotypique CD4+ ou CD8+ des lymphocytes T."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "CD4 et CD8 caractérisent les lymphocytes T auxiliaires ou cytotoxiques, augmentent l’affinité globale TCR–peptide-CMH et participent à la signalisation intracellulaire. Ils ne remplacent pas le TCR."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les sous-populations lymphocytaires T citées, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T à TCR αβ/CD3 CD4+ CD8− sont mentionnés.",
+        "Des lymphocytes T à TCR αβ/CD3 CD4+ CD8− CD25+ sont mentionnés.",
+        "Les lymphocytes T à TCR γδ/CD3 CD4− CD8− sont mentionnés.",
+        "Une population TCR γδ/CD3 CD4+ CD8+ est mentionnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite des populations TCR αβ/CD3 CD4+ CD8−, avec ou sans CD25, ainsi qu’une population TCR γδ/CD3 CD4− CD8−. Il ne cite pas de TCR γδ CD4+ CD8+."
+    },
+    {
+      "type": "QCM",
+      "question": "En appliquant les proportions données à 1200 lymphocytes T, quelles estimations sont compatibles avec le texte ?",
+      "choices": [
+        "Environ 1140 lymphocytes T à TCR αβ.",
+        "Environ 60 lymphocytes T à TCR γδ.",
+        "Parmi les TCR αβ, environ 760 lymphocytes T CD4+ helper.",
+        "Parmi les TCR αβ, environ 760 lymphocytes T CD8+ cytotoxiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les TCR αβ représentent environ 95 %, soit 1140/1200 ; les TCR γδ environ 5 %, soit 60/1200. Parmi les TCR αβ, les CD4+ représentent environ 2/3, soit 760, et les CD8+ environ 1/3."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lymphocytes T mémoires, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "Ils persistent durablement dans l’organisme.",
+        "Ils répondent rapidement lors d’un nouveau contact avec le même antigène.",
+        "Ils assurent une protection spécifique de longue durée.",
+        "Ils présentent une conversion phénotypique de CD45RO vers CD45RA."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lymphocytes T mémoires persistent durablement, répondent rapidement au même antigène et assurent une protection spécifique prolongée. La conversion indiquée est CD45RA vers CD45RO."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des cellules impliquées dans la cytotoxicité, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T CD8+ sont impliqués.",
+        "Les cellules NK sont impliquées.",
+        "Les cellules NKT sont impliquées.",
+        "Les plasmocytes représentent la majorité de l’activité cytotoxique lymphocytaire T."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les lymphocytes T CD8+, les lymphocytes T cytotoxiques CD4+ dans certains contextes, les cellules NK, NKT et les lymphocytes T γδ. Les plasmocytes ne sont pas cités comme effecteurs cytotoxiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’activation des lymphocytes T naïfs, quelles propositions sont justes ?",
+      "choices": [
+        "Le premier signal correspond à la reconnaissance spécifique de l’antigène par le TCR.",
+        "Le deuxième signal correspond à une costimulation, notamment CD28/B7.",
+        "Le troisième signal implique des cytokines, notamment l’IL-2.",
+        "L’interaction IL-2/récepteur de l’IL-2 est citée dans le troisième signal."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les trois signaux décrits sont : reconnaissance antigénique par le TCR, costimulation CD28/B7, puis cytokines avec notamment IL-2 et interaction IL-2/récepteur de l’IL-2."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les lieux mentionnés dans la réponse T, quelles propositions sont exactes ?",
+      "choices": [
+        "Les organes lymphoïdes secondaires sont cités comme sites d’activation et d’action.",
+        "Les sites inflammatoires sont cités comme sites d’activation et d’action.",
+        "Le thymus est présenté comme le principal site de développement et de différenciation des lymphocytes T.",
+        "La moelle osseuse est citée comme site d’action des lymphocytes T cytotoxiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les sites d’activation et d’action cités sont les organes lymphoïdes secondaires et les sites inflammatoires. Le thymus est cité pour le développement et la différenciation, non comme site d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre lymphocytes T auxiliaires et cytotoxiques conventionnels, quelles propositions sont correctes ?",
+      "choices": [
+        "Les lymphocytes T auxiliaires expriment le TCR et CD4.",
+        "Les lymphocytes T cytotoxiques expriment le TCR et CD8.",
+        "Les lymphocytes T CD4+ et CD8+ reconnaissent des complexes peptide-HLA différents.",
+        "Les lymphocytes T auxiliaires sont définis par la destruction des cellules tumorales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les T auxiliaires sont TCR+ CD4+ ; les T cytotoxiques sont TCR+ CD8+. Le texte précise qu’ils reconnaissent des complexes peptide-HLA différents. La destruction des cellules tumorales relève des lymphocytes T cytotoxiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé correspond le mieux au premier signal d’activation d’un lymphocyte T naïf ?",
+      "choices": [
+        "Interaction CD28/B7",
+        "Reconnaissance spécifique de l’antigène par le TCR",
+        "Sécrétion d’anticorps par un plasmocyte",
+        "Phagocytose des débris cellulaires par un macrophage"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le premier signal d’activation est la reconnaissance spécifique de l’antigène par le TCR."
+    },
+    {
+      "type": "QCS",
+      "question": "Un lymphocyte T reconnaissant principalement des peptides endogènes présentés par le CMH de classe I correspond principalement à quelle population ?",
+      "choices": [
+        "Lymphocyte T CD4+",
+        "Lymphocyte T CD8+",
+        "Lymphocyte B mémoire",
+        "Plasmocyte sécréteur d’anticorps"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les lymphocytes T CD8+ reconnaissent principalement des peptides endogènes présentés par le CMH de classe I."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie immunologique est rattachée à l’infection par le VIH/SIDA dans le texte ?",
+      "choices": [
+        "Absence congénitale de thymus",
+        "Destruction progressive des lymphocytes T CD4+",
+        "Expansion exclusive des lymphocytes T γδ",
+        "Déficit isolé en anticorps sans atteinte cellulaire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le VIH/SIDA est associé à une destruction progressive des lymphocytes T CD4+, responsable d’une immunodéficience sévère."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition contient uniquement des éléments cités comme cellules ou cibles anormales détectables dans la réponse décrite ?",
+      "choices": [
+        "Cellules tumorales, cellules infectées, cellules allogéniques",
+        "Hématies normales, plaquettes, cellules stromales",
+        "Complexes immuns, toxines libres, cytokines",
+        "Plasmocytes, anticorps, fragments du complément"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite les cellules infectées, tumorales et allogéniques parmi les éléments détectés."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à une caractéristique fonctionnelle des lymphocytes T mémoires lors d’un nouveau contact antigénique ?",
+      "choices": [
+        "Réponse rapide au même antigène",
+        "Reconnaissance indépendante de toute spécificité antigénique",
+        "Destruction progressive des lymphocytes T CD4+",
+        "Transformation obligatoire en cellule dendritique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les lymphocytes T mémoires répondent rapidement lors d’un nouveau contact avec le même antigène."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement le rôle des cytokines des lymphocytes T helper de type 1 selon le texte ?",
+      "choices": [
+        "Elles participent à l’activation et à la différenciation des précurseurs cytotoxiques.",
+        "Elles assurent la phagocytose directe des microorganismes détruits.",
+        "Elles remplacent le TCR dans la reconnaissance antigénique.",
+        "Elles constituent les chaînes ε, δ et γ du CD3."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les cytokines produites par les lymphocytes T helper de type 1 participent à l’activation et à la différenciation des précurseurs cytotoxiques en lymphocytes T cytotoxiques effecteurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour établir une fiche distinguant les modalités de reconnaissance des microorganismes, quelles lignes sont conformes au texte ?",
+      "choices": [
+        "Reconnaissance directe : récepteurs de type Toll reconnaissant les PAMPs.",
+        "Reconnaissance indirecte dépendante des opsonines : récepteurs aux IgG CD16 et CD32.",
+        "Reconnaissance directe : récepteurs du complément CR1, CR3 et CR4.",
+        "Reconnaissance indirecte dépendante des opsonines : récepteur du MBL CD93."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les TLR assurent la reconnaissance directe des PAMPs. CD16/CD32 et CD93 appartiennent à la reconnaissance indirecte dépendante des opsonines. Les récepteurs du complément sont indirects, non directs."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations verbe–complément suivantes, lesquelles reprennent correctement une action décrite dans l’extrait ?",
+      "choices": [
+        "Les TLR reconnaissent les PAMPs des microorganismes.",
+        "Les cellules présentatrices d’antigène présentent les antigènes aux lymphocytes T.",
+        "La cellule effectrice libère des molécules cytotoxiques.",
+        "Les récepteurs aux IgG déclenchent la cascade apoptotique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue la reconnaissance des PAMPs aux TLR, la présentation antigénique aux CPA et la libération de molécules cytotoxiques à la cellule effectrice. Le déclenchement de la cascade apoptotique relève de la voie des récepteurs de mort, pas des récepteurs aux IgG."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels enchaînements respectent le mécanisme cytotoxique auquel ils sont rattachés ?",
+      "choices": [
+        "Voie des granules cytotoxiques : libération de molécules cytotoxiques puis induction de l’apoptose de la cellule cible.",
+        "Voie des récepteurs de mort : activation de récepteurs pro-apoptotiques à la surface de la cellule cible puis déclenchement de la cascade apoptotique.",
+        "Voie des granules cytotoxiques : activation de récepteurs pro-apoptotiques puis libération de molécules cytotoxiques.",
+        "Voie des récepteurs de mort : capture, traitement et présentation des antigènes."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La voie des granules repose sur la libération de molécules cytotoxiques induisant l’apoptose. La voie des récepteurs de mort passe par l’activation de récepteurs pro-apoptotiques à la surface de la cellule cible."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels couples associent deux récepteurs appartenant tous deux à la reconnaissance indirecte dépendante des opsonines, mais à deux rubriques différentes ?",
+      "choices": [
+        "CD16 et CR1.",
+        "CD32 et C1qR.",
+        "CD16 et CD32.",
+        "TLR et CD93."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "CD16 est un récepteur aux IgG et CR1 un récepteur du complément ; CD32 est un récepteur aux IgG et C1qR un récepteur des collectines. CD16/CD32 appartiennent à la même rubrique, et les TLR relèvent de la reconnaissance directe."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles conversions d’un récepteur nommé vers sa rubrique sont exactes ?",
+      "choices": [
+        "CD16 : récepteurs aux IgG.",
+        "CR3 : récepteurs du complément.",
+        "C1qR : récepteurs des collectines.",
+        "CD93 : récepteurs aux IgG."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "CD16 est classé parmi les récepteurs aux IgG, CR3 parmi les récepteurs du complément et C1qR parmi les récepteurs des collectines. CD93 correspond au récepteur du MBL."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les termes suivants, lesquels sont présentés comme des éléments reconnus, capturés, traités ou présentés, et non comme des récepteurs nommés ?",
+      "choices": [
+        "PAMPs.",
+        "Antigènes.",
+        "CD16.",
+        "CR4."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les PAMPs sont reconnus par les TLR, et les antigènes sont capturés, traités et présentés par les CPA. CD16 et CR4 sont des récepteurs nommés."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fonctions des cellules présentatrices d’antigène, quelles propositions restent dans le périmètre exact du texte ?",
+      "choices": [
+        "Elles assurent la capture des antigènes.",
+        "Elles assurent le traitement des antigènes.",
+        "Elles assurent la présentation des antigènes aux lymphocytes T.",
+        "Elles assurent la reconnaissance directe des PAMPs des microorganismes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue aux CPA la capture, le traitement et la présentation des antigènes aux lymphocytes T. La reconnaissance directe des PAMPs est attribuée aux TLR."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions concernant les récepteurs portant la nomenclature CD respectent le classement donné ?",
+      "choices": [
+        "CD16 et CD32 sont placés parmi les récepteurs aux IgG.",
+        "CD93 est placé comme récepteur du MBL.",
+        "CD16 est présenté comme un récepteur de type Toll.",
+        "CD32 est classé parmi les récepteurs du complément."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "CD16 et CD32 sont des récepteurs aux IgG. CD93 est le récepteur du MBL. Les TLR et les récepteurs du complément constituent d’autres catégories."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels couples réunissent un élément de reconnaissance directe et un élément de reconnaissance indirecte dépendante des opsonines ?",
+      "choices": [
+        "TLR et CD16.",
+        "TLR et CR3.",
+        "CD16 et CD32.",
+        "CR1 et C1qR."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les TLR relèvent de la reconnaissance directe. CD16 et CR3 relèvent de la reconnaissance indirecte dépendante des opsonines. Les couples CD16/CD32 et CR1/C1qR ne comportent que des éléments de reconnaissance indirecte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles formulations utilisent correctement le vocabulaire apoptotique de l’extrait ?",
+      "choices": [
+        "La voie des granules cytotoxiques aboutit à l’induction de l’apoptose de la cellule cible.",
+        "La voie des récepteurs de mort déclenche la cascade apoptotique.",
+        "La voie des récepteurs de mort implique des récepteurs pro-apoptotiques à la surface de la cellule cible.",
+        "Les opsonines déclenchent directement la cascade apoptotique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les deux voies cytotoxiques citées aboutissent à l’apoptose selon des mécanismes différents. Le texte ne dit pas que les opsonines déclenchent directement une cascade apoptotique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions conservent les trois actions des cellules présentatrices d’antigène sans substitution de cible ?",
+      "choices": [
+        "Capture, traitement et présentation des antigènes aux lymphocytes T.",
+        "Capture et traitement des antigènes, sans présentation.",
+        "Capture, traitement et présentation des PAMPs aux lymphocytes T.",
+        "Capture, traitement et présentation des antigènes."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "explanation": "Les trois actions citées sont capture, traitement et présentation des antigènes. La première proposition ajoute correctement le destinataire précisé : les lymphocytes T. La deuxième omet la présentation et la troisième remplace les antigènes par les PAMPs."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont nécessaires pour reconstituer l’énoncé portant sur la reconnaissance directe des microorganismes ?",
+      "choices": [
+        "Récepteurs de type Toll, ou TLR.",
+        "PAMPs des microorganismes.",
+        "Reconnaissance directe.",
+        "Lymphocytes T."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’énoncé du texte est : les TLR reconnaissent directement les PAMPs des microorganismes. Les lymphocytes T interviennent comme destinataires de la présentation antigénique par les CPA."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles rubriques sont explicitement individualisées dans la reconnaissance indirecte dépendante des opsonines ?",
+      "choices": [
+        "Récepteurs aux IgG.",
+        "Récepteurs du complément.",
+        "Récepteurs des collectines.",
+        "Récepteur du MBL."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte énumère quatre rubriques dans la reconnaissance indirecte dépendante des opsonines : IgG, complément, collectines et MBL."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions attribuent correctement le rôle de la cellule effectrice ou de la cellule cible ?",
+      "choices": [
+        "La cellule effectrice libère des molécules cytotoxiques.",
+        "La cellule cible subit l’induction de l’apoptose dans la voie des granules cytotoxiques.",
+        "Les récepteurs pro-apoptotiques sont activés à la surface de la cellule cible.",
+        "La cellule cible assure la capture et la présentation des antigènes aux lymphocytes T."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cellule effectrice libère les molécules cytotoxiques ; la cellule cible est le siège de l’apoptose et porte les récepteurs pro-apoptotiques activés dans la voie des récepteurs de mort. La capture et la présentation des antigènes sont assurées par les CPA."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la voie des granules cytotoxiques, quelle étape est explicitement placée avant l’induction de l’apoptose de la cellule cible ?",
+      "choices": [
+        "Libération de molécules cytotoxiques par la cellule effectrice.",
+        "Activation de récepteurs pro-apoptotiques à la surface de la cellule cible.",
+        "Reconnaissance directe des PAMPs par les TLR.",
+        "Présentation des antigènes aux lymphocytes T."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La voie des granules cytotoxiques comporte d’abord la libération de molécules cytotoxiques par la cellule effectrice, suivie de l’induction de l’apoptose de la cellule cible."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément assure, selon le texte, la reconnaissance directe des PAMPs des microorganismes ?",
+      "choices": [
+        "Les récepteurs de type Toll, ou TLR.",
+        "Les récepteurs aux IgG CD16 et CD32.",
+        "Les récepteurs du complément CR1, CR3 et CR4.",
+        "Le récepteur du MBL CD93."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La reconnaissance directe des PAMPs des microorganismes est attribuée aux récepteurs de type Toll, ou TLR."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour classer CD93 sans erreur, quelle rubrique faut-il retenir ?",
+      "choices": [
+        "Récepteurs aux IgG.",
+        "Récepteurs du complément.",
+        "Récepteurs des collectines.",
+        "Récepteur du MBL."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "CD93 est cité dans le texte comme récepteur du MBL."
+    },
+    {
+      "type": "QCS",
+      "question": "Le récepteur CR4 doit être rattaché à quelle catégorie dans la reconnaissance indirecte dépendante des opsonines ?",
+      "choices": [
+        "Récepteurs aux IgG.",
+        "Récepteurs du complément.",
+        "Récepteurs des collectines.",
+        "Récepteur du MBL."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "CR4 est cité avec CR1 et CR3 parmi les récepteurs du complément."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le destinataire explicitement cité de la présentation antigénique assurée par les cellules présentatrices d’antigène ?",
+      "choices": [
+        "Les lymphocytes T.",
+        "Les PAMPs.",
+        "Les opsonines.",
+        "Les microorganismes."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les cellules présentatrices d’antigène assurent la présentation des antigènes aux lymphocytes T."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la voie des récepteurs de mort, quel événement suit l’activation des récepteurs pro-apoptotiques à la surface de la cellule cible ?",
+      "choices": [
+        "Déclenchement de la cascade apoptotique.",
+        "Libération de molécules cytotoxiques par la cellule effectrice.",
+        "Capture des antigènes par les cellules présentatrices d’antigène.",
+        "Reconnaissance directe des PAMPs."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans la voie des récepteurs de mort, l’activation des récepteurs pro-apoptotiques à la surface de la cellule cible entraîne le déclenchement de la cascade apoptotique."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T19:47:56.340Z"
+}

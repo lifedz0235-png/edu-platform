@@ -1,0 +1,3128 @@
+{
+  "category": "biologie",
+  "module": "immunologie",
+  "courseId": 41,
+  "courseTitle": "Atelier Immunologie",
+  "supportTitle": "atelier-immunologie",
+  "supportType": "pptx",
+  "supportUrl": "/pdfs/biologie-pdf/immunologie/atelier-immunologie.pptx",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant l’hypersensibilité de type I, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle apparaît en quelques minutes après pénétration de l’allergène chez un sujet préalablement sensibilisé.",
+        "Elle fait intervenir des IgE fixées sur les mastocytes et les basophiles via FcεRI.",
+        "Les mastocytes et les basophiles sont les principales cellules effectrices.",
+        "Elle est principalement médiée par des IgG ou des IgM dirigées contre des antigènes membranaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypersensibilité de type I est immédiate, IgE-dépendante, avec mastocytes et basophiles comme principales cellules effectrices. Les IgG/IgM anti-antigènes membranaires relèvent du type II."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’induction et la phase effectrice de l’hypersensibilité de type I, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T CD4+ Th2 et les lymphocytes B participent à l’induction de la réponse IgE.",
+        "L’IL-4 et l’IL-13 orientent la réponse vers le profil Th2 et induisent la synthèse d’IgE.",
+        "La fixation des IgE spécifiques sur les cellules effectrices augmente leur demi-vie.",
+        "L’histamine préstockée dans les granules mastocytaires est un médiateur précoce."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La réponse IgE dépend des Th2, des lymphocytes B, de l’IL-4 et de l’IL-13. Les IgE fixées persistent davantage et l’histamine mastocytaire est un médiateur précoce."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hypersensibilité de type II, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est médiée par des anticorps dirigés contre des antigènes membranaires ou de matrice.",
+        "Elle implique principalement des IgG ou des IgM.",
+        "Elle peut activer le complément.",
+        "Elle peut impliquer les cellules NK par cytotoxicité cellulaire dépendante des anticorps."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le type II correspond à une hypersensibilité anticorps-dépendante dirigée contre des antigènes de surface ou de matrice, impliquant IgG/IgM, complément et parfois ADCC par cellules NK."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les affections suivantes, lesquelles relèvent d’un mécanisme d’hypersensibilité de type II selon le texte ?",
+      "choices": [
+        "Maladie de Goodpasture.",
+        "Vascularites à ANCA.",
+        "Maladie du poumon de fermier.",
+        "Rejet hyperaigu du greffon par anticorps préformés."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La maladie de Goodpasture, les vascularites à ANCA et le rejet hyperaigu du greffon sont associés au type II. La maladie du poumon de fermier est associée au type III."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la maladie hémolytique du nouveau-né, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle repose sur un mécanisme d’hypersensibilité de type II.",
+        "Elle est due à des anticorps maternels cytotoxiques dirigés contre des antigènes érythrocytaires fœtaux.",
+        "Le premier enfant est en général préservé.",
+        "L’incompatibilité ABO mère-enfant est généralement plus sévère que les autres incompatibilités."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie hémolytique du nouveau-né est un type II lié à des anticorps maternels anti-antigènes érythrocytaires fœtaux, notamment anti-Rhésus. L’incompatibilité ABO est généralement moins sévère."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les systèmes érythrocytaires et la prise en charge de la maladie hémolytique du nouveau-né, quelles propositions sont exactes ?",
+      "choices": [
+        "Les systèmes Rhésus, ABO, Kell et Duffy peuvent être impliqués.",
+        "La prévention repose sur l’administration d’anticorps anti-D.",
+        "Les formes sévères peuvent être traitées par exsanguino-transfusion du nouveau-né.",
+        "La prévention repose sur l’administration d’IgE spécifiques anti-érythrocytaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les systèmes Rhésus, ABO, Kell et Duffy peuvent être en cause. La prévention anti-D et l’exsanguino-transfusion des formes sévères sont mentionnées. Les IgE ne sont pas impliquées dans ce mécanisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’anémie hémolytique auto-immune à anticorps froids, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle relève d’une hypersensibilité de type II.",
+        "Elle implique principalement des autoanticorps IgM.",
+        "Elle active le complément par la voie classique.",
+        "Les antigènes érythrocytaires impliqués peuvent inclure l’antigène I."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’anémie hémolytique auto-immune à anticorps froids est un type II, dominé par des IgM, activant la voie classique du complément, avec possibilité d’implication de l’antigène I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hypersensibilité de type III, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est liée au dépôt inapproprié de complexes immuns.",
+        "Elle constitue un mécanisme important des glomérulonéphrites lupiques.",
+        "Elle est associée à l’alvéolite allergique extrinsèque.",
+        "La maladie sérique aiguë apparaît en quelques minutes chez un sujet déjà sensibilisé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le type III est lié aux complexes immuns, notamment dans les glomérulonéphrites lupiques et l’alvéolite allergique extrinsèque. La maladie sérique aiguë apparaît environ dix jours après injection de protéines étrangères chez un sujet non sensibilisé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la réaction d’Arthus, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une réaction locale à complexes immuns.",
+        "Elle fait intervenir des anticorps IgG ou IgM précipitants.",
+        "Les anticorps responsables fixent le complément.",
+        "Elle fait intervenir les polynucléaires neutrophiles et les mastocytes tissulaires activés par C3a."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La réaction d’Arthus est une réaction locale à complexes immuns, avec anticorps précipitants IgG/IgM, fixation du complément, neutrophiles et mastocytes activés notamment par C3a."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hypersensibilité retardée et l’eczéma de contact, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hypersensibilité retardée est une réaction à médiation cellulaire.",
+        "Le chrome utilisé pour tanner le cuir peut déclencher une hypersensibilité retardée.",
+        "L’eczéma de contact est dirigé contre des antigènes de type haptène.",
+        "L’exploration in vivo de l’eczéma de contact repose sur le patch-test."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’hypersensibilité retardée est cellulaire. Le chrome et la tuberculine sont des exemples d’antigènes déclenchants. L’eczéma de contact est une réaction aux haptènes explorée par patch-test."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le système du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Il comprend des molécules solubles et membranaires participant à l’immunité innée.",
+        "Son activation se fait en cascade par protéolyse.",
+        "Il comporte trois voies d’activation : classique, alterne et lectines/MBL.",
+        "Le C3 est une fraction centrale dans les trois voies."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le complément est un système de molécules solubles et membranaires de l’immunité innée, activé en cascade protéolytique par trois voies convergeant sur C3."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rôles et la régulation du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Il participe à la clairance des complexes immuns.",
+        "Il participe à l’opsonisation des antigènes, au chimiotactisme et à la neutralisation virale.",
+        "Les facteurs H, I et la properdine/facteur P appartiennent à la régulation soluble.",
+        "MCP et DAF appartiennent à la régulation membranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le complément intervient dans la clairance des complexes immuns, l’opsonisation, le chimiotactisme et la neutralisation virale. Sa régulation est soluble par H, I, properdine, et membranaire par MCP et DAF."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie classique du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle implique C1q, C2, C3 et C4.",
+        "C1q possède une structure évoquant un bouquet de 6 tulipes.",
+        "Sa C3 convertase est C4b2a.",
+        "Sa C3 convertase est C3bBb."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie classique implique C1q, C2, C3 et C4. C1q a une structure en bouquet de 6 tulipes. La C3 convertase classique est C4b2a, alors que C3bBb est celle de la voie alterne."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie alterne et la voie MBL du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie alterne implique C3, le facteur B, le facteur D et la properdine/facteur P.",
+        "La C3 convertase de la voie alterne est C3bBb.",
+        "La properdine stabilise la C3 convertase de la voie alterne.",
+        "La voie MBL est dépendante des anticorps."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie alterne implique C3, B, D et la properdine ; sa C3 convertase est C3bBb, stabilisée par la properdine. La voie MBL est indépendante des anticorps."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’élément déclencheur caractéristique de la voie MBL du complément ?",
+      "choices": [
+        "Les résidus mannose.",
+        "Les IgE fixées sur FcεRI.",
+        "Les antigènes de type haptène.",
+        "Les anticorps anti-D."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La voie MBL est activée par les résidus mannose et reste indépendante des anticorps."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la C3 convertase de la voie classique du complément ?",
+      "choices": [
+        "C1q.",
+        "C4b2a.",
+        "C3bBb.",
+        "MASP-2."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La C3 convertase de la voie classique est C4b2a. C3bBb correspond à la C3 convertase de la voie alterne."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le taux sérique normal approximatif des IgG chez l’adulte ?",
+      "choices": [
+        "10 à 15 g/L.",
+        "150 000 daltons.",
+        "Environ 2.",
+        "Deux fragments Fab."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le taux sérique normal des IgG chez l’adulte est d’environ 10 à 15 g/L. Les autres propositions décrivent respectivement le poids moléculaire, le rapport kappa/lambda ou la structure."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle immunoglobuline traverse la barrière placentaire selon le texte, notamment par sa sous-classe IgG1 ?",
+      "choices": [
+        "IgA.",
+        "IgE.",
+        "IgM.",
+        "IgG."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Certaines IgG traversent la barrière placentaire, notamment les IgG1."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cellule élabore la pièce sécrétoire des IgA digestives ?",
+      "choices": [
+        "Les cellules épithéliales de la muqueuse digestive.",
+        "Les mastocytes tissulaires.",
+        "Les basophiles circulants.",
+        "Les cellules NK."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La pièce sécrétoire des IgA digestives est élaborée par les cellules épithéliales de la muqueuse digestive."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la première classe d’immunoglobulines produite au cours de l’ontogénie ?",
+      "choices": [
+        "IgG.",
+        "IgA.",
+        "IgM.",
+        "IgE."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La première classe d’immunoglobulines produite au cours de l’ontogénie est l’IgM."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les immunoglobulines se fixant aux mastocytes et aux basophiles par leur fragment Fc, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles se fixent aux mastocytes par leur fragment Fc.",
+        "Elles se fixent aux basophiles par leur fragment Fc.",
+        "Elles sont peu abondantes dans le sang.",
+        "Elles activent le complément par la voie classique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Selon le texte, ces immunoglobulines se fixent aux mastocytes et aux basophiles par le Fc, sont peu abondantes dans le sang et n’activent pas la voie classique du complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fragment Fc des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est le support de la diversité isotypique des chaînes lourdes.",
+        "Il permet aux IgG de traverser le placenta.",
+        "Il permet la fixation des IgE aux mastocytes.",
+        "Il porte la région de fixation de la chaîne J dans les IgA polymériques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le fragment Fc porte les déterminants fonctionnels cités : diversité isotypique des chaînes lourdes, passage placentaire des IgG, fixation des IgE aux mastocytes et fixation de la chaîne J dans les IgA polymériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les chaînes légères des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles s’associent à des chaînes lourdes.",
+        "Elles appartiennent au fragment Fab.",
+        "Elles contiennent un seul domaine constant.",
+        "Leurs principaux isotypes sont kappa et lambda."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les chaînes légères sont associées aux chaînes lourdes, participent au fragment Fab, possèdent un seul domaine constant et sont principalement de type kappa ou lambda."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le fragment Fab d’une immunoglobuline, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être obtenu après protéolyse des IgG par la papaïne.",
+        "Il contient un domaine variable de chaîne lourde et un domaine variable de chaîne légère.",
+        "Il porte deux domaines variables.",
+        "Il est monovalent."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le fragment Fab est obtenu par digestion des IgG par la papaïne, contient les domaines variables VH et VL, porte deux domaines variables et est monovalent."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes concernant les fragments d’immunoglobulines, lesquelles sont exactes ?",
+      "choices": [
+        "Le fragment Fab ne possède pas de fonctions effectrices.",
+        "Le fragment Fc intervient dans le passage placentaire des IgG.",
+        "Le fragment Fab est monovalent.",
+        "Le fragment Fc porte la diversité isotypique des chaînes lourdes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue les fonctions du Fab, monovalent et sans fonctions effectrices, de celles du Fc, impliqué notamment dans l’isotypie des chaînes lourdes et le passage placentaire des IgG."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la région charnière et l’organisation fonctionnelle des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "La région charnière assure la flexibilité des immunoglobulines.",
+        "La fixation de la chaîne J dans les IgA polymériques relève du fragment Fc.",
+        "Les chaînes légères appartiennent au fragment Fab.",
+        "Le fragment Fab possède des fonctions effectrices."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La région charnière confère la flexibilité. Le Fc porte la région de fixation de la chaîne J dans les IgA polymériques. Les chaînes légères appartiennent au Fab. Le Fab ne possède pas de fonctions effectrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules HLA classiques de classes I et II, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles participent à l’éducation intrathymique des lymphocytes T.",
+        "Elles contribuent à la définition d’un répertoire lymphocytaire T non autoréactif.",
+        "Leurs gènes ont une expression codominante.",
+        "Elles sont les principaux isotypes des chaînes légères des immunoglobulines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA classiques I et II participent à l’éducation thymique et à la sélection d’un répertoire non autoréactif ; leurs gènes s’expriment de façon codominante. Kappa et lambda sont les isotypes des chaînes légères, pas des molécules HLA."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le site de liaison peptidique des molécules HLA, quelles propositions sont exactes ?",
+      "choices": [
+        "Les molécules HLA comportent un site de liaison peptidique.",
+        "Le peptide présenté est issu de la dégradation antigénique.",
+        "Ce site participe à la présentation d’éléments antigéniques aux lymphocytes T.",
+        "Ce site correspond à la région de fixation de la chaîne J des IgA polymériques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que les molécules HLA comportent un site de liaison peptidique issu de la dégradation antigénique. La chaîne J des IgA polymériques relève du fragment Fc, et non des molécules HLA."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules HLA de classe I, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles régulent l’activité des cellules NK.",
+        "Elles interagissent avec CD8.",
+        "Elles sont exprimées par la plupart des cellules nucléées.",
+        "Elles comprennent une chaîne lourde polymorphe associée à la β2-microglobuline."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les HLA de classe I régulent les cellules NK, interagissent avec CD8, sont exprimées par la plupart des cellules nucléées et associent une chaîne lourde polymorphe à la β2-microglobuline."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations suivantes, lesquelles sont exactes selon le texte ?",
+      "choices": [
+        "HLA classe I — interaction avec CD8.",
+        "HLA classe I — régulation de l’activité des cellules NK.",
+        "HLA classe I — association à la β2-microglobuline.",
+        "Chaînes légères — principaux isotypes kappa et lambda."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces associations sont explicitement indiquées : les HLA I interagissent avec CD8, régulent les NK et comprennent la β2-microglobuline ; les chaînes légères sont principalement kappa ou lambda."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’immunité innée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle fait intervenir les barrières cutanéomuqueuses.",
+        "Elle peut orienter la réponse immunitaire adaptative.",
+        "Son orientation de la réponse adaptative dépend notamment des cytokines produites.",
+        "Elle implique uniquement des mécanismes indépendants des récepteurs."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’immunité innée implique les barrières cutanéomuqueuses et peut orienter l’immunité adaptative selon les cytokines produites. Le texte cite aussi des récepteurs impliqués, donc elle n’est pas indépendante des récepteurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les récepteurs impliqués dans l’immunité innée selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "TLR4 est cité parmi les récepteurs impliqués.",
+        "CD35 est cité parmi les récepteurs impliqués.",
+        "CD8 est cité comme récepteur impliqué dans l’immunité innée.",
+        "La β2-microglobuline est citée comme récepteur de l’immunité innée."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte cite TLR4 et CD35 comme récepteurs impliqués dans l’immunité innée. CD8 est mentionné dans l’interaction avec HLA I, et la β2-microglobuline comme composant structural des HLA I."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles différencient correctement Fab, Fc et région charnière ?",
+      "choices": [
+        "Le Fab est obtenu après protéolyse des IgG par la papaïne.",
+        "Le Fc permet la fixation des IgE aux mastocytes.",
+        "La région charnière assure la flexibilité des immunoglobulines.",
+        "Le Fab porte la région de fixation de la chaîne J des IgA polymériques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le Fab est produit par digestion des IgG par la papaïne, le Fc permet la fixation des IgE aux mastocytes et la région charnière assure la flexibilité. La fixation de la chaîne J des IgA polymériques relève du Fc."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les pièges de structure des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Un fragment Fab contient un domaine variable de chaîne lourde.",
+        "Un fragment Fab contient un domaine variable de chaîne légère.",
+        "Une chaîne légère contient un seul domaine constant.",
+        "Les principaux isotypes de chaînes légères sont portés par la β2-microglobuline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le Fab contient les domaines variables de chaîne lourde et de chaîne légère. La chaîne légère possède un seul domaine constant. La β2-microglobuline est associée aux molécules HLA de classe I, pas aux isotypes kappa/lambda."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel fragment d’immunoglobuline est obtenu après protéolyse des IgG par la papaïne ?",
+      "choices": [
+        "Fragment Fab",
+        "Fragment Fc",
+        "Région charnière",
+        "Chaîne J"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le fragment Fab est décrit comme obtenu après protéolyse des IgG par la papaïne."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle structure est associée à la chaîne lourde polymorphe des molécules HLA de classe I ?",
+      "choices": [
+        "La chaîne J",
+        "La β2-microglobuline",
+        "La chaîne légère kappa",
+        "La région charnière"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les molécules HLA de classe I comprennent une chaîne lourde polymorphe associée à la β2-microglobuline."
+    },
+    {
+      "type": "QCS",
+      "question": "Avec quel marqueur les molécules HLA de classe I interagissent-elles selon le texte ?",
+      "choices": [
+        "CD8",
+        "CD35",
+        "TLR4",
+        "Chaîne J"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les molécules HLA de classe I interagissent avec CD8."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle région assure la flexibilité des immunoglobulines ?",
+      "choices": [
+        "La région charnière",
+        "La β2-microglobuline",
+        "Le site de liaison peptidique HLA",
+        "Le récepteur TLR4"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La région charnière assure la flexibilité des immunoglobulines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel fragment porte la région de fixation de la chaîne J dans les IgA polymériques ?",
+      "choices": [
+        "Fragment Fc",
+        "Fragment Fab",
+        "Chaîne légère lambda",
+        "β2-microglobuline"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le fragment Fc porte la région de fixation de la chaîne J dans les IgA polymériques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel récepteur est explicitement cité comme impliqué dans l’immunité innée ?",
+      "choices": [
+        "TLR4",
+        "CD8",
+        "Chaîne J",
+        "β2-microglobuline"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite TLR4, avec CD35, parmi les récepteurs impliqués dans l’immunité innée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la commutation isotypique des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à un changement d’isotype.",
+        "Elle conserve l’idiotype.",
+        "Elle augmente la diversité périphérique fonctionnelle du répertoire des immunoglobulines.",
+        "Elle impose un changement de spécificité antigénique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La commutation isotypique change l’isotype tout en conservant l’idiotype, ce qui augmente la diversité fonctionnelle périphérique sans changer la spécificité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la production d’immunoglobulines par un plasmocyte individuel, quelles propositions sont exactes ?",
+      "choices": [
+        "Les immunoglobulines synthétisées ont la même spécificité.",
+        "Elles portent la même chaîne lourde.",
+        "Elles portent la même chaîne légère.",
+        "Elles expriment des déterminants idiotypiques différents."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un plasmocyte individuel synthétise des immunoglobulines de même spécificité, avec la même chaîne lourde, la même chaîne légère et les mêmes déterminants idiotypiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anticorps selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des glycoprotéines.",
+        "Ils sont produits par les plasmocytes.",
+        "Ils permettent des sérothérapies préventives.",
+        "Ils sont principalement produits par les mastocytes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anticorps sont des glycoprotéines produites par les plasmocytes et peuvent être utilisés dans des sérothérapies préventives."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la cinétique de production des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "En réponse primaire à un antigène thymodépendant, les anticorps sériques sont d’abord des IgM.",
+        "Après les IgM, des IgG apparaissent lors de la réponse primaire à un antigène thymodépendant.",
+        "La première classe d’immunoglobulines produite au cours de l’ontogénie est l’IgM.",
+        "La réponse primaire à un antigène thymodépendant débute par des IgG puis des IgM."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réponse primaire thymodépendante débute par des IgM puis des IgG. L’IgM est aussi la première classe produite au cours de l’ontogénie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les IgG, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont les immunoglobulines majoritaires du sérum.",
+        "Leur poids moléculaire est d’environ 150 000 daltons.",
+        "Elles possèdent deux fragments Fab.",
+        "Elles sont incapables de fixer le complément par la voie classique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les IgG sont majoritaires dans le sérum, ont un poids moléculaire d’environ 150 000 daltons et possèdent deux fragments Fab. Elles peuvent fixer le complément par la voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les IgA, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont présentes sous forme monomérique dans le sang.",
+        "Elles sont présentes sous forme dimérique dans les sécrétions.",
+        "L’IgA monomérique est dépourvue de chaîne J.",
+        "La pièce sécrétoire des IgA digestives est élaborée par les plasmocytes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les IgA sont monomériques dans le sang et dimériques dans les sécrétions. L’IgA monomérique n’a pas de chaîne J. La pièce sécrétoire digestive est élaborée par les cellules épithéliales de la muqueuse digestive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les IgE et leur réponse immunologique, quelles propositions sont exactes ?",
+      "choices": [
+        "Leur synthèse est contrôlée par les lymphocytes Th2.",
+        "L’IL-4 et l’IL-13 induisent la synthèse d’IgE.",
+        "La demi-vie des IgE spécifiques augmente après leur fixation sur les cellules effectrices.",
+        "L’histamine mastocytaire est uniquement un médiateur tardif néoformé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les Th2 contrôlent la synthèse des IgE, notamment via IL-4 et IL-13. La fixation des IgE sur les cellules effectrices augmente leur demi-vie. L’histamine est préstockée et agit précocement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation générale du système du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Il comprend des molécules solubles et membranaires.",
+        "Il participe à l’immunité innée.",
+        "Son activation se fait en cascade par protéolyse.",
+        "Le C3 intervient uniquement dans la voie classique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complément est un système de molécules solubles et membranaires de l’immunité innée, activé en cascade par protéolyse. Le C3 est central dans les trois voies."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Les facteurs H et I appartiennent à la régulation soluble.",
+        "La properdine ou facteur P appartient à la régulation soluble.",
+        "MCP et DAF sont des régulateurs membranaires.",
+        "MCP et DAF correspondent aux C3 convertases du complément."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs H, I et la properdine/facteur P relèvent de la régulation soluble. MCP et DAF sont des régulateurs membranaires, non des C3 convertases."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie classique du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle implique C1q, C2, C3 et C4.",
+        "C1q possède une structure évoquant un bouquet de 6 tulipes.",
+        "Sa C3 convertase est C4b2a.",
+        "Sa C3 convertase clive directement C3 en C5a et C5b."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie classique implique C1q, C2, C3 et C4. C1q évoque un bouquet de 6 tulipes. La C3 convertase C4b2a clive C3 en C3a et C3b."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie alterne du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle implique C3, le facteur B, le facteur D et la properdine.",
+        "Sa C3 convertase est C3bBb.",
+        "Sa C3 convertase a pour substrat C3.",
+        "Elle nécessite obligatoirement C1q et C4."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie alterne implique C3, les facteurs B et D et la properdine. Sa C3 convertase est C3bBb, stabilisée par la properdine, et elle clive C3."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie des lectines/MBL du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est activée par les résidus mannose.",
+        "La MBL est une collectine ressemblant à C1q.",
+        "Les MASP-1 et MASP-2 ressemblent à C1r et C1s.",
+        "Elle dépend de la présence préalable d’anticorps."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie MBL est déclenchée par les résidus mannose. La MBL ressemble à C1q, les MASP à C1r/C1s, et cette voie est indépendante des anticorps."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations clinique-mécanisme suivantes, lesquelles sont exactes selon le texte ?",
+      "choices": [
+        "Rhinite pollinique — hypersensibilité de type I.",
+        "Maladie de Goodpasture — hypersensibilité de type II.",
+        "Glomérulonéphrite lupique — hypersensibilité de type III.",
+        "Eczéma de contact — hypersensibilité de type II."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La rhinite pollinique relève du type I, la maladie de Goodpasture du type II, et les glomérulonéphrites lupiques du type III. L’eczéma de contact est une hypersensibilité retardée."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour raisonner sur les mécanismes dépendants ou indépendants des anticorps, quelles propositions sont exactes ?",
+      "choices": [
+        "La voie MBL du complément est indépendante des anticorps.",
+        "L’hypersensibilité retardée est une réaction à médiation cellulaire.",
+        "L’hypersensibilité de type II implique principalement des IgG ou des IgM.",
+        "La maladie sérique aiguë est une réaction immédiate IgE-dépendante apparaissant en quelques minutes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie MBL est indépendante des anticorps, l’hypersensibilité retardée est cellulaire, et le type II implique surtout IgG ou IgM. La maladie sérique aiguë relève des complexes immuns et apparaît environ dix jours après injection de protéines étrangères."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel déficit du complément est associé à un angio-œdème selon le texte ?",
+      "choices": [
+        "Déficit en C1 inhibiteur.",
+        "Déficit en C3.",
+        "Déficit en properdine.",
+        "Déficit en MASP-2."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte associe explicitement le déficit en C1 inhibiteur à l’angio-œdème."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le poids moléculaire approximatif des IgG selon le texte ?",
+      "choices": [
+        "Environ 150 000 daltons.",
+        "Environ 10 à 15 g/L.",
+        "Environ 2.",
+        "Environ 6 tulipes."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le poids moléculaire des IgG est d’environ 150 000 daltons. Les autres valeurs correspondent à d’autres données du texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel récepteur de haute affinité permet la fixation des IgE sur les mastocytes et les basophiles ?",
+      "choices": [
+        "FcεRI.",
+        "MCP.",
+        "DAF.",
+        "MASP-1."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les IgE se fixent sur les mastocytes et basophiles via le récepteur de haute affinité FcεRI."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle voie du complément est activée par les résidus mannose ?",
+      "choices": [
+        "Voie MBL.",
+        "Voie alterne.",
+        "Voie classique.",
+        "Hypersensibilité retardée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La voie MBL, ou voie des lectines, est activée par les résidus mannose."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle exploration in vivo est indiquée pour l’eczéma de contact selon le texte ?",
+      "choices": [
+        "IDR à la tuberculine.",
+        "Patch-test.",
+        "Exsanguino-transfusion.",
+        "Administration d’anticorps anti-D."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’exploration in vivo de l’eczéma de contact repose sur le patch-test."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement spécifique est cité pour l’hypersensibilité de type I ?",
+      "choices": [
+        "Administration d’anticorps anti-D.",
+        "Exsanguino-transfusion du nouveau-né.",
+        "Éviction de l’allergène.",
+        "Activation de la voie MBL."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le traitement spécifique de l’hypersensibilité de type I mentionné dans le texte est l’éviction de l’allergène."
+    },
+    {
+      "type": "QCM",
+      "question": "Un isotype d’immunoglobuline identifié par sa fixation aux mastocytes et aux basophiles via le fragment Fc présente, selon le texte, quelles caractéristiques ?",
+      "choices": [
+        "Il se fixe aux mastocytes par son fragment Fc.",
+        "Il se fixe aux basophiles par son fragment Fc.",
+        "Il est peu abondant dans le sang.",
+        "Il active le complément par la voie classique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que ces immunoglobulines se fixent aux mastocytes et aux basophiles par leur fragment Fc, sont peu abondantes dans le sang et n’activent pas le complément par la voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Si une anomalie fonctionnelle touche spécifiquement le fragment Fc des immunoglobulines, quelles fonctions citées dans le texte peuvent être altérées ?",
+      "choices": [
+        "La diversité isotypique des chaînes lourdes.",
+        "Le passage placentaire des IgG.",
+        "La fixation des IgE aux mastocytes.",
+        "La fixation de la chaîne J dans les IgA polymériques."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le fragment Fc supporte la diversité isotypique des chaînes lourdes, permet le passage placentaire des IgG, la fixation des IgE aux mastocytes et porte la région de fixation de la chaîne J dans les IgA polymériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Après séparation conceptuelle entre les portions Fab et Fc d’une immunoglobuline, quelles propriétés relèvent du fragment Fab selon le texte ?",
+      "choices": [
+        "Il contient un domaine variable de chaîne lourde et un domaine variable de chaîne légère.",
+        "Il porte deux domaines variables.",
+        "Il est monovalent.",
+        "Il possède les fonctions effectrices de l’immunoglobuline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fragment Fab contient les domaines variables des chaînes lourde et légère, porte deux domaines variables et est monovalent. Il ne possède pas de fonctions effectrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour caractériser correctement une chaîne légère d’immunoglobuline, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "Elle s’associe à une chaîne lourde.",
+        "Elle appartient au fragment Fab.",
+        "Elle contient un seul domaine constant.",
+        "Ses principaux isotypes sont gamma et alpha."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chaînes légères s’associent aux chaînes lourdes, appartiennent au fragment Fab, contiennent un seul domaine constant, et leurs principaux isotypes sont kappa et lambda."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse d’un fragment obtenu par protéolyse des IgG par la papaïne, quels éléments permettent de reconnaître un fragment Fab ?",
+      "choices": [
+        "Il est obtenu après protéolyse des IgG par la papaïne.",
+        "Il est monovalent.",
+        "Il ne possède pas de fonctions effectrices.",
+        "Il contient un domaine variable de chaîne lourde et un domaine variable de chaîne légère."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le Fab est un fragment obtenu après protéolyse des IgG par la papaïne ; il est monovalent, contient les domaines variables des chaînes lourde et légère, et ne porte pas les fonctions effectrices."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des molécules HLA classiques de classes I et II prises ensemble, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elles participent à l’éducation intrathymique des lymphocytes T.",
+        "Elles contribuent à la définition d’un répertoire non autoréactif.",
+        "Leurs gènes ont une expression codominante.",
+        "Elles interagissent toutes deux avec CD8."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA classiques de classes I et II participent à l’éducation intrathymique, contribuent au répertoire non autoréactif et leurs gènes ont une expression codominante. L’interaction avec CD8 est attribuée aux molécules HLA de classe I."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles caractéristiques sont attribuées aux molécules HLA de classe I dans le texte ?",
+      "choices": [
+        "Elles régulent l’activité des cellules NK.",
+        "Elles interagissent avec CD8.",
+        "Elles sont exprimées par la plupart des cellules nucléées.",
+        "Elles comprennent une chaîne lourde polymorphe associée à la β2-microglobuline."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte attribue aux HLA de classe I la régulation des cellules NK, l’interaction avec CD8, l’expression par la plupart des cellules nucléées et l’association d’une chaîne lourde polymorphe avec la β2-microglobuline."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’expression et la structure des molécules HLA de classe I, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont exprimées par la plupart des cellules nucléées.",
+        "Elles comprennent une chaîne lourde polymorphe.",
+        "Elles sont formées uniquement de β2-microglobuline.",
+        "Elles sont exprimées exclusivement par les cellules dépourvues de noyau."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les molécules HLA de classe I sont exprimées par la plupart des cellules nucléées et comportent une chaîne lourde polymorphe associée à la β2-microglobuline."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la présentation antigénique et la sélection du répertoire T, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "Les HLA classiques de classes I et II interviennent dans l’éducation intrathymique des lymphocytes T.",
+        "Ils participent à la définition d’un répertoire non autoréactif.",
+        "Ils comportent un site de liaison peptidique.",
+        "Le peptide lié au HLA est issu de la dégradation antigénique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte relie les molécules HLA classiques de classes I et II à l’éducation intrathymique, au répertoire non autoréactif et à la liaison de peptides issus de la dégradation antigénique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels relèvent de l’immunité innée selon le texte ?",
+      "choices": [
+        "Les barrières cutanéomuqueuses.",
+        "L’orientation de la réponse immunitaire adaptative selon les cytokines produites.",
+        "Les récepteurs TLR4 et CD35.",
+        "L’éducation intrathymique des lymphocytes T par les molécules HLA."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’immunité innée fait intervenir les barrières cutanéomuqueuses, peut orienter l’immunité adaptative via les cytokines produites, et implique notamment TLR4 et CD35. L’éducation intrathymique relève des molécules HLA."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions décrivent correctement l’interface entre immunité innée et immunité adaptative d’après le texte ?",
+      "choices": [
+        "L’immunité innée peut orienter la réponse adaptative.",
+        "Cette orientation dépend des cytokines produites.",
+        "L’expression codominante des gènes HLA est un mécanisme propre aux récepteurs TLR4.",
+        "L’interaction HLA de classe I-CD8 est citée comme un mécanisme des barrières cutanéomuqueuses."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que l’immunité innée peut orienter la réponse adaptative selon les cytokines produites. Les autres propositions mélangent à tort HLA, TLR4 et barrières."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations structure-fonction sont exactes selon le texte ?",
+      "choices": [
+        "Fragment Fc — passage placentaire des IgG.",
+        "Région charnière — flexibilité des immunoglobulines.",
+        "TLR4 — récepteur impliqué dans l’immunité innée.",
+        "HLA de classe I — interaction avec CD8."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces associations sont explicitement soutenues par le texte : Fc et passage placentaire des IgG, charnière et flexibilité, TLR4 dans l’immunité innée, HLA I et CD8."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations sont erronées d’après les données du texte ?",
+      "choices": [
+        "Fragment Fab — fonctions effectrices.",
+        "Fragment Fc — monovalence du fragment antigénique.",
+        "Chaînes légères — isotypes kappa et lambda.",
+        "Région charnière — flexibilité des immunoglobulines."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le Fab ne possède pas de fonctions effectrices et la monovalence est une propriété du Fab, non du Fc. Les chaînes légères kappa/lambda et la flexibilité assurée par la région charnière sont correctes."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour éviter les confusions entre immunoglobulines, HLA et immunité innée, quelles propositions sont exactes ?",
+      "choices": [
+        "CD35 est cité parmi les récepteurs impliqués dans l’immunité innée.",
+        "Les molécules HLA de classe I régulent l’activité des cellules NK.",
+        "Le fragment Fab ne possède pas de fonctions effectrices.",
+        "Les immunoglobulines fixées aux mastocytes et basophiles par Fc n’activent pas le complément par la voie classique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les quatre propositions reprennent des distinctions importantes du texte : CD35 appartient aux récepteurs de l’innée, HLA I régule les NK, le Fab n’a pas de fonctions effectrices et ces immunoglobulines n’activent pas la voie classique du complément."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle propriété ne doit pas être attribuée au fragment Fab ?",
+      "choices": [
+        "La monovalence.",
+        "La présence de deux domaines variables.",
+        "Les fonctions effectrices de l’immunoglobuline.",
+        "L’obtention après protéolyse des IgG par la papaïne."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le fragment Fab est monovalent, porte deux domaines variables et peut être obtenu par protéolyse des IgG par la papaïne, mais il ne possède pas de fonctions effectrices."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, quel mode d’expression caractérise les gènes des molécules HLA ?",
+      "choices": [
+        "Expression codominante.",
+        "Expression exclusivement maternelle.",
+        "Expression exclusivement paternelle.",
+        "Expression intermittente dépendante du fragment Fc."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que les gènes des molécules HLA ont une expression codominante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple correspond aux récepteurs explicitement cités comme impliqués dans l’immunité innée ?",
+      "choices": [
+        "TLR4 et CD35.",
+        "CD8 et β2-microglobuline.",
+        "Kappa et lambda.",
+        "Fab et Fc."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les récepteurs cités pour l’immunité innée sont TLR4 et CD35."
+    },
+    {
+      "type": "QCS",
+      "question": "Avec quel marqueur les molécules HLA de classe I interagissent-elles selon le texte ?",
+      "choices": [
+        "CD8.",
+        "CD35.",
+        "TLR4.",
+        "Chaîne J."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les molécules HLA de classe I interagissent avec CD8."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les IgA polymériques, où se situe la région de fixation de la chaîne J selon le texte ?",
+      "choices": [
+        "Sur le fragment Fc.",
+        "Sur la région charnière.",
+        "Sur la β2-microglobuline.",
+        "Sur le site de liaison peptidique HLA."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le fragment Fc porte la région de fixation de la chaîne J dans les IgA polymériques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle structure assure la flexibilité des immunoglobulines ?",
+      "choices": [
+        "La région charnière.",
+        "La β2-microglobuline.",
+        "Le récepteur TLR4.",
+        "Le site de liaison peptidique HLA."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La région charnière assure la flexibilité des immunoglobulines."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’orientation d’une réponse vers la production d’IgE au cours de l’hypersensibilité immédiate, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T CD4+ Th2 participent à l’induction de la réponse IgE",
+        "Les lymphocytes B participent à l’induction de la réponse IgE",
+        "L’IL-4 et l’IL-13 orientent la réponse vers le profil Th2",
+        "La fixation des IgE spécifiques aux cellules effectrices diminue leur demi-vie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réponse IgE implique les lymphocytes Th2 et B. L’IL-4 et l’IL-13 favorisent le profil Th2 et la synthèse d’IgE. La demi-vie des IgE spécifiques augmente après fixation aux cellules effectrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un sujet déjà sensibilisé présentant une réaction quelques minutes après l’exposition à un allergène, quels éléments sont compatibles avec une hypersensibilité de type I ?",
+      "choices": [
+        "Intervention d’IgE fixées via FcεRI",
+        "Rôle effecteur majeur des mastocytes et des basophiles",
+        "Libération précoce d’histamine préstockée dans les granules mastocytaires",
+        "Mécanisme principalement médié par des IgM dirigées contre des antigènes membranaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypersensibilité de type I est immédiate, IgE-dépendante, avec activation des mastocytes et basophiles via FcεRI et libération précoce d’histamine. Les IgM anti-antigènes membranaires relèvent plutôt du type II."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour différencier une hypersensibilité de type II d’une hypersensibilité de type III, quelles propositions caractérisent le type II selon le texte ?",
+      "choices": [
+        "Anticorps dirigés contre des antigènes membranaires ou de matrice",
+        "Implication principale d’IgG ou d’IgM",
+        "Dépôt inapproprié de complexes immuns comme mécanisme central",
+        "Possibilité d’intervention des cellules NK par cytotoxicité dépendante des anticorps"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le type II est médié par des IgG ou IgM contre des antigènes membranaires ou de matrice, avec possible activation du complément et ADCC par les cellules NK. Le dépôt de complexes immuns définit le type III."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du rejet hyperaigu du greffon par anticorps préformés, quelles propositions sont exactes d’après le mécanisme immunologique indiqué ?",
+      "choices": [
+        "Il est classé parmi les hypersensibilités de type II",
+        "Il implique un mécanisme dépendant d’anticorps",
+        "Il correspond à une hypersensibilité retardée purement cellulaire",
+        "Il est cité parmi les pathologies associées aux anticorps dirigés contre des antigènes membranaires ou de matrice"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le rejet hyperaigu par anticorps préformés est cité comme pathologie de type II, donc dépendante d’anticorps. Il ne correspond pas à une hypersensibilité retardée cellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la maladie hémolytique du nouveau-né, quelles données immuno-hématologiques sont exactes ?",
+      "choices": [
+        "Elle est due à des anticorps maternels cytotoxiques dirigés contre des antigènes érythrocytaires fœtaux",
+        "Les anticorps anti-Rhésus peuvent être impliqués",
+        "Les systèmes Rhésus, ABO, Kell et Duffy peuvent être concernés",
+        "L’incompatibilité ABO mère-enfant est généralement la forme la plus sévère"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie hémolytique du nouveau-né est une hypersensibilité de type II liée à des anticorps maternels cytotoxiques, notamment anti-Rhésus. Les systèmes Rhésus, ABO, Kell et Duffy peuvent être impliqués, mais l’incompatibilité ABO est généralement moins sévère."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’anémie hémolytique auto-immune à anticorps froids, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle relève d’une hypersensibilité de type II",
+        "Elle implique principalement des autoanticorps IgM",
+        "Elle active le complément par la voie classique",
+        "Les antigènes érythrocytaires impliqués peuvent inclure l’antigène I"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’anémie hémolytique auto-immune à anticorps froids est une hypersensibilité de type II, principalement médiée par des IgM, activant la voie classique du complément, avec possibilité d’implication de l’antigène I."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles illustrent ou caractérisent une hypersensibilité de type III selon le texte ?",
+      "choices": [
+        "Dépôt inapproprié de complexes immuns",
+        "Glomérulonéphrites lupiques",
+        "Alvéolite allergique extrinsèque et maladie du poumon de fermier",
+        "Maladie sérique aiguë apparaissant environ dix jours après injection de protéines étrangères chez un sujet non sensibilisé"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le type III est lié aux dépôts de complexes immuns. Il intervient dans les glomérulonéphrites lupiques, l’alvéolite allergique extrinsèque, le poumon de fermier et la maladie sérique aiguë."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une réaction locale à complexes immuns survenant après hyperimmunisation par un antigène hétérologue, quels acteurs ou mécanismes sont attendus ?",
+      "choices": [
+        "Polynucléaires neutrophiles",
+        "Mastocytes tissulaires activés par C3a",
+        "Complément activé par la voie classique",
+        "Réponse exclusivement médiée par des lymphocytes T cytotoxiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réaction d’Arthus fait intervenir les polynucléaires neutrophiles, les mastocytes tissulaires activés par C3a et le complément par voie classique. Elle n’est pas exclusivement T cytotoxique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’hypersensibilité retardée et de l’eczéma de contact, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une réaction à médiation cellulaire",
+        "Le chrome utilisé pour tanner le cuir peut déclencher une hypersensibilité retardée",
+        "L’eczéma de contact est dirigé contre des antigènes de type haptène",
+        "Le patch-test est une exploration in vivo de l’eczéma de contact"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’hypersensibilité retardée est cellulaire. Le chrome et la tuberculine sont des exemples d’antigènes déclenchants. L’eczéma de contact implique des haptènes et s’explore par patch-test."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels rôles sont attribués au système du complément dans le texte ?",
+      "choices": [
+        "Clairance des complexes immuns",
+        "Opsonisation des antigènes",
+        "Chimiotactisme",
+        "Neutralisation virale"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le complément participe à la clairance des complexes immuns, à l’opsonisation, au chimiotactisme et à la neutralisation virale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation du système du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Les facteurs H et I font partie de la régulation soluble",
+        "La properdine ou facteur P est citée parmi les régulateurs solubles",
+        "MCP et DAF appartiennent à la régulation membranaire",
+        "Un déficit en C1 inhibiteur est associé à un angio-œdème"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La régulation soluble comprend les facteurs H, I et la properdine/facteur P. La régulation membranaire comprend MCP et DAF. Le déficit en C1 inhibiteur est associé à l’angio-œdème."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la voie classique du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle implique C1q, C2, C3 et C4",
+        "Sa C3 convertase est C4b2a",
+        "La C3 convertase clive C3 en C3a et C3b",
+        "Elle est déclenchée spécifiquement par les résidus mannose"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie classique implique C1q, C2, C3 et C4. Sa C3 convertase est C4b2a, qui clive C3 en C3a et C3b. Les résidus mannose activent la voie MBL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la voie alterne du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle implique C3, le facteur B, le facteur D et la properdine",
+        "Sa C3 convertase est C3bBb",
+        "Sa C3 convertase a pour substrat C3",
+        "Elle est stabilisée par la properdine"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La voie alterne implique C3, B, D et la properdine. Sa C3 convertase est C3bBb, elle clive C3 et elle est stabilisée par la properdine."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des immunoglobulines et de la diversification fonctionnelle du répertoire, quelles propositions sont exactes ?",
+      "choices": [
+        "Les anticorps sont des glycoprotéines produites par les plasmocytes",
+        "Un plasmocyte individuel synthétise des immunoglobulines de même spécificité",
+        "La commutation isotypique conserve l’idiotype",
+        "La commutation isotypique augmente la diversité périphérique fonctionnelle du répertoire des immunoglobulines"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les anticorps sont produits par les plasmocytes. Un plasmocyte donné produit des immunoglobulines de même spécificité. La commutation isotypique change l’isotype tout en conservant l’idiotype, augmentant la diversité fonctionnelle périphérique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le rapport kappa/lambda approximatif des IgG polyclonales sériques selon le texte ?",
+      "choices": [
+        "Environ 1",
+        "Environ 2",
+        "Environ 5",
+        "Environ 10"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le rapport kappa/lambda des IgG polyclonales sériques est d’environ 2."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule de la voie classique possède une structure évoquant un bouquet de 6 tulipes ?",
+      "choices": [
+        "C1q",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "C1q possède une structure décrite comme évoquant un bouquet de 6 tulipes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel délai caractérise classiquement la maladie sérique aiguë après injection de protéines étrangères chez un sujet non sensibilisé ?",
+      "choices": [
+        "Quelques minutes",
+        "Quelques heures",
+        "Environ une dizaine de jours",
+        "Plusieurs mois"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La maladie sérique aiguë apparaît environ une dizaine de jours après injection de protéines étrangères chez un sujet non sensibilisé."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la voie alterne du complément, quelle molécule stabilise la C3 convertase ?",
+      "choices": [
+        "Facteur H",
+        "Facteur I",
+        "Properdine ou facteur P",
+        "C1q"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La C3 convertase de la voie alterne, C3bBb, est stabilisée par la properdine ou facteur P."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors d’une réponse primaire à un antigène thymodépendant, quelle succession d’anticorps sériques est indiquée ?",
+      "choices": [
+        "IgG puis IgM",
+        "IgM puis IgG",
+        "IgA puis IgE",
+        "IgE puis IgA"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En réponse primaire à un antigène thymodépendant, les anticorps sériques sont d’abord des IgM puis des IgG."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les sécrétions, sous quelle forme les IgA sont-elles présentes selon le texte ?",
+      "choices": [
+        "Monomérique",
+        "Dimérique",
+        "Pentamérique",
+        "Sous forme uniquement libre dépourvue de pièce sécrétoire"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les IgA sont présentes sous forme dimérique dans les sécrétions, alors qu’elles sont monomériques dans le sang."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les IgE telles qu’elles sont caractérisées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles se fixent aux mastocytes et aux basophiles par leur fragment Fc.",
+        "Elles sont peu abondantes dans le sang.",
+        "Elles activent le complément par la voie classique.",
+        "Leur fixation aux mastocytes dépend du fragment Fab."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les IgE se fixent aux mastocytes et aux basophiles via leur fragment Fc, sont peu abondantes dans le sang et n’activent pas le complément par la voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les rôles suivants, lesquels sont attribués au fragment Fc des immunoglobulines selon le texte ?",
+      "choices": [
+        "Supporter la diversité isotypique des chaînes lourdes.",
+        "Permettre aux IgG de traverser le placenta.",
+        "Permettre la fixation des IgE aux mastocytes.",
+        "Contenir les domaines variables des chaînes lourde et légère."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fragment Fc porte des fonctions effectrices : diversité isotypique des chaînes lourdes, passage placentaire des IgG, fixation des IgE aux mastocytes. Les domaines variables appartiennent au Fab."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la chaîne J des IgA polymériques, quelles propositions sont exactes d’après le texte ?",
+      "choices": [
+        "Sa région de fixation est portée par le fragment Fc.",
+        "Sa région de fixation est portée par le fragment Fab.",
+        "Elle est mentionnée dans le contexte des IgA polymériques.",
+        "Sa fixation est attribuée aux chaînes légères kappa et lambda."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte précise que le fragment Fc porte la région de fixation de la chaîne J dans les IgA polymériques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des chaînes légères des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles s’associent à des chaînes lourdes.",
+        "Elles appartiennent au fragment Fab.",
+        "Elles contiennent un seul domaine constant.",
+        "Leurs principaux isotypes sont définis par la diversité des chaînes lourdes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chaînes légères s’associent aux chaînes lourdes, appartiennent au Fab et comportent un seul domaine constant. Leurs principaux isotypes sont kappa et lambda."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour identifier correctement un fragment Fab obtenu à partir d’IgG, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être obtenu après protéolyse des IgG par la papaïne.",
+        "Il contient un domaine variable de chaîne lourde et un domaine variable de chaîne légère.",
+        "Il est monovalent.",
+        "Il assure les fonctions effectrices de l’immunoglobuline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le Fab est obtenu après digestion par la papaïne, contient les domaines variables VH et VL, et est monovalent. Il ne possède pas de fonctions effectrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les propriétés fonctionnelles du fragment Fab, quelles propositions sont exactes ?",
+      "choices": [
+        "Il ne possède pas de fonctions effectrices.",
+        "Il permet le passage placentaire des IgG.",
+        "Il porte la région de fixation de la chaîne J.",
+        "Il porte deux domaines variables."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "explanation": "Le Fab porte deux domaines variables et ne possède pas de fonctions effectrices. Le passage placentaire des IgG et la fixation de la chaîne J relèvent du fragment Fc."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules HLA classiques de classes I et II prises ensemble, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles participent à l’éducation intrathymique des lymphocytes T.",
+        "Elles contribuent à la définition d’un répertoire T non autoréactif.",
+        "Elles comportent un site de liaison peptidique issu de la dégradation antigénique.",
+        "Leurs gènes ont une expression non codominante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA classiques I et II participent à l’éducation intrathymique, à la définition d’un répertoire non autoréactif et possèdent un site de liaison peptidique. Leurs gènes ont une expression codominante."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les molécules HLA de classe I, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles régulent l’activité des cellules NK.",
+        "Elles interagissent avec CD8.",
+        "Elles comprennent une chaîne lourde polymorphe associée à la β2-microglobuline.",
+        "Elles ne sont pas exprimées par la plupart des cellules nucléées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA de classe I régulent les cellules NK, interagissent avec CD8, sont exprimées par la plupart des cellules nucléées et associent une chaîne lourde polymorphe à la β2-microglobuline."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer les caractéristiques générales des molécules HLA de celles propres à la classe I, quelles propositions sont exactes ?",
+      "choices": [
+        "Le site de liaison peptidique concerne les molécules HLA classiques de classes I et II.",
+        "La régulation de l’activité des cellules NK est attribuée aux molécules HLA de classe I.",
+        "L’interaction avec CD8 est attribuée aux molécules HLA de classe I.",
+        "Les molécules HLA de classe I sont dépourvues de chaîne lourde polymorphe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le site de liaison peptidique est une propriété des HLA classiques I et II. Les HLA I régulent les NK, interagissent avec CD8 et possèdent une chaîne lourde polymorphe."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’immunité innée selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle fait intervenir les barrières cutanéomuqueuses.",
+        "Elle peut orienter la réponse immunitaire adaptative selon les cytokines produites.",
+        "TLR4 est cité parmi les récepteurs impliqués.",
+        "Elle se limite aux molécules HLA de classe I et II."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’immunité innée implique les barrières cutanéomuqueuses, peut orienter l’immunité adaptative par les cytokines et fait intervenir des récepteurs tels que TLR4 et CD35."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles associent correctement une notion au compartiment immunologique correspondant ?",
+      "choices": [
+        "Barrières cutanéomuqueuses : immunité innée.",
+        "Éducation intrathymique des lymphocytes T : molécules HLA classiques I et II.",
+        "TLR4 et CD35 : récepteurs impliqués dans l’immunité innée.",
+        "Chaîne J des IgA polymériques : site de liaison peptidique HLA."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les barrières cutanéomuqueuses relèvent de l’immunité innée ; les HLA classiques I et II participent à l’éducation intrathymique ; TLR4 et CD35 sont cités comme récepteurs de l’immunité innée. La chaîne J concerne les IgA polymériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations structure-fonction sont exactes selon le texte ?",
+      "choices": [
+        "Région charnière : flexibilité des immunoglobulines.",
+        "Fragment Fc : support de la diversité isotypique des chaînes lourdes.",
+        "Molécules HLA : site de liaison peptidique issu de la dégradation antigénique.",
+        "β2-microglobuline : isotype principal des chaînes légères."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La région charnière assure la flexibilité, le Fc supporte la diversité isotypique des chaînes lourdes et les HLA comportent un site de liaison peptidique. Les isotypes principaux des chaînes légères sont kappa et lambda."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations suivantes, lesquelles sont incorrectes d’après le texte ?",
+      "choices": [
+        "Fragment Fab : fonctions effectrices des immunoglobulines.",
+        "Fragment Fc : site de liaison peptidique des molécules HLA.",
+        "Molécules HLA de classe I : interaction avec CD8.",
+        "Immunité innée : orientation possible de la réponse adaptative par les cytokines."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le Fab ne possède pas de fonctions effectrices. Le site de liaison peptidique est une propriété des molécules HLA, non du fragment Fc. Les deux autres associations sont correctes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un raisonnement d’attribution des fonctions immunologiques, quelles propositions sont exactes ?",
+      "choices": [
+        "L’expression par la plupart des cellules nucléées oriente vers les molécules HLA de classe I.",
+        "Le passage placentaire des IgG dépend du fragment Fc.",
+        "La fixation des IgE aux mastocytes dépend du fragment Fc.",
+        "L’activation du complément par la voie classique est attribuée aux IgE dans le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HLA I sont exprimées par la plupart des cellules nucléées. Le Fc permet le passage placentaire des IgG et la fixation des IgE aux mastocytes. Les IgE n’activent pas la voie classique du complément."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle structure assure la flexibilité des immunoglobulines selon le texte ?",
+      "choices": [
+        "Le fragment Fc",
+        "Le fragment Fab",
+        "La région charnière",
+        "La β2-microglobuline"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La région charnière est la structure qui assure la flexibilité des immunoglobulines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel fragment d’immunoglobuline obtenu après protéolyse des IgG par la papaïne est monovalent ?",
+      "choices": [
+        "Le fragment Fab",
+        "Le fragment Fc",
+        "La chaîne J",
+        "La β2-microglobuline"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le fragment Fab est obtenu après protéolyse des IgG par la papaïne et il est monovalent."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond spécifiquement à une caractéristique structurale des molécules HLA de classe I ?",
+      "choices": [
+        "Association d’une chaîne lourde polymorphe à la β2-microglobuline",
+        "Présence d’une chaîne légère kappa ou lambda",
+        "Fixation de la chaîne J dans les IgA polymériques",
+        "Obtention après protéolyse des IgG par la papaïne"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les molécules HLA de classe I comprennent une chaîne lourde polymorphe associée à la β2-microglobuline."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel est cité comme récepteur impliqué dans l’immunité innée ?",
+      "choices": [
+        "CD35",
+        "CD8",
+        "β2-microglobuline",
+        "Chaîne J"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite TLR4 et CD35 parmi les récepteurs impliqués dans l’immunité innée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mode d’expression caractérise les gènes des molécules HLA selon le texte ?",
+      "choices": [
+        "Codominante",
+        "Strictement silencieuse",
+        "Monovalente",
+        "Dépendante de la chaîne J"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les gènes des molécules HLA ont une expression codominante."
+    },
+    {
+      "type": "QCS",
+      "question": "Combien de domaines constants contient une chaîne légère d’immunoglobuline selon le texte ?",
+      "choices": [
+        "Aucun domaine constant",
+        "Un seul domaine constant",
+        "Deux domaines constants",
+        "Uniquement des domaines variables"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les chaînes légères des immunoglobulines contiennent un seul domaine constant."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un sujet déjà sensibilisé présentant des symptômes quelques minutes après pénétration d’un allergène, quelles propositions sont compatibles avec le mécanisme décrit ?",
+      "choices": [
+        "Il s’agit d’une réaction immédiate.",
+        "Les IgE fixées via FcεRI sur les mastocytes et les basophiles sont impliquées.",
+        "Le mécanisme repose principalement sur le dépôt de complexes immuns circulants.",
+        "L’éviction de l’allergène constitue un traitement spécifique cité."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’hypersensibilité de type I est immédiate, IgE-dépendante via FcεRI sur mastocytes/basophiles, et l’éviction de l’allergène est le traitement spécifique cité. Le dépôt de complexes immuns relève du type III."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’orientation et la phase effectrice de la réponse IgE dans l’hypersensibilité immédiate, quelles propositions sont exactes ?",
+      "choices": [
+        "Les lymphocytes T CD4+ Th2 et les lymphocytes B participent à l’induction de la réponse IgE.",
+        "L’IL-4 et l’IL-13 orientent la réponse vers le profil Th2 et induisent la synthèse d’IgE.",
+        "L’histamine préstockée dans les granules mastocytaires est un médiateur précoce.",
+        "La fixation des IgE spécifiques sur les cellules effectrices raccourcit leur demi-vie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les Th2, les lymphocytes B, l’IL-4 et l’IL-13 participent à la réponse IgE. L’histamine est un médiateur précoce. La fixation des IgE sur les cellules effectrices augmente leur demi-vie."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour reconnaître un mécanisme d’hypersensibilité de type II, quelles propositions sont exactes ?",
+      "choices": [
+        "Les anticorps sont dirigés contre des antigènes membranaires ou de matrice.",
+        "Les anticorps impliqués sont principalement des IgG ou des IgM.",
+        "L’activation du complément peut participer aux lésions.",
+        "Le mécanisme est exclusivement lié à des complexes immuns solubles sans cible cellulaire ou matricielle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le type II est médié par des anticorps dirigés contre des antigènes membranaires ou de matrice, surtout IgG ou IgM, pouvant activer le complément. Les complexes immuns solubles déposés évoquent plutôt le type III."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations suivantes, lesquelles sont rattachées dans le texte à une hypersensibilité de type II ?",
+      "choices": [
+        "Maladie de Goodpasture.",
+        "Vascularites à ANCA.",
+        "Rejet hyperaigu du greffon par anticorps préformés.",
+        "Alvéolite allergique extrinsèque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie de Goodpasture, les vascularites à ANCA et le rejet hyperaigu par anticorps préformés sont cités comme hypersensibilité de type II. L’alvéolite allergique extrinsèque relève du type III."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la maladie hémolytique du nouveau-né, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle repose sur un mécanisme d’hypersensibilité de type II.",
+        "Elle est due à des anticorps maternels cytotoxiques dirigés contre des antigènes érythrocytaires fœtaux.",
+        "Le premier enfant est en général préservé.",
+        "L’administration d’anticorps anti-D constitue le traitement curatif des formes sévères."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie hémolytique du nouveau-né est une hypersensibilité de type II due à des anticorps maternels anti-érythrocytaires fœtaux, notamment anti-Rhésus. Le premier enfant est généralement préservé. Les anti-D sont préventifs ; les formes sévères relèvent de l’exsanguino-transfusion."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des antigènes érythrocytaires et de la prise en charge de la maladie hémolytique du nouveau-né, quelles propositions sont exactes ?",
+      "choices": [
+        "Les systèmes Rhésus, ABO, Kell et Duffy peuvent être impliqués.",
+        "L’incompatibilité ABO mère-enfant est généralement moins sévère.",
+        "L’exsanguino-transfusion du nouveau-né est un traitement curatif des formes sévères.",
+        "Seul le système Rhésus peut être impliqué."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Plusieurs systèmes érythrocytaires peuvent être impliqués : Rhésus, ABO, Kell et Duffy. L’incompatibilité ABO est généralement moins sévère. Les formes sévères peuvent nécessiter une exsanguino-transfusion."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’anémie hémolytique auto-immune à anticorps froids, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à une hypersensibilité de type II.",
+        "Elle implique principalement des autoanticorps IgM.",
+        "Elle active le complément par la voie classique.",
+        "Elle est due à des anticorps maternels anti-HLA fœtaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie hémolytique auto-immune à anticorps froids est une hypersensibilité de type II impliquant surtout des IgM, avec activation de la voie classique du complément. Les anticorps maternels anti-HLA fœtaux ne sont pas décrits dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les maladies ou mécanismes relevant de l’hypersensibilité de type III, quelles propositions sont exactes ?",
+      "choices": [
+        "Le mécanisme repose sur un dépôt inapproprié de complexes immuns.",
+        "Les glomérulonéphrites lupiques en constituent un mécanisme important.",
+        "La maladie du poumon de fermier est citée parmi les pathologies associées.",
+        "Les cytopénies par anticorps anti-antigènes membranaires en sont l’exemple typique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le type III est lié aux dépôts de complexes immuns. Il intervient notamment dans les glomérulonéphrites lupiques et dans des atteintes comme l’alvéolite allergique extrinsèque ou la maladie du poumon de fermier. Les cytopénies par anticorps anti-antigènes membranaires relèvent du type II."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer réaction d’Arthus et maladie sérique aiguë, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "La réaction d’Arthus est une réaction locale à complexes immuns.",
+        "La réaction d’Arthus survient après hyperimmunisation par un antigène hétérologue.",
+        "La maladie sérique aiguë apparaît environ une dizaine de jours après injection de protéines étrangères chez un sujet non sensibilisé.",
+        "La réaction d’Arthus correspond à un eczéma de contact déclenché par des haptènes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réaction d’Arthus est locale, à complexes immuns, survenant après hyperimmunisation par un antigène hétérologue. La maladie sérique aiguë apparaît environ dix jours après injection de protéines étrangères chez un sujet non sensibilisé. L’eczéma de contact relève de l’hypersensibilité retardée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les acteurs immunologiques de la réaction d’Arthus, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle fait intervenir des anticorps IgG ou IgM précipitants.",
+        "Les anticorps responsables fixent le complément.",
+        "Les polynucléaires neutrophiles participent à la réaction.",
+        "Le complément intervient par la voie MBL indépendamment des anticorps."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réaction d’Arthus fait intervenir des IgG ou IgM précipitants, fixant le complément, avec participation des polynucléaires neutrophiles. Le texte précise l’intervention du complément par voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hypersensibilité retardée et l’eczéma de contact, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hypersensibilité retardée est une réaction à médiation cellulaire.",
+        "Le chrome utilisé pour tanner le cuir peut déclencher une hypersensibilité retardée.",
+        "La tuberculine utilisée dans l’IDR peut déclencher une hypersensibilité retardée.",
+        "L’eczéma de contact est dirigé contre des antigènes de type haptène."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’hypersensibilité retardée est cellulaire. Le chrome et la tuberculine sont cités comme antigènes déclencheurs. L’eczéma de contact est une hypersensibilité retardée contre des haptènes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation générale du système du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Il comprend des molécules solubles et membranaires participant à l’immunité innée.",
+        "Son activation se fait en cascade par protéolyse.",
+        "Il comporte trois voies d’activation : classique, alterne et lectines/MBL.",
+        "C1q est la fraction centrale commune aux trois voies."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complément appartient à l’immunité innée, avec des molécules solubles et membranaires, activées en cascade par protéolyse. Les trois voies sont classique, alterne et MBL. La fraction centrale commune est C3, non C1q."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels rôles sont attribués au système du complément dans le texte ?",
+      "choices": [
+        "Clairance des complexes immuns.",
+        "Opsonisation des antigènes.",
+        "Chimiotactisme.",
+        "Neutralisation virale."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte attribue au complément plusieurs rôles : clairance des complexes immuns, opsonisation, chimiotactisme et neutralisation virale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation du complément et certaines voies d’activation, quelles propositions sont exactes ?",
+      "choices": [
+        "Les facteurs H, I et la properdine/facteur P sont cités parmi les régulateurs solubles.",
+        "MCP et DAF sont cités comme régulateurs membranaires.",
+        "Un déficit en C1 inhibiteur est associé à un angio-œdème.",
+        "Les facteurs B et D sont des composants de la voie classique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les facteurs H, I et la properdine/facteur P sont des régulateurs solubles cités. MCP et DAF sont membranaires. Le déficit en C1 inhibiteur donne un angio-œdème. Les facteurs B et D appartiennent à la voie alterne."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel médiateur préstocké est cité comme médiateur précoce de la phase effectrice de l’hypersensibilité de type I ?",
+      "choices": [
+        "Histamine.",
+        "C3b.",
+        "Facteur D.",
+        "MASP-2."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’histamine préstockée dans les granules mastocytaires est un médiateur précoce de l’hypersensibilité immédiate."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel traitement curatif est cité pour les formes sévères de maladie hémolytique du nouveau-né ?",
+      "choices": [
+        "Patch-test.",
+        "Exsanguino-transfusion du nouveau-né.",
+        "Administration préventive d’anticorps anti-D.",
+        "Éviction de l’allergène."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les formes sévères de maladie hémolytique du nouveau-né peuvent nécessiter une exsanguino-transfusion. Les anti-D relèvent de la prévention."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle fraction du complément est centrale dans les trois voies d’activation ?",
+      "choices": [
+        "C1q.",
+        "C2.",
+        "C3.",
+        "Facteur B."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "C3 est la fraction centrale commune aux voies classique, alterne et MBL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la C3 convertase de la voie alterne du complément ?",
+      "choices": [
+        "C4b2a.",
+        "C3bBb.",
+        "C1q.",
+        "MASP-1/MASP-2."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La C3 convertase de la voie alterne est C3bBb ; elle est stabilisée par la properdine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement la commutation isotypique des immunoglobulines ?",
+      "choices": [
+        "Changement d’isotype avec conservation de l’idiotype.",
+        "Changement d’idiotype avec conservation obligatoire de l’isotype.",
+        "Production simultanée par un plasmocyte d’immunoglobulines de spécificités différentes.",
+        "Passage systématique d’IgG vers IgM lors d’une réponse primaire thymodépendante."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La commutation isotypique correspond à un changement d’isotype tout en conservant l’idiotype, ce qui augmente la diversité fonctionnelle périphérique."
+    },
+    {
+      "type": "QCS",
+      "question": "Sous quelle forme les IgA sont-elles présentes dans le sang selon le texte ?",
+      "choices": [
+        "Forme monomérique.",
+        "Forme dimérique.",
+        "Forme liée à la pièce sécrétoire digestive.",
+        "Forme exclusivement associée à une chaîne J."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les IgA sont présentes sous forme monomérique dans le sang. Dans les sécrétions, elles sont sous forme dimérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour identifier l’isotype décrit par une faible abondance sanguine et une affinité pour les mastocytes/basophiles, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "Il se fixe aux mastocytes et aux basophiles par son fragment Fc.",
+        "Il est abondant dans le sang.",
+        "Il n’active pas le complément par la voie classique.",
+        "Sa fixation aux mastocytes dépend d’une propriété portée par le fragment Fc."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’isotype décrit est peu abondant dans le sang, se fixe aux mastocytes/basophiles via Fc et n’active pas la voie classique du complément."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse d’un fragment obtenu après digestion des IgG par la papaïne, quels éléments orientent vers un fragment Fab ?",
+      "choices": [
+        "Il est obtenu après protéolyse des IgG par la papaïne.",
+        "Il contient un domaine variable de chaîne lourde et un domaine variable de chaîne légère.",
+        "Il porte les fonctions effectrices de l’immunoglobuline.",
+        "Il est monovalent."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le Fab est issu de la protéolyse des IgG par la papaïne, contient deux domaines variables et est monovalent ; il ne possède pas de fonctions effectrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de la représentation structurale d’une IgA polymérique, quelles annotations sont conformes au texte ?",
+      "choices": [
+        "La région de fixation de la chaîne J est portée par le fragment Fc.",
+        "La région de fixation de la chaîne J est portée par le fragment Fab.",
+        "Le fragment Fc supporte la diversité isotypique des chaînes lourdes.",
+        "Les chaînes légères constituent le site principal de fixation de la chaîne J."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le fragment Fc porte la région de fixation de la chaîne J dans les IgA polymériques et supporte la diversité isotypique des chaînes lourdes."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour construire correctement la structure d’une immunoglobuline, quelles affirmations concernant les chaînes légères sont exactes ?",
+      "choices": [
+        "Elles s’associent à des chaînes lourdes.",
+        "Leurs principaux isotypes sont kappa et lambda.",
+        "Elles contiennent plusieurs domaines constants.",
+        "Elles appartiennent au fragment Fab."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les chaînes légères s’associent aux chaînes lourdes, appartiennent au Fab, possèdent un seul domaine constant et sont principalement kappa ou lambda."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la sélection du répertoire T, quelles propositions relatives aux molécules HLA classiques sont exactes ?",
+      "choices": [
+        "Les molécules HLA de classes I et II participent à l’éducation intrathymique des lymphocytes T.",
+        "Elles contribuent à la définition d’un répertoire non autoréactif.",
+        "Elles comportent un site de liaison peptidique issu de la dégradation antigénique.",
+        "Leurs gènes ont une expression mutuellement exclusive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les HLA classiques I et II participent à l’éducation thymique, à la définition d’un répertoire non autoréactif et lient des peptides issus de la dégradation antigénique ; leurs gènes sont codominants."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une molécule HLA de classe I, quels caractères doivent être retenus selon le texte ?",
+      "choices": [
+        "Elle est exprimée par la plupart des cellules nucléées.",
+        "Elle interagit avec CD8.",
+        "Elle régule l’activité des cellules NK.",
+        "Elle est constituée uniquement de β2-microglobuline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les molécules HLA I sont exprimées par la plupart des cellules nucléées, interagissent avec CD8, régulent les cellules NK et comprennent une chaîne lourde polymorphe associée à la β2-microglobuline."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour reconnaître les éléments relevant de l’immunité innée dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle fait intervenir les barrières cutanéomuqueuses.",
+        "Elle peut orienter la réponse immunitaire adaptative selon les cytokines produites.",
+        "TLR4 est cité parmi les récepteurs impliqués.",
+        "Elle repose exclusivement sur les fragments Fab des immunoglobulines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’immunité innée implique les barrières cutanéomuqueuses, peut orienter l’adaptatif via les cytokines, et fait intervenir notamment TLR4 et CD35."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une comparaison entre les régions d’une immunoglobuline, quelles associations sont correctes ?",
+      "choices": [
+        "Fragment Fc : diversité isotypique des chaînes lourdes.",
+        "Fragment Fab : support principal de la diversité isotypique des chaînes lourdes.",
+        "Région charnière : flexibilité de l’immunoglobuline.",
+        "Chaînes légères : isotypes principaux kappa et lambda."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le Fc supporte la diversité isotypique des chaînes lourdes, la région charnière assure la flexibilité, et les chaînes légères sont principalement kappa ou lambda."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’isotype se fixant aux mastocytes et basophiles, quelles propositions évitent les confusions mécanistiques ?",
+      "choices": [
+        "Il n’active pas le complément par la voie classique.",
+        "Sa fixation cellulaire se fait via le fragment Fc.",
+        "L’absence d’activation de la voie classique est attribuée dans le texte à la monovalence du Fab.",
+        "Sa fixation aux basophiles dépend de CD8."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte indique seulement que cet isotype se fixe par Fc aux mastocytes/basophiles et n’active pas la voie classique ; CD8 concerne HLA I."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le site de liaison peptidique des molécules HLA classiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Il lie des peptides issus de la dégradation antigénique.",
+        "Il est présent dans les molécules HLA classiques de classes I et II selon le texte.",
+        "Il correspond à la région de fixation de la chaîne J des IgA.",
+        "Il s’inscrit dans des molécules impliquées dans l’éducation intrathymique des lymphocytes T."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les HLA classiques I et II comportent un site de liaison peptidique issu de la dégradation antigénique et participent à l’éducation intrathymique des lymphocytes T."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer les interactions propres aux molécules HLA de classe I, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les molécules HLA de classe I interagissent avec CD8.",
+        "Le texte attribue l’interaction avec CD8 aux molécules HLA de classe II.",
+        "Les molécules HLA de classe I régulent l’activité des cellules NK.",
+        "Les molécules HLA de classe I sont absentes de la plupart des cellules nucléées."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Les HLA I interagissent avec CD8, régulent les cellules NK et sont exprimés par la plupart des cellules nucléées."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’un fragment Fab est isolé, quelles conclusions fonctionnelles ou structurales sont justifiées par le texte ?",
+      "choices": [
+        "Il ne possède pas de fonctions effectrices.",
+        "Le passage placentaire des IgG relève du fragment Fc plutôt que du Fab.",
+        "Il porte deux domaines variables.",
+        "Il est bivalent."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le Fab est monovalent, porte deux domaines variables et n’a pas de fonctions effectrices ; le passage placentaire des IgG est une propriété du Fc."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’interprétation de l’expression des gènes HLA, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Les gènes des molécules HLA ont une expression codominante.",
+        "Cette expression concerne les gènes des molécules HLA mentionnées dans le texte.",
+        "Le texte décrit une expression non codominante des gènes HLA.",
+        "La codominance est attribuée dans le texte aux isotypes kappa et lambda."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que les gènes des molécules HLA ont une expression codominante ; cette notion n’est pas attribuée aux chaînes légères."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les couples notion-structure suivants, lesquels sont correctement appariés ?",
+      "choices": [
+        "Fragment Fc des IgG : passage transplacentaire.",
+        "Fragment Fc des IgE : fixation aux mastocytes.",
+        "Fragment Fab des IgA polymériques : fixation de la chaîne J.",
+        "HLA de classe I : interaction avec CD8."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le Fc permet le passage placentaire des IgG, la fixation des IgE aux mastocytes, et HLA I interagit avec CD8 ; la chaîne J des IgA polymériques se fixe au niveau du Fc."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil correspond le mieux à l’isotype décrit au début du texte ?",
+      "choices": [
+        "Abondant dans le sang, active la voie classique du complément, se fixe par Fab.",
+        "Peu abondant dans le sang, se fixe aux mastocytes/basophiles par Fc, n’active pas la voie classique.",
+        "Exprimé par la plupart des cellules nucléées, interagit avec CD8.",
+        "Constitué d’une chaîne lourde polymorphe associée à la β2-microglobuline."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte décrit un isotype peu abondant, fixé aux mastocytes/basophiles par Fc et n’activant pas la voie classique du complément."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel fragment obtenu après protéolyse des IgG par la papaïne est monovalent et dépourvu de fonctions effectrices ?",
+      "choices": [
+        "Fragment Fab.",
+        "Fragment Fc.",
+        "Région charnière.",
+        "β2-microglobuline."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le fragment Fab est obtenu après protéolyse des IgG par la papaïne, il est monovalent et ne possède pas de fonctions effectrices."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans les molécules HLA de classe I, à quelle structure la chaîne lourde polymorphe est-elle associée ?",
+      "choices": [
+        "Chaîne J.",
+        "Chaîne légère kappa.",
+        "β2-microglobuline.",
+        "Région charnière."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les molécules HLA I comprennent une chaîne lourde polymorphe associée à la β2-microglobuline."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel couple d’éléments appartient explicitement à l’immunité innée dans le texte ?",
+      "choices": [
+        "Barrières cutanéomuqueuses et TLR4.",
+        "Fragment Fab et CD8.",
+        "Chaîne J et β2-microglobuline.",
+        "IgG placentaire et région charnière."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’immunité innée fait intervenir les barrières cutanéomuqueuses et des récepteurs tels que TLR4 et CD35."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise correctement une chaîne légère d’immunoglobuline selon le texte ?",
+      "choices": [
+        "Elle contient un seul domaine constant.",
+        "Elle porte la région de fixation de la chaîne J.",
+        "Elle régule l’activité des cellules NK.",
+        "Elle permet aux IgG de traverser le placenta."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une chaîne légère d’immunoglobuline contient un seul domaine constant ; les autres propriétés relèvent du Fc ou des HLA I."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé illustre le lien entre immunité innée et immunité adaptative mentionné dans le texte ?",
+      "choices": [
+        "Les cytokines produites dans l’immunité innée peuvent orienter la réponse adaptative.",
+        "Le fragment Fab permet le passage transplacentaire des IgG.",
+        "Les chaînes légères régulent les cellules NK.",
+        "La région charnière porte le site de liaison peptidique HLA."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que l’immunité innée peut orienter la réponse immunitaire adaptative selon les cytokines produites."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une réaction survenant quelques minutes après l’entrée d’un allergène chez un sujet déjà sensibilisé, quels éléments orientent vers une hypersensibilité immédiate ?",
+      "choices": [
+        "La présence d’IgE fixées sur les mastocytes et les basophiles via FcεRI",
+        "Une réaction principalement liée au dépôt de complexes immuns circulants",
+        "Le rôle effecteur majeur des mastocytes et des basophiles",
+        "La libération précoce d’histamine préstockée dans les granules mastocytaires"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’hypersensibilité de type I est immédiate, IgE-dépendante, avec mastocytes/basophiles comme cellules effectrices et libération précoce d’histamine. Le dépôt de complexes immuns relève du type III."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’induction de la réponse IgE au cours de l’hypersensibilité immédiate, quels acteurs ou médiateurs sont impliqués ?",
+      "choices": [
+        "Les lymphocytes T CD4+ Th2",
+        "Les lymphocytes B",
+        "L’IL-4 et l’IL-13",
+        "Les anticorps IgM précipitants"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les lymphocytes Th2 et B participent à l’induction de la réponse IgE, orientée par l’IL-4 et l’IL-13. Les IgM précipitants sont cités dans la réaction d’Arthus."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes caractérisent une hypersensibilité médiée par des anticorps anti-antigènes membranaires ou de matrice ?",
+      "choices": [
+        "Elle implique principalement des IgG ou des IgM",
+        "Elle peut activer le complément",
+        "Elle peut faire intervenir les cellules NK par cytotoxicité cellulaire dépendante des anticorps",
+        "Elle est définie par une médiation exclusivement lymphocytaire T"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypersensibilité de type II est liée à des IgG ou IgM dirigés contre des antigènes membranaires ou de matrice, avec activation possible du complément et ADCC par les cellules NK. La médiation exclusivement cellulaire correspond au type retardé."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les affections suivantes, lesquelles sont rattachées à une hypersensibilité de type II dans le texte ?",
+      "choices": [
+        "Maladie de Goodpasture",
+        "Vascularites à ANCA",
+        "Cytopénies par anticorps anti-antigènes membranaires",
+        "Alvéolite allergique extrinsèque"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie de Goodpasture, les vascularites à ANCA et les cytopénies par anticorps anti-antigènes membranaires sont citées dans le type II. L’alvéolite allergique extrinsèque relève du type III."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la maladie hémolytique du nouveau-né, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle repose sur un mécanisme d’hypersensibilité de type II",
+        "Elle est due à des anticorps maternels cytotoxiques dirigés contre des antigènes érythrocytaires fœtaux",
+        "Les systèmes Rhésus, Kell et Duffy peuvent être impliqués",
+        "La prévention repose sur l’administration d’anticorps anti-IgE"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie hémolytique du nouveau-né est une hypersensibilité de type II liée à des anticorps maternels anti-antigènes érythrocytaires fœtaux. La prévention citée est l’administration d’anticorps anti-D, et non anti-IgE."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’anémie hémolytique auto-immune à anticorps froids, quels éléments sont conformes au texte ?",
+      "choices": [
+        "Elle correspond à une hypersensibilité de type II",
+        "Elle implique principalement des autoanticorps IgM",
+        "Elle active le complément par la voie classique",
+        "Elle implique obligatoirement des anticorps IgA sécrétoires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie hémolytique auto-immune à anticorps froids est une hypersensibilité de type II impliquant surtout des IgM et activant le complément par la voie classique. Les IgA sécrétoires ne sont pas mentionnées dans ce mécanisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles données correspondent à une hypersensibilité par complexes immuns ?",
+      "choices": [
+        "Le dépôt inapproprié de complexes immuns",
+        "Un mécanisme important dans les glomérulonéphrites lupiques",
+        "Une implication dans la maladie du poumon de fermier",
+        "Une réaction toujours immédiate en quelques minutes après l’allergène"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypersensibilité de type III est liée aux dépôts de complexes immuns et concerne notamment les glomérulonéphrites lupiques et la maladie du poumon de fermier. La réaction en quelques minutes caractérise le type I."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la réaction d’Arthus, quels mécanismes ou acteurs sont attendus ?",
+      "choices": [
+        "Une réaction locale à complexes immuns",
+        "Des anticorps IgG ou IgM précipitants",
+        "L’intervention des polynucléaires neutrophiles",
+        "Une absence complète d’activation du complément"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réaction d’Arthus est une réaction locale à complexes immuns avec IgG ou IgM précipitants, complément et polynucléaires neutrophiles. L’absence d’activation du complément est fausse."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’hypersensibilité retardée, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une réaction à médiation cellulaire",
+        "La tuberculine utilisée dans l’IDR peut la déclencher",
+        "L’eczéma de contact est dirigé contre des antigènes de type haptène",
+        "Son exploration in vivo repose sur le dosage sérique des IgE spécifiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypersensibilité retardée est à médiation cellulaire. La tuberculine et les haptènes de l’eczéma de contact sont cités. L’exploration in vivo de l’eczéma de contact est le patch-test, non le dosage des IgE."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation générale du complément, quels énoncés sont exacts ?",
+      "choices": [
+        "Il comprend des molécules solubles et membranaires",
+        "Il participe à l’immunité innée",
+        "Son activation se fait en cascade par protéolyse",
+        "Il ne possède qu’une seule voie d’activation"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complément est un ensemble de molécules solubles et membranaires de l’immunité innée, activées en cascade par protéolyse. Trois voies d’activation sont décrites."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels rôles sont attribués au système du complément dans le texte ?",
+      "choices": [
+        "Clairance des complexes immuns",
+        "Opsonisation des antigènes",
+        "Chimiotactisme",
+        "Production directe d’immunoglobulines par les plasmocytes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le complément participe à la clairance des complexes immuns, à l’opsonisation et au chimiotactisme. La production d’immunoglobulines est assurée par les plasmocytes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la voie alterne du complément, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle implique le facteur B",
+        "Elle implique le facteur D",
+        "Sa C3 convertase est C3bBb",
+        "Elle nécessite le clivage de C4 et C2 comme étape caractéristique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie alterne implique C3, le facteur B, le facteur D et la properdine ; sa C3 convertase est C3bBb. Le clivage de C4 et C2 caractérise surtout les voies classique et MBL."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour la voie des lectines/MBL du complément, quels énoncés sont justes ?",
+      "choices": [
+        "Elle est activée par les résidus mannose",
+        "La MBL est une collectine ressemblant à C1q",
+        "Elle est indépendante des anticorps",
+        "Elle exclut tout clivage de C4 et C2"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La voie MBL est activée par les résidus mannose, fait intervenir une collectine ressemblant à C1q et est indépendante des anticorps. Elle entraîne le clivage de C4 et C2."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des immunoglobulines et de leur production, quelles propositions sont exactes ?",
+      "choices": [
+        "Les anticorps sont des glycoprotéines produites par les plasmocytes",
+        "Ils permettent des sérothérapies préventives",
+        "La commutation isotypique conserve l’idiotype",
+        "La commutation isotypique diminue la diversité périphérique fonctionnelle du répertoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anticorps sont des glycoprotéines plasmocytaires et peuvent être utilisés en sérothérapie préventive. La commutation isotypique change l’isotype en conservant l’idiotype et augmente la diversité fonctionnelle périphérique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la première classe d’immunoglobulines produite au cours de l’ontogénie ?",
+      "choices": [
+        "IgA",
+        "IgE",
+        "IgM",
+        "IgG"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que la première classe d’immunoglobulines produite au cours de l’ontogénie est l’IgM."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le taux sérique normal approximatif des IgG chez l’adulte ?",
+      "choices": [
+        "0,1 à 0,5 g/L",
+        "1 à 2 g/L",
+        "10 à 15 g/L",
+        "50 à 60 g/L"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les IgG sont majoritaires dans le sérum, avec un taux normal adulte d’environ 10 à 15 g/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Par quelles cellules est élaborée la pièce sécrétoire des IgA digestives ?",
+      "choices": [
+        "Les plasmocytes médullaires",
+        "Les cellules épithéliales de la muqueuse digestive",
+        "Les polynucléaires neutrophiles",
+        "Les mastocytes tissulaires"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La pièce sécrétoire des IgA digestives est élaborée par les cellules épithéliales de la muqueuse digestive."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la voie MBL du complément, à quelles molécules ressemblent MASP-1 et MASP-2 ?",
+      "choices": [
+        "C1r et C1s",
+        "Facteurs H et I",
+        "MCP et DAF",
+        "Facteurs B et D"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les MASP-1 et MASP-2 de la voie MBL ressemblent à C1r et C1s."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la maladie hémolytique du nouveau-né, quelle incompatibilité mère-enfant est généralement moins sévère ?",
+      "choices": [
+        "ABO",
+        "Kell",
+        "Duffy",
+        "Rhésus"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que l’incompatibilité ABO mère-enfant est généralement moins sévère."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la C3 convertase de la voie classique du complément ?",
+      "choices": [
+        "C3bBb",
+        "C4b2a",
+        "C5b-9",
+        "MASP-2"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La C3 convertase de la voie classique est C4b2a ; elle clive C3 en C3a et C3b."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une préparation issue de la protéolyse des IgG par la papaïne, quels critères permettent de retenir que la fraction étudiée correspond à un fragment Fab fonctionnellement limité à la reconnaissance antigénique ?",
+      "choices": [
+        "Elle contient un domaine variable de chaîne lourde et un domaine variable de chaîne légère.",
+        "Elle est monovalente.",
+        "Elle porte les fonctions effectrices des immunoglobulines.",
+        "Elle est obtenue après protéolyse des IgG par la papaïne."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le fragment Fab obtenu par la papaïne contient les domaines variables des chaînes lourde et légère, est monovalent et ne possède pas de fonctions effectrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Si l’on analyse uniquement les fonctions portées par le fragment Fc des immunoglobulines, quelles attributions sont correctes ?",
+      "choices": [
+        "Supporter la diversité isotypique des chaînes lourdes.",
+        "Permettre le passage transplacentaire des IgG.",
+        "Assurer la flexibilité globale de l’immunoglobuline.",
+        "Permettre la fixation des IgE aux mastocytes."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le Fc porte la diversité isotypique des chaînes lourdes, permet aux IgG de traverser le placenta et permet la fixation des IgE aux mastocytes. La flexibilité dépend de la région charnière."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour attribuer correctement les structures d’une immunoglobuline à leurs rôles, quelles associations sont exactes ?",
+      "choices": [
+        "Région charnière — flexibilité des immunoglobulines.",
+        "Fragment Fab — fonctions effectrices.",
+        "Fragment Fc — région de fixation de la chaîne J dans les IgA polymériques.",
+        "Chaînes légères — appartenance au fragment Fab."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La région charnière assure la flexibilité, le Fc porte la région de fixation de la chaîne J des IgA polymériques, et les chaînes légères appartiennent au Fab. Les fonctions effectrices ne sont pas portées par le Fab."
+    },
+    {
+      "type": "QCM",
+      "question": "Une molécule HLA de classe I est étudiée isolément. Quelles caractéristiques doivent être retenues ?",
+      "choices": [
+        "Elle interagit avec CD8.",
+        "Elle régule l’activité des cellules NK.",
+        "Elle est exprimée par la plupart des cellules nucléées.",
+        "Elle comprend une chaîne lourde polymorphe associée à la β2-microglobuline."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions correspondent aux caractéristiques des molécules HLA de classe I indiquées dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des molécules HLA classiques de classes I et II considérées ensemble, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elles participent à l’éducation intrathymique des lymphocytes T.",
+        "Elles contribuent à la définition d’un répertoire T non autoréactif.",
+        "Leurs gènes ont une expression codominante.",
+        "Elles comportent un site de liaison peptidique issu de la dégradation antigénique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les molécules HLA classiques de classes I et II participent à l’éducation intrathymique, à la définition d’un répertoire non autoréactif, ont une expression codominante et présentent un site de liaison peptidique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’articulation entre immunité innée et réponse adaptative, quels éléments sont explicitement mentionnés ?",
+      "choices": [
+        "Les barrières cutanéomuqueuses interviennent dans l’immunité innée.",
+        "Les cytokines produites peuvent orienter la réponse immunitaire adaptative.",
+        "TLR4 fait partie des récepteurs impliqués dans l’immunité innée.",
+        "CD35 fait partie des récepteurs impliqués dans l’immunité innée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les barrières cutanéomuqueuses, l’orientation de l’immunité adaptative par les cytokines, ainsi que TLR4 et CD35 comme récepteurs de l’immunité innée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les immunoglobulines se fixant aux mastocytes et aux basophiles par leur fragment Fc, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont peu abondantes dans le sang.",
+        "Elles se fixent aux mastocytes par leur fragment Fc.",
+        "Elles activent efficacement le complément par la voie classique.",
+        "Elles se fixent aussi aux basophiles."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les IgE se fixent aux mastocytes et basophiles par leur fragment Fc, sont peu abondantes dans le sang et n’activent pas le complément par la voie classique."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’on représente une IgA polymérique, quelles annotations sont compatibles avec le texte ?",
+      "choices": [
+        "La région de fixation de la chaîne J est portée par le fragment Fc.",
+        "La chaîne J se fixe sur une région attribuée au fragment Fab.",
+        "Le fragment Fc intervient dans cette organisation polymérique.",
+        "Les chaînes légères appartiennent au fragment Fab."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Dans les IgA polymériques, la région de fixation de la chaîne J est portée par le Fc. Les chaînes légères appartiennent au Fab."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour décrire correctement les chaînes légères des immunoglobulines, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles s’associent à des chaînes lourdes.",
+        "Elles appartiennent au fragment Fab.",
+        "Elles contiennent un seul domaine constant.",
+        "Leurs principaux isotypes sont kappa et lambda."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes les propositions correspondent aux caractéristiques des chaînes légères indiquées dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour ne pas confondre propriétés générales des molécules HLA classiques et propriétés propres à la classe I, quelles propositions sont exactes ?",
+      "choices": [
+        "L’expression codominante des gènes concerne les molécules HLA classiques citées.",
+        "L’interaction avec CD8 est une propriété indiquée pour les molécules HLA de classe I.",
+        "La régulation de l’activité NK est attribuée aux molécules HLA de classe I.",
+        "Le site de liaison peptidique issu de la dégradation antigénique est mentionné pour les molécules HLA."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte distingue des propriétés générales des molécules HLA classiques, comme l’expression codominante et le site de liaison peptidique, et des propriétés de classe I, comme CD8 et la régulation des NK."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations cellule ou récepteur — molécule immunologique, lesquelles sont conformes au texte ?",
+      "choices": [
+        "Mastocyte — fixation des IgE par le fragment Fc.",
+        "Basophile — fixation des IgE par le fragment Fc.",
+        "CD8 — interaction avec les molécules HLA de classe I.",
+        "Cellule NK — activité régulée par les molécules HLA de classe I."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne la fixation des IgE aux mastocytes et basophiles via le Fc, l’interaction HLA I-CD8 et la régulation des cellules NK par HLA I."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions doivent être écartées car elles contredisent les données du texte ?",
+      "choices": [
+        "Le fragment Fab possède des fonctions effectrices.",
+        "Les IgE activent le complément par la voie classique.",
+        "Les chaînes légères contiennent plusieurs domaines constants.",
+        "La flexibilité des immunoglobulines est assurée par le fragment Fab."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le Fab n’a pas de fonctions effectrices, les IgE n’activent pas la voie classique du complément, les chaînes légères ont un seul domaine constant et la flexibilité dépend de la région charnière."
+    },
+    {
+      "type": "QCM",
+      "question": "Si un fragment d’immunoglobuline conserve les domaines variables mais perd les fonctions effectrices, quelles caractéristiques sont attendues selon le texte ?",
+      "choices": [
+        "Il peut correspondre à un fragment Fab.",
+        "Il porte deux domaines variables.",
+        "Il est monovalent.",
+        "Il assure le passage placentaire des IgG."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le fragment Fab porte deux domaines variables, est monovalent et ne possède pas de fonctions effectrices. Le passage placentaire des IgG dépend du Fc."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les notions de diversité ou de polymorphisme mentionnées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Le fragment Fc est le support de la diversité isotypique des chaînes lourdes.",
+        "Les principaux isotypes des chaînes légères sont kappa et lambda.",
+        "Les molécules HLA de classe I comprennent une chaîne lourde polymorphe.",
+        "Les gènes HLA cités ont une expression codominante."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne la diversité isotypique portée par le Fc, les isotypes kappa et lambda des chaînes légères, la chaîne lourde polymorphe des HLA I et l’expression codominante des gènes HLA."
+    },
+    {
+      "type": "QCS",
+      "question": "Une molécule HLA est constituée d’une chaîne lourde polymorphe associée à la β2-microglobuline. Quelle interaction est attendue selon le texte ?",
+      "choices": [
+        "Interaction avec CD8.",
+        "Fixation de la chaîne J.",
+        "Fixation des IgE aux mastocytes.",
+        "Association à une chaîne légère kappa."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Cette description correspond aux molécules HLA de classe I, qui interagissent avec CD8."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la description d’une chaîne légère d’immunoglobuline, quel élément est correct ?",
+      "choices": [
+        "Elle contient un seul domaine constant.",
+        "Elle porte la région de fixation de la chaîne J.",
+        "Elle assure le passage placentaire des IgG.",
+        "Elle régule l’activité des cellules NK."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les chaînes légères contiennent un seul domaine constant. Les autres propositions relèvent respectivement du Fc ou des molécules HLA de classe I."
+    },
+    {
+      "type": "QCS",
+      "question": "Lorsqu’on recherche la structure responsable de la flexibilité d’une immunoglobuline, quelle réponse faut-il retenir ?",
+      "choices": [
+        "La région charnière.",
+        "Le site de liaison peptidique HLA.",
+        "La β2-microglobuline.",
+        "Le récepteur TLR4."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La région charnière assure la flexibilité des immunoglobulines."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel est explicitement cité comme récepteur impliqué dans l’immunité innée ?",
+      "choices": [
+        "CD8.",
+        "TLR4.",
+        "β2-microglobuline.",
+        "Chaîne légère lambda."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "TLR4 est cité parmi les récepteurs impliqués dans l’immunité innée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé est incompatible avec le profil des IgE décrit dans le texte ?",
+      "choices": [
+        "Elles se fixent aux mastocytes par leur fragment Fc.",
+        "Elles sont peu abondantes dans le sang.",
+        "Elles activent le complément par la voie classique.",
+        "Elles peuvent se fixer aux basophiles."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les IgE n’activent pas le complément par la voie classique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle propriété concerne les molécules HLA classiques de classes I et II prises ensemble, plutôt qu’une propriété limitée à la classe I dans le texte ?",
+      "choices": [
+        "Participation à l’éducation intrathymique des lymphocytes T.",
+        "Interaction avec CD8.",
+        "Association à la β2-microglobuline.",
+        "Expression par la plupart des cellules nucléées."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La participation à l’éducation intrathymique des lymphocytes T est attribuée aux molécules HLA classiques de classes I et II. Les autres propositions sont indiquées pour la classe I."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-04T12:37:10.246Z"
+}

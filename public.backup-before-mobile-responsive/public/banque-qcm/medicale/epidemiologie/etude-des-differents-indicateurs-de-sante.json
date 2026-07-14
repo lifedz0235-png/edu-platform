@@ -1,0 +1,3096 @@
+{
+  "category": "medicale",
+  "module": "epidemiologie",
+  "courseId": 143,
+  "courseTitle": "Les Differents Indicateurs De Sante",
+  "supportTitle": "Etude des différents indicateurs de santé",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/medicale-pdf/EPIDEMIO/Etude des différents indicateurs de santé.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Quelles qualités sont attendues d’un indicateur de santé selon le texte ?",
+      "choices": [
+        "Être simple, opérationnel, crédible et acceptable",
+        "Être validé et pertinent",
+        "Être fiable, précis et reproductible",
+        "Avoir une interprétation claire et simple"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Un indicateur doit être simple, opérationnel, crédible, acceptable, validé, pertinent, fiable, précis, reproductible, sensible, spécifique et d’interprétation claire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la structure d’un indicateur de santé, quelles propositions sont exactes ?",
+      "choices": [
+        "Le numérateur correspond au nombre de cas ou d’événements observés",
+        "Le dénominateur correspond à la taille de la population concernée ou exposée au risque",
+        "L’interprétation nécessite la définition précise et le contexte de l’indicateur",
+        "Le numérateur n’est jamais inclus dans le dénominateur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La structure comprend un numérateur et un dénominateur. L’interprétation dépend de la définition et du contexte. Dans une proportion, le numérateur est inclus dans le dénominateur."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du rapport en santé, quelles propositions sont justes ?",
+      "choices": [
+        "Il exprime la relation entre deux quantités",
+        "Les deux quantités peuvent appartenir ou non au même ensemble",
+        "Sa formule générale est x / y × k",
+        "Il ne peut jamais correspondre à un taux"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un rapport relie deux quantités selon x/y × k. Il peut être une proportion, un taux, un ratio ou un indice."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles caractéristiques définissent correctement une proportion ?",
+      "choices": [
+        "Le numérateur est inclus dans le dénominateur",
+        "C’est une mesure statique",
+        "Elle est exprimée en pourcentage et sans unité",
+        "Elle mesure la vitesse de survenue d’un événement dans le temps"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une proportion est statique, sans unité, exprimée en pourcentage, avec numérateur inclus dans le dénominateur. La vitesse de survenue relève du taux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le taux, quelles propositions sont exactes ?",
+      "choices": [
+        "Il mesure une probabilité ou une vitesse de survenue d’un événement",
+        "Il prend en compte une période et un lieu donnés",
+        "Il rapporte les événements à la population exposée au risque pendant la période",
+        "Il est toujours une mesure statique définie à un instant donné"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le taux est une mesure dynamique qui prend en compte le temps, la population exposée au risque et le lieu. La mesure statique correspond plutôt à une proportion ou un ratio."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions correspondent à un ratio selon le texte ?",
+      "choices": [
+        "Le numérateur et le dénominateur sont de nature différente ou disjoints",
+        "Il s’agit d’une mesure statique",
+        "Le temps n’intervient pas directement",
+        "Le sex-ratio en est un exemple"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Un ratio est un rapport entre quantités différentes ou disjointes, statique, défini à un instant donné, sans intervention directe du temps. Le sex-ratio en est un exemple."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’indice en épidémiologie descriptive, quelles propositions sont exactes ?",
+      "choices": [
+        "Il renvoie à deux événements distincts",
+        "Il sert à estimer un taux lorsque le dénominateur réel ne peut pas être correctement estimé",
+        "L’indice de mortalité maternelle utilise les naissances vivantes déclarées comme dénominateur",
+        "Son numérateur est toujours inclus dans le dénominateur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un indice met en rapport deux événements distincts et peut estimer un taux lorsque le dénominateur réel est difficile à évaluer. Le numérateur n’est pas nécessairement inclus dans le dénominateur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’indice de mortalité maternelle cité dans le texte, quelles propositions sont correctes ?",
+      "choices": [
+        "Le numérateur correspond aux décès attribuables à la grossesse",
+        "Le numérateur inclut les décès attribuables à l’accouchement ou à ses suites",
+        "Le dénominateur utilisé est le nombre de naissances vivantes déclarées",
+        "Le numérateur correspond au nombre total de décès toutes causes confondues"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’indice de mortalité maternelle rapporte les décès liés à la grossesse, à l’accouchement ou à leurs suites aux naissances vivantes déclarées durant la même période."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments font partie des principaux types d’indicateurs de santé mentionnés ?",
+      "choices": [
+        "Indicateurs de moyens",
+        "Indicateurs d’environnement",
+        "Indicateurs socio-économiques",
+        "Indicateurs de production"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite les indicateurs de moyens, d’environnement, socio-économiques, de production et d’état."
+    },
+    {
+      "type": "QCM",
+      "question": "Les indicateurs démographiques sont utiles pour :",
+      "choices": [
+        "Déterminer les dénominateurs des indicateurs",
+        "Calculer des taux spécifiques",
+        "Identifier des sous-groupes selon l’âge ou le sexe",
+        "Identifier des sous-groupes selon le lieu de résidence, l’éducation ou certaines habitudes"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les indicateurs démographiques définissent la population et permettent de déterminer les dénominateurs, calculer des taux spécifiques et identifier des sous-groupes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles formules démographiques sont conformes au texte ?",
+      "choices": [
+        "TBN = nombre de naissances vivantes pendant une année / population moyenne de l’année × 1 000",
+        "TBF = nombre de naissances vivantes pendant une année / nombre de femmes en âge de procréer × 1 000",
+        "AN = naissances vivantes − décès pendant une année dans une population",
+        "TAN = accroissement naturel / population moyenne × 1 000"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les quatre formules correspondent aux définitions du taux brut de natalité, du taux brut de fécondité, de l’accroissement naturel et du taux d’accroissement naturel."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le taux d’accroissement naturel, quelles propositions sont justes ?",
+      "choices": [
+        "Il utilise l’accroissement naturel au numérateur",
+        "Il utilise la population moyenne au dénominateur",
+        "Il peut correspondre au taux de natalité moins le taux de mortalité",
+        "Il est calculé uniquement à partir du nombre de femmes de 15 à 49 ans"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le TAN est l’accroissement naturel rapporté à la population moyenne × 1 000, et correspond aussi au taux de natalité moins le taux de mortalité."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels indicateurs de mortalité sont explicitement mentionnés dans le texte ?",
+      "choices": [
+        "Mortalité générale",
+        "Mortalité spécifique",
+        "Mortalité infantile",
+        "Létalité"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite la mortalité générale, spécifique, infantile, juvénile, maternelle et la létalité."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des taux spécifiques de mortalité, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils permettent des comparaisons plus précises que le taux brut selon certains critères",
+        "Ils peuvent être calculés selon l’âge",
+        "Ils peuvent être calculés selon le sexe",
+        "Le taux spécifique selon la cause rapporte les décès dus à une cause donnée à la population totale au milieu de l’année"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les taux spécifiques de mortalité affinent les comparaisons selon l’âge, le sexe, la cause ou le lieu. Pour une cause, le numérateur est le nombre de décès attribuables à cette cause."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle définition correspond le mieux à un indicateur de santé ?",
+      "choices": [
+        "Une variable qualitative décrivant uniquement les ressources hospitalières",
+        "Une variable quantitative décrivant une situation ou une évolution de l’état de santé d’une population",
+        "Un outil réservé à la mesure individuelle du risque clinique",
+        "Une mesure utilisée sans nécessité de contexte ni de définition précise"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Un indicateur de santé est une variable quantitative décrivant un élément de situation ou une évolution de l’état de santé d’une population."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel outil de calcul correspond à un rapport dont le numérateur est inclus dans le dénominateur ?",
+      "choices": [
+        "Ratio",
+        "Indice",
+        "Proportion",
+        "Taux brut de mortalité"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans une proportion, le nombre de personnes présentant une caractéristique est rapporté au total de la population à laquelle elles appartiennent."
+    },
+    {
+      "type": "QCS",
+      "question": "La pyramide des âges représente principalement :",
+      "choices": [
+        "La répartition d’une population selon l’âge et le sexe",
+        "Le nombre de décès par cause dans une population",
+        "Le rapport entre naissances vivantes et femmes de 15 à 49 ans",
+        "Le taux d’accroissement naturel d’une population"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La pyramide des âges décrit la répartition de la population selon l’âge et le sexe."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel indicateur est défini comme le nombre moyen d’années qu’une personne peut espérer vivre à partir d’un âge donné ?",
+      "choices": [
+        "Taux brut de mortalité",
+        "Espérance de vie",
+        "Mortalité proportionnelle",
+        "Taux brut de natalité"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’espérance de vie correspond au nombre moyen d’années qu’une personne peut espérer vivre à partir d’un âge donné."
+    },
+    {
+      "type": "QCS",
+      "question": "Le taux brut de mortalité exprime :",
+      "choices": [
+        "Les décès dus à une cause donnée rapportés au total des décès",
+        "La mortalité réelle observée dans une population, toutes classes d’âge et causes confondues",
+        "Les décès dans un groupe d’âge rapportés aux décès totaux",
+        "Les décès maternels rapportés aux naissances vivantes déclarées"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le taux brut de mortalité mesure la mortalité observée dans toute la population, toutes classes d’âge et causes confondues."
+    },
+    {
+      "type": "QCS",
+      "question": "La mortalité proportionnelle correspond à :",
+      "choices": [
+        "Nombre de décès dus à une cause donnée rapporté au nombre total de décès",
+        "Nombre total de décès rapporté à la population moyenne de l’année",
+        "Nombre de décès dans un sexe rapporté à la population du même sexe",
+        "Nombre de décès maternels rapporté au nombre de femmes en âge de procréer"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La mortalité proportionnelle rapporte les décès dus à une cause donnée à l’ensemble des décès."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le taux de létalité, quelles propositions sont exactes ?",
+      "choices": [
+        "Il rapporte les décès dus à une maladie au nombre de cas de cette maladie pendant une période donnée.",
+        "Il mesure le risque de mourir parmi les malades.",
+        "Il se calcule toujours en rapportant les décès à la population générale totale.",
+        "Il peut être brut ou spécifique selon l’âge, le sexe ou d’autres critères."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le taux de létalité rapporte les décès dus à une maladie aux cas de cette maladie. Il mesure la gravité et le risque de décès parmi les malades, et peut être brut ou spécifique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’interprétation du taux de létalité, quelles propositions sont justes ?",
+      "choices": [
+        "Il renseigne sur la gravité d’une maladie.",
+        "Il exprime la fréquence des nouveaux cas dans une population exposée.",
+        "Il peut être proche de 100 % pour la rage en l’absence de traitement après apparition des signes cliniques.",
+        "Il nécessite de connaître le nombre de cas de la maladie au dénominateur."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La létalité mesure la gravité et le risque de décès parmi les cas. La rage est citée comme exemple de létalité proche de 100 % sans traitement après les signes cliniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le taux de mortalité infantile, quelles propositions sont correctes ?",
+      "choices": [
+        "Il concerne les décès des enfants de moins d’un an pendant l’année.",
+        "Son dénominateur est le nombre de naissances vivantes pendant l’année.",
+        "Il s’exprime pour 100 000 naissances vivantes.",
+        "Il est considéré comme un indicateur important de l’état de santé d’une population."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le taux de mortalité infantile rapporte les décès avant 1 an aux naissances vivantes de l’année, multiplié par 1 000. C’est un indicateur important de santé."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la classification de la mortalité infantile, quelles associations sont exactes ?",
+      "choices": [
+        "Mortalité périnatale : morts-nés et décès pendant la première semaine de vie.",
+        "Mortalité néonatale précoce : de 0 à 7 jours.",
+        "Mortalité post-néonatale : de 7 à 28 jours.",
+        "Mortalité post-néonatale : de 28 jours à 1 an."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La mortalité périnatale inclut les morts-nés et décès de la première semaine. La néonatale précoce va de 0 à 7 jours, la post-néonatale de 28 jours à 1 an."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le taux de mortalité périnatale, quelles propositions sont exactes ?",
+      "choices": [
+        "Son numérateur additionne les morts-nés et les décès pendant la première semaine.",
+        "Son dénominateur additionne les morts-nés et les naissances vivantes.",
+        "Il est multiplié par 1 000.",
+        "Il rapporte uniquement les décès néonatals tardifs aux naissances vivantes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le taux de mortalité périnatale = morts-nés + décès pendant la première semaine / morts-nés + naissances vivantes × 1 000."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du taux de mortalité juvénile, quelles propositions sont justes ?",
+      "choices": [
+        "Il correspond à la mortalité des enfants de moins de cinq ans.",
+        "Il rapporte les décès des moins de 5 ans pendant l’année aux naissances vivantes pendant l’année.",
+        "Il s’exprime avec un facteur multiplicatif de 1 000.",
+        "Il évalue spécifiquement l’efficacité des soins obstétricaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mortalité juvénile concerne les décès avant 5 ans, rapportés aux naissances vivantes de l’année et multipliés par 1 000. Les soins obstétricaux relèvent de la mortalité maternelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le taux de mortalité maternelle, quelles propositions sont correctes ?",
+      "choices": [
+        "Il inclut les décès de femmes pendant la grossesse.",
+        "Il inclut les décès de femmes pendant l’accouchement ou dans les 42 jours suivant l’accouchement.",
+        "Il est rapporté au nombre de naissances vivantes pendant l’année.",
+        "Il s’exprime pour 1 000 naissances vivantes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le taux de mortalité maternelle rapporte les décès pendant la grossesse, l’accouchement ou dans les 42 jours suivant l’accouchement aux naissances vivantes, pour 100 000."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les indicateurs de morbidité, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils mesurent la fréquence des maladies dans une population.",
+        "Ils comprennent notamment la prévalence, l’incidence, le taux d’attaque et l’incidence cumulée.",
+        "Le nombre absolu de cas suffit pour comparer correctement les populations dans le temps et l’espace.",
+        "Le nombre de cas doit être rapporté à la population exposée pour permettre des comparaisons correctes."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les indicateurs de morbidité évaluent la fréquence des maladies. Les cas absolus sont utiles à la gestion mais doivent être rapportés à la population exposée pour comparer."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la prévalence, quelles propositions sont justes ?",
+      "choices": [
+        "Elle inclut les anciens cas et les nouveaux cas.",
+        "Elle correspond à une photographie de l’état morbide d’une population.",
+        "Elle est particulièrement utile pour les maladies chroniques.",
+        "Elle ne peut être mesurée que par un suivi longitudinal en personnes-temps."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prévalence inclut tous les cas existants, anciens et nouveaux. C’est une mesure statique, souvent transversale, utile pour les maladies chroniques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs peuvent influencer la prévalence d’une maladie selon le texte ?",
+      "choices": [
+        "La durée de la maladie.",
+        "La vitesse d’apparition des nouveaux cas.",
+        "La guérison et la mortalité.",
+        "La pagination du registre de recueil."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prévalence dépend notamment de la durée de la maladie, de l’apparition des nouveaux cas, de la guérison, de la mortalité et des pertes de suivi."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la relation incidence-prévalence, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans une population stable, pour une maladie de durée moyenne stable, la prévalence est égale à l’incidence multipliée par la durée moyenne de la maladie.",
+        "Une maladie longue peut augmenter la prévalence même si l’incidence reste stable.",
+        "Un traitement prolongeant la survie peut augmenter la prévalence sans nécessairement augmenter l’incidence.",
+        "La prévalence diminue toujours lorsque la durée de la maladie augmente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La relation donnée est : prévalence = incidence × durée moyenne. Une durée plus longue ou une survie prolongée augmente la prévalence sans obligatoirement modifier l’incidence."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’incidence, quelles propositions sont correctes ?",
+      "choices": [
+        "Elle quantifie la production de nouveaux cas pendant une période donnée.",
+        "Elle ne concerne que les personnes non malades au début de la période et exposées au risque.",
+        "Elle nécessite toujours de préciser la période d’observation.",
+        "Elle inclut systématiquement les anciens cas présents au début de la période."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’incidence mesure les nouveaux cas chez les personnes initialement non malades et à risque, sur une période qui doit être précisée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le taux d’incidence, quelles propositions sont exactes ?",
+      "choices": [
+        "Il mesure la vitesse de survenue des nouveaux cas.",
+        "Son dénominateur est la somme des personnes-temps à risque.",
+        "Il peut s’exprimer en cas par personne-jour, personne-mois ou personne-année.",
+        "Il est toujours une probabilité comprise entre 0 et 1."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le taux d’incidence utilise les personnes-temps et mesure une vitesse. La probabilité comprise entre 0 et 1 correspond à l’incidence cumulée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’incidence cumulée, quelles propositions sont justes ?",
+      "choices": [
+        "Elle mesure le risque qu’une personne développe une maladie pendant une période de suivi donnée.",
+        "Son dénominateur est le nombre de personnes à risque au début de la période.",
+        "Elle est une probabilité comprise entre 0 et 1.",
+        "Elle ne suppose pas que les personnes soient suivies pendant toute la période d’étude."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’incidence cumulée est une mesure de risque : nouveaux cas sur personnes à risque au début. Elle suppose un suivi pendant toute la période."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel indicateur correspond le mieux à une mesure statique donnant une photographie de l’état morbide d’une population ?",
+      "choices": [
+        "Taux d’incidence",
+        "Prévalence",
+        "Incidence cumulée",
+        "Taux d’attaque"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La prévalence est une mesure statique décrivant l’état morbide d’une population à un instant ou sur un intervalle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel indicateur utilise spécifiquement la somme des personnes-temps à risque au dénominateur ?",
+      "choices": [
+        "Prévalence ponctuelle",
+        "Taux d’incidence",
+        "Taux de mortalité infantile",
+        "Taux de mortalité maternelle"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le taux d’incidence se calcule par le nombre de nouveaux cas divisé par la somme des personnes-temps à risque."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une population stable, quel effet est attendu d’un traitement qui prolonge la survie des malades sans augmenter les nouveaux cas ?",
+      "choices": [
+        "Diminution obligatoire de la prévalence",
+        "Augmentation possible de la prévalence sans augmentation nécessaire de l’incidence",
+        "Augmentation obligatoire de l’incidence cumulée",
+        "Disparition de la relation incidence-prévalence"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Un traitement prolongeant la survie augmente la durée de la maladie, ce qui peut augmenter la prévalence sans modifier nécessairement l’incidence."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation correspond le mieux à l’utilisation d’un taux d’attaque ?",
+      "choices": [
+        "Étude d’une maladie chronique stable sur plusieurs années",
+        "Évaluation d’une exposition alimentaire suspecte lors d’une toxi-infection alimentaire collective",
+        "Estimation de l’espérance de vie à un âge donné",
+        "Mesure de la répartition par âge d’une population"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le taux d’attaque est utile lors d’un épisode épidémique, d’une exposition ponctuelle ou d’une maladie survenant après un événement précis."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle définition correspond à une endémie ?",
+      "choices": [
+        "Présence habituelle d’une maladie dans une zone géographique donnée",
+        "Augmentation inhabituelle du nombre de cas dans une population, un lieu et une période donnés",
+        "Nombre total de décès dus à une cause rapporté au total des décès",
+        "Nombre de nouveaux cas rapporté aux personnes-temps"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une endémie est la présence habituelle d’une maladie dans une zone géographique donnée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle définition correspond à une épidémie ?",
+      "choices": [
+        "Présence permanente et habituelle d’une maladie dans une région",
+        "Augmentation inhabituelle du nombre de cas d’une maladie dans une population, un lieu et une période donnés",
+        "Proportion de personnes malades présentes à un instant donné",
+        "Risque de mourir parmi les malades atteints d’une affection donnée"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Une épidémie correspond à une augmentation inhabituelle du nombre de cas dans une population, un lieu et une période donnés."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon l’extrait fourni, quels niveaux géographiques sont explicitement mentionnés ?",
+      "choices": [
+        "Plusieurs pays",
+        "Plusieurs continents",
+        "Une seule ville",
+        "Un seul établissement de soins"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’extrait mentionne uniquement une extension à plusieurs pays ou continents."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles interprétations sont compatibles avec la formulation « plusieurs pays ou continents » ?",
+      "choices": [
+        "Une atteinte concernant plus d’un pays",
+        "Une atteinte concernant plus d’un continent",
+        "Une atteinte limitée obligatoirement à une commune",
+        "Une atteinte limitée obligatoirement à un hôpital"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La formulation indique une extension géographique large : plusieurs pays ou plusieurs continents."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles informations ne peuvent pas être déduites de l’extrait seul ?",
+      "choices": [
+        "La durée de l’événement sanitaire",
+        "La létalité de l’événement sanitaire",
+        "L’agent causal responsable",
+        "Le mode de transmission"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’extrait ne donne qu’une indication géographique ; il ne précise ni durée, ni gravité, ni agent causal, ni transmission."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels qualificatifs sont cohérents avec une extension à « plusieurs pays ou continents » ?",
+      "choices": [
+        "Internationale si plusieurs pays sont concernés",
+        "Intercontinentale si plusieurs continents sont concernés",
+        "Strictement familiale",
+        "Strictement hospitalière"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Plusieurs pays évoquent une extension internationale ; plusieurs continents une extension intercontinentale."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du terme « plusieurs » dans l’extrait, quelles propositions sont exactes ?",
+      "choices": [
+        "Il implique une pluralité",
+        "Il exclut l’unicité stricte",
+        "Il fournit un nombre exact de territoires atteints",
+        "Il s’applique aux pays ou aux continents dans la formulation"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "« Plusieurs » indique plus d’un, sans donner de nombre exact, et concerne les pays ou les continents."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la formulation « plusieurs pays ou continents », quelles propositions décrivent correctement le rôle de « ou » ?",
+      "choices": [
+        "Il relie deux catégories géographiques",
+        "Il introduit une alternative entre pays et continents",
+        "Il relie une notion clinique à une notion thérapeutique",
+        "Il précise un taux de mortalité"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le mot « ou » relie ici deux échelles géographiques : pays et continents."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour vérifier une situation correspondant à l’extrait, quelles données seraient directement pertinentes ?",
+      "choices": [
+        "Le nombre de pays concernés",
+        "Le nombre de continents concernés",
+        "La couleur des lésions cutanées",
+        "Le protocole antibiotique détaillé"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’extrait porte sur l’étendue géographique ; les pays et continents concernés sont donc les données directement pertinentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles affirmations constitueraient des surinterprétations de l’extrait ?",
+      "choices": [
+        "Déduire une gravité élevée obligatoire",
+        "Déduire une létalité élevée obligatoire",
+        "Déduire un agent infectieux précis",
+        "Déduire une extension géographique large"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La seule information fournie est l’extension géographique large ; la gravité, la létalité et l’agent ne sont pas précisés."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelle est la nature de la notion principalement exprimée par « plusieurs pays ou continents » ?",
+      "choices": [
+        "Une notion d’étendue géographique",
+        "Une notion de distribution spatiale",
+        "Une notion de traitement curatif",
+        "Une notion de mécanisme physiopathologique"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’extrait exprime une extension dans l’espace, à l’échelle de pays ou de continents."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles formulations sont compatibles avec l’extrait ?",
+      "choices": [
+        "Extension touchant plusieurs pays",
+        "Extension touchant plusieurs continents",
+        "Atteinte limitée à une seule chambre d’hospitalisation",
+        "Atteinte limitée à une seule famille"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’extrait indique une extension à plusieurs pays ou continents, et non une limitation micro-locale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont absents de l’extrait fourni ?",
+      "choices": [
+        "Le nombre de cas",
+        "La date de début",
+        "Le type d’agent causal",
+        "La répartition par âge"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Aucun de ces éléments n’est mentionné ; seul le niveau géographique est indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Si une situation concerne plusieurs pays mais un seul continent, quelles propositions sont compatibles avec l’extrait ?",
+      "choices": [
+        "Elle répond à la partie « plusieurs pays »",
+        "Elle ne nécessite pas forcément plusieurs continents",
+        "Elle est automatiquement limitée à un seul pays",
+        "Elle contredit nécessairement la formulation"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La formulation accepte l’extension à plusieurs pays, même si ces pays appartiennent à un seul continent."
+    },
+    {
+      "type": "QCM",
+      "question": "Si une situation concerne plusieurs continents, quelles propositions sont justes selon l’extrait ?",
+      "choices": [
+        "Elle correspond à l’une des échelles explicitement citées",
+        "Elle dépasse l’échelle d’un continent unique",
+        "Elle impose une limitation à une seule région administrative",
+        "Elle précise automatiquement le taux d’incidence"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Plusieurs continents sont explicitement mentionnés et impliquent une extension au-delà d’un seul continent."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une surveillance sanitaire fondée sur l’extrait, quels indicateurs descriptifs seraient alignés avec l’information disponible ?",
+      "choices": [
+        "Liste des pays concernés",
+        "Liste des continents concernés",
+        "Cartographie de la répartition géographique",
+        "Score individuel de douleur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’extrait étant géographique, les pays, continents et la cartographie sont pertinents ; le score de douleur n’est pas suggéré."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel résumé correspond le mieux à l’extrait « plusieurs pays ou continents » ?",
+      "choices": [
+        "Extension géographique large",
+        "Atteinte strictement locale",
+        "Définition d’un traitement",
+        "Mesure de létalité"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’extrait résume une extension géographique large, sans autre précision clinique ou thérapeutique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle dimension est principalement renseignée par l’extrait ?",
+      "choices": [
+        "Dimension géographique",
+        "Dimension histologique",
+        "Dimension pharmacologique",
+        "Dimension génétique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les termes pays et continents relèvent de la dimension géographique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition reprend fidèlement l’information explicite de l’extrait ?",
+      "choices": [
+        "Plusieurs pays ou continents",
+        "Un seul pays uniquement",
+        "Une seule ville uniquement",
+        "Une seule famille uniquement"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La formulation exacte indique plusieurs pays ou continents."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’extrait, le mot « continents » désigne principalement :",
+      "choices": [
+        "Une échelle géographique",
+        "Une catégorie de symptômes",
+        "Un type de traitement",
+        "Une classe d’âge"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Un continent est une unité géographique, non une donnée clinique, thérapeutique ou démographique individuelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Laquelle des informations suivantes est explicitement présente dans l’extrait ?",
+      "choices": [
+        "L’atteinte de plusieurs pays ou continents",
+        "Le taux de mortalité",
+        "La durée d’incubation",
+        "Le mode de contamination"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Seule l’extension à plusieurs pays ou continents est mentionnée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation correspond le plus strictement à l’extrait fourni ?",
+      "choices": [
+        "Un événement sanitaire observé dans plusieurs pays",
+        "Un événement limité à une seule chambre",
+        "Un événement limité à une seule famille",
+        "Un événement limité à un seul service hospitalier"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’extrait fait référence à une extension touchant plusieurs pays ou continents."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le coefficient multiplicateur k utilisé dans la formule générale d’un rapport, quelles propositions sont exactes ?",
+      "choices": [
+        "Il intervient dans l’expression x / y × k.",
+        "Il peut souvent prendre les valeurs 1, 100, 1 000, 10 000 ou 100 000.",
+        "Son choix dépend de l’ordre de grandeur de l’indicateur à exprimer.",
+        "Il est obligatoirement égal à 100 pour tout rapport en santé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le coefficient k sert à rendre l’indicateur lisible selon l’ordre de grandeur. Il n’est pas toujours égal à 100."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’un indicateur est qualifié de taux selon le texte, quelles caractéristiques doivent être retenues ?",
+      "choices": [
+        "Il mesure une probabilité ou une vitesse de survenue d’un événement.",
+        "Il concerne une population exposée au risque pendant une période donnée.",
+        "Il prend en compte la dimension temporelle.",
+        "Son numérateur est toujours inclus dans son dénominateur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un taux est dynamique et intègre le temps. Certains taux peuvent être des proportions, mais ce n’est pas une règle générale."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une enquête portant sur 200 sujets, 80 sont infectés par le VIH. Concernant la proportion de sujets infectés, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est égale à 40 %.",
+        "Elle constitue une mesure statique.",
+        "Le numérateur est inclus dans le dénominateur.",
+        "Elle mesure la vitesse de survenue de l’infection au cours du temps."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La proportion est 80 / 200 × 100 = 40 %. Elle est statique, sans unité, et ne mesure pas une vitesse de survenue."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du ratio hypertendus / normotendus mesuré à un instant donné, quelles propositions sont exactes ?",
+      "choices": [
+        "Le numérateur et le dénominateur correspondent à des groupes disjoints.",
+        "Il s’agit d’une mesure statique.",
+        "Le temps n’intervient pas directement dans sa définition.",
+        "Sa valeur doit nécessairement être comprise entre 0 et 1."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un ratio compare des quantités de nature différente ou disjointes. Contrairement à une proportion, il n’est pas limité entre 0 et 1."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’indice de mortalité maternelle tel que présenté dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Son numérateur correspond aux décès attribuables à la grossesse, à l’accouchement ou à leurs suites.",
+        "Son dénominateur utilisé est le nombre de naissances vivantes déclarées pendant la même période.",
+        "Il sert à estimer un taux lorsque le dénominateur réel ne peut pas être correctement estimé.",
+        "Son dénominateur correspond au nombre total de décès féminins enregistrés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’indice utilise les naissances vivantes déclarées comme dénominateur de substitution, et non le total des décès féminins."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels appariements entre exemples et types d’indicateurs de santé sont conformes au texte ?",
+      "choices": [
+        "Équipements et personnels : indicateurs de moyens.",
+        "Nombre de séjours : indicateur de production.",
+        "Indicateurs démographiques et épidémiologiques : indicateurs d’état.",
+        "Nombre de consultations : indicateur d’environnement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les consultations et séjours relèvent des indicateurs de production, tandis que les équipements et personnels relèvent des moyens."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la préparation d’une analyse utilisant des taux spécifiques, quels rôles peuvent jouer les indicateurs démographiques ?",
+      "choices": [
+        "Déterminer les dénominateurs des indicateurs.",
+        "Identifier des sous-groupes selon l’âge, le sexe ou le lieu de résidence.",
+        "Décrire les caractéristiques d’une population.",
+        "Remplacer l’enregistrement des décès dans le calcul d’un indicateur de mortalité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indicateurs démographiques servent à définir les populations et leurs sous-groupes, mais ne remplacent pas les événements observés comme les décès."
+    },
+    {
+      "type": "QCM",
+      "question": "Une population a enregistré 12 500 naissances vivantes pendant une année, avec une population moyenne annuelle de 625 000 habitants. Concernant le taux brut de natalité, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est égal à 20 naissances vivantes pour 1 000 habitants.",
+        "Son dénominateur est la population moyenne de l’année.",
+        "Son numérateur est le nombre de naissances vivantes pendant l’année.",
+        "Son dénominateur est le nombre de femmes âgées de 15 à 49 ans."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "TBN = 12 500 / 625 000 × 1 000 = 20 pour 1 000 habitants. Le dénominateur des femmes de 15 à 49 ans correspond au taux brut de fécondité."
+    },
+    {
+      "type": "QCM",
+      "question": "Une année donnée, on observe 3 600 naissances vivantes chez une population comprenant 90 000 femmes en âge de procréer. Concernant le taux brut de fécondité, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est égal à 40 pour 1 000 femmes en âge de procréer.",
+        "Son dénominateur est le nombre de femmes en âge de procréer, généralement 15 à 49 ans.",
+        "Son numérateur est le nombre de naissances vivantes pendant l’année.",
+        "Il s’exprime en naissances vivantes pour 1 000 habitants de la population totale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "TBF = 3 600 / 90 000 × 1 000 = 40 pour 1 000 femmes en âge de procréer. L’expression pour 1 000 habitants correspond au TBN."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une population, on enregistre 30 000 naissances vivantes et 18 000 décès pendant une année, avec une population moyenne de 3 000 000 habitants. Quelles propositions sont exactes ?",
+      "choices": [
+        "L’accroissement naturel est de 12 000.",
+        "Le taux d’accroissement naturel est de 4 pour 1 000 habitants.",
+        "Le taux d’accroissement naturel correspond aussi à la différence entre le taux de natalité et le taux de mortalité.",
+        "L’accroissement naturel inclut nécessairement les migrations entrantes et sortantes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "AN = 30 000 − 18 000 = 12 000. TAN = 12 000 / 3 000 000 × 1 000 = 4 pour 1 000. Le texte ne fait intervenir que naissances vivantes et décès."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’espérance de vie telle que définie dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond au nombre moyen d’années qu’une personne peut espérer vivre à partir d’un âge donné.",
+        "L’indicateur le plus utilisé est l’espérance de vie à la naissance.",
+        "Elle peut être envisagée à partir d’un âge donné.",
+        "Elle se calcule directement comme le nombre total de décès divisé par la population moyenne multiplié par 1 000."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’espérance de vie est une durée moyenne attendue à partir d’un âge donné. La formule proposée en quatrième choix correspond au taux brut de mortalité."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour calculer un taux de mortalité spécifique selon l’âge, quelles données sont nécessaires selon le texte ?",
+      "choices": [
+        "Le nombre de décès dans le groupe d’âge pendant l’année.",
+        "La population du même groupe d’âge au milieu de l’année.",
+        "Un coefficient multiplicateur k.",
+        "Le nombre total de décès toutes classes d’âge confondues comme dénominateur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le taux spécifique selon l’âge rapporte les décès du groupe d’âge à la population du même groupe au milieu de l’année, multiplié par k."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la mortalité spécifique selon une cause et de la mortalité proportionnelle, quelles propositions sont exactes ?",
+      "choices": [
+        "Le taux de mortalité spécifique selon la cause utilise les décès attribuables à une cause donnée au numérateur.",
+        "Le taux de mortalité spécifique selon la cause utilise la population totale au milieu de l’année au dénominateur.",
+        "La mortalité spécifique selon la cause peut être exprimée pour 100 000 habitants.",
+        "La mortalité proportionnelle utilise le nombre de naissances vivantes comme dénominateur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mortalité proportionnelle rapporte les décès dus à une cause au nombre total de décès, et non aux naissances vivantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Une population moyenne annuelle de 400 000 habitants enregistre 1 200 décès pendant l’année. Concernant le taux brut de mortalité, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est égal à 3 décès pour 1 000 habitants.",
+        "Il prend en compte les décès toutes classes d’âge et causes confondues.",
+        "Son dénominateur est la population moyenne de l’année.",
+        "Il ne concerne que les décès attribuables à une cause donnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "TBM = 1 200 / 400 000 × 1 000 = 3 pour 1 000 habitants. Il s’agit d’un indicateur global, toutes causes et tous âges confondus."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé justifie le mieux qu’un indicateur de santé ne doit pas être interprété isolément ?",
+      "choices": [
+        "Il doit être interprété avec sa définition précise et son contexte.",
+        "Il doit toujours être exprimé en pourcentage.",
+        "Il doit obligatoirement utiliser un dénominateur disjoint du numérateur.",
+        "Il doit toujours être calculé pour 100 000 habitants."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte insiste sur l’interprétation d’un indicateur avec sa définition précise et son contexte."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la formule générale d’un rapport x / y × k, quelle proposition décrit correctement x et y ?",
+      "choices": [
+        "Ce sont toujours des pourcentages déjà calculés.",
+        "Ce sont des nombres d’événements observés à un temps donné ou pendant une période donnée.",
+        "Ce sont uniquement des populations exposées au risque.",
+        "Ce sont toujours deux événements strictement identiques."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans un rapport, x et y sont des nombres d’événements observés à un temps donné ou durant une période donnée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel outil de calcul est utilisé pour estimer un taux lorsque le dénominateur réel ne peut pas être correctement estimé ?",
+      "choices": [
+        "Une proportion.",
+        "Un taux brut.",
+        "Un indice.",
+        "Une pyramide des âges."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’indice est défini comme un rapport servant à estimer un taux lorsque le dénominateur réel ne peut pas être correctement estimé."
+    },
+    {
+      "type": "QCS",
+      "question": "Le nombre de consultations réalisées dans une structure de santé correspond à quel type principal d’indicateur ?",
+      "choices": [
+        "Indicateur de moyens.",
+        "Indicateur d’environnement.",
+        "Indicateur de production.",
+        "Indicateur démographique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le nombre de consultations fait partie des indicateurs de production."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour calculer un taux de mortalité spécifique selon le sexe chez les femmes, quel dénominateur faut-il utiliser selon le texte ?",
+      "choices": [
+        "Le nombre total de décès féminins pendant l’année.",
+        "La population féminine au milieu de l’année.",
+        "La population totale au début de l’année.",
+        "Le nombre de naissances vivantes déclarées."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le taux spécifique selon le sexe rapporte les décès dans un sexe à la population du même sexe au milieu de l’année."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une population, 300 décès par cancer sont observés parmi 1 500 décès toutes causes confondues. Quelle est la mortalité proportionnelle par cancer ?",
+      "choices": [
+        "5 %",
+        "10 %",
+        "20 %",
+        "50 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La mortalité proportionnelle par cancer est 300 / 1 500 × 100 = 20 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer mortalité proportionnelle et taux de létalité, quelles propositions sont exactes ?",
+      "choices": [
+        "La mortalité proportionnelle rapporte les décès dus à une cause au nombre total de décès.",
+        "Le taux de létalité rapporte les décès dus à une maladie au nombre de cas de cette maladie.",
+        "La mortalité proportionnelle mesure directement le risque de mourir parmi les malades.",
+        "Les deux indicateurs peuvent être exprimés en pourcentage."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La mortalité proportionnelle évalue la part d’une cause dans l’ensemble des décès. La létalité mesure le risque de décès parmi les cas d’une maladie. Les deux formules sont multipliées par 100."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le calcul du taux de mortalité périnatale, quels éléments sont correctement pris en compte ?",
+      "choices": [
+        "Les morts-nés sont inclus dans le numérateur.",
+        "Les décès pendant la première semaine de vie sont inclus dans le numérateur.",
+        "Le dénominateur comprend les morts-nés et les naissances vivantes.",
+        "Les décès survenant entre 28 jours et 1 an sont inclus dans le numérateur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le taux de mortalité périnatale = morts-nés + décès pendant la première semaine / morts-nés + naissances vivantes × 1 000. Les décès post-néonatals ne sont pas inclus."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les indicateurs de mortalité de l’enfant, quelles propositions sont justes ?",
+      "choices": [
+        "Le taux de mortalité infantile concerne les décès avant l’âge d’un an.",
+        "Le taux de mortalité infantile utilise les naissances vivantes comme dénominateur.",
+        "Le taux de mortalité juvénile concerne les enfants de moins de cinq ans.",
+        "Le taux de mortalité juvénile a pour dénominateur la population moyenne des enfants de moins de cinq ans."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mortalité infantile concerne les moins d’un an. La mortalité juvénile concerne les moins de cinq ans. Dans les deux formules du texte, le dénominateur est constitué par les naissances vivantes pendant l’année."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le numérateur du taux de mortalité maternelle tel que défini, quels décès peuvent être retenus ?",
+      "choices": [
+        "Décès d’une femme pendant la grossesse.",
+        "Décès d’une femme pendant l’accouchement.",
+        "Décès d’une femme dans les 42 jours suivant l’accouchement.",
+        "Décès d’une femme 60 jours après l’accouchement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le taux de mortalité maternelle inclut les décès pendant la grossesse, l’accouchement ou dans les 42 jours suivant l’accouchement. Un décès à 60 jours est hors délai selon la définition donnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour calculer correctement une incidence, quelles conditions doivent être respectées ?",
+      "choices": [
+        "Les sujets doivent être non malades au début de la période.",
+        "Les sujets doivent être exposés au risque de développer la maladie.",
+        "La période d’observation doit être précisée.",
+        "Les anciens cas présents au début de la période doivent être inclus au numérateur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’incidence mesure les nouveaux cas chez les personnes initialement non malades et exposées au risque, pendant une période définie. Les anciens cas ne sont pas inclus au numérateur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le taux d’incidence exprimé en personnes-temps, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est particulièrement utile lorsque les durées de suivi diffèrent entre les sujets.",
+        "Son dénominateur est la somme des personnes-temps à risque.",
+        "Il mesure une vitesse de survenue des nouveaux cas.",
+        "Il est toujours exprimé comme une probabilité comprise entre 0 et 1."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le taux d’incidence utilise les personnes-temps lorsque les durées de suivi varient. Il mesure une vitesse. La probabilité comprise entre 0 et 1 correspond à l’incidence cumulée."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’incidence cumulée, quelles propositions sont correctes ?",
+      "choices": [
+        "Elle mesure le risque de développer une maladie pendant une période donnée.",
+        "Son dénominateur est le nombre de personnes à risque au début de la période.",
+        "Elle suppose que les personnes soient suivies pendant toute la période d’étude.",
+        "Elle s’exprime obligatoirement en cas par personne-année."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’incidence cumulée est une mesure de risque, calculée chez les sujets à risque au début de la période et suivis pendant toute l’étude. Les cas par personne-année relèvent du taux d’incidence."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le taux d’attaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à un taux d’incidence calculé sur une courte période.",
+        "Il est utile lors d’un épisode épidémique.",
+        "Il peut être utilisé après une exposition ponctuelle.",
+        "Son dénominateur est le nombre total de cas observés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le taux d’attaque est un taux d’incidence de courte période, utile en contexte épidémique ou après exposition ponctuelle. Le dénominateur est la population exposée au début de la période."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’étude d’une exposition suspecte, quelles propositions décrivent correctement les taux spécifiques de maladie selon l’exposition ?",
+      "choices": [
+        "Le taux chez les exposés rapporte les malades exposés au nombre total de sujets exposés.",
+        "Le taux chez les non-exposés rapporte les malades non exposés au nombre total de sujets non exposés.",
+        "Ces taux permettent d’identifier une association entre exposition et maladie.",
+        "Le même dénominateur global doit être utilisé pour les exposés et les non-exposés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les taux spécifiques comparent séparément les malades parmi les exposés et les non-exposés. Ils permettent de rechercher une association entre exposition et survenue de la maladie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’utilisation du nombre absolu de cas en morbidité, quelles propositions sont justes ?",
+      "choices": [
+        "Il peut être utile pour la gestion des ressources.",
+        "Il permet à lui seul de comparer correctement des populations dans le temps.",
+        "Il doit être rapporté à la population exposée pour permettre une comparaison correcte.",
+        "Il ne tient pas compte de la taille de la population concernée lorsqu’il est utilisé seul."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le nombre absolu de cas est utile en gestion, mais il ne permet pas une comparaison correcte sans rapport à la population exposée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une population stable, quelles situations sont compatibles avec la relation entre incidence et prévalence décrite dans le texte ?",
+      "choices": [
+        "Une maladie de longue durée tend à augmenter la prévalence.",
+        "Un traitement prolongeant la survie peut augmenter la prévalence sans augmenter l’incidence.",
+        "Une incidence stable impose toujours une prévalence stable, quelle que soit la durée de la maladie.",
+        "Une diminution de la durée moyenne de la maladie tend à diminuer la prévalence si l’incidence reste stable."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Dans une population stable : prévalence = incidence × durée moyenne. Une durée plus longue augmente la prévalence ; une durée plus courte la diminue. Un traitement prolongeant la survie peut donc augmenter la prévalence sans modifier l’incidence."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la prévalence mesurée dans une enquête transversale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut inclure des cas anciens.",
+        "Elle peut inclure des cas nouveaux.",
+        "Elle correspond à une photographie de l’état morbide d’une population.",
+        "Elle mesure uniquement la vitesse d’apparition des nouveaux cas."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prévalence inclut les anciens et les nouveaux cas présents à un moment donné ou sur un intervalle. Elle est statique, contrairement à l’incidence qui mesure l’apparition de nouveaux cas."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les notions d’endémie et d’épidémie, quelles propositions sont exactes ?",
+      "choices": [
+        "Une endémie correspond à la présence habituelle d’une maladie dans une zone géographique donnée.",
+        "Une épidémie correspond à une augmentation inhabituelle du nombre de cas.",
+        "La définition d’une épidémie implique une population, un lieu et une période donnés.",
+        "Une endémie correspond nécessairement à une augmentation brutale du nombre de cas."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’endémie est une présence habituelle dans une zone. L’épidémie est une augmentation inhabituelle du nombre de cas dans une population, un lieu et une période donnés."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels événements entrent dans le numérateur du taux de mortalité infantile ?",
+      "choices": [
+        "Décès d’un nourrisson âgé de 3 mois pendant l’année.",
+        "Décès d’un enfant âgé de 10 mois pendant l’année.",
+        "Mort-né enregistré pendant l’année.",
+        "Décès d’un enfant âgé de 14 mois pendant l’année."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La mortalité infantile concerne les décès chez les enfants de moins d’un an. Les morts-nés ne sont pas des décès d’enfants de moins d’un an nés vivants, et les décès après un an ne sont pas inclus."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une cohorte de 1 000 sujets non malades au début du suivi, tous suivis pendant un an, 80 nouveaux cas surviennent. Quelle est l’incidence cumulée ?",
+      "choices": [
+        "0,008",
+        "0,08",
+        "8 cas par personne-année",
+        "80 %"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Incidence cumulée = 80 / 1 000 = 0,08, soit 8 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Une étude observe 15 nouveaux cas pour 750 personnes-années à risque. Quel est le taux d’incidence ?",
+      "choices": [
+        "0,02 cas par personne-année",
+        "0,2 cas par personne-année",
+        "2 cas par personne-année",
+        "20 cas par personne-année"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Taux d’incidence = 15 / 750 = 0,02 cas par personne-année, soit 2 cas pour 100 personnes-années."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors d’une toxi-infection alimentaire collective, 18 cas sont observés parmi 60 personnes ayant consommé l’aliment suspect. Quel est le taux d’attaque exprimé pour 100 exposés ?",
+      "choices": [
+        "18 %",
+        "25 %",
+        "30 %",
+        "60 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Taux d’attaque = 18 / 60 × 100 = 30 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Une maternité enregistre 12 morts-nés, 6 décès pendant la première semaine de vie et 588 naissances vivantes. Quel est le taux de mortalité périnatale ?",
+      "choices": [
+        "10 pour 1 000",
+        "20 pour 1 000",
+        "30 pour 1 000",
+        "40 pour 1 000"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Taux de mortalité périnatale = (12 + 6) / (12 + 588) × 1 000 = 18 / 600 × 1 000 = 30 pour 1 000."
+    },
+    {
+      "type": "QCS",
+      "question": "Une maladie compte 45 cas diagnostiqués pendant une période donnée, dont 9 décès dus à cette maladie. Quel est le taux de létalité ?",
+      "choices": [
+        "9 %",
+        "20 %",
+        "45 %",
+        "80 %"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Taux de létalité = 9 / 45 × 100 = 20 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une ville, le nombre de cas d’une maladie augmente de façon inhabituelle pendant un mois par rapport à la situation habituelle. Quelle notion correspond le mieux à cette situation ?",
+      "choices": [
+        "Prévalence",
+        "Endémie",
+        "Épidémie",
+        "Létalité"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une épidémie correspond à une augmentation inhabituelle du nombre de cas dans une population, un lieu et une période donnés."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour exploiter strictement l’expression « plusieurs pays ou continents » dans une description épidémiologique, quelles variables peuvent être directement pertinentes ?",
+      "choices": [
+        "Le nombre de pays concernés",
+        "Le nombre de continents concernés",
+        "Le nombre de services hospitaliers concernés",
+        "Le nom de l’agent causal"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’extrait renseigne uniquement une extension géographique exprimée en pays ou en continents. Il ne mentionne ni structure hospitalière ni agent causal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations satisfont logiquement l’expression « plusieurs pays ou continents » sans ajouter d’autre condition ?",
+      "choices": [
+        "Une situation concernant au moins deux pays",
+        "Une situation concernant au moins deux continents",
+        "Une situation concernant un seul pays uniquement",
+        "Une situation concernant un seul établissement de soins"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le mot « plusieurs » implique plus d’un élément. L’expression peut donc être satisfaite par plusieurs pays ou par plusieurs continents."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le terme « plusieurs » dans l’extrait, quelles interprétations sont correctes ?",
+      "choices": [
+        "Il exclut l’idée d’un seul pays lorsque l’on parle de pays",
+        "Il exclut l’idée d’un seul continent lorsque l’on parle de continents",
+        "Il fixe un nombre exact de pays",
+        "Il signifie nécessairement tous les continents"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "« Plusieurs » indique une pluralité, sans préciser un nombre exact et sans signifier la totalité."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles précisions ne sont pas apportées par l’expression « plusieurs pays ou continents » ?",
+      "choices": [
+        "La durée du phénomène",
+        "La gravité clinique du phénomène",
+        "Le nombre exact de pays concernés",
+        "La cause du phénomène"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’extrait ne donne qu’une indication géographique générale. Il ne précise ni durée, ni gravité, ni cause, ni nombre exact."
+    },
+    {
+      "type": "QCM",
+      "question": "Si l’on formalise l’expression par deux critères, « pays concernés » et « continents concernés », quelles propositions sont justes ?",
+      "choices": [
+        "Le critère peut être rempli par une pluralité de pays",
+        "Le critère peut être rempli par une pluralité de continents",
+        "La pluralité des pays et la pluralité des continents sont obligatoirement simultanées",
+        "Un seul pays suffit toujours à remplir le critère"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La formulation utilise une alternative : plusieurs pays ou plusieurs continents. Elle n’impose pas que les deux conditions soient simultanément remplies."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une lecture strictement fidèle à l’extrait, quelles situations ne permettent pas d’affirmer à elles seules une extension conforme à « plusieurs pays ou continents » ?",
+      "choices": [
+        "Un seul pays concerné",
+        "Un seul continent concerné",
+        "Une seule ville concernée",
+        "Une localisation géographique non renseignée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Aucune de ces situations ne démontre explicitement une pluralité de pays ou une pluralité de continents."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles reformulations constituent des ajouts ou déformations par rapport à « plusieurs pays ou continents » ?",
+      "choices": [
+        "Plusieurs pays voisins",
+        "Tous les continents",
+        "Plusieurs pays avec forte mortalité",
+        "Plusieurs pays pendant une période déterminée"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’extrait ne précise ni voisinage, ni totalité des continents, ni mortalité, ni période."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles reformulations restent compatibles avec le contenu explicite de l’extrait ?",
+      "choices": [
+        "Plus d’un pays",
+        "Plus d’un continent",
+        "Un seul pays",
+        "Une seule région sanitaire"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "« Plusieurs » correspond à plus d’un élément. L’extrait ne parle ni d’un seul pays ni d’une seule région sanitaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles relations entre les pays et les continents restent non précisées par l’extrait ?",
+      "choices": [
+        "Les pays concernés appartiennent-ils au même continent ?",
+        "Les continents concernés sont-ils entièrement touchés ?",
+        "Les pays concernés sont-ils limitrophes ?",
+        "Le nombre exact de territoires concernés est-il connu ?"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’extrait mentionne seulement une pluralité de pays ou de continents, sans détail sur leur répartition, leur contiguïté ou leur nombre exact."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles conclusions peuvent être soutenues uniquement par la formulation « plusieurs pays ou continents » ?",
+      "choices": [
+        "L’information concerne une extension géographique",
+        "La pluralité peut porter sur des pays",
+        "La pluralité peut porter sur des continents",
+        "Le phénomène est nécessairement limité à un seul territoire national"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La formulation porte sur l’étendue géographique et admet une pluralité de pays ou de continents. Elle n’indique pas une limitation à un seul pays."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour classer une observation comme conforme à l’extrait, quelles règles de décision sont acceptables ?",
+      "choices": [
+        "Classer conforme si au moins deux pays sont concernés",
+        "Classer conforme si au moins deux continents sont concernés",
+        "Classer conforme uniquement si tous les continents sont concernés",
+        "Classer conforme si un seul pays est concerné"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’extrait exige une pluralité, soit de pays, soit de continents. Il n’exige pas la totalité des continents et ne se satisfait pas d’un seul pays."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelle lecture logique de la négation de « plusieurs pays ou continents » est correcte ?",
+      "choices": [
+        "Il n’y a pas plusieurs pays concernés",
+        "Il n’y a pas plusieurs continents concernés",
+        "Il y a obligatoirement plusieurs pays concernés",
+        "Il y a obligatoirement plusieurs continents concernés"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La négation d’une alternative impose de nier chacune des deux branches : ni plusieurs pays, ni plusieurs continents."
+    },
+    {
+      "type": "QCM",
+      "question": "Si une information mentionne uniquement plusieurs pays concernés, quelles conclusions sont correctes au regard de l’extrait ?",
+      "choices": [
+        "La branche « plusieurs pays » est satisfaite",
+        "Il n’est pas nécessaire de démontrer aussi plusieurs continents",
+        "On peut affirmer automatiquement que tous les continents sont concernés",
+        "On peut déduire la durée du phénomène"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La mention de plusieurs pays suffit pour correspondre à l’une des branches de l’expression. Elle ne permet pas d’inférer la totalité des continents ni la durée."
+    },
+    {
+      "type": "QCM",
+      "question": "Si une information mentionne uniquement plusieurs continents concernés, quelles conclusions sont correctes selon l’extrait ?",
+      "choices": [
+        "La branche « plusieurs continents » est satisfaite",
+        "L’expression peut être considérée comme respectée",
+        "Le nombre exact de pays concernés est donné",
+        "La cause sanitaire est identifiée"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Plusieurs continents correspondent à l’une des possibilités explicitement formulées. Le nombre de pays et la cause ne sont pas indiqués."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le nombre minimal de pays permettant de respecter l’expression « plusieurs pays » ?",
+      "choices": [
+        "Un pays",
+        "Deux pays",
+        "Dix pays exactement",
+        "Tous les pays"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "« Plusieurs » signifie plus d’un ; le minimum logique est donc deux."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition résume le plus fidèlement l’information contenue dans « plusieurs pays ou continents » ?",
+      "choices": [
+        "Une extension géographique exprimée en pays ou en continents",
+        "Une transmission interhumaine prouvée",
+        "Une létalité élevée",
+        "Une durée prolongée"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’extrait fournit uniquement une information d’étendue géographique, sans indication sur la transmission, la létalité ou la durée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formulation ajoute clairement une précision absente de l’extrait ?",
+      "choices": [
+        "Plusieurs pays",
+        "Plusieurs continents",
+        "Plus d’un pays",
+        "Plusieurs pays frontaliers"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le caractère frontalier des pays n’est pas mentionné dans l’extrait."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle donnée peut être directement dérivée de l’extrait pour une fiche de surveillance ?",
+      "choices": [
+        "Présence d’une extension à plusieurs pays ou continents",
+        "Taux de mortalité spécifique",
+        "Incidence cumulée",
+        "Durée moyenne d’évolution clinique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’extrait ne fournit qu’une information géographique générale. Les indicateurs de mortalité, d’incidence ou de durée ne sont pas renseignés."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affirmation est incompatible avec le sens strict de « plusieurs pays ou continents » ?",
+      "choices": [
+        "Au moins deux pays peuvent être concernés",
+        "Au moins deux continents peuvent être concernés",
+        "Un seul pays suffit nécessairement à respecter l’expression",
+        "Le nombre exact de pays n’est pas précisé"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Un seul pays ne correspond pas à « plusieurs pays ». L’extrait ne fixe pas de nombre exact."
+    },
+    {
+      "type": "QCS",
+      "question": "Si un phénomène concerne exactement deux pays, quelle interprétation est la plus correcte par rapport à l’extrait ?",
+      "choices": [
+        "Il correspond à l’idée de plusieurs pays",
+        "Il impose que plusieurs continents soient concernés",
+        "Il prouve que tous les continents sont touchés",
+        "Il renseigne la sévérité clinique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Deux pays constituent une pluralité de pays. Cela ne renseigne ni plusieurs continents, ni tous les continents, ni la sévérité clinique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le choix du dénominateur dans les indicateurs présentés, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans la structure générale d’un indicateur, le dénominateur peut être la taille de la population concernée.",
+        "Dans un taux, le dénominateur correspond à la population exposée au risque pendant la période étudiée.",
+        "Dans le taux brut de fécondité, le dénominateur est le nombre de femmes en âge de procréer, généralement de 15 à 49 ans.",
+        "Dans la mortalité proportionnelle, le dénominateur est la population totale au milieu de l’année."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le dénominateur peut être la population concernée ou exposée au risque. Le taux brut de fécondité utilise les femmes en âge de procréer. La mortalité proportionnelle rapporte les décès dus à une cause au nombre total de décès, et non à la population totale."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du caractère statique ou dynamique des outils de calcul, quelles propositions sont justes ?",
+      "choices": [
+        "La proportion est une mesure statique.",
+        "Le ratio est une mesure statique définie à un instant donné.",
+        "Le taux est une mesure dynamique qui prend en compte le temps.",
+        "Le taux ne mesure jamais la variation d’un phénomène au cours du temps."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La proportion et le ratio sont statiques. Le taux est dynamique, intègre le temps et mesure la variation d’un phénomène au cours du temps."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’intervention du temps dans les indicateurs décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans un ratio, le temps n’intervient pas directement.",
+        "Un taux se définit dans une population donnée pendant une période donnée.",
+        "Dans la formule générale d’un rapport, x et y peuvent être observés à un temps donné.",
+        "Dans la formule générale d’un rapport, x et y peuvent être observés pendant une période donnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que le ratio ne fait pas intervenir directement le temps. Le taux est lié à une période. Pour un rapport, x et y peuvent être des événements observés à un temps donné ou pendant une période."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les populations utilisées dans les formules de mortalité et de natalité, quelles propositions sont exactes ?",
+      "choices": [
+        "Le taux brut de natalité utilise la population moyenne de l’année au dénominateur.",
+        "Le taux brut de mortalité utilise la population moyenne de l’année au dénominateur.",
+        "Le taux de mortalité spécifique selon l’âge utilise la population du même groupe d’âge au milieu de l’année.",
+        "Le taux de mortalité spécifique selon le sexe utilise la population totale de tous les sexes au milieu de l’année."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les taux bruts de natalité et de mortalité utilisent la population moyenne annuelle. Les taux spécifiques utilisent la population du même groupe concerné, par exemple le même âge ou le même sexe."
+    },
+    {
+      "type": "QCM",
+      "question": "Quel rôle peuvent jouer les naissances vivantes dans les indicateurs cités ?",
+      "choices": [
+        "Elles constituent le numérateur du taux brut de natalité.",
+        "Elles constituent le numérateur du taux brut de fécondité.",
+        "Elles interviennent dans le calcul de l’accroissement naturel.",
+        "Elles constituent le numérateur du taux brut de mortalité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les naissances vivantes sont au numérateur du taux brut de natalité et du taux brut de fécondité, et elles interviennent dans l’accroissement naturel : naissances vivantes moins décès."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les indicateurs de santé cités, lesquels relèvent des indicateurs d’état ?",
+      "choices": [
+        "Les indicateurs démographiques.",
+        "Les indicateurs épidémiologiques.",
+        "Les indicateurs de production.",
+        "Les indicateurs de moyens."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les indicateurs d’état comprennent les indicateurs démographiques et épidémiologiques. Les indicateurs de production et de moyens sont des catégories distinctes."
+    },
+    {
+      "type": "QCM",
+      "question": "Les indicateurs démographiques permettent d’identifier des sous-groupes particuliers selon quels critères explicitement cités ?",
+      "choices": [
+        "L’âge.",
+        "Le sexe.",
+        "Le lieu de résidence.",
+        "L’éducation ou certaines habitudes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite l’âge, le sexe, le lieu de résidence, l’éducation et certaines habitudes comme critères permettant d’identifier des sous-groupes particuliers."
+    },
+    {
+      "type": "QCM",
+      "question": "Les taux spécifiques de mortalité permettent des comparaisons plus précises selon quels critères mentionnés ?",
+      "choices": [
+        "L’âge.",
+        "Le sexe.",
+        "La cause.",
+        "Le niveau d’équipement sanitaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les critères explicitement cités sont l’âge, le sexe, la cause et le lieu. Le niveau d’équipement sanitaire n’est pas mentionné dans cette liste."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles causes sont explicitement données comme exemples pour la mortalité spécifique selon la cause ?",
+      "choices": [
+        "Le cancer.",
+        "Les maladies cardiovasculaires.",
+        "La bronchite chronique.",
+        "L’infarctus du myocarde."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme exemples de causes : cancer, maladies cardiovasculaires, bronchite chronique et infarctus du myocarde."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le taux de mortalité spécifique selon la cause et la mortalité proportionnelle, quelles propositions sont exactes ?",
+      "choices": [
+        "Le taux de mortalité spécifique selon la cause utilise les décès attribuables à une cause donnée au numérateur.",
+        "Le taux de mortalité spécifique selon la cause utilise la population totale au milieu de l’année au dénominateur.",
+        "La mortalité proportionnelle utilise le nombre total de décès au dénominateur.",
+        "La mortalité proportionnelle utilise le nombre total de cas diagnostiqués comme dénominateur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le taux spécifique selon la cause rapporte les décès dus à une cause à la population totale au milieu de l’année. La mortalité proportionnelle rapporte les décès dus à une cause au nombre total de décès."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la construction des taux décrits, quelles propositions concernant la population à risque sont correctes ?",
+      "choices": [
+        "La formule générale d’un taux utilise la population exposée au risque pendant la période.",
+        "Pour un taux spécifique selon l’âge, la population du même groupe d’âge est utilisée au dénominateur.",
+        "Pour un taux spécifique selon le sexe, la population du même sexe est utilisée au dénominateur.",
+        "Pour un taux spécifique selon le sexe féminin, le dénominateur doit être l’ensemble de la population masculine et féminine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un taux doit utiliser la population exposée au risque. Les taux spécifiques utilisent la population du même groupe que celui étudié : âge ou sexe."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les unités ou coefficients d’expression des indicateurs, quelles propositions sont exactes ?",
+      "choices": [
+        "Une proportion est sans unité et peut être exprimée en pourcentage.",
+        "Le taux brut de natalité s’exprime en naissances vivantes pour 1 000 habitants.",
+        "Le taux de mortalité spécifique selon la cause est exprimé pour 100 000 habitants.",
+        "Un ratio est obligatoirement exprimé en pourcentage."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La proportion est sans unité et souvent exprimée en pourcentage. Le taux brut de natalité est pour 1 000 habitants. Le taux spécifique selon la cause est donné pour 100 000. Le ratio n’est pas obligatoirement un pourcentage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’utilisation d’un indicateur de santé comme outil d’aide à la décision, quelles propositions sont justes ?",
+      "choices": [
+        "Il décrit quantitativement un élément de situation de l’état de santé d’une population.",
+        "Il peut décrire une évolution de l’état de santé d’une population.",
+        "Il doit être interprété avec sa définition précise.",
+        "Il peut être interprété correctement sans tenir compte du contexte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un indicateur de santé est quantitatif, décrit une situation ou une évolution, et doit être interprété avec sa définition précise et son contexte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le coefficient multiplicateur k dans les rapports et les taux, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être égal à 1, 100, 1 000, 10 000 ou 100 000 selon l’ordre de grandeur.",
+        "Il est choisi pour faciliter l’expression et la lecture de l’indicateur.",
+        "Il est toujours fixé à 100 quel que soit l’indicateur.",
+        "Il vaut 1 000 dans la formule du taux brut de mortalité."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le coefficient k varie selon l’ordre de grandeur. Il n’est pas toujours égal à 100. Pour le taux brut de mortalité, le coefficient indiqué est 1 000."
+    },
+    {
+      "type": "QCS",
+      "question": "Une population compte 150 000 femmes en âge de procréer et enregistre 4 500 naissances vivantes pendant l’année. Quel est le taux brut de fécondité ?",
+      "choices": [
+        "3 pour 1 000 femmes en âge de procréer.",
+        "30 pour 1 000 femmes en âge de procréer.",
+        "300 pour 1 000 femmes en âge de procréer.",
+        "4,5 pour 1 000 femmes en âge de procréer."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "TBF = 4 500 / 150 000 × 1 000 = 30 naissances vivantes pour 1 000 femmes en âge de procréer."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le taux brut de fécondité, quel dénominateur doit être utilisé selon le texte ?",
+      "choices": [
+        "La population moyenne totale de l’année.",
+        "Le nombre total de décès pendant l’année.",
+        "Le nombre de femmes en âge de procréer, généralement de 15 à 49 ans.",
+        "Le nombre total de naissances vivantes déclarées."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le taux brut de fécondité rapporte les naissances vivantes au nombre de femmes en âge de procréer, généralement de 15 à 49 ans."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel indicateur correspond à la différence entre les naissances vivantes et les décès pendant une année dans une population ?",
+      "choices": [
+        "Le taux brut de natalité.",
+        "L’accroissement naturel.",
+        "Le taux brut de mortalité.",
+        "L’espérance de vie à la naissance."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’accroissement naturel est défini par : naissances vivantes moins décès pendant une année dans une population."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la formule du taux de mortalité spécifique selon la cause, quel coefficient multiplicateur est indiqué ?",
+      "choices": [
+        "100.",
+        "1 000.",
+        "10 000.",
+        "100 000."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le taux de mortalité spécifique selon la cause est formulé avec un coefficient multiplicateur de 100 000."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le taux brut de mortalité, que représente le numérateur ?",
+      "choices": [
+        "Le nombre total de décès pendant l’année.",
+        "Le nombre de décès dus à une cause donnée uniquement.",
+        "Le nombre de décès dans un seul groupe d’âge.",
+        "Le nombre de naissances vivantes pendant l’année."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le taux brut de mortalité utilise au numérateur le nombre total de décès pendant l’année, toutes classes d’âge et causes confondues."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à un indicateur de production ?",
+      "choices": [
+        "Le nombre de séjours.",
+        "Le nombre d’hommes rapporté au nombre de femmes.",
+        "L’espérance de vie à la naissance.",
+        "La répartition de la population selon l’âge et le sexe."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les indicateurs de production incluent le nombre de consultations et le nombre de séjours."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la mortalité proportionnelle par cause, quelles propositions sont exactes ?",
+      "choices": [
+        "Le numérateur correspond aux décès dus à une cause ou à un groupe de causes.",
+        "Le dénominateur correspond au nombre total de décès.",
+        "L’indicateur s’exprime en pourcentage.",
+        "Il mesure directement le risque de mourir parmi les malades atteints de cette cause."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mortalité proportionnelle rapporte les décès dus à une cause au total des décès, multiplié par 100. Le risque de mourir parmi les malades correspond au taux de létalité."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les indicateurs de mortalité liés à l’enfant et à la maternité, quels couples numérateur-dénominateur sont conformes au texte ?",
+      "choices": [
+        "Mortalité infantile : décès des enfants de moins d’un an / naissances vivantes de l’année.",
+        "Mortalité périnatale : morts-nés et décès de la première semaine / morts-nés et naissances vivantes.",
+        "Mortalité juvénile : décès des moins de 5 ans / population totale des enfants de moins de 5 ans.",
+        "Mortalité maternelle : décès pendant la grossesse, l’accouchement ou les 42 jours suivant l’accouchement / naissances vivantes."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Selon le texte, la mortalité infantile, périnatale et maternelle utilisent respectivement ces dénominateurs. La mortalité juvénile est rapportée aux naissances vivantes de l’année, et non à la population des moins de 5 ans."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la classification des décès de l’enfant, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "La mortalité périnatale inclut les morts-nés.",
+        "La mortalité néonatale tardive correspond à la période de 7 à 28 jours.",
+        "La mortalité post-néonatale commence pendant la première semaine de vie.",
+        "La mortalité juvénile concerne les enfants de moins de cinq ans."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La mortalité périnatale comprend les morts-nés et les décès de la première semaine. La mortalité post-néonatale est définie de 28 jours à 1 an."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer la létalité de la mortalité proportionnelle, quelles propositions sont justes ?",
+      "choices": [
+        "La létalité rapporte les décès dus à une maladie au nombre de cas de cette maladie.",
+        "La mortalité proportionnelle rapporte les décès dus à une cause au nombre total de décès.",
+        "Les deux indicateurs peuvent être exprimés en pourcentage.",
+        "La létalité évalue la part d’une cause dans la mortalité générale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La létalité mesure le risque de mourir parmi les malades et la gravité de la maladie. La part d’une cause dans la mortalité générale relève de la mortalité proportionnelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le nombre absolu de cas en morbidité, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être utile pour la gestion des ressources.",
+        "Il suffit à comparer correctement des populations dans l’espace.",
+        "Il doit être rapporté à la population exposée pour permettre une comparaison correcte.",
+        "Il remplace les indicateurs de fréquence comme la prévalence et l’incidence."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le nombre absolu de cas est utile pour planifier les ressources, mais il ne permet pas à lui seul des comparaisons valides dans le temps ou l’espace."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prévalence, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être mesurée à un instant donné ou pendant un intervalle de temps donné.",
+        "Elle inclut à la fois les anciens cas et les nouveaux cas.",
+        "Elle est particulièrement utile pour les maladies chroniques.",
+        "Elle ne prend en compte que les personnes non malades au début de la période."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prévalence est une proportion de cas existants dans une population. La restriction aux non-malades au début concerne l’incidence."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une population stable avec incidence inchangée, quelles situations peuvent modifier la prévalence d’une maladie ?",
+      "choices": [
+        "Un traitement qui prolonge la survie des malades.",
+        "Une guérison plus rapide des cas.",
+        "Une mortalité plus élevée parmi les malades.",
+        "La disparition du besoin de préciser la population étudiée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prévalence dépend notamment de la durée de la maladie, de la guérison et de la mortalité. Le texte insiste aussi sur le fait qu’elle doit être rapportée à une population étudiée."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour calculer correctement une incidence, quelles conditions doivent être respectées ?",
+      "choices": [
+        "Les cas déjà malades au début de la période ne doivent pas produire de nouveaux cas dans le calcul.",
+        "Les personnes du dénominateur doivent être exposées au risque.",
+        "La période d’observation doit toujours être précisée.",
+        "Les anciens cas doivent être additionnés aux nouveaux cas au numérateur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’incidence quantifie la production de nouveaux cas chez les sujets initialement non malades et à risque pendant une période donnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’utilisation des personnes-temps dans le taux d’incidence, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est adaptée lorsque les durées de suivi diffèrent entre les sujets.",
+        "Le dénominateur correspond à la somme des personnes-temps à risque.",
+        "L’unité peut être exprimée en cas par personne-année.",
+        "Le résultat est nécessairement une probabilité comprise entre 0 et 1."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le taux d’incidence mesure une vitesse de survenue, exprimable par personne-jour, personne-mois ou personne-année. La probabilité entre 0 et 1 correspond à l’incidence cumulée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’incidence cumulée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle mesure le risque de développer une maladie pendant une période donnée.",
+        "Son dénominateur est le nombre de personnes à risque au début de la période.",
+        "Elle suppose que les personnes soient suivies pendant toute la période d’étude.",
+        "Elle utilise comme dénominateur la somme des personnes-temps à risque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’incidence cumulée est une mesure de risque et non une vitesse. Le dénominateur en personnes-temps appartient au taux d’incidence."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le taux d’attaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à un taux d’incidence calculé sur une courte période.",
+        "Il est utile lors d’une exposition ponctuelle ou d’un épisode épidémique.",
+        "Le dénominateur est la population exposée au début de la période d’observation.",
+        "Il se calcule en rapportant les cas au nombre total de décès."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le taux d’attaque est utilisé pour des situations brèves, notamment épidémiques ou après exposition ponctuelle. Il ne repose pas sur les décès."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des taux spécifiques de maladie selon l’exposition, quelles propositions sont exactes ?",
+      "choices": [
+        "Le taux chez les exposés rapporte les malades exposés au nombre total de sujets exposés.",
+        "Le taux chez les non-exposés rapporte les malades non exposés au nombre total de sujets non exposés.",
+        "Ces taux permettent d’identifier une association entre exposition et maladie.",
+        "Les deux taux utilisent obligatoirement la population totale étudiée comme dénominateur commun."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte définit deux taux séparés selon le statut d’exposition. Leur comparaison permet d’identifier une association."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les notions d’endémie et d’épidémie, quelles propositions sont exactes ?",
+      "choices": [
+        "Une endémie correspond à la présence habituelle d’une maladie dans une zone géographique donnée.",
+        "Une épidémie correspond à une augmentation inhabituelle du nombre de cas.",
+        "La définition d’épidémie précise une population, un lieu et une période donnés.",
+        "Une endémie est définie par une augmentation brutale du nombre de décès."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’endémie renvoie à une présence habituelle dans une zone. L’épidémie implique une augmentation inhabituelle du nombre de cas dans une population, un lieu et une période donnés."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon la définition du taux de mortalité maternelle, quels décès peuvent entrer dans le numérateur ?",
+      "choices": [
+        "Décès d’une femme pendant la grossesse.",
+        "Décès d’une femme pendant l’accouchement.",
+        "Décès d’une femme dans les 42 jours suivant l’accouchement.",
+        "Décès d’une femme six mois après l’accouchement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte limite le numérateur aux décès pendant la grossesse, l’accouchement ou dans les 42 jours suivant l’accouchement."
+    },
+    {
+      "type": "QCS",
+      "question": "Une population enregistre 240 décès par cardiopathie sur 1 200 décès toutes causes confondues. Quelle est la mortalité proportionnelle par cardiopathie ?",
+      "choices": [
+        "10 %",
+        "20 %",
+        "40 %",
+        "120 %"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Mortalité proportionnelle = 240 / 1 200 × 100 = 20 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Une année donnée, 72 décès d’enfants de moins d’un an sont observés pour 6 000 naissances vivantes. Quel est le taux de mortalité infantile ?",
+      "choices": [
+        "1,2 pour 1 000 naissances vivantes",
+        "12 pour 1 000 naissances vivantes",
+        "72 pour 1 000 naissances vivantes",
+        "120 pour 1 000 naissances vivantes"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Taux de mortalité infantile = 72 / 6 000 × 1 000 = 12 pour 1 000 naissances vivantes."
+    },
+    {
+      "type": "QCS",
+      "question": "Une maternité enregistre 20 morts-nés, 10 décès pendant la première semaine de vie et 980 naissances vivantes. Quel est le taux de mortalité périnatale ?",
+      "choices": [
+        "10 pour 1 000",
+        "20 pour 1 000",
+        "30 pour 1 000",
+        "50 pour 1 000"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Taux de mortalité périnatale = (20 + 10) / (20 + 980) × 1 000 = 30 pour 1 000."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une région, 9 décès maternels sont recensés pendant l’année pour 30 000 naissances vivantes. Quel est le taux de mortalité maternelle ?",
+      "choices": [
+        "3 pour 100 000 naissances vivantes",
+        "9 pour 100 000 naissances vivantes",
+        "30 pour 100 000 naissances vivantes",
+        "300 pour 100 000 naissances vivantes"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Taux de mortalité maternelle = 9 / 30 000 × 100 000 = 30 pour 100 000 naissances vivantes."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors d’une enquête transversale, 180 cas existants d’une maladie chronique sont retrouvés dans une population de 9 000 personnes. Quelle est la prévalence exprimée en pourcentage ?",
+      "choices": [
+        "0,2 %",
+        "2 %",
+        "5 %",
+        "20 %"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Prévalence = 180 / 9 000 × 100 = 2 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une étude d’exposition, 30 malades sont observés parmi 150 sujets exposés. Quel est le taux spécifique de maladie chez les exposés ?",
+      "choices": [
+        "5 %",
+        "10 %",
+        "20 %",
+        "50 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Taux spécifique chez les exposés = 30 / 150 × 100 = 20 %."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la structure grammaticale du segment « plusieurs pays ou continents », quelles propositions sont exactes ?",
+      "choices": [
+        "Il s'agit d'un groupe nominal elliptique plutôt que d'une phrase verbale complète.",
+        "Le segment contient un verbe conjugué permettant d'identifier une action.",
+        "La coordination porte sur deux noms à valeur géographique.",
+        "Le déterminant « plusieurs » confère une valeur plurielle à l'ensemble coordonné."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le segment ne contient pas de verbe conjugué. Il associe deux noms géographiques, « pays » et « continents », sous le déterminant pluriel « plusieurs »."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une lecture épidémiologique stricte du segment fourni, quelles informations peuvent être retenues sans extrapolation ?",
+      "choices": [
+        "Une extension géographique dépassant une unité territoriale unique peut être évoquée.",
+        "La temporalité de propagation est indiquée.",
+        "Les unités mentionnées sont les pays et les continents.",
+        "Les territoires concernés sont identifiés nominativement."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le texte mentionne seulement une pluralité de pays ou de continents. Il ne donne ni date, ni dynamique temporelle, ni noms de territoires."
+    },
+    {
+      "type": "QCM",
+      "question": "À partir du seul segment « plusieurs pays ou continents », quels indicateurs ne peuvent pas être calculés ?",
+      "choices": [
+        "Un taux d'incidence.",
+        "Une prévalence.",
+        "Un taux de létalité.",
+        "Un taux d'attaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Aucun numérateur, aucun dénominateur, aucune période et aucune population à risque ne sont fournis ; aucun de ces indicateurs ne peut donc être calculé."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour coder correctement ce segment dans une base de surveillance, quelles précautions sont justifiées ?",
+      "choices": [
+        "Conserver une modalité qualitative sans la convertir en nombre exact.",
+        "Prévoir une variable permettant de distinguer l'échelle « pays » de l'échelle « continent ».",
+        "Documenter que les noms des territoires ne sont pas fournis.",
+        "Attribuer par défaut la valeur exacte de deux territoires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "« Plusieurs » indique une pluralité non chiffrée. La valeur exacte et l'identité des territoires ne doivent pas être inventées."
+    },
+    {
+      "type": "QCM",
+      "question": "Deux notifications sanitaires utilisent toutes deux uniquement l'expression « plusieurs pays ou continents ». Quelles comparaisons sont impossibles sur cette seule base ?",
+      "choices": [
+        "Déterminer laquelle concerne le plus grand nombre de territoires.",
+        "Comparer la vitesse de diffusion entre les deux notifications.",
+        "Affirmer que chaque notification implique une pluralité territoriale.",
+        "Comparer la gravité clinique des situations décrites."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le segment renseigne seulement une pluralité géographique non chiffrée. Il ne permet pas de comparer l'étendue exacte, la vitesse de diffusion ni la gravité."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles interprétations prudentes sont compatibles avec le segment « plusieurs pays ou continents » ?",
+      "choices": [
+        "Il s'agit d'un descripteur spatial.",
+        "L'agent causal n'est pas précisé.",
+        "Le mode de transmission n'est pas précisé.",
+        "Une transmission autochtone est établie dans chaque territoire concerné."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte donne une information d'étendue géographique. Il ne précise ni agent causal, ni transmission, ni caractère autochtone."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la valeur quantitative portée par « plusieurs », quelles propositions sont justes ?",
+      "choices": [
+        "La pluralité est affirmée, mais l'exhaustivité ne l'est pas.",
+        "« Plusieurs » signifie nécessairement « tous ».",
+        "Le dénombrement exact reste indéterminé.",
+        "Une situation limitée à une seule unité du type considéré ne suffit pas."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "« Plusieurs » signifie plus d'un, sans préciser combien et sans impliquer la totalité."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour rendre l'information exploitable dans une enquête sanitaire, quelles précisions complémentaires seraient pertinentes ?",
+      "choices": [
+        "Le nombre de pays concernés.",
+        "La liste des pays concernés.",
+        "Le nombre de continents concernés.",
+        "Le groupe sanguin des patients."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le segment est géographique ; les précisions utiles portent donc sur les pays ou continents concernés, non sur des caractéristiques individuelles non mentionnées."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles formulations de standardisation respectent le sens du segment sans l'élargir indûment ?",
+      "choices": [
+        "Extension multi-pays, si la branche « pays » est retenue.",
+        "Extension multi-continentale, si la branche « continents » est retenue.",
+        "Extension obligatoirement mondiale.",
+        "Extension limitée à un seul pays."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte autorise une lecture multi-pays ou multi-continentale. Il n'impose ni une extension mondiale ni une limitation à un seul pays."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la nature de l'information fournie, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s'agit d'une information qualitative d'étendue géographique.",
+        "Elle est insuffisante pour construire un taux.",
+        "Elle ne fournit ni numérateur ni dénominateur.",
+        "Elle fournit directement une population à risque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le segment qualifie une extension spatiale mais ne contient aucune donnée quantitative nécessaire au calcul d'un indicateur."
+    },
+    {
+      "type": "QCM",
+      "question": "En traduction médicale ou en harmonisation terminologique, quelles précautions sont correctes ?",
+      "choices": [
+        "« Pays » peut être rendu par « countries » en anglais.",
+        "« Continents » peut être rendu par « continents » en anglais.",
+        "« Plusieurs » ne doit pas être traduit par « all ».",
+        "« Ou » doit toujours être interprété comme une exclusion stricte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les équivalents anglais usuels sont « countries » et « continents ». « Plusieurs » ne signifie pas « tous ». Le texte seul ne permet pas d'imposer une exclusivité stricte du « ou »."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la rédaction d'un résumé épidémiologique fondé uniquement sur ce segment, quelles affirmations restent acceptables ?",
+      "choices": [
+        "Des territoires multiples sont évoqués à l'échelle des pays ou des continents.",
+        "L'agent pathogène responsable est identifié.",
+        "Les noms des territoires concernés ne sont pas fournis.",
+        "La durée d'évolution n'est pas indiquée."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte mentionne seulement une pluralité géographique. Il ne donne ni agent causal, ni liste de territoires, ni durée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la granularité géographique des termes employés, quelles propositions sont exactes ?",
+      "choices": [
+        "« Pays » et « continents » ne correspondent pas au même niveau de granularité.",
+        "Le segment ne précise pas les relations d'inclusion entre les pays et les continents évoqués.",
+        "Le segment ne permet pas de savoir quels pays appartiennent à quels continents.",
+        "Le segment affirme que tous les pays de tous les continents sont concernés."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte juxtapose deux niveaux géographiques, sans détailler leurs relations ni affirmer une atteinte exhaustive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les éléments textuels visibles dans « plusieurs pays ou continents. », quelles propositions sont exactes ?",
+      "choices": [
+        "Le segment se termine par un point.",
+        "Le segment contient une virgule.",
+        "Le premier mot commence par une majuscule.",
+        "Le segment contient deux noms communs géographiques."
+      ],
+      "answers": [
+        0,
+        3
+      ],
+      "explanation": "Le segment se termine par un point et contient les noms « pays » et « continents ». Il ne comporte pas de virgule et commence par une minuscule."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la meilleure caractérisation syntaxique du segment « plusieurs pays ou continents » ?",
+      "choices": [
+        "Un groupe nominal coordonné elliptique.",
+        "Une phrase verbale complète.",
+        "Une interrogation directe.",
+        "Une définition étiologique complète."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le segment est un groupe nominal coordonné, sans verbe ni structure de phrase complète."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mot du segment porte directement l'idée d'une quantité non exacte mais supérieure à l'unité ?",
+      "choices": [
+        "Pays.",
+        "Ou.",
+        "Continents.",
+        "Plusieurs."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le mot « plusieurs » exprime une pluralité sans nombre exact."
+    },
+    {
+      "type": "QCS",
+      "question": "Si une fiche de surveillance exige le nombre exact de pays concernés, quelle attitude est la plus correcte à partir du seul segment fourni ?",
+      "choices": [
+        "Inscrire automatiquement 2.",
+        "Inscrire automatiquement 5.",
+        "Considérer la donnée comme non précisée et demander une clarification.",
+        "Remplacer la donnée par le nombre de continents."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le segment indique une pluralité mais ne donne aucun chiffre exact ; il faut donc coder l'information comme non précisée ou demander une précision."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle catégorie d'information est principalement fournie par « plusieurs pays ou continents » ?",
+      "choices": [
+        "Une information biologique individuelle.",
+        "Une information thérapeutique.",
+        "Une information qualitative d'étendue géographique.",
+        "Une mesure de mortalité."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le segment renseigne une étendue géographique de façon qualitative, sans donnée biologique, thérapeutique ou de mortalité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle reformulation est la plus clairement incompatible avec la pluralité exprimée par le segment ?",
+      "choices": [
+        "Des pays ou des continents en nombre non précisé.",
+        "Au moins deux pays ou au moins deux continents.",
+        "Un seul pays ou un seul continent.",
+        "Plus d'une unité géographique de type pays ou continent."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "« Un seul » contredit directement l'idée de pluralité contenue dans « plusieurs »."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une alerte épidémiologique, quelle vérification est prioritaire pour opérationnaliser ce segment ?",
+      "choices": [
+        "Déterminer si la pluralité concerne les pays, les continents, ou les deux.",
+        "Calculer immédiatement un taux de létalité.",
+        "Identifier la posologie du traitement.",
+        "Classer les patients selon leur groupe sanguin."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le segment est ambigu sur l'échelle exacte concernée. Il faut d'abord préciser si l'information porte sur plusieurs pays, plusieurs continents, ou les deux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition générale d’un indicateur de santé, quelles propositions sont exactes ?",
+      "choices": [
+        "Il décrit quantitativement un élément de situation de l’état de santé d’une population.",
+        "Il peut décrire une évolution de l’état de santé d’une population.",
+        "Il constitue un outil d’aide à la décision.",
+        "Il remplace l’analyse du contexte lorsqu’il est calculé correctement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un indicateur de santé est une variable quantitative décrivant une situation ou une évolution de santé populationnelle. Il aide à la décision mais doit être interprété avec sa définition et son contexte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles qualités sont attendues d’un bon indicateur de santé selon le texte ?",
+      "choices": [
+        "Être simple, opérationnel, crédible et acceptable.",
+        "Être validé et pertinent.",
+        "Être fiable, précis et reproductible.",
+        "Être complexe afin de limiter les erreurs d’interprétation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les qualités citées sont notamment la simplicité, l’opérationnalité, la crédibilité, l’acceptabilité, la validation, la pertinence, la fiabilité, la précision et la reproductibilité."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la structure d’un indicateur de santé, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le numérateur correspond à un nombre de cas ou d’événements observés.",
+        "Le dénominateur correspond à la taille de la population concernée ou exposée au risque.",
+        "Le dénominateur peut être une population exposée au risque selon l’indicateur.",
+        "Le numérateur doit toujours être une population totale au milieu de l’année."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le numérateur est le nombre de cas ou d’événements observés ; le dénominateur est la population concernée ou exposée au risque. Il n’est pas toujours une population totale au milieu de l’année."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les principaux outils de calcul des indicateurs de santé, quels éléments sont explicitement cités ?",
+      "choices": [
+        "Rapport.",
+        "Proportion.",
+        "Taux.",
+        "Médiane."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les outils cités sont le rapport, la proportion, le taux, le ratio et l’indice. La médiane n’est pas mentionnée parmi ces outils."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du rapport tel que défini dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il exprime la relation entre deux quantités.",
+        "Les deux quantités peuvent appartenir au même ensemble.",
+        "Les deux quantités peuvent ne pas appartenir au même ensemble.",
+        "Il ne peut jamais correspondre à une proportion."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un rapport relie deux quantités appartenant ou non au même ensemble. Le texte précise qu’un rapport peut être une proportion, un taux, un ratio ou un indice."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la proportion, quelles propositions correspondent à sa définition et à ses caractéristiques ?",
+      "choices": [
+        "Le numérateur est inclus dans le dénominateur.",
+        "Elle rapporte des personnes présentant une caractéristique au total de la population à laquelle elles appartiennent.",
+        "Elle est exprimée en pourcentage dans la formule donnée.",
+        "Elle mesure directement une vitesse de survenue au cours du temps."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une proportion est une mesure statique, sans unité, avec numérateur inclus dans le dénominateur. Elle ne mesure pas une vitesse de survenue au cours du temps."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques générales d’un taux, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut mesurer la probabilité de survenue d’un événement.",
+        "Il peut mesurer la vitesse de survenue d’un événement.",
+        "Il concerne une population donnée, une période donnée et un lieu donné.",
+        "Il est obligatoirement indépendant du temps."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le taux est dynamique, prend en compte le temps, et mesure la probabilité ou la vitesse de survenue d’un événement dans une population, une période et un lieu donnés."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du ratio, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Son numérateur et son dénominateur peuvent être de nature différente.",
+        "Son numérateur et son dénominateur peuvent être disjoints.",
+        "Il est une mesure statique.",
+        "Il impose que le numérateur soit inclus dans le dénominateur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le ratio est un rapport dont les termes sont de nature différente ou disjoints. Il est statique. L’inclusion du numérateur dans le dénominateur caractérise plutôt la proportion."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’indice comme outil de calcul, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’un rapport.",
+        "Le numérateur et le dénominateur renvoient à deux événements distincts.",
+        "Il peut servir à estimer un taux lorsque le dénominateur réel est difficile à estimer correctement.",
+        "Il exige toujours que le numérateur soit une partie du dénominateur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un indice est un rapport entre deux événements distincts. Il sert notamment à estimer un taux lorsque le dénominateur réel ne peut pas être correctement estimé."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les exemples suivants, lesquels correspondent à des indicateurs de moyens selon le texte ?",
+      "choices": [
+        "Équipements.",
+        "Personnels.",
+        "Nombre de séjours.",
+        "Nombre de consultations."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les indicateurs de moyens cités sont les équipements et les personnels. Le nombre de consultations et le nombre de séjours sont des indicateurs de production."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les indicateurs de production, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Le nombre de consultations en est un exemple.",
+        "Le nombre de séjours en est un exemple.",
+        "Ils sont distingués des indicateurs de moyens.",
+        "Ils sont limités aux indicateurs démographiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indicateurs de production comprennent le nombre de consultations et le nombre de séjours. Ils sont distincts des indicateurs de moyens et des indicateurs démographiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la pyramide des âges, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle représente la répartition d’une population selon l’âge.",
+        "Elle représente la répartition d’une population selon le sexe.",
+        "Elle fait partie des éléments utilisés pour caractériser une population.",
+        "Elle exprime directement le nombre moyen d’années restant à vivre."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La pyramide des âges représente la répartition d’une population selon l’âge et le sexe. Le nombre moyen d’années restant à vivre relève de l’espérance de vie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le taux brut de natalité et le taux brut de fécondité, quelles propositions sont exactes ?",
+      "choices": [
+        "Le taux brut de natalité utilise les naissances vivantes pendant une année au numérateur.",
+        "Le taux brut de natalité utilise la population moyenne de l’année au dénominateur.",
+        "Le taux brut de fécondité utilise les femmes en âge de procréer au dénominateur.",
+        "Le taux brut de fécondité est calculé en rapportant les décès aux naissances vivantes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le TBN rapporte les naissances vivantes à la population moyenne annuelle. Le TBF rapporte les naissances vivantes aux femmes en âge de procréer, généralement 15 à 49 ans."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les indicateurs de mortalité cités dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils exploitent les décès enregistrés.",
+        "Ils permettent de mesurer la mortalité générale.",
+        "Ils permettent de mesurer la mortalité spécifique.",
+        "Ils excluent la létalité des mesures citées."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les indicateurs de mortalité exploitent les décès enregistrés pour mesurer notamment la mortalité générale, spécifique, infantile, juvénile, maternelle et la létalité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le mieux un indicateur de santé selon le texte ?",
+      "choices": [
+        "Une variable qualitative décrivant exclusivement les moyens sanitaires.",
+        "Une variable quantitative décrivant une situation ou une évolution de l’état de santé d’une population.",
+        "Un résultat biologique individuel utilisé pour poser un diagnostic.",
+        "Un outil statistique indépendant de toute définition préalable."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La définition donnée est celle d’une variable quantitative décrivant un élément de situation ou une évolution de l’état de santé d’une population."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes, laquelle correspond à une qualité explicitement attendue d’un indicateur de santé ?",
+      "choices": [
+        "Être reproductible.",
+        "Être obligatoirement coûteux.",
+        "Être réservé aux comparaisons internationales.",
+        "Être uniquement descriptif sans utilité décisionnelle."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La reproductibilité fait partie des qualités citées. Le texte mentionne aussi l’aide à la décision, ce qui exclut une fonction uniquement descriptive."
+    },
+    {
+      "type": "QCS",
+      "question": "Que représente principalement le dénominateur dans la structure d’un indicateur de santé ?",
+      "choices": [
+        "Le nombre de cas observés.",
+        "Le nombre d’événements enregistrés.",
+        "La taille de la population concernée ou exposée au risque.",
+        "Le coefficient multiplicateur choisi."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le dénominateur correspond à la population concernée ou à la population exposée au risque selon l’indicateur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise le mieux la pyramide des âges ?",
+      "choices": [
+        "Répartition d’une population selon l’âge et le sexe.",
+        "Rapport entre décès masculins et décès féminins.",
+        "Nombre moyen d’années qu’une personne peut espérer vivre.",
+        "Différence entre naissances vivantes et décès annuels."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La pyramide des âges représente la répartition d’une population selon deux dimensions : l’âge et le sexe."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formule correspond au taux d’accroissement naturel selon le texte ?",
+      "choices": [
+        "Naissances vivantes − décès pendant une année.",
+        "Accroissement naturel / population moyenne × 1 000.",
+        "Nombre total de décès / population moyenne × 1 000.",
+        "Naissances vivantes / femmes en âge de procréer × 1 000."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le taux d’accroissement naturel est égal à l’accroissement naturel rapporté à la population moyenne, multiplié par 1 000."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à la définition du taux brut de mortalité ?",
+      "choices": [
+        "Nombre de décès dus à une cause donnée rapporté au total des décès.",
+        "Nombre total de décès pendant l’année rapporté à la population moyenne de l’année × 1 000.",
+        "Nombre de décès maternels rapporté au nombre de naissances vivantes déclarées.",
+        "Nombre de décès dans un groupe d’âge rapporté au total des décès toutes causes."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le taux brut de mortalité mesure la mortalité réelle observée toutes classes d’âge et causes confondues : décès annuels totaux / population moyenne annuelle × 1 000."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-03T20:43:05.229Z"
+}

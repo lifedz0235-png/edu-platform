@@ -1224,25 +1224,27 @@ app.post("/api/auth/login", (req, res) => {
 
 app.post("/api/auth/logout", (req, res) => {
   const users = readUsers();
-  const { userId, deviceId } = req.body;
 
-  const user = users.find(u => u.id == userId);
+  const userId = req.body.userId;
+  const email = String(req.body.email || "")
+    .trim()
+    .toLowerCase();
 
-  if (user && user.activeDeviceId === deviceId) {
-    user.activeDeviceId = "";
-    saveUsers(users);
-  }
+  const user = users.find(item => {
+    const sameId =
+      userId !== undefined &&
+      userId !== null &&
+      userId !== "" &&
+      String(item.id) === String(userId);
 
-  res.json({ ok: true });
-});
+    const sameEmail =
+      email &&
+      String(item.email || "")
+        .trim()
+        .toLowerCase() === email;
 
-app.get("/api/profile/:userId", (req, res) => {
-  const users = readUsers();
-
-  const user = users.find(
-    item =>
-      String(item.id) === String(req.params.userId)
-  );
+    return sameId || sameEmail;
+  });
 
   if (!user) {
     return res.status(404).json({
@@ -1250,23 +1252,63 @@ app.get("/api/profile/:userId", (req, res) => {
     });
   }
 
-  const stats = getUserCommunityStats(user.id);
+  user.activeDeviceId = "";
+  user.lastLogoutAt = new Date().toISOString();
+
+  saveUsers(users);
 
   res.json({
-    id: user.id,
-    name: user.name,
-    email: user.email,
-    role: user.role,
-    status: user.status,
-
-    photoUrl: user.photoUrl || "",
-    bio: user.bio || "",
-    university: user.university || "",
-    promotion: user.promotion || "",
-
-    stats
+    ok: true,
+    message: "Déconnexion réussie."
   });
 });
+
+  app.get(
+  "/api/profile/:userId",
+  (req, res) => {
+    try {
+      const users = readUsers();
+
+      const user = users.find(
+        item => String(item.id) === String(req.params.userId)
+      );
+
+      if (!user) {
+        return res.status(404).json({
+          error: "Utilisateur introuvable."
+        });
+      }
+
+      const stats = getUserCommunityStats(user.id);
+
+      return res.json({
+        id: user.id,
+        name: user.name || "",
+        email: user.email || "",
+        role: user.role || "student",
+        status: user.status || "",
+
+        photoUrl: user.photoUrl || "",
+        bio: user.bio || "",
+        university: user.university || "",
+        promotion: user.promotion || "",
+
+        stats: {
+          publications: Number(stats.publications) || 0,
+          comments: Number(stats.comments) || 0,
+          likesReceived: Number(stats.likesReceived) || 0
+        }
+      });
+
+    } catch (error) {
+      console.error(error);
+
+      return res.status(500).json({
+        error: "Impossible de charger le profil."
+      });
+    }
+  }
+);
 
 app.put(
   "/api/profile/:userId",

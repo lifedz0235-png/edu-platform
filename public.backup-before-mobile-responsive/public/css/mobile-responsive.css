@@ -1,0 +1,606 @@
+/* =========================================================
+   PCR — RESPONSIVE MOBILE FIX
+   Desktop يبقى كما هو
+   هذه القواعد تعمل فقط في الهاتف والتابلت
+========================================================= */
+
+/* حماية عامة من خروج العناصر خارج الشاشة */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+img,
+svg,
+canvas,
+iframe,
+video {
+  max-width: 100%;
+}
+
+/* =========================================================
+   TABLET + MOBILE
+========================================================= */
+
+@media screen and (max-width: 900px) {
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden !important;
+  }
+
+  body {
+    min-width: 0 !important;
+    padding-bottom: 95px !important;
+  }
+
+  main,
+  section,
+  header,
+  footer,
+  nav {
+    max-width: 100%;
+  }
+
+  .container,
+  .page-container,
+  .main-container,
+  .content-container,
+  .dashboard-container,
+  .profile-container,
+  .modules-container,
+  .courses-container,
+  .category-container,
+  .hero-container {
+    width: min(100% - 28px, 1200px) !important;
+    max-width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  /* العناوين لا تخرج من الشاشة */
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  span,
+  a,
+  button {
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+
+  /* الفيديو */
+  video,
+  .video-player,
+  .course-video,
+  .player-video,
+  .video-container video {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    object-fit: contain !important;
+  }
+
+  .video-container,
+  .player-container,
+  .course-player,
+  .media-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+  }
+}
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media screen and (max-width: 768px) {
+  :root {
+    --mobile-page-padding: 16px;
+    --mobile-card-radius: 24px;
+  }
+
+  body {
+    font-size: 16px;
+  }
+
+  /* جميع الأقسام الرئيسية */
+  main,
+  .main-content,
+  .page-content,
+  .home-content,
+  .dashboard-content,
+  .modules-content,
+  .player-content {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    margin: 0 auto !important;
+  }
+
+  section {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  /* =====================================================
+     HEADER / NAVBAR
+  ===================================================== */
+
+  .navbar,
+  .main-navbar,
+  .topbar,
+  .header-inner,
+  .site-header,
+  .app-header {
+    width: calc(100% - 24px) !important;
+    max-width: calc(100% - 24px) !important;
+    min-width: 0 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+
+  .navbar-links,
+  .nav-links,
+  .desktop-nav,
+  .desktop-menu {
+    display: none !important;
+  }
+
+  .logo,
+  .brand,
+  .navbar-brand {
+    max-width: 70%;
+  }
+
+  /* =====================================================
+     HERO ACCUEIL
+  ===================================================== */
+
+  .hero,
+  .hero-section,
+  .home-hero,
+  .dashboard-hero {
+    width: calc(100% - 24px) !important;
+    max-width: calc(100% - 24px) !important;
+    min-width: 0 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 32px 20px !important;
+    overflow: hidden !important;
+  }
+
+  .hero-content,
+  .hero-text,
+  .hero-info {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    text-align: center;
+  }
+
+  .hero h1,
+  .hero-title,
+  .home-title,
+  .dashboard-title {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    font-size: clamp(42px, 13vw, 70px) !important;
+    line-height: 0.98 !important;
+    letter-spacing: -2px !important;
+    text-align: center !important;
+    white-space: normal !important;
+  }
+
+  .hero p,
+  .hero-description,
+  .hero-subtitle {
+    max-width: 100% !important;
+    margin: 24px auto !important;
+    font-size: 18px !important;
+    line-height: 1.5 !important;
+    text-align: center !important;
+  }
+
+  .hero-actions,
+  .hero-buttons,
+  .action-buttons,
+  .cta-buttons {
+    width: 100% !important;
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+  }
+
+  .hero-actions a,
+  .hero-actions button,
+  .hero-buttons a,
+  .hero-buttons button,
+  .action-buttons a,
+  .action-buttons button,
+  .cta-buttons a,
+  .cta-buttons button {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    justify-content: center !important;
+  }
+
+  /* صورة/شعار Hero */
+  .hero-image,
+  .hero-visual,
+  .dashboard-visual,
+  .mascot,
+  .hero-logo {
+    position: relative !important;
+    inset: auto !important;
+    width: min(250px, 75vw) !important;
+    max-width: 100% !important;
+    margin: 30px auto 0 !important;
+    transform: none !important;
+  }
+
+  /* =====================================================
+     STATISTIQUES
+  ===================================================== */
+
+  .stats-grid,
+  .statistics-grid,
+  .dashboard-stats,
+  .hero-stats,
+  .summary-grid {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 12px !important;
+  }
+
+  .stat-card,
+  .stats-card,
+  .dashboard-stat,
+  .summary-card {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    padding: 22px 16px !important;
+    border-radius: 22px !important;
+  }
+
+  .stat-card strong,
+  .stat-number,
+  .stat-value {
+    font-size: clamp(30px, 10vw, 46px) !important;
+  }
+
+  /* =====================================================
+     CATÉGORIES
+  ===================================================== */
+
+  .categories-grid,
+  .category-grid,
+  .home-categories,
+  .cards-grid {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 22px !important;
+    padding-left: var(--mobile-page-padding) !important;
+    padding-right: var(--mobile-page-padding) !important;
+  }
+
+  .category-card,
+  .home-card,
+  .feature-card {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    min-height: 320px;
+    margin: 0 auto !important;
+    padding: 30px 24px !important;
+  }
+
+  /* =====================================================
+     MODULES
+  ===================================================== */
+
+  .modules-grid,
+  .module-grid,
+  .modules-list {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 22px !important;
+    padding-left: var(--mobile-page-padding) !important;
+    padding-right: var(--mobile-page-padding) !important;
+  }
+
+  .module-card {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    margin: 0 auto !important;
+    padding: 26px 20px !important;
+    border-radius: var(--mobile-card-radius) !important;
+    overflow: hidden !important;
+  }
+
+  .module-header,
+  .module-info {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .module-card h2,
+  .module-card h3,
+  .module-title {
+    max-width: 100% !important;
+    font-size: clamp(28px, 8vw, 42px) !important;
+    line-height: 1.08 !important;
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  .module-card button,
+  .module-card .btn,
+  .module-card a.button,
+  .module-card a.btn {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+  }
+
+  /* =====================================================
+     PLAYER DE COURS
+  ===================================================== */
+
+  .player-page,
+  .course-page {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+
+  .player-card,
+  .video-card,
+  .course-player-card {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    margin: 0 auto !important;
+    padding: 18px 12px !important;
+    border-radius: 24px !important;
+  }
+
+  .player-actions,
+  .video-actions,
+  .course-actions {
+    width: 100% !important;
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 10px !important;
+  }
+
+  .player-actions button,
+  .player-actions a,
+  .video-actions button,
+  .video-actions a,
+  .course-actions button,
+  .course-actions a {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    padding: 15px 8px !important;
+    font-size: 15px !important;
+    white-space: normal !important;
+  }
+
+  /* Liste des cours */
+  .course-list-card,
+  .courses-list-card,
+  .lesson-list-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    padding: 22px 16px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .course-item,
+  .lesson-item {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    padding: 18px 15px !important;
+    font-size: 17px !important;
+  }
+
+  /* Barre de recherche */
+  input,
+  select,
+  textarea,
+  .search-input,
+  .course-search,
+  .module-search {
+    max-width: 100% !important;
+  }
+
+  .search-box,
+  .search-container {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  /* =====================================================
+     DASHBOARD
+  ===================================================== */
+
+  .dashboard-card,
+  .progress-card,
+  .favorites-card,
+  .profile-card {
+    width: calc(100% - 28px) !important;
+    max-width: calc(100% - 28px) !important;
+    min-width: 0 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 28px 20px !important;
+    border-radius: 26px !important;
+  }
+
+  .dashboard-card h2,
+  .progress-card h2,
+  .favorites-card h2 {
+    font-size: clamp(30px, 9vw, 46px) !important;
+    line-height: 1.1 !important;
+  }
+
+  .progress-row,
+  .category-progress {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .progress-header {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+
+  /* =====================================================
+     PROFIL
+  ===================================================== */
+
+  .user-profile-card,
+  .profile-header {
+    width: calc(100% - 28px) !important;
+    max-width: calc(100% - 28px) !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 20px !important;
+  }
+
+  .profile-name {
+    font-size: 30px !important;
+  }
+
+  /* =====================================================
+     LOGIN
+  ===================================================== */
+
+  .auth-page,
+  .login-page,
+  .register-page {
+    width: 100% !important;
+    min-height: 100dvh !important;
+    padding: 24px 16px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+
+  .auth-card,
+  .login-card,
+  .register-card,
+  .auth-container {
+    width: min(100%, 430px) !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    padding: 28px 20px !important;
+    margin: auto !important;
+    transform: none !important;
+  }
+
+  .auth-card input,
+  .login-card input,
+  .register-card input {
+    width: 100% !important;
+    min-height: 50px;
+    font-size: 16px !important;
+  }
+
+  .auth-card button,
+  .login-card button,
+  .register-card button {
+    width: 100% !important;
+    min-height: 50px;
+  }
+
+  /* =====================================================
+     BUTTONS
+  ===================================================== */
+
+  button,
+  .btn,
+  a.btn,
+  a.button {
+    max-width: 100%;
+  }
+}
+
+/* Téléphones très petits */
+@media screen and (max-width: 420px) {
+  .stats-grid,
+  .statistics-grid,
+  .dashboard-stats,
+  .hero-stats,
+  .summary-grid {
+    grid-template-columns: 1fr 1fr !important;
+    gap: 9px !important;
+  }
+
+  .stat-card,
+  .stats-card,
+  .dashboard-stat,
+  .summary-card {
+    padding: 18px 10px !important;
+  }
+
+  .hero h1,
+  .hero-title,
+  .home-title {
+    font-size: clamp(38px, 13vw, 56px) !important;
+  }
+
+  .player-actions,
+  .video-actions,
+  .course-actions {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Le menu mobile ne doit jamais apparaître sur PC */
+@media screen and (min-width: 769px) {
+  #pcr-mobile-menu-button,
+  #pcr-mobile-menu-panel,
+  #pcr-mobile-menu-overlay {
+    display: none !important;
+  }
+}

@@ -1,0 +1,3109 @@
+{
+  "category": "biologie",
+  "module": "physiologie",
+  "courseId": 60,
+  "courseTitle": "Pression Arteriel Et Sa Regulation",
+  "supportTitle": "pression-arteriel-et-sa-regulation",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/PHYSIOLOGIE/pression-arteriel-et-sa-regulation.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant la définition générale de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à la force exercée par le sang éjecté du cœur sur les parois artérielles.",
+        "Elle est indépendante des résistances périphériques totales au repos.",
+        "Elle dépend du débit cardiaque et des résistances périphériques totales.",
+        "Elle constitue une force motrice nécessaire à la perfusion des organes."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La pression artérielle est la force exercée sur les parois artérielles par le sang éjecté du cœur. Elle dépend du débit cardiaque et des résistances périphériques totales selon PA = DC × RPT, et permet la perfusion des organes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des composantes de la courbe de pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "La pression artérielle systolique est la valeur maximale atteinte au pic d’éjection systolique.",
+        "La pression artérielle diastolique est la valeur minimale atteinte à la fin de la diastole.",
+        "La pression artérielle moyenne est approximativement égale à PAS + 1/3(PAS − PAD).",
+        "La pression pulsée correspond à la différence entre PAS et PAD."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La PAS est maximale au pic d’éjection systolique, la PAD est minimale en fin de diastole. La PAM est approximativement PAD + 1/3(PAS − PAD), tandis que la pression pulsée est PAS − PAD."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la méthode auscultatoire indirecte de mesure de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle utilise un brassard et un stéthoscope.",
+        "Les bruits de Korotkoff apparaissent lorsque la pression du brassard devient juste inférieure à la pression artérielle systolique.",
+        "Les bruits de Korotkoff sont dus à un flux turbulent intermittent dans une artère partiellement ouverte.",
+        "Elle nécessite l’introduction d’un cathéter dans une artère périphérique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode auscultatoire utilise un brassard et un stéthoscope. Lors du dégonflage, lorsque la pression du brassard devient juste inférieure à la PAS, l’artère s’ouvre partiellement avec un flux turbulent intermittent responsable des bruits de Korotkoff. Le cathéter relève de la méthode directe."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la méthode directe de mesure de la pression artérielle et les valeurs normales chez l’adulte au repos couché, quelles propositions sont exactes ?",
+      "choices": [
+        "La méthode directe utilise un cathéter muni d’un capteur de pression.",
+        "Le cathéter peut être introduit dans l’artère radiale, fémorale ou dans l’aorte.",
+        "La pression systolique normale est environ de 110 à 140 mmHg.",
+        "La pression moyenne normale est environ de 100 à 120 mmHg."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode directe repose sur un cathéter avec capteur de pression introduit dans une artère périphérique comme l’artère radiale ou fémorale, ou dans l’aorte. Chez l’adulte au repos couché, la PAS normale est environ 110 à 140 mmHg et la PAM 70 à 95 mmHg."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déterminants hémodynamiques de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Le débit cardiaque dépend du volume d’éjection systolique et de la fréquence cardiaque.",
+        "Le volume d’éjection systolique peut être exprimé par VTD − VTS.",
+        "Le volume télédiastolique dépend de la précharge.",
+        "Le volume télésystolique dépend uniquement de la fréquence cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le débit cardiaque dépend du volume d’éjection systolique et de la fréquence cardiaque. Le volume d’éjection systolique correspond à VTD − VTS. Le VTD dépend de la précharge, tandis que le VTS dépend de la postcharge et de l’inotropisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon la loi de Poiseuille appliquée aux résistances vasculaires, quelles propositions sont exactes ?",
+      "choices": [
+        "La résistance vasculaire dépend fortement du rayon vasculaire.",
+        "La résistance est inversement proportionnelle à la puissance quatrième du rayon.",
+        "Une diminution du rayon artériolaire augmente fortement les résistances périphériques.",
+        "Une diminution du rayon artériolaire diminue la pression artérielle par baisse des résistances périphériques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La loi de Poiseuille donnée est R = 8 μL / πr⁴. La résistance dépend donc fortement du rayon, inversement à r⁴. Une diminution du rayon artériolaire augmente fortement les résistances périphériques et donc la pression artérielle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes immédiats de régulation de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils reposent principalement sur la régulation nerveuse par le système neurovégétatif.",
+        "Le système parasympathique est cholinergique et exerce un effet freinateur notamment par bradycardie.",
+        "Le système sympathique est adrénergique et exerce un effet accélérateur.",
+        "Les mécanismes immédiats reposent principalement sur la vasomotricité hormonale à moyen terme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les mécanismes immédiats relèvent surtout du système neurovégétatif. Le parasympathique cholinergique a un effet freinateur, notamment par bradycardie. Le sympathique adrénergique a un effet accélérateur. La vasomotricité hormonale relève de la régulation à moyen terme."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels effets sont attribués à l’activation sympathique dans la régulation immédiate de la pression artérielle ?",
+      "choices": [
+        "Effet chronotrope positif avec tachycardie.",
+        "Augmentation de la contractilité myocardique.",
+        "Vasoconstriction périphérique.",
+        "Diminution de la vitesse d’éjection."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système sympathique entraîne une tachycardie, une augmentation de la vitesse d’éjection, une augmentation de la contractilité myocardique et une vasoconstriction périphérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les voies de déclenchement de la régulation neurovégétative de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être déclenchée par action directe sur les centres cardiovasculaires.",
+        "Elle peut être déclenchée par voie réflexe via les barorécepteurs.",
+        "Elle peut être déclenchée par voie réflexe via les volorécepteurs.",
+        "Elle exclut toute intervention des chémorécepteurs."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La régulation neurovégétative peut être déclenchée directement sur les centres cardiovasculaires ou par voie réflexe via les barorécepteurs, volorécepteurs et chémorécepteurs."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du réflexe barorécepteur, quelles propositions sont exactes ?",
+      "choices": [
+        "Les barorécepteurs sont sensibles à la tension de la paroi artérielle.",
+        "Ils sont principalement localisés au niveau du sinus carotidien et de la crosse aortique.",
+        "Leurs voies afférentes sont assurées par les nerfs vagues et les nerfs de Hering.",
+        "Leur intégration principale se fait au niveau des corpuscules carotidiens."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les barorécepteurs détectent la tension pariétale artérielle. Ils siègent surtout au sinus carotidien et à la crosse aortique. Les afférences passent par les nerfs vagues et de Hering, avec intégration au centre cardiovasculaire bulbaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une augmentation de la pression artérielle, quelles réponses baroréflexes sont attendues selon le texte ?",
+      "choices": [
+        "Étirement des barorécepteurs.",
+        "Diminution du tonus sympathique.",
+        "Augmentation du tonus parasympathique.",
+        "Augmentation des résistances périphériques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’augmentation de la pression artérielle étire les barorécepteurs, ce qui diminue le tonus sympathique et augmente le tonus parasympathique. Il en résulte une baisse de la fréquence cardiaque, de la contractilité et des résistances périphériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une diminution de la pression artérielle, quelles réponses baroréflexes sont attendues ?",
+      "choices": [
+        "Réduction de la stimulation des barorécepteurs.",
+        "Activation sympathique.",
+        "Inhibition parasympathique.",
+        "Diminution des résistances périphériques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une baisse de pression artérielle réduit la stimulation des barorécepteurs, entraînant une activation sympathique et une inhibition parasympathique, avec augmentation de la fréquence cardiaque, de la contractilité et des résistances périphériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les volorécepteurs, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont situés dans les parois du système à basse pression.",
+        "Ils répondent aux variations de volume sanguin.",
+        "Leur réflexe est comparable à celui des barorécepteurs.",
+        "Leur stimulation dépend exclusivement des variations du pH sanguin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les volorécepteurs sont situés dans les parois du système à basse pression et répondent aux variations du volume sanguin. Leur réflexe est comparable à celui des barorécepteurs. Les variations du pH concernent les chémorécepteurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les chémorécepteurs impliqués dans la régulation cardiovasculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont localisés dans les corpuscules aortiques et carotidiens.",
+        "Ils sont sensibles aux variations de concentration en oxygène.",
+        "Ils sont sensibles aux variations de concentration en dioxyde de carbone et du pH.",
+        "Leur stimulation inhibe le centre vasomoteur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chémorécepteurs sont situés dans les corpuscules aortiques et carotidiens. Ils détectent les variations d’oxygène, de dioxyde de carbone et de pH. Leur stimulation active le centre vasomoteur."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour une pression artérielle de 150/90 mmHg, quelle est la pression artérielle moyenne approximative selon la formule donnée ?",
+      "choices": [
+        "95 mmHg",
+        "100 mmHg",
+        "110 mmHg",
+        "120 mmHg"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "PAM = PAD + 1/3(PAS − PAD) = 90 + 1/3(150 − 90) = 90 + 20 = 110 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la relation R = 8 μL / πr⁴, que devient la résistance vasculaire si le rayon artériolaire est divisé par 2, toutes choses égales par ailleurs ?",
+      "choices": [
+        "Elle est divisée par 16.",
+        "Elle est divisée par 4.",
+        "Elle est multipliée par 4.",
+        "Elle est multipliée par 16."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La résistance est inversement proportionnelle à r⁴. Si le rayon est divisé par 2, la résistance est multipliée par 2⁴, soit 16."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement la pression artérielle diastolique ?",
+      "choices": [
+        "Valeur maximale de la pression artérielle au pic d’éjection systolique.",
+        "Valeur minimale de la pression artérielle atteinte à la fin de la diastole.",
+        "Différence entre pression systolique et pression moyenne.",
+        "Pression perçue uniquement au niveau des artères du cou."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La pression artérielle diastolique correspond à la valeur minimale de la pression artérielle, atteinte à la fin de la diastole."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le centre d’intégration du réflexe barorécepteur décrit dans le texte ?",
+      "choices": [
+        "Centre cardiovasculaire bulbaire.",
+        "Corpuscule carotidien.",
+        "Paroi du système à basse pression.",
+        "Artère radiale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les informations issues des barorécepteurs sont intégrées au niveau du centre cardiovasculaire bulbaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’adulte au repos en position couchée, quelle est la plage normale approximative de la pression artérielle moyenne ?",
+      "choices": [
+        "50 à 70 mmHg.",
+        "60 à 85 mmHg.",
+        "70 à 95 mmHg.",
+        "110 à 140 mmHg."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique que chez l’adulte au repos couché, la pression artérielle moyenne normale est environ de 70 à 95 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle expression correspond à la relation complète donnée entre pression artérielle, volumes ventriculaires, fréquence cardiaque et résistances périphériques totales ?",
+      "choices": [
+        "PA = [(VTD − VTS) × fréquence cardiaque] × RPT.",
+        "PA = [(VTS − VTD) × fréquence cardiaque] × RPT.",
+        "PA = [VTD × VTS × fréquence cardiaque] / RPT.",
+        "PA = RPT / [(VTD − VTS) × fréquence cardiaque]."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise : PA = DC × RPT, avec DC = volume d’éjection systolique × fréquence cardiaque et volume d’éjection systolique = VTD − VTS. Donc PA = [(VTD − VTS) × fréquence cardiaque] × RPT."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la médullosurrénale en situation de stress, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est stimulée par le système sympathique.",
+        "Elle sécrète de la noradrénaline et surtout de l’adrénaline.",
+        "Ses hormones reproduisent et amplifient les effets du système sympathique.",
+        "Elle diminue la fréquence cardiaque via les récepteurs bêta-1."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En situation de stress, le sympathique stimule la médullosurrénale, qui sécrète noradrénaline et surtout adrénaline, amplifiant les effets sympathiques. L’effet bêta-1 est une augmentation, non une diminution, de la fréquence cardiaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets cardiovasculaires des catécholamines médullosurrénaliennes décrites, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles augmentent la fréquence cardiaque via les récepteurs bêta-1.",
+        "Elles augmentent la contractilité myocardique.",
+        "Elles induisent une vasoconstriction via les récepteurs alpha-1.",
+        "Elles diminuent les résistances périphériques par stimulation alpha-1."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les catécholamines médullosurrénaliennes augmentent la fréquence cardiaque par bêta-1, augmentent la contractilité myocardique et provoquent une vasoconstriction via alpha-1."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la cascade du système rénine-angiotensine-aldostérone, quelles propositions sont exactes ?",
+      "choices": [
+        "La rénine est une hormone sécrétée par le rein.",
+        "La rénine catalyse la transformation de l’angiotensinogène en angiotensine I.",
+        "L’angiotensine I est transformée en angiotensine II par l’enzyme de conversion de l’angiotensine.",
+        "L’aldostérone transforme l’angiotensine I en angiotensine II."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit la séquence : rénine rénale, transformation de l’angiotensinogène en angiotensine I, puis conversion en angiotensine II par l’enzyme de conversion."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’angiotensine II, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est un puissant vasoconstricteur.",
+        "Elle stimule la libération d’aldostérone par la corticosurrénale.",
+        "Elle participe à l’augmentation des résistances périphériques.",
+        "Elle est synthétisée directement par la corticosurrénale à partir de l’aldostérone."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’angiotensine II est un puissant vasoconstricteur, stimule l’aldostérone corticosurrénalienne et contribue à l’augmentation des résistances périphériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Par quels mécanismes l’activation du système rénine-angiotensine-aldostérone augmente-t-elle la pression artérielle ?",
+      "choices": [
+        "Vasoconstriction artériolaire.",
+        "Augmentation des résistances périphériques.",
+        "Rétention hydrosodée via l’aldostérone.",
+        "Diminution de la volémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le SRAA augmente la pression artérielle par vasoconstriction artériolaire, augmentation des résistances périphériques, rétention hydrosodée et augmentation de la volémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles substances sont citées comme vasoconstrictrices dans la régulation de la pression artérielle ?",
+      "choices": [
+        "ADH.",
+        "Endothéline.",
+        "Thromboxane A2.",
+        "Prostacycline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les substances vasoconstrictrices citées sont l’ADH, l’endothéline synthétisée par l’endothélium et le thromboxane A2. La prostacycline est vasodilatatrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles substances sont citées comme vasodilatatrices ?",
+      "choices": [
+        "Kinines.",
+        "Bradykinine.",
+        "Monoxyde d’azote.",
+        "Endothéline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vasodilatateurs cités comprennent les kinines, la bradykinine, le monoxyde d’azote et la prostacycline. L’endothéline est vasoconstrictrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le monoxyde d’azote et la prostacycline PGI2, quelles propositions sont exactes ?",
+      "choices": [
+        "Le monoxyde d’azote est synthétisé à partir de la L-arginine.",
+        "La synthèse du monoxyde d’azote fait intervenir la NO synthase.",
+        "La prostacycline PGI2 est produite à partir de l’acide arachidonique sous l’action de la cyclo-oxygénase.",
+        "La prostacycline PGI2 possède un effet vasoconstricteur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le NO provient de la L-arginine via la NO synthase. La PGI2 provient de l’acide arachidonique sous l’action de la cyclo-oxygénase et elle est vasodilatatrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le système des kinines et la bradykinine, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système des kinines s’oppose aux effets du système rénine-angiotensine-aldostérone.",
+        "La bradykinine est un puissant vasodilatateur.",
+        "La bradykinine possède un effet natriurétique.",
+        "La bradykinine augmente la pression artérielle par vasoconstriction artériolaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que le système des kinines s’oppose au SRAA ; la bradykinine est un puissant vasodilatateur avec effet natriurétique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation à long terme de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle dépend essentiellement de la volémie.",
+        "Le rein en est l’organe principal.",
+        "Le rein module l’excrétion hydrosodée sous l’influence de différentes hormones.",
+        "Elle dépend principalement de la sécrétion immédiate des catécholamines médullosurrénaliennes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La régulation à long terme dépend surtout de la volémie. Le rein en est l’organe principal via la modulation de l’excrétion hydrosodée sous contrôle hormonal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conséquences des variations de réabsorption et d’excrétion hydrosodée, quelles propositions sont exactes ?",
+      "choices": [
+        "Une augmentation de la réabsorption de sodium et d’eau augmente la volémie.",
+        "Une augmentation de la réabsorption de sodium et d’eau tend à augmenter la pression artérielle.",
+        "Une augmentation de l’excrétion hydrosodée diminue la volémie.",
+        "Une augmentation de l’excrétion hydrosodée tend à augmenter la pression artérielle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réabsorption hydrosodée augmente volémie et pression artérielle ; l’excrétion hydrosodée diminue volémie et tend à diminuer la pression artérielle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’aldostérone, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une hormone stéroïde.",
+        "Elle est synthétisée et sécrétée par la corticosurrénale.",
+        "Elle agit principalement sur le rein.",
+        "Elle est une hormone peptidique post-hypophysaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’aldostérone est une hormone stéroïde corticosurrénalienne agissant principalement sur le rein. L’hormone peptidique post-hypophysaire est l’ADH."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels effets tubulaires sont attribués à l’aldostérone ?",
+      "choices": [
+        "Réabsorption de sodium.",
+        "Réabsorption d’eau.",
+        "Excrétion de potassium.",
+        "Réabsorption d’ions hydrogène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’aldostérone entraîne une réabsorption de sodium et d’eau, ainsi qu’une excrétion de potassium et d’ions hydrogène."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ADH dans la régulation de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une hormone peptidique post-hypophysaire.",
+        "Elle augmente la perméabilité à l’eau libre du tube collecteur.",
+        "Elle entraîne une réabsorption hydrique avec concentration des urines.",
+        "Elle diminue la volémie par augmentation de l’excrétion hydrosodée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADH est une hormone peptidique post-hypophysaire qui augmente la perméabilité à l’eau libre du tube collecteur, favorisant la réabsorption hydrique et la concentration des urines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’organe principal de la régulation à long terme de la pression artérielle ?",
+      "choices": [
+        "Le rein.",
+        "La médullosurrénale.",
+        "La corticosurrénale.",
+        "L’endothélium."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La régulation à long terme de la pression artérielle dépend essentiellement de la volémie, et le rein en est l’organe principal."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle enzyme transforme l’angiotensine I en angiotensine II ?",
+      "choices": [
+        "La NO synthase.",
+        "La cyclo-oxygénase.",
+        "L’enzyme de conversion de l’angiotensine.",
+        "La rénine."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’angiotensine I est transformée en angiotensine II sous l’action de l’enzyme de conversion de l’angiotensine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel site rénal d’action principal de l’aldostérone est correctement décrit ?",
+      "choices": [
+        "Tube contourné distal et partie proximale du tube collecteur.",
+        "Tube collecteur uniquement dans sa partie distale.",
+        "Glomérule rénal exclusivement.",
+        "Tube contourné proximal exclusivement."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’aldostérone agit principalement sur le rein, au niveau du tube contourné distal et de la partie proximale du tube collecteur."
+    },
+    {
+      "type": "QCS",
+      "question": "À partir de quel substrat le monoxyde d’azote est-il synthétisé selon le texte ?",
+      "choices": [
+        "L’acide arachidonique.",
+        "La L-arginine.",
+        "L’angiotensinogène.",
+        "La bradykinine."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le monoxyde d’azote est synthétisé à partir de la L-arginine par la NO synthase."
+    },
+    {
+      "type": "QCS",
+      "question": "Sous l’action de quelle enzyme la prostacycline PGI2 est-elle produite à partir de l’acide arachidonique ?",
+      "choices": [
+        "La rénine.",
+        "La NO synthase.",
+        "L’enzyme de conversion de l’angiotensine.",
+        "La cyclo-oxygénase."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La prostacycline PGI2 est produite à partir de l’acide arachidonique sous l’action de la cyclo-oxygénase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel stimulus de sécrétion de l’ADH est correctement cité ?",
+      "choices": [
+        "Les osmorécepteurs hypothalamiques sensibles à l’osmolarité plasmatique.",
+        "Les récepteurs bêta-1 myocardiques.",
+        "Les récepteurs alpha-1 artériolaires.",
+        "La cyclo-oxygénase endothéliale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les stimuli de sécrétion de l’ADH comprennent les osmorécepteurs hypothalamiques sensibles à l’osmolarité plasmatique, les barorécepteurs artériels et les volorécepteurs des oreillettes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rôle fonctionnel général de la pression artérielle au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle constitue une constante physiologique hémodynamique relativement stable au repos.",
+        "Sa valeur moyenne varie peu autour de la valeur normale au repos.",
+        "Elle représente la force motrice permettant d’assurer la perfusion des organes.",
+        "Elle est indépendante des mécanismes nerveux et hormonaux lorsqu’elle est normale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PA est stable au repos, sa valeur moyenne varie peu et elle assure la perfusion des organes. Elle est au contraire étroitement régulée par des mécanismes nerveux et hormonaux."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la pression pulsée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à la différence entre la pression artérielle systolique et la pression artérielle diastolique.",
+        "Elle est aussi appelée pression différentielle.",
+        "Elle peut être perçue sous forme de pulsation au niveau des artères du poignet ou du cou.",
+        "Elle se calcule par PAD + 1/3 (PAS − PAD)."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La pression pulsée ou différentielle correspond à PAS − PAD et se manifeste par la pulsation artérielle. La formule PAD + 1/3 (PAS − PAD) correspond à la PAM."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour une pression artérielle mesurée à 130/70 mmHg chez un adulte au repos couché, quelles propositions sont exactes selon les formules et valeurs du texte ?",
+      "choices": [
+        "La pression pulsée est de 60 mmHg.",
+        "La pression artérielle moyenne approximative est de 90 mmHg.",
+        "La pression systolique et la pression diastolique se situent dans les valeurs normales indiquées.",
+        "La pression artérielle moyenne approximative est de 110 mmHg."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La pression pulsée vaut 130 − 70 = 60 mmHg. La PAM vaut 70 + 1/3 × 60 = 90 mmHg. Ces valeurs entrent dans les plages normales données."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la méthode directe de mesure de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle utilise un cathéter muni d’un capteur de pression.",
+        "Le cathéter peut être introduit dans l’artère radiale.",
+        "Le cathéter peut être introduit dans l’artère fémorale ou dans l’aorte.",
+        "Elle repose sur l’apparition des bruits de Korotkoff au stéthoscope."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode directe utilise un cathéter avec capteur placé dans une artère périphérique comme la radiale ou la fémorale, ou dans l’aorte. Les bruits de Korotkoff relèvent de la méthode indirecte auscultatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déterminants ventriculaires du débit cardiaque dans la relation donnée, quelles propositions sont exactes ?",
+      "choices": [
+        "Le débit cardiaque dépend du volume d’éjection systolique et de la fréquence cardiaque.",
+        "Le volume d’éjection systolique correspond à VTD − VTS.",
+        "Le volume télédiastolique dépend de la précharge.",
+        "Le volume télésystolique dépend uniquement de la fréquence cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte donne : PA = [(VTD − VTS) × fréquence cardiaque] × RPT. Le VTD dépend de la précharge, tandis que le VTS dépend de la postcharge et de l’inotropisme."
+    },
+    {
+      "type": "QCM",
+      "question": "En appliquant la relation PA = DC × RPT, quelles propositions sont exactes ?",
+      "choices": [
+        "Si le débit cardiaque double et que les résistances périphériques totales sont divisées par deux, la pression artérielle tend à rester inchangée.",
+        "Si les résistances périphériques totales augmentent à débit cardiaque constant, la pression artérielle augmente.",
+        "Si le débit cardiaque diminue à résistances périphériques totales constantes, la pression artérielle diminue.",
+        "Si la fréquence cardiaque diminue avec VTD, VTS et RPT constants, la pression artérielle augmente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PA dépend du produit DC × RPT. Une diminution de la fréquence cardiaque, toutes choses égales par ailleurs, diminue le débit cardiaque et donc tend à diminuer la PA."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la classification temporelle des mécanismes de régulation de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Les mécanismes de régulation sont classés selon leur délai de mise en jeu.",
+        "Il existe des mécanismes d’action immédiate.",
+        "Il existe des mécanismes d’action à moyen terme et à long terme.",
+        "La régulation à moyen terme repose principalement sur le calcul de la pression pulsée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue les mécanismes immédiats, à moyen terme et à long terme selon leur délai de mise en jeu. La régulation à moyen terme repose principalement sur la vasomotricité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation générale du système neurovégétatif impliqué dans la régulation immédiate de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est intégré au cerveau et à la moelle épinière.",
+        "Il contrôle le fonctionnement viscéral.",
+        "Il comporte une double commande stimulatrice et modératrice.",
+        "Il agit uniquement par une commande sympathique accélératrice."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système neurovégétatif est intégré au cerveau et à la moelle épinière, contrôle le fonctionnement viscéral et comporte une double commande. Il ne se limite pas au sympathique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la double commande sympathique et parasympathique décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système parasympathique est cholinergique.",
+        "Le système parasympathique a un effet freinateur, notamment par bradycardie.",
+        "Le système sympathique est adrénergique et a un effet accélérateur.",
+        "Le système sympathique est décrit comme responsable principal d’une bradycardie réflexe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le parasympathique est cholinergique et freinateur, notamment par bradycardie. Le sympathique est adrénergique et accélérateur, avec tachycardie, augmentation de l’éjection, de la contractilité et vasoconstriction périphérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une réponse ischémique centrale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient lorsque la pression artérielle moyenne devient inférieure à environ 50 mmHg.",
+        "Elle est liée à une ischémie cérébrale.",
+        "Elle entraîne une stimulation massive du centre vasomoteur.",
+        "Elle provoque principalement une vasodilatation périphérique intense."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Lorsque la PAM devient inférieure à environ 50 mmHg, l’ischémie cérébrale stimule massivement le centre vasomoteur, entraînant une vasoconstriction périphérique intense."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conséquences hémodynamiques de la réponse ischémique centrale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut provoquer une élévation majeure de la pression artérielle moyenne.",
+        "Elle met en jeu le centre vasomoteur.",
+        "Elle s’accompagne d’une vasoconstriction périphérique intense.",
+        "Elle correspond à une inhibition massive du centre vasomoteur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La réponse ischémique centrale stimule massivement le centre vasomoteur, entraînant une vasoconstriction périphérique intense susceptible d’élever fortement la PAM."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’interprétation des valeurs normales données par mesure directe chez l’adulte au repos couché, quelles propositions sont exactes ?",
+      "choices": [
+        "Une pression systolique de 120 mmHg appartient à la plage normale indiquée.",
+        "Une pression diastolique de 80 mmHg appartient à la plage normale indiquée.",
+        "Une pression moyenne de 90 mmHg appartient à la plage normale indiquée.",
+        "Une pression moyenne de 100 mmHg appartient à la plage normale indiquée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les valeurs normales indiquées sont : PAS 110 à 140 mmHg, PAD 60 à 85 mmHg, PAM 70 à 95 mmHg. Une PAM de 100 mmHg est au-dessus de la plage donnée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la séquence auscultatoire lors du dégonflage du brassard, quelles propositions sont exactes ?",
+      "choices": [
+        "Le brassard est dégonflé progressivement.",
+        "Lorsque la pression du brassard devient juste inférieure à la pression systolique, l’artère s’ouvre partiellement.",
+        "Le flux turbulent intermittent est responsable de vibrations audibles au stéthoscope.",
+        "Les bruits de Korotkoff apparaissent parce que le cathéter artériel transmet directement la pression."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans la méthode auscultatoire, le dégonflage progressif permet l’apparition d’un flux turbulent intermittent lorsque la pression du brassard devient juste inférieure à la PAS, générant les bruits de Korotkoff."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction entre les différents récepteurs impliqués dans la régulation cardiovasculaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Les barorécepteurs sont principalement situés au niveau du sinus carotidien et de la crosse aortique.",
+        "Les volorécepteurs sont situés dans les parois du système à basse pression.",
+        "Les chémorécepteurs sont localisés dans les corpuscules aortiques et carotidiens.",
+        "Les volorécepteurs sont définis comme sensibles aux variations du pH artériel."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les barorécepteurs répondent à la tension pariétale artérielle, les volorécepteurs aux variations de volume sanguin et les chémorécepteurs aux variations d’O2, CO2 et pH."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors de la méthode auscultatoire, à quel moment les bruits de Korotkoff apparaissent-ils selon le texte ?",
+      "choices": [
+        "Lorsque la pression du brassard devient juste inférieure à la pression artérielle systolique.",
+        "Lorsque la pression du brassard devient juste supérieure à la pression artérielle systolique.",
+        "Lorsque la pression du brassard devient égale à la pression veineuse centrale.",
+        "Lorsque le cathéter artériel atteint l’aorte."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les bruits de Korotkoff apparaissent quand la pression du brassard devient juste inférieure à la PAS, permettant une ouverture partielle de l’artère avec flux turbulent intermittent."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel seuil approximatif de pression artérielle moyenne est associé au déclenchement de la réponse ischémique centrale décrite ?",
+      "choices": [
+        "Inférieur à environ 50 mmHg.",
+        "Inférieur à environ 70 mmHg.",
+        "Supérieur à environ 95 mmHg.",
+        "Supérieur à environ 140 mmHg."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que lorsque la PAM devient inférieure à environ 50 mmHg, le cerveau devient ischémique, déclenchant la réponse ischémique centrale."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, de quel facteur dépend le volume télédiastolique ?",
+      "choices": [
+        "De la précharge.",
+        "De la postcharge seule.",
+        "De l’inotropisme seul.",
+        "Des résistances périphériques totales uniquement."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le volume télédiastolique dépend de la précharge. Le volume télésystolique dépend de la postcharge et de l’inotropisme."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formule correspond à la pression pulsée ?",
+      "choices": [
+        "PAS − PAD.",
+        "PAD + 1/3 (PAS − PAD).",
+        "DC × RPT.",
+        "(VTD − VTS) × fréquence cardiaque."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La pression pulsée, ou pression différentielle, correspond à PAS − PAD."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel centre est activé par la stimulation des chémorécepteurs selon le texte ?",
+      "choices": [
+        "Le centre vasomoteur.",
+        "Le nœud sinusal.",
+        "Le cortex moteur.",
+        "Le système à basse pression."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les chémorécepteurs, sensibles aux variations d’O2, de CO2 et du pH, activent le centre vasomoteur."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez l’adulte au repos en position couchée, quelle valeur de pression moyenne appartient à la plage normale donnée ?",
+      "choices": [
+        "85 mmHg.",
+        "50 mmHg.",
+        "100 mmHg.",
+        "120 mmHg."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La pression artérielle moyenne normale indiquée est d’environ 70 à 95 mmHg. Une PAM de 85 mmHg est donc normale selon le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’origine des médiateurs hormonaux impliqués dans la régulation tensionnelle, quelles associations sont exactes ?",
+      "choices": [
+        "La rénine est sécrétée par le rein",
+        "L’aldostérone est synthétisée et sécrétée par la corticosurrénale",
+        "L’ADH est une hormone post-hypophysaire",
+        "L’endothéline est synthétisée par l’endothélium"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que la rénine est rénale, l’aldostérone corticosurrénalienne, l’ADH post-hypophysaire et l’endothéline endothéliale."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations médiateur-effet sont conformes au texte ?",
+      "choices": [
+        "Angiotensine II : puissant vasoconstricteur",
+        "Bradykinine : effet natriurétique",
+        "Prostacycline PGI2 : effet vasodilatateur",
+        "Thromboxane A2 : effet vasodilatateur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’angiotensine II est vasoconstrictrice, la bradykinine est vasodilatatrice et natriurétique, la PGI2 est vasodilatatrice. Le thromboxane A2 est cité parmi les vasoconstricteurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étapes enzymatiques et hormonales du système rénine-angiotensine-aldostérone, quelles propositions sont exactes ?",
+      "choices": [
+        "La rénine catalyse la transformation de l’angiotensinogène en angiotensine I",
+        "L’enzyme de conversion transforme l’angiotensine I en angiotensine II",
+        "L’angiotensine II stimule la libération d’aldostérone",
+        "L’aldostérone transforme l’angiotensinogène en angiotensine I"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La rénine agit sur l’angiotensinogène, puis l’enzyme de conversion produit l’angiotensine II, laquelle stimule l’aldostérone. L’aldostérone n’a pas ce rôle enzymatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’activation du système rénine-angiotensine-aldostérone, quels mécanismes contribuent à l’élévation de la pression artérielle ?",
+      "choices": [
+        "Vasoconstriction artériolaire",
+        "Augmentation des résistances périphériques",
+        "Rétention hydrosodée via l’aldostérone",
+        "Diminution de la volémie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le SRAA augmente la pression artérielle par vasoconstriction artériolaire, augmentation des résistances périphériques, rétention hydrosodée et augmentation de la volémie."
+    },
+    {
+      "type": "QCM",
+      "question": "En situation de stress, quelles propositions concernant la médullosurrénale sont exactes ?",
+      "choices": [
+        "Elle est stimulée par le système sympathique",
+        "Elle sécrète de la noradrénaline",
+        "Elle sécrète surtout de l’adrénaline",
+        "Elle sécrète directement l’aldostérone"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Sous stress, le sympathique stimule la médullosurrénale, qui sécrète de la noradrénaline et surtout de l’adrénaline. L’aldostérone relève de la corticosurrénale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets cardiovasculaires des catécholamines médullosurrénaliennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles augmentent la fréquence cardiaque via les récepteurs bêta-1",
+        "Elles augmentent la contractilité myocardique",
+        "Elles entraînent une vasoconstriction via les récepteurs alpha-1",
+        "Elles diminuent les effets du système sympathique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les catécholamines médullosurrénaliennes reproduisent et amplifient les effets sympathiques : tachycardie bêta-1, augmentation de contractilité et vasoconstriction alpha-1."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation à long terme de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle dépend essentiellement de la volémie",
+        "Elle implique principalement le rein",
+        "Elle repose sur la modulation de l’excrétion hydrosodée",
+        "Elle est indépendante des variations d’eau et de sodium"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La régulation à long terme dépend de la volémie, avec un rôle principal du rein qui module l’excrétion hydrosodée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques générales de l’aldostérone, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une hormone stéroïde",
+        "Elle est synthétisée par la corticosurrénale",
+        "Elle agit principalement sur le rein",
+        "C’est une hormone peptidique post-hypophysaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’aldostérone est une hormone stéroïde corticosurrénalienne agissant surtout sur le rein. L’hormone peptidique post-hypophysaire citée est l’ADH."
+    },
+    {
+      "type": "QCM",
+      "question": "Au niveau tubulaire rénal, quelles actions sont attribuées à l’aldostérone ?",
+      "choices": [
+        "Réabsorption de sodium",
+        "Réabsorption d’eau",
+        "Excrétion de potassium",
+        "Excrétion d’ions hydrogène"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte attribue à l’aldostérone une réabsorption de sodium et d’eau ainsi qu’une excrétion de potassium et d’ions hydrogène."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ADH, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une hormone peptidique",
+        "Elle est post-hypophysaire",
+        "Elle augmente la perméabilité à l’eau libre du tube collecteur",
+        "Elle agit principalement au niveau du tube contourné distal en excrétant le potassium"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADH est une hormone peptidique post-hypophysaire qui augmente la perméabilité à l’eau libre du tube collecteur. L’excrétion de potassium est attribuée à l’aldostérone."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont cités comme stimuli de sécrétion de l’ADH ?",
+      "choices": [
+        "Les osmorécepteurs hypothalamiques sensibles à l’osmolarité plasmatique",
+        "Les barorécepteurs artériels",
+        "Les volorécepteurs des oreillettes",
+        "La prostacycline PGI2"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les stimuli de sécrétion de l’ADH sont les osmorécepteurs hypothalamiques, les barorécepteurs artériels et les volorécepteurs auriculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le système des kinines et la bradykinine, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système des kinines s’oppose aux effets du système rénine-angiotensine-aldostérone",
+        "La bradykinine est un puissant vasodilatateur",
+        "La bradykinine possède un effet natriurétique",
+        "La bradykinine stimule la libération d’aldostérone"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système des kinines s’oppose au SRAA. La bradykinine est vasodilatatrice et natriurétique. La stimulation de l’aldostérone est attribuée à l’angiotensine II."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le monoxyde d’azote et la prostacycline, quelles propositions sont exactes ?",
+      "choices": [
+        "Le monoxyde d’azote est synthétisé à partir de la L-arginine",
+        "La NO synthase intervient dans la synthèse du monoxyde d’azote",
+        "La prostacycline PGI2 est produite à partir de l’acide arachidonique",
+        "La prostacycline PGI2 est produite sous l’action de la rénine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le NO est synthétisé à partir de la L-arginine par la NO synthase. La PGI2 provient de l’acide arachidonique sous l’action de la cyclo-oxygénase, non de la rénine."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les médiateurs cités, quelles associations avec une action vasoconstrictrice sont exactes ?",
+      "choices": [
+        "ADH",
+        "Endothéline",
+        "Thromboxane A2",
+        "Prostacycline"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADH, l’endothéline et le thromboxane A2 sont cités parmi les substances vasoconstrictrices. La prostacycline est vasodilatatrice."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle hormone est décrite comme peptidique et post-hypophysaire ?",
+      "choices": [
+        "Aldostérone",
+        "ADH",
+        "Rénine",
+        "Angiotensine II"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’ADH est l’hormone peptidique post-hypophysaire décrite dans le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel substrat est transformé en angiotensine I sous l’action de la rénine ?",
+      "choices": [
+        "Angiotensinogène",
+        "Angiotensine II",
+        "Aldostérone",
+        "Bradykinine"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La rénine catalyse la transformation de l’angiotensinogène en angiotensine I."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle substance citée possède à la fois un effet vasodilatateur puissant et un effet natriurétique ?",
+      "choices": [
+        "Endothéline",
+        "Thromboxane A2",
+        "Bradykinine",
+        "Angiotensine II"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La bradykinine est décrite comme un puissant vasodilatateur possédant un effet natriurétique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle structure endocrine libère l’aldostérone sous stimulation de l’angiotensine II ?",
+      "choices": [
+        "Médullosurrénale",
+        "Corticosurrénale",
+        "Post-hypophyse",
+        "Endothélium"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’angiotensine II stimule la libération d’aldostérone par la corticosurrénale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel effet rénal caractérise le mieux l’action de l’ADH selon le texte ?",
+      "choices": [
+        "Augmentation de la perméabilité à l’eau libre du tube collecteur",
+        "Excrétion accrue de potassium",
+        "Transformation de l’angiotensine I en angiotensine II",
+        "Production de prostacycline à partir de l’acide arachidonique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’ADH agit sur le rein en augmentant la perméabilité à l’eau libre du tube collecteur, entraînant une réabsorption hydrique."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la régulation à long terme de la pression artérielle, quel paramètre est déterminant essentiel selon le texte ?",
+      "choices": [
+        "La volémie",
+        "La concentration en thromboxane A2",
+        "La contractilité myocardique seule",
+        "La fréquence cardiaque seule"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La régulation à long terme de la pression artérielle dépend essentiellement de la volémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour une pression artérielle mesurée directement à 138/84 mmHg chez un adulte au repos couché, quelles propositions sont exactes selon les formules et valeurs du texte ?",
+      "choices": [
+        "La pression pulsée est de 54 mmHg.",
+        "La pression artérielle moyenne approximative est de 102 mmHg.",
+        "La pression systolique et la pression diastolique appartiennent aux plages normales indiquées.",
+        "La pression artérielle moyenne calculée appartient à la plage normale indiquée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "PP = 138 − 84 = 54 mmHg. PAM = 84 + 1/3 × 54 = 102 mmHg. Les plages normales données sont PAS 110–140, PAD 60–85 et PAM 70–95 mmHg."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la postcharge dans les déterminants ventriculaires de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Le volume télésystolique dépend de la postcharge.",
+        "La postcharge intervient dans la relation développée de la pression artérielle par l’intermédiaire du volume télésystolique.",
+        "La postcharge est le seul déterminant des résistances périphériques totales dans la loi de Poiseuille.",
+        "Le volume télédiastolique dépend directement de la postcharge selon le texte."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que le VTS dépend de la postcharge et de l’inotropisme. Le VTD dépend de la précharge. La loi de Poiseuille fait intervenir viscosité, longueur et rayon vasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la précharge dans la relation hémodynamique donnée, quelles propositions sont exactes ?",
+      "choices": [
+        "Le volume télédiastolique dépend de la précharge.",
+        "La précharge peut influencer la pression artérielle via le terme VTD − VTS.",
+        "La précharge est citée comme un facteur de la résistance vasculaire dans la formule de Poiseuille.",
+        "Le volume télésystolique dépend de la précharge et non de l’inotropisme."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le VTD dépend de la précharge et intervient dans le volume d’éjection systolique VTD − VTS. Le VTS dépend de la postcharge et de l’inotropisme."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon la loi de Poiseuille, si le rayon artériolaire est multiplié par 2, toutes choses égales par ailleurs, quelles propositions sont exactes ?",
+      "choices": [
+        "La résistance vasculaire est divisée par 16.",
+        "La résistance vasculaire est multipliée par 16.",
+        "À débit cardiaque inchangé, cette modification tend à diminuer la pression artérielle.",
+        "Cette situation illustre la forte dépendance de la résistance au rayon vasculaire."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La résistance est inversement proportionnelle à r⁴. Si le rayon double, r⁴ est multiplié par 16, donc la résistance est divisée par 16."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la formule R = 8 μL / πr⁴, quelles propositions sont exactes ?",
+      "choices": [
+        "À rayon et longueur constants, une augmentation de la viscosité augmente la résistance.",
+        "À rayon et viscosité constants, une augmentation de la longueur augmente la résistance.",
+        "La résistance vasculaire est indépendante du rayon vasculaire.",
+        "La fréquence cardiaque ne figure pas dans cette formule de résistance vasculaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La résistance est proportionnelle à la viscosité μ et à la longueur L, et inversement proportionnelle à r⁴. La fréquence cardiaque appartient aux déterminants du débit cardiaque, pas à cette formule."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant deux pressions artérielles de 160/100 mmHg et 120/60 mmHg, quelles propositions sont exactes selon les formules du texte ?",
+      "choices": [
+        "Elles ont la même pression pulsée.",
+        "Elles ont approximativement la même pression artérielle moyenne.",
+        "La pression pulsée seule ne permet pas de déduire la pression artérielle moyenne.",
+        "À pression pulsée identique, une pression diastolique plus élevée augmente la pression artérielle moyenne calculée."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Les deux pressions ont une PP de 60 mmHg. La PAM vaut environ 120 mmHg pour 160/100 et 80 mmHg pour 120/60."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation des voies du réflexe barorécepteur, quelles propositions sont exactes ?",
+      "choices": [
+        "Les nerfs vagues participent aux voies afférentes.",
+        "Les nerfs de Hering participent aux voies afférentes.",
+        "Les voies efférentes utilisent les systèmes parasympathique et sympathique.",
+        "L’intégration du réflexe se fait au niveau des corpuscules carotidiens."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les afférences sont assurées par les nerfs vagues et les nerfs de Hering. L’intégration se fait au centre cardiovasculaire bulbaire, puis les efférences utilisent les voies parasympathiques et sympathiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les volorécepteurs et leur réflexe, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont situés dans les parois du système à basse pression.",
+        "Ils répondent aux variations du volume sanguin.",
+        "Leur réflexe peut moduler le débit cardiaque et les résistances périphériques totales.",
+        "Ils sont localisés principalement dans le sinus carotidien et la crosse aortique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les volorécepteurs appartiennent au système à basse pression et répondent aux variations de volume sanguin. Le sinus carotidien et la crosse aortique sont surtout cités pour les barorécepteurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les chémorécepteurs cardiovasculaires décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont localisés dans les corpuscules aortiques et carotidiens.",
+        "Ils sont sensibles aux variations de concentration en oxygène.",
+        "Ils sont sensibles aux variations de concentration en dioxyde de carbone et du pH.",
+        "Leur stimulation inhibe directement le centre vasomoteur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chémorécepteurs sont localisés dans les corpuscules aortiques et carotidiens. Ils répondent à O2, CO2 et pH, et leur stimulation active le centre vasomoteur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la réponse ischémique centrale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient lorsque la pression artérielle moyenne devient inférieure à environ 50 mmHg.",
+        "Elle correspond à une situation d’ischémie cérébrale.",
+        "Elle entraîne une stimulation massive du centre vasomoteur.",
+        "Elle provoque une vasodilatation périphérique intense."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Lorsque la PAM devient inférieure à environ 50 mmHg, le cerveau devient ischémique, stimulant massivement le centre vasomoteur et induisant une vasoconstriction périphérique intense."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation à moyen terme de la pression artérielle selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle repose principalement sur la vasomotricité.",
+        "Elle fait intervenir des hormones et médiateurs vasoactifs.",
+        "Les médiateurs impliqués agissent sur le tonus vasculaire.",
+        "Elle repose principalement sur la mesure auscultatoire de la pression artérielle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que la régulation à moyen terme repose principalement sur la vasomotricité et implique des hormones et médiateurs vasoactifs agissant sur le tonus vasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors du dégonflage progressif du brassard dans la méthode auscultatoire, quelles propositions sont exactes ?",
+      "choices": [
+        "Les bruits de Korotkoff apparaissent lorsque la pression du brassard devient juste inférieure à la pression artérielle systolique.",
+        "L’artère s’ouvre alors partiellement.",
+        "Le flux responsable des bruits est turbulent et intermittent.",
+        "Les bruits correspondent à un flux laminaire continu sans vibrations."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Quand la pression du brassard devient juste inférieure à la PAS, l’artère s’ouvre partiellement, produisant un flux turbulent intermittent responsable de vibrations audibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les paramètres de la courbe de pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "La pression artérielle moyenne est approximée par PAD + 1/3(PAS − PAD).",
+        "La pression pulsée peut être perçue sous forme de pulsation au poignet ou au cou.",
+        "La pression artérielle diastolique correspond à la valeur maximale atteinte pendant l’éjection systolique.",
+        "La pression artérielle systolique correspond à la valeur minimale atteinte en fin de diastole."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La PAS est la valeur maximale au pic d’éjection systolique, la PAD est la valeur minimale en fin de diastole. La pression pulsée est PAS − PAD."
+    },
+    {
+      "type": "QCM",
+      "question": "En appliquant uniquement la relation PA = débit cardiaque × résistances périphériques totales, quelles propositions sont exactes ?",
+      "choices": [
+        "Si le débit cardiaque double et que les résistances périphériques totales sont divisées par deux, la pression artérielle reste inchangée.",
+        "Si le débit cardiaque reste constant et que les résistances périphériques totales diminuent, la pression artérielle diminue.",
+        "Si le débit cardiaque et les résistances périphériques totales diminuent simultanément, la pression artérielle diminue.",
+        "Une augmentation de la fréquence cardiaque augmente toujours la pression artérielle, quelles que soient les résistances périphériques totales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PA dépend du produit DC × RPT. Des variations opposées peuvent se compenser, tandis qu’une diminution d’un facteur à l’autre constant diminue la PA."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour une pression artérielle de 135/75 mmHg, quelle est la pression artérielle moyenne approximative selon la formule donnée ?",
+      "choices": [
+        "85 mmHg",
+        "95 mmHg",
+        "105 mmHg",
+        "60 mmHg"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "PAM = 75 + 1/3(135 − 75) = 75 + 20 = 95 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel triplet correspond entièrement aux valeurs normales approximatives données par mesure directe chez l’adulte au repos couché ?",
+      "choices": [
+        "PAS 150 mmHg, PAD 80 mmHg, PAM 90 mmHg",
+        "PAS 130 mmHg, PAD 90 mmHg, PAM 90 mmHg",
+        "PAS 130 mmHg, PAD 80 mmHg, PAM 90 mmHg",
+        "PAS 130 mmHg, PAD 80 mmHg, PAM 100 mmHg"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les plages normales indiquées sont : PAS 110–140 mmHg, PAD 60–85 mmHg et PAM 70–95 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la relation PA = [(VTD − VTS) × fréquence cardiaque] × RPT, si VTD = 120 mL et VTS = 50 mL, quel est le volume d’éjection systolique ?",
+      "choices": [
+        "50 mL",
+        "70 mL",
+        "120 mL",
+        "170 mL"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le volume d’éjection systolique correspond à VTD − VTS, soit 120 − 50 = 70 mL."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, sur quoi repose principalement la régulation à moyen terme de la pression artérielle ?",
+      "choices": [
+        "La vasomotricité",
+        "La méthode auscultatoire",
+        "La pression pulsée",
+        "Le calcul du volume télédiastolique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La régulation à moyen terme repose principalement sur la vasomotricité, avec intervention de médiateurs vasoactifs."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel système neurovégétatif est décrit comme cholinergique et freinateur, notamment par bradycardie ?",
+      "choices": [
+        "Le système sympathique",
+        "Le système parasympathique",
+        "Le centre vasomoteur",
+        "La médullosurrénale"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte décrit le système parasympathique comme cholinergique et freinateur, notamment par bradycardie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel paramètre est perçu sous forme de pulsation dans les artères du poignet ou du cou à chaque battement cardiaque ?",
+      "choices": [
+        "La pression artérielle moyenne",
+        "La pression pulsée",
+        "La pression télédiastolique ventriculaire",
+        "La résistance périphérique totale"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La pression pulsée, ou pression différentielle, correspond à PAS − PAD et est perçue comme une pulsation artérielle."
+    },
+    {
+      "type": "QCM",
+      "question": "En situation de stress, quelles propositions décrivent correctement la participation de la médullosurrénale à la régulation tensionnelle ?",
+      "choices": [
+        "Le système sympathique stimule la médullosurrénale.",
+        "La médullosurrénale sécrète de la noradrénaline et surtout de l’adrénaline.",
+        "Les hormones médullosurrénaliennes reproduisent et amplifient les effets du système sympathique.",
+        "La médullosurrénale sécrète principalement l’aldostérone en réponse au stress."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En situation de stress, le sympathique stimule la médullosurrénale, qui libère noradrénaline et surtout adrénaline, amplifiant les effets sympathiques. L’aldostérone est sécrétée par la corticosurrénale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets cardiovasculaires des catécholamines médullosurrénaliennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles augmentent la fréquence cardiaque via les récepteurs bêta-1.",
+        "Elles provoquent une vasoconstriction via les récepteurs alpha-1.",
+        "Elles augmentent la contractilité myocardique.",
+        "Elles entraînent une vasodilatation artériolaire via les récepteurs alpha-1."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue aux catécholamines une augmentation de la fréquence cardiaque via bêta-1, une augmentation de la contractilité myocardique et une vasoconstriction via alpha-1."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des territoires endocriniens impliqués dans la régulation de la pression artérielle, quelles associations sont correctes ?",
+      "choices": [
+        "Médullosurrénale : sécrétion de noradrénaline et d’adrénaline.",
+        "Corticosurrénale : libération d’aldostérone stimulée par l’angiotensine II.",
+        "Post-hypophyse : origine de l’ADH.",
+        "Médullosurrénale : synthèse de la rénine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La médullosurrénale sécrète les catécholamines, la corticosurrénale sécrète l’aldostérone sous stimulation de l’angiotensine II, et l’ADH est post-hypophysaire. La rénine est sécrétée par le rein."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’activation du système rénine-angiotensine-aldostérone, quels phénomènes participent à l’augmentation de la pression artérielle ?",
+      "choices": [
+        "Vasoconstriction artériolaire.",
+        "Augmentation des résistances périphériques.",
+        "Rétention hydrosodée via l’aldostérone.",
+        "Diminution de la volémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le SRAA augmente la pression artérielle par vasoconstriction artériolaire, augmentation des résistances périphériques, rétention hydrosodée et augmentation de la volémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les médiateurs suivants, lesquels sont décrits comme ayant une action vasoconstrictrice dans le texte ?",
+      "choices": [
+        "Angiotensine II.",
+        "ADH.",
+        "Endothéline.",
+        "Thromboxane A2."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’angiotensine II est un puissant vasoconstricteur. L’ADH, l’endothéline et le thromboxane A2 sont également cités parmi les substances vasoconstrictrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les substances vasodilatatrices mentionnées, quelles propositions sont exactes ?",
+      "choices": [
+        "La bradykinine est un puissant vasodilatateur.",
+        "La bradykinine possède un effet natriurétique.",
+        "Le monoxyde d’azote induit une vasodilatation.",
+        "Les kinines renforcent les effets du système rénine-angiotensine-aldostérone."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La bradykinine est vasodilatatrice et natriurétique. Le NO induit une vasodilatation. Le système des kinines s’oppose au système rénine-angiotensine-aldostérone."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations substrat-enzyme-produit sont conformes aux données du texte ?",
+      "choices": [
+        "L-arginine — NO synthase — monoxyde d’azote.",
+        "Acide arachidonique — cyclo-oxygénase — prostacycline PGI2.",
+        "Angiotensinogène — rénine — angiotensine I.",
+        "Angiotensine II — enzyme de conversion — angiotensine I."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le NO provient de la L-arginine via la NO synthase ; la PGI2 provient de l’acide arachidonique via la cyclo-oxygénase ; la rénine transforme l’angiotensinogène en angiotensine I. L’ECA transforme l’angiotensine I en angiotensine II."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation tensionnelle à long terme, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle dépend essentiellement de la volémie.",
+        "Le rein en est l’organe principal.",
+        "Le rein module l’excrétion hydrosodée sous influence hormonale.",
+        "L’augmentation de la réabsorption de sodium et d’eau tend à augmenter la pression artérielle."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La régulation à long terme dépend de la volémie et repose principalement sur le rein, qui ajuste l’excrétion hydrosodée. La réabsorption hydrosodée augmente la volémie et tend à élever la pression artérielle."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une comparaison entre aldostérone et ADH, quelles propositions sont correctes ?",
+      "choices": [
+        "L’aldostérone est une hormone stéroïde alors que l’ADH est une hormone peptidique post-hypophysaire.",
+        "L’aldostérone agit notamment sur le tube contourné distal et la partie proximale du tube collecteur.",
+        "L’ADH augmente la perméabilité à l’eau libre du tube collecteur.",
+        "L’aldostérone et l’ADH participent toutes deux à la régulation de la pression artérielle par leurs effets sur la volémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’aldostérone et l’ADH diffèrent par leur nature et leurs sites d’action, mais toutes deux peuvent augmenter la volémie et intervenir dans la régulation tensionnelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels effets tubulaires sont attribués spécifiquement à l’aldostérone dans le texte ?",
+      "choices": [
+        "Réabsorption de sodium.",
+        "Réabsorption d’eau.",
+        "Excrétion de potassium.",
+        "Augmentation de la perméabilité à l’eau libre du tube collecteur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’aldostérone entraîne une réabsorption de sodium et d’eau ainsi qu’une excrétion de potassium et d’ions hydrogène. L’augmentation de la perméabilité à l’eau libre du tube collecteur relève de l’ADH."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels capteurs ou récepteurs sont cités comme stimuli de sécrétion de l’ADH ?",
+      "choices": [
+        "Osmorécepteurs hypothalamiques sensibles à l’osmolarité plasmatique.",
+        "Barorécepteurs artériels.",
+        "Volorécepteurs des oreillettes.",
+        "Chémorécepteurs carotidiens sensibles à l’hypoxie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les stimuli de sécrétion de l’ADH cités sont les osmorécepteurs hypothalamiques, les barorécepteurs artériels et les volorécepteurs des oreillettes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’action rénale de l’ADH, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle augmente la perméabilité à l’eau libre du tube collecteur.",
+        "Elle entraîne une réabsorption hydrique.",
+        "Elle provoque une concentration des urines.",
+        "Elle favorise directement l’excrétion hydrosodée avec baisse de la volémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADH augmente la perméabilité à l’eau libre du tube collecteur, provoque une réabsorption d’eau et concentre les urines, ce qui tend à augmenter la volémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les liens entre volémie et médiateurs hormonaux, quelles propositions sont exactes ?",
+      "choices": [
+        "L’aldostérone augmente la volémie par rétention hydrosodée.",
+        "L’ADH augmente la volémie par réabsorption d’eau.",
+        "Une augmentation de l’excrétion hydrosodée diminue la volémie.",
+        "La bradykinine possède un effet natriurétique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’aldostérone et l’ADH augmentent la volémie par des mécanismes rénaux. À l’inverse, l’excrétion hydrosodée diminue la volémie. La bradykinine est décrite comme natriurétique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le système rénine-angiotensine-aldostérone, quelles propositions sont exactes ?",
+      "choices": [
+        "La rénine est une hormone sécrétée par le rein.",
+        "L’angiotensine II stimule la libération d’aldostérone par la corticosurrénale.",
+        "L’angiotensine II est un puissant vasoconstricteur.",
+        "L’angiotensine I stimule directement la sécrétion d’ADH selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que la rénine est rénale, que l’angiotensine II est vasoconstrictrice et qu’elle stimule l’aldostérone. Il ne mentionne pas une stimulation directe de l’ADH par l’angiotensine I."
+    },
+    {
+      "type": "QCS",
+      "question": "En situation de stress, quel récepteur est impliqué dans l’augmentation de la fréquence cardiaque par les catécholamines médullosurrénaliennes ?",
+      "choices": [
+        "Récepteur alpha-1.",
+        "Récepteur bêta-1.",
+        "Récepteur des kinines.",
+        "Récepteur de l’aldostérone."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’augmentation de la fréquence cardiaque est attribuée aux récepteurs bêta-1."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit le mieux la conséquence urinaire directe de l’action de l’ADH ?",
+      "choices": [
+        "Dilution des urines par inhibition de la réabsorption hydrique.",
+        "Concentration des urines par réabsorption hydrique.",
+        "Excrétion accrue de potassium.",
+        "Transformation de l’angiotensinogène en angiotensine I."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’ADH augmente la réabsorption d’eau au niveau du tube collecteur, ce qui concentre les urines."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel médiateur correspond à une substance vasoconstrictrice synthétisée par l’endothélium ?",
+      "choices": [
+        "Bradykinine.",
+        "Endothéline.",
+        "Prostacycline PGI2.",
+        "Monoxyde d’azote."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’endothéline est citée comme substance vasoconstrictrice synthétisée par l’endothélium."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association permet la production de la prostacycline PGI2 selon le texte ?",
+      "choices": [
+        "L-arginine sous l’action de la NO synthase.",
+        "Acide arachidonique sous l’action de la cyclo-oxygénase.",
+        "Angiotensinogène sous l’action de la rénine.",
+        "Angiotensine I sous l’action de l’aldostérone."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La prostacycline PGI2 est produite à partir de l’acide arachidonique sous l’action de la cyclo-oxygénase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle modification tend à diminuer la pression artérielle dans la régulation à long terme ?",
+      "choices": [
+        "Augmentation de la réabsorption de sodium et d’eau.",
+        "Augmentation de l’excrétion hydrosodée.",
+        "Augmentation de la sécrétion d’aldostérone.",
+        "Augmentation de la réabsorption d’eau par l’ADH."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’augmentation de l’excrétion hydrosodée diminue la volémie et tend à diminuer la pression artérielle."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le système rénine-angiotensine-aldostérone, quel événement favorise la rétention hydrosodée en aval de l’angiotensine II ?",
+      "choices": [
+        "Stimulation de la libération d’aldostérone par la corticosurrénale.",
+        "Sécrétion de bradykinine par la post-hypophyse.",
+        "Activation de la NO synthase par l’angiotensine I.",
+        "Production de prostacycline par la médullosurrénale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’angiotensine II stimule la libération d’aldostérone par la corticosurrénale ; l’aldostérone favorise ensuite la rétention hydrosodée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la relation hémodynamique donnée, si la fréquence cardiaque augmente isolément alors que le VTD, le VTS et les résistances périphériques totales restent inchangés, quelles propositions sont exactes ?",
+      "choices": [
+        "Le volume d’éjection systolique reste inchangé.",
+        "Le débit cardiaque augmente.",
+        "La pression artérielle tend à augmenter.",
+        "Les résistances périphériques totales diminuent automatiquement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le volume d’éjection systolique vaut VTD − VTS. Si VTD et VTS ne changent pas, il reste stable. L’augmentation de la fréquence cardiaque augmente le débit cardiaque, donc la PA si les RPT sont constantes."
+    },
+    {
+      "type": "QCM",
+      "question": "En appliquant strictement la formule PA = [(VTD − VTS) × fréquence cardiaque] × RPT, qu’entraîne une augmentation isolée du volume télésystolique ?",
+      "choices": [
+        "Une diminution du volume d’éjection systolique.",
+        "Une diminution du débit cardiaque si la fréquence cardiaque reste constante.",
+        "Une tendance à la baisse de la pression artérielle si les RPT restent constantes.",
+        "Une augmentation obligatoire du volume télédiastolique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le VES correspond à VTD − VTS. Si le VTS augmente seul, le VES diminue, ce qui diminue le débit cardiaque et tend à abaisser la PA si les RPT ne changent pas."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’arc réflexe barorécepteur décrit, quelles associations sont correctes ?",
+      "choices": [
+        "Les nerfs vagues participent aux voies afférentes.",
+        "Les nerfs de Hering participent aux voies afférentes.",
+        "L’intégration se fait au niveau du centre cardiovasculaire bulbaire.",
+        "Les barorécepteurs sont situés dans les parois du système à basse pression."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les afférences baroréceptrices passent par les nerfs vagues et de Hering, avec intégration bulbaire. Les récepteurs du système à basse pression correspondent aux volorécepteurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de la mesure auscultatoire de la pression artérielle, quelles propositions décrivent correctement l’événement responsable des bruits de Korotkoff ?",
+      "choices": [
+        "Il survient lors du dégonflage progressif du brassard.",
+        "Il apparaît quand la pression du brassard devient juste inférieure à la pression artérielle systolique.",
+        "Il correspond à une ouverture partielle de l’artère avec flux turbulent intermittent.",
+        "Il correspond à un flux laminaire silencieux dans une artère totalement ouverte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les bruits de Korotkoff apparaissent lorsque la pression du brassard devient juste inférieure à la PAS, permettant une ouverture partielle artérielle et un flux turbulent intermittent."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour différencier volorécepteurs et barorécepteurs, quelles propositions sont exactes concernant les volorécepteurs ?",
+      "choices": [
+        "Ils sont situés dans les parois du système à basse pression.",
+        "Ils répondent aux variations de volume sanguin.",
+        "Une augmentation du volume sanguin entraîne leur stimulation par dilatation des parois.",
+        "Ils sont principalement localisés au sinus carotidien et à la crosse aortique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les volorécepteurs appartiennent au système à basse pression et répondent aux variations de volume. Le sinus carotidien et la crosse aortique sont les sites principaux des barorécepteurs."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des chémorécepteurs cardiovasculaires décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont localisés dans les corpuscules aortiques et carotidiens.",
+        "Ils sont sensibles aux variations d’oxygène, de dioxyde de carbone et de pH.",
+        "Leur stimulation active le centre vasomoteur.",
+        "Ils sont principalement situés dans les parois du système à basse pression."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chémorécepteurs sont situés dans les corpuscules aortiques et carotidiens, sensibles à O2, CO2 et pH. Leur stimulation active le centre vasomoteur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la hiérarchisation temporelle des mécanismes de régulation tensionnelle, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Les mécanismes de régulation sont classés selon leur délai de mise en jeu.",
+        "Il existe des mécanismes d’action immédiate.",
+        "Il existe des mécanismes d’action à moyen terme et à long terme.",
+        "Les mécanismes immédiats reposent principalement sur l’excrétion hydrosodée rénale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte classe les mécanismes en immédiats, moyen terme et long terme. Les mécanismes immédiats reposent principalement sur la régulation nerveuse neurovégétative."
+    },
+    {
+      "type": "QCM",
+      "question": "Au sujet du système neurovégétatif impliqué dans la régulation immédiate de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est intégré au cerveau et à la moelle épinière.",
+        "Il contrôle le fonctionnement viscéral.",
+        "Il comporte une double commande stimulatrice et modératrice.",
+        "Le système parasympathique est décrit comme adrénergique et accélérateur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système neurovégétatif est intégré au cerveau et à la moelle épinière, contrôle les fonctions viscérales et comprend une double commande. Le parasympathique est cholinergique et freinateur."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels effets sympathiques peuvent contribuer à élever la pression artérielle selon les déterminants donnés ?",
+      "choices": [
+        "L’effet chronotrope positif augmente la fréquence cardiaque.",
+        "L’augmentation de la contractilité myocardique modifie un déterminant du volume télésystolique.",
+        "La vasoconstriction périphérique augmente les résistances périphériques totales.",
+        "La bradycardie est l’effet sympathique principal décrit."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le sympathique est accélérateur : tachycardie, augmentation de la contractilité et vasoconstriction périphérique. La bradycardie relève du système parasympathique freinateur."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la formule PA = [(VTD − VTS) × fréquence cardiaque] × RPT, quelles variations isolées tendent à augmenter la pression artérielle ?",
+      "choices": [
+        "Augmentation du VTD.",
+        "Diminution du VTS.",
+        "Augmentation de la fréquence cardiaque.",
+        "Diminution des résistances périphériques totales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Augmenter le VTD, diminuer le VTS ou augmenter la fréquence cardiaque augmente le débit cardiaque. Une diminution des RPT tend au contraire à diminuer la PA."
+    },
+    {
+      "type": "QCM",
+      "question": "À partir des formules de PAM et de pression pulsée, quelles affirmations sont exactes ?",
+      "choices": [
+        "Si PAS et PAD augmentent toutes deux de 10 mmHg, la pression pulsée reste inchangée.",
+        "Si PAS et PAD augmentent toutes deux de 10 mmHg, la PAM augmente de 10 mmHg.",
+        "Une augmentation isolée de la PAS augmente la pression pulsée.",
+        "Une augmentation isolée de la PAD augmente toujours la pression pulsée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La pression pulsée vaut PAS − PAD. Une hausse parallèle de PAS et PAD ne change pas la différentielle mais augmente la PAM. Une hausse isolée de PAD réduit la différentielle."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer pression artérielle moyenne et pression pulsée, quelles propositions sont exactes ?",
+      "choices": [
+        "La pression pulsée correspond à PAS − PAD.",
+        "La PAM est approximée par PAD + 1/3(PAS − PAD).",
+        "La pression pulsée est perçue comme une pulsation artérielle à chaque battement.",
+        "La PAM correspond simplement à PAS − PAD."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La pression pulsée est la différence PAS − PAD et se perçoit comme le pouls. La PAM est approximée par PAD + un tiers de la pression pulsée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles modalités peuvent déclencher la régulation neurovégétative de la pression artérielle selon le texte ?",
+      "choices": [
+        "Une action directe sur les centres cardiovasculaires.",
+        "Une voie réflexe passant par les barorécepteurs.",
+        "Une voie réflexe passant par les volorécepteurs et les chémorécepteurs.",
+        "Une activation exclusivement indépendante du système nerveux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La régulation neurovégétative peut être déclenchée directement sur les centres cardiovasculaires ou par voie réflexe via barorécepteurs, volorécepteurs et chémorécepteurs."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une hypotension majeure avec risque d’ischémie cérébrale, quelles propositions sont conformes au mécanisme décrit ?",
+      "choices": [
+        "Une PAM inférieure à environ 50 mmHg peut rendre le cerveau ischémique.",
+        "L’ischémie cérébrale stimule massivement le centre vasomoteur.",
+        "La réponse obtenue comporte une vasoconstriction périphérique intense.",
+        "Ce mécanisme entraîne nécessairement une inhibition du centre vasomoteur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Lorsque la PAM devient inférieure à environ 50 mmHg, l’ischémie cérébrale stimule massivement le centre vasomoteur, entraînant une vasoconstriction périphérique intense."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour une pression artérielle de 126/66 mmHg, quelle est la pression artérielle moyenne approximative selon la formule donnée ?",
+      "choices": [
+        "76 mmHg",
+        "86 mmHg",
+        "96 mmHg",
+        "106 mmHg"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "PAM = PAD + 1/3(PAS − PAD) = 66 + 1/3(60) = 66 + 20 = 86 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la loi de Poiseuille donnée, quelle modification augmente directement la résistance vasculaire si les autres paramètres restent inchangés ?",
+      "choices": [
+        "Diminution de la viscosité μ.",
+        "Augmentation du rayon r.",
+        "Augmentation de la longueur L.",
+        "Diminution simultanée de μ et de L."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "R = 8 μL / πr⁴. La résistance augmente avec la viscosité μ et la longueur L, et diminue fortement quand le rayon augmente."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle réponse neurovégétative correspond le mieux à une diminution de la pression artérielle dans le réflexe barorécepteur ?",
+      "choices": [
+        "Diminution du tonus sympathique et augmentation du tonus parasympathique.",
+        "Activation sympathique et inhibition parasympathique.",
+        "Inhibition simultanée des deux systèmes sympathique et parasympathique.",
+        "Activation parasympathique isolée avec baisse des résistances périphériques."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Une baisse de PA diminue la stimulation des barorécepteurs, ce qui active le sympathique et inhibe le parasympathique, avec hausse de la fréquence cardiaque, de la contractilité et des RPT."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel site est explicitement cité comme compatible avec la mesure directe de la pression artérielle par cathéter ?",
+      "choices": [
+        "Veine cave supérieure.",
+        "Artère radiale.",
+        "Oreillette droite.",
+        "Ventricule droit."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La méthode directe utilise un cathéter avec capteur de pression introduit dans une artère périphérique comme l’artère radiale ou fémorale, ou dans l’aorte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle conséquence est attendue lorsque la PAM chute autour de 45 mmHg selon le mécanisme de réponse ischémique centrale ?",
+      "choices": [
+        "Stimulation massive du centre vasomoteur.",
+        "Arrêt de toute vasoconstriction périphérique.",
+        "Activation parasympathique isolée.",
+        "Diminution majeure des résistances périphériques."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une PAM inférieure à environ 50 mmHg peut provoquer une ischémie cérébrale, stimulant massivement le centre vasomoteur et entraînant une vasoconstriction périphérique intense."
+    },
+    {
+      "type": "QCS",
+      "question": "Si le volume télédiastolique est de 150 mL et le volume télésystolique de 90 mL, quel est le volume d’éjection systolique ?",
+      "choices": [
+        "40 mL",
+        "60 mL",
+        "90 mL",
+        "150 mL"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le volume d’éjection systolique est VTD − VTS, soit 150 − 90 = 60 mL."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les médiateurs vasoactifs cités et leurs caractéristiques biochimiques, quelles propositions sont exactes ?",
+      "choices": [
+        "L’endothéline est synthétisée par l’endothélium et fait partie des substances vasoconstrictrices.",
+        "Le monoxyde d’azote est synthétisé à partir de la L-arginine par la NO synthase.",
+        "La prostacycline PGI2 est produite à partir de l’acide arachidonique sous l’action de la cyclo-oxygénase.",
+        "Le thromboxane A2 est cité parmi les substances vasodilatatrices."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte classe l’endothéline et le thromboxane A2 parmi les vasoconstricteurs. Le NO et la prostacycline PGI2 sont vasodilatateurs, avec les voies de synthèse indiquées."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’aldostérone dans la régulation tensionnelle, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une hormone stéroïde synthétisée et sécrétée par la corticosurrénale.",
+        "Elle agit principalement sur le tube contourné distal et la partie proximale du tube collecteur.",
+        "Elle augmente l’excrétion urinaire de sodium.",
+        "Elle favorise l’excrétion de potassium et d’ions hydrogène."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’aldostérone est corticosurrénalienne, stéroïde, agit sur le tube contourné distal et le tube collecteur proximal, favorise la réabsorption de sodium et d’eau, ainsi que l’excrétion de potassium et d’ions hydrogène."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ADH et son rôle rénal, quelles propositions sont exactes ?",
+      "choices": [
+        "L’ADH est une hormone peptidique post-hypophysaire.",
+        "Elle augmente la perméabilité à l’eau libre du tube collecteur.",
+        "Elle entraîne une dilution des urines par diminution de la réabsorption hydrique.",
+        "Sa sécrétion peut être stimulée par les barorécepteurs artériels et les volorécepteurs des oreillettes."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’ADH est post-hypophysaire, augmente la perméabilité à l’eau libre du tube collecteur et concentre les urines. Ses stimuli comprennent les osmorécepteurs hypothalamiques, les barorécepteurs artériels et les volorécepteurs auriculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la succession des événements du système rénine-angiotensine-aldostérone, quelles propositions sont exactes ?",
+      "choices": [
+        "La rénine est sécrétée par le rein et catalyse la transformation de l’angiotensinogène en angiotensine I.",
+        "L’angiotensine I est transformée en angiotensine II par l’enzyme de conversion de l’angiotensine.",
+        "L’angiotensine II stimule directement la libération de bradykinine par la corticosurrénale.",
+        "L’angiotensine II est un puissant vasoconstricteur."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le système débute par la rénine rénale, puis l’angiotensine I est convertie en angiotensine II par l’enzyme de conversion. L’angiotensine II est vasoconstrictrice et stimule l’aldostérone, non la bradykinine."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de l’activation du système rénine-angiotensine-aldostérone, quels phénomènes contribuent à l’élévation de la pression artérielle ?",
+      "choices": [
+        "La vasoconstriction artériolaire.",
+        "L’augmentation des résistances périphériques.",
+        "La rétention hydrosodée via l’aldostérone.",
+        "La diminution de la volémie par effet natriurétique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système rénine-angiotensine-aldostérone augmente la pression artérielle par vasoconstriction artériolaire, augmentation des résistances périphériques, rétention hydrosodée et augmentation de la volémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le système des kinines et la bradykinine, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système des kinines s’oppose aux effets du système rénine-angiotensine-aldostérone.",
+        "La bradykinine est un puissant vasodilatateur.",
+        "La bradykinine possède un effet natriurétique.",
+        "La bradykinine est citée comme un puissant vasoconstricteur artériolaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les kinines s’opposent au système rénine-angiotensine-aldostérone. La bradykinine est vasodilatatrice et natriurétique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la régulation à long terme de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle dépend essentiellement de la volémie.",
+        "Le rein est l’organe principal de cette régulation.",
+        "Une augmentation de l’excrétion hydrosodée diminue la volémie et tend à diminuer la pression artérielle.",
+        "Une augmentation de la réabsorption de sodium et d’eau diminue la volémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La régulation prolongée dépend surtout de la volémie, contrôlée principalement par le rein. La réabsorption hydrosodée augmente la volémie, tandis que l’excrétion hydrosodée la diminue."
+    },
+    {
+      "type": "QCM",
+      "question": "En situation de stress, concernant la participation de la médullosurrénale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est stimulée par le système sympathique.",
+        "Elle sécrète de la noradrénaline et surtout de l’adrénaline.",
+        "Ses hormones reproduisent et amplifient les effets du système sympathique.",
+        "Ses catécholamines provoquent une vasodilatation via les récepteurs alpha-1."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système sympathique stimule la médullosurrénale, qui sécrète surtout l’adrénaline et aussi la noradrénaline. Les effets sympathiques sont reproduits et amplifiés ; la stimulation alpha-1 entraîne une vasoconstriction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets cardiovasculaires des catécholamines médullosurrénaliennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles augmentent la fréquence cardiaque via les récepteurs bêta-1.",
+        "Elles augmentent la contractilité myocardique.",
+        "Elles induisent une vasoconstriction via les récepteurs alpha-1.",
+        "Elles diminuent la pression artérielle par inhibition des effets sympathiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les catécholamines médullosurrénaliennes augmentent la fréquence cardiaque, la contractilité myocardique et la vasoconstriction, ce qui amplifie la réponse sympathique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes ou médiateurs tendent à augmenter la volémie selon le texte ?",
+      "choices": [
+        "La rétention hydrosodée induite par l’aldostérone.",
+        "L’augmentation de la réabsorption d’eau sous l’effet de l’ADH.",
+        "L’augmentation de la réabsorption de sodium et d’eau.",
+        "L’effet natriurétique de la bradykinine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’aldostérone et l’ADH augmentent la volémie par rétention hydrosodée ou hydrique. La bradykinine, par son effet natriurétique, tend au contraire à favoriser l’élimination sodée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments cités peuvent s’intégrer dans une tendance à la diminution de la pression artérielle ?",
+      "choices": [
+        "La vasodilatation induite par le monoxyde d’azote.",
+        "L’effet vasodilatateur de la prostacycline.",
+        "L’augmentation de l’excrétion hydrosodée.",
+        "La vasoconstriction induite par l’endothéline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le NO et la prostacycline sont vasodilatateurs. L’excrétion hydrosodée diminue la volémie et tend à diminuer la pression artérielle. L’endothéline est vasoconstrictrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la comparaison entre aldostérone et ADH, quelles propositions sont exactes ?",
+      "choices": [
+        "Les deux hormones participent à l’élévation de la volémie par action rénale.",
+        "L’aldostérone est une hormone stéroïde d’origine corticosurrénalienne.",
+        "La sécrétion d’ADH dépend uniquement des osmorécepteurs hypothalamiques.",
+        "L’ADH entraîne une réabsorption hydrique avec concentration des urines."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Aldostérone et ADH agissent sur le rein et augmentent la volémie. L’ADH est stimulée par les osmorécepteurs, mais aussi par les barorécepteurs artériels et les volorécepteurs auriculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les transformations enzymatiques et les précurseurs mentionnés, quelles propositions sont exactes ?",
+      "choices": [
+        "La rénine transforme l’angiotensinogène en angiotensine I.",
+        "L’enzyme de conversion de l’angiotensine transforme l’angiotensine I en angiotensine II.",
+        "La NO synthase permet la synthèse du monoxyde d’azote à partir de la L-arginine.",
+        "La cyclo-oxygénase intervient dans la production de la prostacycline PGI2 à partir de l’acide arachidonique."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les quatre associations enzyme-substrat-produit sont conformes au texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sites tubulaires et les effets rénaux des hormones de la volémie, quelles propositions sont exactes ?",
+      "choices": [
+        "L’aldostérone agit principalement sur le tube contourné distal et la partie proximale du tube collecteur.",
+        "L’ADH agit sur le tube collecteur en augmentant la perméabilité à l’eau libre.",
+        "L’ADH augmente principalement l’excrétion de potassium et d’ions hydrogène.",
+        "L’aldostérone favorise la réabsorption de sodium et d’eau."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’aldostérone agit sur le tube contourné distal et le tube collecteur proximal avec réabsorption sodée et hydrique. L’ADH augmente la perméabilité à l’eau du tube collecteur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle molécule est décrite comme une hormone rénale ayant une activité catalytique dans la formation de l’angiotensine I ?",
+      "choices": [
+        "L’aldostérone.",
+        "La rénine.",
+        "La bradykinine.",
+        "L’endothéline."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La rénine est une hormone sécrétée par le rein et catalyse la transformation de l’angiotensinogène en angiotensine I."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel récepteur est impliqué dans la vasoconstriction induite par les catécholamines médullosurrénaliennes ?",
+      "choices": [
+        "Récepteur bêta-1.",
+        "Récepteur alpha-1.",
+        "Osmorécepteur hypothalamique.",
+        "Volorécepteur auriculaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La vasoconstriction induite par les catécholamines médullosurrénaliennes se fait via les récepteurs alpha-1."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel segment tubulaire est le site d’action rénale indiqué pour l’augmentation de perméabilité à l’eau libre par l’ADH ?",
+      "choices": [
+        "Tube collecteur.",
+        "Tube contourné distal exclusivement.",
+        "Glomérule.",
+        "Artériole efférente."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’ADH agit sur le tube collecteur en augmentant sa perméabilité à l’eau libre."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel précurseur est utilisé pour la production de la prostacycline PGI2 selon le texte ?",
+      "choices": [
+        "L’angiotensinogène.",
+        "La L-arginine.",
+        "L’acide arachidonique.",
+        "Le sodium filtré."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La prostacycline PGI2 est produite à partir de l’acide arachidonique sous l’action de la cyclo-oxygénase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel médiateur stimule la libération d’aldostérone par la corticosurrénale dans le système rénine-angiotensine-aldostérone ?",
+      "choices": [
+        "L’angiotensine II.",
+        "Le monoxyde d’azote.",
+        "La prostacycline.",
+        "La bradykinine."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’angiotensine II stimule la libération d’aldostérone par la corticosurrénale."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les substances citées, laquelle associe explicitement une puissante vasodilatation à un effet natriurétique ?",
+      "choices": [
+        "L’endothéline.",
+        "La bradykinine.",
+        "Le thromboxane A2.",
+        "L’angiotensine II."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La bradykinine est décrite comme un puissant vasodilatateur possédant également un effet natriurétique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition générale de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à la force exercée sur les parois artérielles par le sang éjecté du cœur.",
+        "Elle constitue une constante physiologique hémodynamique relativement stable au repos.",
+        "Elle dépend du débit cardiaque et des résistances périphériques totales.",
+        "Elle est régulée uniquement par des mécanismes nerveux, sans intervention hormonale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PA est la force exercée par le sang éjecté sur les parois artérielles. Au repos, sa valeur moyenne varie peu. Elle dépend de DC × RPT et sa régulation fait intervenir des mécanismes nerveux et hormonaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la signification fonctionnelle de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle représente la force motrice permettant la perfusion des organes.",
+        "Sa régulation résulte d’interactions entre mécanismes nerveux et hormonaux.",
+        "Plusieurs mécanismes d’importance variable participent à sa valeur finale.",
+        "Sa stabilité au repos signifie qu’elle ne varie pas au cours du cycle cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PA assure la perfusion des organes et dépend de mécanismes régulateurs multiples. Elle reste relativement stable en moyenne au repos, mais varie bien au cours du cycle cardiaque entre systole et diastole."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les composantes de la courbe de pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "La pression artérielle systolique est la valeur maximale atteinte au pic d’éjection systolique.",
+        "La pression artérielle diastolique est la valeur minimale atteinte à la fin de la diastole.",
+        "La pression pulsée correspond à la différence entre pression systolique et pression diastolique.",
+        "La pression artérielle moyenne correspond simplement à la différence PAS − PAD."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "PAS, PAD et pression pulsée sont définies ainsi dans le texte. La PAM est approximée par PAD + 1/3(PAS − PAD), et non par PAS − PAD."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour une pression artérielle mesurée directement à 144/84 mmHg chez un adulte au repos couché, quelles propositions sont exactes selon les valeurs et formules du texte ?",
+      "choices": [
+        "La pression systolique est au-dessus de la plage normale donnée.",
+        "La pression diastolique appartient à la plage normale donnée.",
+        "La pression artérielle moyenne approximative est de 104 mmHg.",
+        "La pression pulsée est de 60 mmHg."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La PAS normale est 110–140 mmHg : 144 est élevée. La PAD normale est 60–85 mmHg : 84 est normale. PAM = 84 + 1/3(60) = 104 mmHg. Pression pulsée = 144 − 84 = 60 mmHg."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les limites des valeurs normales données par mesure directe chez l’adulte au repos en position couchée, quelles propositions sont exactes ?",
+      "choices": [
+        "Une pression systolique de 110 mmHg appartient à la plage normale indiquée.",
+        "Une pression diastolique de 85 mmHg appartient à la plage normale indiquée.",
+        "Une pression moyenne de 95 mmHg appartient à la plage normale indiquée.",
+        "Une pression systolique de 100 mmHg appartient à la plage normale indiquée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les plages normales données sont : PAS 110–140 mmHg, PAD 60–85 mmHg, PAM 70–95 mmHg. Ainsi, 110, 85 et 95 sont inclus dans les limites, contrairement à une PAS de 100 mmHg."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la méthode directe de mesure de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle utilise un cathéter muni d’un capteur de pression.",
+        "Le cathéter peut être introduit dans une artère périphérique.",
+        "L’artère radiale et l’artère fémorale sont citées comme exemples de sites possibles.",
+        "Le texte exclut la mesure au niveau de l’aorte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode directe utilise un cathéter avec capteur de pression, introduit dans une artère périphérique comme la radiale ou la fémorale, ou dans l’aorte. L’aorte n’est donc pas exclue."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la méthode auscultatoire de mesure de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle utilise un brassard et un stéthoscope.",
+        "Le brassard est dégonflé progressivement.",
+        "Les bruits de Korotkoff apparaissent lorsque la pression du brassard devient juste inférieure à la pression systolique.",
+        "Les bruits de Korotkoff sont expliqués par un flux laminaire continu sans vibration."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méthode auscultatoire repose sur brassard et stéthoscope avec dégonflage progressif. Les bruits apparaissent quand la pression du brassard devient juste inférieure à la PAS, par ouverture partielle de l’artère avec flux turbulent intermittent et vibrations."
+    },
+    {
+      "type": "QCM",
+      "question": "En appliquant strictement la relation PA = débit cardiaque × résistances périphériques totales, quelles propositions sont exactes ?",
+      "choices": [
+        "Si le débit cardiaque double et que les résistances périphériques totales sont divisées par deux, la pression artérielle reste inchangée.",
+        "Si le débit cardiaque augmente isolément, la pression artérielle augmente.",
+        "Si les résistances périphériques totales diminuent isolément, la pression artérielle diminue.",
+        "En cas de variations opposées du débit cardiaque et des résistances, l’effet final sur la PA dépend de l’amplitude respective de ces variations."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La relation PA = DC × RPT implique une dépendance multiplicative. Des variations opposées peuvent se compenser ou non selon leur amplitude."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la relation PA = [(VTD − VTS) × fréquence cardiaque] × RPT, quelles variations isolées tendent à diminuer la pression artérielle ?",
+      "choices": [
+        "Une augmentation du volume télésystolique.",
+        "Une diminution du volume télédiastolique.",
+        "Une diminution de la fréquence cardiaque.",
+        "Une augmentation des résistances périphériques totales."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le volume d’éjection systolique vaut VTD − VTS. Augmenter VTS ou diminuer VTD diminue le volume d’éjection. Une baisse de fréquence cardiaque diminue aussi le débit cardiaque. Une augmentation des RPT tend au contraire à augmenter la PA."
+    },
+    {
+      "type": "QCM",
+      "question": "Deux situations hémodynamiques sont comparées avec des résistances périphériques totales identiques : situation A : VTD = 140 mL, VTS = 60 mL, fréquence = 75/min ; situation B : VTD = 120 mL, VTS = 60 mL, fréquence = 100/min. Quelles propositions sont exactes ?",
+      "choices": [
+        "Le volume d’éjection systolique de la situation A est de 80 mL.",
+        "Le volume d’éjection systolique de la situation B est de 60 mL.",
+        "Le débit cardiaque calculé à partir des données fournies est identique dans les deux situations.",
+        "À résistances identiques, la pression artérielle de la situation B est nécessairement plus basse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "VES A = 140 − 60 = 80 mL ; DC A = 80 × 75 = 6000 mL/min. VES B = 120 − 60 = 60 mL ; DC B = 60 × 100 = 6000 mL/min. Avec des RPT identiques, la PA calculée est donc identique."
+    },
+    {
+      "type": "QCM",
+      "question": "Selon la loi de Poiseuille, si le rayon artériolaire diminue de 20 % alors que les autres paramètres restent inchangés, quelles propositions sont exactes ?",
+      "choices": [
+        "La résistance vasculaire augmente approximativement d’un facteur 2,4.",
+        "L’effet important du rayon s’explique par sa présence à la puissance quatrième au dénominateur.",
+        "La résistance vasculaire devient égale à 0,8 puissance 4 de sa valeur initiale.",
+        "Cette modification du rayon tend à augmenter la pression artérielle via l’augmentation des résistances périphériques."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Si r devient 0,8r, alors R est multipliée par 1/(0,8^4), soit environ 2,44. Une diminution du rayon artériolaire augmente fortement les résistances, ce qui tend à augmenter la PA."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’organisation générale du système neurovégétatif impliqué dans la régulation immédiate de la pression artérielle, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est intégré au cerveau et à la moelle épinière.",
+        "Il contrôle le fonctionnement viscéral.",
+        "Il comporte une double commande stimulatrice et modératrice.",
+        "Le système parasympathique y est décrit comme adrénergique et accélérateur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le système neurovégétatif est intégré au cerveau et à la moelle épinière, contrôle les fonctions viscérales et comporte une double commande. Le parasympathique est cholinergique et freinateur ; le sympathique est adrénergique et accélérateur."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une augmentation de la pression artérielle détectée par les barorécepteurs, quelles propositions sont exactes ?",
+      "choices": [
+        "Les barorécepteurs sont étirés par l’augmentation de la tension pariétale.",
+        "Le tonus sympathique diminue.",
+        "Le tonus parasympathique augmente.",
+        "La fréquence cardiaque, la contractilité et les résistances périphériques augmentent simultanément."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une augmentation de PA étire les barorécepteurs, entraînant une baisse du tonus sympathique et une augmentation du tonus parasympathique. Il en résulte une baisse de la fréquence cardiaque, de la contractilité et des résistances périphériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une augmentation du volume sanguin, quelles propositions concernant les volorécepteurs sont exactes ?",
+      "choices": [
+        "Les volorécepteurs sont situés dans les parois du système à basse pression.",
+        "L’augmentation du volume entraîne une dilatation des parois qui stimule ces récepteurs.",
+        "Leur réflexe peut moduler le débit cardiaque et les résistances périphériques totales.",
+        "Ils sont définis dans le texte comme des récepteurs principalement sensibles à la tension de la paroi artérielle du sinus carotidien."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les volorécepteurs appartiennent au système à basse pression et répondent aux variations de volume. Leur stimulation module DC et RPT via le centre cardiovasculaire bulbaire. La sensibilité à la tension pariétale du sinus carotidien correspond aux barorécepteurs."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise correctement la pression artérielle diastolique selon le texte ?",
+      "choices": [
+        "C’est la valeur maximale atteinte au pic d’éjection systolique.",
+        "C’est la valeur minimale atteinte à la fin de la diastole.",
+        "C’est la différence entre la pression systolique et la pression diastolique.",
+        "C’est la pression perçue uniquement dans les artères du poignet."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La PAD est la valeur minimale de la pression artérielle, atteinte à la fin de la diastole."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour une pression artérielle de 123/87 mmHg, quelle est la pression artérielle moyenne approximative selon la formule du texte ?",
+      "choices": [
+        "91 mmHg",
+        "95 mmHg",
+        "99 mmHg",
+        "102 mmHg"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "PAM = PAD + 1/3(PAS − PAD) = 87 + 1/3(36) = 87 + 12 = 99 mmHg."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon la loi de Poiseuille donnée, que devient la résistance vasculaire si le rayon vasculaire est divisé par deux, toutes choses égales par ailleurs ?",
+      "choices": [
+        "Elle est divisée par 16.",
+        "Elle est divisée par 2.",
+        "Elle est multipliée par 2.",
+        "Elle est multipliée par 16."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La résistance est inversement proportionnelle à r^4. Si r est divisé par 2, R est multipliée par 2^4, soit 16."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le réflexe barorécepteur, quel est le site d’intégration mentionné dans le texte ?",
+      "choices": [
+        "Le sinus carotidien.",
+        "Les corpuscules carotidiens.",
+        "Le centre cardiovasculaire bulbaire.",
+        "Les parois du système à basse pression."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les barorécepteurs sont localisés notamment au sinus carotidien et à la crosse aortique, mais l’intégration du réflexe se fait au centre cardiovasculaire bulbaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel paramètre est spécifiquement détecté par les barorécepteurs selon le texte ?",
+      "choices": [
+        "La concentration sanguine en oxygène.",
+        "La variation du pH.",
+        "La tension de la paroi artérielle.",
+        "La concentration en dioxyde de carbone."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les barorécepteurs sont sensibles à la tension de la paroi artérielle. Les variations d’O2, de CO2 et de pH relèvent des chémorécepteurs."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la régulation à moyen terme décrite, quel est l’objet principal de l’action des hormones et médiateurs vasoactifs ?",
+      "choices": [
+        "Le tonus vasculaire.",
+        "La formation des bruits de Korotkoff.",
+        "La localisation des barorécepteurs.",
+        "La mesure directe dans l’aorte."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La régulation à moyen terme repose principalement sur la vasomotricité et fait intervenir des hormones et médiateurs vasoactifs agissant sur le tonus vasculaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les voies de synthèse ou d’origine explicitement indiquées pour les médiateurs vasoactifs, quelles propositions sont exactes ?",
+      "choices": [
+        "L’endothéline est synthétisée par l’endothélium.",
+        "Le monoxyde d’azote est synthétisé à partir de la L-arginine par la NO synthase.",
+        "La prostacycline PGI2 est produite à partir de l’acide arachidonique sous l’action de la cyclo-oxygénase.",
+        "L’angiotensine II est produite à partir de l’angiotensine I sous l’action directe de la rénine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise l’origine endothéliale de l’endothéline, la synthèse du NO à partir de la L-arginine par la NO synthase et celle de la PGI2 à partir de l’acide arachidonique par la cyclo-oxygénase. L’angiotensine II dérive de l’angiotensine I sous l’action de l’enzyme de conversion, non de la rénine."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’augmentation de pression artérielle liée au système rénine-angiotensine-aldostérone, quelles composantes mécanistiques sont directement citées ?",
+      "choices": [
+        "Une vasoconstriction artériolaire.",
+        "Une augmentation des résistances périphériques.",
+        "Une rétention hydrosodée via l’aldostérone.",
+        "Une natriurèse induite par la bradykinine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’activation du SRAA augmente la pression artérielle par vasoconstriction artériolaire, augmentation des résistances périphériques, rétention hydrosodée via l’aldostérone et augmentation de la volémie. La natriurèse liée à la bradykinine s’oppose plutôt à ce système."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer les médiateurs agissant surtout sur le tonus vasculaire de ceux agissant sur la volémie, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "L’angiotensine II exerce un effet vasoconstricteur puissant.",
+        "L’aldostérone augmente la volémie par rétention hydrosodée.",
+        "L’ADH augmente la réabsorption d’eau et élève la volémie.",
+        "La prostacycline augmente les résistances périphériques par vasoconstriction."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’angiotensine II est un puissant vasoconstricteur. L’aldostérone augmente la volémie par rétention hydrosodée, et l’ADH par réabsorption d’eau. La prostacycline est vasodilatatrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets rénaux tubulaires attribués à l’aldostérone, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle agit au niveau du tube contourné distal.",
+        "Elle agit au niveau de la partie proximale du tube collecteur.",
+        "Elle favorise l’excrétion de potassium.",
+        "Elle diminue directement la perméabilité à l’eau libre du tube collecteur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’aldostérone agit principalement sur le tube contourné distal et la partie proximale du tube collecteur. Elle entraîne la réabsorption de sodium et d’eau, ainsi que l’excrétion de potassium et d’ions hydrogène. L’augmentation de la perméabilité à l’eau libre du tube collecteur concerne l’ADH."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ADH dans la régulation tensionnelle, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle augmente la perméabilité à l’eau libre du tube collecteur.",
+        "Elle entraîne une réabsorption hydrique.",
+        "Elle participe à la concentration des urines.",
+        "Elle stimule directement l’excrétion de potassium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ADH agit sur le tube collecteur en augmentant la perméabilité à l’eau libre, ce qui favorise la réabsorption hydrique et la concentration des urines. L’excrétion de potassium est un effet de l’aldostérone."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’opposition fonctionnelle entre le système des kinines et le système rénine-angiotensine-aldostérone, quelles propositions sont exactes ?",
+      "choices": [
+        "Le système des kinines s’oppose aux effets du système rénine-angiotensine-aldostérone.",
+        "La bradykinine est un puissant vasodilatateur.",
+        "La bradykinine possède un effet natriurétique.",
+        "La bradykinine stimule la libération d’aldostérone par la corticosurrénale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que le système des kinines s’oppose au SRAA. La bradykinine est vasodilatatrice et natriurétique. La stimulation de l’aldostérone par la corticosurrénale est attribuée à l’angiotensine II."
+    },
+    {
+      "type": "QCM",
+      "question": "En situation de stress, quelles réponses cardiovasculaires sont attribuées aux hormones médullosurrénaliennes ?",
+      "choices": [
+        "Augmentation de la fréquence cardiaque via les récepteurs bêta-1.",
+        "Augmentation de la contractilité myocardique.",
+        "Vasoconstriction via les récepteurs alpha-1.",
+        "Vasodilatation par activation directe des récepteurs alpha-1."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La médullosurrénale sécrète surtout de l’adrénaline et de la noradrénaline en situation de stress, reproduisant et amplifiant les effets sympathiques : augmentation de fréquence cardiaque via bêta-1, augmentation de contractilité et vasoconstriction via alpha-1."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les médiateurs suivants, lesquels sont correctement classés selon leur effet vasculaire dans le texte ?",
+      "choices": [
+        "Le thromboxane A2 est classé parmi les substances vasoconstrictrices.",
+        "L’endothéline est classée parmi les substances vasoconstrictrices.",
+        "La prostacycline est classée parmi les substances vasodilatatrices.",
+        "La bradykinine est classée parmi les substances vasoconstrictrices."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le thromboxane A2 et l’endothéline font partie des vasoconstricteurs cités. La prostacycline est vasodilatatrice. La bradykinine est au contraire un puissant vasodilatateur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les liens hormonaux en aval de l’angiotensine II, quelles propositions sont exactes ?",
+      "choices": [
+        "L’angiotensine II stimule la libération d’aldostérone.",
+        "L’aldostérone est libérée par la corticosurrénale.",
+        "L’aldostérone favorise une rétention hydrosodée.",
+        "L’aldostérone transforme l’angiotensine I en angiotensine II."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’angiotensine II stimule la libération d’aldostérone par la corticosurrénale. L’aldostérone favorise la rétention hydrosodée. La conversion de l’angiotensine I en angiotensine II dépend de l’enzyme de conversion."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles hormones ou substances citées peuvent contribuer à une élévation de la pression artérielle par augmentation de la volémie et/ou vasoconstriction ?",
+      "choices": [
+        "Angiotensine II.",
+        "Aldostérone.",
+        "ADH.",
+        "Prostacycline."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’angiotensine II est vasoconstrictrice, l’aldostérone augmente la volémie par rétention hydrosodée, et l’ADH augmente la réabsorption d’eau et la volémie. La prostacycline est vasodilatatrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’excrétion hydrosodée dans la régulation à long terme, quelles propositions sont exactes ?",
+      "choices": [
+        "Son augmentation diminue la volémie.",
+        "Son augmentation tend à augmenter la pression artérielle.",
+        "Elle est modulée par le rein sous influence hormonale.",
+        "Elle s’oppose fonctionnellement à la rétention hydrosodée induite par l’aldostérone."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’augmentation de l’excrétion hydrosodée diminue la volémie et tend à diminuer la pression artérielle. Le rein module cette excrétion sous l’influence de différentes hormones. Elle s’oppose à la rétention hydrosodée favorisée par l’aldostérone."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les caractéristiques générales de l’aldostérone dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une hormone stéroïde.",
+        "Elle est synthétisée et sécrétée par la corticosurrénale.",
+        "Elle agit principalement sur le rein.",
+        "Elle est une hormone peptidique post-hypophysaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’aldostérone est une hormone stéroïde synthétisée et sécrétée par la corticosurrénale, agissant principalement sur le rein. L’hormone peptidique post-hypophysaire est l’ADH."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la sécrétion et l’action de l’ADH, quelles propositions sont exactes ?",
+      "choices": [
+        "Les osmorécepteurs hypothalamiques sensibles à l’osmolarité plasmatique stimulent sa sécrétion.",
+        "Les barorécepteurs artériels font partie de ses stimuli de sécrétion.",
+        "Les volorécepteurs des oreillettes font partie de ses stimuli de sécrétion.",
+        "Sa sécrétion est déclenchée par la transformation de l’angiotensinogène en angiotensine I."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les stimuli de sécrétion de l’ADH cités sont les osmorécepteurs hypothalamiques, les barorécepteurs artériels et les volorécepteurs des oreillettes. La transformation de l’angiotensinogène en angiotensine I relève de l’action de la rénine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la succession biochimique du système rénine-angiotensine-aldostérone, quelles propositions sont exactes ?",
+      "choices": [
+        "La rénine catalyse la transformation de l’angiotensinogène en angiotensine I.",
+        "L’enzyme de conversion transforme l’angiotensine I en angiotensine II.",
+        "L’angiotensine II stimule la libération d’aldostérone.",
+        "L’aldostérone est produite à partir de l’acide arachidonique sous l’action de la cyclo-oxygénase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cascade décrite est : angiotensinogène transformé en angiotensine I par la rénine, puis angiotensine I transformée en angiotensine II par l’enzyme de conversion, avec stimulation de l’aldostérone par l’angiotensine II. La production à partir de l’acide arachidonique par cyclo-oxygénase concerne la prostacycline PGI2."
+    },
+    {
+      "type": "QCS",
+      "question": "En situation de stress, quelle hormone médullosurrénalienne est sécrétée surtout selon le texte ?",
+      "choices": [
+        "Noradrénaline.",
+        "Adrénaline.",
+        "Aldostérone.",
+        "ADH."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte indique que la médullosurrénale sécrète de la noradrénaline et surtout de l’adrénaline en situation de stress."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle hormone est directement libérée par la corticosurrénale sous stimulation de l’angiotensine II ?",
+      "choices": [
+        "ADH.",
+        "Aldostérone.",
+        "Bradykinine.",
+        "Prostacycline."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’angiotensine II stimule la libération d’aldostérone par la corticosurrénale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel site rénal est explicitement communément concerné par l’action de l’aldostérone et de l’ADH dans le texte ?",
+      "choices": [
+        "Tube contourné proximal.",
+        "Tube collecteur.",
+        "Glomérule.",
+        "Anse de Henle."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’aldostérone agit sur la partie proximale du tube collecteur, tandis que l’ADH agit sur le tube collecteur en augmentant sa perméabilité à l’eau libre."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel stimulus de sécrétion de l’ADH est décrit comme sensible à l’osmolarité plasmatique ?",
+      "choices": [
+        "Les barorécepteurs artériels.",
+        "Les volorécepteurs des oreillettes.",
+        "Les osmorécepteurs hypothalamiques.",
+        "Les récepteurs alpha-1."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les osmorécepteurs hypothalamiques sont explicitement décrits comme sensibles à l’osmolarité plasmatique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel effet ionique est attribué à l’aldostérone au niveau rénal ?",
+      "choices": [
+        "Excrétion de sodium.",
+        "Excrétion de potassium.",
+        "Réabsorption d’ions hydrogène.",
+        "Excrétion d’eau libre."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’aldostérone entraîne la réabsorption de sodium et d’eau, ainsi que l’excrétion de potassium et d’ions hydrogène."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel système est explicitement décrit comme s’opposant aux effets du système rénine-angiotensine-aldostérone ?",
+      "choices": [
+        "Le système des kinines.",
+        "Le système médullosurrénalien.",
+        "Le système de l’endothéline.",
+        "Le système de l’aldostérone."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que le système des kinines s’oppose aux effets du système rénine-angiotensine-aldostérone."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T22:07:22.720Z"
+}

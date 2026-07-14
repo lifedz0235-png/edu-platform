@@ -1,0 +1,3112 @@
+{
+  "category": "biologie",
+  "module": "genetique",
+  "courseId": 21,
+  "courseTitle": "Atelier Genetique",
+  "supportTitle": "atelier-genetique",
+  "supportType": "pptx",
+  "supportUrl": "/pdfs/biologie-pdf/GENETIQUE/atelier-genetique.pptx",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 141,
+    "qcs": 59
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les notions de base en génétique mendélienne, quelles propositions sont exactes ?",
+      "choices": [
+        "Un gène est une portion d’ADN porteuse d’une information héréditaire précise.",
+        "Le locus correspond à l’une des formes possibles d’un même gène.",
+        "Un allèle est une forme possible d’un gène située au même locus.",
+        "Un individu hétérozygote possède deux allèles identiques pour un même gène."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le gène est une portion d’ADN porteuse d’une information héréditaire. Le locus est la position physique du gène sur le chromosome. L’allèle est une forme possible d’un même gène. L’hétérozygote possède deux allèles différents."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du génotype, du phénotype, de la pénétrance et de l’expressivité, quelles propositions sont exactes ?",
+      "choices": [
+        "Le génotype correspond à la constitution génétique d’une cellule ou d’un individu.",
+        "Le phénotype résulte uniquement de l’environnement, indépendamment du génotype.",
+        "La pénétrance est la proportion de porteurs d’un génotype pathologique exprimant le phénotype associé.",
+        "L’expressivité correspond au degré de sévérité ou aux modalités d’expression d’un phénotype pour un même génotype."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le phénotype correspond aux caractères observables résultant de l’expression du génotype avec influence éventuelle de l’environnement. La pénétrance mesure la fréquence d’expression du phénotype chez les porteurs du génotype pathologique, tandis que l’expressivité décrit sa sévérité ou ses modalités."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les chromosomes et le caryotype humains, quelles propositions sont exactes ?",
+      "choices": [
+        "Les chromosomes sont situés dans le noyau des cellules.",
+        "Les chromosomes sont visibles lors de la division cellulaire.",
+        "Le caryotype permet notamment de détecter les anomalies du nombre des chromosomes.",
+        "Le caryotype est réalisé préférentiellement à partir de cellules non divisantes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les chromosomes sont nucléaires, supportent l’information génétique, peuvent être classés par paires et sont visibles lors de la division. Le caryotype est réalisé à partir de cellules en division et permet notamment de détecter les anomalies numériques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cellules somatiques, les cellules reproductrices et la méiose, quelles propositions sont exactes ?",
+      "choices": [
+        "Les cellules somatiques humaines possèdent habituellement 46 chromosomes.",
+        "Les cellules reproductrices humaines possèdent 23 chromosomes.",
+        "Les cellules reproductrices humaines possèdent deux chromosomes sexuels.",
+        "La méiose sépare au hasard les chromosomes d’une même paire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les cellules somatiques humaines possèdent habituellement 46 chromosomes, alors que les cellules reproductrices en possèdent 23 avec un seul chromosome sexuel. Elles sont issues de la méiose, qui sépare au hasard les chromosomes d’une même paire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la reproduction sexuée et de la fécondation, quelles propositions sont exactes ?",
+      "choices": [
+        "La reproduction sexuée conserve le caryotype de l’espèce.",
+        "La reproduction sexuée réunit au hasard les chromosomes d’origine maternelle et paternelle.",
+        "La fécondation constitue un zygote diploïde.",
+        "Le sexe génétique est déterminé par le chromosome sexuel apporté par l’ovocyte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La reproduction sexuée conserve le caryotype de l’espèce, réunit au hasard les chromosomes parentaux et permet un brassage génétique. La fécondation forme un zygote diploïde ; le sexe génétique est déterminé par le chromosome sexuel apporté par le spermatozoïde."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les codons et la traduction, quelles propositions sont exactes ?",
+      "choices": [
+        "Un codon est un triplet de nucléotides.",
+        "Plusieurs codons peuvent coder pour un même acide aminé.",
+        "Tous les codons codent nécessairement pour un acide aminé.",
+        "La traduction correspond à la synthèse protéique à partir de l’ARN messager."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Un codon est un triplet nucléotidique. Le code génétique est redondant car plusieurs codons peuvent coder le même acide aminé. Certains codons sont des codons stop et ne codent pas pour un acide aminé. La traduction synthétise une protéine à partir de l’ARN messager."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les introns et l’épissage de l’ARN, quelles propositions sont exactes ?",
+      "choices": [
+        "Les introns sont des séquences transcrites situées entre les exons.",
+        "Les introns sont excisés lors de l’épissage de l’ARN.",
+        "Les introns sont traduits systématiquement en protéine.",
+        "L’épissage de l’ARN aboutit à un ARN messager mature."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les introns sont transcrits mais situés entre les exons. Ils sont retirés lors de l’épissage et ne sont pas traduits en protéine. L’épissage retire les introns et assemble les exons pour produire un ARN messager mature."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’épissage alternatif, quelles propositions sont exactes ?",
+      "choices": [
+        "Il permet à un même gène de produire plusieurs ARN messagers matures différents.",
+        "Il repose sur une sélection variable des exons.",
+        "Il conduit toujours à une protéine strictement identique.",
+        "Il peut conduire à la synthèse de protéines isoformes différentes."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’épissage alternatif permet, à partir d’un même gène, la production de plusieurs ARN messagers matures par sélection variable des exons. Il peut entraîner la synthèse de protéines isoformes différentes."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles distinguent correctement les différents mécanismes appelés épissage ou ligation ?",
+      "choices": [
+        "L’épissage de l’ARN retire les introns et assemble les exons.",
+        "L’épissage des protéines est un processus post-traductionnel.",
+        "L’épissage des protéines élimine une séquence d’acides aminés d’une protéine précurseur.",
+        "La ligation de l’ADN est catalysée par l’ARN polymérase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épissage de l’ARN concerne le transcrit primaire. L’épissage des protéines est post-traductionnel et élimine une séquence d’acides aminés d’une protéine précurseur. La ligation de l’ADN attache deux fragments d’ADN double brin et est catalysée par une ADN ligase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transmission autosomique dominante à pénétrance complète, quelles propositions sont exactes ?",
+      "choices": [
+        "Le gène en cause est porté par un autosome.",
+        "Un seul allèle muté suffit à provoquer la maladie.",
+        "Un sujet hétérozygote porteur de l’allèle pathologique dominant est malade.",
+        "Les hommes sont atteints exclusivement car le gène est porté par le chromosome Y."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans la transmission autosomique dominante, le gène est autosomique et un seul allèle muté suffit. En cas de pénétrance complète, l’hétérozygote porteur de l’allèle pathologique est malade. Les deux sexes peuvent être atteints."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont compatibles avec une transmission autosomique dominante ?",
+      "choices": [
+        "Transmission verticale avec sujets atteints à chaque génération.",
+        "Possibilité de transmission père-fils.",
+        "Sujet atteint ayant généralement un parent atteint, sauf mutation de novo ou défaut de pénétrance.",
+        "Risque de 25 % d’enfant malade à chaque grossesse pour un sujet atteint hétérozygote."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transmission autosomique dominante est typiquement verticale, touche les deux sexes et permet la transmission père-fils. Un sujet atteint a généralement un parent atteint, sauf mutation de novo ou défaut de pénétrance. Le risque pour un hétérozygote atteint est de 50 % à chaque grossesse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transmission autosomique récessive, quelles propositions sont exactes ?",
+      "choices": [
+        "Deux allèles mutés sont nécessaires pour que la maladie se manifeste.",
+        "Les sujets malades peuvent être homozygotes ou composés hétérozygotes pour le gène en cause.",
+        "Les hétérozygotes sont généralement porteurs sains.",
+        "La maladie ne peut pas apparaître chez des enfants de parents phénotypiquement sains."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En autosomique récessif, la maladie nécessite deux allèles mutés. Les sujets atteints peuvent être homozygotes ou composés hétérozygotes. Les hétérozygotes sont généralement porteurs sains, ce qui explique qu’un enfant malade puisse naître de parents phénotypiquement sains."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une maladie autosomique récessive, pour un couple constitué de deux hétérozygotes porteurs sains, quelles propositions sont exactes à chaque grossesse ?",
+      "choices": [
+        "Le risque d’enfant malade est de 25 %.",
+        "Le risque d’enfant porteur sain est de 50 %.",
+        "Le risque d’enfant homozygote sain est de 25 %.",
+        "Le risque d’enfant malade devient nul après la naissance d’un premier enfant sain."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pour deux hétérozygotes, la répartition attendue à chaque grossesse est : 25 % d’enfant malade, 50 % d’enfant porteur sain et 25 % d’enfant homozygote sain. Le risque se raisonne à chaque grossesse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les probabilités de transmission en autosomique récessif, quelles propositions sont exactes ?",
+      "choices": [
+        "Un sujet malade homozygote avec un sujet homozygote sain a 0 % de risque d’enfant malade.",
+        "Un sujet malade homozygote avec un sujet homozygote sain donne des enfants tous porteurs sains.",
+        "Un sujet malade homozygote avec un sujet hétérozygote porteur sain a 50 % de risque d’enfant malade.",
+        "Deux sujets malades homozygotes ont 50 % de risque d’enfant malade."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un malade homozygote avec un homozygote sain n’a pas d’enfant malade et tous les enfants sont porteurs sains. Un malade homozygote avec un hétérozygote a 50 % de risque d’enfant malade. Deux malades homozygotes ont 100 % de risque d’enfant malade."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transmission récessive liée à l’X, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Le gène muté est porté par le chromosome X.",
+        "Les garçons sont le plus souvent atteints car ils ne possèdent qu’un seul chromosome X.",
+        "Les femmes sont le plus souvent indemnes ou conductrices.",
+        "Le gène muté est porté par un autosome."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans la transmission récessive liée à l’X, le gène muté est porté par le chromosome X. Les garçons sont le plus souvent atteints car ils n’ont qu’un seul chromosome X. Les femmes sont le plus souvent indemnes ou conductrices."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le mieux l’hérédité monogénique mendélienne ?",
+      "choices": [
+        "Transmission d’une maladie génétique due à une mutation dans un seul gène.",
+        "Transmission d’une anomalie liée exclusivement au nombre des chromosomes.",
+        "Transmission d’un caractère acquis uniquement sous l’influence de l’environnement.",
+        "Transmission nécessitant obligatoirement plusieurs gènes mutés."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hérédité monogénique, monofactorielle ou mendélienne correspond à la transmission de maladies génétiques dues à une mutation dans un seul gène."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la définition correcte d’un promoteur ?",
+      "choices": [
+        "Séquence d’ADN impliquée dans l’initiation de la transcription et site de fixation de l’ARN polymérase.",
+        "Triplet de nucléotides codant nécessairement pour un acide aminé.",
+        "Fragment protéique éliminé lors de l’épissage post-traductionnel.",
+        "Chromosome sexuel apporté par le spermatozoïde."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Un promoteur est une séquence d’ADN impliquée dans l’initiation de la transcription et servant de site de fixation à l’ARN polymérase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’apport principal du caryotype mentionné dans le texte ?",
+      "choices": [
+        "Détecter notamment les anomalies du nombre des chromosomes.",
+        "Identifier systématiquement toutes les mutations ponctuelles d’un gène.",
+        "Mesurer la pénétrance d’une maladie dominante.",
+        "Déterminer le degré d’expressivité d’un phénotype."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le caryotype représente les chromosomes présents dans le noyau et permet notamment de détecter les anomalies du nombre des chromosomes."
+    },
+    {
+      "type": "QCS",
+      "question": "Lors de la fécondation, quel élément détermine le sexe génétique selon le texte ?",
+      "choices": [
+        "Le chromosome sexuel apporté par le spermatozoïde.",
+        "Le chromosome sexuel apporté par l’ovocyte.",
+        "Le nombre d’introns du zygote.",
+        "Le degré d’expressivité du génotype paternel."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La fécondation entraîne la détermination du sexe génétique par le chromosome sexuel apporté par le spermatozoïde."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une famille où un enfant est atteint d’une maladie autosomique récessive, quelle est la probabilité pour un frère ou une sœur sain d’être porteur sain ?",
+      "choices": [
+        "1/4",
+        "1/2",
+        "2/3",
+        "100 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Pour un enfant sain ayant un frère ou une sœur atteint d’une maladie autosomique récessive, la probabilité d’être porteur sain est de 2/3."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une maladie autosomique dominante, quel est le risque de transmission à chaque grossesse pour un sujet atteint hétérozygote ?",
+      "choices": [
+        "0 %",
+        "25 %",
+        "50 %",
+        "100 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Un sujet atteint hétérozygote pour une maladie autosomique dominante a, à chaque grossesse, un risque de 50 % de transmettre la maladie à sa descendance."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’hémophilie récessive liée à l’X, pour un homme hémophile marié à une femme non conductrice, quelles propositions sont exactes ?",
+      "choices": [
+        "Toutes les filles seront conductrices.",
+        "Tous les garçons seront sains.",
+        "Il n’existe pas de transmission paternelle directe à un fils.",
+        "La moitié des filles seront atteintes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un homme atteint transmet son chromosome X muté à toutes ses filles et son chromosome Y à tous ses fils. Si la mère n’est pas conductrice, les filles sont conductrices et les garçons sont sains."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour une femme conductrice d’une maladie récessive liée à l’X et un père sain, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle transmet l’allèle muté à 50 % de ses fils, qui seront atteints.",
+        "Elle transmet l’allèle muté à 50 % de ses filles, qui seront conductrices.",
+        "Tous ses fils seront conducteurs obligatoires.",
+        "Toutes ses filles seront atteintes."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Une femme conductrice transmet l’allèle muté à 50 % de ses fils et à 50 % de ses filles. Si le père est sain, les filles ayant reçu l’allèle muté sont conductrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments d’un arbre généalogique orientent vers une transmission récessive liée à l’X ?",
+      "choices": [
+        "Absence de transmission père-fils.",
+        "Affection identique chez un oncle maternel.",
+        "Atteinte possible de frères dans une même fratrie.",
+        "Consanguinité parentale comme argument spécifique de cette transmission."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les maladies récessives liées à l’X se caractérisent notamment par l’absence de transmission père-fils et peuvent se manifester dans la lignée maternelle, chez des frères ou chez un oncle maternel."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conductrices obligatoires dans les maladies récessives liées à l’X, quelles propositions sont exactes ?",
+      "choices": [
+        "Les filles d’un homme atteint sont conductrices obligatoires si la mère est saine.",
+        "La mère de deux garçons atteints est conductrice obligatoire, sauf circonstances exceptionnelles.",
+        "Une fille d’homme hémophile est conductrice obligatoire, sauf exception génétique.",
+        "Toutes les sœurs d’un garçon atteint sont obligatoirement atteintes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les filles d’un homme atteint reçoivent son X muté. La mère de deux garçons atteints est considérée conductrice obligatoire sauf exception. Les sœurs d’un garçon atteint ne sont pas toutes obligatoirement atteintes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’expression féminine des maladies récessives liées à l’X, quelles propositions sont exactes ?",
+      "choices": [
+        "Une femme peut être atteinte si elle possède deux allèles mutés.",
+        "Une manifestation féminine peut dépendre de l’inactivation du chromosome X.",
+        "Une femme atteinte transmet l’allèle muté à tous ses fils.",
+        "Une femme conductrice transmet obligatoirement l’allèle muté à tous ses fils."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une femme peut être atteinte en cas de deux allèles mutés ou selon l’inactivation du chromosome X. Une femme atteinte transmet l’allèle muté à tous ses fils, alors qu’une conductrice ne le transmet qu’à 50 % de ses fils."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la trisomie 21, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une anomalie chromosomique.",
+        "Elle est le plus souvent due à une non-disjonction méiotique.",
+        "Elle est principalement d’origine maternelle.",
+        "Elle résulte le plus souvent d’une anomalie de division réductionnelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La trisomie 21 est une anomalie chromosomique, le plus souvent liée à une non-disjonction méiotique, principalement d’origine maternelle, et souvent due à une anomalie de division réductionnelle."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos d’un gamète contenant deux chromosomes 21, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut conduire après fécondation à un zygote trisomique 21.",
+        "S’il s’agit d’un spermatozoïde contenant deux chromosomes 21 et un chromosome sexuel X fécondant un ovocyte normal, l’enfant conçu est une fille trisomique 21.",
+        "Sa formation est spécifiquement favorisée par la consanguinité.",
+        "Il traduit nécessairement une maladie autosomique récessive."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Un gamète ayant deux chromosomes 21 peut donner un zygote trisomique après fécondation. Si le spermatozoïde apporte deux chromosomes 21 et un X, la fécondation d’un ovocyte normal conduit à une fille trisomique 21."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la consanguinité et le risque génétique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle augmente le risque de maladies autosomiques récessives.",
+        "Elle n’augmente pas spécifiquement le risque de trisomie 21.",
+        "Elle n’augmente pas spécifiquement le risque de non-disjonction méiotique.",
+        "Une maladie enzymatique chez un garçon et une fille issus de parents phénotypiquement sains et consanguins évoque une transmission autosomique récessive."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La consanguinité favorise les maladies autosomiques récessives, mais pas spécifiquement la trisomie 21 ni la non-disjonction méiotique. L’atteinte des deux sexes chez des enfants de parents sains consanguins oriente vers l’autosomique récessif."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations maladie-mode de transmission suivantes, lesquelles sont exactes ?",
+      "choices": [
+        "Mucoviscidose : transmission autosomique récessive.",
+        "Phénylcétonurie : transmission autosomique récessive.",
+        "Neurofibromatose de type 1 : transmission autosomique dominante.",
+        "Achondroplasie : transmission autosomique dominante."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La mucoviscidose et la phénylcétonurie sont autosomiques récessives. La neurofibromatose de type 1 et l’achondroplasie sont autosomiques dominantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une affection autosomique dominante lorsque les deux parents sont hétérozygotes atteints, quelles propositions sont exactes ?",
+      "choices": [
+        "La probabilité de concevoir un enfant porteur de l’allèle muté est de 75 %.",
+        "Une forme homozygote sévère ou létale est possible selon la maladie.",
+        "La probabilité de concevoir un enfant sans allèle muté est nulle.",
+        "Cette situation peut concerner une affection autosomique dominante comme l’achondroplasie."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Lorsque les deux parents hétérozygotes sont atteints d’une affection autosomique dominante, 75 % des conceptions portent l’allèle muté, avec possibilité d’une forme homozygote sévère ou létale selon la maladie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une maladie récessive liée à l’X chez un homme atteint, quelles propositions sont exactes concernant sa descendance ?",
+      "choices": [
+        "Il transmet son chromosome X muté à toutes ses filles.",
+        "Il transmet son chromosome Y à tous ses fils.",
+        "Le risque pour un fils dépend du statut génétique de la mère.",
+        "Il transmet directement la maladie à tous ses fils."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un homme atteint transmet son X muté à ses filles et son Y à ses fils. Il n’y a pas de transmission père-fils ; le risque pour un fils dépend donc du statut maternel."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations familiales sont compatibles avec une maladie récessive liée à l’X ?",
+      "choices": [
+        "Plusieurs frères atteints.",
+        "Un grand-père maternel atteint.",
+        "Des cas regroupés dans la lignée maternelle.",
+        "Une transmission systématique d’un père atteint à tous ses fils."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les maladies récessives liées à l’X peuvent apparaître chez des frères, chez un grand-père maternel ou dans la lignée maternelle. La transmission père-fils n’existe pas."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes conduisant à une trisomie 21, quelles propositions sont exactes ?",
+      "choices": [
+        "Une non-disjonction méiotique peut être en cause.",
+        "Un gamète contenant deux chromosomes 21 peut participer à la formation d’un zygote trisomique.",
+        "L’origine est principalement maternelle.",
+        "La consanguinité en est un facteur spécifique selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La trisomie 21 est le plus souvent liée à une non-disjonction méiotique, principalement maternelle. Un gamète avec deux chromosomes 21 peut donner un zygote trisomique. La consanguinité n’augmente pas spécifiquement ce risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour différencier les modes de transmission évoqués dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Une maladie enzymatique chez un garçon et une fille de parents sains consanguins évoque l’autosomique récessif.",
+        "La mucoviscidose et la phénylcétonurie illustrent des maladies autosomiques récessives.",
+        "Une affection identique chez un oncle maternel peut orienter vers une transmission récessive liée à l’X.",
+        "La neurofibromatose de type 1 est un exemple de maladie autosomique récessive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’atteinte des deux sexes chez des enfants de parents sains consanguins oriente vers l’autosomique récessif. La mucoviscidose et la phénylcétonurie en sont des exemples. L’oncle maternel atteint évoque une transmission liée à l’X. La NF1 est autosomique dominante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme est le plus souvent responsable de la trisomie 21 selon le texte ?",
+      "choices": [
+        "Une mutation ponctuelle autosomique récessive.",
+        "Une non-disjonction méiotique.",
+        "Une consanguinité parentale.",
+        "Une transmission récessive liée à l’X."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La trisomie 21 est le plus souvent due à une non-disjonction méiotique."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une maladie récessive liée à l’X, quel est le statut attendu des filles d’un homme atteint si leur mère est saine ?",
+      "choices": [
+        "Elles sont toutes indemnes non conductrices.",
+        "Elles sont toutes conductrices obligatoires.",
+        "Elles sont toutes atteintes.",
+        "Elles ont toutes une trisomie 21."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Un homme atteint transmet son chromosome X muté à toutes ses filles ; si la mère est saine, elles sont conductrices obligatoires."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’hémophilie récessive liée à l’X, quel est le devenir des fils d’un homme hémophile et d’une femme non conductrice ?",
+      "choices": [
+        "Ils sont tous hémophiles.",
+        "Ils sont tous conducteurs obligatoires.",
+        "Ils sont tous sains.",
+        "Ils sont atteints dans 50 % des cas."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les fils reçoivent le chromosome Y paternel. Si la mère est non conductrice, ils ne reçoivent pas d’allèle X muté maternel et sont donc sains."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel risque génétique est augmenté par la consanguinité selon le texte ?",
+      "choices": [
+        "Le risque de maladies autosomiques récessives.",
+        "Le risque spécifique de trisomie 21.",
+        "Le risque spécifique de non-disjonction méiotique.",
+        "Le risque de transmission père-fils des maladies liées à l’X."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La consanguinité augmente le risque de maladies autosomiques récessives, mais pas spécifiquement celui de trisomie 21 ou de non-disjonction méiotique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le mode de transmission de la neurofibromatose de type 1 selon le texte ?",
+      "choices": [
+        "Autosomique récessif.",
+        "Récessif lié à l’X.",
+        "Autosomique dominant.",
+        "Chromosomique par non-disjonction méiotique."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La neurofibromatose de type 1 est une affection héréditaire à transmission autosomique dominante."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une affection autosomique dominante où les deux parents sont hétérozygotes atteints, quelle est la probabilité de concevoir un enfant porteur de l’allèle muté ?",
+      "choices": [
+        "25 %",
+        "50 %",
+        "75 %",
+        "100 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Lorsque les deux parents sont hétérozygotes atteints, la probabilité de concevoir un enfant porteur de l’allèle muté est de 75 %."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des relations entre gène, locus, allèle et zygotie, quelles propositions sont exactes ?",
+      "choices": [
+        "Un gène est une portion d’ADN porteuse d’une information génétique participant à la transmission d’un caractère.",
+        "Le locus correspond à la position physique d’un gène sur un chromosome.",
+        "Deux allèles différents d’un même gène définissent un état homozygote.",
+        "Un allèle correspond à une forme possible d’un même gène au même locus."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Un gène est une unité d’information génétique portée par l’ADN. Le locus est sa position physique sur un chromosome. Un allèle est une forme possible d’un même gène. Deux allèles différents définissent l’hétérozygotie, non l’homozygotie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’interprétation d’une maladie monogénique, quelles propositions distinguent correctement génotype, phénotype, pénétrance et expressivité ?",
+      "choices": [
+        "Le génotype correspond à la constitution génétique d’une cellule ou d’un individu.",
+        "Le phénotype peut être influencé par l’environnement.",
+        "La pénétrance mesure la proportion de porteurs d’un génotype pathologique exprimant le phénotype associé.",
+        "L’expressivité désigne la probabilité qu’un individu transmette un chromosome sexuel."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le génotype est la constitution génétique. Le phénotype correspond aux caractères observables et peut dépendre de l’environnement. La pénétrance est la proportion de porteurs exprimant le phénotype. L’expressivité concerne la sévérité ou les modalités d’expression, pas la transmission chromosomique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le caryotype et les chromosomes humains, quelles propositions sont exactes ?",
+      "choices": [
+        "Les chromosomes sont situés dans le noyau des cellules.",
+        "Le caryotype représente les chromosomes présents dans le noyau cellulaire.",
+        "Le caryotype est réalisé à partir de cellules en division.",
+        "Le caryotype est principalement décrit comme un outil de détection des anomalies du nombre des chromosomes."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que les chromosomes nucléaires sont visibles lors de la division cellulaire. Le caryotype représente ces chromosomes, se réalise à partir de cellules en division et permet notamment de détecter les anomalies numériques chromosomiques."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la méiose et des cellules reproductrices humaines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les cellules reproductrices humaines possèdent 23 chromosomes.",
+        "Chaque cellule reproductrice humaine contient un seul chromosome sexuel.",
+        "La méiose sépare au hasard les chromosomes d’une même paire.",
+        "Les cellules reproductrices humaines possèdent habituellement 46 chromosomes comme les cellules somatiques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les gamètes humains possèdent 23 chromosomes dont un seul chromosome sexuel. Ils résultent de la méiose, qui sépare au hasard les chromosomes d’une même paire. Les 46 chromosomes caractérisent les cellules somatiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours de la fécondation, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle aboutit à la constitution d’un zygote diploïde.",
+        "Elle forme un nouveau génome différent de ceux des parents.",
+        "Elle initie la segmentation.",
+        "Elle détermine le sexe génétique par le chromosome sexuel apporté par l’ovocyte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La fécondation constitue un zygote diploïde, crée un nouveau génome différent de ceux des parents et initie la segmentation. Le sexe génétique est déterminé par le chromosome sexuel apporté par le spermatozoïde."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les codons et la traduction, quelles propositions sont exactes ?",
+      "choices": [
+        "Un codon est formé de trois nucléotides.",
+        "Plusieurs codons peuvent coder pour un même acide aminé.",
+        "Certains codons ne codent pas pour un acide aminé.",
+        "La traduction correspond à la synthèse protéique à partir de l’ADN génomique directement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un codon est un triplet nucléotidique. Le code génétique est dégénéré : plusieurs codons peuvent coder le même acide aminé. Les codons stop ne codent pas pour un acide aminé. La traduction se fait à partir de l’ARN messager, non directement à partir de l’ADN génomique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le traitement du transcrit primaire en ARN messager mature, quelles propositions sont exactes ?",
+      "choices": [
+        "Les introns sont des séquences transcrites situées entre les exons.",
+        "Les introns sont excisés lors de l’épissage de l’ARN.",
+        "L’épissage de l’ARN assemble les exons après retrait des introns.",
+        "Les introns sont traduits systématiquement en protéine mature."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les introns sont transcrits, situés entre les exons, puis retirés lors de l’épissage. L’assemblage des exons permet d’obtenir un ARN messager mature. Les introns ne sont pas traduits en protéine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’épissage alternatif, quelles propositions sont exactes ?",
+      "choices": [
+        "Il permet à un même gène de produire plusieurs ARN messagers matures différents.",
+        "Il repose sur une sélection variable des exons.",
+        "Il peut conduire à des protéines isoformes différentes.",
+        "Il correspond à l’attachement covalent de deux fragments d’ADN double brin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épissage alternatif sélectionne variablement les exons, permettant à un même gène de produire plusieurs ARNm matures et éventuellement différentes isoformes protéiques. L’attachement covalent de fragments d’ADN correspond à la ligation de l’ADN."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une transmission autosomique dominante à pénétrance complète, quelles propositions sont exactes ?",
+      "choices": [
+        "Un seul allèle muté peut suffire à provoquer la maladie.",
+        "Un sujet hétérozygote porteur de l’allèle pathologique dominant est malade.",
+        "La transmission père-fils est possible.",
+        "La maladie ne peut atteindre qu’un seul sexe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En transmission autosomique dominante, un seul allèle muté suffit. Si la pénétrance est complète, l’hétérozygote porteur est malade. Le gène étant autosomique, les deux sexes peuvent être atteints et la transmission père-fils est possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une maladie autosomique dominante, quelles situations peuvent expliquer qu’un sujet atteint n’ait pas de parent atteint identifié ?",
+      "choices": [
+        "Une mutation de novo.",
+        "Un défaut de pénétrance chez un parent porteur.",
+        "Une impossibilité absolue de transmission verticale.",
+        "Une localisation obligatoire du gène sur le chromosome Y."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte indique qu’un sujet atteint a généralement un parent atteint, sauf mutation de novo ou défaut de pénétrance. La transmission verticale est au contraire habituelle, et le gène est porté par un autosome."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des formes homozygotes dans les maladies autosomiques dominantes, quelles propositions sont exactes ?",
+      "choices": [
+        "Les homozygotes atteints sont rares.",
+        "Ils peuvent présenter une forme plus sévère.",
+        "Leur forme peut parfois être létale.",
+        "Ils sont toujours phénotypiquement sains."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans les affections autosomiques dominantes, les homozygotes atteints sont rares et peuvent avoir une forme plus sévère, parfois létale. Ils ne sont pas décrits comme toujours sains."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une transmission autosomique récessive, quels statuts génotypiques sont compatibles avec la maladie ou le portage sain ?",
+      "choices": [
+        "Un sujet malade peut être homozygote pour le gène en cause.",
+        "Un sujet malade peut être composé hétérozygote pour le gène en cause.",
+        "Un hétérozygote est généralement porteur sain.",
+        "Un seul allèle muté suffit habituellement à rendre malade tout hétérozygote."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En autosomique récessif, deux allèles mutés sont nécessaires à l’expression de la maladie. Les malades peuvent être homozygotes ou composés hétérozygotes. Les hétérozygotes sont généralement porteurs sains."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont évocateurs d’une maladie autosomique récessive dans une famille ?",
+      "choices": [
+        "Des enfants malades peuvent naître de parents phénotypiquement sains.",
+        "Les deux sexes peuvent être atteints.",
+        "La consanguinité augmente le risque de ce mode de transmission.",
+        "La présence d’un sujet atteint impose toujours qu’un parent soit atteint."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les maladies autosomiques récessives peuvent apparaître chez des enfants de parents phénotypiquement sains, atteignent les deux sexes et sont favorisées par la consanguinité. Un parent atteint n’est pas obligatoire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant certaines unions impliquant une maladie autosomique récessive, quelles propositions sont exactes ?",
+      "choices": [
+        "Un sujet malade homozygote avec un sujet homozygote sain a 0 % de risque d’enfant malade.",
+        "Un sujet malade homozygote avec un sujet homozygote sain aura des enfants porteurs sains.",
+        "Un sujet malade homozygote avec un sujet hétérozygote porteur sain a 50 % de risque d’enfant malade.",
+        "Deux sujets malades homozygotes ont 100 % de risque d’enfant malade."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte donne explicitement ces risques : 0 % d’enfant malade et tous porteurs sains si malade homozygote × homozygote sain ; 50 % si malade homozygote × hétérozygote ; 100 % si deux malades homozygotes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement un locus ?",
+      "choices": [
+        "La position physique d’un gène sur un chromosome.",
+        "Une forme alternative d’un même gène.",
+        "La proportion d’individus exprimant un phénotype.",
+        "Un triplet de nucléotides codant toujours un acide aminé."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le locus est la position physique d’un gène sur un chromosome. Une forme alternative d’un gène est un allèle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond le mieux à l’expressivité ?",
+      "choices": [
+        "La présence de deux allèles identiques pour un même gène.",
+        "Le degré de sévérité ou les modalités d’expression d’un phénotype chez des porteurs d’un même génotype.",
+        "La localisation d’un gène sur un chromosome.",
+        "La synthèse protéique à partir de l’ARN messager."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’expressivité correspond au degré de sévérité ou aux modalités d’expression phénotypique chez des individus porteurs d’un même génotype."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel processus correspond à l’attachement covalent de deux fragments d’ADN double brin ?",
+      "choices": [
+        "L’épissage alternatif de l’ARN.",
+        "L’épissage des protéines.",
+        "La ligation de l’ADN catalysée par une ADN ligase.",
+        "La traduction ribosomale."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La ligation de l’ADN correspond à l’attachement covalent de deux fragments d’ADN double brin, catalysé par une ADN ligase."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une maladie autosomique récessive, quel est le résultat attendu pour les enfants d’un sujet malade homozygote et d’un sujet homozygote sain ?",
+      "choices": [
+        "100 % d’enfants malades.",
+        "50 % d’enfants malades et 50 % d’enfants homozygotes sains.",
+        "0 % d’enfants malades et tous les enfants porteurs sains.",
+        "25 % d’enfants malades à chaque grossesse."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Pour un sujet malade homozygote et un sujet homozygote sain, le risque d’enfant malade est de 0 %, et tous les enfants sont porteurs sains."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une transmission autosomique dominante, que peut-on dire d’un sujet sain qui n’est pas porteur de l’allèle muté ?",
+      "choices": [
+        "Il transmet l’allèle muté dans 50 % des grossesses.",
+        "Il ne transmet pas l’allèle muté.",
+        "Il transmet toujours l’allèle muté à ses filles seulement.",
+        "Il transmet l’allèle muté uniquement en cas de consanguinité."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’un sujet sain ne transmet pas l’allèle muté s’il n’en est pas porteur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle anomalie le caryotype permet-il notamment de détecter ?",
+      "choices": [
+        "Les anomalies du nombre des chromosomes.",
+        "Les variations d’expressivité d’un phénotype.",
+        "Les codons stop d’un ARN messager.",
+        "Les séquences régulatrices contenues dans les introns."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le caryotype est la représentation des chromosomes présents dans le noyau et permet notamment de détecter les anomalies du nombre des chromosomes."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un arbre généalogique suspect de transmission récessive liée à l’X, quels éléments sont en faveur de ce mode de transmission ?",
+      "choices": [
+        "Des garçons atteints dans une même fratrie",
+        "Une affection identique chez un oncle maternel",
+        "Une transmission directe père-fils répétée",
+        "Des cas retrouvés dans la lignée maternelle"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La transmission récessive liée à l’X touche volontiers des garçons apparentés par la lignée maternelle. L’absence de transmission père-fils est un élément important."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une maladie récessive liée à l’X, quelles propositions décrivent correctement le rôle du père atteint ?",
+      "choices": [
+        "Il transmet son chromosome X muté à toutes ses filles",
+        "Il transmet son chromosome Y à tous ses fils",
+        "Il transmet directement la maladie à tous ses fils",
+        "Le risque pour ses fils dépend du statut génétique de la mère"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Un homme atteint transmet son X muté à toutes ses filles et son Y à tous ses fils. Il n’y a donc pas de transmission paternelle directe aux fils ; le risque des fils dépend de la mère."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour une femme atteinte d’une maladie récessive liée à l’X mariée à un homme sain, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle transmet l’allèle muté à tous ses fils",
+        "Tous ses fils seront atteints selon le modèle décrit",
+        "Ses filles reçoivent nécessairement l’allèle muté maternel",
+        "Ses fils sont indemnes car ils reçoivent le chromosome Y paternel"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une femme atteinte transmet son X muté à tous ses enfants. Ses fils, recevant le Y paternel, n’ont qu’un seul X maternel muté et seront atteints."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le couple formé par un homme atteint d’une maladie récessive liée à l’X et une femme conductrice, quelles propositions sont compatibles avec les règles de transmission indiquées ?",
+      "choices": [
+        "Toutes les filles reçoivent l’X muté paternel",
+        "Une fille peut recevoir deux allèles mutés",
+        "Le risque d’atteinte d’un fils dépend de la transmission maternelle",
+        "Tous les fils sont atteints par transmission paternelle directe"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le père atteint donne son X muté à toutes ses filles. La mère conductrice peut transmettre l’allèle muté à 50 % de ses enfants. Les fils ne reçoivent pas l’X paternel."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’expression clinique chez les femmes dans les maladies récessives liées à l’X, quelles propositions sont exactes ?",
+      "choices": [
+        "Une femme peut être atteinte si elle possède deux allèles mutés",
+        "Une femme peut manifester la maladie selon l’inactivation du chromosome X",
+        "Une femme conductrice est toujours totalement asymptomatique selon le texte",
+        "Une fille d’homme atteint peut être conductrice obligatoire si sa mère est saine"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise qu’une femme peut être atteinte en cas de deux allèles mutés ou selon l’inactivation du chromosome X. La fille d’un homme atteint est conductrice obligatoire si la mère est saine."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des mécanismes de la trisomie 21, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est le plus souvent due à une non-disjonction méiotique",
+        "Elle est principalement d’origine maternelle",
+        "Elle résulte le plus souvent d’une anomalie de division réductionnelle",
+        "Elle est spécifiquement favorisée par la consanguinité"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La trisomie 21 est surtout liée à une non-disjonction méiotique, principalement maternelle, souvent lors de la division réductionnelle. La consanguinité ne l’augmente pas spécifiquement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant un gamète contenant deux chromosomes 21, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut conduire à un zygote trisomique 21 après fécondation",
+        "S’il s’agit d’un spermatozoïde contenant deux chromosomes 21 et un chromosome sexuel X, la fécondation d’un ovocyte normal conduit à une fille trisomique 21",
+        "Il correspond à une situation compatible avec une anomalie de disjonction méiotique",
+        "Sa survenue est spécifiquement augmentée par la consanguinité"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un gamète disomique pour le chromosome 21 peut donner un zygote trisomique. Le texte donne l’exemple du spermatozoïde X avec deux chromosomes 21 donnant une fille trisomique 21."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une maladie enzymatique observée chez un garçon et une fille issus de parents phénotypiquement sains et consanguins, quelles propositions sont exactes ?",
+      "choices": [
+        "La transmission autosomique récessive est évoquée",
+        "La consanguinité renforce l’hypothèse d’une maladie autosomique récessive",
+        "L’atteinte des deux sexes est compatible avec une transmission autosomique",
+        "La trisomie 21 doit être considérée comme spécifiquement favorisée par la consanguinité"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique qu’une maladie enzymatique chez un garçon et une fille de parents sains consanguins évoque une transmission autosomique récessive. La consanguinité n’augmente pas spécifiquement la trisomie 21."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les exemples de maladies et leurs modes de transmission cités, quelles propositions sont exactes ?",
+      "choices": [
+        "La mucoviscidose est une maladie autosomique récessive",
+        "La phénylcétonurie est une maladie autosomique récessive",
+        "La neurofibromatose de type 1 est autosomique dominante",
+        "L’achondroplasie est une affection récessive liée à l’X"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mucoviscidose et la phénylcétonurie sont autosomiques récessives. La neurofibromatose de type 1 et l’achondroplasie sont autosomiques dominantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsque deux parents sont hétérozygotes atteints d’une affection autosomique dominante, quelles propositions sont exactes ?",
+      "choices": [
+        "La probabilité de concevoir un enfant porteur de l’allèle muté est de 75 %",
+        "Un enfant peut recevoir deux allèles mutés",
+        "Une forme homozygote sévère ou létale est possible selon la maladie",
+        "Aucun enfant ne peut être indemne génétiquement"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Deux parents hétérozygotes atteints peuvent avoir 75 % d’enfants porteurs d’au moins un allèle muté, dont une proportion homozygote pouvant être sévère ou létale selon la maladie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la consanguinité et le conseil génétique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle augmente le risque de maladies autosomiques récessives",
+        "Elle n’augmente pas spécifiquement le risque de non-disjonction méiotique",
+        "Elle n’augmente pas spécifiquement le risque de trisomie 21",
+        "Elle transforme une maladie récessive liée à l’X en maladie autosomique dominante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La consanguinité augmente le risque d’affections autosomiques récessives, mais pas spécifiquement celui de trisomie 21 ni de non-disjonction méiotique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’hémophilie récessive liée à l’X, pour un homme hémophile, quelles propositions sont exactes ?",
+      "choices": [
+        "Il n’a pas de fils hémophile par transmission paternelle directe",
+        "Ses filles sont conductrices obligatoires sauf exception génétique",
+        "Si son épouse n’est pas conductrice, tous ses garçons sont sains",
+        "Si son épouse n’est pas conductrice, aucune de ses filles ne reçoit l’X muté paternel"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un homme hémophile transmet son X muté à toutes ses filles et son Y à ses fils. Avec une femme non conductrice, les filles sont conductrices et les garçons sont sains."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conductrices obligatoires dans les maladies récessives liées à l’X, quelles propositions sont exactes ?",
+      "choices": [
+        "La fille d’un homme atteint est conductrice obligatoire si la mère est saine",
+        "La mère de deux garçons atteints est conductrice obligatoire sauf circonstances exceptionnelles",
+        "Une femme conductrice transmet l’allèle muté à 50 % de ses filles si le père est sain",
+        "Une femme conductrice transmet l’allèle muté à tous ses fils"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La conductrice transmet l’allèle muté à 50 % de ses enfants. Les filles d’un homme atteint sont conductrices obligatoires si la mère est saine, et la mère de deux garçons atteints l’est également sauf exception."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer les situations évoquées dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Une affection identique chez un oncle maternel oriente vers une transmission récessive liée à l’X",
+        "Un parent atteint de neurofibromatose de type 1 expose chaque enfant à un risque de 50 %",
+        "Une maladie touchant un garçon et une fille de parents sains consanguins évoque une transmission autosomique récessive",
+        "La trisomie 21 est une maladie autosomique dominante à risque de 50 % si un parent est atteint"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte oppose les maladies récessives liées à l’X, les maladies autosomiques récessives favorisées par la consanguinité, et les affections autosomiques dominantes comme la neurofibromatose de type 1."
+    },
+    {
+      "type": "QCS",
+      "question": "Un spermatozoïde contenant deux chromosomes 21 et un chromosome sexuel X féconde un ovocyte normal. Quel résultat est attendu selon le texte ?",
+      "choices": [
+        "Un garçon trisomique 21",
+        "Une fille trisomique 21",
+        "Une fille conductrice d’une maladie liée à l’X",
+        "Un zygote monosomique 21"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’un spermatozoïde contenant deux chromosomes 21 et un chromosome sexuel X conduit, après fécondation d’un ovocyte normal, à une fille trisomique 21."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les affections suivantes, laquelle est citée comme autosomique dominante ?",
+      "choices": [
+        "Mucoviscidose",
+        "Phénylcétonurie",
+        "Achondroplasie",
+        "Hémophilie récessive liée à l’X"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’achondroplasie est explicitement citée comme une affection autosomique dominante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé résume le mieux l’effet génétique de la consanguinité selon le texte ?",
+      "choices": [
+        "Elle augmente spécifiquement le risque de trisomie 21",
+        "Elle augmente spécifiquement le risque de non-disjonction méiotique",
+        "Elle augmente le risque de maladies autosomiques récessives",
+        "Elle augmente le risque de transmission père-fils des maladies liées à l’X"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La consanguinité augmente le risque de maladies autosomiques récessives, sans augmenter spécifiquement la trisomie 21 ni la non-disjonction méiotique."
+    },
+    {
+      "type": "QCS",
+      "question": "Une affection identique retrouvée chez l’oncle maternel d’un garçon atteint oriente principalement vers quel mode de transmission ?",
+      "choices": [
+        "Autosomique dominante",
+        "Autosomique récessive",
+        "Récessive liée à l’X",
+        "Anomalie chromosomique de type trisomie 21"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La présence d’une affection identique chez un oncle maternel est indiquée comme un argument en faveur d’une transmission récessive liée à l’X."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la neurofibromatose de type 1, lorsqu’un parent est atteint, quel est le risque pour chaque enfant selon le texte ?",
+      "choices": [
+        "0 %",
+        "25 %",
+        "50 %",
+        "75 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La neurofibromatose de type 1 est autosomique dominante ; lorsqu’un parent est atteint, le risque pour chaque enfant est de 50 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise correctement la trisomie 21 selon le texte ?",
+      "choices": [
+        "C’est une anomalie chromosomique",
+        "C’est une maladie autosomique récessive",
+        "C’est une affection récessive liée à l’X",
+        "C’est une maladie spécifiquement favorisée par la consanguinité"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La trisomie 21 est définie dans le texte comme une anomalie chromosomique, le plus souvent due à une non-disjonction méiotique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les étapes moléculaires de l’expression génique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le promoteur participe à l’initiation de la transcription en servant de site de fixation à l’ARN polymérase.",
+        "Un codon stop code un acide aminé terminal indispensable à la protéine.",
+        "L’épissage de l’ARN retire les introns et assemble les exons.",
+        "La traduction correspond à la synthèse protéique à partir de l’ARN messager."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le promoteur initie la transcription, l’épissage de l’ARN enlève les introns et assemble les exons, et la traduction produit une protéine à partir de l’ARNm. Les codons stop ne codent pas d’acide aminé."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des introns, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des séquences transcrites situées entre les exons.",
+        "Ils sont excisés lors de l’épissage de l’ARN.",
+        "Ils sont traduits systématiquement en séquences protéiques.",
+        "Ils peuvent contenir des séquences régulatrices."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les introns sont transcrits mais retirés lors de l’épissage ; ils ne sont pas traduits en protéine. Ils peuvent contenir des séquences régulatrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’épissage alternatif, quelles propositions sont exactes ?",
+      "choices": [
+        "Il permet à un même gène de produire plusieurs ARN messagers matures différents.",
+        "Il repose sur une sélection variable des exons.",
+        "Il entraîne directement une anomalie du nombre des chromosomes.",
+        "Il peut conduire à la synthèse de protéines isoformes différentes."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’épissage alternatif module l’assemblage des exons, permettant plusieurs ARNm matures et potentiellement plusieurs isoformes protéiques. Il ne correspond pas à une anomalie chromosomique numérique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le caryotype et les chromosomes, quelles propositions sont exactes ?",
+      "choices": [
+        "Le caryotype représente les chromosomes présents dans le noyau des cellules.",
+        "Il est réalisé à partir de cellules en division.",
+        "Les chromosomes sont visibles lors de la division cellulaire.",
+        "Le caryotype correspond à la classification des codons d’un ARN messager."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le caryotype est une représentation des chromosomes nucléaires, obtenue à partir de cellules en division, moment où les chromosomes sont visibles. Il ne concerne pas la classification des codons."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la méiose, les gamètes et la reproduction sexuée, quelles propositions sont exactes ?",
+      "choices": [
+        "Les cellules reproductrices humaines possèdent 23 chromosomes, dont un seul chromosome sexuel.",
+        "La méiose sépare au hasard les chromosomes d’une même paire.",
+        "La reproduction sexuée permet un brassage génétique.",
+        "Le sexe génétique est déterminé par le chromosome sexuel apporté par l’ovocyte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les gamètes humains sont haploïdes avec 23 chromosomes. La méiose sépare aléatoirement les chromosomes homologues et contribue au brassage génétique. Le sexe génétique est déterminé par le chromosome sexuel apporté par le spermatozoïde."
+    },
+    {
+      "type": "QCM",
+      "question": "Au cours de la fécondation, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle aboutit à la constitution d’un zygote diploïde.",
+        "Elle forme un génome identique à celui de la mère.",
+        "Elle détermine le sexe génétique par le chromosome sexuel apporté par le spermatozoïde.",
+        "Elle initie la segmentation."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La fécondation forme un zygote diploïde, crée un nouveau génome différent de ceux des parents, détermine le sexe génétique via le spermatozoïde et initie la segmentation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les codons, quelles propositions sont exactes ?",
+      "choices": [
+        "Un codon est un triplet de nucléotides.",
+        "Plusieurs codons peuvent coder pour un même acide aminé.",
+        "Certains codons stop ne codent pas pour un acide aminé.",
+        "Chaque codon correspond à une paire de chromosomes homologues."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un codon est un triplet nucléotidique. Le code génétique est redondant, et certains codons sont des codons stop. Un codon n’est pas une paire chromosomique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une transmission autosomique dominante à pénétrance complète, quelles propositions sont exactes ?",
+      "choices": [
+        "Un hétérozygote porteur de l’allèle pathologique dominant est malade.",
+        "Une transmission père-fils est possible.",
+        "Un sujet atteint hétérozygote a un risque de 50 % de transmettre la maladie à chaque grossesse.",
+        "Un sujet sain non porteur transmet habituellement l’allèle muté à sa descendance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En autosomique dominant, un seul allèle muté suffit. Les deux sexes peuvent être atteints et la transmission père-fils est possible. Un sujet sain non porteur ne transmet pas l’allèle muté."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse d’une maladie autosomique dominante, quelles propositions sont exactes ?",
+      "choices": [
+        "Un sujet atteint a généralement un parent atteint.",
+        "Une mutation de novo peut expliquer l’absence de parent atteint identifié.",
+        "Un défaut de pénétrance peut masquer l’expression clinique chez un porteur.",
+        "L’absence d’atteinte à une génération exclut toujours une transmission autosomique dominante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La transmission dominante est habituellement verticale, mais une mutation de novo ou un défaut de pénétrance peut expliquer l’absence apparente d’antécédent familial. L’absence d’atteinte visible n’exclut donc pas toujours ce mode."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transmission autosomique récessive, quelles propositions sont exactes ?",
+      "choices": [
+        "Deux allèles mutés sont nécessaires pour que la maladie se manifeste.",
+        "Les sujets malades peuvent être homozygotes ou composés hétérozygotes.",
+        "Les hétérozygotes sont généralement porteurs sains.",
+        "Le gène en cause est porté par le chromosome X."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En autosomique récessif, le gène est porté par un autosome et la maladie nécessite deux allèles mutés. Les hétérozygotes sont en général des porteurs sains."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les unions impliquant une maladie autosomique récessive, quelles propositions sont exactes ?",
+      "choices": [
+        "Un sujet malade homozygote avec un sujet homozygote sain a 0 % de risque d’enfant malade.",
+        "Un sujet malade homozygote avec un sujet homozygote sain a uniquement des enfants porteurs sains.",
+        "Un sujet malade homozygote avec un sujet hétérozygote porteur sain a 50 % de risque d’enfant malade.",
+        "Deux sujets malades homozygotes ont 25 % de risque d’enfant malade."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Malade homozygote × homozygote sain : tous les enfants sont porteurs sains et aucun n’est malade. Malade homozygote × hétérozygote : risque de 50 % d’enfant malade. Deux malades homozygotes donnent 100 % d’enfants malades."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transmission récessive liée à l’X, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Le gène muté est porté par le chromosome X.",
+        "Les garçons sont le plus souvent atteints car ils ne possèdent qu’un seul chromosome X.",
+        "Les femmes sont le plus souvent indemnes ou conductrices.",
+        "Le gène muté est porté par un autosome."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans la transmission récessive liée à l’X, le gène muté est localisé sur le chromosome X. Les garçons sont plus souvent atteints car ils n’ont qu’un seul X, tandis que les femmes sont le plus souvent conductrices ou indemnes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les différents processus appelés épissage ou ligation, quelles propositions sont exactes ?",
+      "choices": [
+        "La ligation de l’ADN correspond à l’attachement covalent de deux fragments d’ADN double brin.",
+        "La ligation de l’ADN est catalysée par une ADN ligase.",
+        "L’épissage des protéines est un processus post-traductionnel.",
+        "L’épissage des protéines correspond au retrait des introns d’un transcrit primaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La ligation de l’ADN unit deux fragments d’ADN double brin via une ADN ligase. L’épissage des protéines est post-traductionnel ; le retrait des introns concerne l’épissage de l’ARN."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les notions de gène, locus, allèle et phénotype, quelles propositions sont exactes ?",
+      "choices": [
+        "Un gène est une portion d’ADN constituant une unité d’information génétique.",
+        "Le locus correspond à la position physique d’un gène sur un chromosome.",
+        "Un allèle est une forme possible d’un même gène au même locus.",
+        "Le phénotype correspond uniquement à la séquence nucléotidique d’un individu."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le gène est une unité d’information portée par l’ADN, localisée à un locus. Les allèles sont les différentes formes d’un même gène. Le phénotype correspond aux caractères observables, et non à la seule séquence nucléotidique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel ensemble est nécessaire à la traduction selon le texte ?",
+      "choices": [
+        "ARN messager, ribosomes, ARN de transfert et acides aminés.",
+        "ADN ligase, fragments d’ADN double brin, promoteur et introns.",
+        "Chromosomes en division, fuseau méiotique, exons et locus.",
+        "ARN polymérase seule et codons stop uniquement."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La traduction nécessite un ARN messager, des ribosomes, des ARN de transfert et des acides aminés."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel processus est défini comme post-traductionnel dans le texte ?",
+      "choices": [
+        "L’épissage de l’ARN.",
+        "L’épissage des protéines.",
+        "La méiose.",
+        "La fécondation."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’épissage des protéines est un processus post-traductionnel permettant d’éliminer une séquence d’acides aminés d’une protéine précurseur."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit le mieux une cellule reproductive humaine selon le texte ?",
+      "choices": [
+        "Elle possède 46 chromosomes et deux chromosomes sexuels.",
+        "Elle possède 23 chromosomes, dont un seul chromosome sexuel.",
+        "Elle possède un caryotype trisomique par définition.",
+        "Elle possède uniquement des autosomes et aucun chromosome sexuel."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les cellules reproductrices humaines possèdent 23 chromosomes, dont un seul chromosome sexuel."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une maladie autosomique récessive, quel est le risque d’enfant malade pour un sujet malade homozygote et un sujet hétérozygote porteur sain ?",
+      "choices": [
+        "0 %",
+        "25 %",
+        "50 %",
+        "100 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Pour un sujet malade homozygote et un sujet hétérozygote porteur sain, le risque d’enfant malade est de 50 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle étape aboutit directement à un ARN messager mature à partir d’un transcrit primaire ?",
+      "choices": [
+        "La fécondation.",
+        "La traduction.",
+        "L’épissage de l’ARN.",
+        "La ligation de l’ADN."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’épissage de l’ARN retire les introns et assemble les exons, aboutissant à un ARN messager mature."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une maladie autosomique dominante, quelle caractéristique est attribuée aux homozygotes atteints selon le texte ?",
+      "choices": [
+        "Ils sont toujours phénotypiquement sains.",
+        "Ils sont rares et peuvent présenter une forme plus sévère, parfois létale.",
+        "Ils ne transmettent jamais l’allèle muté.",
+        "Ils ne peuvent exister que dans les maladies liées à l’X."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les homozygotes atteints dans les maladies autosomiques dominantes sont rares et peuvent avoir une forme plus sévère, parfois létale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’expression clinique féminine dans les maladies récessives liées à l’X, quelles propositions sont exactes ?",
+      "choices": [
+        "Une femme peut être atteinte si elle possède deux allèles mutés.",
+        "Une femme peut manifester la maladie selon l’inactivation du chromosome X.",
+        "Une femme atteinte transmet l’allèle muté à tous ses fils.",
+        "Une femme ne peut être atteinte que par transmission père-fils directe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que les femmes peuvent être atteintes si elles possèdent deux allèles mutés ou selon l’inactivation du chromosome X. Une femme atteinte transmet l’allèle muté à tous ses fils. Il n’existe pas de transmission père-fils dans les maladies récessives liées à l’X."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse d’un arbre généalogique évoquant une maladie récessive liée à l’X, quels éléments sont en faveur de ce mode de transmission ?",
+      "choices": [
+        "Une affection identique chez un oncle maternel.",
+        "Des cas chez des frères.",
+        "Une atteinte dans la lignée maternelle, notamment chez un grand-père maternel.",
+        "Une transmission directe et régulière de père à fils."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les maladies récessives liées à l’X peuvent se manifester chez des frères, chez un grand-père maternel ou dans la lignée maternelle. La présence d’un oncle maternel atteint est évocatrice. La transmission père-fils est absente."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour un homme atteint d’une maladie récessive liée à l’X marié à une femme non conductrice, quelles propositions sont exactes ?",
+      "choices": [
+        "Toutes ses filles reçoivent son chromosome X muté.",
+        "Toutes ses filles sont conductrices.",
+        "Tous ses fils reçoivent son chromosome Y.",
+        "Ses fils sont atteints par transmission paternelle directe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un homme atteint transmet son chromosome X muté à toutes ses filles, qui sont conductrices si la mère n’est pas conductrice. Il transmet son chromosome Y à tous ses fils, qui sont donc indemnes si la mère n’est pas conductrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez une femme conductrice d’une maladie récessive liée à l’X dont le conjoint est sain, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle transmet l’allèle muté à 50 % de ses fils.",
+        "Les fils recevant l’allèle muté seront atteints.",
+        "Elle transmet l’allèle muté à 50 % de ses filles, qui seront conductrices.",
+        "Le fait que le père soit sain rend tous les fils indemnes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une femme conductrice transmet l’allèle muté à 50 % de ses fils, qui seront atteints, et à 50 % de ses filles, qui seront conductrices si le père est sain. Le statut paternel sain n’annule pas le risque transmis par la mère aux fils."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conductrices obligatoires dans les maladies récessives liées à l’X, quelles propositions sont exactes ?",
+      "choices": [
+        "Les filles d’un homme atteint sont conductrices obligatoires si la mère est saine.",
+        "Une fille d’homme hémophile est conductrice obligatoire, sauf exception génétique.",
+        "La mère de deux garçons atteints est conductrice obligatoire, sauf circonstances exceptionnelles.",
+        "La sœur d’un seul garçon atteint est toujours conductrice obligatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne les filles d’un homme atteint si la mère est saine, les filles d’homme hémophile sauf exception génétique, et la mère de deux garçons atteints sauf circonstances exceptionnelles. Il ne dit pas que toute sœur d’un seul garçon atteint est obligatoirement conductrice."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la trisomie 21, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "C’est une anomalie chromosomique.",
+        "Elle est le plus souvent due à une non-disjonction méiotique.",
+        "Elle est principalement d’origine maternelle.",
+        "Elle correspond à une affection autosomique dominante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La trisomie 21 est une anomalie chromosomique, le plus souvent liée à une non-disjonction méiotique, principalement d’origine maternelle. Elle n’est pas présentée comme une affection autosomique dominante."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos d’un gamète contenant deux chromosomes 21, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut conduire, après fécondation, à un zygote trisomique 21.",
+        "S’il s’agit d’un spermatozoïde contenant deux chromosomes 21 et un chromosome sexuel X fécondant un ovocyte normal, le résultat attendu est une fille trisomique 21.",
+        "Cette situation est compatible avec une anomalie de ségrégation méiotique.",
+        "Un tel gamète conduit nécessairement à un enfant chromosomiquement normal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique qu’un gamète contenant deux chromosomes 21 peut conduire à un zygote trisomique 21. Si le spermatozoïde contient deux chromosomes 21 et un chromosome sexuel X, la fécondation d’un ovocyte normal conduit à une fille trisomique 21."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la consanguinité et le risque génétique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle augmente le risque de maladies autosomiques récessives.",
+        "Elle n’augmente pas spécifiquement le risque de trisomie 21.",
+        "Elle augmente spécifiquement le risque de non-disjonction méiotique.",
+        "Une maladie enzymatique chez un garçon et une fille issus de parents sains et consanguins évoque une transmission autosomique récessive."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La consanguinité augmente le risque de maladies autosomiques récessives, mais pas spécifiquement celui de trisomie 21 ni de non-disjonction méiotique. Le tableau décrit évoque une transmission autosomique récessive."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations maladie-mode de transmission suivantes, lesquelles sont exactes ?",
+      "choices": [
+        "Mucoviscidose : transmission autosomique récessive.",
+        "Phénylcétonurie : transmission autosomique récessive.",
+        "Neurofibromatose de type 1 : transmission autosomique dominante.",
+        "Achondroplasie : transmission autosomique récessive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mucoviscidose et la phénylcétonurie sont citées comme maladies autosomiques récessives. La neurofibromatose de type 1 et l’achondroplasie sont citées comme autosomiques dominantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la neurofibromatose de type 1 telle qu’elle est décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une affection héréditaire.",
+        "Sa transmission est autosomique dominante.",
+        "Lorsqu’un parent est atteint, le risque pour chaque enfant est de 50 %.",
+        "Elle est transmise selon un mode récessif lié à l’X."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que la neurofibromatose de type 1 est une affection héréditaire autosomique dominante, avec un risque de 50 % pour chaque enfant lorsqu’un parent est atteint."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsque deux parents sont hétérozygotes atteints d’une affection autosomique dominante, quelles propositions sont exactes ?",
+      "choices": [
+        "La probabilité de concevoir un enfant porteur de l’allèle muté est de 75 %.",
+        "Un enfant homozygote pour l’allèle muté est possible.",
+        "La forme homozygote peut être sévère ou létale selon la maladie.",
+        "La probabilité de concevoir un enfant porteur de l’allèle muté est de 50 %."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Pour deux parents hétérozygotes atteints, la probabilité d’un enfant porteur de l’allèle muté est de 75 %. Une forme homozygote peut exister et être sévère ou létale selon la maladie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hémophilie récessive liée à l’X chez un homme hémophile, quelles propositions sont exactes ?",
+      "choices": [
+        "Il n’a pas de fils hémophile par transmission paternelle directe.",
+        "Le risque pour un fils dépend du statut génétique de la mère.",
+        "Si son épouse est non conductrice, toutes ses filles sont conductrices.",
+        "Si son épouse est non conductrice, tous ses garçons sont sains."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise qu’un homme hémophile ne transmet pas directement l’hémophilie à ses fils. Le risque des fils dépend du statut maternel. Avec une femme non conductrice, toutes les filles sont conductrices et tous les garçons sont sains."
+    },
+    {
+      "type": "QCM",
+      "question": "Si un spermatozoïde contenant deux chromosomes 21 et un chromosome sexuel X féconde un ovocyte normal, quelles propositions sont exactes ?",
+      "choices": [
+        "Le zygote obtenu est trisomique 21.",
+        "Le sexe chromosomique attendu est féminin.",
+        "Cette situation illustre qu’un gamète disomique pour le chromosome 21 peut conduire à une trisomie 21.",
+        "Le résultat attendu est un garçon trisomique 21."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique explicitement qu’un spermatozoïde contenant deux chromosomes 21 et un chromosome sexuel X fécondant un ovocyte normal conduit à une fille trisomique 21."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une maladie enzymatique observée chez un garçon et une fille issus de parents phénotypiquement sains et consanguins, quelles propositions sont exactes ?",
+      "choices": [
+        "La transmission autosomique récessive est évoquée.",
+        "L’atteinte des deux sexes est compatible avec une transmission autosomique.",
+        "La consanguinité renforce l’hypothèse récessive autosomique.",
+        "La transmission récessive liée à l’X est l’hypothèse imposée par l’atteinte du garçon."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique qu’une maladie enzymatique survenant chez un garçon et une fille issus de parents sains et consanguins évoque une transmission autosomique récessive."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une maladie récessive liée à l’X, quelle situation qualifie une fille de conductrice obligatoire selon le texte ?",
+      "choices": [
+        "Être fille d’un homme atteint lorsque la mère est saine.",
+        "Être fille d’un homme sain et d’une mère saine.",
+        "Être fille d’un homme sain dans une famille sans antécédent.",
+        "Être fille d’une femme non conductrice et d’un homme sain."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les filles d’un homme atteint sont conductrices obligatoires si la mère est saine, car elles reçoivent obligatoirement le chromosome X muté paternel."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme est le plus souvent responsable de la trisomie 21 selon le texte ?",
+      "choices": [
+        "Une non-disjonction méiotique.",
+        "Une mutation autosomique dominante.",
+        "Une transmission récessive liée à l’X.",
+        "Une consanguinité parentale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La trisomie 21 est le plus souvent due à une non-disjonction méiotique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’origine parentale principale de la trisomie 21 selon le texte ?",
+      "choices": [
+        "Paternelle.",
+        "Maternelle.",
+        "Strictement biparentale.",
+        "Liée uniquement à la consanguinité."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que la trisomie 21 est principalement d’origine maternelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une affection autosomique dominante où les deux parents sont hétérozygotes atteints, quelle est la probabilité de concevoir un enfant porteur de l’allèle muté ?",
+      "choices": [
+        "25 %",
+        "50 %",
+        "75 %",
+        "100 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Lorsque les deux parents sont hétérozygotes atteints, la probabilité de concevoir un enfant porteur de l’allèle muté est de 75 %."
+    },
+    {
+      "type": "QCS",
+      "question": "Selon le texte, quel risque n’est pas spécifiquement augmenté par la consanguinité ?",
+      "choices": [
+        "Le risque de maladies autosomiques récessives.",
+        "Le risque de non-disjonction méiotique.",
+        "Le risque de maladies enzymatiques autosomiques récessives dans un contexte familial compatible.",
+        "Le risque de révéler une transmission autosomique récessive."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La consanguinité augmente le risque de maladies autosomiques récessives, mais n’augmente pas spécifiquement le risque de non-disjonction méiotique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affection citée correspond à une anomalie chromosomique plutôt qu’à une maladie mendélienne monogénique ?",
+      "choices": [
+        "La mucoviscidose.",
+        "La phénylcétonurie.",
+        "La neurofibromatose de type 1.",
+        "La trisomie 21."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La trisomie 21 est décrite comme une anomalie chromosomique. La mucoviscidose et la phénylcétonurie sont autosomiques récessives, tandis que la neurofibromatose de type 1 est autosomique dominante."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’on analyse un gène chez un individu diploïde, quelles propositions emploient correctement les notions d’allèle, de locus et de zygotie ?",
+      "choices": [
+        "Deux allèles correspondent à deux formes possibles d’un même gène situées au même locus.",
+        "Un individu homozygote possède deux loci différents pour un même gène.",
+        "Un individu hétérozygote possède deux allèles différents pour un même gène.",
+        "Le locus désigne la constitution génétique globale d’un individu."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Un allèle est une forme possible d’un même gène au même locus. L’homozygotie correspond à deux allèles identiques et l’hétérozygotie à deux allèles différents. Le locus est la position physique du gène, non le génotype global."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’interprétation du génotype et du phénotype chez un individu, quelles propositions sont exactes ?",
+      "choices": [
+        "Le génotype correspond à la constitution génétique d’une cellule ou d’un individu.",
+        "Le phénotype correspond aux caractères observables, pathologiques ou non pathologiques.",
+        "Le phénotype peut résulter de l’expression du génotype et de l’influence éventuelle de l’environnement.",
+        "La pénétrance mesure le degré de sévérité clinique d’un phénotype."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le génotype est la constitution génétique. Le phénotype correspond aux caractères observables, influencés par le génotype et éventuellement l’environnement. Le degré de sévérité relève de l’expressivité, non de la pénétrance."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’étude cytogénétique par caryotype, quelles propositions sont exactes ?",
+      "choices": [
+        "Le caryotype représente les chromosomes présents dans le noyau des cellules.",
+        "Il permet notamment de détecter les anomalies du nombre des chromosomes.",
+        "Il est réalisé à partir de cellules en division.",
+        "Il permet d’identifier directement toute mutation ponctuelle d’un gène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le caryotype est une représentation des chromosomes nucléaires, obtenu à partir de cellules en division, et permet notamment de détecter les anomalies numériques chromosomiques. Le texte ne lui attribue pas la détection directe de toutes les mutations ponctuelles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes assurant le brassage génétique lors de la reproduction sexuée, quelles propositions sont exactes ?",
+      "choices": [
+        "La méiose sépare au hasard les chromosomes d’une même paire.",
+        "La reproduction sexuée réunit au hasard des chromosomes d’origine maternelle et paternelle.",
+        "La reproduction sexuée contribue au brassage génétique.",
+        "La reproduction sexuée modifie obligatoirement le nombre chromosomique caractéristique de l’espèce à chaque génération."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La méiose et la fécondation participent au brassage génétique. La reproduction sexuée conserve le caryotype de l’espèce, elle ne le modifie pas obligatoirement à chaque génération."
+    },
+    {
+      "type": "QCM",
+      "question": "Immédiatement après la fécondation normale, quelles propositions sont exactes ?",
+      "choices": [
+        "Un zygote diploïde est constitué.",
+        "Le sexe génétique dépend du chromosome sexuel apporté par le spermatozoïde.",
+        "Un nouveau génome différent de ceux des parents est formé.",
+        "Le génome obtenu est strictement identique à celui de l’un des deux parents."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La fécondation forme un zygote diploïde, le chromosome sexuel du spermatozoïde détermine le sexe génétique, et le génome constitué est nouveau, différent de ceux des parents."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le code génétique et la traduction, quelles propositions sont exactes ?",
+      "choices": [
+        "Un codon est un triplet de nucléotides.",
+        "Plusieurs codons peuvent coder pour un même acide aminé.",
+        "Certains codons ne codent pas pour un acide aminé.",
+        "La traduction correspond à la synthèse directe d’ADN à partir de l’ARN messager."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un codon est un triplet nucléotidique. Le code est dégénéré, car plusieurs codons peuvent coder le même acide aminé. Certains codons sont des codons stop. La traduction est la synthèse protéique à partir de l’ARN messager."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les introns dans un transcrit primaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des séquences transcrites situées entre les exons.",
+        "Ils sont retirés lors de l’épissage de l’ARN.",
+        "Ils peuvent contenir des séquences régulatrices.",
+        "Ils sont traduits en protéine mature."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les introns sont transcrits, situés entre les exons, excisés lors de l’épissage et peuvent contenir des séquences régulatrices. Ils ne sont pas traduits en protéine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conséquences possibles de l’épissage alternatif, quelles propositions sont exactes ?",
+      "choices": [
+        "Un même gène peut produire plusieurs ARN messagers matures différents.",
+        "La sélection variable des exons intervient dans ce mécanisme.",
+        "Des protéines isoformes différentes peuvent être synthétisées.",
+        "Ce mécanisme correspond à l’attachement covalent de fragments d’ADN double brin."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épissage alternatif permet, par sélection variable des exons, la production de plusieurs ARNm matures à partir d’un même gène et peut conduire à des isoformes protéiques. L’attachement covalent de fragments d’ADN correspond à la ligation de l’ADN."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer les processus portant le terme d’épissage ou de ligation, quelles propositions sont exactes ?",
+      "choices": [
+        "L’épissage de l’ARN retire les introns et assemble les exons.",
+        "L’épissage des protéines est un processus post-traductionnel.",
+        "La ligation de l’ADN est catalysée par une ADN ligase.",
+        "La ligation de l’ADN correspond à l’excision des introns d’un transcrit primaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épissage de l’ARN concerne le transcrit primaire. L’épissage des protéines retire une séquence d’acides aminés après traduction. La ligation de l’ADN attache de façon covalente deux fragments d’ADN double brin grâce à une ADN ligase."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une affection où un seul allèle muté porté par un autosome suffit à provoquer la maladie, quels éléments sont compatibles avec le modèle décrit ?",
+      "choices": [
+        "Les deux sexes peuvent être atteints.",
+        "La transmission peut être observée sur plusieurs générations successives.",
+        "Une transmission père-fils est possible.",
+        "Le sujet hétérozygote porteur de l’allèle pathologique est nécessairement sain si la pénétrance est complète."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Il s’agit d’un modèle autosomique dominant : les deux sexes peuvent être atteints, la transmission est souvent verticale, et la transmission père-fils est possible. À pénétrance complète, l’hétérozygote porteur est malade."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse d’une maladie autosomique dominante, quels éléments peuvent compliquer la lecture d’un arbre généalogique ?",
+      "choices": [
+        "Une mutation de novo chez un sujet atteint.",
+        "Un défaut de pénétrance chez un parent porteur.",
+        "Une expressivité variable entre individus porteurs du même génotype.",
+        "L’impossibilité absolue d’atteinte chez les sujets hétérozygotes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un sujet atteint a généralement un parent atteint, sauf mutation de novo ou défaut de pénétrance. L’expressivité variable modifie le degré ou les modalités d’expression clinique. En dominance autosomique à pénétrance complète, l’hétérozygote est malade."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le risque de transmission dans une affection autosomique dominante, quelles propositions sont exactes ?",
+      "choices": [
+        "Un sujet atteint hétérozygote a un risque de 50 % de transmettre la maladie à chaque grossesse.",
+        "Un sujet sain ne transmet pas l’allèle muté s’il n’en est pas porteur.",
+        "Les homozygotes atteints sont rares et peuvent avoir une forme plus sévère, parfois létale.",
+        "Le risque de transmission d’un hétérozygote atteint est de 25 % à chaque grossesse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En autosomique dominant, un hétérozygote atteint transmet l’allèle muté dans 50 % des grossesses. Un sujet sain non porteur ne le transmet pas. Les homozygotes atteints sont rares et parfois plus sévères."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les statuts génétiques dans les maladies autosomiques récessives, quelles propositions sont exactes ?",
+      "choices": [
+        "Deux allèles mutés sont nécessaires pour que la maladie se manifeste.",
+        "Les sujets malades peuvent être homozygotes pour le gène en cause.",
+        "Les sujets malades peuvent être composés hétérozygotes pour le gène en cause.",
+        "Les hétérozygotes sont généralement malades."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En autosomique récessif, la maladie nécessite deux allèles mutés. Les malades sont homozygotes ou composés hétérozygotes. Les hétérozygotes sont généralement porteurs sains."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les unions impliquant une maladie autosomique récessive, quelles propositions sont exactes ?",
+      "choices": [
+        "Deux hétérozygotes ont, à chaque grossesse, 25 % de risque d’enfant malade.",
+        "Un sujet malade homozygote et un sujet homozygote sain ont 0 % de risque d’enfant malade.",
+        "Un sujet malade homozygote et un sujet hétérozygote porteur sain ont 50 % de risque d’enfant malade.",
+        "Deux sujets malades homozygotes ont 100 % de risque d’enfant malade."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre situations correspondent aux probabilités indiquées pour la transmission autosomique récessive."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification des maladies génétiques, quel énoncé correspond à une hérédité monogénique mendélienne ?",
+      "choices": [
+        "Une maladie due à une mutation dans un seul gène.",
+        "Une maladie due exclusivement à une anomalie du nombre des chromosomes.",
+        "Une maladie dont l’expression ne dépend jamais du génotype.",
+        "Une maladie transmise uniquement par les cellules somatiques."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hérédité monogénique, monofactorielle ou mendélienne correspond à la transmission de maladies génétiques dues à une mutation dans un seul gène."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement une cellule somatique humaine habituelle ?",
+      "choices": [
+        "Elle possède 23 chromosomes et aucun chromosome sexuel.",
+        "Elle possède 46 chromosomes, dont des chromosomes sexuels.",
+        "Elle possède 46 chromosomes, mais seulement après fécondation.",
+        "Elle possède 23 chromosomes, dont deux chromosomes sexuels."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les cellules somatiques humaines possèdent habituellement 46 chromosomes, dont des chromosomes sexuels."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement une cellule reproductrice humaine ?",
+      "choices": [
+        "Elle possède 46 chromosomes et deux chromosomes sexuels.",
+        "Elle possède 23 chromosomes, dont un seul chromosome sexuel.",
+        "Elle est issue d’une division qui conserve les deux chromosomes de chaque paire.",
+        "Elle contient toujours les mêmes chromosomes que la cellule somatique parentale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les cellules reproductrices humaines possèdent 23 chromosomes, dont un seul chromosome sexuel, et sont issues de la méiose."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel ne fait pas partie de l’ensemble requis pour la traduction selon le texte ?",
+      "choices": [
+        "Les introns.",
+        "L’ARN messager.",
+        "Les ribosomes.",
+        "Les acides aminés."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La traduction nécessite un ARN messager, des ribosomes, des ARN de transfert et des acides aminés. Les introns ne sont pas cités parmi les éléments requis."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur familial augmente spécifiquement le risque de maladies autosomiques récessives ?",
+      "choices": [
+        "La consanguinité.",
+        "La transmission père-fils.",
+        "La présence d’un seul allèle muté dominant.",
+        "La segmentation embryonnaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La consanguinité augmente le risque de maladies autosomiques récessives."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une transmission récessive liée à l’X, quelle proposition explique l’atteinte préférentielle des garçons ?",
+      "choices": [
+        "Les garçons possèdent habituellement deux chromosomes X.",
+        "Les garçons ne possèdent qu’un seul chromosome X.",
+        "Le gène muté est porté par un autosome.",
+        "Les femmes ne peuvent jamais être conductrices."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans la transmission récessive liée à l’X, les garçons sont le plus souvent atteints car ils ne possèdent qu’un seul chromosome X."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le conseil génétique d’une maladie récessive liée à l’X, quelles affirmations constituent des erreurs selon le texte ?",
+      "choices": [
+        "Affirmer qu’un père atteint transmet directement la maladie à ses fils.",
+        "Dire qu’un homme atteint transmet son chromosome X muté à toutes ses filles.",
+        "Évaluer le risque d’un fils sans tenir compte du statut génétique de la mère.",
+        "Considérer qu’une affection identique chez un oncle maternel oriente vers ce mode de transmission."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Il n’y a pas de transmission père-fils dans les maladies récessives liées à l’X. Le risque pour un fils dépend du statut génétique de la mère. L’atteinte d’un oncle maternel est au contraire un argument en faveur de ce mode de transmission."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont explicitement présentées dans le texte avec une réserve de type exception génétique ou circonstance exceptionnelle ?",
+      "choices": [
+        "Une fille d’homme hémophile est conductrice obligatoire, sauf exception génétique.",
+        "La mère de deux garçons atteints est une conductrice obligatoire, sauf circonstances exceptionnelles.",
+        "Une femme atteinte transmet l’allèle muté à tous ses fils, sauf si le père est sain.",
+        "Une femme conductrice transmet l’allèle muté à 50 % de ses filles si le père est sain, sauf non-disjonction méiotique."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte mentionne explicitement une exception génétique pour la fille d’un homme hémophile et des circonstances exceptionnelles pour la mère de deux garçons atteints. Les autres réserves proposées ne sont pas indiquées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la transmission de l’allèle muté dans une maladie récessive liée à l’X, quelles propositions sont exactes ?",
+      "choices": [
+        "Un homme atteint transmet son chromosome X muté à toutes ses filles.",
+        "Un homme atteint transmet son chromosome Y à tous ses fils.",
+        "Une femme conductrice transmet l’allèle muté à 50 % de ses fils.",
+        "Une femme atteinte transmet l’allèle muté à tous ses fils."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre propositions reprennent les règles de transmission décrites dans le texte pour les maladies récessives liées à l’X."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’hémophilie récessive liée à l’X, pour un homme hémophile marié à une femme non conductrice, quelles conclusions sont conformes au texte ?",
+      "choices": [
+        "Toutes les filles seront conductrices.",
+        "Tous les garçons seront sains.",
+        "Il n’y a pas de fils hémophile par transmission paternelle directe.",
+        "Le père transmet son chromosome X muté à ses fils."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un homme hémophile transmet son X muté à ses filles et son Y à ses fils. Si la mère est non conductrice, les filles sont conductrices et les garçons sont sains."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la trisomie 21, quelles propositions permettent de la distinguer d’une maladie autosomique récessive favorisée par la consanguinité ?",
+      "choices": [
+        "Elle est une anomalie chromosomique.",
+        "Elle est le plus souvent due à une non-disjonction méiotique.",
+        "Elle est principalement d’origine maternelle.",
+        "Son risque est spécifiquement augmenté par la consanguinité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La trisomie 21 est une anomalie chromosomique, le plus souvent liée à une non-disjonction méiotique, principalement d’origine maternelle. La consanguinité n’augmente pas spécifiquement son risque."
+    },
+    {
+      "type": "QCM",
+      "question": "Si un spermatozoïde contenant deux chromosomes 21 et un chromosome sexuel X féconde un ovocyte normal, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Le zygote obtenu est trisomique 21.",
+        "L’enfant attendu est de sexe féminin.",
+        "Le gamète fécondant est anormal pour le chromosome 21.",
+        "La situation conduit nécessairement à un garçon trisomique 21."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise qu’un spermatozoïde contenant deux chromosomes 21 et un chromosome sexuel X, fécondant un ovocyte normal, conduit à une fille trisomique 21."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la consanguinité, quelles propositions sont exactes d’après le texte ?",
+      "choices": [
+        "Elle augmente le risque de maladies autosomiques récessives.",
+        "Elle n’augmente pas spécifiquement le risque de trisomie 21.",
+        "Elle n’augmente pas spécifiquement le risque de non-disjonction méiotique.",
+        "Elle renforce l’hypothèse autosomique récessive devant une maladie enzymatique chez un garçon et une fille issus de parents sains."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte relie la consanguinité aux maladies autosomiques récessives, mais pas spécifiquement à la trisomie 21 ni à la non-disjonction méiotique."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une maladie enzymatique observée chez un garçon et une fille issus de parents phénotypiquement sains et consanguins, quels éléments soutiennent l’hypothèse autosomique récessive selon le texte ?",
+      "choices": [
+        "L’atteinte des deux sexes.",
+        "Le caractère phénotypiquement sain des parents.",
+        "La consanguinité parentale.",
+        "La transmission obligatoire par le chromosome X paternel."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique qu’une maladie enzymatique touchant un garçon et une fille, issus de parents phénotypiquement sains et consanguins, évoque une transmission autosomique récessive."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les classifications suivantes citées dans le texte, lesquelles sont exactes ?",
+      "choices": [
+        "La mucoviscidose est une maladie autosomique récessive.",
+        "La phénylcétonurie est une maladie autosomique récessive.",
+        "La neurofibromatose de type 1 est une affection autosomique dominante.",
+        "L’achondroplasie est une affection autosomique dominante."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite la mucoviscidose et la phénylcétonurie comme autosomiques récessives, et la neurofibromatose de type 1 ainsi que l’achondroplasie comme autosomiques dominantes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la neurofibromatose de type 1 et l’achondroplasie, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "La neurofibromatose de type 1 est à transmission autosomique dominante.",
+        "Lorsqu’un parent est atteint de neurofibromatose de type 1, le risque pour chaque enfant est de 50 %.",
+        "L’achondroplasie est une affection autosomique dominante.",
+        "Ces deux affections sont décrites comme favorisées par la consanguinité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La neurofibromatose de type 1 et l’achondroplasie sont citées comme autosomiques dominantes. Pour la neurofibromatose de type 1, le risque pour chaque enfant d’un parent atteint est de 50 %. Le texte ne les relie pas à la consanguinité."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsque deux parents sont hétérozygotes atteints d’une affection autosomique dominante, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "La probabilité de concevoir un enfant porteur de l’allèle muté est de 75 %.",
+        "Une forme homozygote sévère ou létale est possible selon la maladie.",
+        "Le risque de concevoir un enfant porteur de l’allèle muté est de 50 %.",
+        "Aucune forme homozygote n’est envisageable."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise que deux parents hétérozygotes atteints exposent à 75 % de probabilité de concevoir un enfant porteur de l’allèle muté, avec possibilité de forme homozygote sévère ou létale selon la maladie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre contexte familial et mode de transmission sont conformes au texte ?",
+      "choices": [
+        "Consanguinité et parents phénotypiquement sains : orientation vers une maladie autosomique récessive.",
+        "Parent atteint de neurofibromatose de type 1 : risque de 50 % pour chaque enfant.",
+        "Affection identique chez un oncle maternel : argument pour une transmission récessive liée à l’X.",
+        "Consanguinité : augmentation spécifique du risque de trisomie 21."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La consanguinité oriente vers l’autosomique récessif, la neurofibromatose de type 1 expose chaque enfant à un risque de 50 % si un parent est atteint, et l’atteinte d’un oncle maternel soutient une transmission récessive liée à l’X."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour différencier un père atteint d’une maladie récessive liée à l’X d’un parent atteint de neurofibromatose de type 1, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans la maladie récessive liée à l’X, il n’y a pas de transmission père-fils.",
+        "Dans la neurofibromatose de type 1, lorsqu’un parent est atteint, le risque pour chaque enfant est de 50 %.",
+        "Dans la maladie récessive liée à l’X, les filles d’un homme atteint sont conductrices obligatoires si la mère est saine.",
+        "Dans la neurofibromatose de type 1, tous les fils d’un parent atteint sont obligatoirement indemnes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’absence de transmission père-fils et les filles conductrices obligatoires si la mère est saine concernent les maladies récessives liées à l’X. La neurofibromatose de type 1 est autosomique dominante avec un risque de 50 % pour chaque enfant."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions de classification sont exactes d’après le texte ?",
+      "choices": [
+        "La trisomie 21 est une anomalie chromosomique.",
+        "L’hémophilie décrite est récessive liée à l’X.",
+        "La mucoviscidose et la phénylcétonurie sont autosomiques récessives.",
+        "Toutes les maladies enzymatiques sont récessives liées à l’X."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte classe la trisomie 21 comme anomalie chromosomique, l’hémophilie décrite comme récessive liée à l’X, et la mucoviscidose ainsi que la phénylcétonurie comme autosomiques récessives. Il ne dit pas que toutes les maladies enzymatiques sont liées à l’X."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une maladie récessive liée à l’X, quelle femme transmet l’allèle muté à tous ses fils selon le texte ?",
+      "choices": [
+        "Une femme conductrice mariée à un homme sain.",
+        "Une femme atteinte.",
+        "Une femme saine mariée à un homme atteint.",
+        "Une femme non conductrice."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’une femme atteinte transmet l’allèle muté à tous ses fils."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel fait explique l’absence de transmission père-fils dans une maladie récessive liée à l’X ?",
+      "choices": [
+        "Le père transmet son chromosome X à tous ses fils.",
+        "Le père transmet son chromosome Y à tous ses fils.",
+        "La mère transmet son chromosome Y à ses fils.",
+        "Les fils ne reçoivent aucun chromosome sexuel paternel."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Un homme atteint transmet son chromosome Y à ses fils et son chromosome X muté à ses filles, ce qui explique l’absence de transmission père-fils."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme est le plus souvent responsable de la trisomie 21 selon le texte ?",
+      "choices": [
+        "Une mutation autosomique dominante.",
+        "Une non-disjonction méiotique.",
+        "Une transmission récessive liée à l’X.",
+        "Une consanguinité parentale."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La trisomie 21 est le plus souvent due à une non-disjonction méiotique."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les maladies suivantes, laquelle n’est pas citée comme autosomique dominante dans le texte ?",
+      "choices": [
+        "Neurofibromatose de type 1.",
+        "Achondroplasie.",
+        "Mucoviscidose.",
+        "Aucune des trois."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La mucoviscidose est citée comme maladie autosomique récessive, contrairement à la neurofibromatose de type 1 et à l’achondroplasie, qui sont autosomiques dominantes."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une affection autosomique dominante où les deux parents sont hétérozygotes atteints, quelle est la probabilité de concevoir un enfant porteur de l’allèle muté selon le texte ?",
+      "choices": [
+        "25 %.",
+        "50 %.",
+        "75 %.",
+        "100 %."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique une probabilité de 75 % de concevoir un enfant porteur de l’allèle muté lorsque les deux parents sont hétérozygotes atteints."
+    },
+    {
+      "type": "QCS",
+      "question": "Une maladie enzymatique touchant un garçon et une fille issus de parents phénotypiquement sains et consanguins évoque prioritairement quel mode de transmission ?",
+      "choices": [
+        "Autosomique récessif.",
+        "Autosomique dominant.",
+        "Récessif lié à l’X.",
+        "Anomalie chromosomique par non-disjonction."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Selon le texte, cette situation évoque une transmission autosomique récessive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les chromosomes humains tels qu’ils sont décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont situés dans le noyau des cellules.",
+        "Ils constituent un support de l’information génétique.",
+        "Ils peuvent être classés par paires.",
+        "Ils sont visibles lors de la division cellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que les chromosomes sont nucléaires, supportent l’information génétique, peuvent être classés par paires et deviennent visibles lors de la division cellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du caryotype, quelles affirmations sont conformes au texte ?",
+      "choices": [
+        "Il représente les chromosomes présents dans le noyau des cellules.",
+        "Il est réalisé à partir de cellules en division.",
+        "Il permet notamment de détecter des anomalies du nombre des chromosomes.",
+        "Il correspond à l’analyse directe de la séquence des codons d’un gène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le caryotype est une représentation chromosomique réalisée sur cellules en division et utile notamment pour les anomalies numériques. Le texte ne le définit pas comme une analyse de séquence génique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la méiose et les cellules reproductrices humaines, quelles propositions sont exactes ?",
+      "choices": [
+        "Les cellules reproductrices humaines possèdent 23 chromosomes.",
+        "Chaque cellule reproductrice humaine possède un seul chromosome sexuel.",
+        "La méiose sépare au hasard les chromosomes d’une même paire.",
+        "La méiose produit des cellules somatiques diploïdes habituelles à 46 chromosomes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les gamètes humains possèdent 23 chromosomes dont un seul chromosome sexuel et dérivent de la méiose, qui sépare au hasard les chromosomes homologues. Les cellules somatiques habituelles ont 46 chromosomes."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors de la fécondation normale, quels événements sont indiqués dans le texte ?",
+      "choices": [
+        "Constitution d’un zygote diploïde.",
+        "Détermination du sexe génétique par le chromosome sexuel apporté par le spermatozoïde.",
+        "Formation d’un nouveau génome différent de ceux des parents.",
+        "Initiation de la segmentation."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La fécondation entraîne la formation du zygote diploïde, détermine le sexe génétique via le spermatozoïde, crée un génome nouveau et initie la segmentation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les codons, quelles propositions sont exactes ?",
+      "choices": [
+        "Un codon est un triplet de nucléotides.",
+        "Plusieurs codons peuvent coder pour un même acide aminé.",
+        "Certains codons sont des codons stop.",
+        "Tous les codons codent obligatoirement pour un acide aminé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un codon est un triplet nucléotidique. Le code est dégénéré, car plusieurs codons peuvent coder le même acide aminé. Les codons stop ne codent pas pour un acide aminé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la traduction, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle nécessite un ARN messager.",
+        "Elle nécessite des ribosomes.",
+        "Elle nécessite des ARN de transfert et des acides aminés.",
+        "Elle correspond à la synthèse d’ADN à partir d’un ARN messager."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La traduction correspond à la synthèse protéique à partir de l’ARN messager et nécessite ARNm, ribosomes, ARNt et acides aminés."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des introns, quelles propositions sont exactes ?",
+      "choices": [
+        "Ce sont des séquences transcrites situées entre les exons.",
+        "Ils sont excisés lors de l’épissage de l’ARN.",
+        "Ils ne sont pas traduits en protéine.",
+        "Ils peuvent contenir des séquences régulatrices."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les introns sont transcrits, intercalés entre les exons, retirés lors de l’épissage, non traduits, et peuvent contenir des séquences régulatrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’épissage de l’ARN, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond au traitement du transcrit primaire.",
+        "Il comporte le retrait des introns.",
+        "Il comporte l’assemblage des exons.",
+        "Il aboutit directement à une protéine mature."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épissage de l’ARN transforme le transcrit primaire en ARN messager mature par retrait des introns et assemblage des exons. Il ne produit pas directement une protéine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’épissage alternatif, quelles propositions sont exactes ?",
+      "choices": [
+        "Il permet à un même gène de produire plusieurs ARN messagers matures différents.",
+        "Il repose sur une sélection variable des exons.",
+        "Il peut conduire à la synthèse de protéines isoformes différentes.",
+        "Il modifie nécessairement la position chromosomique du gène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épissage alternatif permet la production de plusieurs ARNm matures à partir d’un même gène, par sélection variable des exons, avec possibilité d’isoformes protéiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour distinguer les différents processus portant le terme d’épissage ou de ligation, quelles propositions sont exactes ?",
+      "choices": [
+        "L’épissage des protéines est un processus post-traductionnel.",
+        "L’épissage des protéines élimine une séquence d’acides aminés d’une protéine précurseur.",
+        "La ligation de l’ADN attache covalemment deux fragments d’ADN double brin.",
+        "La ligation de l’ADN est catalysée par l’ARN polymérase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’épissage protéique est post-traductionnel et retire une séquence d’acides aminés. La ligation de l’ADN attache covalemment deux fragments d’ADN double brin et est catalysée par une ADN ligase."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une transmission autosomique dominante, quelles propositions sont exactes ?",
+      "choices": [
+        "Le gène en cause est porté par un autosome.",
+        "Un seul allèle muté peut suffire à provoquer la maladie.",
+        "La transmission père-fils est possible.",
+        "Un sujet atteint hétérozygote transmet la maladie à 100 % de sa descendance à chaque grossesse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En autosomique dominant, le gène est autosomique, un seul allèle muté suffit, et une transmission père-fils est possible. Un hétérozygote atteint a un risque de 50 % à chaque grossesse."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse d’une affection autosomique dominante, quels éléments doivent être pris en compte ?",
+      "choices": [
+        "Un sujet atteint a généralement un parent atteint.",
+        "Une mutation de novo peut expliquer l’absence de parent atteint identifié.",
+        "Un défaut de pénétrance peut masquer un porteur du génotype pathologique.",
+        "La consanguinité est une condition nécessaire à ce mode de transmission."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’autosomique dominant donne habituellement une transmission verticale, mais une mutation de novo ou un défaut de pénétrance peuvent compliquer l’arbre. La consanguinité n’est pas une condition nécessaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une maladie autosomique récessive, quelles propositions sont exactes ?",
+      "choices": [
+        "Deux allèles mutés sont nécessaires pour que la maladie se manifeste.",
+        "Les sujets malades peuvent être homozygotes pour le gène en cause.",
+        "Les sujets malades peuvent être composés hétérozygotes pour le gène en cause.",
+        "Les hétérozygotes sont généralement malades."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En autosomique récessif, la maladie nécessite deux allèles mutés. Les malades peuvent être homozygotes ou composés hétérozygotes. Les hétérozygotes sont généralement porteurs sains."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les risques de descendance dans les maladies autosomiques récessives, quelles propositions sont exactes ?",
+      "choices": [
+        "Deux parents hétérozygotes ont, à chaque grossesse, 25 % de risque d’enfant malade.",
+        "Deux parents hétérozygotes ont, à chaque grossesse, 50 % de probabilité d’enfant porteur sain.",
+        "Un sujet malade homozygote et un sujet homozygote sain ont 0 % de risque d’enfant malade.",
+        "Un sujet malade homozygote et un sujet hétérozygote porteur sain ont 50 % de risque d’enfant malade."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces proportions correspondent aux situations de croisement autosomique récessif décrites dans le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé définit le mieux un promoteur selon le texte ?",
+      "choices": [
+        "Une séquence d’ADN impliquée dans l’initiation de la transcription et servant de site de fixation à l’ARN polymérase.",
+        "Une séquence d’ARN éliminée lors de l’épissage.",
+        "Un triplet de nucléotides codant toujours pour un acide aminé.",
+        "La position physique d’un gène sur un chromosome."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le promoteur est une séquence d’ADN impliquée dans l’initiation de la transcription et dans la fixation de l’ARN polymérase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à l’hérédité monogénique, monofactorielle ou mendélienne ?",
+      "choices": [
+        "Transmission d’une maladie génétique due à une mutation dans un seul gène.",
+        "Transmission liée uniquement à une anomalie du nombre des chromosomes.",
+        "Transmission nécessitant obligatoirement plusieurs gènes mutés.",
+        "Transmission indépendante de toute mutation génétique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte définit l’hérédité monogénique comme la transmission de maladies génétiques dues à une mutation dans un seul gène."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement le phénotype ?",
+      "choices": [
+        "La constitution génétique d’une cellule ou d’un individu.",
+        "Les caractères observables résultant de l’expression du génotype et de l’influence éventuelle de l’environnement.",
+        "La proportion d’individus porteurs d’un génotype pathologique exprimant le phénotype.",
+        "Le degré de sévérité d’un phénotype chez les porteurs d’un même génotype."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le phénotype correspond aux caractères observables, pathologiques ou non, résultant du génotype et éventuellement de l’environnement."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une maladie autosomique récessive, un enfant sain ayant un frère ou une sœur atteint a quelle probabilité d’être porteur sain ?",
+      "choices": [
+        "1/4.",
+        "1/2.",
+        "2/3.",
+        "100 %."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte précise que, pour un enfant sain ayant un frère ou une sœur atteint d’une maladie autosomique récessive, la probabilité d’être porteur sain est de 2/3."
+    },
+    {
+      "type": "QCS",
+      "question": "Pour un couple ayant déjà un enfant atteint d’une maladie autosomique récessive, quel est le risque pour un autre enfant à naître ?",
+      "choices": [
+        "0 %.",
+        "25 %.",
+        "50 %.",
+        "100 %."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans cette situation, le risque de récurrence pour un autre enfant est de 25 % à chaque grossesse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement une cellule somatique humaine habituelle ?",
+      "choices": [
+        "Elle possède 23 chromosomes dont un seul chromosome sexuel.",
+        "Elle possède 46 chromosomes, dont des chromosomes sexuels.",
+        "Elle est toujours issue directement de la méiose.",
+        "Elle ne contient pas de chromosomes dans son noyau."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les cellules somatiques humaines possèdent habituellement 46 chromosomes, incluant des chromosomes sexuels."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une affection récessive liée à l’X, quelles propositions traduisent correctement les limites du caractère « conductrice obligatoire » ?",
+      "choices": [
+        "La mère de deux garçons atteints est conductrice obligatoire, sauf circonstances exceptionnelles.",
+        "Une fille d’homme hémophile est conductrice obligatoire, sauf exception génétique.",
+        "Toute fille saine d’une femme conductrice est toujours conductrice obligatoire.",
+        "Les filles d’un homme atteint sont conductrices obligatoires si la mère est saine."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise trois situations de conductrice obligatoire avec réserves éventuelles. En revanche, une femme conductrice ne transmet l’allèle muté qu’à 50 % de ses filles si le père est sain."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour expliquer l’absence de transmission père-fils dans une maladie récessive liée à l’X, quelles propositions sont exactes ?",
+      "choices": [
+        "Le père transmet son chromosome Y à ses fils.",
+        "Le père transmet son chromosome X muté à toutes ses filles.",
+        "Un fils reçoit le chromosome X paternel dans ce mode de transmission.",
+        "Si la mère n’est pas conductrice, les fils d’un homme atteint sont indemnes."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Un homme transmet son Y à ses fils et son X à ses filles. Ainsi, il n’existe pas de transmission père-fils directe liée à l’X ; le risque des fils dépend du statut maternel."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une famille suspecte de maladie récessive liée à l’X, quels éléments topographiques dans l’arbre généalogique sont compatibles avec ce mode de transmission ?",
+      "choices": [
+        "Atteinte de plusieurs frères.",
+        "Affection identique chez un grand-père maternel.",
+        "Cas regroupés dans la lignée maternelle.",
+        "Transmission obligatoire d’un père atteint à tous ses fils."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne les frères, le grand-père maternel et la lignée maternelle comme compatibles avec une transmission récessive liée à l’X. La transmission père-fils est absente."
+    },
+    {
+      "type": "QCM",
+      "question": "Une femme conductrice d’une affection récessive liée à l’X a un conjoint sain. Quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Chaque fils a 50 % de risque de recevoir l’allèle muté.",
+        "Les fils ayant reçu l’allèle muté seront atteints.",
+        "Chaque fille a 50 % de risque d’être conductrice.",
+        "Toutes les filles seront atteintes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une femme conductrice transmet l’allèle muté à 50 % de ses fils, qui seront atteints, et à 50 % de ses filles, qui seront conductrices si le père est sain."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant une femme atteinte d’une maladie récessive liée à l’X, quelles propositions découlent directement du texte ?",
+      "choices": [
+        "Elle transmet l’allèle muté à tous ses fils.",
+        "Tous ses fils reçoivent nécessairement son chromosome X.",
+        "Tous ses fils seront indemnes quel que soit leur génotype.",
+        "La transmission de l’allèle muté à ses fils ne dépend pas du chromosome Y paternel."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Une femme atteinte transmet l’allèle muté à tous ses fils, car les fils reçoivent le chromosome X maternel et le chromosome Y paternel."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’hémophilie récessive liée à l’X, quelles affirmations concernant les fils d’un homme hémophile sont exactes ?",
+      "choices": [
+        "Ils ne sont pas hémophiles par transmission paternelle directe.",
+        "Leur risque dépend du statut génétique de leur mère.",
+        "Ils reçoivent le chromosome Y paternel.",
+        "Ils reçoivent toujours le chromosome X muté paternel."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Un homme hémophile transmet son Y à ses fils. Il ne leur transmet donc pas directement son X muté ; leur risque dépend de la mère."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la trisomie 21, quelles propositions caractérisent son mécanisme habituel selon le texte ?",
+      "choices": [
+        "C’est une anomalie chromosomique.",
+        "Elle est le plus souvent due à une non-disjonction méiotique.",
+        "Elle résulte le plus souvent d’une anomalie de division réductionnelle.",
+        "Elle est principalement favorisée par la consanguinité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La trisomie 21 est une anomalie chromosomique, habituellement liée à une non-disjonction méiotique, principalement d’origine maternelle, et souvent liée à une anomalie de division réductionnelle. La consanguinité ne l’augmente pas spécifiquement."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’origine et les facteurs de risque de la trisomie 21, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est principalement d’origine maternelle.",
+        "La consanguinité augmente spécifiquement son risque.",
+        "La consanguinité n’augmente pas spécifiquement le risque de non-disjonction méiotique.",
+        "Elle peut résulter d’un gamète contenant deux chromosomes 21."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le texte indique une origine principalement maternelle et la possibilité d’un gamète disomique pour le chromosome 21. La consanguinité n’augmente pas spécifiquement la trisomie 21 ni la non-disjonction."
+    },
+    {
+      "type": "QCM",
+      "question": "Un gamète contenant deux chromosomes 21 participe à une fécondation. Quelles conséquences sont compatibles avec le texte ?",
+      "choices": [
+        "Il peut conduire à un zygote trisomique 21.",
+        "S’il s’agit d’un spermatozoïde porteur de deux chromosomes 21 et d’un X fécondant un ovocyte normal, l’enfant sera une fille trisomique 21.",
+        "Il correspond nécessairement à une maladie autosomique récessive.",
+        "Il peut être la conséquence d’une non-disjonction méiotique."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Un gamète avec deux chromosomes 21 peut conduire à une trisomie 21 après fécondation. Le texte donne l’exemple d’un spermatozoïde avec deux 21 et X donnant une fille trisomique 21."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une maladie enzymatique chez deux enfants de sexes différents, nés de parents sains et consanguins, quelles interprétations sont conformes au texte ?",
+      "choices": [
+        "Le tableau évoque une transmission autosomique récessive.",
+        "La consanguinité renforce l’hypothèse d’une maladie autosomique récessive.",
+        "L’atteinte des deux sexes est compatible avec une transmission autosomique.",
+        "Le tableau évoque prioritairement une trisomie 21."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise qu’une maladie enzymatique touchant un garçon et une fille issus de parents phénotypiquement sains et consanguins évoque une transmission autosomique récessive."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les affections citées, quelles associations maladie–mode de transmission sont exactes ?",
+      "choices": [
+        "Mucoviscidose : autosomique récessive.",
+        "Phénylcétonurie : autosomique récessive.",
+        "Neurofibromatose de type 1 : autosomique dominante.",
+        "Achondroplasie : récessive liée à l’X."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mucoviscidose et la phénylcétonurie sont citées comme autosomiques récessives ; la neurofibromatose de type 1 est autosomique dominante. L’achondroplasie est autosomique dominante."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la neurofibromatose de type 1 telle qu’elle est décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une affection héréditaire.",
+        "Elle se transmet sur un mode autosomique dominant.",
+        "Lorsqu’un parent est atteint, le risque pour chaque enfant est de 50 %.",
+        "Elle est favorisée spécifiquement par la consanguinité."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit la neurofibromatose de type 1 comme une affection héréditaire autosomique dominante avec un risque de 50 % pour chaque enfant lorsqu’un parent est atteint."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une affection autosomique dominante où les deux parents sont hétérozygotes atteints, quelles propositions sont exactes ?",
+      "choices": [
+        "La probabilité de concevoir un enfant porteur de l’allèle muté est de 75 %.",
+        "Une forme homozygote sévère ou létale est possible selon la maladie.",
+        "Tous les enfants seront obligatoirement porteurs de l’allèle muté.",
+        "La situation relève d’une transmission autosomique dominante."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Lorsque les deux parents sont hétérozygotes atteints dans une affection autosomique dominante, le risque d’enfant porteur de l’allèle muté est de 75 %, avec possibilité de forme homozygote sévère ou létale selon la maladie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels énoncés opposent correctement consanguinité et anomalies chromosomiques selon le texte ?",
+      "choices": [
+        "La consanguinité augmente le risque de maladies autosomiques récessives.",
+        "La consanguinité n’augmente pas spécifiquement le risque de trisomie 21.",
+        "La consanguinité n’augmente pas spécifiquement le risque de non-disjonction méiotique.",
+        "La consanguinité est le principal mécanisme de la trisomie 21."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La consanguinité augmente le risque de maladies autosomiques récessives, mais pas spécifiquement celui de trisomie 21 ni de non-disjonction méiotique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément de l’arbre généalogique oriente le plus spécifiquement vers une transmission récessive liée à l’X selon le texte ?",
+      "choices": [
+        "Une atteinte identique chez un oncle maternel.",
+        "Une atteinte identique chez tous les enfants des deux sexes.",
+        "Une atteinte uniquement après union consanguine.",
+        "Une atteinte constante par transmission père-fils."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La présence d’une affection identique chez un oncle maternel est explicitement indiquée comme en faveur d’une transmission récessive liée à l’X."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme est le plus souvent impliqué dans la trisomie 21 selon le texte ?",
+      "choices": [
+        "Une mutation autosomique récessive favorisée par la consanguinité.",
+        "Une non-disjonction méiotique.",
+        "Une transmission récessive liée à l’X.",
+        "Une transmission autosomique dominante à risque de 50 %."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La trisomie 21 est le plus souvent due à une non-disjonction méiotique."
+    },
+    {
+      "type": "QCS",
+      "question": "Un spermatozoïde contenant deux chromosomes 21 et un chromosome sexuel X féconde un ovocyte normal. Quel résultat est attendu selon le texte ?",
+      "choices": [
+        "Un garçon trisomique 21.",
+        "Une fille trisomique 21.",
+        "Une fille conductrice d’une maladie liée à l’X.",
+        "Un enfant atteint d’une maladie autosomique récessive."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise qu’un tel spermatozoïde fécondant un ovocyte normal conduit à une fille trisomique 21."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle affection citée est autosomique dominante avec un risque de 50 % pour chaque enfant lorsqu’un parent est atteint ?",
+      "choices": [
+        "Mucoviscidose.",
+        "Phénylcétonurie.",
+        "Neurofibromatose de type 1.",
+        "Trisomie 21."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La neurofibromatose de type 1 est décrite comme autosomique dominante, avec un risque de 50 % pour chaque enfant si un parent est atteint."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition résume correctement le risque génétique principal lié à la consanguinité dans le texte ?",
+      "choices": [
+        "Augmentation spécifique de la trisomie 21.",
+        "Augmentation spécifique de la non-disjonction méiotique.",
+        "Augmentation du risque de maladies autosomiques récessives.",
+        "Transformation d’une maladie liée à l’X en maladie autosomique dominante."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique que la consanguinité augmente le risque de maladies autosomiques récessives."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-04T12:02:02.974Z"
+}

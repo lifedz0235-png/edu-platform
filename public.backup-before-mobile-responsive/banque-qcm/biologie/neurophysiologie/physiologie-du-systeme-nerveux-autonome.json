@@ -1,0 +1,3107 @@
+{
+  "category": "biologie",
+  "module": "neurophysiologie",
+  "courseId": 50,
+  "courseTitle": "Influx Nerveux",
+  "supportTitle": "physiologie-du-systeme-nerveux-autonome",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/NEUROPHYSIO/physiologie-du-systeme-nerveux-autonome.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant le potentiel membranaire neuronal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à la différence de potentiel électrique entre l’intérieur du neurone et le milieu extracellulaire.",
+        "Par convention, il est mesuré comme le potentiel extracellulaire par rapport à l’intérieur.",
+        "Au repos, il est d’environ -70 mV.",
+        "Un neurone au repos est dit dépolarisé."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le potentiel membranaire est mesuré comme le potentiel intracellulaire par rapport à l’extérieur. Au repos, il est d’environ -70 mV et le neurone est dit polarisé."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des propriétés fondamentales des neurones, quelles propositions sont exactes ?",
+      "choices": [
+        "L’excitabilité est une propriété fondamentale des neurones.",
+        "La conduction est une propriété fondamentale des neurones.",
+        "L’excitabilité correspond à la transmission de l’information le long des axones.",
+        "La conduction correspond à la capacité des axones à transmettre des potentiels d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les deux propriétés fondamentales sont l’excitabilité et la conduction. La conduction correspond à la transmission axonale de signaux électriques appelés potentiels d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’excitabilité neuronale, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle implique la capacité de maintenir une différence de potentiel transmembranaire.",
+        "Elle implique la capacité de répondre rapidement par une modification brusque de la répartition des charges.",
+        "Elle correspond exclusivement à la perméabilité membranaire au chlore.",
+        "Elle est liée au potentiel de repos."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’excitabilité correspond à la capacité de maintenir un potentiel de repos et de répondre rapidement par une modification brusque de la répartition des charges de part et d’autre de la membrane."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les transports ioniques passifs à travers la membrane neuronale, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont favorisés par les différences de concentration ionique entre les compartiments.",
+        "Ils dépendent aussi du champ électrique transmembranaire.",
+        "Ils nécessitent systématiquement une consommation d’ATP.",
+        "Ils sont rendus possibles par le caractère semi-perméable de la membrane plasmique."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les transports passifs dépendent du gradient de concentration et du champ électrique transmembranaire. Ils ne nécessitent pas systématiquement d’ATP."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’état d’équilibre d’un ion, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est atteint lorsque le gradient de concentration est compensé par le gradient électrique.",
+        "Il correspond à une situation où les forces chimique et électrique s’équilibrent.",
+        "Le potentiel correspondant est appelé potentiel d’équilibre de l’ion.",
+        "Il impose la disparition de toute différence de concentration entre les deux compartiments."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équilibre ionique est atteint quand le gradient chimique est compensé par le gradient électrique. Il n’implique pas nécessairement l’abolition du gradient de concentration."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’équation de Nernst telle qu’elle est présentée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet de calculer le potentiel d’équilibre d’un ion.",
+        "Elle fait intervenir la température absolue.",
+        "Elle fait intervenir la valence de l’ion.",
+        "Elle repose uniquement sur la perméabilité membranaire relative des ions."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équation de Nernst calcule le potentiel d’équilibre et fait intervenir R, T, Z, F ainsi que les concentrations extra- et intracellulaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’équation de Nernst Eion = RT / ZF × ln([ion]e / [ion]i), quelles correspondances sont exactes ?",
+      "choices": [
+        "R correspond à la constante des gaz parfaits.",
+        "T correspond à la température absolue.",
+        "F correspond à la constante de Faraday.",
+        "[ion]i correspond à la concentration extracellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans cette équation, [ion]i correspond à la concentration intracellulaire, tandis que [ion]e correspond à la concentration extracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la perméabilité membranaire relative des principaux ions au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est dominée par le potassium.",
+        "L’ordre indiqué est K+ > Cl− > Na+.",
+        "La membrane est beaucoup moins perméable au sodium qu’au potassium.",
+        "Le sodium est l’ion ayant le rôle majeur dans la détermination du potentiel de repos selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au repos, la perméabilité relative est dominée par K+, puis Cl−, puis Na+. Le potassium joue donc un rôle majeur dans le potentiel de repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rôle des anions intracellulaires non diffusibles, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils comprennent notamment des protéines chargées négativement.",
+        "Ils influencent la répartition des ions diffusibles de part et d’autre de la membrane.",
+        "Ils suppriment le principe d’électroneutralité dans les compartiments.",
+        "Ils contribuent à l’équilibre ionique transmembranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les anions intracellulaires non diffusibles, notamment des protéines négatives, influencent la distribution des ions diffusibles tout en respectant l’électroneutralité."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du principe d’électroneutralité dans le contexte du potentiel de repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Il doit être respecté dans chaque compartiment.",
+        "Il contribue à l’équilibre ionique transmembranaire.",
+        "Il signifie que la membrane devient totalement perméable à tous les ions.",
+        "Il intervient avec la présence d’anions intracellulaires non diffusibles."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’électroneutralité est respectée dans chaque compartiment et participe à l’équilibre ionique, notamment en lien avec les anions intracellulaires non diffusibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les gradients impliqués dans l’équilibre ionique transmembranaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le gradient chimique est lié aux différences de concentration.",
+        "Le gradient électrique est lié à la séparation des charges.",
+        "L’équilibre résulte de l’interaction entre gradient chimique et gradient électrique.",
+        "Le gradient électrique dépend uniquement de la concentration extracellulaire en potassium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équilibre s’instaure entre le gradient chimique, lié aux concentrations, et le gradient électrique, lié à la séparation des charges."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la pompe Na+/K+ ATPase, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle contribue au maintien de l’asymétrie de répartition des cations.",
+        "Elle expulse le sodium vers le milieu extracellulaire.",
+        "Elle fait entrer le potassium dans la cellule.",
+        "Elle fonctionne sans consommation d’ATP."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La pompe Na+/K+ ATPase expulse Na+ et fait entrer K+ en consommant de l’ATP, contribuant au maintien de l’asymétrie cationique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mouvements du sodium à travers la membrane neuronale, quelles propositions sont exactes ?",
+      "choices": [
+        "Son entrée dans la cellule peut se faire passivement selon les gradients électrochimiques.",
+        "Sa sortie nécessite un transport actif.",
+        "La pompe Na+/K+ ATPase génère un flux de sodium opposé à son gradient passif.",
+        "Sa sortie passive est le mécanisme principal de maintien de l’asymétrie sodique selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le sodium peut entrer passivement dans la cellule, mais sa sortie nécessite un transport actif assuré par la pompe Na+/K+ ATPase, à l’opposé du gradient passif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la mesure du potentiel de repos neuronal, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être réalisée à l’aide d’électrodes reliées à un voltmètre.",
+        "Une microélectrode est placée à l’intérieur ou au voisinage de la membrane neuronale.",
+        "Une électrode de référence est placée dans le milieu extracellulaire.",
+        "La différence mesurée correspond exclusivement au potentiel d’équilibre du potassium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mesure utilise des électrodes reliées à un voltmètre ; la différence mesurée correspond au potentiel membranaire, et non exclusivement au potentiel d’équilibre du potassium."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la valeur approximative du potentiel membranaire d’un neurone au repos ?",
+      "choices": [
+        "+70 mV",
+        "-70 mV",
+        "0 mV",
+        "-7 mV"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Au repos, le potentiel membranaire d’un neurone est d’environ -70 mV."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel ion domine la perméabilité membranaire relative au repos ?",
+      "choices": [
+        "Na+",
+        "K+",
+        "Ca2+",
+        "H+"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La perméabilité membranaire relative au repos est dominée par le potassium."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la mesure du potentiel membranaire, où est placée l’électrode de référence ?",
+      "choices": [
+        "Dans le cytoplasme neuronal",
+        "Dans le noyau neuronal",
+        "Dans le milieu extracellulaire",
+        "Dans l’axone uniquement"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’électrode de référence est placée dans le milieu extracellulaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’équation de Nernst, que représente Z ?",
+      "choices": [
+        "La constante des gaz parfaits",
+        "La température absolue",
+        "La valence de l’ion",
+        "La concentration intracellulaire"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Z représente la valence de l’ion dans l’équation de Nernst."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’ordre de perméabilité membranaire relative des principaux ions au repos indiqué dans le texte ?",
+      "choices": [
+        "Na+ > K+ > Cl−",
+        "Cl− > Na+ > K+",
+        "K+ > Cl− > Na+",
+        "K+ > Na+ > Cl−"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Au repos, la perméabilité relative est : K+ > Cl− > Na+."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit correctement l’action de la pompe Na+/K+ ATPase ?",
+      "choices": [
+        "Elle fait entrer le sodium et expulse le potassium.",
+        "Elle expulse le sodium et fait entrer le potassium.",
+        "Elle expulse simultanément le sodium et le potassium.",
+        "Elle fait entrer simultanément le sodium et le potassium."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La pompe Na+/K+ ATPase expulse le sodium vers le milieu extracellulaire et fait entrer le potassium dans la cellule."
+    },
+    {
+      "type": "QCM",
+      "question": "Si le potentiel membranaire d’un neurone au repos est mesuré à -70 mV selon la convention décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potentiel intracellulaire est négatif par rapport au milieu extracellulaire.",
+        "Le neurone au repos est dit polarisé.",
+        "La mesure est exprimée comme le potentiel intracellulaire par rapport à l’extérieur.",
+        "La valeur négative signifie que le milieu extracellulaire est négatif par rapport à l’intérieur."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Par convention, le potentiel membranaire est le potentiel intracellulaire par rapport à l’extérieur. Une valeur d’environ -70 mV signifie que l’intérieur du neurone est négatif par rapport au milieu extracellulaire : le neurone est polarisé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mécanismes permettant la stabilité du potentiel de repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Les gradients ioniques transmembranaires y participent.",
+        "La perméabilité sélective de la membrane y participe.",
+        "Les anions intracellulaires non diffusibles y participent.",
+        "L’activité de la pompe Na+/K+ ATPase y participe."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le potentiel de repos stable d’environ -70 mV est maintenu grâce aux gradients ioniques, à la perméabilité sélective, aux anions intracellulaires non diffusibles et à l’activité de la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la distinction entre excitabilité et conduction neuronales, quelles propositions sont exactes ?",
+      "choices": [
+        "L’excitabilité implique la capacité de maintenir un potentiel de repos.",
+        "L’excitabilité implique la capacité de répondre rapidement par une modification brusque de la répartition des charges.",
+        "La conduction désigne principalement la capacité de la membrane à maintenir une polarisation stable au repos.",
+        "La conduction correspond à la transmission axonale de l’information sous forme de potentiels d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’excitabilité concerne le maintien du potentiel de repos et la réponse rapide par redistribution des charges. La conduction correspond à la transmission axonale des signaux électriques appelés potentiels d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les transports ioniques passifs à travers la membrane neuronale semi-perméable, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être liés aux différences de concentration ionique entre les milieux intra- et extracellulaire.",
+        "Ils dépendent aussi du champ électrique transmembranaire.",
+        "Ils s’effectuent sans consommation directe d’ATP.",
+        "Ils correspondent nécessairement à une sortie active du sodium hors de la cellule."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les transports passifs résultent des gradients de concentration et du champ électrique transmembranaire. La sortie du sodium nécessite au contraire un transport actif selon le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le potentiel d’équilibre d’un ion, quelles propositions sont exactes ?",
+      "choices": [
+        "Il correspond à une situation où le gradient de concentration est compensé par le gradient électrique.",
+        "Il est calculable par l’équation de Nernst.",
+        "Il dépend notamment du rapport entre concentration extracellulaire et intracellulaire de l’ion.",
+        "Il correspond à la disparition du champ électrique transmembranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’état d’équilibre d’un ion est atteint lorsque son gradient chimique est compensé par le gradient électrique. Le potentiel correspondant est calculable par l’équation de Nernst, qui utilise le rapport [ion]e/[ion]i."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la forme de l’équation de Nernst à température physiologique donnée dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle utilise un logarithme décimal.",
+        "Elle comporte le coefficient 58.",
+        "Elle utilise le rapport concentration extracellulaire sur concentration intracellulaire.",
+        "Elle s’écrit avec le rapport inversé concentration intracellulaire sur concentration extracellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À température physiologique, le texte donne : Eion = 58 × log10([ion]e / [ion]i). Le logarithme est décimal et le rapport est extracellulaire sur intracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À partir de l’ordre de perméabilité membranaire relative K+ > Cl− > Na+ au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "La perméabilité au potassium domine au repos.",
+        "La membrane est beaucoup moins perméable au sodium qu’au potassium.",
+        "La membrane est perméable au chlore au repos.",
+        "Le sodium est l’ion qui joue le rôle majeur dans la détermination du potentiel de repos selon le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au repos, la perméabilité relative est dominée par K+, suivie de Cl− puis Na+. Le potassium joue donc un rôle majeur dans la détermination du potentiel de repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anions intracellulaires non diffusibles, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils comprennent notamment des protéines chargées négativement.",
+        "Ils influencent la répartition des ions diffusibles de part et d’autre de la membrane.",
+        "Ils participent indirectement à l’équilibre ionique transmembranaire.",
+        "Ils diffusent librement à travers la membrane plasmique neuronale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anions intracellulaires non diffusibles, notamment les protéines négativement chargées, influencent la répartition des ions diffusibles et contribuent à l’équilibre ionique transmembranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le principe d’électroneutralité appliqué aux compartiments intra- et extracellulaires, quelles propositions sont exactes ?",
+      "choices": [
+        "Il doit être respecté dans chaque compartiment.",
+        "Il contribue à l’équilibre ionique transmembranaire.",
+        "Il intervient dans un contexte où il existe une séparation de charges à travers la membrane.",
+        "Il impose que la membrane soit également perméable à tous les ions."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que le principe d’électroneutralité doit être respecté dans chaque compartiment et contribue à l’équilibre ionique transmembranaire. Il n’implique pas une perméabilité identique pour tous les ions."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les deux gradients impliqués dans l’équilibre ionique transmembranaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le gradient chimique est lié aux différences de concentration.",
+        "Le gradient électrique est lié à la séparation des charges.",
+        "L’équilibre résulte de l’interaction entre gradient chimique et gradient électrique.",
+        "Le gradient chimique correspond uniquement à l’activité de la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équilibre ionique transmembranaire s’instaure entre le gradient chimique, lié aux concentrations, et le gradient électrique, lié à la séparation des charges."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la pompe Na+/K+ ATPase, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle contribue au maintien de l’asymétrie de répartition des cations.",
+        "Elle expulse le sodium vers le milieu extracellulaire.",
+        "Elle fait entrer le potassium dans la cellule.",
+        "Elle fonctionne sans consommation d’ATP."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La pompe Na+/K+ ATPase maintient l’asymétrie cationique en expulsant Na+ et en faisant entrer K+, avec consommation d’ATP."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mouvements du sodium dans le neurone au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "L’entrée du sodium dans la cellule peut se faire passivement.",
+        "La sortie du sodium nécessite un transport actif.",
+        "La pompe Na+/K+ ATPase génère un flux de sodium opposé à son gradient passif.",
+        "La membrane au repos est plus perméable au sodium qu’au potassium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Compte tenu des gradients électrochimiques, l’entrée de Na+ peut être passive, tandis que sa sortie nécessite un transport actif par la pompe Na+/K+ ATPase. La membrane est beaucoup moins perméable au sodium qu’au potassium au repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’état fonctionnel du neurone au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est inactif sur le plan de la génération du potentiel d’action.",
+        "Il maintient une polarisation stable d’environ -70 mV.",
+        "Son état de repos dépend de mécanismes ioniques actifs et passifs.",
+        "Il est dépourvu de gradients ioniques transmembranaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au repos, le neurone ne génère pas de potentiel d’action, mais maintient une polarisation stable grâce aux gradients ioniques, à la perméabilité sélective, aux anions non diffusibles et à la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les notions de potentiel membranaire, potentiel de repos et potentiel d’équilibre, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potentiel membranaire est la différence de potentiel électrique entre l’intérieur du neurone et le milieu extracellulaire.",
+        "Le potentiel de repos correspond à une valeur stable du potentiel membranaire en l’absence de génération de potentiel d’action.",
+        "Le potentiel d’équilibre d’un ion correspond à la compensation de son gradient de concentration par le gradient électrique.",
+        "Le potentiel de repos est expliqué uniquement par l’absence totale de perméabilité membranaire au sodium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel membranaire est une différence de potentiel. Au repos, il est stable autour de -70 mV. Le potentiel d’équilibre d’un ion résulte de la compensation entre gradients chimique et électrique. Le sodium a une faible perméabilité, mais non une absence totale de perméabilité."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel facteur explique principalement le rôle majeur du potassium dans la détermination du potentiel de repos ?",
+      "choices": [
+        "Sa valence négative.",
+        "La dominance de sa perméabilité membranaire relative au repos.",
+        "Son absence du compartiment intracellulaire.",
+        "Sa sortie exclusivement active hors de la cellule."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le potassium joue un rôle majeur car la perméabilité membranaire relative au repos est dominée par K+."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel ion peut entrer passivement dans la cellule mais nécessite un transport actif pour en sortir selon le texte ?",
+      "choices": [
+        "Le potassium.",
+        "Le chlore.",
+        "Le sodium.",
+        "Les protéines intracellulaires chargées négativement."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le sodium peut entrer passivement dans la cellule selon ses gradients électrochimiques, tandis que sa sortie nécessite un transport actif par la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle expression correspond à la forme simplifiée de l’équation de Nernst à température physiologique donnée dans le texte ?",
+      "choices": [
+        "Eion = 58 × log10([ion]e / [ion]i)",
+        "Eion = 58 × ln([ion]i / [ion]e)",
+        "Eion = RT × ZF × log10([ion]e / [ion]i)",
+        "Eion = ZF / RT × ln([ion]i / [ion]e)"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "À température physiologique, le texte donne : Eion = 58 × log10([ion]e / [ion]i)."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le dispositif de mesure du potentiel membranaire décrit, quelle proposition caractérise la microélectrode ?",
+      "choices": [
+        "Elle est placée exclusivement dans le milieu extracellulaire.",
+        "Elle est reliée directement à la pompe Na+/K+ ATPase.",
+        "Elle est placée à l’intérieur ou au voisinage de la membrane neuronale.",
+        "Elle mesure uniquement la concentration intracellulaire de potassium."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte indique qu’une microélectrode est placée à l’intérieur ou au voisinage de la membrane neuronale, tandis que l’électrode de référence est extracellulaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement les protéines intracellulaires chargées négativement mentionnées dans le texte ?",
+      "choices": [
+        "Elles constituent des anions intracellulaires non diffusibles.",
+        "Elles représentent le principal ion extracellulaire diffusible.",
+        "Elles assurent directement la sortie active du sodium.",
+        "Elles rendent la membrane plus perméable au sodium qu’au potassium."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les protéines intracellulaires chargées négativement sont citées comme exemples d’anions intracellulaires non diffusibles."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association entre gradient et mécanisme est correcte selon le texte ?",
+      "choices": [
+        "Gradient chimique : séparation des charges.",
+        "Gradient électrique : différence de concentration.",
+        "Gradient chimique : différence de concentration.",
+        "Gradient électrique : consommation d’ATP."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le gradient chimique est lié aux différences de concentration, tandis que le gradient électrique est lié à la séparation des charges."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la convention de signe du potentiel membranaire neuronal, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potentiel membranaire est exprimé comme le potentiel intracellulaire par rapport au milieu extracellulaire.",
+        "Une valeur de -70 mV signifie que l’intérieur du neurone est négatif par rapport à l’extérieur.",
+        "Le signe négatif traduit une inversion de la convention de mesure habituelle décrite dans le texte.",
+        "Au repos, cette différence de potentiel correspond à un état de polarisation du neurone."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte précise que le potentiel est mesuré comme le potentiel intracellulaire par rapport à l’extérieur. Au repos, il vaut environ -70 mV, indiquant un intérieur négatif et un neurone polarisé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la semi-perméabilité de la membrane neuronale au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet des transports passifs liés aux différences de concentration ionique.",
+        "Elle implique une perméabilité identique pour le potassium, le chlore et le sodium.",
+        "Elle laisse le sodium traverser beaucoup moins facilement que le potassium.",
+        "Elle associe les effets du gradient de concentration et du champ électrique transmembranaire."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "La membrane plasmique est semi-perméable : les transports passifs dépendent des gradients de concentration mais aussi du champ électrique. Au repos, la perméabilité est K+ > Cl− > Na+."
+    },
+    {
+      "type": "QCM",
+      "question": "Au repos, quel(s) énoncé(s) caractérise(nt) correctement l’état fonctionnel du neurone ?",
+      "choices": [
+        "Il ne génère pas de potentiel d’action.",
+        "Il conserve une polarisation stable proche de -70 mV.",
+        "Il perd toute différence de potentiel transmembranaire.",
+        "Il reste dépendant des gradients ioniques transmembranaires."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le neurone au repos est inactif pour la génération du potentiel d’action, mais il maintient une polarisation stable d’environ -70 mV grâce aux mécanismes ioniques membranaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rôle fonctionnel de la pompe Na+/K+ ATPase dans le neurone, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle participe au maintien de l’asymétrie de répartition des cations.",
+        "Elle expulse le sodium vers le milieu extracellulaire.",
+        "Elle fait sortir le potassium de la cellule.",
+        "Elle consomme de l’ATP."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La pompe Na+/K+ ATPase maintient l’asymétrie cationique en expulsant le sodium et en faisant entrer le potassium dans la cellule, avec consommation d’ATP."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels contribuent à la polarisation stable du neurone au repos selon le texte ?",
+      "choices": [
+        "La perméabilité sélective de la membrane.",
+        "Les anions intracellulaires non diffusibles.",
+        "La disparition des gradients ioniques transmembranaires.",
+        "L’activité de la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le potentiel de repos est maintenu par les gradients ioniques, la perméabilité sélective, les anions intracellulaires non diffusibles et la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’écriture de l’équation de Nernst présentée dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La forme générale utilise un logarithme népérien.",
+        "Le rapport de concentration est écrit [ion]e / [ion]i.",
+        "La valence de l’ion intervient dans la forme générale.",
+        "La concentration intracellulaire est placée au numérateur dans la formule donnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La formule donnée est Eion = RT / ZF × ln([ion]e / [ion]i). Elle utilise donc ln, la valence Z et le rapport extracellulaire sur intracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À température physiologique, quelles propositions sont conformes à la forme simplifiée de l’équation de Nernst telle qu’elle est donnée ?",
+      "choices": [
+        "Elle utilise un logarithme décimal.",
+        "Elle comporte le coefficient 58.",
+        "Elle est écrite avec le rapport [ion]e / [ion]i.",
+        "Elle est exprimée dans le texte sous la forme RT/ZF × ln([ion]i/[ion]e)."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte donne : Eion = 58 × log10([ion]e / [ion]i). Il s’agit d’un logarithme décimal avec le coefficient 58 et le rapport extracellulaire sur intracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le potassium dans la genèse du potentiel de repos neuronal, quelles propositions sont exactes ?",
+      "choices": [
+        "Sa perméabilité membranaire relative au repos est la plus élevée parmi les ions cités.",
+        "Il joue un rôle majeur dans la détermination du potentiel de repos.",
+        "Sa perméabilité est inférieure à celle du sodium au repos.",
+        "Il est fait entrer dans la cellule par la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La perméabilité relative au repos est dominée par le potassium, ce qui lui donne un rôle majeur. La pompe Na+/K+ ATPase fait entrer le potassium dans la cellule."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anions intracellulaires non diffusibles, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils comprennent notamment des protéines chargées négativement.",
+        "Ils influencent la répartition des ions diffusibles de part et d’autre de la membrane.",
+        "Ils diffusent librement vers le milieu extracellulaire.",
+        "Ils participent indirectement à l’équilibre ionique transmembranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte mentionne des protéines intracellulaires chargées négativement non diffusibles. Elles influencent la distribution des ions diffusibles et participent à l’équilibre ionique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’électroneutralité dans les compartiments intra- et extracellulaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle doit être respectée dans chaque compartiment.",
+        "Elle contribue à l’équilibre ionique transmembranaire.",
+        "Elle signifie que seuls les ions positifs interviennent au repos.",
+        "Elle s’intègre avec la présence d’anions intracellulaires non diffusibles."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le principe d’électroneutralité s’applique à chaque compartiment et contribue à l’équilibre ionique, notamment en présence d’anions intracellulaires non diffusibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’équilibre ionique transmembranaire, quelles propositions associent correctement gradient et mécanisme ?",
+      "choices": [
+        "Le gradient chimique est lié aux différences de concentration.",
+        "Le gradient électrique est lié à la séparation des charges.",
+        "L’équilibre d’un ion survient lorsque le gradient de concentration est compensé par le gradient électrique.",
+        "Le gradient électrique correspond exclusivement à la consommation d’ATP."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équilibre ionique résulte de l’opposition entre gradient chimique, lié aux concentrations, et gradient électrique, lié à la séparation des charges."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le sodium au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Son entrée dans la cellule peut se faire passivement.",
+        "Sa sortie nécessite un transport actif.",
+        "La pompe Na+/K+ ATPase dirige un flux de sodium opposé à son gradient passif.",
+        "Il est l’ion dont la perméabilité membranaire relative est la plus élevée au repos."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le sodium peut entrer passivement selon ses gradients électrochimiques, mais sa sortie requiert un transport actif assuré par la pompe Na+/K+ ATPase. Sa perméabilité au repos est faible."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’enregistrement du potentiel membranaire par électrodes, quelles propositions sont exactes ?",
+      "choices": [
+        "Les électrodes sont reliées à un voltmètre.",
+        "Une électrode de référence est située dans le milieu extracellulaire.",
+        "La différence de potentiel mesurée correspond au potentiel membranaire.",
+        "La mesure nécessite que les deux électrodes soient placées exclusivement dans le cytoplasme."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mesure utilise des électrodes reliées à un voltmètre : une microélectrode intracellulaire ou proche de la membrane et une électrode de référence extracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les propriétés fondamentales des neurones, quelles propositions sont exactes ?",
+      "choices": [
+        "L’excitabilité inclut la capacité à répondre rapidement par une modification brusque de la répartition des charges.",
+        "La conduction correspond à la transmission d’informations sous forme de potentiels d’action.",
+        "La conduction est attribuée aux axones.",
+        "L’excitabilité est définie comme la consommation d’ATP par la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’excitabilité concerne la réponse membranaire rapide avec modification des charges. La conduction est la capacité des axones à transmettre des signaux électriques appelés potentiels d’action."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé est incompatible avec la perméabilité membranaire relative au repos décrite dans le texte ?",
+      "choices": [
+        "La perméabilité au potassium est supérieure à celle du sodium.",
+        "La perméabilité au chlore est intermédiaire entre celle du potassium et celle du sodium.",
+        "La perméabilité au sodium est dominante au repos.",
+        "La membrane est beaucoup moins perméable au sodium qu’au potassium."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’ordre indiqué est K+ > Cl− > Na+. Le sodium n’est donc pas l’ion de perméabilité dominante au repos."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément correspond au gradient chimique mentionné dans l’équilibre ionique transmembranaire ?",
+      "choices": [
+        "La séparation des charges électriques.",
+        "La différence de concentration entre les compartiments.",
+        "La consommation d’ATP par la pompe Na+/K+ ATPase.",
+        "La présence d’un voltmètre relié aux électrodes."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le gradient chimique est défini dans le texte comme étant lié aux différences de concentration."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit le mieux le neurone au repos selon le texte ?",
+      "choices": [
+        "Il est dépolarisé à environ +70 mV.",
+        "Il est polarisé à environ -70 mV.",
+        "Il génère continuellement des potentiels d’action.",
+        "Il ne possède plus de gradients ioniques transmembranaires."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Au repos, le potentiel membranaire est d’environ -70 mV et le neurone est dit polarisé."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel terme désigne la capacité des axones à transmettre l’information sous forme de potentiels d’action ?",
+      "choices": [
+        "Excitabilité.",
+        "Électroneutralité.",
+        "Conduction.",
+        "Diffusion passive."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La conduction est définie comme la capacité des axones à transmettre l’information sous forme de signaux électriques appelés potentiels d’action."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel ion est transporté vers l’intérieur de la cellule par la pompe Na+/K+ ATPase selon le texte ?",
+      "choices": [
+        "Sodium.",
+        "Potassium.",
+        "Chlore.",
+        "Protéines chargées négativement."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La pompe Na+/K+ ATPase expulse le sodium vers le milieu extracellulaire et fait entrer le potassium dans la cellule."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’état d’équilibre d’un ion, quelle relation est correcte ?",
+      "choices": [
+        "Le gradient de concentration est compensé par le gradient électrique.",
+        "La pompe Na+/K+ ATPase est arrêtée.",
+        "La membrane devient totalement perméable au sodium.",
+        "Les anions intracellulaires diffusent librement vers l’extérieur."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’état d’équilibre d’un ion est atteint lorsque son gradient de concentration est compensé par le gradient électrique de part et d’autre de la membrane."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’interprétation d’une mesure du potentiel membranaire neuronal selon la convention décrite, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potentiel mesuré correspond au potentiel intracellulaire rapporté au milieu extracellulaire.",
+        "Une valeur d’environ -70 mV signifie que l’intérieur est négatif par rapport à l’extérieur.",
+        "Le milieu extracellulaire sert de référence dans la mesure décrite.",
+        "La polarisation au repos implique une valeur positive du potentiel intracellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Par convention, le potentiel membranaire est le potentiel intracellulaire par rapport à l’extérieur. Au repos, il est d’environ -70 mV, traduisant une polarisation avec intérieur négatif."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du neurone au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est inactif sur le plan de la génération du potentiel d’action.",
+        "Il maintient une polarisation stable d’environ -70 mV.",
+        "Sa stabilité dépend notamment des gradients ioniques transmembranaires.",
+        "Son potentiel de repos traduit une égalité complète des concentrations ioniques de part et d’autre de la membrane."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le neurone au repos ne génère pas de potentiel d’action mais conserve une polarisation stable grâce aux gradients ioniques, à la perméabilité sélective, aux anions non diffusibles et à la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs qui déterminent le déplacement d’un ion diffusible à travers la membrane neuronale, quelles propositions sont exactes ?",
+      "choices": [
+        "Les différences de concentration entre les compartiments peuvent entraîner une diffusion passive.",
+        "Le champ électrique transmembranaire intervient dans le déplacement ionique.",
+        "L’équilibre d’un ion correspond à la compensation du gradient de concentration par le gradient électrique.",
+        "Le déplacement ionique passif dépend exclusivement de l’activité de la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les mouvements ioniques passifs dépendent des gradients de concentration et du champ électrique. L’équilibre est atteint lorsque ces deux forces se compensent."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’électroneutralité et la séparation des charges dans les compartiments neuronaux, quelles propositions sont exactes ?",
+      "choices": [
+        "Le principe d’électroneutralité doit être respecté dans chaque compartiment.",
+        "La séparation des charges participe au gradient électrique transmembranaire.",
+        "Les anions intracellulaires non diffusibles influencent la répartition des ions diffusibles.",
+        "Le respect de l’électroneutralité exclut toute différence de potentiel membranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’électroneutralité globale de chaque compartiment coexiste avec une séparation locale des charges responsable du gradient électrique et donc du potentiel membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de l’équation de Nernst telle qu’elle est utilisée pour un ion, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle permet de calculer le potentiel d’équilibre d’un ion.",
+        "Elle fait intervenir le rapport entre la concentration extracellulaire et la concentration intracellulaire de l’ion.",
+        "Elle comporte la valence de l’ion dans sa forme générale.",
+        "Elle calcule directement le seuil de déclenchement d’un potentiel d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équation de Nernst calcule le potentiel d’équilibre d’un ion à partir notamment du rapport [ion]e/[ion]i et de la valence ionique. Elle ne calcule pas le seuil du potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la forme simplifiée de l’équation de Nernst à température physiologique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle utilise un coefficient numérique égal à 58 dans le texte.",
+        "Elle s’écrit avec un logarithme décimal.",
+        "Elle conserve le rapport [ion]e/[ion]i.",
+        "Elle est exprimée avec le logarithme népérien dans la forme simplifiée donnée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À température physiologique, le texte donne : Eion = 58 × log10([ion]e/[ion]i). Le logarithme indiqué est décimal."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la perméabilité membranaire relative des principaux ions au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "La perméabilité au potassium est dominante.",
+        "Le sodium est beaucoup moins perméant que le potassium.",
+        "Le chlore est plus perméant que le sodium selon l’ordre indiqué.",
+        "La membrane est totalement imperméable au sodium au repos."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ordre donné est K+ > Cl− > Na+. Le sodium est donc beaucoup moins perméant, mais le texte ne dit pas qu’il est totalement imperméable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rôle du potassium dans le potentiel de repos neuronal, quelles propositions sont exactes ?",
+      "choices": [
+        "Il joue un rôle majeur car la perméabilité membranaire au repos est dominée par K+.",
+        "Sa contribution est liée aux propriétés ioniques de la membrane au repos.",
+        "Il est décrit comme le principal déterminant ionique parmi les ions cités pour le repos.",
+        "Il joue ce rôle parce qu’il est expulsé vers le milieu extracellulaire par la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potassium joue un rôle majeur car la membrane au repos est surtout perméable à K+. La pompe Na+/K+ ATPase fait entrer le potassium dans la cellule, elle ne l’expulse pas."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anions intracellulaires non diffusibles, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils comprennent notamment des protéines chargées négativement.",
+        "Ils influencent la répartition des ions diffusibles de part et d’autre de la membrane.",
+        "Ils participent indirectement à l’équilibre ionique transmembranaire.",
+        "Ils correspondent au sodium expulsé par la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anions intracellulaires non diffusibles, notamment les protéines négatives, modifient la distribution des ions diffusibles et contribuent à l’équilibre ionique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mouvements du sodium au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "L’entrée du sodium dans la cellule peut se faire passivement.",
+        "La sortie du sodium nécessite un transport actif.",
+        "La pompe Na+/K+ ATPase expulse le sodium vers le milieu extracellulaire.",
+        "La pompe Na+/K+ ATPase déplace le sodium dans le même sens que son gradient passif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le sodium peut entrer passivement selon ses gradients électrochimiques. Sa sortie nécessite un transport actif par la pompe Na+/K+ ATPase, qui agit à l’opposé du gradient passif du sodium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la contribution de la pompe Na+/K+ ATPase à l’asymétrie cationique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle expulse le sodium vers le milieu extracellulaire.",
+        "Elle fait entrer le potassium dans la cellule.",
+        "Elle consomme de l’ATP.",
+        "Elle supprime la nécessité des gradients ioniques transmembranaires dans le maintien du repos."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La pompe Na+/K+ ATPase maintient l’asymétrie des cations en expulsant Na+ et en faisant entrer K+, avec consommation d’ATP. Elle ne remplace pas les gradients ioniques : elle contribue à leur maintien."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le dispositif de mesure du potentiel membranaire décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Les électrodes sont reliées à un voltmètre.",
+        "L’électrode de référence est placée dans le milieu extracellulaire.",
+        "La différence de potentiel mesurée correspond au potentiel membranaire.",
+        "L’électrode de référence est placée obligatoirement dans le cytoplasme neuronal."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte décrit une microélectrode placée à l’intérieur ou au voisinage de la membrane neuronale et une électrode de référence extracellulaire reliées à un voltmètre."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distinction fonctionnelle entre excitabilité et conduction, quelles propositions sont exactes ?",
+      "choices": [
+        "L’excitabilité inclut la capacité de maintenir un potentiel de repos.",
+        "L’excitabilité inclut la capacité de répondre rapidement par une modification brusque de la répartition des charges.",
+        "La conduction correspond à la transmission axonale de potentiels d’action.",
+        "La conduction correspond à la sortie passive du sodium hors de la cellule."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’excitabilité concerne le maintien du potentiel de repos et la réponse rapide membranaire. La conduction correspond à la transmission axonale des potentiels d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels sont explicitement cités comme contribuant au maintien de la polarisation stable du neurone au repos ?",
+      "choices": [
+        "Les gradients ioniques transmembranaires.",
+        "La perméabilité sélective de la membrane.",
+        "Les anions intracellulaires non diffusibles.",
+        "L’activité de la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces quatre éléments comme responsables du maintien de la polarisation stable d’environ -70 mV au repos."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit le mieux la notion de neurone polarisé au repos ?",
+      "choices": [
+        "Le neurone présente un potentiel intracellulaire d’environ -70 mV par rapport à l’extérieur.",
+        "Le neurone présente une absence totale de différence de potentiel transmembranaire.",
+        "Le neurone génère en permanence des potentiels d’action.",
+        "Le neurone possède des concentrations ioniques identiques dans les deux compartiments."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Au repos, le neurone est polarisé avec un potentiel membranaire d’environ -70 mV, mesuré comme potentiel intracellulaire par rapport au milieu extracellulaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit correctement le gradient chimique dans l’équilibre ionique transmembranaire ?",
+      "choices": [
+        "Il est lié aux différences de concentration entre les milieux intra- et extracellulaire.",
+        "Il est lié exclusivement à la consommation d’ATP par la pompe Na+/K+ ATPase.",
+        "Il correspond à la séparation des charges électriques de part et d’autre de la membrane.",
+        "Il désigne la valeur mesurée par le voltmètre lors de l’enregistrement."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le gradient chimique est lié aux différences de concentration. Le gradient électrique, lui, est lié à la séparation des charges."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la forme simplifiée de l’équation de Nernst à température physiologique donnée dans le texte, quel type de logarithme est utilisé ?",
+      "choices": [
+        "Le logarithme décimal log10.",
+        "Le logarithme népérien ln.",
+        "Le logarithme binaire log2.",
+        "Aucun logarithme n’est utilisé."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La forme simplifiée donnée est : Eion = 58 × log10([ion]e/[ion]i)."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition caractérise correctement la perméabilité membranaire au sodium au repos selon le texte ?",
+      "choices": [
+        "Elle est beaucoup plus faible que celle du potassium et du chlore.",
+        "Elle est supérieure à celle du potassium.",
+        "Elle est égale à celle du chlore.",
+        "Elle est nulle, empêchant toute entrée passive de sodium."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’ordre de perméabilité au repos est K+ > Cl− > Na+. Le sodium est donc beaucoup moins perméant, sans être présenté comme totalement imperméable."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition résume correctement le fonctionnement énergétique de la pompe Na+/K+ ATPase ?",
+      "choices": [
+        "Elle consomme de l’ATP pour expulser Na+ et faire entrer K+.",
+        "Elle produit de l’ATP lors de l’entrée passive du sodium.",
+        "Elle fonctionne sans dépense énergétique pour équilibrer les concentrations.",
+        "Elle expulse simultanément Na+ et K+ vers le milieu extracellulaire."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La pompe Na+/K+ ATPase consomme de l’ATP, expulse le sodium vers l’extérieur et fait entrer le potassium dans la cellule."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la mesure du potentiel membranaire décrite, que représente la différence de potentiel enregistrée par le voltmètre ?",
+      "choices": [
+        "Le potentiel membranaire neuronal.",
+        "La concentration extracellulaire de potassium.",
+        "Le gradient chimique isolé du sodium.",
+        "La valence électrique de l’ion étudié."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les électrodes reliées au voltmètre mesurent une différence de potentiel correspondant au potentiel membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour interpréter correctement une différence de potentiel neuronale selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à une différence de potentiel électrique entre l’intérieur du neurone et le milieu extracellulaire.",
+        "Elle est exprimée par convention comme le potentiel intracellulaire par rapport à l’extérieur.",
+        "Au repos, sa valeur négative traduit une polarisation du neurone.",
+        "Elle correspond uniquement à l’activité de génération des potentiels d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel membranaire est la différence de potentiel entre l’intérieur neuronal et l’extérieur, mesurée par convention comme potentiel intracellulaire par rapport au milieu extracellulaire. Au repos, il est d’environ -70 mV, ce qui traduit une polarisation. Il ne se limite pas à la génération des potentiels d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la définition de l’excitabilité neuronale donnée par le texte, quels éléments sont inclus ?",
+      "choices": [
+        "La capacité à maintenir une différence de potentiel transmembranaire.",
+        "La capacité à répondre rapidement par une modification brusque de la répartition des charges.",
+        "La transmission axonale de l’information sous forme de potentiels d’action.",
+        "La mesure du potentiel membranaire par une électrode extracellulaire seule."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’excitabilité correspond au maintien d’un potentiel de repos et à la capacité de réponse rapide par redistribution brusque des charges. La transmission axonale des potentiels d’action relève de la conduction."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la conduction telle qu’elle est définie dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle concerne la capacité des axones à transmettre l’information.",
+        "Elle utilise des signaux électriques appelés potentiels d’action.",
+        "Elle est strictement synonyme du maintien du potentiel de repos.",
+        "Elle correspond à l’entrée passive permanente du sodium au repos."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La conduction est la propriété des axones permettant de transmettre l’information sous forme de potentiels d’action. Le maintien du potentiel de repos relève plutôt de l’excitabilité et des propriétés ioniques membranaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les déterminants passifs du déplacement ionique à travers la membrane neuronale, quelles propositions sont exactes ?",
+      "choices": [
+        "Les différences de concentration ionique entraînent des transports passifs par diffusion.",
+        "Le champ électrique transmembranaire participe au déplacement des ions.",
+        "La semi-perméabilité membranaire conditionne les mouvements ioniques.",
+        "La consommation d’ATP définit un transport passif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les mouvements passifs dépendent des gradients de concentration, du champ électrique transmembranaire et de la semi-perméabilité de la membrane. La consommation d’ATP caractérise un transport actif."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour qu’un ion atteigne son état d’équilibre transmembranaire selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Son gradient de concentration doit être compensé par le gradient électrique.",
+        "Le potentiel correspondant est appelé potentiel d’équilibre de l’ion.",
+        "Ce potentiel peut être calculé par l’équation de Nernst.",
+        "Cet état dépend exclusivement de l’activité de la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équilibre d’un ion survient lorsque le gradient chimique est compensé par le gradient électrique. Le potentiel correspondant est le potentiel d’équilibre, calculable par l’équation de Nernst."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’équation générale de Nernst présentée, quelles propositions respectent l’écriture du texte ?",
+      "choices": [
+        "Le quotient de concentration est [ion]e / [ion]i.",
+        "Le logarithme utilisé dans l’écriture générale est le logarithme népérien ln.",
+        "La valence ionique intervient au dénominateur avec la constante de Faraday.",
+        "La température utilisée est la température absolue."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’équation donnée est Eion = RT / ZF × ln([ion]e / [ion]i). Elle fait intervenir R, T, Z, F, le logarithme népérien et le rapport des concentrations extracellulaire sur intracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la forme simplifiée de l’équation de Nernst à température physiologique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle utilise le coefficient numérique 58.",
+        "Elle utilise un logarithme décimal.",
+        "Elle conserve le rapport [ion]e / [ion]i.",
+        "Dans l’écriture donnée, la valence Z n’apparaît pas explicitement."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La forme simplifiée fournie est : Eion = 58 × log10([ion]e / [ion]i). Elle comporte le coefficient 58, un logarithme décimal et le rapport des concentrations extracellulaire et intracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À partir de la hiérarchie K+ > Cl− > Na+ au repos, quelles conclusions sont conformes au texte ?",
+      "choices": [
+        "La perméabilité au potassium est la plus élevée parmi les trois ions cités.",
+        "La perméabilité au chlore est intermédiaire entre celle du potassium et celle du sodium.",
+        "La perméabilité au sodium est inférieure à celle du potassium et du chlore.",
+        "La membrane est totalement imperméable au sodium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique une perméabilité relative K+ > Cl− > Na+. Il précise que la membrane est beaucoup moins perméable au sodium, sans affirmer qu’elle lui est totalement imperméable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la place du potassium dans la polarisation neuronale de repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Il joue un rôle majeur en raison de la forte perméabilité membranaire relative au potassium.",
+        "La membrane neuronale au repos est perméable au potassium.",
+        "Il participe à la détermination du potentiel de repos.",
+        "La pompe Na+/K+ ATPase expulse le potassium vers le milieu extracellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potassium domine la perméabilité membranaire au repos et joue donc un rôle majeur dans la détermination du potentiel de repos. La pompe Na+/K+ ATPase fait entrer le potassium dans la cellule."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anions intracellulaires non diffusibles décrits dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils comprennent notamment des protéines chargées négativement.",
+        "Ils sont localisés dans le compartiment intracellulaire.",
+        "Ils influencent la répartition des ions diffusibles de part et d’autre de la membrane.",
+        "Ils correspondent aux principaux cations extracellulaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite des anions intracellulaires non diffusibles, notamment des protéines chargées négativement, qui influencent la distribution des ions diffusibles. Ils ne sont pas des cations extracellulaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Au sujet du principe d’électroneutralité appliqué aux compartiments neuronaux, quelles propositions sont exactes ?",
+      "choices": [
+        "Il doit être respecté dans chaque compartiment.",
+        "Il contribue à l’équilibre ionique transmembranaire.",
+        "Il coexiste avec un gradient électrique lié à la séparation des charges.",
+        "Il n’exclut pas l’existence d’un potentiel membranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte indique que l’électroneutralité doit être respectée dans chaque compartiment et contribue à l’équilibre ionique. Elle coexiste avec une séparation de charges à l’origine du gradient électrique et n’empêche pas l’existence d’un potentiel transmembranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le transport cationique assuré par la pompe Na+/K+ ATPase, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle contribue au maintien de l’asymétrie de répartition des cations.",
+        "Elle expulse le sodium vers le milieu extracellulaire.",
+        "Elle fait entrer le potassium dans la cellule.",
+        "Elle consomme de l’ATP."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La pompe Na+/K+ ATPase maintient l’asymétrie cationique en expulsant le sodium, en faisant entrer le potassium et en consommant de l’ATP."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le sodium au regard de ses gradients électrochimiques, quelles propositions sont exactes ?",
+      "choices": [
+        "Son entrée dans la cellule peut se faire passivement.",
+        "Sa sortie nécessite un transport actif.",
+        "La pompe Na+/K+ ATPase crée un flux de sodium opposé à son gradient passif.",
+        "Sa sortie passive est le mécanisme décrit comme principal au repos."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que l’entrée du sodium peut être passive, tandis que sa sortie nécessite un transport actif. La pompe Na+/K+ ATPase expulse donc le sodium à l’opposé de son gradient passif."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez le neurone au repos, quelles propositions caractérisent correctement l’état fonctionnel décrit ?",
+      "choices": [
+        "Il est inactif sur le plan de la génération du potentiel d’action.",
+        "Il conserve une polarisation stable proche de -70 mV.",
+        "Cette stabilité dépend notamment des gradients ioniques et de la perméabilité sélective.",
+        "Cette stabilité impose l’absence d’activité de la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au repos, le neurone ne génère pas de potentiel d’action, mais maintient une polarisation stable d’environ -70 mV grâce aux gradients ioniques, à la perméabilité sélective, aux anions intracellulaires non diffusibles et à la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’équation de Nernst présentée, quel symbole désigne la température absolue ?",
+      "choices": [
+        "R",
+        "T",
+        "Z",
+        "F"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Dans l’équation Eion = RT / ZF × ln([ion]e / [ion]i), T correspond à la température absolue."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le dispositif de mesure du potentiel membranaire, où se trouve l’électrode de référence ?",
+      "choices": [
+        "Dans le cytoplasme neuronal.",
+        "Dans le milieu extracellulaire.",
+        "Dans le noyau du neurone.",
+        "Dans la membrane plasmique uniquement."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que l’électrode de référence est placée dans le milieu extracellulaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est explicitement à l’origine du gradient électrique dans l’équilibre ionique transmembranaire ?",
+      "choices": [
+        "La consommation d’ATP.",
+        "La séparation des charges.",
+        "La constante des gaz parfaits.",
+        "La concentration extracellulaire seule."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le gradient électrique est lié à la séparation des charges de part et d’autre de la membrane."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement la sortie du sodium selon le texte ?",
+      "choices": [
+        "Elle se fait passivement selon son gradient électrochimique.",
+        "Elle nécessite un transport actif.",
+        "Elle dépend uniquement de la diffusion du chlore.",
+        "Elle est assurée par l’entrée passive du potassium."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Compte tenu des gradients électrochimiques, l’entrée du sodium peut être passive, mais sa sortie nécessite un transport actif, notamment via la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé correspond le mieux à l’état polarisé du neurone au repos ?",
+      "choices": [
+        "Le potentiel intracellulaire est d’environ -70 mV par rapport à l’extérieur.",
+        "Le potentiel extracellulaire est d’environ -70 mV par rapport à l’intérieur.",
+        "Le potentiel membranaire est nul en l’absence de potentiel d’action.",
+        "La polarisation implique l’arrêt des gradients ioniques transmembranaires."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Par convention, le potentiel membranaire est mesuré comme le potentiel intracellulaire par rapport à l’extérieur. Au repos, il est d’environ -70 mV."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les éléments suivants, lequel n’est pas cité comme mécanisme de maintien de la polarisation stable au repos ?",
+      "choices": [
+        "Les gradients ioniques transmembranaires.",
+        "La perméabilité sélective de la membrane.",
+        "Les anions intracellulaires non diffusibles.",
+        "La génération continue de potentiels d’action."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte cite les gradients ioniques, la perméabilité sélective, les anions intracellulaires non diffusibles et la pompe Na+/K+ ATPase. Au repos, le neurone est inactif sur le plan de la génération du potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’équilibre ionique transmembranaire décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Le gradient chimique est lié aux différences de concentration entre les compartiments.",
+        "Le gradient électrique est lié à la séparation des charges de part et d’autre de la membrane.",
+        "L’état d’équilibre d’un ion impose la disparition complète de son gradient de concentration.",
+        "L’état d’équilibre d’un ion est atteint lorsque le gradient de concentration est compensé par le gradient électrique."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte distingue un gradient chimique lié aux concentrations et un gradient électrique lié aux charges. L’équilibre ionique ne correspond pas à la disparition du gradient chimique, mais à sa compensation par le gradient électrique."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la semi-perméabilité membranaire neuronale au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Les différences de concentration ionique entraînent des transports passifs par diffusion.",
+        "Le déplacement des ions dépend aussi du champ électrique transmembranaire.",
+        "La membrane présente une perméabilité identique pour K+, Cl− et Na+.",
+        "La membrane est beaucoup moins perméable au sodium qu’au potassium et au chlore."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La membrane est semi-perméable : les ions diffusent selon les concentrations, mais leur mouvement dépend aussi du champ électrique. La perméabilité relative n’est pas identique : K+ > Cl− > Na+."
+    },
+    {
+      "type": "QCM",
+      "question": "À partir de la hiérarchie de perméabilité K+ > Cl− > Na+ au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potassium joue un rôle majeur dans la détermination du potentiel de repos.",
+        "La perméabilité au chlore est supérieure à celle du sodium.",
+        "Le sodium est l’ion dominant pour la perméabilité membranaire au repos.",
+        "La membrane est perméable au potassium et au chlore."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La perméabilité membranaire de repos est dominée par K+, suivie de Cl−, puis de Na+. Le sodium est donc le moins perméant parmi ces ions principaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anions intracellulaires mentionnés dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont non diffusibles.",
+        "Ils comprennent notamment des protéines chargées négativement.",
+        "Ils influencent la répartition des ions diffusibles de part et d’autre de la membrane.",
+        "Ils traversent librement la membrane par diffusion passive."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anions intracellulaires non diffusibles, notamment les protéines chargées négativement, modifient la répartition des ions diffusibles. Le texte ne leur attribue pas une diffusion libre."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la pompe Na+/K+ ATPase, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle contribue au maintien de l’asymétrie de répartition des cations.",
+        "Elle expulse le sodium vers le milieu extracellulaire.",
+        "Elle fait entrer le potassium dans la cellule.",
+        "Elle fonctionne sans consommation d’ATP."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La pompe Na+/K+ ATPase maintient l’asymétrie cationique en expulsant Na+ et en faisant entrer K+, avec consommation d’ATP."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les mouvements du sodium selon ses gradients électrochimiques, quelles propositions sont exactes ?",
+      "choices": [
+        "L’entrée du sodium dans la cellule peut se faire passivement.",
+        "La sortie du sodium nécessite un transport actif.",
+        "La pompe Na+/K+ ATPase génère un flux de sodium opposé à son gradient passif.",
+        "La sortie du sodium vers le milieu extracellulaire est décrite comme un phénomène passif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que Na+ peut entrer passivement, alors que sa sortie exige un transport actif par la pompe Na+/K+ ATPase, donc en sens opposé au gradient passif."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le dispositif de mesure du potentiel membranaire décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Une microélectrode est placée à l’intérieur ou au voisinage de la membrane neuronale.",
+        "Une électrode de référence est placée dans le milieu extracellulaire.",
+        "La différence de potentiel mesurée correspond au potentiel membranaire.",
+        "Le voltmètre mesure directement le gradient de concentration ionique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel membranaire est mesuré par électrodes reliées à un voltmètre. La mesure porte sur une différence de potentiel électrique, non sur un gradient de concentration."
+    },
+    {
+      "type": "QCM",
+      "question": "Au repos, quelles propositions caractérisent correctement l’état du neurone ?",
+      "choices": [
+        "Il est inactif sur le plan de la génération du potentiel d’action.",
+        "Il maintient une polarisation stable d’environ -70 mV.",
+        "Sa polarisation dépend notamment des gradients ioniques et de la perméabilité sélective membranaire.",
+        "Il est dépourvu de phénomènes ioniques participant à son équilibre électrique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au repos, le neurone ne génère pas de potentiel d’action, mais il conserve une polarisation stable grâce à des mécanismes ioniques et membranaires actifs ou passifs."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la définition de l’excitabilité neuronale donnée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle inclut la capacité de la membrane neuronale à maintenir une différence de potentiel transmembranaire.",
+        "Elle inclut le maintien du potentiel de repos.",
+        "Elle inclut une réponse rapide par modification brusque de la répartition des charges membranaires.",
+        "Elle désigne la transmission axonale de l’information sous forme de potentiels d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’excitabilité concerne le maintien du potentiel de repos et la réponse rapide par redistribution des charges. La transmission axonale des potentiels d’action correspond à la conduction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la conduction neuronale telle qu’elle est définie dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle correspond à une capacité des axones.",
+        "Elle permet la transmission de l’information sous forme de signaux électriques.",
+        "Les signaux électriques concernés sont appelés potentiels d’action.",
+        "Elle correspond au maintien stable de l’asymétrie cationique par la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La conduction est la capacité des axones à transmettre l’information sous forme de potentiels d’action. Le maintien de l’asymétrie cationique relève du rôle de la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’équation générale de Nernst présentée, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle s’écrit Eion = RT / ZF × ln([ion]e / [ion]i).",
+        "R correspond à la constante des gaz parfaits.",
+        "F correspond à la constante de Faraday.",
+        "T correspond à la valence de l’ion."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans l’équation générale, T est la température absolue et Z la valence de l’ion. R et F désignent respectivement la constante des gaz parfaits et la constante de Faraday."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la forme de l’équation de Nernst à température physiologique indiquée dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comporte le coefficient 58.",
+        "Elle utilise un logarithme décimal log10.",
+        "Elle conserve le rapport [ion]e / [ion]i.",
+        "Elle inverse le rapport des concentrations en [ion]i / [ion]e."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À température physiologique, le texte donne : Eion = 58 × log10([ion]e / [ion]i). Le rapport extracellulaire/intracellulaire est conservé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la convention de mesure du potentiel membranaire neuronal, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potentiel membranaire est la différence de potentiel entre l’intérieur du neurone et le milieu extracellulaire.",
+        "Il est mesuré comme le potentiel intracellulaire par rapport à l’extérieur.",
+        "Une valeur d’environ -70 mV au repos correspond à un neurone polarisé.",
+        "La convention décrite mesure le potentiel extracellulaire par rapport à l’intérieur du neurone."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Par convention, le potentiel membranaire est le potentiel intracellulaire mesuré par rapport à l’extérieur. Au repos, il est d’environ -70 mV, ce qui traduit l’état polarisé."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations suivantes entre facteur et rôle dans la polarisation de repos, lesquelles sont exactes ?",
+      "choices": [
+        "Les gradients ioniques transmembranaires contribuent au maintien de la polarisation stable.",
+        "La perméabilité sélective de la membrane participe au potentiel de repos.",
+        "Les anions intracellulaires non diffusibles participent à l’équilibre ionique transmembranaire.",
+        "La pompe Na+/K+ ATPase abolit l’asymétrie de répartition des cations."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La polarisation stable dépend des gradients ioniques, de la perméabilité sélective, des anions non diffusibles et de la pompe Na+/K+ ATPase. Cette dernière maintient l’asymétrie cationique, elle ne l’abolit pas."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé définit le plus correctement l’état d’équilibre d’un ion selon le texte ?",
+      "choices": [
+        "Il correspond à l’absence de toute différence de concentration entre les deux compartiments.",
+        "Il est atteint lorsque le gradient de concentration est compensé par le gradient électrique.",
+        "Il impose l’arrêt de toute perméabilité membranaire à cet ion.",
+        "Il dépend exclusivement de la consommation d’ATP par la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’état d’équilibre d’un ion est atteint quand son gradient de concentration est compensé par le gradient électrique transmembranaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’équation générale de Nernst, quelle association symbole-définition est correcte ?",
+      "choices": [
+        "[ion]i : concentration intracellulaire.",
+        "Z : température absolue.",
+        "T : constante de Faraday.",
+        "R : valence de l’ion."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Dans l’équation de Nernst, [ion]i désigne la concentration intracellulaire. Z est la valence, T la température absolue, R la constante des gaz parfaits."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel flux sodique est directement attribué à la pompe Na+/K+ ATPase dans le texte ?",
+      "choices": [
+        "Entrée passive du sodium dans la cellule.",
+        "Diffusion libre du sodium selon son gradient.",
+        "Expulsion du sodium vers le milieu extracellulaire.",
+        "Accumulation passive du sodium dans le compartiment intracellulaire."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La pompe Na+/K+ ATPase expulse le sodium vers le milieu extracellulaire, avec consommation d’ATP."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel montage correspond à la mesure du potentiel membranaire décrite ?",
+      "choices": [
+        "Microélectrode extracellulaire et électrode de référence intracellulaire.",
+        "Microélectrode à l’intérieur ou au voisinage de la membrane neuronale, électrode de référence extracellulaire.",
+        "Deux électrodes intracellulaires mesurant uniquement la concentration ionique.",
+        "Deux électrodes extracellulaires mesurant directement le potentiel d’action."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte décrit une microélectrode placée à l’intérieur ou au voisinage de la membrane neuronale et une électrode de référence dans le milieu extracellulaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’ordre de perméabilité membranaire relative au repos donné, quel ion occupe la position intermédiaire ?",
+      "choices": [
+        "K+.",
+        "Na+.",
+        "Cl−.",
+        "ATP."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’ordre donné est K+ > Cl− > Na+. L’ion intermédiaire est donc Cl−."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme correspond clairement à un transport actif dans le texte ?",
+      "choices": [
+        "L’entrée du sodium dans la cellule selon ses gradients électrochimiques.",
+        "La diffusion ionique liée aux différences de concentration.",
+        "La sortie du sodium assurée par la pompe Na+/K+ ATPase avec consommation d’ATP.",
+        "Le déplacement ionique passif sous l’effet du champ électrique transmembranaire."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La sortie du sodium nécessite un transport actif assuré par la pompe Na+/K+ ATPase, qui consomme de l’ATP."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour calculer le potentiel d’équilibre d’un ion par l’équation de Nernst telle qu’elle est donnée, quelles affirmations sont exactes ?",
+      "choices": [
+        "Le rapport des concentrations extracellulaire et intracellulaire de l’ion intervient dans le calcul.",
+        "La valence de l’ion intervient dans la formule générale.",
+        "Le potentiel obtenu correspond à une situation où le gradient de concentration est compensé par le gradient électrique.",
+        "La perméabilité relative de la membrane suffit à elle seule pour calculer ce potentiel."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équation utilise [ion]e/[ion]i, la valence Z, la température et des constantes. Elle s’applique au potentiel d’équilibre, défini par la compensation entre gradient chimique et gradient électrique."
+    },
+    {
+      "type": "QCM",
+      "question": "Lorsqu’un ion diffusible traverse passivement la membrane neuronale au repos, quels éléments conditionnent son déplacement selon le texte ?",
+      "choices": [
+        "Les différences de concentration entre les milieux intra- et extracellulaire.",
+        "Le champ électrique transmembranaire.",
+        "Une perméabilité identique de la membrane à tous les ions.",
+        "La compensation possible entre gradient chimique et gradient électrique."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le déplacement ionique passif dépend du gradient de concentration et du champ électrique. L’équilibre est atteint lorsque ces deux gradients se compensent. La membrane n’est pas également perméable à tous les ions."
+    },
+    {
+      "type": "QCM",
+      "question": "À partir de la hiérarchie de perméabilité K+ > Cl− > Na+ au repos, quelles conclusions sont conformes au texte ?",
+      "choices": [
+        "La perméabilité au potassium domine au repos.",
+        "Le chlore est plus perméant que le sodium.",
+        "Le sodium est beaucoup moins perméant que le potassium.",
+        "Le sodium ne peut jamais traverser la membrane neuronale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique une perméabilité relative dominée par K+, avec Cl− en position intermédiaire et Na+ beaucoup moins perméant. Il ne dit pas que le sodium est totalement incapable de traverser la membrane."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels enchaînements physiologiques sont correctement formulés selon le texte ?",
+      "choices": [
+        "Différences de concentration ionique → transports passifs par diffusion.",
+        "Séparation des charges → gradient électrique transmembranaire.",
+        "Anions intracellulaires non diffusibles → influence sur la répartition des ions diffusibles.",
+        "Génération permanente de potentiels d’action au repos → maintien de la polarisation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les différences de concentration entraînent des transports passifs, la séparation des charges est liée au gradient électrique, et les anions non diffusibles influencent la distribution ionique. Au repos, le neurone est inactif vis-à-vis de la génération du potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le sodium dans le neurone au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Son entrée dans la cellule peut se faire passivement.",
+        "Sa sortie nécessite un transport actif.",
+        "La pompe Na+/K+ ATPase l’expulse vers le milieu extracellulaire.",
+        "Son gradient passif explique directement son expulsion hors de la cellule."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que l’entrée du sodium peut être passive, tandis que sa sortie nécessite un transport actif. La pompe Na+/K+ ATPase expulse le sodium vers l’extérieur, à l’opposé de son gradient passif."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions décrivent correctement la pompe Na+/K+ ATPase dans le cadre du potentiel de repos ?",
+      "choices": [
+        "Elle consomme de l’ATP.",
+        "Elle contribue au maintien de l’asymétrie de répartition des cations.",
+        "Elle fait entrer le potassium dans la cellule.",
+        "Elle transporte le sodium dans le même sens que son gradient passif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La pompe consomme de l’ATP, expulse Na+ et fait entrer K+, maintenant l’asymétrie cationique. Le flux de sodium qu’elle génère est opposé au gradient passif du sodium."
+    },
+    {
+      "type": "QCM",
+      "question": "Au repos, quels énoncés caractérisent correctement l’état fonctionnel du neurone ?",
+      "choices": [
+        "Il est inactif sur le plan de la génération du potentiel d’action.",
+        "Il maintient une polarisation stable.",
+        "Son potentiel membranaire est d’environ -70 mV.",
+        "Il est dépourvu de gradients ioniques transmembranaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le neurone au repos ne génère pas de potentiel d’action, mais conserve une polarisation stable d’environ -70 mV grâce à plusieurs mécanismes, dont les gradients ioniques transmembranaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les éléments suivants, lesquels participent explicitement au maintien de la polarisation stable du neurone au repos ?",
+      "choices": [
+        "La perméabilité sélective de la membrane.",
+        "Les gradients ioniques transmembranaires.",
+        "Les anions intracellulaires non diffusibles.",
+        "Le voltmètre utilisé pour mesurer la différence de potentiel."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le maintien du potentiel de repos repose sur les gradients ioniques, la perméabilité sélective, les anions intracellulaires non diffusibles et l’activité de la pompe Na+/K+ ATPase. Le voltmètre sert seulement à la mesure."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des anions intracellulaires non diffusibles, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils comprennent notamment des protéines chargées négativement.",
+        "Ils influencent la répartition des ions diffusibles de part et d’autre de la membrane.",
+        "Ils participent au maintien de la polarisation stable au repos.",
+        "Ils remplacent l’activité de la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anions intracellulaires non diffusibles, notamment protéiques et négatifs, influencent la distribution des ions diffusibles et contribuent à la polarisation. Ils ne remplacent pas la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le principe d’électroneutralité dans l’équilibre ionique transmembranaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Il doit être respecté dans chaque compartiment.",
+        "Il contribue à l’équilibre ionique transmembranaire.",
+        "Il est compatible avec l’existence d’un gradient électrique lié à la séparation des charges.",
+        "Il impose une concentration identique de chaque ion dans les deux compartiments."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que l’électroneutralité doit être respectée dans chaque compartiment et contribue à l’équilibre transmembranaire. Elle n’implique pas l’égalité des concentrations de chaque ion de part et d’autre de la membrane."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la distinction fonctionnelle entre excitabilité et conduction, quelles propositions sont exactes ?",
+      "choices": [
+        "L’excitabilité inclut la capacité de maintenir une différence de potentiel transmembranaire.",
+        "L’excitabilité inclut la réponse rapide par modification brusque de la répartition des charges.",
+        "La conduction correspond à la transmission axonale de potentiels d’action.",
+        "La conduction désigne uniquement le maintien du potentiel de repos."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’excitabilité concerne le maintien du potentiel de repos et la réponse rapide membranaire. La conduction est la capacité des axones à transmettre l’information sous forme de potentiels d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la forme simplifiée de l’équation de Nernst à température physiologique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comporte un coefficient numérique égal à 58.",
+        "Elle utilise un logarithme décimal.",
+        "Elle fait intervenir le rapport [ion]e/[ion]i.",
+        "Elle supprime toute dépendance aux concentrations ioniques."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme donnée est Eion = 58 × log10([ion]e/[ion]i). Elle dépend donc toujours des concentrations extracellulaire et intracellulaire de l’ion."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour mesurer le potentiel membranaire selon le dispositif décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Une électrode de référence est placée dans le milieu extracellulaire.",
+        "Une microélectrode est placée à l’intérieur ou au voisinage de la membrane neuronale.",
+        "Les électrodes sont reliées à un voltmètre.",
+        "La valeur mesurée correspond au potentiel extracellulaire par rapport au potentiel intracellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La mesure se fait avec une microélectrode et une électrode de référence extracellulaire reliées à un voltmètre. Par convention, le potentiel membranaire est le potentiel intracellulaire par rapport à l’extérieur."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles distinctions terminologiques sont correctes selon le texte ?",
+      "choices": [
+        "Le potentiel membranaire est la différence de potentiel électrique entre l’intérieur du neurone et le milieu extracellulaire.",
+        "Le potentiel de repos correspond à la différence de potentiel transmembranaire maintenue au repos.",
+        "Le potentiel d’équilibre d’un ion correspond aux conditions où ses gradients chimique et électrique se compensent.",
+        "Potentiel membranaire, potentiel de repos et potentiel d’équilibre d’un ion sont toujours des synonymes stricts."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel membranaire, le potentiel de repos et le potentiel d’équilibre sont des notions liées mais distinctes. Le potentiel d’équilibre concerne un ion donné, alors que le potentiel de repos caractérise le neurone au repos."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la forme simplifiée de l’équation de Nernst, si le rapport [ion]e/[ion]i est égal à 1, quelle valeur prend Eion ?",
+      "choices": [
+        "0 mV",
+        "58 mV",
+        "-58 mV",
+        "Il devient impossible à calculer"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Lorsque [ion]e/[ion]i = 1, log10(1) = 0 ; donc Eion = 58 × 0 = 0 mV."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel flux correspond au transport actif du sodium décrit comme opposé à son gradient passif ?",
+      "choices": [
+        "Entrée du sodium dans la cellule par diffusion passive.",
+        "Sortie du sodium vers le milieu extracellulaire par la pompe Na+/K+ ATPase.",
+        "Entrée du potassium dans le milieu extracellulaire.",
+        "Diffusion du chlore selon la hiérarchie de perméabilité."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La pompe Na+/K+ ATPase expulse le sodium vers le milieu extracellulaire, ce qui constitue un flux actif opposé au gradient passif du sodium."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé définit le gradient chimique dans l’équilibre ionique transmembranaire ?",
+      "choices": [
+        "Il est lié aux différences de concentration.",
+        "Il est lié uniquement à la consommation d’ATP.",
+        "Il est lié à la séparation des charges.",
+        "Il correspond à la valeur affichée par le voltmètre."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le gradient chimique est explicitement défini comme étant lié aux différences de concentration entre les compartiments."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les propositions suivantes concernant le chlore au repos, laquelle est incompatible avec le texte ?",
+      "choices": [
+        "La membrane est perméable au chlore.",
+        "La perméabilité au chlore est inférieure à celle du potassium.",
+        "La perméabilité au chlore est supérieure à celle du sodium.",
+        "Le chlore domine la perméabilité membranaire relative au repos."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La perméabilité relative est K+ > Cl− > Na+. Le chlore est donc intermédiaire, mais il ne domine pas la perméabilité membranaire au repos."
+    },
+    {
+      "type": "QCS",
+      "question": "La transmission d’une information sous forme de potentiels d’action le long des axones relève de quelle propriété neuronale ?",
+      "choices": [
+        "L’électroneutralité.",
+        "La conduction.",
+        "La diffusion passive.",
+        "Le potentiel d’équilibre."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La conduction correspond à la capacité des axones à transmettre l’information sous forme de signaux électriques appelés potentiels d’action."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le dispositif de mesure décrit, que représente la différence de potentiel mesurée par le voltmètre ?",
+      "choices": [
+        "Le potentiel d’équilibre exclusif du potassium.",
+        "Le potentiel membranaire.",
+        "La concentration intracellulaire en sodium.",
+        "La consommation d’ATP par la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les électrodes reliées au voltmètre mesurent une différence de potentiel qui correspond au potentiel membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Face à l’affirmation selon laquelle le potentiel de repos neuronal serait dû uniquement à la pompe Na+/K+ ATPase, quelles objections sont conformes au texte ?",
+      "choices": [
+        "La semi-perméabilité membranaire participe au potentiel de repos.",
+        "Les gradients ioniques transmembranaires contribuent au maintien de la polarisation.",
+        "Les anions intracellulaires non diffusibles interviennent dans l’équilibre ionique transmembranaire.",
+        "La génération permanente de potentiels d’action est nécessaire au maintien du repos."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel de repos dépend de plusieurs facteurs : gradients ioniques, perméabilité sélective, anions intracellulaires non diffusibles et pompe Na+/K+ ATPase. Au repos, le neurone est inactif pour la génération du potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’équation générale de Nernst donnée, quels paramètres interviennent directement dans le calcul du potentiel d’équilibre d’un ion ?",
+      "choices": [
+        "La température absolue.",
+        "La valence de l’ion.",
+        "Le rapport entre concentration extracellulaire et concentration intracellulaire.",
+        "La fréquence des potentiels d’action axonaux."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équation Eion = RT/ZF × ln([ion]e/[ion]i) fait intervenir R, T, Z, F et le rapport des concentrations. La fréquence des potentiels d’action n’est pas mentionnée dans ce calcul."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’état d’équilibre transmembranaire d’un ion diffusible, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est atteint lorsque le gradient de concentration est compensé par le gradient électrique.",
+        "Le potentiel existant dans ces conditions est appelé potentiel d’équilibre de l’ion.",
+        "Il n’implique pas nécessairement l’égalité des concentrations ioniques de part et d’autre de la membrane.",
+        "Il suppose la disparition complète de toute séparation des charges."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équilibre d’un ion correspond à la compensation du gradient chimique par le gradient électrique. Il définit le potentiel d’équilibre, sans imposer l’égalité des concentrations ni la disparition de la séparation des charges."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des transports passifs ioniques à travers la membrane neuronale au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent résulter des différences de concentration ionique entre les deux milieux.",
+        "Ils sont influencés par le champ électrique transmembranaire.",
+        "Ils s’inscrivent dans le contexte d’une membrane plasmique semi-perméable.",
+        "Ils nécessitent directement une consommation d’ATP."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les transports passifs dépendent des gradients de concentration et du champ électrique, à travers une membrane semi-perméable. La consommation d’ATP concerne le transport actif par la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCM",
+      "question": "À partir de la hiérarchie de perméabilité membranaire relative K+ > Cl− > Na+ au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potassium est l’ion diffusible dont la perméabilité relative est la plus élevée parmi les trois cités.",
+        "Le sodium est moins perméant que le chlore au repos.",
+        "La membrane est perméable au potassium et au chlore.",
+        "Le sodium est totalement imperméable à travers la membrane neuronale au repos."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique une perméabilité relative dominée par K+, suivie de Cl− puis de Na+. Le sodium est beaucoup moins perméant, mais il n’est pas décrit comme totalement imperméable."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anions intracellulaires non diffusibles mentionnés dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils comprennent notamment des protéines chargées négativement.",
+        "Ils influencent la répartition des ions diffusibles de part et d’autre de la membrane.",
+        "Ils participent indirectement à l’équilibre ionique transmembranaire.",
+        "Ils quittent librement la cellule par diffusion passive comme les ions diffusibles."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anions intracellulaires non diffusibles, notamment des protéines négatives, influencent la distribution des ions diffusibles. Leur caractère non diffusible exclut une sortie libre par diffusion passive."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le sodium dans le neurone au repos, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Son entrée dans la cellule peut se faire passivement.",
+        "Sa sortie nécessite un transport actif.",
+        "La pompe Na+/K+ ATPase l’expulse vers le milieu extracellulaire.",
+        "Le flux sodique généré par la pompe est opposé au gradient passif du sodium."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que l’entrée du sodium peut être passive, tandis que sa sortie nécessite un transport actif assuré par la pompe Na+/K+ ATPase, générant un flux opposé à son gradient passif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la pompe Na+/K+ ATPase dans le maintien du potentiel de repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle contribue au maintien de l’asymétrie de répartition des cations.",
+        "Elle fait entrer le potassium dans la cellule.",
+        "Elle consomme de l’ATP.",
+        "Elle constitue l’équation permettant de calculer le potentiel d’équilibre ionique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La pompe Na+/K+ ATPase maintient l’asymétrie cationique, expulse Na+, fait entrer K+ et consomme de l’ATP. Le potentiel d’équilibre est calculé par l’équation de Nernst."
+    },
+    {
+      "type": "QCM",
+      "question": "Au repos, quelles propositions caractérisent correctement le neurone décrit dans le texte ?",
+      "choices": [
+        "Il est inactif sur le plan de la génération du potentiel d’action.",
+        "Il maintient une polarisation stable d’environ -70 mV.",
+        "Il conserve une différence de potentiel transmembranaire.",
+        "Il est décrit comme dépolarisé de façon permanente."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au repos, le neurone ne génère pas de potentiel d’action, mais conserve une polarisation stable proche de -70 mV. Il n’est pas décrit comme dépolarisé de façon permanente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la mesure expérimentale du potentiel membranaire neuronal, quelles propositions sont exactes ?",
+      "choices": [
+        "Une microélectrode peut être placée à l’intérieur du neurone ou au voisinage de sa membrane.",
+        "Une électrode de référence est placée dans le milieu extracellulaire.",
+        "Les électrodes sont reliées à un voltmètre.",
+        "La mesure correspond au potentiel extracellulaire pris par rapport au potentiel intracellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le montage comporte une microélectrode intracellulaire ou juxtamembranaire, une électrode de référence extracellulaire et un voltmètre. Par convention, le potentiel est mesuré comme le potentiel intracellulaire par rapport à l’extérieur."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les deux gradients impliqués dans l’équilibre ionique transmembranaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Le gradient chimique est lié aux différences de concentration.",
+        "Le gradient électrique est lié à la séparation des charges.",
+        "L’équilibre s’établit entre gradient chimique et gradient électrique.",
+        "Le gradient chimique est défini par la séparation des charges transmembranaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue le gradient chimique, lié aux différences de concentration, et le gradient électrique, lié à la séparation des charges. L’équilibre résulte de leur interaction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’excitabilité neuronale telle qu’elle est définie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle comprend la capacité de maintenir une différence de potentiel transmembranaire.",
+        "Elle comprend la capacité de répondre rapidement par une modification brusque de la répartition des charges.",
+        "Elle concerne la membrane neuronale.",
+        "Elle désigne spécifiquement la propagation axonale des potentiels d’action."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’excitabilité concerne la membrane neuronale, sa capacité à maintenir un potentiel de repos et à répondre par une modification brusque des charges. La propagation axonale correspond à la conduction."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la conduction neuronale, quelles propositions sont exactes selon le texte ?",
+      "choices": [
+        "Elle correspond à une capacité des axones.",
+        "Elle permet la transmission de l’information sous forme de signaux électriques.",
+        "Les signaux électriques transmis sont appelés potentiels d’action.",
+        "Elle est définie comme la capacité de maintenir le potentiel de repos."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La conduction est la capacité des axones à transmettre l’information sous forme de potentiels d’action. Le maintien du potentiel de repos relève de la définition de l’excitabilité."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour calculer un potentiel d’équilibre ionique par l’équation de Nernst du texte, quelles données sont directement nécessaires ?",
+      "choices": [
+        "La concentration extracellulaire de l’ion.",
+        "La concentration intracellulaire de l’ion.",
+        "La valence de l’ion.",
+        "La perméabilité relative de la membrane à cet ion."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équation générale de Nernst utilise les concentrations extra- et intracellulaires, la valence, la température et des constantes. La perméabilité relative n’apparaît pas dans cette équation."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’équation générale de Nernst, quel paramètre détermine le signe lié à la charge de l’ion ?",
+      "choices": [
+        "La constante des gaz parfaits.",
+        "La valence de l’ion.",
+        "La concentration extracellulaire.",
+        "La constante de Faraday."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La valence Z représente la charge de l’ion dans l’équation de Nernst et intervient dans le signe du potentiel calculé."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit le plus fidèlement le rôle énergétique de la pompe Na+/K+ ATPase ?",
+      "choices": [
+        "Elle assure un transport passif du sodium vers l’intérieur de la cellule.",
+        "Elle expulse le sodium et fait entrer le potassium en consommant de l’ATP.",
+        "Elle rend la membrane totalement imperméable au sodium.",
+        "Elle remplace le champ électrique transmembranaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La pompe Na+/K+ ATPase expulse Na+ vers le milieu extracellulaire, fait entrer K+ dans la cellule et consomme de l’ATP."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé est le plus compatible avec la notion de membrane neuronale semi-perméable au repos ?",
+      "choices": [
+        "Tous les ions traversent la membrane avec la même facilité.",
+        "La membrane laisse passer sélectivement certains ions, avec une perméabilité relative différente.",
+        "La membrane empêche tout transport ionique passif.",
+        "La membrane ne laisse passer que le sodium."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte décrit une membrane semi-perméable avec une perméabilité relative différente selon les ions, dominée par K+, puis Cl−, puis Na+."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond à la conséquence immédiate d’un rapport [ion]e/[ion]i intervenant dans l’équation de Nernst ?",
+      "choices": [
+        "Il exprime la relation entre concentrations extracellulaire et intracellulaire de l’ion.",
+        "Il mesure directement la consommation d’ATP par la pompe.",
+        "Il indique la fréquence de conduction axonale.",
+        "Il remplace la valence de l’ion dans l’équation générale."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le rapport [ion]e/[ion]i correspond au rapport entre concentration extracellulaire et concentration intracellulaire de l’ion dans l’équation de Nernst."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé constitue le meilleur piège à éviter concernant le sodium au repos ?",
+      "choices": [
+        "Son entrée peut être passive, mais sa sortie nécessite un transport actif.",
+        "Sa sortie est spontanément passive dans le sens de son gradient passif.",
+        "Il est l’ion le plus perméant au repos.",
+        "Il entre dans la cellule uniquement grâce à la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que l’entrée du sodium peut se faire passivement, tandis que sa sortie nécessite un transport actif par la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle chaîne causale respecte le mieux la description du texte concernant le potentiel de repos ?",
+      "choices": [
+        "Membrane semi-perméable, gradients ioniques, diffusion passive modulée par le champ électrique, puis équilibre ionique transmembranaire.",
+        "Membrane imperméable, absence de diffusion, disparition des gradients, puis potentiel d’action permanent.",
+        "Pompe Na+/K+ ATPase seule, absence d’anions intracellulaires, puis suppression du potentiel membranaire.",
+        "Conduction axonale permanente, égalisation des concentrations, puis polarisation stable."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte relie la semi-perméabilité membranaire, les gradients de concentration, les transports passifs, le champ électrique et l’équilibre ionique transmembranaire dans le maintien du potentiel de repos."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une analyse intégrée du potentiel de repos neuronal, quels enchaînements sont conformes au texte ?",
+      "choices": [
+        "Différences de concentrations ioniques → diffusion passive possible à travers une membrane semi-perméable.",
+        "Séparation des charges → gradient électrique transmembranaire influençant le déplacement ionique.",
+        "Compensation du gradient de concentration par le gradient électrique → potentiel d’équilibre de l’ion.",
+        "Absence totale de perméabilité au sodium → impossibilité de tout mouvement sodique passif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte relie les différences de concentration aux transports passifs, le champ électrique transmembranaire au déplacement des ions, et la compensation des deux gradients au potentiel d’équilibre. Le sodium n’est pas totalement imperméant : la membrane est seulement beaucoup moins perméable au sodium."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour un ion donné, quelles données interviennent directement dans l’expression générale du potentiel d’équilibre selon l’équation de Nernst fournie ?",
+      "choices": [
+        "La température absolue.",
+        "La valence de l’ion.",
+        "Le rapport entre concentration extracellulaire et concentration intracellulaire de l’ion.",
+        "L’activité de génération des potentiels d’action par le neurone."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équation générale donnée est Eion = RT/ZF × ln([ion]e/[ion]i). Elle fait intervenir T, Z et les concentrations extra- et intracellulaires. La génération des potentiels d’action n’est pas un paramètre de cette équation."
+    },
+    {
+      "type": "QCM",
+      "question": "À partir de la hiérarchie de perméabilité membranaire au repos indiquée dans le texte, quelles interprétations sont correctes ?",
+      "choices": [
+        "Le potassium est l’ion dominant dans la perméabilité membranaire relative au repos.",
+        "Le chlore occupe une perméabilité relative supérieure à celle du sodium.",
+        "Le sodium traverse la membrane aussi facilement que le potassium au repos.",
+        "La faible perméabilité relative au sodium explique qu’il ne domine pas la détermination du potentiel de repos."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La hiérarchie donnée est K+ > Cl− > Na+. Le potassium domine, le chlore est intermédiaire, et le sodium est beaucoup moins perméant que le potassium."
+    },
+    {
+      "type": "QCM",
+      "question": "Les anions intracellulaires non diffusibles interviennent dans l’équilibre ionique transmembranaire par quels mécanismes ou conséquences mentionnés ?",
+      "choices": [
+        "Ils comprennent notamment des protéines chargées négativement.",
+        "Ils influencent la répartition des ions diffusibles de part et d’autre de la membrane.",
+        "Ils participent au maintien de la polarisation stable du neurone au repos.",
+        "Ils assurent directement l’expulsion active du sodium vers le milieu extracellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite des protéines chargées négativement, précise leur influence sur les ions diffusibles et les inclut parmi les facteurs de maintien de la polarisation. L’expulsion active du sodium relève de la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le sodium au repos, quelles propositions respectent simultanément les gradients électrochimiques et le rôle de la pompe décrits ?",
+      "choices": [
+        "Son entrée cellulaire peut se faire passivement.",
+        "Sa sortie nécessite un transport actif.",
+        "La pompe Na+/K+ ATPase génère un flux sodique opposé au gradient passif.",
+        "La membrane au repos est décrite comme plus perméable au sodium qu’au potassium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que l’entrée du sodium peut être passive, que sa sortie nécessite un transport actif et que la pompe crée un flux de sodium opposé au gradient passif. La perméabilité relative est au contraire dominée par le potassium."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le montage de mesure du potentiel membranaire décrit, quels éléments sont correctement associés ?",
+      "choices": [
+        "Une électrode de référence est placée dans le milieu extracellulaire.",
+        "Une microélectrode peut être placée à l’intérieur ou au voisinage de la membrane neuronale.",
+        "Les électrodes sont reliées à un voltmètre.",
+        "La différence de potentiel mesurée correspond au potentiel d’équilibre du potassium exclusivement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le dispositif comprend une microélectrode, une électrode de référence extracellulaire et un voltmètre. La différence mesurée correspond au potentiel membranaire, non au seul potentiel d’équilibre du potassium."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels énoncés décrivent correctement le neurone au repos selon le texte ?",
+      "choices": [
+        "Il est inactif sur le plan de la génération du potentiel d’action.",
+        "Il conserve une polarisation stable d’environ -70 mV.",
+        "Il maintient cette polarisation grâce à plusieurs facteurs ioniques et membranaires.",
+        "Il perd toute différence de potentiel transmembranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au repos, le neurone ne génère pas de potentiel d’action, mais reste polarisé autour de -70 mV grâce aux gradients ioniques, à la perméabilité sélective, aux anions non diffusibles et à la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions évitent correctement une interprétation réductrice du rôle de la pompe Na+/K+ ATPase dans le potentiel de repos ?",
+      "choices": [
+        "La pompe contribue au maintien de l’asymétrie de répartition des cations.",
+        "La pompe consomme de l’ATP.",
+        "La pompe est le seul facteur cité pour maintenir la polarisation stable du neurone.",
+        "La pompe fait entrer le potassium dans la cellule."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La pompe maintient l’asymétrie cationique, consomme de l’ATP, expulse le sodium et fait entrer le potassium. Elle n’est pas le seul facteur cité : interviennent aussi les gradients ioniques, la perméabilité sélective et les anions intracellulaires non diffusibles."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des deux composantes de l’équilibre ionique transmembranaire, quelles associations sont justes ?",
+      "choices": [
+        "Gradient chimique — différences de concentration.",
+        "Gradient électrique — séparation des charges.",
+        "Équilibre d’un ion — compensation du gradient de concentration par le gradient électrique.",
+        "Électroneutralité — accumulation nette de charges non compensées dans chaque compartiment."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte définit le gradient chimique par les différences de concentration et le gradient électrique par la séparation des charges. L’équilibre d’un ion survient quand ces gradients se compensent. L’électroneutralité impose au contraire le respect de la neutralité dans chaque compartiment."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la distinction entre excitabilité et conduction, quelles propositions sont conformes aux définitions données ?",
+      "choices": [
+        "L’excitabilité inclut le maintien d’une différence de potentiel transmembranaire.",
+        "L’excitabilité inclut la réponse rapide par modification brusque de la répartition des charges.",
+        "La conduction correspond à la transmission de l’information par les axones sous forme de potentiels d’action.",
+        "La conduction est définie comme la capacité des protéines intracellulaires à rester non diffusibles."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’excitabilité est liée au potentiel de repos et à la réponse rapide membranaire. La conduction est la transmission axonale de signaux électriques appelés potentiels d’action. Les protéines non diffusibles relèvent de la répartition ionique, non de la conduction."
+    },
+    {
+      "type": "QCM",
+      "question": "En utilisant strictement les notations de l’équation générale de Nernst fournie, quelles affirmations sont correctes ?",
+      "choices": [
+        "[ion]e désigne la concentration extracellulaire de l’ion.",
+        "[ion]i désigne la concentration intracellulaire de l’ion.",
+        "Z désigne la valence de l’ion.",
+        "F désigne la température absolue."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Dans le texte, [ion]e est la concentration extracellulaire, [ion]i la concentration intracellulaire, Z la valence et F la constante de Faraday. La température absolue est T."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions caractérisent correctement la semi-perméabilité membranaire neuronale au repos ?",
+      "choices": [
+        "Elle permet une perméabilité différente selon les ions.",
+        "Elle s’accompagne de transports passifs par diffusion liés aux différences de concentration.",
+        "Elle rend la membrane beaucoup moins perméable au sodium qu’au potassium.",
+        "Elle supprime l’influence du champ électrique transmembranaire sur les ions."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La membrane est semi-perméable et présente une perméabilité sélective : K+ > Cl− > Na+. Les différences de concentration entraînent des transports passifs, mais le déplacement des ions dépend aussi du champ électrique."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs sont explicitement réunis dans le maintien de la polarisation stable d’environ -70 mV au repos ?",
+      "choices": [
+        "Les gradients ioniques transmembranaires.",
+        "La perméabilité sélective de la membrane.",
+        "L’activité de la pompe Na+/K+ ATPase.",
+        "La disparition du principe d’électroneutralité dans le compartiment intracellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte cite les gradients ioniques, la perméabilité sélective, les anions intracellulaires non diffusibles et la pompe Na+/K+ ATPase. Le principe d’électroneutralité doit être respecté."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la forme à température physiologique de l’équation de Nernst telle qu’elle est écrite dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle utilise le coefficient 58.",
+        "Elle utilise un logarithme décimal.",
+        "Elle fait apparaître le rapport [ion]e/[ion]i.",
+        "Elle remplace le rapport de concentrations par la différence [ion]i − [ion]e."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme donnée est Eion = 58 × log10([ion]e/[ion]i). Elle utilise donc 58, un logarithme décimal et un rapport de concentrations, non une différence."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition définit le plus précisément le potentiel d’équilibre d’un ion selon le texte ?",
+      "choices": [
+        "Le potentiel mesuré uniquement pendant la génération d’un potentiel d’action.",
+        "Le potentiel existant lorsque le gradient de concentration de l’ion est compensé par le gradient électrique.",
+        "Le potentiel imposé exclusivement par la pompe Na+/K+ ATPase.",
+        "Le potentiel correspondant à l’absence de toute concentration ionique transmembranaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le potentiel d’équilibre d’un ion est atteint lorsque son gradient de concentration est compensé par le gradient électrique de part et d’autre de la membrane."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition résume le mieux le sort du sodium dans le cadre des gradients électrochimiques décrits ?",
+      "choices": [
+        "Le sodium sort passivement de la cellule et entre activement par la pompe.",
+        "Le sodium entre passivement dans la cellule, tandis que sa sortie nécessite un transport actif.",
+        "Le sodium ne peut jamais traverser la membrane neuronale au repos.",
+        "Le sodium est l’ion le plus perméant au repos."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que l’entrée du sodium peut être passive, alors que sa sortie nécessite un transport actif assuré par la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle combinaison correspond exactement aux facteurs cités pour maintenir la polarisation stable du neurone au repos ?",
+      "choices": [
+        "Gradients ioniques, perméabilité sélective, anions intracellulaires non diffusibles, pompe Na+/K+ ATPase.",
+        "Potentiels d’action répétés, absence de gradients ioniques, pompe Na+/K+ ATPase, disparition des anions intracellulaires.",
+        "Perméabilité exclusive au sodium, électrode de référence extracellulaire, voltmètre, conduction axonale.",
+        "Gradient chimique seul, sans gradient électrique ni perméabilité sélective."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte énumère explicitement quatre facteurs : gradients ioniques transmembranaires, perméabilité sélective, anions intracellulaires non diffusibles et activité de la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’équation générale de Nernst donnée, quelle association symbole-définition est exacte ?",
+      "choices": [
+        "R : constante de Faraday.",
+        "T : valence de l’ion.",
+        "Z : valence de l’ion.",
+        "F : concentration intracellulaire."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Dans le texte, Z correspond à la valence de l’ion. R est la constante des gaz parfaits, T la température absolue et F la constante de Faraday."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit correctement la polarité du potentiel membranaire au repos selon la convention de mesure indiquée ?",
+      "choices": [
+        "Le potentiel intracellulaire est mesuré par rapport au milieu extracellulaire et vaut environ -70 mV.",
+        "Le potentiel extracellulaire est mesuré par rapport au cytoplasme et vaut environ -70 mV.",
+        "Le potentiel de repos correspond à une absence de différence de potentiel.",
+        "Le potentiel de repos est défini comme le potentiel d’équilibre exclusif du sodium."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Par convention, le potentiel membranaire est mesuré comme le potentiel intracellulaire par rapport à l’extérieur. Au repos, il est d’environ -70 mV."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition restitue correctement l’ordre de perméabilité relative des principaux ions au repos ?",
+      "choices": [
+        "Na+ > Cl− > K+.",
+        "Cl− > K+ > Na+.",
+        "K+ > Cl− > Na+.",
+        "K+ > Na+ > Cl−."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le texte donne explicitement l’ordre de perméabilité relative au repos : K+ > Cl− > Na+."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’état électrique du neurone au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Le neurone ne génère pas de potentiel d’action au repos.",
+        "Le neurone conserve une polarisation stable d’environ -70 mV au repos.",
+        "L’absence de potentiel d’action au repos signifie l’absence de différence de potentiel transmembranaire.",
+        "La polarisation de repos dépend de propriétés ioniques et électriques membranaires."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Au repos, le neurone est inactif pour la génération du potentiel d’action, mais il maintient une polarisation stable d’environ -70 mV grâce aux propriétés électriques et ioniques de la membrane."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la distinction entre potentiel membranaire et potentiel d’équilibre ionique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le potentiel membranaire correspond à une différence de potentiel entre l’intérieur du neurone et le milieu extracellulaire.",
+        "Le potentiel d’équilibre concerne un ion donné lorsque son gradient chimique est compensé par le gradient électrique.",
+        "Le potentiel d’équilibre d’un ion est calculable par l’équation de Nernst.",
+        "Le potentiel membranaire et le potentiel d’équilibre sont définis dans le texte comme deux termes strictement synonymes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potentiel membranaire est la différence de potentiel transmembranaire globale. Le potentiel d’équilibre est propre à un ion et correspond à la compensation entre gradient chimique et gradient électrique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le sodium dans le neurone au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Son entrée cellulaire peut se faire passivement compte tenu des gradients électrochimiques.",
+        "Sa sortie nécessite un transport actif.",
+        "La pompe Na+/K+ ATPase expulse le sodium vers le milieu extracellulaire.",
+        "La sortie du sodium par la pompe se fait dans le même sens que son gradient passif."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que l’entrée du sodium peut être passive, tandis que sa sortie nécessite un transport actif assuré par la pompe Na+/K+ ATPase, à l’opposé du gradient passif."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la sélectivité de perméabilité membranaire au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "La membrane neuronale au repos est beaucoup moins perméable au sodium qu’au potassium.",
+        "Le potassium domine la perméabilité membranaire relative au repos.",
+        "Le chlore est mentionné comme un ion auquel la membrane est perméable.",
+        "Le sodium présente la perméabilité la plus élevée parmi K+, Cl− et Na+."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ordre donné est K+ > Cl− > Na+. La membrane est perméable au potassium et au chlore, mais beaucoup moins au sodium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les anions intracellulaires non diffusibles, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils comprennent notamment des protéines chargées négativement.",
+        "Ils influencent la répartition des ions diffusibles de part et d’autre de la membrane.",
+        "Ils participent indirectement à l’équilibre ionique transmembranaire.",
+        "Ils traversent librement la membrane plasmique selon leur gradient de concentration."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les anions intracellulaires non diffusibles, notamment les protéines négatives, influencent la répartition des ions diffusibles. Leur caractère non diffusible exclut une traversée libre de la membrane."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’équilibre ionique transmembranaire décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Le gradient chimique est lié aux différences de concentration ionique.",
+        "Le gradient électrique est lié à la séparation des charges.",
+        "L’équilibre d’un ion est atteint lorsque le gradient de concentration est compensé par le gradient électrique.",
+        "L’équilibre d’un ion correspond obligatoirement à l’arrêt de toute influence du champ électrique transmembranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équilibre résulte de la compensation entre gradient chimique et gradient électrique, et non de la disparition du champ électrique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les erreurs possibles d’écriture de l’équation générale de Nernst donnée, quelles propositions respectent le texte ?",
+      "choices": [
+        "La valence de l’ion intervient dans le terme Z.",
+        "Le rapport de concentrations est écrit [ion]e / [ion]i.",
+        "La température utilisée est la température absolue.",
+        "La constante de Faraday est remplacée dans le texte par la concentration intracellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’équation donnée est Eion = RT / ZF × ln([ion]e / [ion]i), avec T température absolue, Z valence et F constante de Faraday."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la forme de l’équation de Nernst à température physiologique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est exprimée avec un coefficient numérique égal à 58.",
+        "Elle utilise le logarithme décimal log10.",
+        "Elle conserve le rapport [ion]e / [ion]i dans l’expression fournie.",
+        "Elle introduit explicitement la consommation d’ATP dans le calcul."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À température physiologique, le texte donne : Eion = 58 × log10([ion]e / [ion]i). L’ATP n’intervient pas dans cette expression."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la mesure expérimentale du potentiel membranaire, quelles propositions sont exactes ?",
+      "choices": [
+        "Une électrode de référence est placée dans le milieu extracellulaire.",
+        "Une microélectrode peut être placée à l’intérieur ou au voisinage de la membrane neuronale.",
+        "Les électrodes sont reliées à un voltmètre.",
+        "La différence de potentiel mesurée correspond au potentiel d’équilibre du potassium uniquement."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le montage décrit mesure le potentiel membranaire, et non spécifiquement le potentiel d’équilibre du potassium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs maintenant la polarisation stable du neurone au repos, quelles propositions sont exactes ?",
+      "choices": [
+        "Les gradients ioniques transmembranaires y participent.",
+        "La perméabilité sélective de la membrane y participe.",
+        "Les anions intracellulaires non diffusibles y participent.",
+        "La génération continue de potentiels d’action y participe."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La polarisation stable d’environ -70 mV repose sur les gradients ioniques, la perméabilité sélective, les anions non diffusibles et la pompe Na+/K+ ATPase. Le neurone au repos ne génère pas de potentiel d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’électroneutralité et la séparation des charges, quelles propositions sont exactes ?",
+      "choices": [
+        "Le principe d’électroneutralité doit être respecté dans chaque compartiment.",
+        "La séparation des charges est à l’origine du gradient électrique transmembranaire.",
+        "Ces notions contribuent à l’équilibre ionique transmembranaire.",
+        "Le respect de l’électroneutralité impose l’absence totale de potentiel membranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte associe électroneutralité de chaque compartiment et séparation des charges dans l’établissement de l’équilibre ionique. Cela n’exclut pas l’existence d’un potentiel membranaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’asymétrie de répartition des cations, quelles propositions sont exactes ?",
+      "choices": [
+        "La pompe Na+/K+ ATPase contribue à son maintien.",
+        "La pompe expulse le sodium vers le milieu extracellulaire.",
+        "La pompe fait entrer le potassium dans la cellule.",
+        "La pompe assure directement la diffusion passive du chlore."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La pompe Na+/K+ ATPase maintient l’asymétrie cationique en expulsant Na+ et en faisant entrer K+, avec consommation d’ATP. Le texte ne lui attribue pas de diffusion passive du chlore."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les propriétés fondamentales des neurones, quelles propositions sont exactes ?",
+      "choices": [
+        "L’excitabilité inclut la capacité à maintenir une différence de potentiel transmembranaire.",
+        "L’excitabilité inclut la capacité à répondre rapidement par une modification brusque de la répartition des charges.",
+        "La conduction correspond à la transmission axonale de signaux électriques appelés potentiels d’action.",
+        "La conduction est définie comme la consommation d’ATP par la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte distingue l’excitabilité, liée au potentiel de repos et à la réponse rapide membranaire, de la conduction, liée à la transmission axonale des potentiels d’action."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rôle du potassium dans le potentiel de repos, quelles propositions sont exactes ?",
+      "choices": [
+        "La perméabilité membranaire relative au repos est dominée par K+.",
+        "Le potassium joue un rôle majeur dans la détermination du potentiel de repos.",
+        "Le rôle du potassium s’inscrit dans une membrane semi-perméable et sélective.",
+        "Le potassium est présenté comme le seul ion impliqué dans l’équilibre ionique transmembranaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le potassium est central car la perméabilité au repos est dominée par K+. Toutefois, le texte mentionne aussi le chlore, le sodium, les anions non diffusibles et la pompe Na+/K+ ATPase."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit le mieux l’activité du neurone au repos ?",
+      "choices": [
+        "Il est électriquement neutre et ne présente aucun potentiel transmembranaire.",
+        "Il est inactif pour la génération du potentiel d’action mais conserve une polarisation stable.",
+        "Il transmet en permanence des potentiels d’action le long de tous ses axones.",
+        "Il perd sa capacité d’excitabilité tant que la pompe Na+/K+ ATPase fonctionne."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Au repos, le neurone ne génère pas de potentiel d’action, mais maintient une polarisation stable d’environ -70 mV."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle condition définit directement l’état d’équilibre d’un ion diffusible à travers la membrane ?",
+      "choices": [
+        "La disparition complète des gradients de concentration de tous les ions.",
+        "La compensation du gradient de concentration de cet ion par le gradient électrique.",
+        "La consommation maximale d’ATP par la membrane plasmique.",
+        "L’égalité obligatoire des concentrations intra- et extracellulaires de cet ion."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’état d’équilibre d’un ion est atteint lorsque son gradient chimique est compensé par le gradient électrique."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les ions suivants, lequel présente la plus faible perméabilité membranaire relative au repos selon le texte ?",
+      "choices": [
+        "K+",
+        "Cl−",
+        "Na+",
+        "K+ et Cl− à égalité"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’ordre de perméabilité relative au repos est K+ > Cl− > Na+ ; le sodium est donc le moins perméant des trois."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé résume le plus correctement les mouvements du sodium au repos ?",
+      "choices": [
+        "Le sodium entre passivement dans la cellule et sa sortie nécessite un transport actif.",
+        "Le sodium sort passivement de la cellule et son entrée nécessite un transport actif.",
+        "Le sodium ne peut traverser la membrane dans aucun sens.",
+        "Le sodium est transporté uniquement avec le chlore par la pompe Na+/K+ ATPase."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Compte tenu des gradients électrochimiques, l’entrée du sodium peut être passive, tandis que sa sortie nécessite un transport actif."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’équation de Nernst donnée, que représente le terme [ion]e / [ion]i ?",
+      "choices": [
+        "Le rapport entre la concentration extracellulaire et la concentration intracellulaire de l’ion.",
+        "Le rapport entre la valence ionique et la constante de Faraday.",
+        "Le rapport entre le potentiel de repos et le potentiel d’action.",
+        "Le rapport entre la concentration intracellulaire et la concentration extracellulaire de l’ion."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte définit [ion]e comme la concentration extracellulaire et [ion]i comme la concentration intracellulaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément assure explicitement un transport actif avec consommation d’ATP dans le texte ?",
+      "choices": [
+        "La diffusion passive du potassium.",
+        "La séparation des charges transmembranaires.",
+        "La pompe Na+/K+ ATPase.",
+        "Les protéines intracellulaires non diffusibles."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La pompe Na+/K+ ATPase expulse Na+ et fait entrer K+ en consommant de l’ATP."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T21:00:54.974Z"
+}

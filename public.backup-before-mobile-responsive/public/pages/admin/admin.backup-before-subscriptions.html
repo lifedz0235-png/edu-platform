@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Admin PCR</title>
+  <link rel="stylesheet" href="/css/admin.css" />
+</head>
+<body class="auth-checking">
+
+<main class="admin-page">
+  <a href="/" class="back-btn">← Accueil</a>
+
+  <header class="admin-header">
+    <h1>Admin Panel PCR</h1>
+    <p>Gestion des pré-inscriptions et utilisateurs.</p>
+  </header>
+
+  <section class="admin-stats">
+    <div><strong id="totalUsers">0</strong><span>Utilisateurs</span></div>
+    <div><strong id="pendingUsers">0</strong><span>En attente</span></div>
+    <div><strong id="approvedUsers">0</strong><span>Approuvés</span></div>
+  </section>
+
+  <section class="admin-card">
+    <h2>Demandes d’inscription</h2>
+    <div class="admin-tools">
+  <input id="userSearch" placeholder="🔍 Rechercher par nom, email, université..." />
+
+  <select id="statusFilter">
+    <option value="all">Tous</option>
+    <option value="pending">En attente</option>
+    <option value="approved">Approuvés</option>
+    <option value="refused">Refusés</option>
+    <option value="suspended">Suspendus</option>
+  </select>
+</div>
+    <div id="usersTable"></div>
+  </section>
+
+<section class="admin-card">
+  <div class="section-head">
+    <h2>Gestion des cours</h2>
+    <button id="openCourseModalBtn" class="add-btn">+ Ajouter un cours</button>
+  </div>
+  
+
+  <div id="coursesList"></div>
+</section>
+
+<div id="courseModal" class="user-modal hidden">
+  <div class="user-modal-card">
+    <button id="closeCourseModal" class="modal-close">×</button>
+
+    <h2 id="courseModalTitle">Ajouter un cours</h2>
+
+    <div class="course-form">
+      <input id="courseTitle" placeholder="Titre du cours" />
+
+      <select id="courseCategory">
+        <option value="biologie">Biologie</option>
+        <option value="medicale">Médicale</option>
+        <option value="chirurgie">Chirurgie</option>
+      </select>
+
+      <select id="courseModule"></select>
+
+      <label>Vidéo</label>
+      <input id="courseVideo" type="file" accept="video/*" />
+
+      <label>PDF</label>
+      <input id="coursePdf" type="file" accept="application/pdf" />
+
+      <button id="saveCourseBtn">Enregistrer</button>
+    </div>
+  </div>
+</div>
+
+  <div id="userModal" class="user-modal hidden">
+  <div class="user-modal-card">
+    <button id="closeUserModal" class="modal-close">×</button>
+
+    <div class="modal-profile">
+      <div id="modalAvatar" class="modal-avatar">P</div>
+      <div>
+        <h2 id="modalName">Utilisateur</h2>
+        <p id="modalEmail"></p>
+      </div>
+    </div>
+
+    <div class="modal-grid">
+      <div>
+  <strong>Montant payé</strong>
+  <span id="modalPaidAmount"></span>
+</div>
+
+<div>
+  <strong>Reste à payer</strong>
+  <span id="modalRemainingAmount"></span>
+</div>
+      <div><strong>Téléphone</strong><span id="modalPhone"></span></div>
+      <div><strong>Université</strong><span id="modalUniversity"></span></div>
+      <div><strong>Promotion</strong><span id="modalPromotion"></span></div>
+      <div>
+  <strong>Pack</strong>
+  <span id="modalPlan"></span>
+</div>
+
+<div>
+  <strong>Prix</strong>
+  <span id="modalPrice"></span>
+</div>
+
+<div>
+  <strong>Paiement</strong>
+  <span id="modalPayment"></span>
+</div>
+      <div><strong>Statut</strong><span id="modalStatus"></span></div>
+      <div><strong>Publications</strong><span id="modalPosts"></span></div>
+      <div><strong>Commentaires</strong><span id="modalComments"></span></div>
+      <div><strong>Likes reçus</strong><span id="modalLikes"></span></div>
+      <div><strong>Appareil</strong><span id="modalDevice"></span></div>
+    </div>
+
+    <div class="modal-actions">
+
+  <button
+    id="modalConfirmPayment"
+    class="confirm-payment"
+  >
+    Paiement confirmé & Activer
+  </button>
+
+  <button
+    id="modalRefuse"
+    class="refuse"
+  >
+    Refuser
+  </button>
+
+  <button
+    id="modalSuspend"
+    class="suspend"
+  >
+    Suspendre
+  </button>
+
+  <button
+    id="modalDelete"
+    class="delete"
+  >
+    Supprimer
+  </button>
+
+</div>
+  </div>
+</div>
+
+</main>
+
+<script src="/js/auth-guard.js"></script>
+<script src="/js/admin.js"></script>
+
+</body>
+</html>

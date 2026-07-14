@@ -1,0 +1,3118 @@
+{
+  "category": "biologie",
+  "module": "biochimie",
+  "courseId": 8,
+  "courseTitle": "Metabolisme Des Glucides",
+  "supportTitle": "metabolisme-phospho-calcique",
+  "supportType": "pdf",
+  "supportUrl": "/pdfs/biologie-pdf/BIOCHIMIE/metabolisme-phospho-calcique.pdf",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Concernant les bases du métabolisme phosphocalcique, quelles propositions sont exactes ?",
+      "choices": [
+        "Le calcium et les phosphates forment des cristaux d’hydroxyapatite.",
+        "Les cristaux d’hydroxyapatite déposés sur la matrice de collagène assurent la structure du tissu osseux.",
+        "Le calcium ionisé est essentiellement un constituant mécanique inerte du squelette.",
+        "Les phosphates jouent un rôle de tampon intracellulaire et urinaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le calcium et les phosphates forment l’hydroxyapatite osseuse. Le calcium ionisé est physiologiquement actif et intervient dans de nombreuses fonctions cellulaires ; il n’est pas un simple constituant mécanique inerte."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la régulation phosphocalcique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle dépend principalement de la parathormone, de la vitamine D et de la calcitonine.",
+        "Les hormones régulatrices agissent sur l’intestin, le rein et l’os.",
+        "Cette régulation contrôle les apports, l’élimination et les stocks de calcium et de phosphore.",
+        "Elle dépend principalement du cortisol et de la thyroxine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La régulation phosphocalcique repose surtout sur la parathormone, la vitamine D et la calcitonine, qui agissent sur l’intestin, le rein et l’os."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels rôles sont attribués au calcium sous forme ionisée Ca++ ?",
+      "choices": [
+        "Transmission de l’influx nerveux.",
+        "Contraction musculaire.",
+        "Coagulation sanguine.",
+        "Contraction du muscle cardiaque."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le calcium ionisé intervient dans la transmission nerveuse, la contraction musculaire et cardiaque, la coagulation, les sécrétions et l’activation enzymatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes plasmatiques du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "Une fraction non diffusible est liée aux protéines, principalement à l’albumine.",
+        "Une fraction diffusible peut être ionisée ou complexée aux phosphates, citrates et bicarbonates.",
+        "La calcémie totale est indépendante de la concentration plasmatique en protéines.",
+        "Le degré d’ionisation dépend notamment du pH, des bicarbonates, des phosphates et du magnésium."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La calcémie totale dépend des protéines plasmatiques. L’ionisation du calcium dépend du pH et d’autres électrolytes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distribution du calcium dans l’organisme, quelles propositions sont exactes ?",
+      "choices": [
+        "Le squelette contient environ 99 % du calcium total de l’organisme.",
+        "Le calcium osseux est présent sous forme d’hydroxyapatite.",
+        "L’os est en renouvellement constant.",
+        "La majorité du calcium de l’organisme est localisée dans le plasma."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La quasi-totalité du calcium corporel est osseuse, sous forme d’hydroxyapatite. Le plasma ne contient qu’une faible fraction du calcium total."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption intestinale du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "Les besoins en calcium sont d’environ 1 g par jour.",
+        "L’absorption se fait principalement dans le duodénum et le jéjunum.",
+        "Le mécanisme d’absorption principal est actif.",
+        "Environ 50 à 60 % du calcium ingéré est absorbé."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’absorption calcique est principalement active, duodéno-jéjunale, et concerne environ 50 à 60 % des apports."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs augmentent l’absorption intestinale du calcium ?",
+      "choices": [
+        "Un pH intestinal acide.",
+        "La vitamine D.",
+        "La parathormone.",
+        "Les oxalates."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’absorption du calcium est augmentée par le pH intestinal acide, la vitamine D, la parathormone et l’hormone de croissance. Les oxalates la diminuent."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs diminuent l’absorption intestinale du calcium ?",
+      "choices": [
+        "Les oxalates.",
+        "Les bases.",
+        "Le cortisol.",
+        "Un pH intestinal acide."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les oxalates, les bases et le cortisol diminuent l’absorption calcique. À l’inverse, l’acidité intestinale l’augmente."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’élimination et la réabsorption rénale du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "L’élimination urinaire du calcium est d’environ 150 mg par jour.",
+        "Le calcium est filtré par le glomérule.",
+        "Le calcium est majoritairement réabsorbé au niveau tubulaire distal.",
+        "La réabsorption rénale du calcium augmente en cas d’hypocalcémie sous l’effet de la parathormone et de la vitamine D."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le calcium filtré est majoritairement réabsorbé au niveau tubulaire distal. En hypocalcémie, la PTH et la vitamine D augmentent cette réabsorption."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels rôles sont attribués aux phosphates ?",
+      "choices": [
+        "Principal tampon intracellulaire et urinaire.",
+        "Participation à la composition des acides nucléiques.",
+        "Participation à la composition des phospholipides membranaires.",
+        "Participation au stockage et à la libération d’énergie sous forme d’ATP, ADP, AMP, GTP, GDP et GMP."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les phosphates ont un rôle structural, tampon, énergétique et interviennent dans les acides nucléiques et les phospholipides membranaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distribution plasmatique et les variations nycthémérales des phosphates, quelles propositions sont exactes ?",
+      "choices": [
+        "Au pH physiologique, la forme HPO4-- représente environ 80 % des phosphates plasmatiques.",
+        "La forme H2PO4- représente environ 20 % des phosphates plasmatiques.",
+        "La phosphatémie est plus basse le matin et maximale en soirée.",
+        "La forme trivalente PO4--- est la forme majoritaire au pH physiologique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À pH 7,4, les phosphates sont surtout sous forme HPO4--, puis H2PO4-. La forme PO4--- n’existe qu’à l’état de traces."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les apports, l’absorption et l’élimination du phosphore, quelles propositions sont exactes ?",
+      "choices": [
+        "Les besoins en phosphore sont d’environ 800 à 1200 mg par jour.",
+        "Environ 70 % des phosphates ingérés sont absorbés.",
+        "L’absorption se fait principalement dans la partie moyenne de l’intestin.",
+        "L’élimination urinaire du phosphore est d’environ 600 mg par jour."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le phosphore a des besoins journaliers de 800 à 1200 mg, une absorption intestinale d’environ 70 %, principalement dans la partie moyenne de l’intestin, et une élimination urinaire d’environ 600 mg/jour."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’excrétion urinaire des phosphates, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle résulte de la filtration glomérulaire et de la réabsorption tubulaire proximale.",
+        "Environ 85 % du phosphore filtré est réabsorbé.",
+        "Elle est augmentée par la parathormone et la calcitonine.",
+        "Elle est diminuée par l’hormone de croissance."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le phosphore filtré est en grande partie réabsorbé au tube proximal. La PTH et la calcitonine augmentent son excrétion urinaire, tandis que l’hormone de croissance la diminue."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’os et le remodelage osseux, quelles propositions sont exactes ?",
+      "choices": [
+        "La matrice organique osseuse contient notamment du collagène, de la proline et de l’hydroxyproline.",
+        "Des cristaux d’hydroxyapatite sont déposés sur la matrice osseuse.",
+        "Les ostéoblastes synthétisent et sécrètent la matrice osseuse.",
+        "La matrice organique osseuse ne contient pas de lipides."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La matrice osseuse contient du collagène, proline, hydroxyproline, mucopolysaccharides, lipides et sialoprotéines. Les ostéoblastes synthétisent la matrice et des enzymes nécessaires à la calcification."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la valeur normale de la calcémie totale ?",
+      "choices": [
+        "25 à 45 mg/L.",
+        "90 à 100 mg/L.",
+        "150 mg/L.",
+        "500 à 800 mg/L."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La calcémie totale normale est de 90 à 100 mg/L, soit 2,25 à 2,50 mmol/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la valeur normale de la phosphatémie ?",
+      "choices": [
+        "10 à 20 mg/L.",
+        "25 à 45 mg/L.",
+        "90 à 100 mg/L.",
+        "500 à 800 mg/L."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La phosphatémie normale est de 25 à 45 mg/L, soit 1 à 2 mmol/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal signal régulateur du métabolisme phosphocalcique ?",
+      "choices": [
+        "La variation de la calcémie, en particulier du calcium ionisé.",
+        "La variation de la phosphaturie uniquement.",
+        "La variation de la concentration plasmatique en albumine uniquement.",
+        "La variation isolée du cortisol."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le principal signal régulateur est la variation de la calcémie, surtout celle du calcium ionisé."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les facteurs suivants, lequel favorise l’excrétion urinaire du calcium ?",
+      "choices": [
+        "L’hypocalcémie.",
+        "L’acidose.",
+        "La vitamine D.",
+        "La parathormone en situation d’hypocalcémie."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’excrétion urinaire du calcium est favorisée par l’hypercalcémie, l’acidose, la thyroxine, la calcitonine, le cortisol et l’hormone de croissance."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle hormone diminue l’excrétion urinaire des phosphates ?",
+      "choices": [
+        "La parathormone.",
+        "La calcitonine.",
+        "L’hormone de croissance.",
+        "La thyroxine."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’excrétion urinaire des phosphates est augmentée par la parathormone et la calcitonine, et diminuée par l’hormone de croissance."
+    },
+    {
+      "type": "QCS",
+      "question": "En dessous de quelle phosphatémie n’y a-t-il plus de phosphates dans les urines ?",
+      "choices": [
+        "Environ 10 mg/L.",
+        "Environ 22 mg/L.",
+        "Environ 45 mg/L.",
+        "Environ 90 mg/L."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le phosphore est une substance à seuil : en dessous d’une phosphatémie d’environ 22 mg/L, il n’y a plus de phosphates dans les urines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les ostéocytes dans le métabolisme phosphocalcique, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils interviennent dans la mobilisation rapide du calcium.",
+        "Ils sont en relation avec les liquides entourant les cristaux calciques.",
+        "Ils peuvent fonctionner comme une pompe calcique.",
+        "Ils transfèrent le calcium vers l’os en réponse à la calcitonine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les ostéocytes participent à la mobilisation rapide du calcium, sont en contact avec les liquides péri-cristallins et agissent comme une pompe calcique. Sous l’effet de la parathormone, ils peuvent transférer le calcium vers le sang."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la structure et du devenir de la parathormone, quelles propositions sont exactes ?",
+      "choices": [
+        "La parathormone est une chaîne polypeptidique de 84 acides aminés.",
+        "Les 34 premiers acides aminés portent l’activité biologique.",
+        "Elle est principalement synthétisée par les cellules C thyroïdiennes.",
+        "Elle est catabolisée dans le foie et surtout dans le rein."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La parathormone est sécrétée par les glandes parathyroïdes. C’est un peptide de 84 acides aminés dont les 34 premiers portent l’activité biologique. Elle est catabolisée dans le foie et surtout dans le rein."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la régulation de la sécrétion de parathormone, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hypocalcémie stimule sa synthèse.",
+        "L’hypocalcémie stimule sa sécrétion.",
+        "L’hypercalcémie freine sa synthèse et sa libération.",
+        "L’hyperphosphatémie est présentée comme le principal stimulus direct de sa sécrétion."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La sécrétion de parathormone est régulée par la calcémie : l’hypocalcémie stimule sa synthèse et sa sécrétion, tandis que l’hypercalcémie les freine."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels effets osseux sont attribués à la parathormone ?",
+      "choices": [
+        "Mobilisation rapide du calcium osseux.",
+        "Augmentation du remodelage osseux.",
+        "Stimulation de l’activité ostéocytaire et ostéoclastique.",
+        "Stimulation prédominante de l’activité ostéoblastique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La parathormone mobilise rapidement le calcium osseux, augmente le remodelage et la résorption osseuse, stimule les ostéocytes et les ostéoclastes, et inhibe relativement l’activité ostéoblastique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets rénaux de la parathormone, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle augmente la phosphaturie par diminution de la réabsorption tubulaire proximale des phosphates.",
+        "Elle augmente la réabsorption tubulaire distale du calcium.",
+        "Elle peut augmenter secondairement la calciurie en cas d’hypercalcémie.",
+        "Elle diminue l’hydroxyprolinurie en réduisant la résorption osseuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La parathormone augmente la phosphaturie, favorise la réabsorption distale du calcium et peut entraîner une calciurie secondaire en cas d’hypercalcémie. Elle augmente l’hydroxyprolinurie du fait de la résorption osseuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels effets digestifs ou intestinaux peuvent être rattachés à la parathormone ?",
+      "choices": [
+        "Augmentation indirecte de l’absorption intestinale du calcium.",
+        "Stimulation de la conversion rénale du 25-hydroxycholécalciférol en 1,25-dihydroxycholécalciférol.",
+        "Stimulation de la sécrétion de gastrine.",
+        "Risque d’ulcères récidivants en cas d’excès."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La parathormone augmente indirectement l’absorption intestinale du calcium via la stimulation rénale de la formation de 1,25-dihydroxycholécalciférol. Elle stimule aussi la gastrine, augmente l’acidité gastrique et peut favoriser des ulcères récidivants en cas d’excès."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hyperparathyroïdie décrite dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle peut être liée à une tumeur sécrétante des parathyroïdes.",
+        "La tumeur en cause est le plus souvent bénigne.",
+        "Elle peut s’accompagner d’ostéite fibrokystique.",
+        "Elle s’accompagne typiquement d’une hypocalciurie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hyperparathyroïdie peut être due à une tumeur sécrétante des parathyroïdes, le plus souvent bénigne, et peut s’accompagner d’ostéite fibrokystique. Le profil biologique comporte une hypercalciurie et non une hypocalciurie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments biologiques orientent vers une hyperparathyroïdie selon le texte ?",
+      "choices": [
+        "Hypercalcémie.",
+        "Hypophosphatémie.",
+        "Hyperphosphaturie.",
+        "Diminution de l’hydroxyprolinurie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hyperparathyroïdie associe hypercalcémie, hypercalciurie, hypophosphatémie, hyperphosphaturie et augmentation de l’hydroxyprolinurie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes de la vitamine D, quelles propositions sont exactes ?",
+      "choices": [
+        "La vitamine D est une vitamine liposoluble.",
+        "La vitamine D2 correspond à l’ergocalciférol.",
+        "La vitamine D2 est obtenue par irradiation ultraviolette de l’ergostérol végétal.",
+        "La vitamine D3 est la forme active finale ne nécessitant aucune hydroxylation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine D est liposoluble. La vitamine D2 est l’ergocalciférol, obtenu par irradiation ultraviolette de l’ergostérol végétal. La vitamine D3 ou cholécalciférol nécessite une activation par hydroxylations, notamment rénale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les sources, le stockage et l’élimination de la vitamine D, quelles propositions sont exactes ?",
+      "choices": [
+        "Les poissons gras et les huiles de foie de poisson font partie des sources alimentaires.",
+        "La synthèse cutanée se fait sous l’effet des ultraviolets à partir du 7-déhydrocholestérol.",
+        "Elle est stockée dans le foie, le muscle et le tissu adipeux.",
+        "Elle est éliminée uniquement par filtration glomérulaire sans cycle entérohépatique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine D provient notamment des œufs, du beurre, du foie, des poissons gras et des huiles de foie de poisson. Elle est aussi synthétisée dans la peau à partir du 7-déhydrocholestérol. Elle est stockée dans le foie, le muscle et le tissu adipeux, puis excrétée dans la bile avec un cycle entérohépatique partiel."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels effets physiologiques de la vitamine D sur le calcium et le phosphore sont exacts ?",
+      "choices": [
+        "Elle augmente l’absorption digestive du calcium.",
+        "Elle augmente l’absorption intestinale des phosphates.",
+        "Elle a un effet hyperphosphatémiant.",
+        "À doses physiologiques, elle augmente la réabsorption rénale du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La vitamine D augmente l’absorption digestive du calcium et des phosphates, exerce un effet hyperphosphatémiant et augmente la réabsorption rénale du calcium à doses physiologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets osseux dose-dépendants de la vitamine D, quelles propositions sont exactes ?",
+      "choices": [
+        "À faible dose, elle favorise la minéralisation osseuse.",
+        "À forte dose, elle augmente la résorption osseuse.",
+        "À forte dose, elle libère calcium et phosphore à partir du tissu osseux.",
+        "À forte dose, elle stimule la synthèse du collagène par les ostéoblastes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À faible dose, la vitamine D favorise la minéralisation osseuse. À forte dose, elle augmente la résorption osseuse, libère calcium et phosphore, accélère la formation des ostéoclastes et inhibe la synthèse du collagène par les ostéoblastes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la carence et la prévention de la carence en vitamine D, quelles propositions sont exactes ?",
+      "choices": [
+        "Chez l’enfant, la carence entraîne le rachitisme.",
+        "Le rachitisme est une ostéopathie caractérisée par une déminéralisation osseuse.",
+        "Une dose prophylactique de 1000 UI/jour est mentionnée chez les nourrissons sains.",
+        "Une dose prophylactique de 2500 UI/jour est mentionnée chez les prématurés et les enfants à peau pigmentée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La carence en vitamine D entraîne chez l’enfant un rachitisme, ostéopathie déminéralisante. Les doses prophylactiques mentionnées incluent 1000 UI/j chez les nourrissons sains et 2500 UI/j chez les prématurés et enfants à peau pigmentée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la calcitonine et ses effets, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est hypocalcémiante et hypophosphatémiante.",
+        "Elle diminue la résorption osseuse.",
+        "Elle diminue l’activité des ostéoclastes et des ostéocytes.",
+        "Elle stimule la conversion du 25-hydroxycholécalciférol en 1,25-dihydroxycholécalciférol."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La calcitonine est hypocalcémiante et hypophosphatémiante. Elle diminue la résorption osseuse ainsi que l’activité ostéoclastique et ostéocytaire. Au rein, elle inhibe la conversion du 25-hydroxycholécalciférol en 1,25-dihydroxycholécalciférol."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la concentration plasmatique approximative de la parathormone selon le texte ?",
+      "choices": [
+        "Inférieure à 10 pg/mL.",
+        "Environ 30 à 120 pg/mL.",
+        "Environ 200 à 400 pg/mL.",
+        "Supérieure à 1000 pg/mL."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La concentration plasmatique de parathormone est d’environ 30 à 120 pg/mL."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la demi-vie approximative de la parathormone ?",
+      "choices": [
+        "3 minutes.",
+        "30 minutes.",
+        "6 heures.",
+        "24 heures."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La demi-vie de la parathormone est d’environ 30 minutes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cellule synthétise la calcitonine ?",
+      "choices": [
+        "Cellule principale parathyroïdienne.",
+        "Cellule parafolliculaire C de la thyroïde.",
+        "Ostéoblaste.",
+        "Ostéocyte."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La calcitonine, ou thyrocalcitonine, est synthétisée par les cellules parafolliculaires, ou cellules C, de la thyroïde."
+    },
+    {
+      "type": "QCS",
+      "question": "En dessous de quelle calcémie sanguine la calcitonine devient-elle indétectable selon le texte ?",
+      "choices": [
+        "Environ 50 mg/L.",
+        "Environ 70 mg/L.",
+        "Environ 90 mg/L.",
+        "Environ 120 mg/L."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La calcitonine devient indétectable en dessous d’environ 90 mg/L de calcium sanguin."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le site d’absorption de la vitamine D mentionné dans le texte ?",
+      "choices": [
+        "Estomac.",
+        "Duodénum exclusivement.",
+        "Jéjunum.",
+        "Côlon."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La vitamine D est absorbée dans le jéjunum."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le mode d’action de la vitamine D selon le texte ?",
+      "choices": [
+        "Action via un récepteur cytosolique.",
+        "Action uniquement membranaire sans récepteur.",
+        "Action par inhibition directe de la gastrine.",
+        "Action par destruction des ostéoclastes."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La vitamine D agit via un récepteur cytosolique ; une anomalie de ce récepteur peut entraîner un rachitisme familial résistant à la vitamine D."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets de l’hormone de croissance sur le métabolisme phosphocalcique et osseux, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle augmente l’absorption intestinale du calcium.",
+        "Elle diminue l’excrétion rénale du calcium.",
+        "Elle diminue l’excrétion rénale des phosphates.",
+        "Elle stimule la croissance des cartilages."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’hormone de croissance augmente l’absorption intestinale du calcium, augmente l’excrétion rénale du calcium, diminue l’excrétion rénale des phosphates et stimule la croissance des cartilages."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des effets rénaux de l’hormone de croissance, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle augmente l’excrétion rénale du calcium.",
+        "Elle diminue l’excrétion rénale du calcium.",
+        "Elle diminue l’excrétion rénale des phosphates.",
+        "Elle augmente l’excrétion rénale des phosphates."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Selon le texte, l’hormone de croissance augmente l’excrétion rénale du calcium et diminue l’excrétion rénale des phosphates."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’action osseuse de l’hormone de croissance, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle augmente, via les somatomédines, la synthèse du collagène.",
+        "Elle augmente la masse osseuse totale.",
+        "Elle inhibe la croissance des cartilages.",
+        "Elle stimule la croissance des cartilages."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’hormone de croissance augmente la synthèse du collagène via les somatomédines, augmente la masse osseuse totale et stimule la croissance des cartilages."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les hormones thyroïdiennes en situation physiologique et en excès, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont nécessaires à la croissance osseuse.",
+        "Elles augmentent la synthèse du collagène.",
+        "En excès, elles augmentent la résorption osseuse.",
+        "En excès, elles augmentent l’absorption intestinale du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hormones thyroïdiennes sont nécessaires à la croissance osseuse et augmentent la synthèse du collagène. En excès, elles augmentent la résorption osseuse mais diminuent l’absorption intestinale du calcium."
+    },
+    {
+      "type": "QCM",
+      "question": "En cas d’excès d’hormones thyroïdiennes, quels effets sont attendus selon le texte ?",
+      "choices": [
+        "Augmentation de l’élimination urinaire du calcium.",
+        "Diminution de l’élimination urinaire des phosphates.",
+        "Diminution de l’absorption intestinale du calcium.",
+        "Augmentation de l’élimination urinaire des phosphates."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’excès d’hormones thyroïdiennes augmente l’élimination urinaire du calcium et des phosphates, et diminue l’absorption intestinale du calcium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les conséquences de la carence en œstrogènes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle favorise l’ostéoporose, notamment après la ménopause.",
+        "Elle entraîne une prédominance de la résorption osseuse sur la formation osseuse.",
+        "Elle entraîne une prédominance de la formation osseuse sur la résorption osseuse.",
+        "Elle est sans conséquence sur l’équilibre du remodelage osseux."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La carence en œstrogènes, notamment après la ménopause, favorise l’ostéoporose ; en l’absence d’œstrogènes, la résorption osseuse l’emporte sur la formation osseuse."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des œstrogènes dans le métabolisme osseux et vitaminique D, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils augmentent la synthèse rénale de vitamine D.",
+        "Leur absence favorise la résorption osseuse par rapport à la formation osseuse.",
+        "Leur carence post-ménopausique favorise l’ostéoporose.",
+        "Ils diminuent la synthèse rénale de vitamine D."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les œstrogènes augmentent la synthèse rénale de vitamine D. Leur carence, notamment après la ménopause, favorise l’ostéoporose avec prédominance de la résorption osseuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les glucocorticoïdes à fortes doses, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils inhibent la synthèse du collagène.",
+        "Ils diminuent la formation osseuse.",
+        "Ils peuvent entraîner une ostéoporose.",
+        "Ils augmentent l’absorption intestinale du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À fortes doses, les glucocorticoïdes inhibent la synthèse du collagène, diminuent la formation osseuse, favorisent l’ostéoporose et diminuent l’absorption intestinale du calcium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets des glucocorticoïdes à fortes doses sur le calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils diminuent l’absorption intestinale du calcium.",
+        "Ils augmentent l’excrétion urinaire du calcium.",
+        "Ils augmentent l’absorption intestinale du calcium.",
+        "Ils diminuent l’excrétion urinaire du calcium."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les glucocorticoïdes à fortes doses diminuent l’absorption intestinale du calcium et augmentent son excrétion urinaire."
+    },
+    {
+      "type": "QCM",
+      "question": "En comparant l’hormone de croissance et l’excès d’hormones thyroïdiennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Toutes deux augmentent l’élimination urinaire du calcium.",
+        "L’hormone de croissance augmente l’absorption intestinale du calcium.",
+        "L’excès d’hormones thyroïdiennes diminue l’absorption intestinale du calcium.",
+        "Toutes deux diminuent l’élimination urinaire des phosphates."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hormone de croissance et l’excès d’hormones thyroïdiennes augmentent l’élimination urinaire du calcium. L’hormone de croissance augmente l’absorption intestinale du calcium, alors que l’excès thyroïdien la diminue."
+    },
+    {
+      "type": "QCM",
+      "question": "En comparant l’hormone de croissance et les glucocorticoïdes à fortes doses, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hormone de croissance augmente l’absorption intestinale du calcium.",
+        "Les glucocorticoïdes à fortes doses diminuent l’absorption intestinale du calcium.",
+        "Les deux augmentent l’excrétion urinaire du calcium.",
+        "Les deux augmentent la formation osseuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hormone de croissance augmente l’absorption intestinale du calcium, tandis que les glucocorticoïdes à fortes doses la diminuent. Les deux augmentent l’excrétion urinaire du calcium, mais les glucocorticoïdes diminuent la formation osseuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la synthèse du collagène sous influence hormonale, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hormone de croissance l’augmente via les somatomédines.",
+        "Les hormones thyroïdiennes l’augmentent.",
+        "Les glucocorticoïdes à fortes doses l’inhibent.",
+        "Les œstrogènes sont décrits comme inhibant directement la synthèse du collagène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique que l’hormone de croissance augmente la synthèse du collagène via les somatomédines, que les hormones thyroïdiennes l’augmentent, et que les glucocorticoïdes à fortes doses l’inhibent."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les situations hormonales suivantes, lesquelles sont explicitement associées à une ostéoporose dans le texte ?",
+      "choices": [
+        "Carence en œstrogènes, notamment après la ménopause.",
+        "Glucocorticoïdes à fortes doses.",
+        "Hormone de croissance en excès.",
+        "Présence d’œstrogènes en quantité suffisante."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte associe explicitement la carence en œstrogènes à l’ostéoporose et indique que les glucocorticoïdes à fortes doses entraînent le développement d’une ostéoporose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la croissance osseuse et cartilagineuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Les hormones thyroïdiennes sont nécessaires à la croissance osseuse.",
+        "L’hormone de croissance stimule la croissance des cartilages.",
+        "Les glucocorticoïdes à fortes doses diminuent la formation osseuse.",
+        "La carence en œstrogènes augmente la formation osseuse au détriment de la résorption."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hormones thyroïdiennes sont nécessaires à la croissance osseuse, l’hormone de croissance stimule les cartilages, et les glucocorticoïdes à fortes doses diminuent la formation osseuse. La carence en œstrogènes favorise au contraire la résorption."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle hormone augmente l’absorption intestinale du calcium selon le texte ?",
+      "choices": [
+        "Hormone de croissance.",
+        "Glucocorticoïdes à fortes doses.",
+        "Hormones thyroïdiennes en excès.",
+        "Carence en œstrogènes."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hormone de croissance augmente l’absorption intestinale du calcium. Les glucocorticoïdes à fortes doses et l’excès d’hormones thyroïdiennes la diminuent."
+    },
+    {
+      "type": "QCS",
+      "question": "En l’absence d’œstrogènes, quel phénomène prédomine selon le texte ?",
+      "choices": [
+        "La formation osseuse prédomine sur la résorption osseuse.",
+        "La résorption osseuse prédomine sur la formation osseuse.",
+        "La synthèse du collagène devient prédominante.",
+        "L’absorption intestinale du calcium augmente."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En l’absence d’œstrogènes, la résorption osseuse l’emporte sur la formation osseuse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle situation est particulièrement citée comme favorisant l’ostéoporose par carence œstrogénique ?",
+      "choices": [
+        "La ménopause.",
+        "La croissance pubertaire.",
+        "L’excès d’hormone de croissance.",
+        "L’augmentation de la synthèse rénale de vitamine D."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la carence en œstrogènes, notamment après la ménopause, favorise l’ostéoporose."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’effet des glucocorticoïdes à fortes doses sur la synthèse du collagène ?",
+      "choices": [
+        "Ils l’augmentent via les somatomédines.",
+        "Ils l’inhibent.",
+        "Ils n’ont aucun effet décrit.",
+        "Ils la stimulent uniquement en présence d’œstrogènes."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "À fortes doses, les glucocorticoïdes inhibent la synthèse du collagène."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’effet de l’excès d’hormones thyroïdiennes sur l’absorption intestinale du calcium ?",
+      "choices": [
+        "Il l’augmente.",
+        "Il la diminue.",
+        "Il la rend dépendante des somatomédines.",
+        "Il n’a aucun effet décrit."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En excès, les hormones thyroïdiennes diminuent l’absorption intestinale du calcium."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle hormone augmente la synthèse rénale de vitamine D selon le texte ?",
+      "choices": [
+        "Œstrogènes.",
+        "Glucocorticoïdes à fortes doses.",
+        "Hormones thyroïdiennes en excès.",
+        "Hormone de croissance."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les œstrogènes augmentent la synthèse rénale de vitamine D."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des cristaux d’hydroxyapatite dans le tissu osseux, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont formés par l’association du calcium et des phosphates.",
+        "Ils sont déposés sur une matrice de collagène.",
+        "Ils participent à la structure du tissu osseux.",
+        "Ils constituent une forme exclusivement plasmatique du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les cristaux d’hydroxyapatite sont formés par le calcium et les phosphates, déposés sur la matrice de collagène, et assurent la structure osseuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la matrice organique osseuse décrite dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle contient du collagène, de la proline et de l’hydroxyproline.",
+        "Elle contient des mucopolysaccharides, des lipides et des sialoprotéines.",
+        "Elle est constituée principalement de calcium ionisé circulant.",
+        "Elle sert de support au dépôt des cristaux d’hydroxyapatite."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La matrice organique osseuse comprend collagène, proline, hydroxyproline, mucopolysaccharides, lipides et sialoprotéines ; l’hydroxyapatite s’y dépose."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les ostéoblastes selon le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils synthétisent la matrice osseuse.",
+        "Ils sécrètent la matrice osseuse.",
+        "Ils produisent des enzymes nécessaires à la calcification.",
+        "Ils sont responsables de la filtration glomérulaire du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les ostéoblastes synthétisent et sécrètent la matrice osseuse ainsi que les enzymes nécessaires à la calcification."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour interpréter une calcémie plasmatique, quelles propositions sont exactes ?",
+      "choices": [
+        "La calcémie totale dépend de la concentration plasmatique en protéines.",
+        "La forme physiologiquement active est le calcium ionisé.",
+        "La liaison aux protéines dépend notamment du pH.",
+        "La calcémie totale est indépendante de l’albuminémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La calcémie totale dépend des protéines plasmatiques, surtout l’albumine. La fraction active est le calcium ionisé, dont l’équilibre dépend notamment du pH."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fractions plasmatiques du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "La fraction non diffusible est liée principalement à l’albumine.",
+        "La fraction diffusible comprend du calcium ionisé.",
+        "La fraction diffusible peut comprendre du calcium complexé aux phosphates, citrates et bicarbonates.",
+        "La fraction liée aux protéines représente la forme physiologiquement active."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcium plasmatique existe sous forme liée aux protéines, non diffusible, et sous forme diffusible ionisée ou complexée. La forme active est le calcium ionisé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les manifestations liées aux anomalies du calcium ionisé, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles peuvent être cardiaques.",
+        "Elles peuvent être neuromusculaires.",
+        "Elles concernent l’hypocalcémie.",
+        "Elles concernent l’hypercalcémie."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les anomalies du calcium ionisé sont responsables des manifestations cardiaques et neuromusculaires de l’hypocalcémie et de l’hypercalcémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la localisation intracellulaire du calcium mentionnée dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Une fraction est localisée dans les mitochondries.",
+        "Une fraction est localisée dans le réticulum endoplasmique.",
+        "La totalité du calcium intracellulaire est libre dans le cytosol.",
+        "Cette localisation intracellulaire est distincte du stock osseux majoritaire."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Une fraction du calcium intracellulaire est située dans les mitochondries et le réticulum endoplasmique, alors que le stock majoritaire de calcium est osseux."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les données quantitatives de l’absorption intestinale du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "Les besoins en calcium sont d’environ 1 g par jour.",
+        "L’absorption se fait principalement dans le duodénum et le jéjunum.",
+        "Le mécanisme d’absorption est actif.",
+        "Environ 10 % du calcium ingéré est absorbé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les besoins calciques sont d’environ 1 g/jour. L’absorption est principalement duodéno-jéjunale, active, et concerne environ 50 à 60 % du calcium ingéré."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’élimination quotidienne du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "L’élimination intestinale est d’environ 500 à 800 mg par jour.",
+        "L’élimination urinaire est d’environ 150 mg par jour.",
+        "L’élimination intestinale correspond au calcium non absorbé et au calcium sécrété dans la lumière intestinale.",
+        "L’élimination urinaire physiologique du calcium est d’environ 600 mg par jour."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcium est éliminé par voie intestinale à hauteur de 500 à 800 mg/jour et par voie urinaire à environ 150 mg/jour."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le comportement rénal du calcium en situation d’hypocalcémie, quelles propositions sont exactes ?",
+      "choices": [
+        "La réabsorption rénale du calcium augmente.",
+        "La parathormone participe à l’augmentation de la réabsorption rénale du calcium.",
+        "La vitamine D participe à l’augmentation de la réabsorption rénale du calcium.",
+        "L’hypocalcémie favorise directement l’excrétion urinaire du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "En hypocalcémie, la réabsorption rénale du calcium augmente sous l’effet de la parathormone et de la vitamine D."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes plasmatiques des phosphates au pH physiologique de 7,4, quelles propositions sont exactes ?",
+      "choices": [
+        "La forme divalente HPO4-- représente environ 80 %.",
+        "La forme monovalente H2PO4- représente environ 20 %.",
+        "La forme trivalente PO4--- n’existe qu’à l’état de traces.",
+        "Les phosphates existent aussi sous forme de phospholipides et de phosphoprotéines."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Au pH 7,4, les phosphates plasmatiques sont surtout sous forme HPO4--, puis H2PO4-, avec des traces de PO4--- ; ils existent aussi sous forme de phospholipides et phosphoprotéines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les variations physiologiques de la phosphatémie, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle varie selon les apports alimentaires.",
+        "Elle varie selon l’excrétion rénale.",
+        "Elle est plus basse le matin.",
+        "Elle atteint son maximum en soirée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La phosphatémie dépend des apports, de l’excrétion rénale et du rythme nycthéméral ; elle est plus basse le matin et maximale en soirée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption et l’élimination digestive des phosphates, quelles propositions sont exactes ?",
+      "choices": [
+        "Environ 70 % des phosphates ingérés sont absorbés.",
+        "L’absorption se fait principalement dans la partie moyenne de l’intestin.",
+        "Environ 30 % des phosphates sont éliminés dans les selles.",
+        "L’absorption des phosphates est principalement gastrique."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Environ 70 % des phosphates sont absorbés, principalement dans la partie moyenne de l’intestin ; environ 30 % sont éliminés dans les selles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’élimination urinaire des phosphates, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est d’environ 600 mg par jour.",
+        "Elle résulte de la filtration glomérulaire.",
+        "Elle dépend de la réabsorption tubulaire proximale.",
+        "Environ 85 % du phosphore filtré est réabsorbé."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’élimination urinaire des phosphates est d’environ 600 mg/jour et dépend de la filtration glomérulaire puis de la réabsorption tubulaire proximale, qui récupère environ 85 % du phosphore filtré."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la forme ionique plasmatique majoritaire des phosphates au pH physiologique de 7,4 ?",
+      "choices": [
+        "HPO4--",
+        "H2PO4-",
+        "PO4---",
+        "Phosphoprotéines"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Au pH physiologique de 7,4, la forme divalente HPO4-- représente environ 80 % des phosphates plasmatiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’élimination urinaire quotidienne approximative des phosphates selon le texte ?",
+      "choices": [
+        "150 mg/jour",
+        "300 mg/jour",
+        "600 mg/jour",
+        "1200 mg/jour"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’élimination urinaire des phosphates est d’environ 600 mg par jour."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal site d’absorption des phosphates selon le texte ?",
+      "choices": [
+        "Estomac",
+        "Duodénum exclusivement",
+        "Partie moyenne de l’intestin",
+        "Côlon"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les phosphates sont absorbés principalement dans la partie moyenne de l’intestin."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proportion approximative du calcium ingéré est absorbée ?",
+      "choices": [
+        "10 à 20 %",
+        "30 à 40 %",
+        "50 à 60 %",
+        "90 à 100 %"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Environ 50 à 60 % du calcium ingéré est absorbé."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle cellule osseuse synthétise et sécrète la matrice osseuse ?",
+      "choices": [
+        "Ostéoblaste",
+        "Ostéoclaste",
+        "Cellule C thyroïdienne",
+        "Cellule tubulaire proximale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les ostéoblastes synthétisent et sécrètent la matrice osseuse ainsi que les enzymes nécessaires à la calcification."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la proportion approximative du phosphore filtré qui est réabsorbée au niveau rénal ?",
+      "choices": [
+        "15 %",
+        "30 %",
+        "50 %",
+        "85 %"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Environ 85 % du phosphore filtré est réabsorbé, principalement au niveau tubulaire proximal."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une hyperparathyroïdie, quels mécanismes expliquent simultanément l’hypercalcémie et l’hypophosphatémie ?",
+      "choices": [
+        "Diminution de la réabsorption tubulaire proximale des phosphates",
+        "Augmentation de la réabsorption tubulaire distale du calcium",
+        "Stimulation de la conversion rénale du 25-hydroxycholécalciférol en 1,25-dihydroxycholécalciférol",
+        "Inhibition directe de l’absorption intestinale du calcium"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La parathormone augmente la phosphaturie par baisse de la réabsorption proximale des phosphates, augmente la réabsorption distale du calcium et stimule indirectement l’absorption intestinale du calcium via la vitamine D active."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une suspicion d’hyperparathyroïdie primitive, quels éléments sont compatibles avec les données du texte ?",
+      "choices": [
+        "Une tumeur sécrétante des parathyroïdes peut être en cause",
+        "La tumeur responsable est le plus souvent bénigne",
+        "Le mécanisme principal décrit est une carence en calcitonine",
+        "Une ostéite fibrokystique peut accompagner le tableau"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’hyperparathyroïdie peut être liée à une tumeur sécrétante parathyroïdienne, le plus souvent bénigne, et s’accompagner d’ostéite fibrokystique."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient ayant un excès de parathormone, quels effets digestifs associés peuvent être attendus ?",
+      "choices": [
+        "Stimulation de la sécrétion de gastrine",
+        "Augmentation de la sécrétion acide gastrique",
+        "Risque d’ulcères récidivants",
+        "Inhibition de la sécrétion de calcitonine par la gastrine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’excès de parathormone peut stimuler la gastrine, augmenter l’acidité gastrique et favoriser des ulcères récidivants. La gastrine peut au contraire stimuler la calcitonine."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour que la parathormone exerce pleinement ses effets osseux, quelles propositions sont exactes ?",
+      "choices": [
+        "La présence de vitamine D est nécessaire",
+        "L’activité ostéocytaire est stimulée",
+        "L’activité ostéoclastique est stimulée",
+        "L’activité ostéoblastique est fortement et directement stimulée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La parathormone nécessite la vitamine D pour ses effets osseux complets. Elle stimule les ostéocytes et les ostéoclastes, avec inhibition relative de l’activité ostéoblastique."
+    },
+    {
+      "type": "QCM",
+      "question": "À fortes doses, quels effets de la vitamine D sur le tissu osseux ou le rein sont décrits ?",
+      "choices": [
+        "Augmentation de la résorption osseuse",
+        "Libération de calcium et de phosphore à partir du tissu osseux",
+        "Accélération de la formation des ostéoclastes",
+        "Diminution de la calciurie malgré l’hypercalcémie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À fortes doses, la vitamine D augmente la résorption osseuse, libère calcium et phosphore, accélère la formation des ostéoclastes et peut augmenter la calciurie du fait de l’hypercalcémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rachitisme familial résistant à la vitamine D, quelles propositions découlent du texte ?",
+      "choices": [
+        "Il peut résulter d’une anomalie du récepteur de la vitamine D",
+        "Le récepteur impliqué est cytosolique",
+        "Il est attribué dans le texte à une anomalie du récepteur de la calcitonine",
+        "Il illustre une résistance à l’action de la vitamine D"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La vitamine D agit via un récepteur cytosolique. Une anomalie de ce récepteur peut entraîner un rachitisme familial résistant à la vitamine D."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels effets permettent de distinguer l’action de la calcitonine de celle de la parathormone ?",
+      "choices": [
+        "Fixation préférentielle sur des récepteurs situés principalement au niveau des ostéoclastes",
+        "Diminution de la résorption osseuse",
+        "Augmentation de la calciurie et de la phosphaturie",
+        "Stimulation de la conversion du 25-hydroxycholécalciférol en 1,25-dihydroxycholécalciférol"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La calcitonine se fixe surtout sur les ostéoclastes, diminue la résorption osseuse, augmente calciurie et phosphaturie, et inhibe la conversion rénale en vitamine D active."
+    },
+    {
+      "type": "QCM",
+      "question": "En comparant les effets hormonaux sur les phosphates, quelles propositions sont exactes ?",
+      "choices": [
+        "La parathormone est hypophosphatémiante par augmentation de la phosphaturie",
+        "La vitamine D a un effet hyperphosphatémiant par augmentation de l’absorption intestinale des phosphates",
+        "La calcitonine est hypophosphatémiante et augmente la phosphaturie",
+        "La parathormone augmente la réabsorption tubulaire proximale des phosphates"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La parathormone diminue la réabsorption proximale des phosphates, la vitamine D augmente leur absorption intestinale, et la calcitonine augmente la phosphaturie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos du devenir métabolique de la parathormone et de la calcitonine, quelles propositions sont exactes ?",
+      "choices": [
+        "La parathormone est catabolisée dans le foie et surtout dans le rein",
+        "La calcitonine est inactivée dans le foie, le rein et la rate",
+        "La calcitonine circule liée à des protéines",
+        "La parathormone est inactivée exclusivement dans la rate"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La parathormone est catabolisée surtout dans le rein et aussi dans le foie. La calcitonine circule liée à des protéines et est inactivée dans le foie, le rein et la rate."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hydroxyprolinurie dans le métabolisme phosphocalcique décrit, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle augmente sous l’effet de la parathormone en lien avec la résorption osseuse",
+        "Son augmentation fait partie des signes biologiques de l’hyperparathyroïdie",
+        "Elle diminue sous l’effet de la calcitonine",
+        "Elle augmente à faible dose de vitamine D selon le texte"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La parathormone augmente l’hydroxyprolinurie par résorption osseuse. L’hyperparathyroïdie s’accompagne d’une augmentation de l’hydroxyprolinurie. La calcitonine la diminue."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les besoins et doses prophylactiques en vitamine D mentionnés, quelles propositions sont exactes ?",
+      "choices": [
+        "Les besoins habituels sont d’environ 400 UI par jour",
+        "Les besoins augmentent chez le nouveau-né",
+        "Les besoins augmentent pendant la grossesse et la lactation",
+        "La dose prophylactique indiquée chez les prématurés est de 400 UI par jour"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les besoins habituels sont d’environ 400 UI/jour et augmentent chez le nouveau-né, pendant la grossesse et la lactation. Chez les prématurés, la dose prophylactique mentionnée est de 2500 UI/jour."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour éviter une confusion entre les formes et les sources de vitamine D, quelles propositions sont exactes ?",
+      "choices": [
+        "La vitamine D2 est l’ergocalciférol obtenu par irradiation ultraviolette de l’ergostérol végétal",
+        "La vitamine D3 est le cholécalciférol d’origine naturelle",
+        "La synthèse cutanée se fait sous l’effet des ultraviolets à partir du 7-déhydrocholestérol",
+        "La calcitonine constitue une forme de stockage de la vitamine D"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine D2 provient de l’ergostérol végétal irradié, la D3 est le cholécalciférol, et la peau synthétise la vitamine D sous UV à partir du 7-déhydrocholestérol."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le devenir de la vitamine D dans l’organisme, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est absorbée dans le jéjunum",
+        "Elle est stockée dans le foie, le muscle et le tissu adipeux",
+        "Elle est excrétée dans la bile",
+        "Elle est éliminée uniquement par filtration rénale sous forme inchangée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine D est absorbée dans le jéjunum, stockée dans le foie, le muscle et le tissu adipeux, excrétée dans la bile et subit en partie un cycle entérohépatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’hyperparathyroïdie, quelles propositions expliquent que l’hypercalciurie n’exclut pas l’action rénale de la parathormone ?",
+      "choices": [
+        "La parathormone augmente la réabsorption tubulaire distale du calcium",
+        "Une hypercalcémie peut entraîner secondairement une augmentation de la calciurie",
+        "L’hypercalciurie fait partie des signes biologiques possibles de l’hyperparathyroïdie",
+        "L’hypercalciurie prouve l’absence d’effet tubulaire de la parathormone"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Même si la parathormone augmente la réabsorption distale du calcium, l’hypercalcémie peut secondairement augmenter la calciurie, expliquant l’hypercalciurie de l’hyperparathyroïdie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle portion de la molécule de parathormone porte l’activité biologique ?",
+      "choices": [
+        "Les 10 premiers acides aminés",
+        "Les 20 derniers acides aminés",
+        "Les 34 premiers acides aminés",
+        "Toute la chaîne uniquement après clivage splénique"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La parathormone est une chaîne de 84 acides aminés dont les 34 premiers portent l’activité biologique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel métabolite est produit par la conversion rénale stimulée par la parathormone ?",
+      "choices": [
+        "25-hydroxycholécalciférol",
+        "1,25-dihydroxycholécalciférol",
+        "Ergostérol végétal",
+        "déhydrocholestérol"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La parathormone stimule la conversion rénale du 25-hydroxycholécalciférol en 1,25-dihydroxycholécalciférol."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle hormone est constituée d’une chaîne peptidique de 32 acides aminés ?",
+      "choices": [
+        "Parathormone",
+        "Calcitonine",
+        "Vitamine D3",
+        "1,25-dihydroxycholécalciférol"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La calcitonine est un peptide constitué d’une chaîne de 32 acides aminés."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal stimulus de sécrétion de la calcitonine ?",
+      "choices": [
+        "Hypocalcémie",
+        "Hypercalcémie",
+        "Hypophosphatémie",
+        "Carence en vitamine D"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le principal stimulus de sécrétion de la calcitonine est l’hypercalcémie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle dose prophylactique de vitamine D est mentionnée chez les nourrissons peu exposés au soleil ?",
+      "choices": [
+        "400 UI par jour",
+        "1000 UI par jour",
+        "1500 UI par jour",
+        "2500 UI par jour"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La dose prophylactique mentionnée chez les nourrissons peu exposés au soleil est de 1500 UI/jour."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel organe est surtout impliqué dans le catabolisme de la parathormone ?",
+      "choices": [
+        "Rate",
+        "Rein",
+        "Poumon",
+        "Intestin grêle"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La parathormone est catabolisée dans le foie et surtout dans le rein."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les associations hormonales concernant l’absorption intestinale du calcium, lesquelles sont exactes ?",
+      "choices": [
+        "L’hormone de croissance augmente l’absorption intestinale du calcium.",
+        "L’excès d’hormones thyroïdiennes diminue l’absorption intestinale du calcium.",
+        "Les glucocorticoïdes à fortes doses diminuent l’absorption intestinale du calcium.",
+        "La carence en œstrogènes augmente l’absorption intestinale du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue une augmentation de l’absorption calcique intestinale à l’hormone de croissance, alors que l’excès d’hormones thyroïdiennes et les fortes doses de glucocorticoïdes la diminuent. Aucun effet intestinal direct de la carence œstrogénique n’est mentionné."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets rénaux de l’hormone de croissance et des hormones thyroïdiennes en excès, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hormone de croissance augmente l’excrétion rénale du calcium.",
+        "L’hormone de croissance diminue l’excrétion rénale des phosphates.",
+        "L’excès d’hormones thyroïdiennes augmente l’élimination urinaire des phosphates.",
+        "Les glucocorticoïdes à fortes doses diminuent l’excrétion rénale des phosphates."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hormone de croissance augmente la calciurie et diminue l’excrétion rénale des phosphates. L’excès d’hormones thyroïdiennes augmente l’élimination urinaire du calcium et des phosphates. Aucun effet des glucocorticoïdes sur la phosphaturie n’est indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans les déséquilibres du remodelage osseux décrits, quelles propositions sont correctes ?",
+      "choices": [
+        "En l’absence d’œstrogènes, la résorption osseuse l’emporte sur la formation osseuse.",
+        "Les glucocorticoïdes à fortes doses diminuent la formation osseuse.",
+        "L’excès d’hormones thyroïdiennes augmente la résorption osseuse.",
+        "L’hormone de croissance diminue la masse osseuse totale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte oppose la carence œstrogénique, les fortes doses de glucocorticoïdes et l’excès thyroïdien à des effets défavorables sur l’os. L’hormone de croissance augmente au contraire la masse osseuse totale."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les effets favorables à la croissance ou à la masse osseuse, lesquels sont cités dans le texte ?",
+      "choices": [
+        "L’hormone de croissance augmente la masse osseuse totale.",
+        "L’hormone de croissance stimule la croissance des cartilages.",
+        "Les hormones thyroïdiennes sont nécessaires à la croissance osseuse.",
+        "Les glucocorticoïdes à fortes doses stimulent la formation osseuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hormone de croissance augmente la masse osseuse totale et stimule les cartilages. Les hormones thyroïdiennes sont nécessaires à la croissance osseuse. Les fortes doses de glucocorticoïdes diminuent la formation osseuse."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos de la synthèse du collagène sous influence hormonale, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hormone de croissance augmente la synthèse du collagène via les somatomédines.",
+        "Les hormones thyroïdiennes augmentent la synthèse du collagène.",
+        "Les glucocorticoïdes à fortes doses inhibent la synthèse du collagène.",
+        "La carence en œstrogènes augmente directement la synthèse du collagène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La synthèse du collagène est augmentée par l’hormone de croissance via les somatomédines et par les hormones thyroïdiennes. Elle est inhibée par les fortes doses de glucocorticoïdes. Aucun effet direct de la carence œstrogénique sur le collagène n’est mentionné."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions décrivent correctement les situations associées à une ostéoporose ou à un mécanisme osseux défavorable ?",
+      "choices": [
+        "La carence en œstrogènes, notamment après la ménopause, favorise l’ostéoporose.",
+        "Les glucocorticoïdes à fortes doses peuvent conduire au développement d’une ostéoporose.",
+        "L’absence d’œstrogènes entraîne une prédominance de la résorption osseuse sur la formation osseuse.",
+        "L’hormone de croissance est décrite comme favorisant l’ostéoporose."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La carence œstrogénique et les fortes doses de glucocorticoïdes sont associées à l’ostéoporose. L’absence d’œstrogènes favorise la résorption osseuse. L’hormone de croissance n’est pas présentée comme ostéoporosante."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations combinant absorption intestinale du calcium et élimination urinaire du calcium sont exactes ?",
+      "choices": [
+        "Hormone de croissance : augmentation de l’absorption intestinale du calcium et augmentation de l’excrétion rénale du calcium.",
+        "Excès d’hormones thyroïdiennes : diminution de l’absorption intestinale du calcium et augmentation de l’élimination urinaire du calcium.",
+        "Glucocorticoïdes à fortes doses : diminution de l’absorption intestinale du calcium et augmentation de l’excrétion urinaire du calcium.",
+        "Œstrogènes : diminution de l’absorption intestinale du calcium et augmentation de l’excrétion urinaire du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premières associations correspondent au texte. Les œstrogènes sont seulement décrits comme augmentant la synthèse rénale de vitamine D."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les propositions suivantes, lesquelles ne sont pas soutenues par le texte ?",
+      "choices": [
+        "L’hormone de croissance diminue l’excrétion rénale du calcium.",
+        "L’excès d’hormones thyroïdiennes augmente l’absorption intestinale du calcium.",
+        "Les glucocorticoïdes à fortes doses augmentent la formation osseuse.",
+        "Les œstrogènes augmentent la synthèse rénale de vitamine D."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique l’inverse pour les trois premières propositions : l’hormone de croissance augmente la calciurie, l’excès thyroïdien diminue l’absorption calcique intestinale et les glucocorticoïdes à fortes doses diminuent la formation osseuse. La quatrième proposition est exacte."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations associent une diminution de l’absorption intestinale du calcium à un effet osseux défavorable mentionné dans le texte ?",
+      "choices": [
+        "L’excès d’hormones thyroïdiennes.",
+        "Les glucocorticoïdes à fortes doses.",
+        "La carence en œstrogènes.",
+        "L’hormone de croissance."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "L’excès thyroïdien diminue l’absorption intestinale du calcium et augmente la résorption osseuse. Les fortes doses de glucocorticoïdes diminuent l’absorption calcique et favorisent l’ostéoporose. La carence œstrogénique est ostéoporosante mais sans effet intestinal calcique précisé."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels effets rénaux ou rénaux-vitamine D sont correctement attribués dans le texte ?",
+      "choices": [
+        "L’hormone de croissance augmente l’excrétion rénale du calcium.",
+        "L’hormone de croissance diminue l’excrétion rénale des phosphates.",
+        "Les œstrogènes augmentent la synthèse rénale de vitamine D.",
+        "Les glucocorticoïdes à fortes doses diminuent l’excrétion urinaire du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hormone de croissance augmente la calciurie et diminue l’excrétion rénale des phosphates. Les œstrogènes augmentent la synthèse rénale de vitamine D. Les fortes doses de glucocorticoïdes augmentent l’excrétion urinaire du calcium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les hormones thyroïdiennes, quelles propositions sont exactes ?",
+      "choices": [
+        "Elles sont nécessaires à la croissance osseuse.",
+        "Elles augmentent la synthèse du collagène.",
+        "En excès, elles augmentent l’élimination urinaire du calcium.",
+        "En excès, elles diminuent l’élimination urinaire des phosphates."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hormones thyroïdiennes sont nécessaires à la croissance osseuse et augmentent la synthèse du collagène. En excès, elles augmentent la calciurie et la phosphaturie."
+    },
+    {
+      "type": "QCM",
+      "question": "Au sujet des glucocorticoïdes, quelles propositions sont exactes ?",
+      "choices": [
+        "Leur effet dépend de la dose.",
+        "À fortes doses, ils inhibent la synthèse du collagène.",
+        "À fortes doses, ils diminuent la formation osseuse.",
+        "À fortes doses, ils augmentent l’excrétion urinaire du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces propositions sont explicitement indiquées : l’effet des glucocorticoïdes est dose-dépendant et, à fortes doses, ils inhibent le collagène, diminuent la formation osseuse et augmentent la calciurie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les phosphates urinaires dans ce passage, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hormone de croissance diminue l’excrétion rénale des phosphates.",
+        "L’excès d’hormones thyroïdiennes augmente l’élimination urinaire des phosphates.",
+        "Le texte ne décrit pas d’effet des glucocorticoïdes à fortes doses sur l’excrétion urinaire des phosphates.",
+        "Le texte ne décrit pas d’effet de la carence en œstrogènes sur l’excrétion urinaire des phosphates."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Seuls deux effets sur les phosphates urinaires sont donnés : diminution par l’hormone de croissance et augmentation en cas d’excès d’hormones thyroïdiennes. Aucun effet phosphaturique des glucocorticoïdes ou des œstrogènes n’est mentionné."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour éviter les confusions entre les mécanismes hormonaux, quels enchaînements sont exacts ?",
+      "choices": [
+        "Hormone de croissance → somatomédines → augmentation de la synthèse du collagène.",
+        "Œstrogènes → rein → augmentation de la synthèse de vitamine D.",
+        "Glucocorticoïdes à fortes doses → diminution de l’absorption intestinale du calcium et augmentation de l’excrétion urinaire du calcium.",
+        "Excès d’hormones thyroïdiennes → diminution de l’élimination urinaire du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les trois premiers enchaînements sont conformes au texte. L’excès d’hormones thyroïdiennes augmente, et non diminue, l’élimination urinaire du calcium."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil hormonal associe augmentation de l’absorption intestinale du calcium, augmentation de l’excrétion rénale du calcium et diminution de l’excrétion rénale des phosphates ?",
+      "choices": [
+        "Hormone de croissance.",
+        "Excès d’hormones thyroïdiennes.",
+        "Carence en œstrogènes.",
+        "Glucocorticoïdes à fortes doses."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Ce profil est celui de l’hormone de croissance : elle augmente l’absorption intestinale et l’excrétion rénale du calcium, tout en diminuant l’excrétion rénale des phosphates."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil associe diminution de l’absorption intestinale du calcium, augmentation de l’élimination urinaire du calcium et augmentation de l’élimination urinaire des phosphates ?",
+      "choices": [
+        "Hormone de croissance.",
+        "Excès d’hormones thyroïdiennes.",
+        "Œstrogènes.",
+        "Carence en œstrogènes."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’excès d’hormones thyroïdiennes diminue l’absorption intestinale du calcium et augmente l’élimination urinaire du calcium et des phosphates."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel médiateur est cité pour expliquer l’effet de l’hormone de croissance sur la synthèse du collagène ?",
+      "choices": [
+        "Les hormones thyroïdiennes.",
+        "Les somatomédines.",
+        "Les œstrogènes.",
+        "Les glucocorticoïdes."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que l’hormone de croissance augmente la synthèse du collagène via les somatomédines."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans quelle situation le texte indique-t-il que la résorption osseuse dépasse la formation osseuse ?",
+      "choices": [
+        "Excès d’hormone de croissance.",
+        "Absence d’œstrogènes.",
+        "Excès de somatomédines.",
+        "Présence d’hormones thyroïdiennes à taux physiologique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "En l’absence d’œstrogènes, la résorption osseuse l’emporte sur la formation osseuse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle classe hormonale est explicitement décrite comme ayant des effets dépendants de la dose ?",
+      "choices": [
+        "Hormone de croissance.",
+        "Hormones thyroïdiennes.",
+        "Œstrogènes.",
+        "Glucocorticoïdes."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte précise que l’effet des glucocorticoïdes dépend de la dose."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel effet est attribué aux œstrogènes dans ce passage ?",
+      "choices": [
+        "Augmentation de la synthèse rénale de vitamine D.",
+        "Augmentation directe de l’excrétion urinaire du calcium.",
+        "Diminution de la synthèse du collagène.",
+        "Diminution de la croissance osseuse."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les œstrogènes augmentent la synthèse rénale de vitamine D. Leur carence, notamment après la ménopause, favorise l’ostéoporose."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une discordance entre calcémie totale et manifestations cliniques neuromusculaires, quelles propositions sont exactes d’après le texte ?",
+      "choices": [
+        "La calcémie totale dépend de la concentration plasmatique en protéines.",
+        "La fraction physiologiquement active est le calcium ionisé.",
+        "Les manifestations cardiaques et neuromusculaires sont attribuées à la fraction liée à l’albumine.",
+        "Le pH, les bicarbonates, les phosphates et le magnésium influencent la liaison protéique et l’ionisation du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le calcium ionisé est la forme active et ses anomalies expliquent les signes cardiaques et neuromusculaires. La calcémie totale dépend des protéines plasmatiques, surtout l’albumine, et l’ionisation varie avec le pH et certains électrolytes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la répartition compartimentale du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "Environ 99 % du calcium total de l’organisme est contenu dans le squelette.",
+        "Le calcium osseux est présent sous forme d’hydroxyapatite.",
+        "Une fraction du calcium intracellulaire est localisée dans les mitochondries et le réticulum endoplasmique.",
+        "La seule forme plasmatique physiologiquement active est la fraction non diffusible liée aux protéines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le squelette contient la majeure partie du calcium, sous forme d’hydroxyapatite. Le texte mentionne aussi une localisation intracellulaire mitochondriale et dans le réticulum endoplasmique. La forme active est le calcium ionisé, non la fraction liée aux protéines."
+    },
+    {
+      "type": "QCM",
+      "question": "En comparant le comportement rénal du calcium et du phosphore, quelles propositions sont exactes ?",
+      "choices": [
+        "Le calcium est filtré par le glomérule.",
+        "Le calcium est majoritairement réabsorbé au niveau tubulaire distal.",
+        "Le phosphore filtré est réabsorbé au niveau tubulaire proximal.",
+        "Le calcium et le phosphore ont le même seuil urinaire décrit dans le texte."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que le calcium est filtré puis surtout réabsorbé au niveau tubulaire distal, alors que le phosphore dépend d’une réabsorption tubulaire proximale. La notion de substance à seuil est explicitement donnée pour le phosphore."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets hormonaux rénaux rapportés dans le texte, quelles associations sont exactes ?",
+      "choices": [
+        "La calcitonine favorise l’excrétion urinaire du calcium et augmente l’excrétion urinaire des phosphates.",
+        "L’hormone de croissance favorise l’excrétion urinaire du calcium mais diminue l’excrétion urinaire des phosphates.",
+        "La parathormone augmente l’excrétion urinaire des phosphates et augmente la réabsorption rénale du calcium en cas d’hypocalcémie.",
+        "Le cortisol diminue l’excrétion urinaire du calcium et augmente l’excrétion urinaire des phosphates."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La calcitonine augmente calciurie et phosphaturie. L’hormone de croissance augmente la calciurie mais diminue la phosphaturie. La parathormone augmente la phosphaturie et stimule la réabsorption rénale du calcium en hypocalcémie. Le cortisol favorise la calciurie."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des facteurs acido-basiques et digestifs influençant le calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "Un pH intestinal acide augmente l’absorption du calcium.",
+        "Les bases diminuent l’absorption intestinale du calcium.",
+        "L’acidose favorise l’excrétion urinaire du calcium.",
+        "Les oxalates augmentent l’absorption intestinale du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’absorption calcique est augmentée par un pH intestinal acide et diminuée par les bases et les oxalates. L’acidose favorise l’excrétion urinaire du calcium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption digestive comparée du calcium et des phosphates, quelles propositions sont exactes ?",
+      "choices": [
+        "L’absorption du calcium se fait principalement dans le duodénum et le jéjunum.",
+        "Environ 50 à 60 % du calcium ingéré est absorbé.",
+        "Environ 70 % des phosphates ingérés sont absorbés, principalement dans la partie moyenne de l’intestin.",
+        "L’élimination intestinale des phosphates correspond à 500 à 800 mg/jour."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcium est absorbé surtout dans le duodénum et le jéjunum, à hauteur de 50 à 60 %. Les phosphates sont absorbés à environ 70 %, surtout dans la partie moyenne de l’intestin. Les 500 à 800 mg/jour concernent l’élimination intestinale du calcium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes et rôles non minéraux des phosphates, quelles propositions sont exactes ?",
+      "choices": [
+        "Les phosphates entrent dans la composition des acides nucléiques.",
+        "Les phosphates entrent dans la composition des phospholipides membranaires.",
+        "Les phosphates participent au stockage et à la libération d’énergie sous forme d’ATP, ADP, AMP, GTP, GDP et GMP.",
+        "La principale forme plasmatique des phosphates est une fraction non diffusible liée à l’albumine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte attribue aux phosphates des rôles dans les acides nucléiques, les phospholipides membranaires et le métabolisme énergétique. Il ne décrit pas une forme plasmatique principale liée à l’albumine."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le rôle tampon et enzymatique des phosphates, quelles propositions sont exactes ?",
+      "choices": [
+        "Les phosphates constituent le principal tampon intracellulaire et urinaire.",
+        "Leur rôle tampon est comparé à celui du bicarbonate dans le secteur extracellulaire.",
+        "Ils interviennent dans l’activation enzymatique via les protéines kinases.",
+        "Le bicarbonate est décrit comme le principal tampon intracellulaire et urinaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les phosphates sont les principaux tampons intracellulaires et urinaires, avec un rôle comparable à celui du bicarbonate dans le secteur extracellulaire. Ils interviennent aussi dans l’activation enzymatique via les protéines kinases."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les variations physiologiques de la phosphatémie, quelles propositions sont exactes ?",
+      "choices": [
+        "Les valeurs de phosphatémie sont plus basses le matin.",
+        "La phosphatémie augmente au cours de la journée avec un maximum en soirée.",
+        "L’excrétion urinaire des phosphates suit les variations nycthémérales de la phosphatémie.",
+        "La phosphatémie est indépendante des apports alimentaires."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La phosphatémie varie avec les apports alimentaires, l’excrétion rénale et le rythme nycthéméral. Elle est plus basse le matin, augmente dans la journée et atteint un maximum le soir ; l’excrétion urinaire suit ces variations."
+    },
+    {
+      "type": "QCM",
+      "question": "Au pH physiologique de 7,4, quelles formes plasmatiques ioniques des phosphates sont correctement décrites ?",
+      "choices": [
+        "La forme divalente HPO4-- représente environ 80 %.",
+        "La forme monovalente H2PO4- représente environ 20 %.",
+        "La forme trivalente PO4--- existe à l’état de traces.",
+        "La forme trivalente PO4--- est la forme plasmatique prédominante."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au pH 7,4, les phosphates plasmatiques sont surtout sous forme HPO4--, puis H2PO4-. La forme PO4--- n’est présente qu’à l’état de traces."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la matrice osseuse et sa calcification, quelles propositions sont exactes ?",
+      "choices": [
+        "La matrice organique osseuse contient notamment du collagène, de la proline et de l’hydroxyproline.",
+        "Des cristaux d’hydroxyapatite sont déposés sur la matrice organique osseuse.",
+        "Les ostéoblastes synthétisent et sécrètent les enzymes nécessaires à la calcification.",
+        "Les ostéoblastes sont décrits dans le texte comme les cellules responsables de la résorption osseuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La matrice organique osseuse contient du collagène, de la proline, de l’hydroxyproline et d’autres constituants. Les cristaux d’hydroxyapatite s’y déposent. Les ostéoblastes synthétisent la matrice et les enzymes nécessaires à la calcification."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la finalité de la régulation phosphocalcique, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle implique l’intestin pour contrôler les apports de calcium et de phosphore.",
+        "Elle implique le rein pour contrôler l’élimination de calcium et de phosphore.",
+        "Elle implique l’os pour contrôler les stocks de calcium et de phosphore.",
+        "Son principal signal régulateur est la variation des apports alimentaires en phosphore."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La parathormone, la vitamine D et la calcitonine agissent sur l’intestin, le rein et l’os afin de contrôler apports, élimination et stocks. Le principal signal régulateur est la calcémie, en particulier le calcium ionisé."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fractions plasmatiques du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "La fraction diffusible comprend le calcium ionisé.",
+        "La fraction diffusible comprend du calcium complexé aux phosphates, citrates et bicarbonates.",
+        "La fraction non diffusible est liée aux protéines, principalement à l’albumine.",
+        "Le calcium complexé aux bicarbonates appartient à la fraction non diffusible liée aux protéines."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcium plasmatique comporte une fraction non diffusible liée aux protéines, surtout à l’albumine, et une fraction diffusible comprenant le calcium ionisé et le calcium complexé aux phosphates, citrates et bicarbonates."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les manifestations des anomalies du calcium ionisé, quelles propositions sont exactes ?",
+      "choices": [
+        "Une hypocalcémie par anomalie du calcium ionisé peut donner des manifestations neuromusculaires.",
+        "Une hypercalcémie par anomalie du calcium ionisé peut donner des manifestations cardiaques.",
+        "Les manifestations cardiaques et neuromusculaires sont rattachées aux anomalies du calcium ionisé.",
+        "Le texte attribue explicitement ces manifestations aux anomalies du phosphate ionisé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte précise que les anomalies du calcium ionisé sont responsables des manifestations cardiaques et neuromusculaires observées dans l’hypocalcémie et l’hypercalcémie."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la principale protéine de liaison de la fraction non diffusible du calcium plasmatique ?",
+      "choices": [
+        "Albumine",
+        "Transferrine",
+        "Fibrinogène",
+        "Protéine C-réactive"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La fraction non diffusible du calcium plasmatique est liée aux protéines, principalement à l’albumine."
+    },
+    {
+      "type": "QCS",
+      "question": "Quels sont les besoins quotidiens approximatifs en calcium selon le texte ?",
+      "choices": [
+        "150 mg/jour",
+        "1 g/jour",
+        "800 à 1200 mg/jour",
+        "500 à 800 mg/jour"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les besoins en calcium sont d’environ 1 g par jour."
+    },
+    {
+      "type": "QCS",
+      "question": "Quels sont les besoins quotidiens approximatifs en phosphore selon le texte ?",
+      "choices": [
+        "150 mg/jour",
+        "500 à 800 mg/jour",
+        "800 à 1200 mg/jour",
+        "2 à 3 g/jour"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les besoins en phosphore sont d’environ 800 à 1200 mg par jour."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle substance est décrite comme réabsorbée au niveau tubulaire proximal après filtration glomérulaire ?",
+      "choices": [
+        "Calcium",
+        "Phosphore",
+        "Collagène",
+        "Vitamine D"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’élimination urinaire du phosphore résulte de la filtration glomérulaire et de la réabsorption tubulaire proximale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est l’élimination urinaire quotidienne approximative du calcium selon le texte ?",
+      "choices": [
+        "150 mg/jour",
+        "600 mg/jour",
+        "1 g/jour",
+        "800 à 1200 mg/jour"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’élimination urinaire du calcium est d’environ 150 mg par jour."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proportion approximative des phosphates ingérés est absorbée ?",
+      "choices": [
+        "20 %",
+        "30 %",
+        "50 à 60 %",
+        "70 %"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Environ 70 % des phosphates ingérés sont absorbés, principalement dans la partie moyenne de l’intestin."
+    },
+    {
+      "type": "QCM",
+      "question": "Lors d’une élévation anormale de la calcémie, quelles réponses hormonales sont conformes au texte ?",
+      "choices": [
+        "Freinage de la synthèse et de la libération de parathormone",
+        "Stimulation de la sécrétion de calcitonine",
+        "Action hypocalcémiante de la calcitonine lorsque la calcémie est anormalement élevée",
+        "Stimulation de la synthèse de parathormone par l’hypercalcémie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hypercalcémie freine la parathormone et stimule la calcitonine, qui abaisse la calcémie lorsqu’elle est anormalement élevée. L’hypercalcémie ne stimule pas la PTH."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un patient présentant une hyperparathyroïdie avec douleurs osseuses et ulcères récidivants, quelles propositions sont compatibles avec le texte ?",
+      "choices": [
+        "L’excès de parathormone peut être lié à une tumeur parathyroïdienne le plus souvent bénigne",
+        "L’hyperparathyroïdie peut s’accompagner d’ostéite fibrokystique",
+        "L’excès de parathormone peut augmenter la sécrétion acide gastrique",
+        "L’hyperparathyroïdie entraîne typiquement une hypocalciurie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hyperparathyroïdie peut être tumorale bénigne, s’accompagner d’ostéite fibrokystique et favoriser gastrine, acidité gastrique et ulcères. Elle donne une hypercalciurie, non une hypocalciurie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’action rénale de la parathormone, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle diminue la réabsorption tubulaire proximale des phosphates",
+        "Elle augmente la phosphaturie",
+        "Elle augmente la réabsorption tubulaire distale du calcium",
+        "Elle diminue toujours la calciurie, même en cas d’hypercalcémie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PTH diminue la réabsorption proximale des phosphates, augmente la phosphaturie et favorise la réabsorption distale du calcium. En cas d’hypercalcémie, une hypercalciurie secondaire est possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’activation et le mode d’action de la vitamine D, quelles propositions sont exactes ?",
+      "choices": [
+        "La vitamine D3 nécessite une activation par hydroxylations",
+        "L’hydroxylation rénale participe à la formation du 1,25-dihydroxycholécalciférol",
+        "La vitamine D agit via un récepteur cytosolique",
+        "Une anomalie de son récepteur peut entraîner un rachitisme familial résistant à la vitamine D"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que la vitamine D3 nécessite des hydroxylations, notamment rénale, donnant le 1,25-dihydroxycholécalciférol. Elle agit via un récepteur cytosolique dont l’anomalie peut causer un rachitisme familial résistant."
+    },
+    {
+      "type": "QCM",
+      "question": "À fortes doses, quels effets de la vitamine D sur l’os sont décrits ?",
+      "choices": [
+        "Augmentation de la résorption osseuse",
+        "Libération de calcium et de phosphore à partir du tissu osseux",
+        "Accélération de la formation des ostéoclastes",
+        "Stimulation de la synthèse du collagène par les ostéoblastes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À fortes doses, la vitamine D augmente la résorption osseuse, libère calcium et phosphore, accélère la formation des ostéoclastes et inhibe, au contraire, la synthèse du collagène par les ostéoblastes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets rénaux de la calcitonine, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle augmente la phosphaturie",
+        "Elle augmente la calciurie",
+        "Elle inhibe la conversion du 25-hydroxycholécalciférol en 1,25-dihydroxycholécalciférol",
+        "Elle stimule la conversion rénale de la vitamine D active"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La calcitonine augmente phosphaturie et calciurie et inhibe la conversion rénale vers le 1,25-dihydroxycholécalciférol. Cette conversion est stimulée par la PTH, non par la calcitonine."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des relations entre gastrine, parathormone et calcitonine, quelles propositions sont exactes ?",
+      "choices": [
+        "La parathormone peut stimuler la sécrétion de gastrine",
+        "La parathormone peut augmenter la sécrétion acide gastrique",
+        "La gastrine peut stimuler la sécrétion de calcitonine",
+        "La calcitonine est décrite comme stimulant la sécrétion de gastrine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte mentionne que la PTH stimule la gastrine et l’acidité gastrique, tandis que la gastrine peut stimuler la calcitonine. L’inverse, calcitonine stimulant la gastrine, n’est pas indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les cellules osseuses impliquées dans les effets hormonaux décrits, quelles propositions sont exactes ?",
+      "choices": [
+        "La parathormone stimule l’activité ostéocytaire",
+        "La parathormone stimule l’activité ostéoclastique",
+        "La calcitonine diminue l’activité des ostéoclastes",
+        "La calcitonine diminue l’activité des ostéocytes"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La PTH stimule les ostéocytes et les ostéoclastes. La calcitonine diminue l’activité des ostéoclastes et des ostéocytes."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption, le stockage et l’élimination de la vitamine D, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est absorbée dans le jéjunum",
+        "Elle est stockée dans le foie",
+        "Elle est stockée dans le muscle et le tissu adipeux",
+        "Elle est principalement décrite comme éliminée par voie urinaire directe"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La vitamine D est absorbée dans le jéjunum, stockée dans le foie, le muscle et le tissu adipeux. Le texte décrit une excrétion biliaire avec cycle entérohépatique partiel, et non une élimination urinaire directe principale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la carence en vitamine D chez l’enfant, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle entraîne un rachitisme",
+        "Le rachitisme est une ostéopathie caractérisée par une déminéralisation osseuse",
+        "Les lésions osseuses varient selon l’âge",
+        "Les lésions osseuses sont indépendantes de l’évolution de la maladie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez l’enfant, la carence en vitamine D entraîne le rachitisme, ostéopathie avec déminéralisation. Les lésions varient selon l’âge et l’évolution de la maladie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une hyperparathyroïdie, quelles anomalies biologiques peuvent être associées selon le texte ?",
+      "choices": [
+        "Hypercalcémie",
+        "Hypophosphatémie",
+        "Hyperphosphaturie",
+        "Diminution de l’hydroxyprolinurie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les signes biologiques cités sont notamment hypercalcémie, hypercalciurie, hypophosphatémie, hyperphosphaturie et augmentation de l’hydroxyprolinurie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la synergie entre parathormone et vitamine D, quelles propositions sont exactes ?",
+      "choices": [
+        "La parathormone nécessite la présence de vitamine D pour exercer pleinement ses effets osseux",
+        "La vitamine D peut mobiliser le calcium osseux en synergie avec la parathormone",
+        "La parathormone augmente indirectement l’absorption intestinale du calcium via la vitamine D active",
+        "La calcitonine stimule la même conversion rénale que la parathormone"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La PTH nécessite la vitamine D pour ses effets osseux complets et stimule la conversion rénale en vitamine D active, ce qui augmente l’absorption intestinale du calcium. La calcitonine inhibe cette conversion."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les effets de la vitamine D selon la dose, quelles propositions sont exactes ?",
+      "choices": [
+        "À faible dose, elle favorise la minéralisation osseuse",
+        "À doses physiologiques, elle augmente la réabsorption rénale du calcium",
+        "À doses élevées, elle peut augmenter la calciurie en raison de l’augmentation de la calcémie",
+        "À faible dose, elle est décrite comme accélérant la formation des ostéoclastes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À faible dose, la vitamine D favorise la minéralisation. À doses physiologiques, elle augmente la réabsorption rénale du calcium. À doses élevées, elle augmente la calciurie par hypercalcémie. L’accélération de la formation des ostéoclastes est décrite à fortes doses."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les données quantitatives hormonales mentionnées, quelles propositions sont exactes ?",
+      "choices": [
+        "La concentration plasmatique de parathormone est d’environ 30 à 120 pg/mL",
+        "La demi-vie de la parathormone est d’environ 30 minutes",
+        "La concentration plasmatique de calcitonine est inférieure à 100 pg/mL",
+        "La calcitonine devient indétectable en dessous d’environ 90 mg/L de calcium sanguin"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Toutes ces valeurs sont mentionnées dans le texte : PTH 30–120 pg/mL, demi-vie 30 minutes, calcitonine inférieure à 100 pg/mL et indétectable sous environ 90 mg/L de calcium sanguin."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel site n’est pas cité comme lieu de stockage de la vitamine D ?",
+      "choices": [
+        "Foie",
+        "Muscle",
+        "Tissu adipeux",
+        "Rate"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La vitamine D est stockée dans le foie, le muscle et le tissu adipeux. La rate n’est pas citée comme site de stockage."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel organe est cité comme site d’inactivation de la calcitonine en plus du foie et du rein ?",
+      "choices": [
+        "Rate",
+        "Poumon",
+        "Intestin grêle",
+        "Parathyroïde"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La calcitonine est inactivée dans le foie, le rein et la rate."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel mécanisme explique directement l’effet hypophosphatémiant de la parathormone ?",
+      "choices": [
+        "Augmentation de la réabsorption tubulaire proximale des phosphates",
+        "Diminution de la réabsorption tubulaire proximale des phosphates",
+        "Inhibition de l’absorption intestinale des phosphates",
+        "Blocage de la libération osseuse de phosphore"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La parathormone augmente la phosphaturie par diminution de la réabsorption tubulaire proximale des phosphates."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle ostéopathie est spécifiquement attribuée à la carence en vitamine D chez l’enfant ?",
+      "choices": [
+        "Ostéite fibrokystique",
+        "Rachitisme",
+        "Ostéoporose cortisonique",
+        "Ostéomalacie tumorale"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Chez l’enfant, la carence en vitamine D entraîne le rachitisme, caractérisé par une déminéralisation osseuse."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est l’effet de la calcitonine sur la conversion du 25-hydroxycholécalciférol en 1,25-dihydroxycholécalciférol ?",
+      "choices": [
+        "Stimulation",
+        "Inhibition",
+        "Absence totale d’effet rénal décrit",
+        "Activation uniquement en cas d’hypocalcémie"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La calcitonine inhibe la conversion du 25-hydroxycholécalciférol en 1,25-dihydroxycholécalciférol."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle dose prophylactique de vitamine D est mentionnée chez les prématurés et les enfants à peau pigmentée ?",
+      "choices": [
+        "400 UI/jour",
+        "1000 UI/jour",
+        "1500 UI/jour",
+        "2500 UI/jour"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte mentionne 2500 UI/jour chez les prématurés et les enfants à peau pigmentée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans un tableau de synthèse des effets hormonaux, quelles lignes sont exactes d’après le texte ?",
+      "choices": [
+        "Hormone de croissance : augmentation de l’absorption intestinale du calcium et augmentation de son excrétion rénale.",
+        "Excès d’hormones thyroïdiennes : diminution de l’absorption intestinale du calcium et augmentation de son élimination urinaire.",
+        "Absence d’œstrogènes : prédominance de la résorption osseuse sur la formation osseuse.",
+        "Glucocorticoïdes à fortes doses : augmentation de l’absorption intestinale du calcium et augmentation de la formation osseuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La GH augmente à la fois l’absorption intestinale et l’excrétion rénale du calcium. L’excès d’hormones thyroïdiennes diminue l’absorption intestinale du calcium et augmente sa perte urinaire. L’absence d’œstrogènes favorise la résorption osseuse. Les glucocorticoïdes à fortes doses diminuent l’absorption calcique et la formation osseuse."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels mécanismes ou situations cités dans le texte peuvent contribuer à une évolution osseuse défavorable ?",
+      "choices": [
+        "Augmentation de la résorption osseuse sous excès d’hormones thyroïdiennes.",
+        "Prédominance de la résorption osseuse en l’absence d’œstrogènes.",
+        "Diminution de la formation osseuse sous fortes doses de glucocorticoïdes.",
+        "Augmentation de la masse osseuse totale sous hormone de croissance."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’excès thyroïdien augmente la résorption, l’absence d’œstrogènes fait prédominer la résorption, et les glucocorticoïdes à fortes doses diminuent la formation osseuse. L’augmentation de la masse osseuse par la GH est un effet favorable."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations combinant effet calcique et effet osseux sont conformes au texte ?",
+      "choices": [
+        "Excès d’hormones thyroïdiennes : diminution de l’absorption intestinale du calcium et augmentation de la résorption osseuse.",
+        "Glucocorticoïdes à fortes doses : diminution de l’absorption intestinale du calcium et diminution de la formation osseuse.",
+        "Absence d’œstrogènes : augmentation de l’excrétion urinaire du calcium et augmentation de la formation osseuse.",
+        "Hormone de croissance : augmentation de l’excrétion rénale du calcium et développement d’une ostéoporose."
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les deux premières associations sont directement rapportées. Le texte ne décrit pas d’augmentation de la calciurie par absence d’œstrogènes, ni d’ostéoporose induite par l’hormone de croissance."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la synthèse du collagène dans ce passage, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hormone de croissance l’augmente par l’intermédiaire des somatomédines.",
+        "Les hormones thyroïdiennes l’augmentent en situation physiologique.",
+        "Les glucocorticoïdes à fortes doses l’inhibent.",
+        "Les œstrogènes sont décrits comme inhibant directement la synthèse du collagène."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La GH augmente la synthèse du collagène via les somatomédines, les hormones thyroïdiennes l’augmentent, et les glucocorticoïdes à fortes doses l’inhibent. Le texte ne décrit pas d’inhibition directe par les œstrogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des effets sur la croissance et la masse osseuse, quelles propositions sont justes ?",
+      "choices": [
+        "L’hormone de croissance stimule la croissance des cartilages.",
+        "L’hormone de croissance augmente la masse osseuse totale.",
+        "Les hormones thyroïdiennes sont nécessaires à la croissance osseuse.",
+        "Les glucocorticoïdes à fortes doses stimulent la croissance des cartilages."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La GH stimule les cartilages et augmente la masse osseuse totale. Les hormones thyroïdiennes sont nécessaires à la croissance osseuse. Les glucocorticoïdes à fortes doses ont au contraire des effets osseux défavorables."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions résument correctement les informations données sur les œstrogènes ?",
+      "choices": [
+        "Ils augmentent la synthèse rénale de vitamine D.",
+        "Leur carence favorise l’ostéoporose.",
+        "Après la ménopause, leur carence est particulièrement citée comme contexte favorisant l’ostéoporose.",
+        "En leur absence, la formation osseuse l’emporte sur la résorption osseuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les œstrogènes augmentent la synthèse rénale de vitamine D. Leur carence, notamment post-ménopausique, favorise l’ostéoporose. En leur absence, c’est la résorption osseuse qui l’emporte."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour l’élimination urinaire du calcium et des phosphates, quelles propositions sont exactes ?",
+      "choices": [
+        "L’hormone de croissance augmente l’excrétion rénale du calcium.",
+        "L’hormone de croissance diminue l’excrétion rénale des phosphates.",
+        "L’excès d’hormones thyroïdiennes augmente l’élimination urinaire du calcium et des phosphates.",
+        "Les glucocorticoïdes à fortes doses diminuent l’excrétion urinaire du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La GH augmente la calciurie et diminue la phosphaturie. L’excès thyroïdien augmente l’élimination urinaire du calcium et des phosphates. Les glucocorticoïdes à fortes doses augmentent l’excrétion urinaire du calcium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption intestinale du calcium, quelles orientations hormonales sont conformes au texte ?",
+      "choices": [
+        "Elle est augmentée par l’hormone de croissance.",
+        "Elle est diminuée en cas d’excès d’hormones thyroïdiennes.",
+        "Elle est diminuée sous fortes doses de glucocorticoïdes.",
+        "Elle est diminuée directement par les œstrogènes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La GH augmente l’absorption intestinale du calcium. L’excès d’hormones thyroïdiennes et les fortes doses de glucocorticoïdes la diminuent. Le texte ne décrit pas de diminution directe par les œstrogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des glucocorticoïdes, quelles propositions doivent être retenues ?",
+      "choices": [
+        "Leur effet dépend de la dose.",
+        "À fortes doses, ils inhibent la synthèse du collagène.",
+        "À fortes doses, ils diminuent la formation osseuse.",
+        "À fortes doses, ils diminuent l’excrétion urinaire du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’effet des glucocorticoïdes est dose-dépendant. À fortes doses, ils inhibent la synthèse du collagène, diminuent la formation osseuse et augmentent l’excrétion urinaire du calcium."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles propositions distinguent correctement les hormones thyroïdiennes selon leur contexte physiologique ou d’excès ?",
+      "choices": [
+        "Elles sont nécessaires à la croissance osseuse.",
+        "Elles augmentent la synthèse du collagène.",
+        "En excès, elles augmentent la résorption osseuse.",
+        "En excès, elles augmentent l’absorption intestinale du calcium."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les hormones thyroïdiennes sont nécessaires à la croissance osseuse et augmentent la synthèse du collagène. En excès, elles augmentent la résorption osseuse mais diminuent l’absorption intestinale du calcium."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations sont explicitement reliées à l’ostéoporose dans le passage ?",
+      "choices": [
+        "Carence en œstrogènes.",
+        "Carence en œstrogènes après la ménopause.",
+        "Glucocorticoïdes à fortes doses.",
+        "Excès d’hormones thyroïdiennes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte relie explicitement la carence œstrogénique, notamment post-ménopausique, et les fortes doses de glucocorticoïdes à l’ostéoporose. Pour l’excès thyroïdien, il mentionne l’augmentation de la résorption osseuse, sans employer ici le terme d’ostéoporose."
+    },
+    {
+      "type": "QCM",
+      "question": "Si l’on recherche les situations augmentant l’excrétion urinaire du calcium dans ce texte, lesquelles doivent être sélectionnées ?",
+      "choices": [
+        "Administration ou effet de l’hormone de croissance.",
+        "Excès d’hormones thyroïdiennes.",
+        "Glucocorticoïdes à fortes doses.",
+        "Présence d’œstrogènes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La GH, l’excès d’hormones thyroïdiennes et les glucocorticoïdes à fortes doses augmentent l’excrétion urinaire du calcium. Le texte ne mentionne pas cet effet pour les œstrogènes."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les énoncés suivants, lesquels sont des pièges à rejeter car contraires au texte ?",
+      "choices": [
+        "L’hormone de croissance diminue l’excrétion rénale du calcium.",
+        "L’absence d’œstrogènes fait prédominer la formation osseuse sur la résorption.",
+        "Les glucocorticoïdes à fortes doses stimulent la synthèse du collagène.",
+        "Les hormones thyroïdiennes sont nécessaires à la croissance osseuse."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La GH augmente l’excrétion rénale du calcium. En absence d’œstrogènes, la résorption prédomine. Les fortes doses de glucocorticoïdes inhibent la synthèse du collagène. La dernière proposition est exacte et ne doit donc pas être rejetée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’équilibre entre formation et résorption osseuses, quelles propositions sont exactes ?",
+      "choices": [
+        "L’absence d’œstrogènes entraîne une prédominance de la résorption osseuse.",
+        "Les glucocorticoïdes à fortes doses diminuent la formation osseuse.",
+        "L’excès d’hormones thyroïdiennes augmente la résorption osseuse.",
+        "L’hormone de croissance diminue la masse osseuse totale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’absence d’œstrogènes, l’excès thyroïdien et les glucocorticoïdes à fortes doses perturbent défavorablement le remodelage selon les mécanismes indiqués. La GH augmente la masse osseuse totale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil correspond le mieux à l’excès d’hormones thyroïdiennes selon le texte ?",
+      "choices": [
+        "Augmentation de la résorption osseuse, augmentation de la calciurie, diminution de l’absorption intestinale du calcium.",
+        "Diminution de la résorption osseuse, diminution de la calciurie, augmentation de l’absorption intestinale du calcium.",
+        "Augmentation de la masse osseuse totale, diminution de l’excrétion rénale des phosphates, stimulation des cartilages.",
+        "Inhibition de la synthèse du collagène, diminution de la formation osseuse, ostéoporose."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En excès, les hormones thyroïdiennes augmentent la résorption osseuse, augmentent l’élimination urinaire du calcium et diminuent l’absorption intestinale du calcium."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel effet est spécifiquement attribué à l’hormone de croissance via les somatomédines ?",
+      "choices": [
+        "Diminution de l’élimination urinaire du calcium.",
+        "Augmentation de la synthèse du collagène.",
+        "Diminution de la masse osseuse totale.",
+        "Inhibition de la croissance des cartilages."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte précise que l’hormone de croissance augmente, via les somatomédines, la synthèse du collagène."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle classe hormonale est décrite comme ayant un effet dépendant de la dose ?",
+      "choices": [
+        "Hormone de croissance.",
+        "Hormones thyroïdiennes.",
+        "Œstrogènes.",
+        "Glucocorticoïdes."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte indique explicitement que l’effet des glucocorticoïdes dépend de la dose."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition concernant les œstrogènes est exacte selon le passage ?",
+      "choices": [
+        "Ils diminuent la synthèse rénale de vitamine D.",
+        "Ils augmentent la synthèse rénale de vitamine D.",
+        "Ils augmentent directement l’élimination urinaire des phosphates.",
+        "Ils inhibent directement la synthèse du collagène."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Les œstrogènes augmentent la synthèse rénale de vitamine D. Les autres effets proposés ne sont pas rapportés dans le texte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle association différencie correctement l’hormone de croissance de l’excès d’hormones thyroïdiennes pour les phosphates ?",
+      "choices": [
+        "L’hormone de croissance augmente l’excrétion rénale des phosphates, alors que l’excès thyroïdien la diminue.",
+        "L’hormone de croissance diminue l’excrétion rénale des phosphates, alors que l’excès thyroïdien augmente leur élimination urinaire.",
+        "Les deux diminuent l’élimination urinaire des phosphates.",
+        "Les deux n’ont aucun effet mentionné sur l’élimination urinaire des phosphates."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La GH diminue l’excrétion rénale des phosphates, tandis que l’excès d’hormones thyroïdiennes augmente leur élimination urinaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel ensemble d’effets correspond aux glucocorticoïdes à fortes doses ?",
+      "choices": [
+        "Stimulation du collagène, augmentation de la formation osseuse, diminution de la calciurie.",
+        "Inhibition du collagène, diminution de la formation osseuse, augmentation de l’excrétion urinaire du calcium.",
+        "Augmentation de la masse osseuse totale, stimulation des cartilages, diminution de la phosphaturie.",
+        "Augmentation de la synthèse rénale de vitamine D, réduction de la résorption osseuse, augmentation de l’absorption calcique."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "À fortes doses, les glucocorticoïdes inhibent la synthèse du collagène, diminuent la formation osseuse et augmentent l’excrétion urinaire du calcium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les fonctions du calcium ionisé Ca++ décrites dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Il intervient dans la transmission de l’influx nerveux",
+        "Il participe à la contraction musculaire, y compris cardiaque",
+        "Il intervient dans la coagulation sanguine",
+        "Il constitue le principal tampon intracellulaire et urinaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcium ionisé intervient dans l’influx nerveux, la contraction musculaire et cardiaque, et la coagulation. Le rôle de principal tampon intracellulaire et urinaire est attribué aux phosphates."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des rôles cellulaires et endocriniens du calcium ionisé, quelles propositions sont justes ?",
+      "choices": [
+        "Il participe à la régulation des sécrétions, notamment hormonales",
+        "Il médie l’action cellulaire de nombreuses hormones",
+        "Il intervient dans l’activation enzymatique",
+        "Il entre dans la composition des acides nucléiques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcium ionisé intervient dans les sécrétions hormonales, la médiation de l’action hormonale et l’activation enzymatique. Les acides nucléiques relèvent des rôles des phosphates."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une calcémie totale normale mais un tableau clinique évocateur d’anomalie phosphocalcique, quels éléments du texte doivent faire discuter une anomalie du calcium ionisé ?",
+      "choices": [
+        "La calcémie totale dépend de la concentration plasmatique en protéines",
+        "La forme physiologiquement active est le calcium ionisé",
+        "Le pH et certains électrolytes modifient le degré de liaison aux protéines et d’ionisation",
+        "Une calcémie totale normale exclut toute anomalie responsable de manifestations neuromusculaires"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La calcémie totale peut être influencée par les protéines plasmatiques ; c’est le calcium ionisé qui est actif et responsable des manifestations cardiaques et neuromusculaires."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs sont cités comme influençant le degré de liaison du calcium aux protéines et son ionisation plasmatique ?",
+      "choices": [
+        "Le pH",
+        "Les bicarbonates",
+        "Les phosphates",
+        "Le magnésium"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise que le pH et les autres électrolytes, notamment bicarbonates, phosphates et magnésium, influencent la liaison protéique et l’ionisation du calcium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la distribution du calcium dans l’organisme, quelles propositions sont exactes ?",
+      "choices": [
+        "Environ 99 % du calcium total de l’organisme est contenu dans le squelette",
+        "Le calcium osseux est présent sous forme d’hydroxyapatite",
+        "Une fraction du calcium intracellulaire est localisée dans les mitochondries et le réticulum endoplasmique",
+        "La majorité du calcium de l’organisme est sous forme libre dans le cytosol"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La quasi-totalité du calcium est osseuse, sous forme d’hydroxyapatite. Une fraction intracellulaire est localisée dans les mitochondries et le réticulum endoplasmique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption intestinale du calcium, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Elle se fait principalement dans le duodénum et le jéjunum",
+        "Elle repose sur un mécanisme actif",
+        "Elle concerne environ 50 à 60 % du calcium ingéré",
+        "Elle est augmentée par les oxalates et les bases"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’absorption calcique est surtout duodéno-jéjunale, active, et concerne environ 50 à 60 % des apports. Les oxalates et les bases la diminuent."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le comportement rénal du calcium, quelles propositions sont exactes ?",
+      "choices": [
+        "Le calcium est filtré par le glomérule",
+        "Il est majoritairement réabsorbé au niveau tubulaire distal",
+        "En cas d’hypocalcémie, sa réabsorption rénale augmente sous l’effet de la parathormone et de la vitamine D",
+        "Sa réabsorption principale se fait au tube proximal comme celle du phosphore"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le calcium est filtré glomérulairement puis surtout réabsorbé au niveau distal. La PTH et la vitamine D augmentent cette réabsorption en cas d’hypocalcémie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs favorisent l’excrétion urinaire du calcium selon le texte ?",
+      "choices": [
+        "L’acidose",
+        "Le cortisol",
+        "L’hormone de croissance",
+        "L’hypocalcémie"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’excrétion urinaire du calcium est favorisée notamment par l’acidose, le cortisol et l’hormone de croissance. L’hypocalcémie stimule au contraire la réabsorption rénale calcique."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les rôles des phosphates, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils constituent le principal tampon intracellulaire et urinaire",
+        "Ils entrent dans la composition des acides nucléiques",
+        "Ils entrent dans la composition des phospholipides membranaires",
+        "Ils assurent directement la coagulation sanguine"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les phosphates sont des tampons intracellulaires et urinaires, et participent aux acides nucléiques et aux phospholipides membranaires. La coagulation sanguine est citée parmi les rôles du calcium."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les phosphates dans le métabolisme énergétique et enzymatique, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils participent au stockage et à la libération d’énergie sous forme d’ATP, ADP et AMP",
+        "Ils participent au stockage et à la libération d’énergie sous forme de GTP, GDP et GMP",
+        "Ils interviennent dans l’activation enzymatique via les protéines kinases",
+        "Ils jouent le rôle principal de tampon extracellulaire, à la place du bicarbonate"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les phosphates participent aux nucléotides énergétiques et à l’activation enzymatique via les protéines kinases. Le bicarbonate est le tampon majeur du secteur extracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Au pH physiologique de 7,4, quelles propositions décrivent correctement les formes plasmatiques du phosphate ?",
+      "choices": [
+        "La forme divalente HPO4-- représente environ 80 %",
+        "La forme monovalente H2PO4- représente environ 20 %",
+        "La forme trivalente PO4--- n’est présente qu’à l’état de traces",
+        "Des formes liées existent sous forme de phospholipides et de phosphoprotéines"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Au pH 7,4, les phosphates plasmatiques sont surtout HPO4--, puis H2PO4-, avec des traces de PO4--- ; ils existent aussi sous forme de phospholipides et phosphoprotéines."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’excrétion rénale du phosphore, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle résulte de la filtration glomérulaire",
+        "Elle dépend de la réabsorption tubulaire proximale",
+        "Environ 85 % du phosphore filtré est réabsorbé",
+        "En dessous d’une phosphatémie d’environ 22 mg/L, il n’y a plus de phosphates dans les urines"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le phosphore est filtré puis réabsorbé surtout au tube proximal ; environ 85 % est réabsorbé. C’est une substance à seuil : sous environ 22 mg/L, la phosphaturie disparaît."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’absorption et l’élimination digestive des phosphates, quelles propositions sont justes ?",
+      "choices": [
+        "Environ 70 % des phosphates ingérés sont absorbés",
+        "L’absorption se fait principalement dans la partie moyenne de l’intestin",
+        "Environ 30 % des phosphates sont éliminés dans les selles",
+        "La parathormone diminue l’absorption intestinale des phosphates"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Environ 70 % des phosphates sont absorbés, principalement dans la partie moyenne de l’intestin, et 30 % sont éliminés dans les selles. La PTH augmente leur absorption intestinale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la matrice osseuse et la minéralisation décrites dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "La matrice organique contient notamment du collagène, de la proline et de l’hydroxyproline",
+        "Des cristaux d’hydroxyapatite sont déposés sur la matrice organique",
+        "Les ostéoblastes synthétisent et sécrètent la matrice osseuse ainsi que les enzymes nécessaires à la calcification",
+        "L’os adulte n’est pas soumis à un renouvellement constant"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La matrice organique contient notamment collagène, proline et hydroxyproline ; l’hydroxyapatite s’y dépose. Les ostéoblastes synthétisent la matrice et les enzymes de calcification. L’os est en renouvellement constant."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal signal régulateur du métabolisme phosphocalcique selon le texte ?",
+      "choices": [
+        "La variation de la phosphatémie totale",
+        "La variation de la calcémie, en particulier du calcium ionisé",
+        "La variation de l’albuminémie seule",
+        "La variation de l’excrétion fécale des phosphates"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le principal signal régulateur est la variation de la calcémie, surtout celle du calcium ionisé."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la valeur normale de la calcémie totale indiquée dans le texte ?",
+      "choices": [
+        "25 à 45 mg/L, soit 1 à 2 mmol/L",
+        "50 à 60 mg/L, soit 1,25 à 1,50 mmol/L",
+        "90 à 100 mg/L, soit 2,25 à 2,50 mmol/L",
+        "120 à 150 mg/L, soit 3 à 3,75 mmol/L"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La calcémie totale normale est de 90 à 100 mg/L, soit 2,25 à 2,50 mmol/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal site d’absorption du calcium selon le texte ?",
+      "choices": [
+        "L’estomac",
+        "Le duodénum et le jéjunum",
+        "Le côlon droit",
+        "L’iléon terminal exclusivement"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’absorption du calcium se fait principalement dans le duodénum et le jéjunum."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la phosphatémie normale indiquée dans le texte ?",
+      "choices": [
+        "10 à 20 mg/L, soit 0,3 à 0,7 mmol/L",
+        "25 à 45 mg/L, soit 1 à 2 mmol/L",
+        "60 à 80 mg/L, soit 2,5 à 3 mmol/L",
+        "90 à 100 mg/L, soit 2,25 à 2,50 mmol/L"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La phosphatémie normale est de 25 à 45 mg/L, soit 1 à 2 mmol/L."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le principal site de réabsorption tubulaire du phosphore filtré ?",
+      "choices": [
+        "Le tube proximal",
+        "L’anse de Henle",
+        "Le tube distal",
+        "Le canal collecteur"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’élimination urinaire du phosphore résulte de la filtration glomérulaire et de la réabsorption tubulaire proximale."
+    },
+    {
+      "type": "QCS",
+      "question": "En dessous de quelle phosphatémie environ n’y a-t-il plus de phosphates dans les urines selon le texte ?",
+      "choices": [
+        "10 mg/L",
+        "22 mg/L",
+        "45 mg/L",
+        "80 mg/L"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le phosphore est une substance à seuil : en dessous d’une phosphatémie d’environ 22 mg/L, il n’y a plus de phosphates dans les urines."
+    }
+  ],
+  "status": "done",
+  "updatedAt": "2026-07-02T16:42:34.472Z"
+}

@@ -1,0 +1,496 @@
+body {
+  margin: 0;
+  background: #070817;
+  color: white;
+  font-family: Inter, Segoe UI, Arial, sans-serif;
+}
+
+.auth-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 430px;
+  padding: 34px;
+  border-radius: 28px;
+  background: rgba(255,255,255,0.07);
+  border: 1px solid rgba(255,255,255,0.12);
+  box-shadow: 0 30px 90px rgba(0,0,0,.4);
+}
+
+.auth-card h1 {
+  margin: 0 0 8px;
+  font-size: 34px;
+}
+
+.auth-card p {
+  color: #cbd5e1;
+  margin-bottom: 24px;
+}
+
+.auth-card input {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 14px;
+  padding: 15px;
+  border-radius: 16px;
+  border: none;
+  outline: none;
+  background: #111827;
+  color: white;
+  font-size: 15px;
+}
+
+.auth-card button {
+  width: 100%;
+  margin-top: 8px;
+  padding: 15px;
+  border: none;
+  border-radius: 18px;
+  background: linear-gradient(90deg, #7c3aed, #ec4899);
+  color: white;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.auth-card a {
+  display: block;
+  margin-top: 18px;
+  color: #93c5fd;
+  text-decoration: none;
+  text-align: center;
+  font-weight: 700;
+}
+
+/* =========================================================
+   SUPPORT PRÉ-INSCRIPTION PCR
+========================================================= */
+
+.support-box {
+  margin-top: 24px;
+  padding: 20px;
+  border: 1px solid rgba(139, 92, 246, 0.28);
+  border-radius: 20px;
+  background:
+    linear-gradient(
+      145deg,
+      rgba(124, 58, 237, 0.10),
+      rgba(15, 23, 42, 0.74)
+    );
+  box-shadow:
+    0 18px 45px rgba(0, 0, 0, 0.22),
+    inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+
+.support-heading {
+  display: flex;
+  align-items: flex-start;
+  gap: 13px;
+  margin-bottom: 18px;
+  text-align: left;
+}
+
+.support-heading-icon {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  min-width: 44px;
+  height: 44px;
+  border-radius: 14px;
+  font-size: 21px;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(124, 58, 237, 0.28),
+      rgba(219, 39, 119, 0.24)
+    );
+  border: 1px solid rgba(168, 85, 247, 0.35);
+}
+
+.support-heading h3 {
+  margin: 1px 0 5px;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 1.25;
+}
+
+.support-heading p {
+  margin: 0;
+  color: #aeb7cf;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.support-buttons {
+  display: grid;
+  gap: 11px;
+}
+
+.support-btn {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  min-height: 62px;
+  padding: 12px 15px;
+  border-radius: 15px;
+  text-decoration: none;
+  text-align: left;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.support-btn:hover {
+  transform: translateY(-2px);
+}
+
+.support-btn-icon {
+  display: grid;
+  place-items: center;
+  width: 38px;
+  min-width: 38px;
+  height: 38px;
+  border-radius: 12px;
+  font-size: 18px;
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.support-btn span:last-child {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.support-btn small {
+  color: rgba(255, 255, 255, 0.76);
+  font-size: 12px;
+}
+
+.support-btn strong {
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0.2px;
+}
+
+.support-phone {
+  background:
+    linear-gradient(
+      135deg,
+      rgba(37, 99, 235, 0.92),
+      rgba(79, 70, 229, 0.92)
+    );
+  border: 1px solid rgba(147, 197, 253, 0.25);
+  box-shadow: 0 10px 25px rgba(37, 99, 235, 0.18);
+}
+
+.support-phone:hover {
+  box-shadow: 0 15px 32px rgba(37, 99, 235, 0.30);
+}
+
+.support-whatsapp {
+  background:
+    linear-gradient(
+      135deg,
+      rgba(22, 163, 74, 0.94),
+      rgba(5, 150, 105, 0.94)
+    );
+  border: 1px solid rgba(134, 239, 172, 0.25);
+  box-shadow: 0 10px 25px rgba(22, 163, 74, 0.18);
+}
+
+.support-whatsapp:hover {
+  box-shadow: 0 15px 32px rgba(22, 163, 74, 0.30);
+}
+
+.support-footer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 16px;
+  padding-top: 15px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  text-align: left;
+}
+
+.support-footer > div {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.support-footer strong {
+  color: #f7f8ff;
+  font-size: 13px;
+}
+
+.support-footer small {
+  color: #8f9bb6;
+  font-size: 11px;
+}
+
+.support-status {
+  width: 10px;
+  min-width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #22c55e;
+  box-shadow: 0 0 12px rgba(34, 197, 94, 0.85);
+}
+
+.auth-secondary-link {
+  display: block;
+  margin-top: 20px;
+  color: #93b4ff;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+}
+
+.auth-secondary-link:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+@media (max-width: 540px) {
+  .support-box {
+    padding: 16px;
+  }
+
+  .support-btn {
+    min-height: 58px;
+    padding: 11px 12px;
+  }
+
+  .support-btn strong {
+    font-size: 14px;
+  }
+}
+
+/* =========================================================
+   PACKS D’ABONNEMENT
+========================================================= */
+
+.plans-section {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.plans-heading {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 16px;
+  text-align: left;
+}
+
+.plans-heading > span {
+  display: grid;
+  place-items: center;
+  width: 43px;
+  min-width: 43px;
+  height: 43px;
+  border-radius: 14px;
+  font-size: 21px;
+  background:
+    linear-gradient(
+      135deg,
+      rgba(124, 58, 237, 0.25),
+      rgba(219, 39, 119, 0.22)
+    );
+  border: 1px solid rgba(168, 85, 247, 0.34);
+}
+
+.plans-heading h2 {
+  margin: 0 0 5px;
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.plans-heading p {
+  margin: 0;
+  color: #98a3bd;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.plans-grid {
+  display: grid;
+  gap: 14px;
+}
+
+.plan-card {
+  position: relative;
+  display: block;
+  padding: 20px;
+  overflow: hidden;
+  cursor: pointer;
+  border: 1px solid rgba(148, 163, 184, 0.18);
+  border-radius: 20px;
+  background:
+    linear-gradient(
+      145deg,
+      rgba(17, 24, 39, 0.96),
+      rgba(15, 23, 42, 0.90)
+    );
+  text-align: left;
+  transition:
+    transform 0.2s ease,
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.plan-card:hover {
+  transform: translateY(-2px);
+}
+
+.plan-card input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.plan-check {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  display: none;
+  place-items: center;
+  width: 29px;
+  height: 29px;
+  border-radius: 50%;
+  color: #ffffff;
+  font-weight: 900;
+}
+
+.plan-card:has(input:checked) {
+  border-color: rgba(168, 85, 247, 0.82);
+  box-shadow:
+    0 0 0 2px rgba(139, 92, 246, 0.13),
+    0 18px 40px rgba(76, 29, 149, 0.24);
+}
+
+.plan-card:has(input:checked) .plan-check {
+  display: grid;
+  background:
+    linear-gradient(
+      135deg,
+      #7c3aed,
+      #db2777
+    );
+}
+
+.plan-badge {
+  display: inline-flex;
+  margin-bottom: 14px;
+  padding: 7px 11px;
+  border-radius: 999px;
+  color: #ddd6fe;
+  background: rgba(124, 58, 237, 0.17);
+  font-size: 11px;
+  font-weight: 800;
+}
+
+.plan-gold .plan-badge {
+  color: #fde68a;
+  background: rgba(245, 158, 11, 0.14);
+}
+
+.plan-name {
+  display: block;
+  margin-bottom: 8px;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.plan-price {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-bottom: 15px;
+}
+
+.plan-price strong {
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.plan-platinum .plan-price strong {
+  color: #c084fc;
+}
+
+.plan-gold .plan-price strong {
+  color: #fbbf24;
+}
+
+.plan-price span {
+  color: #9ca3af;
+  font-size: 12px;
+}
+
+.plan-card ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.plan-card li {
+  position: relative;
+  margin: 9px 0;
+  padding-left: 23px;
+  color: #cbd5e1;
+  font-size: 13px;
+}
+
+.plan-card li::before {
+  position: absolute;
+  left: 0;
+  content: "✓";
+  color: #4ade80;
+  font-weight: 900;
+}
+
+.payment-notice {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-top: 14px;
+  padding: 13px 14px;
+  border: 1px solid rgba(250, 204, 21, 0.16);
+  border-radius: 14px;
+  background: rgba(250, 204, 21, 0.06);
+  text-align: left;
+}
+
+.payment-notice p {
+  margin: 0;
+  color: #cbd5e1;
+  font-size: 12px;
+  line-height: 1.55;
+}
+
+@media (min-width: 760px) {
+  .auth-card {
+    width: min(720px, calc(100vw - 32px));
+  }
+
+  .plans-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .plan-card {
+    padding: 17px;
+  }
+
+  .plan-price strong {
+    font-size: 22px;
+  }
+}

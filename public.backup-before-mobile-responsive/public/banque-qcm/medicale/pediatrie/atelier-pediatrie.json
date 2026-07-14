@@ -1,0 +1,3124 @@
+{
+  "category": "medicale",
+  "module": "pediatrie",
+  "courseId": 210,
+  "courseTitle": "Atelier Pediatrie 1",
+  "supportTitle": "atelier-pediatrie",
+  "supportType": "docx",
+  "supportUrl": "/pdfs/medicale-pdf/pediatrie.pdf/atelier-pediatrie.docx",
+  "target": {
+    "total": 500,
+    "qcm": 350,
+    "qcs": 150
+  },
+  "generated": {
+    "total": 200,
+    "qcm": 140,
+    "qcs": 60
+  },
+  "questions": [
+    {
+      "type": "QCM",
+      "question": "Par rapport au lait maternel, quelles caractéristiques du lait de vache sont exactes ?",
+      "choices": [
+        "Il contient davantage de protéines",
+        "Il contient davantage de lactose",
+        "Il contient moins d’acides gras insaturés",
+        "Sa charge osmolaire est plus faible"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le lait de vache contient plus de protéines, moins de lactose, moins d’acides gras insaturés, davantage de sels minéraux et une charge osmolaire plus élevée que le lait maternel."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’allaitement maternel du nourrisson, quelles propositions sont exactes ?",
+      "choices": [
+        "Il doit idéalement être proposé dès la première heure de vie",
+        "Il couvre les besoins nutritionnels du nourrisson jusqu’à 6 mois en allaitement exclusif",
+        "Les tétées doivent idéalement être strictement espacées",
+        "Des selles liquides postprandiales peuvent être physiologiques chez le nourrisson allaité"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le lait maternel doit être proposé précocement, idéalement dans la première heure, couvre les besoins jusqu’à 6 mois en exclusif, et les tétées sont idéalement à la demande. Des selles liquides postprandiales peuvent être physiologiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre pathologie et lait spécifique sont correctes ?",
+      "choices": [
+        "Allergie aux protéines du lait de vache : hydrolysat poussé de protéines ou formule aux acides aminés selon la sévérité",
+        "Cholestase : lait enrichi en triglycérides à chaînes moyennes",
+        "Phénylcétonurie : lait riche en phénylalanine",
+        "Galactosémie congénitale : lait sans lactose et sans galactose"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’allergie aux protéines du lait de vache justifie un hydrolysat poussé ou une formule aux acides aminés. La cholestase justifie un lait enrichi en TCM. La phénylcétonurie nécessite un lait pauvre en phénylalanine. La galactosémie impose un lait sans lactose et sans galactose."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments sont compatibles avec un ictère physiologique du nouveau-né ?",
+      "choices": [
+        "Apparition après les premières 24 heures de vie",
+        "Bilirubine principalement non conjuguée",
+        "Présence de selles décolorées",
+        "Disparition spontanée en général en 10 à 15 jours"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’ictère physiologique apparaît après 24 heures, est à bilirubine principalement non conjuguée, sans selles décolorées ni signes d’anémie ou d’hépatosplénomégalie, et disparaît généralement en 10 à 15 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les ictères pathologiques du nouveau-né, quelles propositions sont exactes ?",
+      "choices": [
+        "L’incompatibilité Rhésus peut associer anémie sévère, test de Coombs positif et hyperbilirubinémie indirecte",
+        "L’incompatibilité ABO donne habituellement une hyperbilirubinémie conjuguée",
+        "La cholestase néonatale associe hépatomégalie, selles décolorées, urines foncées et hyperbilirubinémie conjuguée",
+        "L’hépatite néonatale peut s’accompagner d’une bilirubine mixte ou conjuguée"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’incompatibilité Rhésus donne une anémie sévère, un Coombs positif et une hyperbilirubinémie indirecte. L’incompatibilité ABO donne aussi une hyperbilirubinémie indirecte, avec anémie souvent modérée. La cholestase donne une hyperbilirubinémie conjuguée avec selles décolorées et urines foncées. L’hépatite néonatale peut donner une bilirubine mixte ou conjuguée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations relèvent d’une prévention par immunoglobulines anti-D chez une femme Rhésus négatif non immunisée lorsqu’il existe un risque d’hématies fœtales Rhésus positives ?",
+      "choices": [
+        "Après accouchement d’un nouveau-né Rhésus positif, idéalement avant 72 heures",
+        "Après fausse couche",
+        "Après geste invasif ou manipulation utérine",
+        "Uniquement en cas d’ictère physiologique du nouveau-né"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les immunoglobulines anti-D sont indiquées après accouchement d’un nouveau-né Rh positif chez une femme Rh négatif non immunisée, idéalement avant 72 heures, ainsi qu’après avortement, fausse couche, grossesse extra-utérine, geste invasif ou manipulation utérine s’il existe un risque de passage d’hématies fœtales Rh positives."
+    },
+    {
+      "type": "QCM",
+      "question": "À 6 mois, quelles acquisitions psychomotrices peuvent être attendues ?",
+      "choices": [
+        "Mise à la bouche des objets",
+        "Passage des objets d’une main à l’autre",
+        "Babillage",
+        "Marche autonome"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À 6 mois, on peut attendre la mise à la bouche des objets, le passage d’une main à l’autre, le babillage, la préhension digitopalmaire, l’appui sur les avant-bras, le retournement et la position assise avec appui. La marche autonome survient entre 12 et 18 mois."
+    },
+    {
+      "type": "QCM",
+      "question": "À 12 mois, quels éléments sont évocateurs d’un retard psychomoteur ?",
+      "choices": [
+        "Absence de préhension d’un objet présenté",
+        "Absence de vocalisation syllabique",
+        "Absence de passage d’un objet d’une main à l’autre",
+        "Absence isolée de marche autonome si les autres acquisitions sont présentes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À 12 mois, l’absence de préhension d’un objet présenté, de vocalisation syllabique, de passage d’un objet d’une main à l’autre ou de tentative de pince pouce-index est évocatrice de retard. L’absence de marche autonome à 12 mois n’est pas forcément pathologique si les autres acquisitions sont présentes."
+    },
+    {
+      "type": "QCM",
+      "question": "En salle de naissance, quels signes doivent faire suspecter une atrésie de l’œsophage ?",
+      "choices": [
+        "Hypersalivation",
+        "Détresse respiratoire précoce",
+        "Toux, cyanose ou fausses routes lors des tentatives d’alimentation",
+        "Disparition spontanée des symptômes en 10 à 15 jours"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’atrésie de l’œsophage doit être suspectée devant une hypersalivation, une détresse respiratoire précoce, une toux, une cyanose ou des fausses routes lors des tentatives d’alimentation."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le diagnostic et la classification de l’atrésie de l’œsophage, quelles propositions sont exactes ?",
+      "choices": [
+        "Le diagnostic est confirmé par l’impossibilité de faire progresser une sonde gastrique jusqu’à l’estomac",
+        "La radiographie thoraco-abdominale avec sonde en place permet d’identifier le cul-de-sac œsophagien supérieur",
+        "L’aération digestive d’aval peut aider à préciser le type d’atrésie et la présence d’une fistule trachéo-œsophagienne",
+        "Le type I de Ladd correspond à une atrésie œsophagienne avec fistule"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic repose sur l’impossibilité de progression de la sonde gastrique. La radiographie avec sonde en place identifie le cul-de-sac supérieur et évalue l’aération digestive d’aval. Le type I de Ladd correspond à une atrésie sans fistule."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes cliniques sont compatibles avec une hernie diaphragmatique congénitale néonatale ?",
+      "choices": [
+        "Détresse respiratoire néonatale précoce",
+        "Abdomen plat ou excavé",
+        "Bruits du cœur déplacés",
+        "Augmentation symétrique du murmure vésiculaire des deux côtés"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La hernie diaphragmatique congénitale peut se manifester par une détresse respiratoire précoce, un abdomen plat ou excavé, une asymétrie thoracique, des bruits du cœur déplacés et une diminution du murmure vésiculaire du côté atteint."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge initiale d’une hernie diaphragmatique congénitale, quelles propositions sont exactes ?",
+      "choices": [
+        "La ventilation au masque est contre-indiquée",
+        "Une sonde gastrique en aspiration doit être posée",
+        "La stabilisation cardiorespiratoire précède la prise en charge chirurgicale",
+        "La distension digestive intrathoracique est recherchée par ventilation au masque"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La ventilation au masque est contre-indiquée car elle aggrave la distension digestive intrathoracique. Les mesures initiales comprennent oxygénothérapie ou intubation selon la gravité, sonde gastrique en aspiration, réchauffement et stabilisation cardiorespiratoire avant chirurgie."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez le nourrisson présentant une diarrhée aiguë aqueuse, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle est le plus souvent virale, notamment liée au rotavirus",
+        "Les yeux cernés ou enfoncés évoquent une déshydratation extracellulaire",
+        "La sécheresse des muqueuses est plutôt évocatrice de déshydratation intracellulaire",
+        "Les solutés de réhydratation orale sont réservés aux déshydratations sévères avec hypotension"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diarrhée aiguë aqueuse du nourrisson est le plus souvent virale, notamment à rotavirus. Les yeux cernés, le pli cutané persistant, la fontanelle déprimée et les troubles hémodynamiques évoquent une déshydratation extracellulaire. La sécheresse des muqueuses évoque plutôt une déshydratation intracellulaire. Les SRO sont indiqués en prévention et dans les déshydratations légères à modérées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le syndrome de West, quelles propositions sont exactes ?",
+      "choices": [
+        "Il est défini par des spasmes infantiles, un retard ou une régression psychomotrice et une hypsarythmie à l’EEG",
+        "Les spasmes peuvent être en flexion ou en extension des quatre membres",
+        "Les spasmes sont souvent groupés en salves et durent quelques secondes",
+        "Il exclut tout retard intellectuel ou régression du développement"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le syndrome de West associe spasmes infantiles, retard ou régression psychomotrice et hypsarythmie à l’EEG. Les spasmes sont brefs, souvent en salves, en flexion ou extension des membres et de la nuque. Il peut s’accompagner d’un retard intellectuel ou d’une régression."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement la charge osmolaire du lait de vache par rapport au lait maternel ?",
+      "choices": [
+        "Elle est plus élevée",
+        "Elle est plus faible",
+        "Elle est identique",
+        "Elle dépend uniquement du lactose"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le lait de vache a une charge osmolaire plus élevée que le lait maternel."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément est le plus compatible avec un ictère physiologique du nouveau-né ?",
+      "choices": [
+        "Apparition durant les premières 24 heures de vie",
+        "Selles décolorées",
+        "Bilirubine principalement non conjuguée",
+        "Hépatosplénomégalie"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "L’ictère physiologique apparaît après les premières 24 heures, est principalement à bilirubine non conjuguée et ne s’accompagne pas de selles décolorées ni d’hépatosplénomégalie."
+    },
+    {
+      "type": "QCS",
+      "question": "À quel âge la pince pouce-index apparaît-elle habituellement selon les repères donnés ?",
+      "choices": [
+        "Environ 2 mois",
+        "Vers 6 mois",
+        "Vers 9 mois",
+        "Entre 12 et 18 mois"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La pince pouce-index apparaît vers 9 mois."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans une hernie diaphragmatique congénitale, quelle mesure est contre-indiquée car elle aggrave la distension digestive intrathoracique ?",
+      "choices": [
+        "Oxygénothérapie",
+        "Ventilation au masque",
+        "Pose d’une sonde gastrique en aspiration",
+        "Réchauffement"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La ventilation au masque est contre-indiquée dans la hernie diaphragmatique congénitale car elle aggrave la distension digestive intrathoracique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle manifestation n’est pas une manifestation habituelle du rachitisme selon le texte ?",
+      "choices": [
+        "Chapelet costal",
+        "Déformations thoraciques",
+        "Hypotonie musculaire",
+        "Paralysie diaphragmatique"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Les manifestations thoraciques du rachitisme comprennent chapelet costal, déformations thoraciques, hypotonie musculaire et fragilité respiratoire possible. La paralysie diaphragmatique n’est pas habituelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel tableau évoque le plus une cholestase néonatale ?",
+      "choices": [
+        "Anémie sévère, test de Coombs positif et hyperbilirubinémie indirecte",
+        "Hépatomégalie, selles décolorées, urines foncées et hyperbilirubinémie conjuguée",
+        "Disparition spontanée de l’ictère en 10 à 15 jours sans anomalie associée",
+        "Anémie souvent modérée avec hyperbilirubinémie indirecte"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La cholestase néonatale associe hépatomégalie, selles décolorées, urines foncées et hyperbilirubinémie conjuguée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la définition d’une convulsion fébrile chez l’enfant, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle survient dans un contexte de fièvre",
+        "Elle implique obligatoirement une infection du système nerveux central",
+        "Elle peut être retenue en l’absence de trouble métabolique aigu",
+        "Elle suppose l’absence d’antécédent de convulsions non fébriles"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Une convulsion fébrile survient avec fièvre, sans infection du système nerveux central, sans trouble métabolique aigu et sans antécédent de convulsions non fébriles."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels critères sont compatibles avec une convulsion fébrile simple ?",
+      "choices": [
+        "Crise généralisée",
+        "Durée inférieure à 15 minutes",
+        "Récidive dans les 24 heures",
+        "Examen neurologique normal"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La convulsion fébrile simple est généralisée, dure moins de 15 minutes, est unique en 24 heures, avec examen neurologique normal."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments orientent vers une convulsion fébrile complexe ?",
+      "choices": [
+        "Crise focale ou partielle",
+        "Durée supérieure à 15 minutes",
+        "Absence de déficit postcritique",
+        "Retard de développement associé"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Une convulsion fébrile complexe peut être prolongée, focale, récidivante dans les 24 heures, associée à un déficit postcritique, un examen neurologique anormal ou un retard de développement."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un nourrisson de moins de 1 an ayant présenté une convulsion fébrile, dans quelles situations la ponction lombaire doit-elle être discutée largement ?",
+      "choices": [
+        "En cas de doute clinique",
+        "En cas de vaccination incomplète",
+        "En présence de signes évocateurs d’infection neuroméningée",
+        "Du seul fait que la crise a été fébrile"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez le nourrisson de moins de 1 an, la ponction lombaire se discute largement surtout en cas de doute clinique, vaccination incomplète ou signes d’infection neuroméningée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les examens et le traitement initial d’une convulsion fébrile, quelles propositions sont exactes ?",
+      "choices": [
+        "Un EEG peut être indiqué en cas de convulsion fébrile complexe",
+        "Un EEG est systématiquement indiqué après toute convulsion fébrile simple",
+        "Une benzodiazépine est indiquée en première intention si la crise persiste au-delà de 5 minutes",
+        "La carbamazépine est un traitement de première intention de la crise convulsive aiguë"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "L’EEG peut être indiqué dans les convulsions fébriles complexes. En crise aiguë prolongée au-delà de 5 minutes, une benzodiazépine est utilisée en première intention. La carbamazépine n’est pas un traitement de première intention."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles benzodiazépines ou voies d’administration sont citées comme options de première intention dans une crise convulsive aiguë prolongée ?",
+      "choices": [
+        "Diazépam intrarectal",
+        "Midazolam buccal ou intranasal",
+        "Clonazépam selon les protocoles",
+        "Carbamazépine per os"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les benzodiazépines citées sont le diazépam intrarectal, le midazolam buccal ou intranasal et le clonazépam selon les protocoles. La carbamazépine n’est pas un traitement de première intention de la crise aiguë."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une convulsion fébrile, quelles propositions sont exactes ?",
+      "choices": [
+        "Le risque de récidive lors d’un nouvel épisode fébrile est augmenté",
+        "Un traitement antiépileptique de fond est indiqué après une convulsion fébrile simple",
+        "Un traitement de secours par benzodiazépine peut être prescrit si les crises sont prolongées",
+        "Le risque ultérieur d’épilepsie est faible après une convulsion fébrile simple"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Après une convulsion fébrile, le risque de récidive fébrile augmente. Un traitement de fond n’est pas indiqué après une forme simple. Une benzodiazépine de secours peut être proposée si les crises sont prolongées."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs augmentent le risque ultérieur d’épilepsie après une convulsion fébrile ?",
+      "choices": [
+        "Convulsion fébrile complexe",
+        "Anomalies neurologiques",
+        "Antécédents familiaux d’épilepsie",
+        "Convulsion fébrile simple isolée sans autre facteur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le risque d’épilepsie est faible après une convulsion fébrile simple, mais augmente en cas de convulsion complexe, d’anomalies neurologiques ou d’antécédents familiaux d’épilepsie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la maladie cœliaque, quelles propositions sont exactes ?",
+      "choices": [
+        "C’est une entéropathie auto-immune induite par le gluten",
+        "Elle survient chez un sujet génétiquement prédisposé",
+        "La diarrhée est constante",
+        "Elle peut s’accompagner d’une anémie notamment ferriprive"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "La maladie cœliaque est une entéropathie auto-immune induite par le gluten chez un sujet génétiquement prédisposé. La diarrhée n’est pas constante. Une anémie, notamment ferriprive, est possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles manifestations peuvent faire évoquer une maladie cœliaque ?",
+      "choices": [
+        "Diarrhée chronique ou intermittente",
+        "Cassure pondérale",
+        "Retard statural",
+        "Déficit postcritique après une crise fébrile"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie cœliaque peut se manifester par diarrhée chronique ou intermittente, cassure pondérale, retard statural, ballonnement, douleurs abdominales, anorexie, anémie ou asthénie."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels examens biologiques participent au diagnostic de maladie cœliaque selon le texte ?",
+      "choices": [
+        "Anticorps anti-transglutaminase IgA",
+        "Anticorps anti-endomysium",
+        "Dosage des IgA totales",
+        "Dosage systématique des benzodiazépines sanguines"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic repose notamment sur les anticorps anti-transglutaminase IgA, les anticorps anti-endomysium et le dosage des IgA totales."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles lésions histologiques duodénales sont compatibles avec le diagnostic de maladie cœliaque ?",
+      "choices": [
+        "Atrophie villositaire souvent totale ou subtotale",
+        "Hyperplasie cryptique",
+        "Lymphocytose intraépithéliale",
+        "Biopsies duodénales strictement normales"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les biopsies duodénales montrent une atrophie villositaire souvent totale ou subtotale, avec hyperplasie cryptique et lymphocytose intraépithéliale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prise en charge et les manifestations de la maladie cœliaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Le traitement repose sur un régime strict sans gluten",
+        "Un régime partiellement pauvre en gluten suffit selon le texte",
+        "L’anorexie et l’asthénie peuvent faire partie du tableau clinique",
+        "Le traitement repose sur une benzodiazépine de secours"
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "Le traitement de la maladie cœliaque repose sur un régime strict sans gluten. L’anorexie et l’asthénie font partie des manifestations possibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels vaccins sont des vaccins vivants atténués selon le texte ?",
+      "choices": [
+        "BCG",
+        "Vaccin antirougeoleux, notamment dans le ROR",
+        "Vaccin antigrippal vivant atténué intranasal lorsqu’il est utilisé",
+        "Vaccin antitétanique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vaccins vivants atténués cités sont le BCG, le vaccin antirougeoleux notamment dans le ROR, et le vaccin antigrippal vivant atténué intranasal lorsqu’il est utilisé. Le vaccin antitétanique est non vivant."
+    },
+    {
+      "type": "QCS",
+      "question": "Au-delà de quelle durée de persistance d’une crise convulsive aiguë une benzodiazépine est-elle indiquée en première intention ?",
+      "choices": [
+        "1 minute",
+        "5 minutes",
+        "15 minutes",
+        "24 heures"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Une benzodiazépine est indiquée en première intention si la crise persiste au-delà de 5 minutes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément suffit à classer une convulsion fébrile comme complexe selon les critères donnés ?",
+      "choices": [
+        "Crise généralisée de moins de 15 minutes",
+        "Épisode unique en 24 heures",
+        "Déficit postcritique",
+        "Développement psychomoteur normal"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La présence d’un déficit postcritique est un critère de convulsion fébrile complexe."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel médicament n’est pas un traitement de première intention de la crise convulsive aiguë selon le texte ?",
+      "choices": [
+        "Diazépam intrarectal",
+        "Midazolam intranasal",
+        "Clonazépam selon les protocoles",
+        "Carbamazépine"
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "La carbamazépine n’est pas un traitement de première intention de la crise convulsive aiguë."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement l’aspect histologique attendu dans la maladie cœliaque ?",
+      "choices": [
+        "Atrophie villositaire avec hyperplasie cryptique et lymphocytose intraépithéliale",
+        "Biopsies duodénales normales avec absence de lymphocytose",
+        "Atrophie cryptique isolée sans atteinte villositaire",
+        "Lésion neurologique centrale inflammatoire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le diagnostic histologique repose sur des biopsies duodénales montrant une atrophie villositaire, souvent totale ou subtotale, avec hyperplasie cryptique et lymphocytose intraépithéliale."
+    },
+    {
+      "type": "QCS",
+      "question": "Concernant la diarrhée dans la maladie cœliaque, quelle proposition est exacte ?",
+      "choices": [
+        "Elle est obligatoire pour poser le diagnostic",
+        "Elle n’est pas constante",
+        "Elle exclut le diagnostic lorsqu’elle est intermittente",
+        "Elle remplace les examens sérologiques"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La diarrhée chronique ou intermittente est possible dans la maladie cœliaque, mais elle n’est pas constante."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les vaccins suivants, lequel est un vaccin non vivant selon le texte ?",
+      "choices": [
+        "BCG",
+        "Vaccin antirougeoleux du ROR",
+        "Vaccin antitétanique",
+        "Vaccin antigrippal vivant atténué intranasal"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le vaccin antitétanique est cité parmi les vaccins non vivants. Le BCG, le vaccin antirougeoleux du ROR et le vaccin antigrippal vivant atténué intranasal sont des vaccins vivants atténués."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’allergie aux protéines du lait de vache, quelles formules peuvent être indiquées selon le texte ?",
+      "choices": [
+        "Hydrolysat poussé de protéines",
+        "Hydrolysat de caséine",
+        "Formule aux acides aminés selon la sévérité",
+        "Lait enrichi en triglycérides à chaînes moyennes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’allergie aux protéines du lait de vache relève d’un hydrolysat poussé, notamment de caséine, ou d’une formule aux acides aminés selon la sévérité. Le lait enrichi en TCM est indiqué dans la cholestase."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un nouveau-né ictérique présentant une hyperbilirubinémie indirecte associée à une anémie, quelles étiologies du texte sont à évoquer ?",
+      "choices": [
+        "Incompatibilité Rhésus",
+        "Incompatibilité ABO",
+        "Cholestase néonatale",
+        "Hépatite néonatale"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Les incompatibilités Rhésus et ABO donnent une hyperbilirubinémie indirecte avec anémie, sévère dans le Rhésus et souvent modérée dans l’ABO."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’hépatite néonatale décrite dans le texte, quelles propositions sont exactes ?",
+      "choices": [
+        "Une hypotrophie est possible",
+        "Il existe une atteinte hépatique",
+        "La bilirubine peut être mixte ou conjuguée",
+        "Elle est caractérisée par un test de Coombs positif"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’hépatite néonatale peut comporter une hypotrophie, une atteinte hépatique et une bilirubine mixte ou conjuguée. Le test de Coombs positif est cité pour l’incompatibilité Rhésus."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour la prévention de l’iso-immunisation Rhésus, quelles conditions ou modalités sont correctes ?",
+      "choices": [
+        "Elle concerne une femme Rhésus négatif non immunisée",
+        "Elle est indiquée après accouchement d’un nouveau-né Rhésus positif",
+        "L’injection post-partum est idéalement réalisée avant 72 heures",
+        "Elle n’est indiquée que si le nouveau-né présente un ictère clinique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les immunoglobulines anti-D sont indiquées chez une femme Rhésus négatif non immunisée après naissance d’un nouveau-né Rhésus positif, idéalement avant 72 heures, indépendamment de l’existence d’un ictère."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les repères psychomoteurs suivants, quelles associations âge-acquisition sont conformes au texte ?",
+      "choices": [
+        "Station assise sans appui vers 8 à 9 mois",
+        "Pince pouce-index vers 9 mois",
+        "Premiers mots vers 12 mois",
+        "Marche autonome entre 12 et 18 mois"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre repères correspondent aux âges indiqués : station assise sans appui vers 8-9 mois, pince pouce-index vers 9 mois, premiers mots vers 12 mois et marche autonome entre 12 et 18 mois."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’atrésie de l’œsophage, quel est l’intérêt de la radiographie thoraco-abdominale avec sonde en place ?",
+      "choices": [
+        "Identifier le cul-de-sac œsophagien supérieur",
+        "Évaluer l’aération digestive d’aval",
+        "Aider à préciser le type d’atrésie",
+        "Apprécier la présence d’une fistule trachéo-œsophagienne"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La radiographie avec sonde en place permet de visualiser le cul-de-sac supérieur et l’aération digestive d’aval, utile pour préciser le type d’atrésie et la présence d’une fistule trachéo-œsophagienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une hernie diaphragmatique congénitale néonatale, quels éléments cliniques sont compatibles avec le diagnostic ?",
+      "choices": [
+        "Abdomen plat ou excavé",
+        "Asymétrie thoracique avec hémithorax distendu",
+        "Bruits du cœur déplacés",
+        "Hypersalivation isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La hernie diaphragmatique congénitale peut donner un abdomen plat ou excavé, une asymétrie thoracique, des bruits du cœur déplacés et une diminution du murmure vésiculaire. L’hypersalivation évoque plutôt l’atrésie de l’œsophage."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prise en charge initiale d’une hernie diaphragmatique congénitale, quelles propositions sont exactes ?",
+      "choices": [
+        "Une sonde gastrique en aspiration doit être posée",
+        "Le réchauffement fait partie des mesures initiales",
+        "La stabilisation cardiorespiratoire précède la prise en charge chirurgicale",
+        "La ventilation au masque est recommandée pour corriger rapidement la détresse respiratoire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prise en charge initiale associe sonde gastrique en aspiration, réchauffement et stabilisation cardiorespiratoire avant chirurgie. La ventilation au masque est contre-indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes orientent vers une déshydratation extracellulaire chez le nourrisson diarrhéique ?",
+      "choices": [
+        "Yeux cernés ou enfoncés",
+        "Pli cutané persistant",
+        "Dépression de la fontanelle antérieure",
+        "Sécheresse des muqueuses comme signe principal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les yeux enfoncés, le pli cutané persistant et la dépression de la fontanelle antérieure sont des signes de déshydratation extracellulaire. La sécheresse des muqueuses évoque plutôt une déshydratation intracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la diarrhée aiguë du nourrisson, quels éléments traduisent des troubles hémodynamiques de déshydratation ?",
+      "choices": [
+        "Tachycardie",
+        "Marbrures",
+        "Allongement du temps de recoloration cutanée",
+        "Hypotension dans les formes sévères"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les troubles hémodynamiques comprennent tachycardie, marbrures, allongement du temps de recoloration cutanée et hypotension dans les formes sévères."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles situations constituent des indications des solutés de réhydratation orale selon le texte ?",
+      "choices": [
+        "Diarrhée aqueuse",
+        "Déshydratation légère à modérée",
+        "Déshydratation autour de 5 %",
+        "Cholestase néonatale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les SRO sont indiqués dans la diarrhée aqueuse, la déshydratation légère à modérée notamment autour de 5 %, et en prévention de la déshydratation. La cholestase relève d’un lait enrichi en TCM."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles manifestations thoraciques ou respiratoires sont décrites dans le rachitisme ?",
+      "choices": [
+        "Chapelet costal",
+        "Déformations thoraciques",
+        "Hypotonie musculaire",
+        "Fragilité respiratoire possible"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le rachitisme peut se manifester par un chapelet costal, des déformations thoraciques, une hypotonie musculaire et une fragilité respiratoire possible."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les spasmes du syndrome de West, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être en flexion ou en extension des quatre membres",
+        "Ils peuvent comporter une flexion ou une extension de la nuque",
+        "Ils sont souvent groupés en salves",
+        "Ils sont brefs, durant environ quelques secondes"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les spasmes infantiles du syndrome de West sont brefs, souvent en salves, avec flexion ou extension des membres et de la nuque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les formes et le retentissement du syndrome de West, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut être idiopathique",
+        "Il peut être cryptogénique",
+        "Il peut être symptomatique",
+        "Il peut s’accompagner d’un retard intellectuel ou d’une régression du développement"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le syndrome de West peut être idiopathique, cryptogénique ou symptomatique, et s’accompagner d’un retard intellectuel ou d’une régression du développement."
+    },
+    {
+      "type": "QCS",
+      "question": "Après l’accouchement d’un nouveau-né Rhésus positif chez une femme Rhésus négatif non immunisée, quel est le délai idéal d’injection des immunoglobulines anti-D ?",
+      "choices": [
+        "Avant 24 heures uniquement",
+        "Avant 72 heures",
+        "Après 10 à 15 jours",
+        "Uniquement au-delà du premier mois"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’injection d’immunoglobulines anti-D est idéalement réalisée avant 72 heures après l’accouchement."
+    },
+    {
+      "type": "QCS",
+      "question": "À quel âge la station assise sans appui est-elle habituellement attendue selon le texte ?",
+      "choices": [
+        "Vers 2 mois",
+        "Vers 6 mois",
+        "Vers 8 à 9 mois",
+        "Entre 12 et 18 mois"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La station assise sans appui est attendue vers 8 à 9 mois."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez le nourrisson, quelle est l’étiologie la plus fréquente de la diarrhée aiguë aqueuse selon le texte ?",
+      "choices": [
+        "Virale, notamment liée au rotavirus",
+        "Cholestatique",
+        "Allergique aux protéines du lait de vache",
+        "Liée à une galactosémie congénitale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La diarrhée aiguë aqueuse du nourrisson est le plus souvent virale, notamment liée au rotavirus."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans l’évaluation d’un nourrisson diarrhéique, la sécheresse des muqueuses évoque plutôt quel type de déshydratation ?",
+      "choices": [
+        "Déshydratation extracellulaire",
+        "Déshydratation intracellulaire",
+        "Déshydratation absente",
+        "Déshydratation exclusivement hémorragique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La sécheresse des muqueuses est plutôt évocatrice d’une déshydratation intracellulaire."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la hernie diaphragmatique congénitale, quel examen confirme le diagnostic selon le texte ?",
+      "choices": [
+        "Radiographie thoracique",
+        "Électroencéphalogramme",
+        "Test de Coombs",
+        "Biopsie duodénale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le diagnostic de hernie diaphragmatique congénitale est confirmé par la radiographie thoracique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel lait spécifique est indiqué dans la phénylcétonurie selon le texte ?",
+      "choices": [
+        "Lait enrichi en triglycérides à chaînes moyennes",
+        "Lait pauvre en phénylalanine",
+        "Lait sans lactose et sans galactose",
+        "Hydrolysat poussé de caséine"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La phénylcétonurie nécessite un lait pauvre en phénylalanine."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une crise convulsive survenant avec fièvre, quels éléments excluent le diagnostic de convulsion fébrile selon la définition donnée ?",
+      "choices": [
+        "Une infection du système nerveux central",
+        "Un trouble métabolique aigu",
+        "Des antécédents de convulsions non fébriles",
+        "Un contexte fébrile isolé sans signe neurologique décrit"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La convulsion fébrile est définie par une crise en contexte de fièvre, sans infection du SNC, sans trouble métabolique aigu et sans antécédent de convulsions non fébriles."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour classer une convulsion fébrile, quels paramètres doivent être recherchés car ils modifient la distinction entre forme simple et forme complexe ?",
+      "choices": [
+        "La durée de la crise",
+        "Le caractère généralisé ou focal de la crise",
+        "La récidive dans les 24 heures",
+        "L’existence d’un déficit postcritique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La durée, la focalité, la récidive en 24 heures et le déficit postcritique font partie des critères distinguant convulsion fébrile simple et complexe."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments neurologiques sont nécessaires pour retenir une convulsion fébrile simple ?",
+      "choices": [
+        "Un examen neurologique normal",
+        "L’absence de déficit postcritique",
+        "Un développement psychomoteur normal",
+        "Une crise partielle isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La convulsion fébrile simple associe notamment examen neurologique normal, absence de déficit postcritique et développement psychomoteur normal. Une crise partielle est un critère de complexité."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la convulsion fébrile complexe, quelles propositions sont exactes ?",
+      "choices": [
+        "Un EEG peut être indiqué",
+        "Une durée supérieure à 15 minutes est un critère de complexité",
+        "Le phénobarbital est systématiquement le traitement de première intention",
+        "La carbamazépine n’est pas un traitement de première intention de la crise convulsive aiguë"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Une convulsion fébrile complexe peut justifier un EEG. Une durée > 15 minutes est un critère de complexité. Le traitement initial d’une crise prolongée repose sur une benzodiazépine, non sur la carbamazépine."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le traitement d’une crise convulsive aiguë persistante, quelles propositions respectent la hiérarchie thérapeutique décrite ?",
+      "choices": [
+        "Une benzodiazépine est indiquée en première intention si la crise persiste au-delà de 5 minutes",
+        "Le diazépam intrarectal fait partie des options citées",
+        "Le phénobarbital peut être utilisé en seconde ligne selon le contexte",
+        "La carbamazépine est l’antiépileptique recommandé en première intention"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au-delà de 5 minutes, une benzodiazépine est indiquée en première intention. Le phénobarbital ou un autre antiépileptique peut relever de la seconde ligne. La carbamazépine n’est pas un traitement de première intention."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une convulsion fébrile, quelles affirmations pronostiques sont exactes ?",
+      "choices": [
+        "Le risque de récidive lors d’un nouvel épisode fébrile est augmenté",
+        "Le risque ultérieur d’épilepsie est faible après une convulsion fébrile simple",
+        "Le risque d’épilepsie augmente en cas d’anomalies neurologiques",
+        "Le risque d’épilepsie augmente en cas d’antécédents familiaux d’épilepsie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte précise une augmentation du risque de récidive fébrile. Le risque d’épilepsie reste faible après une forme simple, mais augmente avec les formes complexes, les anomalies neurologiques ou les antécédents familiaux d’épilepsie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la nature de la maladie cœliaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une entéropathie auto-immune",
+        "Elle est induite par le gluten",
+        "Elle survient chez un sujet génétiquement prédisposé",
+        "Elle peut être évoquée même en l’absence de diarrhée constante"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La maladie cœliaque est une entéropathie auto-immune induite par le gluten chez un sujet génétiquement prédisposé. La diarrhée n’est pas constante."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la maladie cœliaque, quels signes traduisent un retentissement nutritionnel ou général possible ?",
+      "choices": [
+        "Cassure pondérale",
+        "Retard statural",
+        "Anorexie",
+        "Anémie notamment ferriprive"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La maladie cœliaque peut se manifester par une cassure pondérale, un retard statural, une anorexie et une anémie, notamment ferriprive."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments digestifs sont compatibles avec une maladie cœliaque selon le texte ?",
+      "choices": [
+        "Diarrhée chronique ou intermittente",
+        "Ballonnement abdominal",
+        "Douleurs abdominales",
+        "Diarrhée obligatoirement constante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les manifestations digestives possibles incluent diarrhée chronique ou intermittente, ballonnement abdominal et douleurs abdominales. La diarrhée n’est pas constante."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels examens biologiques font partie du diagnostic de maladie cœliaque dans le texte ?",
+      "choices": [
+        "Anticorps anti-transglutaminase IgA",
+        "Anticorps anti-endomysium",
+        "Dosage des IgA totales",
+        "Dosage des anticorps antitétaniques"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic repose notamment sur les anticorps anti-transglutaminase IgA, les anticorps anti-endomysium et le dosage des IgA totales."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles anomalies des biopsies duodénales sont attendues dans la maladie cœliaque ?",
+      "choices": [
+        "Atrophie villositaire souvent totale ou subtotale",
+        "Hyperplasie cryptique",
+        "Lymphocytose intraépithéliale",
+        "Absence de toute anomalie villositaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les biopsies duodénales montrent une atrophie villositaire, souvent totale ou subtotale, associée à une hyperplasie cryptique et une lymphocytose intraépithéliale."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge et la présentation de la maladie cœliaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Le traitement repose sur un régime strict sans gluten",
+        "L’asthénie peut faire partie du tableau clinique",
+        "L’anémie ferriprive est une manifestation possible",
+        "Le traitement repose sur une supplémentation en gluten"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le traitement est le régime strict sans gluten. L’asthénie et l’anémie, notamment ferriprive, font partie des manifestations possibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels vaccins sont cités comme vivants atténués ?",
+      "choices": [
+        "BCG",
+        "Vaccin antirougeoleux, notamment dans le ROR",
+        "Vaccin antigrippal vivant atténué intranasal lorsqu’il est utilisé",
+        "Vaccin antigrippal injectable inactivé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vaccins vivants atténués cités sont le BCG, le vaccin antirougeoleux notamment dans le ROR, et le vaccin antigrippal vivant atténué intranasal lorsqu’il est utilisé."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels vaccins sont classés comme non vivants dans le texte ?",
+      "choices": [
+        "Vaccin antitétanique",
+        "Vaccin anticoquelucheux",
+        "Vaccin antigrippal injectable inactivé",
+        "BCG"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les vaccins non vivants cités sont le vaccin antitétanique, le vaccin anticoquelucheux et le vaccin antigrippal injectable inactivé. Le BCG est un vaccin vivant atténué."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel tableau correspond le mieux à une convulsion fébrile simple ?",
+      "choices": [
+        "Crise généralisée de 10 minutes, unique en 24 heures, examen neurologique normal, sans déficit postcritique",
+        "Crise focale de 5 minutes, unique, avec examen neurologique normal",
+        "Crise généralisée de 20 minutes, sans récidive",
+        "Crise généralisée brève récidivant dans les 24 heures"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La convulsion fébrile simple est généralisée, dure moins de 15 minutes, est unique en 24 heures, avec examen neurologique normal et sans déficit postcritique."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un enfant fébrile, quel élément suffit à orienter la crise vers une convulsion fébrile complexe ?",
+      "choices": [
+        "Durée de 8 minutes",
+        "Crise généralisée unique",
+        "Crise focale",
+        "Développement psychomoteur normal"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Une crise focale ou partielle est un critère de convulsion fébrile complexe, même si sa durée est courte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition décrit correctement une option de benzodiazépine citée dans la crise convulsive aiguë prolongée ?",
+      "choices": [
+        "Midazolam buccal ou intranasal",
+        "Carbamazépine intrarectale",
+        "Vaccin antitétanique injectable",
+        "Régime strict sans gluten"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le midazolam buccal ou intranasal est cité comme option de benzodiazépine en première intention si la crise persiste au-delà de 5 minutes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel vaccin antigrippal est cité comme vivant atténué lorsqu’il est utilisé ?",
+      "choices": [
+        "Vaccin antigrippal injectable inactivé",
+        "Vaccin antigrippal vivant atténué intranasal",
+        "Vaccin antitétanique",
+        "Vaccin anticoquelucheux"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le vaccin antigrippal vivant atténué intranasal est cité parmi les vaccins vivants atténués lorsqu’il est utilisé."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel ensemble histologique est le plus évocateur de maladie cœliaque selon le texte ?",
+      "choices": [
+        "Atrophie villositaire, hyperplasie cryptique et lymphocytose intraépithéliale",
+        "Villosités normales, cryptes normales et absence de lymphocytose",
+        "Atrophie cryptique isolée sans anomalie villositaire",
+        "Hyperplasie villositaire avec absence de lymphocytes intraépithéliaux"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La maladie cœliaque associe aux biopsies duodénales une atrophie villositaire souvent totale ou subtotale, une hyperplasie cryptique et une lymphocytose intraépithéliale."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le bilan diagnostique de maladie cœliaque, quel dosage accompagne les anticorps spécifiques cités ?",
+      "choices": [
+        "IgA totales",
+        "IgE totales",
+        "Calcémie totale",
+        "Bilirubine totale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite le dosage des IgA totales avec les anticorps anti-transglutaminase IgA et anti-endomysium dans le diagnostic de maladie cœliaque."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les laits spécifiques indiqués dans certaines pathologies du nourrisson, quelles propositions sont exactes ?",
+      "choices": [
+        "Dans la galactosémie congénitale, le lait doit être sans lactose et sans galactose.",
+        "Dans la phénylcétonurie, le lait recommandé est sans lactose et sans galactose.",
+        "Dans la phénylcétonurie, le lait doit être pauvre en phénylalanine.",
+        "Dans la cholestase, le lait indiqué est pauvre en phénylalanine."
+      ],
+      "answers": [
+        0,
+        2
+      ],
+      "explanation": "La galactosémie congénitale impose un lait sans lactose et sans galactose. La phénylcétonurie nécessite un lait pauvre en phénylalanine. En cas de cholestase, le lait est enrichi en triglycérides à chaînes moyennes."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un nourrisson allaité exclusivement présentant des selles liquides après les tétées sans autre signe de gravité, quelles propositions sont exactes ?",
+      "choices": [
+        "Ces selles peuvent être physiologiques chez le nourrisson allaité.",
+        "Elles imposent l’arrêt systématique de l’allaitement maternel.",
+        "Les tétées sont idéalement données à la demande.",
+        "L’allaitement maternel exclusif couvre les besoins nutritionnels jusqu’à 6 mois."
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "Le lait maternel peut entraîner des selles liquides postprandiales physiologiques. Les tétées sont idéalement à la demande et l’allaitement exclusif couvre les besoins jusqu’à 6 mois."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un ictère néonatal, quels éléments font sortir du cadre d’un ictère physiologique ?",
+      "choices": [
+        "Apparition dans les premières 24 heures de vie.",
+        "Présence d’une anémie ou d’une pâleur.",
+        "Présence d’une hépatosplénomégalie.",
+        "Selles décolorées."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’ictère physiologique apparaît après 24 heures, est principalement non conjugué et ne s’accompagne pas d’anémie, de pâleur, d’hépatosplénomégalie ni de selles décolorées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’ictère par incompatibilité Rhésus chez le nouveau-né, quelles propositions sont exactes ?",
+      "choices": [
+        "Il peut s’accompagner d’une anémie sévère.",
+        "Le test de Coombs est positif.",
+        "L’hyperbilirubinémie est indirecte.",
+        "Il se manifeste typiquement par des selles décolorées constantes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’incompatibilité Rhésus associe anémie sévère, Coombs positif et hyperbilirubinémie indirecte. Les selles décolorées orientent plutôt vers une cholestase néonatale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les ictères néonataux avec atteinte hépatobiliaire, quelles propositions sont exactes ?",
+      "choices": [
+        "La cholestase néonatale peut s’accompagner d’une hépatomégalie.",
+        "La cholestase néonatale associe volontiers selles décolorées et urines foncées.",
+        "L’hépatite néonatale peut s’accompagner d’une hypotrophie.",
+        "L’hépatite néonatale donne toujours une bilirubine exclusivement non conjuguée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cholestase néonatale se manifeste par hépatomégalie, selles décolorées, urines foncées et hyperbilirubinémie conjuguée. L’hépatite néonatale peut comporter une hypotrophie et une bilirubine mixte ou conjuguée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la prévention post-partum de l’iso-immunisation Rhésus, quelles propositions sont exactes ?",
+      "choices": [
+        "Elle concerne la femme Rhésus négatif non immunisée.",
+        "Elle est indiquée après accouchement d’un nouveau-né Rhésus positif.",
+        "L’injection d’immunoglobulines anti-D est idéalement réalisée avant 72 heures.",
+        "Elle n’est jamais indiquée après une grossesse extra-utérine."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les immunoglobulines anti-D sont indiquées chez toute femme Rhésus négatif non immunisée après naissance d’un nouveau-né Rhésus positif, idéalement avant 72 heures. Elles sont aussi indiquées après grossesse extra-utérine s’il existe un risque de passage d’hématies fœtales Rhésus positives."
+    },
+    {
+      "type": "QCM",
+      "question": "Vers 9 mois, quels éléments sont compatibles avec les repères du développement psychomoteur décrits ?",
+      "choices": [
+        "Station assise sans appui.",
+        "Pince pouce-index.",
+        "Babillage déjà possible.",
+        "Marche autonome obligatoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La station assise sans appui apparaît vers 8 à 9 mois, la pince pouce-index vers 9 mois, et le babillage dès 6 mois. La marche autonome survient entre 12 et 18 mois."
+    },
+    {
+      "type": "QCM",
+      "question": "À 12 mois, quels éléments sont considérés comme évocateurs d’un retard psychomoteur selon les repères donnés ?",
+      "choices": [
+        "Absence de préhension d’un objet présenté.",
+        "Absence de vocalisation syllabique.",
+        "Absence de passage d’un objet d’une main à l’autre.",
+        "Absence isolée de marche autonome malgré les autres acquisitions présentes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À 12 mois, l’absence de préhension, de vocalisation syllabique, de passage d’objet d’une main à l’autre ou de tentative de pince pouce-index est évocatrice de retard. L’absence isolée de marche autonome à 12 mois n’est pas forcément pathologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’atrésie de l’œsophage, quelles propositions diagnostiques sont exactes ?",
+      "choices": [
+        "Le diagnostic est confirmé par l’impossibilité de faire progresser une sonde gastrique jusqu’à l’estomac.",
+        "La radiographie avec sonde en place permet d’identifier le cul-de-sac œsophagien supérieur.",
+        "L’aération digestive d’aval aide à préciser le type d’atrésie et l’existence d’une fistule trachéo-œsophagienne.",
+        "Le type I de Ladd correspond à une atrésie avec fistule trachéo-œsophagienne distale."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’impossibilité de progression de la sonde confirme le diagnostic. La radiographie localise le cul-de-sac supérieur et évalue l’aération digestive d’aval. Le type I de Ladd correspond à une atrésie sans fistule."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments orientent vers une hernie diaphragmatique congénitale néonatale ?",
+      "choices": [
+        "Abdomen plat ou excavé.",
+        "Bruits du cœur déplacés.",
+        "Diminution du murmure vésiculaire du côté atteint.",
+        "Amélioration par ventilation au masque."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La hernie diaphragmatique congénitale peut donner une détresse respiratoire précoce, un abdomen plat ou excavé, des bruits du cœur déplacés et une diminution du murmure vésiculaire du côté atteint. La ventilation au masque est contre-indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge initiale d’une hernie diaphragmatique congénitale, quelles mesures sont correctes ?",
+      "choices": [
+        "Oxygénothérapie ou intubation selon la gravité.",
+        "Pose d’une sonde gastrique en aspiration.",
+        "Réchauffement du nouveau-né.",
+        "Chirurgie immédiate avant toute stabilisation cardiorespiratoire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les mesures initiales associent oxygénothérapie ou intubation selon la gravité, sonde gastrique en aspiration, réchauffement et stabilisation cardiorespiratoire avant la prise en charge chirurgicale."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’évaluation d’une déshydratation chez un nourrisson diarrhéique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les yeux cernés ou enfoncés évoquent une déshydratation extracellulaire.",
+        "Le pli cutané persistant évoque une déshydratation extracellulaire.",
+        "La dépression de la fontanelle antérieure évoque une déshydratation extracellulaire.",
+        "La sécheresse des muqueuses est surtout un signe de déshydratation extracellulaire."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les signes de déshydratation extracellulaire comprennent yeux enfoncés, pli cutané persistant et fontanelle déprimée. La sécheresse des muqueuses évoque plutôt une déshydratation intracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les solutés de réhydratation orale chez le nourrisson, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont indiqués en cas de diarrhée aqueuse.",
+        "Ils sont indiqués dans les déshydratations légères à modérées, notamment autour de 5 %.",
+        "Ils peuvent être utilisés pour prévenir la déshydratation lors des diarrhées aiguës.",
+        "Ils sont contre-indiqués en prévention de la déshydratation."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les SRO sont indiqués dans la diarrhée aqueuse, la déshydratation légère à modérée et en prévention de la déshydratation lors des diarrhées aiguës."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les manifestations rapportées dans le rachitisme, lesquelles sont exactes ?",
+      "choices": [
+        "Chapelet costal.",
+        "Déformations thoraciques.",
+        "Hypotonie musculaire.",
+        "Paralysie diaphragmatique habituelle."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le rachitisme peut comporter chapelet costal, déformations thoraciques, hypotonie musculaire et fragilité respiratoire. La paralysie diaphragmatique n’est pas une manifestation habituelle."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel constituant est moins abondant dans le lait de vache que dans le lait maternel ?",
+      "choices": [
+        "Protéines.",
+        "Lactose.",
+        "Sels minéraux.",
+        "Charge osmolaire."
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Par rapport au lait maternel, le lait de vache contient moins de lactose, mais davantage de protéines, de sels minéraux et une charge osmolaire plus élevée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel lait est indiqué en cas de cholestase du nourrisson selon le texte ?",
+      "choices": [
+        "Lait enrichi en triglycérides à chaînes moyennes.",
+        "Lait pauvre en phénylalanine.",
+        "Lait sans lactose et sans galactose.",
+        "Lait de vache non modifié."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "En cas de cholestase, le lait indiqué est enrichi en triglycérides à chaînes moyennes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel repère psychomoteur est attendu le plus précocement parmi les propositions suivantes ?",
+      "choices": [
+        "Pince pouce-index.",
+        "Premiers mots.",
+        "Tenue de la tête.",
+        "Marche autonome."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La tenue de la tête apparaît vers 2 mois, plus précocement que la pince pouce-index vers 9 mois, les premiers mots vers 12 mois et la marche autonome entre 12 et 18 mois."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel examen confirme le diagnostic de hernie diaphragmatique congénitale selon le texte ?",
+      "choices": [
+        "Radiographie thoracique.",
+        "Test de Coombs.",
+        "Électroencéphalogramme.",
+        "Dosage de bilirubine indirecte."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le diagnostic de hernie diaphragmatique congénitale est confirmé par la radiographie thoracique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément électroencéphalographique appartient à la triade du syndrome de West ?",
+      "choices": [
+        "Hypsarythmie.",
+        "Test de Coombs positif.",
+        "Hyperbilirubinémie conjuguée.",
+        "Allongement du temps de recoloration cutanée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La triade du syndrome de West associe spasmes infantiles, retard ou régression psychomotrice et hypsarythmie à l’EEG."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle est la durée habituelle d’un spasme dans le syndrome de West selon le texte ?",
+      "choices": [
+        "Quelques secondes.",
+        "Plusieurs minutes.",
+        "Plusieurs heures.",
+        "Toute la journée sans interruption."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les spasmes du syndrome de West sont brefs, durant environ quelques secondes, et surviennent souvent en salves."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une crise convulsive survenant avec fièvre, quels éléments temporels orientent vers une convulsion fébrile complexe selon le texte ?",
+      "choices": [
+        "Une durée de crise supérieure à 15 minutes",
+        "Une récidive de crise dans les 24 heures",
+        "Un épisode unique en 24 heures",
+        "Une durée de crise inférieure à 15 minutes"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "La convulsion fébrile complexe est définie notamment par une durée supérieure à 15 minutes ou une récidive dans les 24 heures. Une crise unique durant moins de 15 minutes correspond aux critères de forme simple si les autres critères sont réunis."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour retenir une convulsion fébrile simple, quels éléments neurologiques ou développementaux doivent être présents ?",
+      "choices": [
+        "Un examen neurologique normal",
+        "L’absence de déficit postcritique",
+        "Un développement psychomoteur normal",
+        "Une crise focale avec récupération rapide"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La forme simple impose un examen neurologique normal, l’absence de déficit postcritique et un développement psychomoteur normal. Une crise focale classe l’épisode comme complexe."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un enfant fébrile ayant convulsé, quelles situations empêchent de retenir le diagnostic de convulsion fébrile selon la définition donnée ?",
+      "choices": [
+        "Une infection du système nerveux central",
+        "Un trouble métabolique aigu",
+        "Un antécédent de convulsion non fébrile",
+        "Une fièvre isolée sans signe neuroméningé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La convulsion fébrile survient en contexte de fièvre, sans infection du système nerveux central, sans trouble métabolique aigu et sans antécédent de convulsion non fébrile."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un nourrisson de moins de 1 an ayant présenté une crise fébrile, quelles situations doivent faire discuter largement une ponction lombaire ?",
+      "choices": [
+        "Un doute clinique sur le diagnostic",
+        "Une vaccination incomplète",
+        "Des signes évocateurs d’infection neuroméningée",
+        "Une crise brève généralisée avec examen neurologique normal et vaccination complète"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez le nourrisson de moins de 1 an, la ponction lombaire doit être discutée largement en cas de doute clinique, de vaccination incomplète ou de signes évocateurs d’infection neuroméningée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les examens complémentaires après une convulsion fébrile, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Un EEG peut être indiqué en cas de convulsion fébrile complexe",
+        "La ponction lombaire se discute largement avant 1 an en cas de signes neuroméningés",
+        "L’EEG est systématique après toute convulsion fébrile simple",
+        "La ponction lombaire est inutile chez le nourrisson de moins de 1 an même en cas de vaccination incomplète"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le texte précise qu’un EEG peut être indiqué en cas de convulsion fébrile complexe. Chez le nourrisson de moins de 1 an, la ponction lombaire doit être largement discutée notamment en cas de signes neuroméningés ou de vaccination incomplète."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une crise convulsive aiguë persistant au-delà de 5 minutes, quelles propositions thérapeutiques sont exactes ?",
+      "choices": [
+        "Une benzodiazépine est indiquée en première intention",
+        "Le diazépam intrarectal fait partie des options citées",
+        "Le midazolam buccal ou intranasal fait partie des options citées",
+        "La carbamazépine est le traitement de première intention recommandé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Au-delà de 5 minutes, une benzodiazépine est indiquée en première intention : diazépam intrarectal, midazolam buccal ou intranasal, ou clonazépam selon les protocoles. La carbamazépine n’est pas un traitement de première intention."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une convulsion fébrile simple, quels messages de prise en charge ou de pronostic sont corrects ?",
+      "choices": [
+        "Le risque de récidive lors d’un nouvel épisode fébrile est augmenté",
+        "Un traitement antiépileptique de fond n’est pas indiqué",
+        "Le risque ultérieur d’épilepsie est faible",
+        "Un traitement antiépileptique de fond est systématique dès le premier épisode"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Après une convulsion fébrile simple, le risque de récidive fébrile augmente, mais le risque d’épilepsie ultérieure reste faible et un traitement antiépileptique de fond n’est pas indiqué."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les facteurs associés à une augmentation du risque ultérieur d’épilepsie après une convulsion fébrile, quelles propositions sont exactes ?",
+      "choices": [
+        "Le caractère complexe de la convulsion fébrile",
+        "Des anomalies neurologiques",
+        "Des antécédents familiaux d’épilepsie",
+        "Le caractère simple isolé avec examen neurologique normal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le risque d’épilepsie augmente en cas de convulsion fébrile complexe, d’anomalies neurologiques ou d’antécédents familiaux d’épilepsie. Il est faible après une convulsion fébrile simple."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la physiopathologie de la maladie cœliaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une entéropathie auto-immune",
+        "Elle est induite par le gluten",
+        "Elle survient chez un sujet génétiquement prédisposé",
+        "Elle est définie comme une infection intestinale aiguë fébrile"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie cœliaque est une entéropathie auto-immune induite par le gluten chez un sujet génétiquement prédisposé. Elle n’est pas définie comme une infection aiguë."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments cliniques peuvent faire évoquer une maladie cœliaque même en l’absence de diarrhée permanente ?",
+      "choices": [
+        "Une cassure pondérale",
+        "Un retard statural",
+        "Une anémie notamment ferriprive",
+        "Une diarrhée obligatoirement constante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La diarrhée n’est pas constante dans la maladie cœliaque. Une cassure pondérale, un retard statural, une anémie ferriprive, une asthénie ou des douleurs abdominales peuvent l’évoquer."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le diagnostic biologique et histologique de maladie cœliaque, quels éléments sont cités dans le texte ?",
+      "choices": [
+        "Les anticorps anti-transglutaminase IgA",
+        "Les anticorps anti-endomysium",
+        "Le dosage des IgA totales",
+        "Une biopsie duodénale strictement normale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic repose sur les anticorps anti-transglutaminase IgA, les anticorps anti-endomysium, le dosage des IgA totales et les biopsies duodénales anormales."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles anomalies des biopsies duodénales sont compatibles avec la maladie cœliaque selon le texte ?",
+      "choices": [
+        "Une atrophie villositaire souvent totale ou subtotale",
+        "Une hyperplasie cryptique",
+        "Une lymphocytose intraépithéliale",
+        "Une conservation complète des villosités sans anomalie cryptique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les biopsies duodénales montrent une atrophie villositaire souvent totale ou subtotale, associée à une hyperplasie cryptique et à une lymphocytose intraépithéliale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant le traitement de la maladie cœliaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Il repose sur un régime strict sans gluten",
+        "Il s’adresse à une entéropathie induite par le gluten",
+        "Il n’est indiqué que si la diarrhée est constante",
+        "Il repose sur un traitement antiépileptique de fond"
+      ],
+      "answers": [
+        0,
+        1
+      ],
+      "explanation": "Le traitement de la maladie cœliaque repose sur un régime strict sans gluten. La diarrhée n’est pas constante et ne conditionne pas à elle seule l’indication du traitement."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations vaccin–classification sont conformes au texte ?",
+      "choices": [
+        "BCG — vaccin vivant atténué",
+        "Vaccin antirougeoleux du ROR — vaccin vivant atténué",
+        "Vaccin antitétanique — vaccin non vivant",
+        "Vaccin antigrippal injectable inactivé — vaccin vivant atténué"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le BCG et le vaccin antirougeoleux du ROR sont des vaccins vivants atténués. Le vaccin antitétanique est non vivant. Le vaccin antigrippal injectable inactivé est non vivant."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel tableau correspond le mieux à une convulsion fébrile simple selon les critères donnés ?",
+      "choices": [
+        "Crise généralisée de 8 minutes, unique en 24 heures, examen neurologique normal, sans déficit postcritique",
+        "Crise focale de 5 minutes, unique, avec examen neurologique normal",
+        "Crise généralisée de 20 minutes, sans récidive",
+        "Deux crises généralisées brèves au cours des mêmes 24 heures"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La convulsion fébrile simple est généralisée, dure moins de 15 minutes, reste unique en 24 heures, avec examen neurologique normal, sans déficit postcritique et avec développement psychomoteur normal."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un enfant fébrile ayant convulsé, quel élément isolé suffit à faire considérer la crise comme complexe dans le texte ?",
+      "choices": [
+        "Une crise focale ou partielle",
+        "Une crise généralisée durant 6 minutes",
+        "Un épisode unique en 24 heures",
+        "L’absence de déficit postcritique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une crise focale ou partielle est un critère de convulsion fébrile complexe. Les autres propositions sont compatibles avec une forme simple si les autres critères sont réunis."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la crise convulsive aiguë, quel médicament est cité comme option de seconde ligne selon le contexte ?",
+      "choices": [
+        "Phénobarbital",
+        "Carbamazépine",
+        "Anticorps anti-endomysium",
+        "Vaccin antitétanique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte cite le phénobarbital ou un autre antiépileptique de seconde ligne selon le contexte. La carbamazépine n’est pas un traitement de première intention de la crise convulsive aiguë."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel anticorps spécifique fait partie du bilan diagnostique de la maladie cœliaque ?",
+      "choices": [
+        "Anticorps anti-transglutaminase IgA",
+        "Anticorps anti-tétaniques",
+        "Anticorps anti-coquelucheux",
+        "Immunoglobulines anti-D"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le diagnostic de maladie cœliaque repose notamment sur les anticorps anti-transglutaminase IgA, les anticorps anti-endomysium et le dosage des IgA totales."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition concernant la diarrhée dans la maladie cœliaque est exacte ?",
+      "choices": [
+        "Elle peut être chronique ou intermittente et n’est pas constante",
+        "Elle est toujours aiguë et fébrile",
+        "Elle est obligatoire pour poser le diagnostic",
+        "Elle exclut la nécessité de biopsies duodénales"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La diarrhée de la maladie cœliaque peut être chronique ou intermittente, mais elle n’est pas constante. Le diagnostic repose sur la biologie et les biopsies duodénales."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les vaccins antigrippaux cités, lequel est classé comme non vivant ?",
+      "choices": [
+        "Vaccin antigrippal injectable inactivé",
+        "Vaccin antigrippal vivant atténué intranasal",
+        "Vaccin antirougeoleux du ROR",
+        "BCG"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le vaccin antigrippal injectable inactivé est un vaccin non vivant. Le vaccin antigrippal vivant atténué intranasal, le BCG et le vaccin antirougeoleux du ROR sont des vaccins vivants atténués."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une indication de lait spécialisé chez un nourrisson, quelles prescriptions sont conformes aux données du texte ?",
+      "choices": [
+        "En cas d’allergie aux protéines du lait de vache, un hydrolysat poussé de protéines peut être indiqué",
+        "En cas de cholestase, un lait enrichi en triglycérides à chaînes moyennes peut être indiqué",
+        "En cas de galactosémie congénitale, un lait sans lactose mais contenant du galactose est adapté",
+        "En cas de phénylcétonurie, un lait pauvre en phénylalanine peut être indiqué"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "L’allergie aux protéines du lait de vache relève d’un hydrolysat poussé ou d’une formule aux acides aminés selon la sévérité. La cholestase relève d’un lait enrichi en TCM. La phénylcétonurie nécessite un lait pauvre en phénylalanine. La galactosémie impose un lait sans lactose et sans galactose."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un nouveau-né ictérique, quels éléments sont compatibles avec une évolution non compliquée d’un ictère physiologique selon le texte ?",
+      "choices": [
+        "Début après les premières 24 heures de vie",
+        "Bilirubine principalement non conjuguée",
+        "Absence de pâleur, d’anémie et d’hépatosplénomégalie",
+        "Disparition spontanée en général en 10 à 15 jours"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "L’ictère physiologique apparaît après 24 heures, est principalement non conjugué, ne s’accompagne pas de signes d’anémie, d’hépatosplénomégalie ou de cholestase, et disparaît spontanément en général en 10 à 15 jours."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’analyse d’un ictère néonatal, quels signes orientent vers une cause pathologique plutôt qu’un ictère physiologique ?",
+      "choices": [
+        "Pâleur ou anémie associée",
+        "Hépatosplénomégalie",
+        "Selles décolorées avec urines foncées",
+        "Ictère isolé à bilirubine non conjuguée apparaissant après 24 heures et régressant spontanément"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’anémie, l’hépatosplénomégalie, les selles décolorées et les urines foncées sont des éléments pathologiques. Un ictère isolé, non conjugué, débutant après 24 heures et régressif est compatible avec un ictère physiologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez une femme Rhésus négatif non immunisée, en dehors de l’accouchement, quelles situations peuvent justifier une injection d’immunoglobulines anti-D s’il existe un risque de passage d’hématies fœtales Rhésus positives ?",
+      "choices": [
+        "Grossesse extra-utérine",
+        "Geste invasif au cours de la grossesse",
+        "Manipulation utérine",
+        "Allaitement maternel d’un nouveau-né Rhésus positif sans autre événement associé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les immunoglobulines anti-D sont indiquées après avortement, fausse couche, grossesse extra-utérine, geste invasif ou manipulation utérine en cas de risque de passage d’hématies fœtales Rhésus positives. L’allaitement seul n’est pas cité comme indication."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations âge-acquisition psychomotrice sont conformes aux repères fournis ?",
+      "choices": [
+        "Préhension digitopalmaire : vers 6 mois",
+        "Passage des objets d’une main à l’autre : environ 6 mois",
+        "Station assise sans appui : vers 8 à 9 mois",
+        "Premiers mots : vers 9 mois"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La préhension digitopalmaire, la mise à la bouche, le passage d’une main à l’autre et le babillage sont attendus autour de 6 mois. La station assise sans appui est attendue vers 8 à 9 mois. Les premiers mots sont plutôt vers 12 mois."
+    },
+    {
+      "type": "QCM",
+      "question": "À l’âge de 12 mois, quels éléments doivent faire évoquer un retard psychomoteur d’après le texte ?",
+      "choices": [
+        "Absence de préhension d’un objet présenté",
+        "Absence de vocalisation syllabique",
+        "Absence de passage d’un objet d’une main à l’autre",
+        "Absence isolée de marche autonome alors que les autres acquisitions sont présentes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À 12 mois, l’absence de préhension, de vocalisation syllabique, de passage d’un objet d’une main à l’autre ou de tentative de pince pouce-index est évocatrice de retard. L’absence isolée de marche autonome à 12 mois n’est pas forcément pathologique."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un nouveau-né en salle de naissance, quels éléments sont en faveur d’une atrésie de l’œsophage ou utiles à sa confirmation ?",
+      "choices": [
+        "Hypersalivation",
+        "Toux, cyanose ou fausses routes lors des tentatives d’alimentation",
+        "Impossibilité de faire progresser une sonde gastrique jusqu’à l’estomac",
+        "Abdomen excavé avec bruits du cœur déplacés"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’atrésie de l’œsophage est suspectée devant hypersalivation, détresse respiratoire précoce, toux, cyanose ou fausses routes à l’alimentation. Elle est confirmée par l’impossibilité de faire progresser une sonde gastrique. L’abdomen excavé avec déplacement des bruits du cœur évoque plutôt une hernie diaphragmatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’atrésie de l’œsophage, que peut apporter la radiographie thoraco-abdominale avec sonde en place ?",
+      "choices": [
+        "Visualiser le cul-de-sac œsophagien supérieur",
+        "Évaluer l’aération digestive d’aval",
+        "Aider à préciser le type d’atrésie et l’existence d’une fistule trachéo-œsophagienne",
+        "Confirmer directement une paralysie diaphragmatique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La radiographie avec sonde en place identifie le cul-de-sac supérieur et évalue l’aération digestive d’aval, ce qui aide à préciser le type d’atrésie et la présence d’une fistule. La paralysie diaphragmatique n’est pas l’objectif de cet examen dans le texte."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant une détresse respiratoire néonatale précoce, quels signes orientent vers une hernie diaphragmatique congénitale ?",
+      "choices": [
+        "Abdomen plat ou excavé",
+        "Asymétrie thoracique avec hémithorax distendu",
+        "Diminution du murmure vésiculaire du côté atteint",
+        "Hypersalivation avec sonde gastrique bloquée dans le cul-de-sac supérieur"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La hernie diaphragmatique congénitale peut associer détresse respiratoire, abdomen plat ou excavé, asymétrie thoracique, hémithorax distendu, bruits du cœur déplacés et diminution du murmure vésiculaire. L’hypersalivation avec sonde bloquée évoque une atrésie de l’œsophage."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la prise en charge initiale d’une hernie diaphragmatique congénitale, quelles mesures sont conformes au texte ?",
+      "choices": [
+        "Ventilation au masque en première intention pour distendre les poumons",
+        "Pose d’une sonde gastrique en aspiration",
+        "Réchauffement du nouveau-né",
+        "Stabilisation cardiorespiratoire avant la prise en charge chirurgicale"
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": "La ventilation au masque est contre-indiquée car elle aggrave la distension digestive intrathoracique. Les mesures initiales comprennent oxygénothérapie ou intubation selon la gravité, sonde gastrique en aspiration, réchauffement et stabilisation cardiorespiratoire avant chirurgie."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’interprétation des signes de déshydratation chez le nourrisson diarrhéique, quelles propositions sont exactes ?",
+      "choices": [
+        "Les yeux cernés ou enfoncés évoquent une déshydratation extracellulaire",
+        "Le pli cutané persistant évoque une déshydratation extracellulaire",
+        "La tachycardie, les marbrures et l’allongement du temps de recoloration cutanée traduisent des troubles hémodynamiques",
+        "La sécheresse des muqueuses est plutôt évocatrice d’une déshydratation intracellulaire"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les signes extracellulaires incluent yeux cernés, pli cutané persistant, dépression de la fontanelle et troubles hémodynamiques. La sécheresse des muqueuses oriente plutôt vers une déshydratation intracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "À propos des solutés de réhydratation orale chez le nourrisson, quelles utilisations sont indiquées dans le texte ?",
+      "choices": [
+        "Diarrhée aqueuse",
+        "Déshydratation légère à modérée, notamment autour de 5 %",
+        "Traitement unique d’une forme sévère avec hypotension",
+        "Prévention de la déshydratation au cours des diarrhées aiguës"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Les solutés de réhydratation orale sont indiqués dans la diarrhée aqueuse, la déshydratation légère à modérée et la prévention de la déshydratation. L’hypotension correspond à une forme sévère avec troubles hémodynamiques."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles manifestations thoraciques ou respiratoires sont rapportées comme possibles dans le rachitisme ?",
+      "choices": [
+        "Chapelet costal",
+        "Déformations thoraciques",
+        "Hypotonie musculaire avec fragilité respiratoire possible",
+        "Paralysie diaphragmatique habituelle"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le rachitisme peut s’accompagner de chapelet costal, de déformations thoraciques, d’hypotonie musculaire et d’une fragilité respiratoire possible. La paralysie diaphragmatique n’est pas une manifestation habituelle."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la sémiologie des spasmes dans le syndrome de West, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont brefs, durant environ quelques secondes",
+        "Ils peuvent être groupés en salves",
+        "Ils peuvent comporter des mouvements en flexion ou en extension des quatre membres et de la nuque",
+        "Ils correspondent typiquement à des clonies unilatérales prolongées"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les spasmes du syndrome de West sont brefs, souvent en salves, avec mouvements en flexion ou extension des quatre membres et de la nuque. Les clonies unilatérales prolongées ne correspondent pas à la description donnée."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel profil est le plus conforme à l’incompatibilité ABO néonatale selon le texte ?",
+      "choices": [
+        "Hyperbilirubinémie conjuguée avec selles décolorées et urines foncées",
+        "Anémie souvent modérée avec hyperbilirubinémie indirecte",
+        "Anémie sévère avec test de Coombs positif obligatoire",
+        "Hypotrophie avec bilirubine exclusivement conjuguée"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "L’incompatibilité ABO est décrite comme donnant une anémie souvent modérée avec hyperbilirubinémie indirecte."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition correspond le mieux à l’hépatite néonatale décrite dans le texte ?",
+      "choices": [
+        "Atteinte hépatique avec bilirubine mixte ou conjuguée et hypotrophie possible",
+        "Ictère isolé non conjugué disparaissant toujours avant 72 heures",
+        "Anémie sévère avec test de Coombs positif",
+        "Ictère par excès isolé de bilirubine indirecte sans atteinte hépatique"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’hépatite néonatale peut comporter une hypotrophie, une atteinte hépatique et une bilirubine mixte ou conjuguée."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la classification de Ladd, à quoi correspond le type I d’atrésie de l’œsophage selon le texte ?",
+      "choices": [
+        "Atrésie œsophagienne sans fistule",
+        "Atrésie œsophagienne avec fistule trachéo-œsophagienne distale",
+        "Fistule trachéo-œsophagienne isolée sans atrésie",
+        "Atrésie œsophagienne avec hernie diaphragmatique obligatoire"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le type I de Ladd correspond à une atrésie œsophagienne sans fistule."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel repère du développement psychomoteur est attendu autour de 2 mois selon le texte ?",
+      "choices": [
+        "Tenue de la tête",
+        "Pince pouce-index",
+        "Premiers mots",
+        "Marche autonome"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "La tenue de la tête est attendue environ à 2 mois. La pince pouce-index apparaît vers 9 mois, les premiers mots vers 12 mois et la marche autonome entre 12 et 18 mois."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle formule est la plus adaptée à une galactosémie congénitale selon le texte ?",
+      "choices": [
+        "Lait enrichi en triglycérides à chaînes moyennes",
+        "Lait pauvre en phénylalanine",
+        "Lait sans lactose et sans galactose",
+        "Lait de vache standard dilué"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La galactosémie congénitale nécessite un lait sans lactose et sans galactose."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle classification évolutive ou étiologique du syndrome de West est explicitement citée dans le texte ?",
+      "choices": [
+        "Idiopathique, cryptogénique ou symptomatique",
+        "Aiguë, subaiguë ou chronique",
+        "Simple, complexe ou récidivante",
+        "Hémolytique, cholestatique ou infectieuse"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le syndrome de West peut être idiopathique, cryptogénique ou symptomatique."
+    },
+    {
+      "type": "QCM",
+      "question": "Avant de retenir le diagnostic de convulsion fébrile, quels éléments doivent être vérifiés selon le texte ?",
+      "choices": [
+        "La crise survient dans un contexte de fièvre",
+        "Il n’existe pas d’infection du système nerveux central",
+        "Il n’existe pas de trouble métabolique aigu",
+        "Il n’existe pas d’antécédent de convulsions non fébriles"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La définition impose une fièvre, sans infection du système nerveux central, sans trouble métabolique aigu et sans antécédent de convulsions non fébriles."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un enfant fébrile ayant convulsé, quels éléments sont compatibles avec une forme simple si tous les autres critères sont également réunis ?",
+      "choices": [
+        "Crise généralisée",
+        "Durée inférieure à 15 minutes",
+        "Épisode unique en 24 heures",
+        "Développement psychomoteur normal"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La convulsion fébrile simple associe notamment une crise généralisée, brève, unique sur 24 heures, avec examen neurologique et développement psychomoteur normaux."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels éléments, pris isolément, font basculer une convulsion fébrile vers une forme complexe selon les critères fournis ?",
+      "choices": [
+        "Une durée supérieure à 15 minutes",
+        "Une crise focale ou partielle",
+        "Une récidive dans les 24 heures",
+        "Un déficit postcritique"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Chacun de ces critères est cité comme caractéristique d’une convulsion fébrile complexe."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un nourrisson de moins de 1 an après une convulsion avec fièvre, quels éléments augmentent l’indication de discuter une ponction lombaire ?",
+      "choices": [
+        "Un doute clinique",
+        "Une vaccination incomplète",
+        "Des signes évocateurs d’infection neuroméningée",
+        "La seule présence d’une diarrhée chronique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte indique de discuter largement la ponction lombaire chez le nourrisson de moins de 1 an en cas de doute clinique, vaccination incomplète ou signes d’infection neuroméningée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les décisions diagnostiques après une convulsion fébrile, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Un EEG peut être indiqué en cas de convulsion fébrile complexe",
+        "La ponction lombaire est à discuter largement chez le nourrisson de moins de 1 an dans certaines situations",
+        "L’EEG est obligatoire pour confirmer toute convulsion fébrile simple",
+        "Des signes évocateurs d’infection neuroméningée renforcent l’indication de discuter une ponction lombaire"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le texte mentionne l’EEG possible en cas de forme complexe et la discussion large de la ponction lombaire chez le nourrisson de moins de 1 an dans des situations évocatrices."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une crise convulsive aiguë qui persiste au-delà de 5 minutes, quelles options de première intention sont citées ?",
+      "choices": [
+        "Diazépam intrarectal",
+        "Midazolam buccal ou intranasal",
+        "Clonazépam selon les protocoles",
+        "Carbamazépine per os"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les benzodiazépines citées en première intention sont le diazépam intrarectal, le midazolam buccal ou intranasal et le clonazépam selon les protocoles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la hiérarchie thérapeutique d’une crise convulsive aiguë, quelles propositions sont exactes ?",
+      "choices": [
+        "Une benzodiazépine est indiquée en première intention si la crise dure plus de 5 minutes",
+        "Le phénobarbital peut être utilisé en seconde ligne selon le contexte",
+        "Un autre antiépileptique de seconde ligne peut être discuté selon le contexte",
+        "La carbamazépine est le traitement de première intention recommandé"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le texte place les benzodiazépines en première intention après 5 minutes, puis le phénobarbital ou un autre antiépileptique en seconde ligne. La carbamazépine n’est pas un traitement de première intention."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une convulsion fébrile simple, quelles attitudes ou informations sont conformes au texte ?",
+      "choices": [
+        "Le risque de récidive lors d’un nouvel épisode fébrile est augmenté",
+        "Un traitement antiépileptique de fond n’est pas indiqué",
+        "Un traitement de secours par benzodiazépine peut être prescrit si les crises sont prolongées",
+        "Le risque ultérieur d’épilepsie est faible"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Après une convulsion fébrile simple, le traitement de fond n’est pas indiqué, le risque d’épilepsie reste faible, mais la récidive fébrile est possible ; un traitement de secours peut être proposé si les crises sont prolongées."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels facteurs augmentent le risque ultérieur d’épilepsie après une convulsion fébrile selon le texte ?",
+      "choices": [
+        "Le caractère complexe de la convulsion fébrile",
+        "La présence d’anomalies neurologiques",
+        "Des antécédents familiaux d’épilepsie",
+        "Le caractère simple isolé de la convulsion fébrile"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le risque d’épilepsie augmente en cas de convulsion complexe, d’anomalies neurologiques ou d’antécédents familiaux d’épilepsie ; il est faible après une convulsion fébrile simple."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la maladie cœliaque, quelles propositions décrivent correctement sa nature ou son terrain ?",
+      "choices": [
+        "C’est une entéropathie auto-immune",
+        "Elle est induite par le gluten",
+        "Elle survient chez un sujet génétiquement prédisposé",
+        "Elle est définie par une infection du système nerveux central"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie cœliaque est définie comme une entéropathie auto-immune induite par le gluten chez un sujet génétiquement prédisposé."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un enfant suspect de maladie cœliaque, quels signes cliniques ou biologiques peuvent participer au tableau selon le texte ?",
+      "choices": [
+        "Cassure pondérale",
+        "Retard statural",
+        "Anémie notamment ferriprive",
+        "Déficit postcritique"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La cassure pondérale, le retard statural et l’anémie ferriprive sont des manifestations possibles de maladie cœliaque. Le déficit postcritique relève de la convulsion fébrile complexe."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le diagnostic de maladie cœliaque, quels éléments biologiques sont cités ?",
+      "choices": [
+        "Anticorps anti-transglutaminase IgA",
+        "Anticorps anti-endomysium",
+        "Dosage des IgA totales",
+        "Dosage systématique de la bilirubine conjuguée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le diagnostic repose notamment sur les anticorps anti-transglutaminase IgA, les anticorps anti-endomysium et le dosage des IgA totales."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles anomalies des biopsies duodénales sont décrites dans la maladie cœliaque ?",
+      "choices": [
+        "Atrophie villositaire souvent totale ou subtotale",
+        "Hyperplasie cryptique",
+        "Lymphocytose intraépithéliale",
+        "Muqueuse duodénale strictement normale"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les biopsies montrent une atrophie villositaire, souvent totale ou subtotale, avec hyperplasie cryptique et lymphocytose intraépithéliale."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les vaccins cités, quelles associations vaccin–type sont exactes ?",
+      "choices": [
+        "BCG : vaccin vivant atténué",
+        "Vaccin antirougeoleux du ROR : vaccin vivant atténué",
+        "Vaccin antitétanique : vaccin non vivant",
+        "Vaccin antigrippal injectable inactivé : vaccin non vivant"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le BCG, le vaccin antirougeoleux du ROR et le vaccin antigrippal vivant intranasal sont vivants atténués ; les vaccins antitétanique et antigrippal injectable inactivé sont non vivants."
+    },
+    {
+      "type": "QCS",
+      "question": "Un enfant fébrile présente une crise convulsive toujours en cours à 7 minutes. Quelle conduite correspond le mieux au texte ?",
+      "choices": [
+        "Administrer une benzodiazépine en première intention",
+        "Attendre systématiquement 15 minutes avant tout traitement",
+        "Introduire d’emblée un traitement antiépileptique de fond",
+        "Prescrire la carbamazépine comme première intention"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Une benzodiazépine est indiquée en première intention si la crise convulsive aiguë persiste au-delà de 5 minutes."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les tableaux suivants, lequel doit être classé comme convulsion fébrile complexe selon le texte ?",
+      "choices": [
+        "Crise généralisée de 10 minutes, unique en 24 heures, examen neurologique normal",
+        "Crise généralisée de 12 minutes avec déficit postcritique",
+        "Crise généralisée de 8 minutes, développement psychomoteur normal, sans déficit postcritique",
+        "Crise généralisée de 14 minutes, unique, sans anomalie neurologique"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La présence d’un déficit postcritique est un critère de convulsion fébrile complexe, même si la durée est inférieure à 15 minutes."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition concernant la diarrhée dans la maladie cœliaque est correcte ?",
+      "choices": [
+        "Elle est obligatoire pour évoquer le diagnostic",
+        "Elle peut être chronique ou intermittente",
+        "Elle exclut le diagnostic si elle est intermittente",
+        "Elle remplace les examens biologiques et histologiques"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "La diarrhée peut être chronique ou intermittente, et le texte précise qu’elle n’est pas constante."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle description histologique est la plus compatible avec une maladie cœliaque selon le texte ?",
+      "choices": [
+        "Atrophie villositaire avec hyperplasie cryptique et lymphocytose intraépithéliale",
+        "Muqueuse duodénale normale sans lymphocytose",
+        "Atrophie isolée sans anomalie cryptique ni lymphocytaire",
+        "Hyperplasie villositaire sans atteinte épithéliale"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "L’association attendue est une atrophie villositaire, souvent totale ou subtotale, avec hyperplasie cryptique et lymphocytose intraépithéliale."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les vaccins suivants, lequel correspond au vaccin antigrippal vivant atténué cité dans le texte lorsqu’il est utilisé ?",
+      "choices": [
+        "Vaccin antigrippal injectable inactivé",
+        "Vaccin antigrippal vivant atténué intranasal",
+        "Vaccin antitétanique",
+        "Vaccin anticoquelucheux"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le texte cite le vaccin antigrippal vivant atténué intranasal comme vaccin vivant atténué lorsqu’il est utilisé."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel élément empêche de retenir la définition d’une convulsion fébrile telle qu’elle est donnée dans le texte ?",
+      "choices": [
+        "Une crise survenant dans un contexte de fièvre",
+        "L’absence d’infection du système nerveux central",
+        "Un antécédent de convulsions non fébriles",
+        "L’absence de trouble métabolique aigu"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "La définition d’une convulsion fébrile exclut les enfants ayant des antécédents de convulsions non fébriles."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la composition du lait de vache comparativement au lait maternel, quelles propositions sont exactes ?",
+      "choices": [
+        "Il contient davantage de protéines.",
+        "Il contient moins de lactose.",
+        "Il a une charge osmolaire plus faible.",
+        "Il contient davantage de sels minéraux."
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le lait de vache contient plus de protéines et de sels minéraux, moins de lactose et une charge osmolaire plus élevée que le lait maternel."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un nouveau-né sain, quelles propositions concernant l’allaitement maternel sont conformes au texte ?",
+      "choices": [
+        "Il doit être proposé précocement après la naissance.",
+        "L’idéal est de le débuter dès la première heure de vie.",
+        "Les tétées sont idéalement à la demande.",
+        "Il ne couvre pas les besoins nutritionnels au-delà du premier mois."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le lait maternel doit être proposé précocement, idéalement dès la première heure, avec des tétées à la demande. Il couvre les besoins jusqu’à 6 mois en allaitement exclusif."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations entre pathologie du nourrisson et adaptation nutritionnelle sont exactes ?",
+      "choices": [
+        "Cholestase : lait enrichi en triglycérides à chaînes moyennes.",
+        "Phénylcétonurie : lait pauvre en phénylalanine.",
+        "Galactosémie congénitale : lait sans lactose et sans galactose.",
+        "Allergie aux protéines du lait de vache sévère : formule aux acides aminés possible."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite ces quatre indications : TCM en cas de cholestase, lait pauvre en phénylalanine dans la phénylcétonurie, lait sans lactose et sans galactose dans la galactosémie, et hydrolysat poussé ou formule aux acides aminés dans l’APLV selon la sévérité."
+    },
+    {
+      "type": "QCM",
+      "question": "Devant un ictère néonatal apparu à J2, quels éléments sont compatibles avec un ictère physiologique selon le texte ?",
+      "choices": [
+        "Bilirubine principalement non conjuguée.",
+        "Absence d’anémie clinique.",
+        "Absence de selles décolorées.",
+        "Hépatosplénomégalie associée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’ictère physiologique apparaît après 24 heures, est surtout non conjugué, sans pâleur, anémie, hépatosplénomégalie ni selles décolorées."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les profils d’ictères pathologiques du nouveau-né, quelles propositions sont exactes ?",
+      "choices": [
+        "L’incompatibilité Rhésus associe une anémie sévère, un test de Coombs positif et une hyperbilirubinémie indirecte.",
+        "L’incompatibilité ABO donne habituellement une anémie souvent modérée avec hyperbilirubinémie indirecte.",
+        "La cholestase néonatale associe volontiers urines foncées et hyperbilirubinémie conjuguée.",
+        "L’hépatite néonatale peut comporter une bilirubine mixte ou conjuguée."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre profils sont explicitement décrits dans le texte parmi les ictères pathologiques du nouveau-né."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un nourrisson de 6 mois, quelles acquisitions peuvent être attendues d’après le texte ?",
+      "choices": [
+        "Appui sur les avant-bras en décubitus ventral.",
+        "Retournement.",
+        "Préhension digitopalmaire.",
+        "Marche autonome."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À 6 mois, le texte cite l’appui sur les avant-bras, le retournement et la préhension digitopalmaire. La marche autonome est attendue entre 12 et 18 mois."
+    },
+    {
+      "type": "QCM",
+      "question": "À 12 mois, quels éléments absents sont évocateurs d’un retard psychomoteur selon les repères fournis ?",
+      "choices": [
+        "Absence de préhension d’un objet présenté.",
+        "Absence de vocalisation syllabique.",
+        "Absence de passage d’un objet d’une main à l’autre.",
+        "Absence isolée de marche autonome si les autres acquisitions sont présentes."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "À 12 mois, l’absence de préhension, de vocalisation syllabique ou de passage d’un objet d’une main à l’autre est évocatrice de retard. L’absence de marche autonome à 12 mois n’est pas forcément pathologique si les autres acquisitions sont présentes."
+    },
+    {
+      "type": "QCM",
+      "question": "En salle de naissance, quels signes orientent plutôt vers une atrésie de l’œsophage que vers une hernie diaphragmatique congénitale ?",
+      "choices": [
+        "Hypersalivation.",
+        "Toux ou cyanose lors des tentatives d’alimentation.",
+        "Fausses routes lors de l’alimentation.",
+        "Abdomen plat ou excavé."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "L’atrésie de l’œsophage est suspectée devant hypersalivation, détresse respiratoire précoce et toux, cyanose ou fausses routes lors des tentatives d’alimentation. L’abdomen plat ou excavé oriente vers une hernie diaphragmatique congénitale."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans l’atrésie de l’œsophage, quelles informations peuvent être obtenues par la radiographie thoraco-abdominale avec sonde en place ?",
+      "choices": [
+        "Identification du cul-de-sac œsophagien supérieur.",
+        "Évaluation de l’aération digestive d’aval.",
+        "Aide à préciser le type d’atrésie.",
+        "Confirmation d’une cholestase néonatale associée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La radiographie avec sonde en place permet d’identifier le cul-de-sac supérieur, d’évaluer l’aération digestive d’aval et d’aider à préciser le type d’atrésie ou la présence d’une fistule trachéo-œsophagienne."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans une hernie diaphragmatique congénitale néonatale, quelles mesures initiales sont conformes au texte ?",
+      "choices": [
+        "Oxygénothérapie ou intubation selon la gravité.",
+        "Pose d’une sonde gastrique en aspiration.",
+        "Réchauffement.",
+        "Ventilation au masque systématique avant transfert."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La prise en charge initiale comprend oxygénothérapie ou intubation selon la gravité, sonde gastrique en aspiration, réchauffement et stabilisation cardiorespiratoire. La ventilation au masque est contre-indiquée."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un nourrisson diarrhéique, quels signes orientent vers une déshydratation extracellulaire ?",
+      "choices": [
+        "Yeux cernés ou enfoncés.",
+        "Pli cutané persistant.",
+        "Dépression de la fontanelle antérieure.",
+        "Sécheresse des muqueuses isolée."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les yeux enfoncés, le pli cutané persistant et la dépression de la fontanelle antérieure sont des signes de déshydratation extracellulaire. La sécheresse des muqueuses évoque plutôt une déshydratation intracellulaire."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la déshydratation du nourrisson, quels éléments correspondent à des troubles hémodynamiques décrits dans le texte ?",
+      "choices": [
+        "Tachycardie.",
+        "Marbrures.",
+        "Allongement du temps de recoloration cutanée.",
+        "Hypotension dans les formes sévères."
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Les troubles hémodynamiques cités sont la tachycardie, les marbrures, l’allongement du temps de recoloration cutanée et l’hypotension dans les formes sévères."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant l’utilisation des solutés de réhydratation orale chez le nourrisson, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils sont indiqués en cas de diarrhée aqueuse.",
+        "Ils sont indiqués en cas de déshydratation légère à modérée.",
+        "Ils peuvent être utilisés pour prévenir la déshydratation lors des diarrhées aiguës.",
+        "Ils sont réservés uniquement aux diarrhées sanglantes sévères."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les SRO sont indiqués dans la diarrhée aqueuse, la déshydratation légère à modérée, notamment autour de 5 %, et la prévention de la déshydratation lors des diarrhées aiguës."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les spasmes du syndrome de West, quelles propositions sont exactes ?",
+      "choices": [
+        "Ils peuvent être en flexion des quatre membres.",
+        "Ils peuvent être en extension des quatre membres.",
+        "Ils peuvent intéresser la nuque en flexion ou en extension.",
+        "Ils durent habituellement plusieurs heures de façon continue."
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Les spasmes du syndrome de West sont brefs, de quelques secondes, souvent en salves, avec mouvements en flexion ou extension des quatre membres et de la nuque."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans la hernie diaphragmatique congénitale, pourquoi la ventilation au masque est-elle contre-indiquée ?",
+      "choices": [
+        "Parce qu’elle aggrave la distension digestive intrathoracique.",
+        "Parce qu’elle provoque une hypoglycémie néonatale.",
+        "Parce qu’elle empêche la pose d’une sonde gastrique.",
+        "Parce qu’elle entraîne une hyperbilirubinémie conjuguée."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte précise que la ventilation au masque aggrave la distension digestive intrathoracique dans la hernie diaphragmatique congénitale."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle acquisition est attendue vers 12 mois selon les repères du développement psychomoteur cités ?",
+      "choices": [
+        "Tenue de la tête.",
+        "Préhension digitopalmaire.",
+        "Premiers mots.",
+        "Station assise sans appui."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les premiers mots sont attendus vers 12 mois. La tenue de la tête est vers 2 mois, la préhension digitopalmaire vers 6 mois et la station assise sans appui vers 8 à 9 mois."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel énoncé décrit correctement la charge osmolaire du lait de vache par rapport au lait maternel ?",
+      "choices": [
+        "Elle est plus élevée dans le lait de vache.",
+        "Elle est identique dans les deux laits.",
+        "Elle est plus faible dans le lait de vache.",
+        "Elle est nulle dans le lait maternel."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le lait de vache a une charge osmolaire plus élevée que le lait maternel."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les manifestations suivantes, laquelle n’est pas une manifestation habituelle du rachitisme selon le texte ?",
+      "choices": [
+        "Chapelet costal.",
+        "Déformations thoraciques.",
+        "Fragilité respiratoire possible.",
+        "Paralysie diaphragmatique."
+      ],
+      "answers": [
+        3
+      ],
+      "explanation": "Le texte précise que la paralysie diaphragmatique n’est pas une manifestation habituelle du rachitisme."
+    },
+    {
+      "type": "QCS",
+      "question": "Chez un nouveau-né ictérique, quel élément oriente le plus vers une cholestase néonatale plutôt que vers un ictère physiologique ?",
+      "choices": [
+        "Apparition après les premières 24 heures.",
+        "Bilirubine principalement non conjuguée.",
+        "Selles décolorées.",
+        "Disparition spontanée en 10 à 15 jours."
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Les selles décolorées sont un signe de cholestase néonatale. Elles sont absentes dans l’ictère physiologique."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel rythme des tétées est idéalement recommandé pour l’allaitement maternel selon le texte ?",
+      "choices": [
+        "À la demande.",
+        "Uniquement toutes les 6 heures.",
+        "Seulement après chaque selle.",
+        "Après disparition complète de l’ictère physiologique."
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le texte indique que les tétées sont idéalement à la demande."
+    },
+    {
+      "type": "QCM",
+      "question": "Avant de classer une crise convulsive sur fièvre en forme simple ou complexe, quelles conditions appartiennent à la définition même d’une convulsion fébrile ?",
+      "choices": [
+        "Absence d’infection du système nerveux central",
+        "Absence de trouble métabolique aigu",
+        "Absence d’antécédent de convulsions non fébriles",
+        "Durée de la crise inférieure à 15 minutes"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La définition impose une fièvre sans infection du SNC, sans trouble métabolique aigu et sans antécédent de convulsions non fébriles. La durée < 15 minutes sert à classer la crise comme simple."
+    },
+    {
+      "type": "QCM",
+      "question": "Parmi les caractéristiques directement liées à la crise convulsive, lesquelles orientent vers une convulsion fébrile complexe ?",
+      "choices": [
+        "Durée supérieure à 15 minutes",
+        "Crise focale ou partielle",
+        "Récidive dans les 24 heures",
+        "Développement psychomoteur normal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Une durée > 15 minutes, une focalisation ou une récidive dans les 24 heures définissent une forme complexe. Le développement psychomoteur normal est au contraire requis pour la forme simple."
+    },
+    {
+      "type": "QCM",
+      "question": "Même si la crise fébrile est généralisée, unique et brève, quels éléments associés empêchent de la considérer comme simple ?",
+      "choices": [
+        "Déficit postcritique",
+        "Examen neurologique anormal",
+        "Épisode unique en 24 heures",
+        "Retard de développement associé"
+      ],
+      "answers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": "Le déficit postcritique, l’examen neurologique anormal et le retard de développement sont des critères de convulsion fébrile complexe. L’épisode unique en 24 heures est un critère de forme simple."
+    },
+    {
+      "type": "QCM",
+      "question": "Chez un nourrisson de moins de 1 an ayant convulsé dans un contexte fébrile, quelles situations renforcent la discussion d’une ponction lombaire ?",
+      "choices": [
+        "Doute clinique",
+        "Vaccination incomplète",
+        "Signes évocateurs d’infection neuroméningée",
+        "Crise généralisée unique de moins de 15 minutes avec examen neurologique normal"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Chez le nourrisson de moins de 1 an, la ponction lombaire doit être discutée largement, surtout en cas de doute clinique, vaccination incomplète ou signes d’infection neuroméningée."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant les examens complémentaires après une convulsion fébrile, quelles propositions sont conformes au texte ?",
+      "choices": [
+        "Un EEG peut être indiqué en cas de convulsion fébrile complexe",
+        "Un EEG est obligatoire après toute convulsion fébrile simple",
+        "Une ponction lombaire doit être largement discutée avant 1 an en cas de signes évocateurs d’infection neuroméningée",
+        "Une ponction lombaire doit être largement discutée avant 1 an en cas de vaccination incomplète"
+      ],
+      "answers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": "L’EEG peut être indiqué dans les formes complexes. La ponction lombaire est largement discutée chez le nourrisson de moins de 1 an, notamment si vaccination incomplète ou signes neuroméningés."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le traitement d’une crise convulsive aiguë persistante, quelles modalités de benzodiazépines sont explicitement citées ?",
+      "choices": [
+        "Diazépam intrarectal",
+        "Midazolam buccal",
+        "Midazolam intranasal",
+        "Clonazépam selon les protocoles"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite comme benzodiazépines de première intention : diazépam intrarectal, midazolam buccal ou intranasal, et clonazépam selon les protocoles."
+    },
+    {
+      "type": "QCM",
+      "question": "Pour une crise convulsive aiguë qui persiste au-delà de 5 minutes, quelles affirmations respectent la stratégie thérapeutique décrite ?",
+      "choices": [
+        "Une benzodiazépine est indiquée en première intention",
+        "Le phénobarbital peut relever d’une seconde ligne selon le contexte",
+        "Un autre antiépileptique peut être utilisé en seconde ligne selon le contexte",
+        "La carbamazépine n’est pas un traitement de première intention"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Au-delà de 5 minutes, une benzodiazépine est utilisée en première intention. Le phénobarbital ou un autre antiépileptique peuvent être discutés en seconde ligne. La carbamazépine n’est pas un traitement de première intention."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une convulsion fébrile, quelles informations doivent être retenues pour le suivi et l’éducation familiale ?",
+      "choices": [
+        "Le risque de récidive lors d’un nouvel épisode fébrile est augmenté",
+        "Un traitement antiépileptique de fond n’est pas indiqué après une convulsion fébrile simple",
+        "Un traitement de secours par benzodiazépine peut être prescrit si les crises sont prolongées",
+        "Le risque ultérieur d’épilepsie est faible après une convulsion fébrile simple"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Ces quatre propositions reprennent les messages pronostiques et thérapeutiques du texte après une convulsion fébrile."
+    },
+    {
+      "type": "QCM",
+      "question": "Après une convulsion fébrile, quels éléments sont associés à une augmentation du risque ultérieur d’épilepsie ?",
+      "choices": [
+        "Convulsion fébrile complexe",
+        "Anomalies neurologiques",
+        "Antécédents familiaux d’épilepsie",
+        "Convulsion fébrile simple isolée"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Le risque d’épilepsie augmente en cas de convulsion complexe, d’anomalies neurologiques ou d’antécédents familiaux d’épilepsie. Il reste faible après une convulsion fébrile simple."
+    },
+    {
+      "type": "QCM",
+      "question": "Concernant la nature de la maladie cœliaque, quelles propositions sont exactes ?",
+      "choices": [
+        "Il s’agit d’une entéropathie auto-immune",
+        "Elle est induite par le gluten",
+        "Elle survient chez un sujet génétiquement prédisposé",
+        "Elle est définie par une diarrhée constante"
+      ],
+      "answers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "La maladie cœliaque est une entéropathie auto-immune induite par le gluten chez un sujet génétiquement prédisposé. La diarrhée n’est pas constante."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans la maladie cœliaque, quels éléments peuvent traduire un retentissement nutritionnel ou général ?",
+      "choices": [
+        "Cassure pondérale",
+        "Retard statural",
+        "Anémie notamment ferriprive",
+        "Asthénie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le texte cite la cassure pondérale, le retard statural, l’anémie notamment ferriprive et l’asthénie parmi les manifestations possibles."
+    },
+    {
+      "type": "QCM",
+      "question": "Quels signes digestifs ou abdominaux sont compatibles avec une maladie cœliaque selon le texte ?",
+      "choices": [
+        "Diarrhée chronique ou intermittente",
+        "Ballonnement abdominal",
+        "Douleurs abdominales",
+        "Anorexie"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "La maladie cœliaque peut se manifester par une diarrhée chronique ou intermittente, un ballonnement abdominal, des douleurs abdominales et une anorexie."
+    },
+    {
+      "type": "QCM",
+      "question": "Dans le diagnostic de maladie cœliaque, quels éléments sont mentionnés ?",
+      "choices": [
+        "Anticorps anti-transglutaminase IgA",
+        "Anticorps anti-endomysium",
+        "Dosage des IgA totales",
+        "Biopsies duodénales"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le diagnostic repose sur les anticorps anti-transglutaminase IgA, les anticorps anti-endomysium, le dosage des IgA totales et les biopsies duodénales."
+    },
+    {
+      "type": "QCM",
+      "question": "Quelles associations vaccin–type sont conformes à la classification fournie ?",
+      "choices": [
+        "BCG : vaccin vivant atténué",
+        "Vaccin antirougeoleux dans le ROR : vaccin vivant atténué",
+        "Vaccin antitétanique : vaccin non vivant",
+        "Vaccin anticoquelucheux : vaccin non vivant"
+      ],
+      "answers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Le BCG et le vaccin antirougeoleux du ROR sont des vaccins vivants atténués. Les vaccins antitétanique et anticoquelucheux sont classés comme non vivants."
+    },
+    {
+      "type": "QCS",
+      "question": "Un enfant fébrile présente une crise généralisée unique, mais durant 16 minutes, avec examen neurologique ensuite normal. Quelle classification est la plus appropriée selon les critères donnés ?",
+      "choices": [
+        "Convulsion fébrile simple",
+        "Convulsion fébrile complexe",
+        "Convulsion non fébrile",
+        "Maladie cœliaque"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Une durée supérieure à 15 minutes suffit à classer la convulsion fébrile comme complexe."
+    },
+    {
+      "type": "QCS",
+      "question": "Quelle proposition résume correctement la première étape médicamenteuse si une crise convulsive aiguë persiste au-delà de 5 minutes ?",
+      "choices": [
+        "Carbamazépine en première intention",
+        "Benzodiazépine en première intention",
+        "Phénobarbital systématiquement en première intention",
+        "Aucun traitement de secours possible"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Si la crise persiste au-delà de 5 minutes, une benzodiazépine est indiquée en première intention."
+    },
+    {
+      "type": "QCS",
+      "question": "Dans le bilan de maladie cœliaque, quel dosage accompagne les anticorps IgA spécifiques afin d’interpréter correctement la sérologie ?",
+      "choices": [
+        "Anticorps anti-endomysium",
+        "Atrophie villositaire",
+        "Dosage des IgA totales",
+        "Hyperplasie cryptique"
+      ],
+      "answers": [
+        2
+      ],
+      "explanation": "Le dosage des IgA totales fait partie du bilan diagnostique avec les anticorps spécifiques."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel ensemble histologique correspond aux biopsies duodénales attendues dans la maladie cœliaque ?",
+      "choices": [
+        "Atrophie villositaire souvent totale ou subtotale avec hyperplasie cryptique et lymphocytose intraépithéliale",
+        "Atrophie villositaire sans hyperplasie cryptique ni lymphocytose intraépithéliale",
+        "Hyperplasie cryptique isolée sans atrophie villositaire",
+        "Lymphocytose intraépithéliale isolée avec villosités normales"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Les biopsies montrent une atrophie villositaire souvent totale ou subtotale, associée à une hyperplasie cryptique et une lymphocytose intraépithéliale."
+    },
+    {
+      "type": "QCS",
+      "question": "Parmi les vaccins antigrippaux cités, lequel est classé comme vaccin vivant atténué lorsqu’il est utilisé ?",
+      "choices": [
+        "Vaccin antigrippal injectable inactivé",
+        "Vaccin antigrippal vivant atténué intranasal",
+        "Vaccin antitétanique",
+        "Vaccin anticoquelucheux"
+      ],
+      "answers": [
+        1
+      ],
+      "explanation": "Le vaccin antigrippal vivant atténué intranasal est classé parmi les vaccins vivants atténués lorsqu’il est utilisé."
+    },
+    {
+      "type": "QCS",
+      "question": "Quel est le traitement de référence de la maladie cœliaque selon le texte ?",
+      "choices": [
+        "Régime strict sans gluten",
+        "Anticorps anti-transglutaminase IgA",
+        "Biopsies duodénales répétées comme traitement",
+        "Traitement antiépileptique de fond"
+      ],
+      "answers": [
+        0
+      ],
+      "explanation": "Le traitement de la maladie cœliaque repose sur un régime strict sans gluten."
+    }
+  ],
+  "status": "done",
+  "error": "",
+  "updatedAt": "2026-07-04T07:36:19.959Z"
+}
