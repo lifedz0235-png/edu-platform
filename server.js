@@ -745,6 +745,223 @@ function saveUsers(users) {
   fs.renameSync(temporaryPath, usersDataPath);
 }
 
+function checkExpiredPlatinumSubscriptions() {
+  const users = readUsers();
+  const now = Date.now();
+  let changed = false;
+
+  users.forEach(user => {
+    if (
+      user.plan !== "platinum" ||
+      !user.subscriptionEndDate
+    ) {
+      return;
+    }
+
+    const endTime =
+      new Date(user.subscriptionEndDate).getTime();
+
+    if (
+      Number.isFinite(endTime) &&
+      endTime <= now &&
+      user.status === "approved"
+    ) {
+      user.status = "suspended";
+      user.paymentStatus = "expired";
+
+      // نرجع حساب الشهر الحالي للصفر
+      user.totalPaid = 0;
+      user.currentPeriodPaid = 0;
+      user.remainingAmount = 12000;
+
+      user.expiredAt =
+        new Date().toISOString();
+
+      changed = true;
+    }
+  });
+
+  if (changed) {
+    saveUsers(users);
+  }
+}
+
+const subscriptionNotificationsPath = path.join(
+  process.cwd(),
+  "public/data/subscription-notifications.json"
+);
+
+function readSubscriptionNotifications() {
+  try {
+    if (!fs.existsSync(subscriptionNotificationsPath)) {
+      fs.writeFileSync(
+        subscriptionNotificationsPath,
+        JSON.stringify([], null, 2)
+      );
+    }
+
+    return JSON.parse(
+      fs.readFileSync(subscriptionNotificationsPath, "utf8")
+    );
+  } catch (error) {
+    console.error(
+      "Erreur lecture notifications abonnements:",
+      error
+    );
+
+    return [];
+  }
+}
+
+function saveSubscriptionNotifications(notifications) {
+  fs.writeFileSync(
+    subscriptionNotificationsPath,
+    JSON.stringify(notifications, null, 2)
+  );
+}
+
+function createSubscriptionNotification({
+  type,
+  user,
+  message
+}) {
+  const notifications =
+    readSubscriptionNotifications();
+
+  const duplicate = notifications.find(notification =>
+    notification.type === type &&
+    String(notification.userId) === String(user.id) &&
+    notification.read !== true
+  );
+
+  if (duplicate) {
+    return;
+  }
+
+  notifications.unshift({
+    id: Date.now(),
+    type,
+    userId: user.id,
+    userName: user.name || "Utilisateur",
+    userEmail: user.email || "",
+    plan: user.plan || "",
+    message,
+    read: false,
+    createdAt: new Date().toISOString()
+  });
+
+  saveSubscriptionNotifications(notifications);
+}
+
+function addOneMonth(dateValue = new Date()) {
+  const date = new Date(dateValue);
+
+  const originalDay = date.getDate();
+
+  date.setDate(1);
+  date.setMonth(date.getMonth() + 1);
+
+  const lastDayOfNewMonth = new Date(
+    date.getFullYear(),
+    date.getMonth() + 1,
+    0
+  ).getDate();
+
+  date.setDate(
+    Math.min(originalDay, lastDayOfNewMonth)
+  );
+
+  return date;
+}
+
+function getSubscriptionDaysRemaining(user) {
+  if (
+    user.plan !== "platinum" ||
+    !user.subscriptionEndDate
+  ) {
+    return null;
+  }
+
+  const now = new Date();
+  const endDate = new Date(user.subscriptionEndDate);
+
+  const difference =
+    endDate.getTime() - now.getTime();
+
+  return Math.ceil(
+    difference / (1000 * 60 * 60 * 24)
+  );
+}
+
+function refreshExpiredSubscriptions() {
+  const users = readUsers();
+
+  let changed = false;
+
+  users.forEach(user => {
+    if (
+      user.plan !== "platinum" ||
+      !user.subscriptionEndDate
+    ) {
+      return;
+    }
+
+    const endDate =
+      new Date(user.subscriptionEndDate);
+
+    if (Number.isNaN(endDate.getTime())) {
+      return;
+    }
+
+    const now = new Date();
+
+    if (endDate <= now) {
+      if (
+        user.paymentStatus !== "expired" ||
+        user.status !== "suspended"
+      ) {
+        user.paymentStatus = "expired";
+        user.status = "suspended";
+        user.currentPeriodPaid = 0;
+        user.expiredAt = now.toISOString();
+
+        createSubscriptionNotification({
+          type: "subscription_expired",
+          user,
+          message:
+            `Abonnement Platinum expiré pour ${user.name || user.email}.`
+        });
+
+        changed = true;
+      }
+
+      return;
+    }
+
+    const daysRemaining =
+      getSubscriptionDaysRemaining(user);
+
+    if (
+      daysRemaining !== null &&
+      daysRemaining <= 7 &&
+      daysRemaining > 0
+    ) {
+      createSubscriptionNotification({
+        type: `subscription_expiring_${daysRemaining}`,
+        user,
+        message:
+          `L’abonnement de ${user.name || user.email} expire dans ${daysRemaining} jour(s).`
+      });
+    }
+  });
+
+  if (changed) {
+    saveUsers(users);
+  }
+
+  return users;
+}
+
 function getUserCommunityStats(userId) {
   const posts = readCommunityPosts();
 
@@ -776,57 +993,209 @@ function getUserCommunityStats(userId) {
 
 app.post("/api/auth/register", (req, res) => {
   const users = readUsers();
-  const { name, email, password, phone, university, promotion } = req.body;
 
-  if (!name || !email || !password) {
-    return res.status(400).json({ error: "Champs obligatoires manquants." });
-  }
-
-  const exists = users.find(u => u.email === email);
-  if (exists) {
-    return res.status(400).json({ error: "Cet email existe déjà." });
-  }
-
-  const newUser = {
-    id: Date.now(),
+  const {
     name,
     email,
     password,
-    phone: phone || "",
-    university: university || "",
-    promotion: promotion || "",
+    phone,
+    university,
+    promotion,
+    plan
+  } = req.body;
+
+  const cleanName = String(name || "").trim();
+
+  const cleanEmail = String(email || "")
+    .trim()
+    .toLowerCase();
+
+  const cleanPassword = String(password || "")
+    .trim();
+
+  const allowedPlans = [
+    "platinum",
+    "gold"
+  ];
+
+  const cleanPhone = String(
+  phone || ""
+).trim();
+
+const cleanUniversity = String(
+  university || ""
+).trim();
+
+const cleanPromotion = String(
+  promotion || ""
+).trim();
+
+if (
+  !cleanName ||
+  !cleanEmail ||
+  !cleanPassword ||
+  !cleanPhone ||
+  !cleanUniversity ||
+  !cleanPromotion
+) {
+  return res.status(400).json({
+    error:
+      "Tous les champs sont obligatoires."
+  });
+}
+
+  if (!allowedPlans.includes(plan)) {
+    return res.status(400).json({
+      error: "Abonnement invalide."
+    });
+  }
+
+  const exists = users.find(
+    user =>
+      String(user.email || "")
+        .trim()
+        .toLowerCase() === cleanEmail
+  );
+
+  if (exists) {
+    return res.status(400).json({
+      error: "Cet email existe déjà."
+    });
+  }
+
+  const isGold = plan === "gold";
+
+  const newUser = {
+    id: Date.now(),
+
+    name: cleanName,
+    email: cleanEmail,
+    password: cleanPassword,
+
+    phone: cleanPhone,
+university: cleanUniversity,
+promotion: cleanPromotion,
+
     role: "student",
+
+    // الحساب لا يدخل حتى تأكيد الدفع
     status: "pending",
+
+    plan,
+
+    planLabel: isGold
+      ? "Pack Gold"
+      : "Pack Platinum",
+
+    paymentStatus: "pending",
+
+    paymentType: isGold
+      ? "one_time"
+      : "monthly",
+
+    subscriptionPrice: isGold
+      ? 140000
+      : 12000,
+
+    subscriptionCurrency: "DZD",
+
+    subscriptionStartDate: null,
+    subscriptionEndDate: null,
+    lastPaymentDate: null,
+    totalPaid: 0,
+lifetimePaid: 0,
+currentPeriodPaid: 0,
+
+remainingAmount: isGold
+  ? 140000
+  : 12000,
+
+payments: [],
+expiredAt: null,
+
+    photoUrl: "",
+    bio: "",
+
     createdAt: new Date().toISOString()
   };
 
   users.push(newUser);
+
   saveUsers(users);
+
+  createSubscriptionNotification({
+  type: "new_registration",
+  user: newUser,
+  message:
+    `Nouvelle demande : ${newUser.name} — ${newUser.planLabel}.`
+});
 
   res.json({
     ok: true,
-    message: "Pré-inscription envoyée. En attente de validation."
+
+    message:
+      "Pré-inscription envoyée. Votre compte sera activé après confirmation du paiement.",
+
+    user: {
+      id: newUser.id,
+      name: newUser.name,
+      email: newUser.email,
+      plan: newUser.plan,
+      planLabel: newUser.planLabel,
+      paymentStatus:
+        newUser.paymentStatus,
+      status: newUser.status
+    }
   });
 });
 
 
 app.post("/api/auth/login", (req, res) => {
+  refreshExpiredSubscriptions();
+
   const users = readUsers();
+
   const { email, password, deviceId } = req.body;
 
-  const user = users.find(u => u.email === email && u.password === password);
+  const user = users.find(
+    item =>
+      String(item.email || "").toLowerCase() ===
+        String(email || "").trim().toLowerCase() &&
+      item.password === password
+  );
 
   if (!user) {
-    return res.status(401).json({ error: "Email ou mot de passe incorrect." });
+    return res.status(401).json({
+      error: "Email ou mot de passe incorrect."
+    });
+  }
+
+  if (
+    user.plan === "platinum" &&
+    user.paymentStatus === "expired"
+  ) {
+    return res.status(403).json({
+      error:
+        "Votre abonnement Platinum est expiré. Renouvelez votre paiement de 12 000 DA. Support : 0771 73 92 06."
+    });
   }
 
   if (user.status !== "approved") {
-    return res.status(403).json({ error: "Compte en attente de validation." });
+    return res.status(403).json({
+      error:
+        user.status === "suspended"
+          ? "Votre compte est suspendu."
+          : "Compte en attente de validation."
+    });
   }
 
-  if (user.activeDeviceId && user.activeDeviceId !== deviceId) {
+  if (
+    user.activeDeviceId &&
+    user.activeDeviceId !== deviceId
+  ) {
     return res.status(403).json({
-      error: "Ce compte est déjà connecté sur un autre appareil."
+      error:
+        "Ce compte est déjà connecté sur un autre appareil."
     });
   }
 
@@ -837,12 +1206,17 @@ app.post("/api/auth/login", (req, res) => {
 
   res.json({
     ok: true,
+
     user: {
       id: user.id,
       name: user.name,
       email: user.email,
       role: user.role,
       status: user.status,
+      plan: user.plan,
+      paymentStatus: user.paymentStatus,
+      subscriptionEndDate:
+        user.subscriptionEndDate || null,
       deviceId
     }
   });
@@ -1038,6 +1412,71 @@ app.delete(
   }
 );
 
+app.get(
+  "/api/admin/subscription-notifications",
+  (req, res) => {
+    refreshExpiredSubscriptions();
+
+    const notifications =
+      readSubscriptionNotifications();
+
+    res.json(notifications);
+  }
+);
+
+app.post(
+  "/api/admin/subscription-notifications/read",
+  (req, res) => {
+    const notifications =
+      readSubscriptionNotifications();
+
+    notifications.forEach(notification => {
+      notification.read = true;
+    });
+
+    saveSubscriptionNotifications(
+      notifications
+    );
+
+    res.json({
+      ok: true
+    });
+  }
+);
+
+app.post(
+  "/api/admin/subscription-notifications/:id/read",
+  (req, res) => {
+    const notifications =
+      readSubscriptionNotifications();
+
+    const notification =
+      notifications.find(
+        item =>
+          String(item.id) ===
+          String(req.params.id)
+      );
+
+    if (!notification) {
+      return res.status(404).json({
+        error: "Notification introuvable."
+      });
+    }
+
+    notification.read = true;
+    notification.readAt =
+      new Date().toISOString();
+
+    saveSubscriptionNotifications(
+      notifications
+    );
+
+    res.json({
+      ok: true
+    });
+  }
+);
+
 app.get("/api/admin/users", (req, res) => {
   const users = readUsers();
   res.json(users);
@@ -1054,6 +1493,202 @@ app.post("/api/admin/users/:id/approve", (req, res) => {
 
   res.json({ ok: true, user });
 });
+
+app.post(
+  "/api/admin/users/:id/confirm-payment",
+  (req, res) => {
+    checkExpiredPlatinumSubscriptions();
+
+    const users = readUsers();
+
+    const user = users.find(
+      item =>
+        String(item.id) ===
+        String(req.params.id)
+    );
+
+    if (!user) {
+      return res.status(404).json({
+        error: "Utilisateur introuvable."
+      });
+    }
+
+    const paidAmount =
+      Number(req.body.paidAmount);
+
+    if (
+      !Number.isFinite(paidAmount) ||
+      paidAmount <= 0
+    ) {
+      return res.status(400).json({
+        error: "Montant payé invalide."
+      });
+    }
+
+    const requiredAmount =
+      user.plan === "gold"
+        ? 140000
+        : user.plan === "platinum"
+          ? 12000
+          : 0;
+
+    if (!requiredAmount) {
+      return res.status(400).json({
+        error:
+          "Aucun pack valide pour cet utilisateur."
+      });
+    }
+
+    const isExpiredPlatinum =
+  user.plan === "platinum" &&
+  (
+    user.paymentStatus === "expired" ||
+    user.status === "suspended"
+  );
+
+const previousPaid =
+  isExpiredPlatinum
+    ? 0
+    : Number(user.totalPaid || 0);
+
+    const remainingBeforePayment =
+      Math.max(
+        requiredAmount - previousPaid,
+        0
+      );
+
+    if (paidAmount > remainingBeforePayment) {
+      return res.status(400).json({
+        error:
+          `Le montant dépasse le reste à payer : ${remainingBeforePayment.toLocaleString("fr-FR")} DA.`
+      });
+    }
+
+    if (isExpiredPlatinum) {
+  user.totalPaid = 0;
+  user.currentPeriodPaid = 0;
+  user.remainingAmount = 12000;
+}
+
+    const now = new Date();
+
+    user.totalPaid =
+      previousPaid + paidAmount;
+
+    user.remainingAmount =
+      Math.max(
+        requiredAmount - user.totalPaid,
+        0
+      );
+
+    user.lastPaymentAmount =
+      paidAmount;
+
+    user.lastPaymentDate =
+      now.toISOString();
+
+    if (!Array.isArray(user.payments)) {
+      user.payments = [];
+    }
+
+    user.payments.push({
+      id: Date.now(),
+      amount: paidAmount,
+      currency: "DZD",
+      paidAt: now.toISOString()
+    });
+
+    // الدفع مازال ناقص
+    if (user.remainingAmount > 0) {
+      user.paymentStatus = "partial";
+      user.status = "pending";
+
+      saveUsers(users);
+
+      createSubscriptionNotification({
+  type: "partial_payment",
+  user,
+  message:
+    `${user.name} a payé ${paidAmount.toLocaleString("fr-FR")} DA. ` +
+    `Reste : ${user.remainingAmount.toLocaleString("fr-FR")} DA.`
+});
+
+      return res.json({
+        ok: true,
+        message:
+          "Paiement partiel enregistré.",
+        user
+      });
+    }
+
+    // الدفع كامل
+    user.paymentStatus = "paid";
+    user.status = "approved";
+    user.expiredAt = null;
+
+    if (user.plan === "platinum") {
+      const endDate = new Date(
+        now.getTime() +
+        30 * 24 * 60 * 60 * 1000
+      );
+
+      user.subscriptionStartDate =
+        now.toISOString();
+
+      user.subscriptionEndDate =
+        endDate.toISOString();
+
+      user.currentPeriodPaid = 12000;
+    }
+
+    if (user.plan === "gold") {
+      user.subscriptionStartDate =
+        user.subscriptionStartDate ||
+        now.toISOString();
+
+      user.subscriptionEndDate = null;
+    }
+
+    saveUsers(users);
+
+    createSubscriptionNotification({
+  type:
+    isExpiredPlatinum
+      ? "subscription_renewed"
+      : "payment_completed",
+
+  user,
+
+  message:
+    user.plan === "platinum"
+      ? (
+          isExpiredPlatinum
+            ? `${user.name} a renouvelé son Pack Platinum jusqu’au ${
+                new Date(
+                  user.subscriptionEndDate
+                ).toLocaleDateString("fr-FR")
+              }.`
+            : `Paiement Platinum confirmé pour ${user.name}. Compte actif jusqu’au ${
+                new Date(
+                  user.subscriptionEndDate
+                ).toLocaleDateString("fr-FR")
+              }.`
+        )
+      : `Paiement Gold complet confirmé pour ${user.name}.`
+});
+
+    res.json({
+      ok: true,
+
+      message:
+        user.plan === "platinum"
+          ? "Paiement confirmé. Compte activé pendant 30 jours."
+          : "Paiement complet. Compte activé définitivement.",
+
+      user
+    });
+  }
+);
 
 app.post("/api/admin/users/:id/refuse", (req, res) => {
   const users = readUsers();
@@ -1322,6 +1957,19 @@ app.use((error, req, res, next) => {
     error: "Erreur interne du serveur."
   });
 });
+
+refreshExpiredSubscriptions();
+
+setInterval(() => {
+  try {
+    refreshExpiredSubscriptions();
+  } catch (error) {
+    console.error(
+      "Erreur vérification abonnements:",
+      error
+    );
+  }
+}, 60 * 60 * 1000);
 
 const server = app.listen(PORT, "0.0.0.0", () => {
   console.log(`SERVER OK: http://localhost:${PORT}`);

@@ -3488,3 +3488,103 @@ body .module-actions small {
   display: block;
   object-fit: cover;
 }
+
+.support-box{
+
+    margin-top:30px;
+
+    padding:25px;
+
+    border-radius:18px;
+
+    background:#111827;
+
+    border:1px solid rgba(255,255,255,.08);
+
+    text-align:center;
+
+}
+
+.support-box h3{
+
+    color:#FFD700;
+
+    margin-bottom:10px;
+
+}
+
+.support-box p{
+
+    color:#d1d5db;
+
+    margin:6px 0;
+
+}
+
+.support-buttons{
+
+    display:flex;
+
+    gap:15px;
+
+    justify-content:center;
+
+    flex-wrap:wrap;
+
+    margin:20px 0;
+
+}
+
+.support-btn{
+
+    text-decoration:none;
+
+    color:white;
+
+    font-weight:bold;
+
+    padding:14px 24px;
+
+    border-radius:12px;
+
+    transition:.3s;
+
+}
+
+.support-btn.phone{
+
+    background:#2563eb;
+
+}
+
+.support-btn.phone:hover{
+
+    transform:translateY(-2px);
+
+    box-shadow:0 0 20px rgba(37,99,235,.5);
+
+}
+
+.support-btn.whatsapp{
+
+    background:#25D366;
+
+}
+
+.support-btn.whatsapp:hover{
+
+    transform:translateY(-2px);
+
+    box-shadow:0 0 20px rgba(37,211,102,.5);
+
+}
+
+.support-info{
+
+    margin-top:15px;
+
+    color:#f3f4f6;
+
+    font-size:15px;
+
+}
