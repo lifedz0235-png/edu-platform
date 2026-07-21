@@ -244,6 +244,14 @@ document.addEventListener("DOMContentLoaded", () => {
       </a>
 
       <a
+  class="pcr-mobile-menu-link"
+  href="/pages/profile/profile.html"
+>
+  <span class="pcr-mobile-menu-icon">👤</span>
+  <span>Mon profil</span>
+</a>
+
+      <a
         class="pcr-mobile-menu-link"
         href="/pages/favoris/favoris.html"
       >
