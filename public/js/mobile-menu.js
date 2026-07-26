@@ -185,6 +185,20 @@ document.addEventListener("DOMContentLoaded", () => {
       font-size: 23px;
     }
 
+    .pcr-mobile-menu-admin {
+      border-color: rgba(255, 213, 0, 0.45);
+      background:
+        linear-gradient(
+          135deg,
+          rgba(255, 213, 0, 0.16),
+          rgba(126, 45, 255, 0.14)
+        );
+      color: #ffd500;
+      box-shadow:
+        inset 0 0 18px rgba(255, 213, 0, 0.05),
+        0 0 20px rgba(255, 213, 0, 0.06);
+    }
+
     .pcr-mobile-menu-logout {
       margin-top: 5px;
 
@@ -215,6 +229,22 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const panel = document.createElement("aside");
   panel.id = "pcr-mobile-menu-panel";
+
+  let mobileMenuUser = null;
+
+  try {
+    mobileMenuUser = JSON.parse(
+      localStorage.getItem("pcr_current_user") || "null"
+    );
+  } catch (error) {
+    console.error(
+      "Erreur lecture utilisateur menu mobile :",
+      error
+    );
+  }
+
+  const isMobileMenuAdmin =
+    String(mobileMenuUser?.role || "").toLowerCase() === "admin";
 
   panel.innerHTML = `
     <div class="pcr-mobile-menu-header">
@@ -250,6 +280,16 @@ document.addEventListener("DOMContentLoaded", () => {
   <span class="pcr-mobile-menu-icon">👤</span>
   <span>Mon profil</span>
 </a>
+
+      ${isMobileMenuAdmin ? `
+      <a
+        class="pcr-mobile-menu-link pcr-mobile-menu-admin"
+        href="/pages/admin/admin.html"
+      >
+        <span class="pcr-mobile-menu-icon">🛡️</span>
+        <span>Administration</span>
+      </a>
+      ` : ""}
 
       <a
         class="pcr-mobile-menu-link"
