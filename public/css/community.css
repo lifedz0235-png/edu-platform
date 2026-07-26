@@ -1735,3 +1735,446 @@ body.modal-open {
 .public-profile-moderation-actions button {
   flex: 1 1 220px;
 }
+
+/* PCR COMMUNITY MOBILE FIX START */
+
+@media screen and (max-width: 768px) {
+  html,
+  body.pcr-community-page {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    overflow-x: hidden !important;
+
+    background: #030611 !important;
+  }
+
+  body.pcr-community-page {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  body.pcr-community-page
+  .community-container {
+    width: 100% !important;
+    max-width: none !important;
+
+    height: auto !important;
+    min-height: 100dvh !important;
+
+    margin: 0 !important;
+
+    padding:
+      18px
+      14px
+      calc(
+        38px +
+        env(safe-area-inset-bottom)
+      )
+      !important;
+
+    display: block !important;
+  }
+
+  body.pcr-community-page
+  .community-container h1 {
+    max-width:
+      calc(100% - 62px) !important;
+
+    margin:
+      20px
+      0
+      8px
+      !important;
+
+    font-size:
+      clamp(
+        32px,
+        9vw,
+        42px
+      )
+      !important;
+
+    line-height: 1.05 !important;
+    letter-spacing: -1px !important;
+  }
+
+  body.pcr-community-page
+  .community-container
+  > p {
+    margin:
+      0
+      0
+      28px
+      !important;
+
+    font-size: 18px !important;
+    line-height: 1.45 !important;
+
+    color: #c5cadb !important;
+  }
+
+  body.pcr-community-page
+  #communitySearch {
+    width: 100% !important;
+
+    min-height: 56px !important;
+
+    margin:
+      0
+      0
+      18px
+      !important;
+
+    padding:
+      0
+      17px
+      !important;
+
+    border-radius: 20px !important;
+
+    font-size: 16px !important;
+  }
+
+  body.pcr-community-page
+  #notificationsBtn {
+    min-height: 48px !important;
+
+    margin:
+      14px
+      0
+      18px
+      !important;
+
+    padding:
+      10px
+      16px
+      !important;
+
+    font-size: 15px !important;
+  }
+
+  /*
+    Suppression du petit scroll intérieur.
+    Toute la page défile normalement.
+  */
+
+  body.pcr-community-page
+  #postsList {
+    width: 100% !important;
+
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+
+    flex: none !important;
+
+    margin:
+      16px
+      0
+      14px
+      !important;
+
+    padding: 0 !important;
+
+    overflow: visible !important;
+
+    scroll-behavior: auto !important;
+  }
+
+  body.pcr-community-page
+  #postsList
+  .post-card {
+    width: 100% !important;
+    max-width: none !important;
+
+    margin:
+      0
+      0
+      14px
+      !important;
+
+    padding: 16px !important;
+
+    border-radius: 22px !important;
+
+    overflow: hidden !important;
+  }
+
+  body.pcr-community-page
+  .post-header {
+    align-items: center !important;
+    gap: 11px !important;
+  }
+
+  body.pcr-community-page
+  .post-actions {
+    display: flex !important;
+    flex-wrap: wrap !important;
+
+    align-items: center !important;
+
+    gap: 8px !important;
+
+    margin-top: 14px !important;
+  }
+
+  body.pcr-community-page
+  .post-actions button,
+  body.pcr-community-page
+  .post-actions span {
+    min-height: 40px !important;
+
+    padding:
+      8px
+      11px
+      !important;
+
+    font-size: 14px !important;
+  }
+
+  body.pcr-community-page
+  .comment-input-box {
+    display: grid !important;
+
+    grid-template-columns:
+      minmax(0, 1fr)
+      !important;
+
+    gap: 10px !important;
+
+    margin-top: 16px !important;
+  }
+
+  body.pcr-community-page
+  .comment-input-box
+  .comment-input {
+    width: 100% !important;
+    min-width: 0 !important;
+
+    min-height: 50px !important;
+
+    padding:
+      12px
+      15px
+      !important;
+
+    border-radius: 17px !important;
+
+    font-size: 16px !important;
+  }
+
+  body.pcr-community-page
+  .comment-input-box
+  button {
+    width: 100% !important;
+
+    min-height: 50px !important;
+
+    border-radius: 17px !important;
+
+    font-size: 16px !important;
+  }
+
+  /*
+    Composer propre et compact.
+  */
+
+  body.pcr-community-page
+  .composer {
+    position: sticky !important;
+
+    left: auto !important;
+    right: auto !important;
+    bottom:
+      calc(
+        8px +
+        env(safe-area-inset-bottom)
+      )
+      !important;
+
+    transform: none !important;
+
+    width: 100% !important;
+    max-width: none !important;
+
+    min-height: 78px !important;
+
+    margin:
+      16px
+      0
+      8px
+      !important;
+
+    padding: 11px !important;
+
+    display: grid !important;
+
+    grid-template-columns:
+      minmax(0, 1fr)
+      52px
+      98px
+      !important;
+
+    align-items: center !important;
+    gap: 8px !important;
+
+    border-radius: 22px !important;
+
+    background:
+      rgba(10, 16, 32, 0.97)
+      !important;
+
+    box-shadow:
+      0 14px 40px
+      rgba(0, 0, 0, 0.42)
+      !important;
+
+    z-index: 9000 !important;
+  }
+
+  body.pcr-community-page
+  .composer-preview,
+  body.pcr-community-page
+  .reply-preview {
+    grid-column:
+      1 / -1
+      !important;
+
+    width: 100% !important;
+
+    margin-bottom: 4px !important;
+  }
+
+  body.pcr-community-page
+  #postText {
+    width: 100% !important;
+    min-width: 0 !important;
+
+    min-height: 56px !important;
+    max-height: 130px !important;
+
+    padding:
+      12px
+      14px
+      !important;
+
+    border-radius: 18px !important;
+
+    font-size: 16px !important;
+    line-height: 1.35 !important;
+
+    resize: none !important;
+  }
+
+  body.pcr-community-page
+  .composer label,
+  body.pcr-community-page
+  .composer
+  .image-button,
+  body.pcr-community-page
+  .composer
+  .camera-button {
+    width: 52px !important;
+    height: 52px !important;
+
+    min-width: 52px !important;
+
+    display: grid !important;
+    place-items: center !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+    border-radius: 18px !important;
+
+    font-size: 21px !important;
+  }
+
+  body.pcr-community-page
+  #publishBtn {
+    width: 98px !important;
+    min-width: 0 !important;
+
+    height: 52px !important;
+
+    margin: 0 !important;
+    padding:
+      0
+      10px
+      !important;
+
+    border-radius: 18px !important;
+
+    font-size: 14px !important;
+    font-weight: 850 !important;
+  }
+
+  /*
+    Dans la Communauté, le bouton menu passe en haut.
+    Il ne couvre plus le composer.
+  */
+
+  body.pcr-community-page
+  #pcr-mobile-menu-button {
+    top:
+      calc(
+        14px +
+        env(safe-area-inset-top)
+      )
+      !important;
+
+    right: 14px !important;
+
+    bottom: auto !important;
+
+    width: 50px !important;
+    height: 50px !important;
+
+    border-radius: 17px !important;
+
+    font-size: 22px !important;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  body.pcr-community-page
+  .composer {
+    grid-template-columns:
+      minmax(0, 1fr)
+      48px
+      82px
+      !important;
+
+    gap: 6px !important;
+  }
+
+  body.pcr-community-page
+  .composer label,
+  body.pcr-community-page
+  .composer
+  .image-button,
+  body.pcr-community-page
+  .composer
+  .camera-button {
+    width: 48px !important;
+    height: 48px !important;
+
+    min-width: 48px !important;
+  }
+
+  body.pcr-community-page
+  #publishBtn {
+    width: 82px !important;
+    height: 48px !important;
+
+    padding:
+      0
+      7px
+      !important;
+
+    font-size: 13px !important;
+  }
+}
+
+/* PCR COMMUNITY MOBILE FIX END */

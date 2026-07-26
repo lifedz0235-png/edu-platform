@@ -193,8 +193,25 @@ async function loadPosts() {
   renderPosts(allCommunityPosts);
 
   setTimeout(() => {
-    const lastPost = postsList.lastElementChild;
-    if (lastPost) lastPost.scrollIntoView({ behavior: "smooth", block: "end" });
+    /*
+      Sur ordinateur, on peut afficher la dernière
+      publication automatiquement.
+
+      Sur téléphone, on garde la page en haut afin
+      que le titre, la recherche et les contrôles
+      restent visibles après le chargement.
+    */
+    if (window.innerWidth > 768) {
+      const lastPost =
+        postsList.lastElementChild;
+
+      if (lastPost) {
+        lastPost.scrollIntoView({
+          behavior: "smooth",
+          block: "end"
+        });
+      }
+    }
   }, 150);
 }
 

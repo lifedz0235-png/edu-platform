@@ -2366,3 +2366,111 @@ video {
     padding-bottom: 92px;
   }
 }
+
+/* PCR MOBILE COMMUNITY BUTTON FIX START */
+
+@media screen and (max-width: 768px) {
+  body.pcr-pro-home {
+    padding-bottom:
+      calc(
+        108px +
+        env(safe-area-inset-bottom)
+      ) !important;
+  }
+
+  body.pcr-pro-home
+  #mobileCommunityButton,
+  body.pcr-pro-home
+  .mobile-community-button {
+    position: fixed !important;
+
+    left: 16px !important;
+    right: 96px !important;
+    bottom:
+      calc(
+        24px +
+        env(safe-area-inset-bottom)
+      ) !important;
+
+    width: auto !important;
+    max-width: none !important;
+    min-width: 0 !important;
+
+    height: 62px !important;
+    min-height: 62px !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    gap: 10px !important;
+
+    padding: 0 18px !important;
+
+    border:
+      1px solid
+      rgba(255, 255, 255, 0.25)
+      !important;
+
+    border-radius: 22px !important;
+
+    background:
+      linear-gradient(
+        135deg,
+        #6757ff 0%,
+        #a438e5 55%,
+        #d63c9e 100%
+      ) !important;
+
+    color: #ffffff !important;
+
+    box-shadow:
+      0 14px 38px
+      rgba(86, 64, 235, 0.42),
+      0 0 25px
+      rgba(204, 56, 166, 0.22)
+      !important;
+
+    text-decoration: none !important;
+
+    overflow: hidden !important;
+
+    z-index: 99997 !important;
+  }
+
+  body.pcr-pro-home
+  #mobileCommunityButton
+  .mobile-community-icon {
+    width: 36px !important;
+    height: 36px !important;
+
+    flex: 0 0 36px !important;
+
+    display: grid !important;
+    place-items: center !important;
+
+    border-radius: 13px !important;
+
+    background:
+      rgba(255, 255, 255, 0.15)
+      !important;
+
+    font-size: 20px !important;
+  }
+
+  body.pcr-pro-home
+  #mobileCommunityButton
+  .mobile-community-label {
+    min-width: 0 !important;
+
+    overflow: hidden !important;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+
+    font-size: 16px !important;
+    font-weight: 850 !important;
+    line-height: 1 !important;
+  }
+}
+
+/* PCR MOBILE COMMUNITY BUTTON FIX END */
