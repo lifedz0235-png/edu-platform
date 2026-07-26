@@ -5,6 +5,20 @@ const approvedUsers = document.getElementById("approvedUsers");
 const userSearch = document.getElementById("userSearch");
 const statusFilter = document.getElementById("statusFilter");
 
+const communityReportsList = document.getElementById(
+  "communityReportsList"
+);
+const communityReportsFilter = document.getElementById(
+  "communityReportsFilter"
+);
+const communityReportsBadge = document.getElementById(
+  "communityReportsBadge"
+);
+const refreshCommunityReports = document.getElementById(
+  "refreshCommunityReports"
+);
+
+
 const notificationBell =
   document.getElementById(
     "notificationBell"
@@ -31,6 +45,272 @@ const markNotificationsRead =
   );
 
 let allUsers = [];
+
+let allCommunityReports = [];
+
+function getAdminCurrentUser() {
+  try {
+    return JSON.parse(
+      localStorage.getItem("pcr_current_user") || "null"
+    );
+  } catch (error) {
+    return null;
+  }
+}
+
+function escapeAdminHtml(value) {
+  return String(value || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+}
+
+function getCommunityReportReason(reason) {
+  const labels = {
+    inappropriate: "Contenu inapproprié",
+    harassment: "Harcèlement",
+    spam: "Spam / publicité",
+    misinformation: "Information trompeuse",
+    other: "Autre"
+  };
+
+  return labels[reason] || "Non précisé";
+}
+
+function getCommunityReportStatus(status) {
+  const labels = {
+    open: "Ouvert",
+    reviewing: "En cours",
+    resolved: "Résolu",
+    dismissed: "Ignoré"
+  };
+
+  return labels[status] || status;
+}
+
+function renderCommunityReports(reports) {
+  if (!communityReportsList) return;
+
+  const openCount = allCommunityReports.filter(
+    report => ["open", "reviewing"].includes(report.status)
+  ).length;
+
+  if (communityReportsBadge) {
+    communityReportsBadge.textContent =
+      `${openCount} ouvert${openCount > 1 ? "s" : ""}`;
+  }
+
+  if (!reports.length) {
+    communityReportsList.innerHTML = `
+      <div class="reports-empty">
+        Aucun signalement dans cette catégorie.
+      </div>
+    `;
+    return;
+  }
+
+  communityReportsList.innerHTML = reports.map(report => `
+    <article class="community-report-item status-${escapeAdminHtml(report.status)}">
+      <div class="community-report-head">
+        <div>
+          <span class="report-status">
+            ${getCommunityReportStatus(report.status)}
+          </span>
+          <strong>${getCommunityReportReason(report.reason)}</strong>
+        </div>
+        <time>
+          ${report.createdAt
+            ? new Date(report.createdAt).toLocaleString("fr-FR")
+            : ""
+          }
+        </time>
+      </div>
+
+      <div class="community-report-grid">
+        <div>
+          <span>Signalé par</span>
+          <strong>${escapeAdminHtml(report.reporterName)}</strong>
+        </div>
+        <div>
+          <span>Auteur concerné</span>
+          <strong>${escapeAdminHtml(report.snapshot?.authorName)}</strong>
+        </div>
+        <div>
+          <span>Type</span>
+          <strong>${escapeAdminHtml(report.targetType)}</strong>
+        </div>
+      </div>
+
+      <blockquote>
+        ${escapeAdminHtml(
+          report.snapshot?.text || "Contenu non disponible"
+        )}
+      </blockquote>
+
+      ${report.snapshot?.imageUrl ? `
+        <a
+          class="report-image-link"
+          href="${escapeAdminHtml(report.snapshot.imageUrl)}"
+          target="_blank"
+          rel="noopener"
+        >Voir l’image signalée</a>
+      ` : ""}
+
+      ${report.details ? `
+        <p class="report-details">
+          <strong>Précisions :</strong>
+          ${escapeAdminHtml(report.details)}
+        </p>
+      ` : ""}
+
+      <label class="report-note-label">
+        Note administrateur
+        <textarea
+          id="report-note-${report.id}"
+          maxlength="1000"
+          placeholder="Note interne facultative..."
+        >${escapeAdminHtml(report.adminNote || "")}</textarea>
+      </label>
+
+      <div class="community-report-actions">
+        <button
+          class="reset"
+          onclick="handleCommunityReport('${report.id}', 'reviewing', 'none')"
+        >Prendre en charge</button>
+
+        ${report.targetType !== "user" ? `
+          <button
+            class="delete"
+            onclick="handleCommunityReport('${report.id}', 'resolved', 'delete_content')"
+          >Supprimer le contenu</button>
+        ` : ""}
+
+        <button
+          class="suspend"
+          onclick="handleCommunityReport('${report.id}', 'resolved', 'suspend_user')"
+        >Suspendre l’auteur</button>
+
+        <button
+          class="report-dismiss"
+          onclick="handleCommunityReport('${report.id}', 'dismissed', 'none')"
+        >Ignorer</button>
+      </div>
+    </article>
+  `).join("");
+}
+
+async function loadCommunityReports() {
+  if (!communityReportsList) return;
+
+  const admin = getAdminCurrentUser();
+  if (!admin) return;
+
+  try {
+    const res = await fetch(
+      `/api/admin/community/reports?adminId=${encodeURIComponent(admin.id)}&status=all`
+    );
+    const result = await res.json();
+
+    if (!res.ok || !Array.isArray(result)) {
+      throw new Error(
+        result.error || "Impossible de charger les signalements."
+      );
+    }
+
+    allCommunityReports = result;
+    applyCommunityReportsFilter();
+  } catch (error) {
+    console.error(error);
+    communityReportsList.innerHTML = `
+      <div class="reports-empty reports-error">
+        ${escapeAdminHtml(error.message)}
+      </div>
+    `;
+  }
+}
+
+function applyCommunityReportsFilter() {
+  const status = communityReportsFilter?.value || "all";
+  const reports = status === "all"
+    ? allCommunityReports
+    : allCommunityReports.filter(
+        report => report.status === status
+      );
+
+  renderCommunityReports(reports);
+}
+
+async function handleCommunityReport(reportId, status, action) {
+  const admin = getAdminCurrentUser();
+  if (!admin) return;
+
+  if (
+    action === "delete_content" &&
+    !confirm("Supprimer définitivement le contenu signalé ?")
+  ) {
+    return;
+  }
+
+  if (
+    action === "suspend_user" &&
+    !confirm("Suspendre le compte de l’auteur signalé ?")
+  ) {
+    return;
+  }
+
+  const note = document.getElementById(
+    `report-note-${reportId}`
+  )?.value || "";
+
+  try {
+    const res = await fetch(
+      `/api/admin/community/reports/${reportId}`,
+      {
+        method: "PATCH",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          adminId: admin.id,
+          status,
+          action,
+          adminNote: note
+        })
+      }
+    );
+
+    const result = await res.json();
+    if (!res.ok) {
+      throw new Error(result.error || "Action impossible.");
+    }
+
+    await loadCommunityReports();
+    if (action === "suspend_user") {
+      await loadUsers();
+    }
+  } catch (error) {
+    alert(error.message);
+  }
+}
+
+if (communityReportsFilter) {
+  communityReportsFilter.addEventListener(
+    "change",
+    applyCommunityReportsFilter
+  );
+}
+
+if (refreshCommunityReports) {
+  refreshCommunityReports.addEventListener(
+    "click",
+    loadCommunityReports
+  );
+}
+
+window.handleCommunityReport = handleCommunityReport;
+
 
 async function loadUsers() {
   const res = await fetch("/api/admin/users");
@@ -981,3 +1261,9 @@ loadAdminNotifications();
 setInterval(() => {
   loadAdminNotifications();
 }, 30000);
+
+loadCommunityReports();
+
+setInterval(() => {
+  loadCommunityReports();
+}, 60000);

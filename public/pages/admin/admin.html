@@ -93,6 +93,41 @@
     <div id="usersTable"></div>
   </section>
 
+
+<section class="admin-card community-reports-card">
+  <div class="section-head">
+    <div>
+      <h2>🚩 Signalements Community</h2>
+      <p>
+        Examiner les contenus signalés, supprimer le contenu
+        ou suspendre l’auteur.
+      </p>
+    </div>
+
+    <span id="communityReportsBadge" class="reports-badge">0 ouvert</span>
+  </div>
+
+  <div class="admin-tools reports-tools">
+    <select id="communityReportsFilter">
+      <option value="all">Tous les signalements</option>
+      <option value="open">Ouverts</option>
+      <option value="reviewing">En cours</option>
+      <option value="resolved">Résolus</option>
+      <option value="dismissed">Ignorés</option>
+    </select>
+
+    <button
+      id="refreshCommunityReports"
+      class="reset"
+      type="button"
+    >Actualiser</button>
+  </div>
+
+  <div id="communityReportsList" class="community-reports-list">
+    <p>Chargement des signalements...</p>
+  </div>
+</section>
+
 <section class="admin-card">
   <div class="section-head">
     <h2>Gestion des cours</h2>

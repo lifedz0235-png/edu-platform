@@ -1,11 +1,88 @@
+import "dotenv/config";
+
 import express from "express";
 import cors from "cors";
 import path from "path";
 import fs from "fs";
+import crypto from "crypto";
+import bcrypt from "bcryptjs";
 import multer from "multer";
 import { fileURLToPath } from "url";
 
 const app = express();
+
+const PASSWORD_SALT_ROUNDS = 12;
+
+/**
+ * Vérifie si la valeur enregistrée est déjà un hash bcrypt.
+ */
+function isBcryptHash(value) {
+  return (
+    typeof value === "string" &&
+    /^\$2[aby]\$\d{2}\$[./A-Za-z0-9]{53}$/.test(value)
+  );
+}
+
+/**
+ * Génère un hash bcrypt sécurisé.
+ */
+async function hashUserPassword(password) {
+  const cleanPassword = String(password || "");
+
+  if (!cleanPassword) {
+    throw new Error("Mot de passe vide.");
+  }
+
+  return bcrypt.hash(
+    cleanPassword,
+    PASSWORD_SALT_ROUNDS
+  );
+}
+
+/**
+ * Vérifie un mot de passe.
+ *
+ * Supporte temporairement :
+ * - les nouveaux mots de passe bcrypt ;
+ * - les anciens mots de passe enregistrés en clair.
+ */
+async function verifyUserPassword(
+  enteredPassword,
+  storedPassword
+) {
+  const entered = String(enteredPassword || "");
+  const stored = String(storedPassword || "");
+
+  if (!entered || !stored) {
+    return false;
+  }
+
+  if (isBcryptHash(stored)) {
+    return bcrypt.compare(entered, stored);
+  }
+
+  return entered === stored;
+}
+
+/**
+ * Supprime les données sensibles avant d'envoyer un utilisateur au frontend.
+ */
+function sanitizeUser(user) {
+  if (!user || typeof user !== "object") {
+    return user;
+  }
+
+  const {
+    password,
+    passwordHash,
+    resetPasswordTokenHash,
+    resetPasswordExpiresAt,
+    resetPasswordRequestedAt,
+    ...safeUser
+  } = user;
+
+  return safeUser;
+}
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -38,6 +115,8 @@ app.use(express.static(path.join(__dirname, "public")));
 
 const communityDataPath = path.join(process.cwd(), "public/data/community-posts.json");
 const notificationsDataPath = path.join(process.cwd(), "public/data/community-notifications.json");
+const communityReportsDataPath = path.join(process.cwd(), "public/data/community-reports.json");
+const communityBlocksDataPath = path.join(process.cwd(), "public/data/community-blocks.json");
 
 const communityStorage = multer.diskStorage({
   destination: function (req, file, cb) {
@@ -49,7 +128,27 @@ const communityStorage = multer.diskStorage({
   }
 });
 
-const uploadCommunity = multer({ storage: communityStorage });
+const uploadCommunity = multer({
+  storage: communityStorage,
+  limits: {
+    fileSize: 5 * 1024 * 1024
+  },
+  fileFilter: function (req, file, cb) {
+    const allowedTypes = [
+      "image/jpeg",
+      "image/png",
+      "image/webp"
+    ];
+
+    if (!allowedTypes.includes(file.mimetype)) {
+      return cb(
+        new Error("Format d’image non autorisé.")
+      );
+    }
+
+    cb(null, true);
+  }
+});
 
 const profileStorage = multer.diskStorage({
   destination: function (req, file, cb) {
@@ -150,6 +249,187 @@ function getRequestUser(userId) {
   return users.find(
     user => String(user.id) === String(userId)
   );
+}
+
+
+function readJsonArrayFile(filePath, label) {
+  try {
+    if (!fs.existsSync(filePath)) {
+      fs.writeFileSync(filePath, "[]", "utf-8");
+      return [];
+    }
+
+    const content = fs.readFileSync(filePath, "utf-8").trim();
+    if (!content) return [];
+
+    const parsed = JSON.parse(content);
+    return Array.isArray(parsed) ? parsed : [];
+  } catch (error) {
+    console.error(`Erreur lecture ${label}:`, error);
+    return [];
+  }
+}
+
+function saveJsonArrayFile(filePath, data) {
+  const temporaryPath = `${filePath}.tmp`;
+  fs.writeFileSync(
+    temporaryPath,
+    JSON.stringify(data, null, 2),
+    "utf-8"
+  );
+  fs.renameSync(temporaryPath, filePath);
+}
+
+function readCommunityReports() {
+  return readJsonArrayFile(
+    communityReportsDataPath,
+    "community-reports.json"
+  );
+}
+
+function saveCommunityReports(reports) {
+  saveJsonArrayFile(communityReportsDataPath, reports);
+}
+
+function readCommunityBlocks() {
+  return readJsonArrayFile(
+    communityBlocksDataPath,
+    "community-blocks.json"
+  );
+}
+
+function saveCommunityBlocks(blocks) {
+  saveJsonArrayFile(communityBlocksDataPath, blocks);
+}
+
+function isAdminUser(user) {
+  return String(user?.role || "").toLowerCase() === "admin";
+}
+
+function isApprovedCommunityUser(user) {
+  if (!user) return false;
+  if (isAdminUser(user)) return true;
+
+  return String(user.status || "").toLowerCase() === "approved";
+}
+
+function hasAcceptedCommunityRules(user) {
+  return Boolean(user?.communityRulesAcceptedAt) || isAdminUser(user);
+}
+
+function isBlockedBetween(firstUserId, secondUserId) {
+  if (
+    firstUserId === undefined ||
+    firstUserId === null ||
+    secondUserId === undefined ||
+    secondUserId === null
+  ) {
+    return false;
+  }
+
+  const first = String(firstUserId);
+  const second = String(secondUserId);
+
+  return readCommunityBlocks().some(block => {
+    const blocker = String(block.blockerId);
+    const blocked = String(block.blockedUserId);
+
+    return (
+      (blocker === first && blocked === second) ||
+      (blocker === second && blocked === first)
+    );
+  });
+}
+
+function getCommunityTarget({ posts, targetType, postId, commentId, targetUserId }) {
+  const post = posts.find(
+    item => String(item.id) === String(postId)
+  );
+
+  if (targetType === "post") {
+    if (!post) return null;
+
+    return {
+      post,
+      comment: null,
+      targetUserId: resolvePostAuthorId(post),
+      snapshot: {
+        text: String(post.text || "").slice(0, 1000),
+        imageUrl: post.imageUrl || "",
+        authorName: post.authorName || "Utilisateur PCR"
+      }
+    };
+  }
+
+  if (targetType === "comment") {
+    if (!post) return null;
+
+    const comment = (post.comments || []).find(
+      item => String(item.id) === String(commentId)
+    );
+
+    if (!comment) return null;
+
+    return {
+      post,
+      comment,
+      targetUserId: comment.authorId,
+      snapshot: {
+        text: String(comment.text || "").slice(0, 1000),
+        imageUrl: "",
+        authorName: comment.authorName || "Utilisateur PCR"
+      }
+    };
+  }
+
+  if (targetType === "user") {
+    const targetUser = getRequestUser(targetUserId);
+    if (!targetUser) return null;
+
+    return {
+      post: null,
+      comment: null,
+      targetUserId: targetUser.id,
+      snapshot: {
+        text: "Profil utilisateur signalé",
+        imageUrl: targetUser.photoUrl || "",
+        authorName: targetUser.name || "Utilisateur PCR"
+      }
+    };
+  }
+
+  return null;
+}
+
+function deleteReportedContent(report, posts) {
+  if (report.targetType === "post") {
+    const postIndex = posts.findIndex(
+      item => String(item.id) === String(report.postId)
+    );
+
+    if (postIndex === -1) return false;
+
+    deleteCommunityImage(posts[postIndex].imageUrl);
+    posts.splice(postIndex, 1);
+    return true;
+  }
+
+  if (report.targetType === "comment") {
+    const post = posts.find(
+      item => String(item.id) === String(report.postId)
+    );
+
+    if (!post) return false;
+
+    const before = (post.comments || []).length;
+    post.comments = (post.comments || []).filter(
+      item => String(item.id) !== String(report.commentId)
+    );
+
+    return post.comments.length !== before;
+  }
+
+  return false;
 }
 
 function canManageContent(requestUser, authorId) {
@@ -337,6 +617,7 @@ app.get("/", (req, res) => {
 app.get("/api/community/posts", (req, res) => {
   const posts = readCommunityPosts();
   const users = readUsers();
+  const viewerId = req.query.userId;
 
   function getPublicUser(authorId, authorName) {
     let user = null;
@@ -351,7 +632,6 @@ app.get("/api/community/posts", (req, res) => {
       );
     }
 
-    // دعم المنشورات القديمة التي لا تحتوي authorId
     if (!user && authorName) {
       user = users.find(
         item =>
@@ -383,69 +663,59 @@ app.get("/api/community/posts", (req, res) => {
     };
   }
 
-  const enrichedPosts = posts.map(post => {
+  const visiblePosts = viewerId
+    ? posts.filter(post => {
+        const authorId = resolvePostAuthorId(post);
+        return !isBlockedBetween(viewerId, authorId);
+      })
+    : posts;
+
+  const enrichedPosts = visiblePosts.map(post => {
     const author = getPublicUser(
       post.authorId,
       post.authorName
     );
 
-    const enrichedComments = (post.comments || []).map(
-      comment => {
-        const commentAuthor = getPublicUser(
-          comment.authorId,
-          comment.authorName
-        );
-
-        return {
-          ...comment,
-
-          authorId:
-            comment.authorId ||
-            commentAuthor.id,
-
-          authorName:
-            commentAuthor.name,
-
-          authorRole:
-            commentAuthor.role,
-
-          authorPhotoUrl:
-            commentAuthor.photoUrl,
-
-          authorUniversity:
-            commentAuthor.university,
-
-          authorPromotion:
-            commentAuthor.promotion
-        };
-      }
+    const visibleComments = (post.comments || []).filter(
+      comment =>
+        !viewerId ||
+        !isBlockedBetween(viewerId, comment.authorId)
     );
+
+    const enrichedComments = visibleComments.map(comment => {
+      const commentAuthor = getPublicUser(
+        comment.authorId,
+        comment.authorName
+      );
+
+      return {
+        ...comment,
+        authorId: comment.authorId || commentAuthor.id,
+        authorName: commentAuthor.name,
+        authorRole: commentAuthor.role,
+        authorPhotoUrl: commentAuthor.photoUrl,
+        authorUniversity: commentAuthor.university,
+        authorPromotion: commentAuthor.promotion
+      };
+    });
+
+    const replyTo =
+      post.replyTo &&
+      viewerId &&
+      isBlockedBetween(viewerId, post.replyTo.authorId)
+        ? null
+        : post.replyTo;
 
     return {
       ...post,
-
-      authorId:
-        post.authorId ||
-        author.id,
-
-      authorName:
-        author.name,
-
-      authorRole:
-        author.role,
-
-      authorPhotoUrl:
-        author.photoUrl,
-
-      authorBio:
-        author.bio,
-
-      authorUniversity:
-        author.university,
-
-      authorPromotion:
-        author.promotion,
-
+      authorId: post.authorId || author.id,
+      authorName: author.name,
+      authorRole: author.role,
+      authorPhotoUrl: author.photoUrl,
+      authorBio: author.bio,
+      authorUniversity: author.university,
+      authorPromotion: author.promotion,
+      replyTo,
       comments: enrichedComments
     };
   });
@@ -455,17 +725,51 @@ app.get("/api/community/posts", (req, res) => {
 
 app.post("/api/community/posts", uploadCommunity.single("image"), (req, res) => {
   const posts = readCommunityPosts();
+  const requestUser = getRequestUser(req.body.authorId);
+
+  if (!requestUser || !isApprovedCommunityUser(requestUser)) {
+    if (req.file) {
+      deleteCommunityImage(`/uploads/community/${req.file.filename}`);
+    }
+
+    return res.status(401).json({
+      error: "Compte utilisateur non autorisé."
+    });
+  }
+
+  if (!hasAcceptedCommunityRules(requestUser)) {
+    if (req.file) {
+      deleteCommunityImage(`/uploads/community/${req.file.filename}`);
+    }
+
+    return res.status(403).json({
+      error: "Vous devez accepter les règles de la communauté."
+    });
+  }
+
+  if (
+    req.body.replyToAuthorId &&
+    isBlockedBetween(requestUser.id, req.body.replyToAuthorId)
+  ) {
+    if (req.file) {
+      deleteCommunityImage(`/uploads/community/${req.file.filename}`);
+    }
+
+    return res.status(403).json({
+      error: "Interaction impossible avec cet utilisateur."
+    });
+  }
 
   const newPost = {
   id: Date.now(),
 
   authorId: Number(req.body.authorId),
 
-  authorName: req.body.authorName || "Étudiant PCR",
+  authorName: requestUser.name || "Étudiant PCR",
 
-  authorRole: req.body.authorRole || "student",
+  authorRole: requestUser.role || "student",
 
-  text: req.body.text || "",
+  text: String(req.body.text || "").trim().slice(0, 5000),
 
   imageUrl: req.file
     ? `/uploads/community/${req.file.filename}`
@@ -533,11 +837,25 @@ app.post("/api/community/posts/:id/like", (req, res) => {
   }
 
   const userId = req.body.userId;
-  const userName = req.body.userName || "Utilisateur PCR";
+  const requestUser = getRequestUser(userId);
+  const userName = requestUser?.name || "Utilisateur PCR";
 
-  if (!userId) {
-    return res.status(400).json({
-      error: "Utilisateur manquant"
+  if (!requestUser || !isApprovedCommunityUser(requestUser)) {
+    return res.status(401).json({
+      error: "Utilisateur non autorisé"
+    });
+  }
+
+  if (!hasAcceptedCommunityRules(requestUser)) {
+    return res.status(403).json({
+      error: "Règles de la communauté non acceptées."
+    });
+  }
+
+  const postAuthorId = resolvePostAuthorId(post);
+  if (isBlockedBetween(userId, postAuthorId)) {
+    return res.status(403).json({
+      error: "Interaction impossible avec cet utilisateur."
     });
   }
 
@@ -605,9 +923,24 @@ app.post("/api/community/posts/:id/comments", (req, res) => {
     });
   }
 
-  if (!authorId) {
-    return res.status(400).json({
-      error: "Utilisateur manquant"
+  const requestUser = getRequestUser(authorId);
+
+  if (!requestUser || !isApprovedCommunityUser(requestUser)) {
+    return res.status(401).json({
+      error: "Utilisateur non autorisé"
+    });
+  }
+
+  if (!hasAcceptedCommunityRules(requestUser)) {
+    return res.status(403).json({
+      error: "Règles de la communauté non acceptées."
+    });
+  }
+
+  const postAuthorId = resolvePostAuthorId(post);
+  if (isBlockedBetween(authorId, postAuthorId)) {
+    return res.status(403).json({
+      error: "Interaction impossible avec cet utilisateur."
     });
   }
 
@@ -618,9 +951,9 @@ app.post("/api/community/posts/:id/comments", (req, res) => {
   const newComment = {
     id: Date.now(),
     authorId,
-    authorName: authorName || "Étudiant PCR",
-    authorRole: authorRole || "student",
-    text: text.trim(),
+    authorName: requestUser.name || "Étudiant PCR",
+    authorRole: requestUser.role || "student",
+    text: text.trim().slice(0, 2000),
     likes: 0,
     likedBy: [],
     createdAt: new Date().toISOString()
@@ -650,17 +983,111 @@ app.post("/api/community/posts/:id/comments", (req, res) => {
 
   
 
+
+app.delete("/api/community/posts/:postId/comments/:commentId", (req, res) => {
+  const posts = readCommunityPosts();
+  const post = posts.find(
+    item => String(item.id) === String(req.params.postId)
+  );
+
+  if (!post) {
+    return res.status(404).json({
+      error: "Publication introuvable."
+    });
+  }
+
+  const commentIndex = (post.comments || []).findIndex(
+    item => String(item.id) === String(req.params.commentId)
+  );
+
+  if (commentIndex === -1) {
+    return res.status(404).json({
+      error: "Commentaire introuvable."
+    });
+  }
+
+  const requestUser = getRequestUser(req.body.userId);
+  if (!requestUser) {
+    return res.status(401).json({
+      error: "Utilisateur non authentifié."
+    });
+  }
+
+  const comment = post.comments[commentIndex];
+  if (!canManageContent(requestUser, comment.authorId)) {
+    return res.status(403).json({
+      error: "Vous ne pouvez pas supprimer ce commentaire."
+    });
+  }
+
+  post.comments.splice(commentIndex, 1);
+  saveCommunityPosts(posts);
+
+  res.json({
+    ok: true,
+    message: "Commentaire supprimé."
+  });
+});
+
 app.post("/api/community/posts/:postId/comments/:commentId/like", (req, res) => {
   const posts = readCommunityPosts();
 
-  const post = posts.find(p => p.id == req.params.postId);
-  if (!post) return res.status(404).json({ error: "Post introuvable" });
+  const post = posts.find(
+    item => String(item.id) === String(req.params.postId)
+  );
 
-  const comment = (post.comments || []).find(c => c.id == req.params.commentId);
-  if (!comment) return res.status(404).json({ error: "Commentaire introuvable" });
+  if (!post) {
+    return res.status(404).json({
+      error: "Publication introuvable"
+    });
+  }
 
-  comment.likes = (comment.likes || 0) + 1;
+  const comment = (post.comments || []).find(
+    item => String(item.id) === String(req.params.commentId)
+  );
 
+  if (!comment) {
+    return res.status(404).json({
+      error: "Commentaire introuvable"
+    });
+  }
+
+  const requestUser = getRequestUser(req.body.userId);
+  if (!requestUser || !isApprovedCommunityUser(requestUser)) {
+    return res.status(401).json({
+      error: "Utilisateur non autorisé"
+    });
+  }
+
+  if (!hasAcceptedCommunityRules(requestUser)) {
+    return res.status(403).json({
+      error: "Règles de la communauté non acceptées."
+    });
+  }
+
+  if (isBlockedBetween(requestUser.id, comment.authorId)) {
+    return res.status(403).json({
+      error: "Interaction impossible avec cet utilisateur."
+    });
+  }
+
+  if (!Array.isArray(comment.likedBy)) {
+    comment.likedBy = [];
+  }
+
+  const alreadyLiked = comment.likedBy.some(
+    id => String(id) === String(requestUser.id)
+  );
+
+  if (alreadyLiked) {
+    comment.likedBy = comment.likedBy.filter(
+      id => String(id) !== String(requestUser.id)
+    );
+  } else {
+    comment.likedBy.push(requestUser.id);
+  }
+
+  comment.likes = comment.likedBy.length;
   saveCommunityPosts(posts);
 
   res.json(comment);
@@ -709,6 +1136,347 @@ app.post("/api/community/notifications/read", (req, res) => {
 });
 
 
+
+
+app.get("/api/community/moderation/status", (req, res) => {
+  const user = getRequestUser(req.query.userId);
+
+  if (!user) {
+    return res.status(401).json({
+      error: "Utilisateur non authentifié."
+    });
+  }
+
+  const blocks = readCommunityBlocks().filter(
+    block => String(block.blockerId) === String(user.id)
+  );
+
+  const users = readUsers();
+  const blockedUsers = blocks.map(block => {
+    const blockedUser = users.find(
+      item => String(item.id) === String(block.blockedUserId)
+    );
+
+    return {
+      id: block.blockedUserId,
+      name: blockedUser?.name || "Utilisateur PCR",
+      photoUrl: blockedUser?.photoUrl || "",
+      blockedAt: block.createdAt
+    };
+  });
+
+  res.json({
+    rulesAccepted: hasAcceptedCommunityRules(user),
+    rulesAcceptedAt: user.communityRulesAcceptedAt || null,
+    blockedUsers
+  });
+});
+
+app.post("/api/community/rules/accept", (req, res) => {
+  const users = readUsers();
+  const user = users.find(
+    item => String(item.id) === String(req.body.userId)
+  );
+
+  if (!user || !isApprovedCommunityUser(user)) {
+    return res.status(401).json({
+      error: "Utilisateur non autorisé."
+    });
+  }
+
+  user.communityRulesAcceptedAt =
+    user.communityRulesAcceptedAt || new Date().toISOString();
+
+  saveUsers(users);
+
+  res.json({
+    ok: true,
+    user: sanitizeUser(user)
+  });
+});
+
+app.post("/api/community/blocks", (req, res) => {
+  const blocker = getRequestUser(req.body.userId);
+  const blocked = getRequestUser(req.body.blockedUserId);
+
+  if (!blocker || !blocked) {
+    return res.status(404).json({
+      error: "Utilisateur introuvable."
+    });
+  }
+
+  if (String(blocker.id) === String(blocked.id)) {
+    return res.status(400).json({
+      error: "Vous ne pouvez pas vous bloquer vous-même."
+    });
+  }
+
+  if (isAdminUser(blocked)) {
+    return res.status(400).json({
+      error: "Le compte administrateur ne peut pas être bloqué."
+    });
+  }
+
+  const blocks = readCommunityBlocks();
+  const exists = blocks.some(
+    block =>
+      String(block.blockerId) === String(blocker.id) &&
+      String(block.blockedUserId) === String(blocked.id)
+  );
+
+  if (!exists) {
+    blocks.unshift({
+      id: crypto.randomUUID(),
+      blockerId: blocker.id,
+      blockedUserId: blocked.id,
+      createdAt: new Date().toISOString()
+    });
+
+    saveCommunityBlocks(blocks);
+  }
+
+  res.json({
+    ok: true,
+    message: "Utilisateur bloqué."
+  });
+});
+
+app.delete("/api/community/blocks/:blockedUserId", (req, res) => {
+  const blocker = getRequestUser(req.body.userId);
+
+  if (!blocker) {
+    return res.status(401).json({
+      error: "Utilisateur non authentifié."
+    });
+  }
+
+  const blocks = readCommunityBlocks();
+  const filtered = blocks.filter(
+    block =>
+      !(
+        String(block.blockerId) === String(blocker.id) &&
+        String(block.blockedUserId) === String(req.params.blockedUserId)
+      )
+  );
+
+  saveCommunityBlocks(filtered);
+
+  res.json({
+    ok: true,
+    message: "Utilisateur débloqué."
+  });
+});
+
+app.post("/api/community/reports", (req, res) => {
+  const reporter = getRequestUser(req.body.reporterId);
+
+  if (!reporter || !isApprovedCommunityUser(reporter)) {
+    return res.status(401).json({
+      error: "Utilisateur non autorisé."
+    });
+  }
+
+  if (!hasAcceptedCommunityRules(reporter)) {
+    return res.status(403).json({
+      error: "Règles de la communauté non acceptées."
+    });
+  }
+
+  const allowedTypes = ["post", "comment", "user"];
+  const allowedReasons = [
+    "inappropriate",
+    "harassment",
+    "spam",
+    "misinformation",
+    "other"
+  ];
+
+  const targetType = String(req.body.targetType || "");
+  const reason = String(req.body.reason || "");
+
+  if (!allowedTypes.includes(targetType)) {
+    return res.status(400).json({
+      error: "Type de signalement invalide."
+    });
+  }
+
+  if (!allowedReasons.includes(reason)) {
+    return res.status(400).json({
+      error: "Motif de signalement invalide."
+    });
+  }
+
+  const posts = readCommunityPosts();
+  const target = getCommunityTarget({
+    posts,
+    targetType,
+    postId: req.body.postId,
+    commentId: req.body.commentId,
+    targetUserId: req.body.targetUserId
+  });
+
+  if (!target) {
+    return res.status(404).json({
+      error: "Contenu ou utilisateur introuvable."
+    });
+  }
+
+  if (String(target.targetUserId) === String(reporter.id)) {
+    return res.status(400).json({
+      error: "Vous ne pouvez pas signaler votre propre contenu."
+    });
+  }
+
+  const reports = readCommunityReports();
+  const duplicate = reports.some(report =>
+    String(report.reporterId) === String(reporter.id) &&
+    String(report.targetType) === targetType &&
+    String(report.postId || "") === String(req.body.postId || "") &&
+    String(report.commentId || "") === String(req.body.commentId || "") &&
+    ["open", "reviewing"].includes(report.status)
+  );
+
+  if (duplicate) {
+    return res.status(409).json({
+      error: "Vous avez déjà signalé ce contenu."
+    });
+  }
+
+  const newReport = {
+    id: crypto.randomUUID(),
+    reporterId: reporter.id,
+    reporterName: reporter.name || "Utilisateur PCR",
+    targetType,
+    postId: req.body.postId || null,
+    commentId: req.body.commentId || null,
+    targetUserId: target.targetUserId,
+    reason,
+    details: String(req.body.details || "").trim().slice(0, 1000),
+    snapshot: target.snapshot,
+    status: "open",
+    createdAt: new Date().toISOString(),
+    handledAt: null,
+    handledBy: null,
+    adminNote: "",
+    action: "none"
+  };
+
+  reports.unshift(newReport);
+  saveCommunityReports(reports);
+
+  res.status(201).json({
+    ok: true,
+    report: newReport,
+    message: "Signalement envoyé à la modération."
+  });
+});
+
+app.get("/api/admin/community/reports", (req, res) => {
+  const admin = getRequestUser(req.query.adminId);
+
+  if (!isAdminUser(admin)) {
+    return res.status(403).json({
+      error: "Accès administrateur requis."
+    });
+  }
+
+  const status = String(req.query.status || "all");
+  const reports = readCommunityReports();
+
+  const filtered = status === "all"
+    ? reports
+    : reports.filter(report => report.status === status);
+
+  res.json(filtered);
+});
+
+app.patch("/api/admin/community/reports/:reportId", (req, res) => {
+  const admin = getRequestUser(req.body.adminId);
+
+  if (!isAdminUser(admin)) {
+    return res.status(403).json({
+      error: "Accès administrateur requis."
+    });
+  }
+
+  const reports = readCommunityReports();
+  const report = reports.find(
+    item => String(item.id) === String(req.params.reportId)
+  );
+
+  if (!report) {
+    return res.status(404).json({
+      error: "Signalement introuvable."
+    });
+  }
+
+  const allowedStatuses = [
+    "open",
+    "reviewing",
+    "resolved",
+    "dismissed"
+  ];
+
+  const allowedActions = [
+    "none",
+    "delete_content",
+    "suspend_user"
+  ];
+
+  const status = String(req.body.status || report.status);
+  const action = String(req.body.action || "none");
+
+  if (!allowedStatuses.includes(status)) {
+    return res.status(400).json({
+      error: "Statut invalide."
+    });
+  }
+
+  if (!allowedActions.includes(action)) {
+    return res.status(400).json({
+      error: "Action invalide."
+    });
+  }
+
+  if (action === "delete_content") {
+    const posts = readCommunityPosts();
+    const deleted = deleteReportedContent(report, posts);
+
+    if (deleted) {
+      saveCommunityPosts(posts);
+    }
+  }
+
+  if (action === "suspend_user") {
+    const users = readUsers();
+    const targetUser = users.find(
+      item => String(item.id) === String(report.targetUserId)
+    );
+
+    if (targetUser && !isAdminUser(targetUser)) {
+      targetUser.status = "suspended";
+      targetUser.activeDeviceId = null;
+      targetUser.suspendedAt = new Date().toISOString();
+      targetUser.suspendedReason =
+        "Suspension après signalement communautaire";
+      saveUsers(users);
+    }
+  }
+
+  report.status = status;
+  report.action = action;
+  report.adminNote = String(req.body.adminNote || "").trim().slice(0, 1000);
+  report.handledBy = admin.id;
+  report.handledAt = new Date().toISOString();
+
+  saveCommunityReports(reports);
+
+  res.json({
+    ok: true,
+    report
+  });
+});
+
 const usersDataPath = path.join(process.cwd(), "public/data/users.json");
 
 function readUsers() {
@@ -743,6 +1511,353 @@ function saveUsers(users) {
   );
 
   fs.renameSync(temporaryPath, usersDataPath);
+}
+
+/* =========================================================
+   PASSWORD RESET
+========================================================= */
+
+const PASSWORD_RESET_DURATION_MS =
+  15 * 60 * 1000;
+
+const forgotPasswordAttempts = new Map();
+
+function normalizeEmail(value) {
+  return String(value || "")
+    .trim()
+    .toLowerCase();
+}
+
+function createPasswordResetToken() {
+  return crypto
+    .randomBytes(32)
+    .toString("hex");
+}
+
+function hashPasswordResetToken(token) {
+  return crypto
+    .createHash("sha256")
+    .update(String(token))
+    .digest("hex");
+}
+
+function getPasswordResetBaseUrl() {
+  return String(
+    process.env.APP_BASE_URL ||
+    "https://pcrdz.com"
+  ).replace(/\/+$/, "");
+}
+
+function cleanExpiredPasswordResetData(users) {
+  const now = Date.now();
+  let changed = false;
+
+  users.forEach(user => {
+    if (
+      user.resetPasswordExpiresAt &&
+      new Date(
+        user.resetPasswordExpiresAt
+      ).getTime() <= now
+    ) {
+      delete user.resetPasswordTokenHash;
+      delete user.resetPasswordExpiresAt;
+      delete user.resetPasswordRequestedAt;
+
+      changed = true;
+    }
+  });
+
+  if (changed) {
+    saveUsers(users);
+  }
+
+  return users;
+}
+
+function checkForgotPasswordRateLimit(req, email) {
+  const forwarded =
+    req.headers["x-forwarded-for"];
+
+  const ip = String(
+    forwarded ||
+    req.socket.remoteAddress ||
+    "unknown"
+  )
+    .split(",")[0]
+    .trim();
+
+  const key = `${ip}:${email}`;
+  const now = Date.now();
+
+  const existing =
+    forgotPasswordAttempts.get(key);
+
+  if (
+    existing &&
+    now - existing < 60 * 1000
+  ) {
+    return false;
+  }
+
+  forgotPasswordAttempts.set(key, now);
+
+  return true;
+}
+
+async function sendPasswordResetEmail({
+  recipientEmail,
+  recipientName,
+  resetUrl
+}) {
+  const apiKey = String(
+    process.env.BREVO_API_KEY || ""
+  ).trim();
+
+  const senderEmail = String(
+    process.env.BREVO_SENDER_EMAIL || ""
+  ).trim();
+
+  const senderName = String(
+    process.env.BREVO_SENDER_NAME ||
+    "PCR Learning"
+  ).trim();
+
+  if (!apiKey) {
+    throw new Error(
+      "BREVO_API_KEY manquant."
+    );
+  }
+
+  if (!senderEmail) {
+    throw new Error(
+      "BREVO_SENDER_EMAIL manquant."
+    );
+  }
+
+  const response = await fetch(
+    "https://api.brevo.com/v3/smtp/email",
+    {
+      method: "POST",
+
+      headers: {
+        accept: "application/json",
+        "content-type": "application/json",
+        "api-key": apiKey
+      },
+
+      body: JSON.stringify({
+        sender: {
+          name: senderName,
+          email: senderEmail
+        },
+
+        to: [
+          {
+            email: recipientEmail,
+            name:
+              recipientName ||
+              "Étudiant PCR"
+          }
+        ],
+
+        subject:
+          "Réinitialisation de votre mot de passe PCR",
+
+        htmlContent: `
+          <!DOCTYPE html>
+          <html lang="fr">
+          <head>
+            <meta charset="UTF-8">
+          </head>
+
+          <body
+            style="
+              margin:0;
+              padding:0;
+              background:#050611;
+              font-family:Arial,sans-serif;
+              color:#ffffff;
+            "
+          >
+            <div
+              style="
+                max-width:620px;
+                margin:0 auto;
+                padding:32px 18px;
+              "
+            >
+              <div
+                style="
+                  background:#111321;
+                  border:1px solid #33364d;
+                  border-radius:20px;
+                  padding:32px;
+                "
+              >
+                <h1
+                  style="
+                    margin:0 0 12px;
+                    color:#ffe600;
+                    font-size:28px;
+                  "
+                >
+                  PCR Learning
+                </h1>
+
+                <h2
+                  style="
+                    margin:0 0 20px;
+                    font-size:22px;
+                  "
+                >
+                  Réinitialisation du mot de passe
+                </h2>
+
+                <p
+                  style="
+                    color:#d8d9e2;
+                    line-height:1.7;
+                  "
+                >
+                  Bonjour ${escapeHtml(
+                    recipientName ||
+                    "Étudiant PCR"
+                  )},
+                </p>
+
+                <p
+                  style="
+                    color:#d8d9e2;
+                    line-height:1.7;
+                  "
+                >
+                  Une demande de réinitialisation
+                  du mot de passe a été effectuée
+                  pour votre compte PCR Learning.
+                </p>
+
+                <div
+                  style="
+                    text-align:center;
+                    margin:30px 0;
+                  "
+                >
+                  <a
+                    href="${resetUrl}"
+                    style="
+                      display:inline-block;
+                      padding:15px 25px;
+                      border-radius:999px;
+                      background:
+                        linear-gradient(
+                          135deg,
+                          #7c19ff,
+                          #e24c9e
+                        );
+                      color:#ffffff;
+                      font-weight:700;
+                      text-decoration:none;
+                    "
+                  >
+                    Modifier mon mot de passe
+                  </a>
+                </div>
+
+                <p
+                  style="
+                    color:#b9bbc8;
+                    line-height:1.7;
+                  "
+                >
+                  Ce lien est valable pendant
+                  15 minutes et ne peut être
+                  utilisé qu'une seule fois.
+                </p>
+
+                <p
+                  style="
+                    color:#b9bbc8;
+                    line-height:1.7;
+                  "
+                >
+                  Si vous n'avez pas demandé
+                  cette modification, ignorez
+                  simplement cet e-mail.
+                </p>
+
+                <hr
+                  style="
+                    border:0;
+                    border-top:1px solid #303347;
+                    margin:28px 0;
+                  "
+                >
+
+                <p
+                  style="
+                    margin:0;
+                    color:#85889a;
+                    font-size:13px;
+                  "
+                >
+                  PCR Learning — Plateforme
+                  Clinique Résidanat
+                </p>
+              </div>
+            </div>
+          </body>
+          </html>
+        `,
+
+        textContent:
+          `Bonjour ${recipientName || "Étudiant PCR"},\n\n` +
+          `Utilisez ce lien pour modifier votre mot de passe :\n` +
+          `${resetUrl}\n\n` +
+          `Ce lien est valable pendant 15 minutes.\n\n` +
+          `PCR Learning`
+      })
+    }
+  );
+
+  const responseText =
+    await response.text();
+
+  let responseData = {};
+
+  if (responseText) {
+    try {
+      responseData =
+        JSON.parse(responseText);
+    } catch {
+      responseData = {
+        raw: responseText
+      };
+    }
+  }
+
+  if (!response.ok) {
+    console.error(
+      "Erreur Brevo:",
+      response.status,
+      responseData
+    );
+
+    throw new Error(
+      responseData.message ||
+      "Impossible d'envoyer l'e-mail."
+    );
+  }
+
+  return responseData;
+}
+
+function escapeHtml(value) {
+  return String(value || "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
 }
 
 function checkExpiredPlatinumSubscriptions() {
@@ -991,7 +2106,7 @@ function getUserCommunityStats(userId) {
   };
 }
 
-app.post("/api/auth/register", (req, res) => {
+app.post("/api/auth/register", async (req, res) => {
   const users = readUsers();
 
   const {
@@ -1065,12 +2180,15 @@ if (
 
   const isGold = plan === "gold";
 
+  const hashedPassword =
+  await hashUserPassword(cleanPassword);
+
   const newUser = {
     id: Date.now(),
 
     name: cleanName,
     email: cleanEmail,
-    password: cleanPassword,
+    password: hashedPassword,
 
     phone: cleanPhone,
 university: cleanUniversity,
@@ -1149,78 +2267,482 @@ expiredAt: null,
   });
 });
 
+app.post(
+  "/api/auth/forgot-password",
+  async (req, res) => {
+    const genericResponse = {
+      ok: true,
 
-app.post("/api/auth/login", (req, res) => {
-  refreshExpiredSubscriptions();
+      message:
+        "Si un compte correspond à cette adresse, un lien de réinitialisation vous sera envoyé."
+    };
 
-  const users = readUsers();
+    try {
+      const email =
+        normalizeEmail(req.body.email);
 
-  const { email, password, deviceId } = req.body;
+      if (!email) {
+        return res.status(400).json({
+          error:
+            "Veuillez saisir votre adresse e-mail."
+        });
+      }
 
-  const user = users.find(
-    item =>
-      String(item.email || "").toLowerCase() ===
-        String(email || "").trim().toLowerCase() &&
-      item.password === password
-  );
+      if (
+        !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(
+          email
+        )
+      ) {
+        return res.status(400).json({
+          error:
+            "Adresse e-mail invalide."
+        });
+      }
 
-  if (!user) {
-    return res.status(401).json({
-      error: "Email ou mot de passe incorrect."
-    });
-  }
+      if (
+        !checkForgotPasswordRateLimit(
+          req,
+          email
+        )
+      ) {
+        return res.status(429).json({
+          error:
+            "Veuillez attendre une minute avant de réessayer."
+        });
+      }
 
-  if (
-    user.plan === "platinum" &&
-    user.paymentStatus === "expired"
-  ) {
-    return res.status(403).json({
-      error:
-        "Votre abonnement Platinum est expiré. Renouvelez votre paiement de 12 000 DA. Support : 0771 73 92 06."
-    });
-  }
+      let users =
+        cleanExpiredPasswordResetData(
+          readUsers()
+        );
 
-  if (user.status !== "approved") {
-    return res.status(403).json({
-      error:
-        user.status === "suspended"
-          ? "Votre compte est suspendu."
-          : "Compte en attente de validation."
-    });
-  }
+      const user = users.find(
+        item =>
+          normalizeEmail(item.email) ===
+          email
+      );
 
-  if (
-    user.activeDeviceId &&
-    user.activeDeviceId !== deviceId
-  ) {
-    return res.status(403).json({
-      error:
-        "Ce compte est déjà connecté sur un autre appareil."
-    });
-  }
+      /*
+        نرجع نفس الرسالة حتى لو الحساب غير موجود،
+        لمنع معرفة الحسابات المسجلة.
+      */
+      if (!user) {
+        return res.json(
+          genericResponse
+        );
+      }
 
-  user.activeDeviceId = deviceId;
-  user.lastLoginAt = new Date().toISOString();
+      const rawToken =
+        createPasswordResetToken();
 
-  saveUsers(users);
+      user.resetPasswordTokenHash =
+        hashPasswordResetToken(
+          rawToken
+        );
 
-  res.json({
-    ok: true,
+      user.resetPasswordExpiresAt =
+        new Date(
+          Date.now() +
+          PASSWORD_RESET_DURATION_MS
+        ).toISOString();
 
-    user: {
-      id: user.id,
-      name: user.name,
-      email: user.email,
-      role: user.role,
-      status: user.status,
-      plan: user.plan,
-      paymentStatus: user.paymentStatus,
-      subscriptionEndDate:
-        user.subscriptionEndDate || null,
-      deviceId
+      user.resetPasswordRequestedAt =
+        new Date().toISOString();
+
+      saveUsers(users);
+
+      const resetUrl =
+        `${getPasswordResetBaseUrl()}` +
+        `/pages/auth/reset-password.html` +
+        `?token=${encodeURIComponent(
+          rawToken
+        )}`;
+
+      try {
+        await sendPasswordResetEmail({
+          recipientEmail: user.email,
+          recipientName: user.name,
+          resetUrl
+        });
+      } catch (emailError) {
+        delete user.resetPasswordTokenHash;
+        delete user.resetPasswordExpiresAt;
+        delete user.resetPasswordRequestedAt;
+
+        saveUsers(users);
+
+        throw emailError;
+      }
+
+      return res.json(
+        genericResponse
+      );
+
+    } catch (error) {
+      console.error(
+        "Erreur forgot-password:",
+        error
+      );
+
+      return res.status(500).json({
+        error:
+          "Impossible d'envoyer l'e-mail pour le moment."
+      });
     }
-  });
-});
+  }
+);
+
+app.get(
+  "/api/auth/reset-password/validate",
+  (req, res) => {
+    try {
+      const token = String(
+        req.query.token || ""
+      ).trim();
+
+      if (!token) {
+        return res.status(400).json({
+          valid: false,
+          error:
+            "Lien de réinitialisation invalide."
+        });
+      }
+
+      const tokenHash =
+        hashPasswordResetToken(token);
+
+      const users =
+        cleanExpiredPasswordResetData(
+          readUsers()
+        );
+
+      const user = users.find(
+        item =>
+          item.resetPasswordTokenHash ===
+          tokenHash
+      );
+
+      if (!user) {
+        return res.status(400).json({
+          valid: false,
+          error:
+            "Ce lien est invalide ou a expiré."
+        });
+      }
+
+      const expiresAt =
+        new Date(
+          user.resetPasswordExpiresAt
+        ).getTime();
+
+      if (
+        !Number.isFinite(expiresAt) ||
+        expiresAt <= Date.now()
+      ) {
+        return res.status(400).json({
+          valid: false,
+          error:
+            "Ce lien a expiré."
+        });
+      }
+
+      return res.json({
+        valid: true
+      });
+
+    } catch (error) {
+      console.error(
+        "Erreur validation token:",
+        error
+      );
+
+      return res.status(500).json({
+        valid: false,
+        error:
+          "Impossible de vérifier ce lien."
+      });
+    }
+  }
+);
+
+app.post(
+  "/api/auth/reset-password",
+  async (req, res) => {
+    try {
+      const token = String(
+        req.body.token || ""
+      ).trim();
+
+      const password = String(
+        req.body.password || ""
+      );
+
+      const confirmPassword = String(
+        req.body.confirmPassword || ""
+      );
+
+      if (!token) {
+        return res.status(400).json({
+          error:
+            "Lien de réinitialisation invalide."
+        });
+      }
+
+      if (password.length < 8) {
+        return res.status(400).json({
+          error:
+            "Le mot de passe doit contenir au moins 8 caractères."
+        });
+      }
+
+      if (
+        !/[A-Za-z]/.test(password) ||
+        !/[0-9]/.test(password)
+      ) {
+        return res.status(400).json({
+          error:
+            "Le mot de passe doit contenir au moins une lettre et un chiffre."
+        });
+      }
+
+      if (
+        password !== confirmPassword
+      ) {
+        return res.status(400).json({
+          error:
+            "Les mots de passe ne correspondent pas."
+        });
+      }
+
+      const tokenHash =
+        hashPasswordResetToken(token);
+
+      const users =
+        cleanExpiredPasswordResetData(
+          readUsers()
+        );
+
+      const user = users.find(
+        item =>
+          item.resetPasswordTokenHash ===
+          tokenHash
+      );
+
+      if (!user) {
+        return res.status(400).json({
+          error:
+            "Ce lien est invalide ou a expiré."
+        });
+      }
+
+      const expiresAt =
+        new Date(
+          user.resetPasswordExpiresAt
+        ).getTime();
+
+      if (
+        !Number.isFinite(expiresAt) ||
+        expiresAt <= Date.now()
+      ) {
+        delete user.resetPasswordTokenHash;
+        delete user.resetPasswordExpiresAt;
+        delete user.resetPasswordRequestedAt;
+
+        saveUsers(users);
+
+        return res.status(400).json({
+          error:
+            "Ce lien a expiré. Effectuez une nouvelle demande."
+        });
+      }
+
+      user.password =
+  await hashUserPassword(password);
+
+      /*
+        غلق الجلسة القديمة بعد تغيير كلمة المرور.
+      */
+      user.activeDeviceId = "";
+      user.lastLogoutAt =
+        new Date().toISOString();
+
+      user.passwordUpdatedAt =
+        new Date().toISOString();
+
+      delete user.resetPasswordTokenHash;
+      delete user.resetPasswordExpiresAt;
+      delete user.resetPasswordRequestedAt;
+
+      saveUsers(users);
+
+      return res.json({
+        ok: true,
+
+        message:
+          "Votre mot de passe a été modifié. Vous pouvez maintenant vous connecter."
+      });
+
+    } catch (error) {
+      console.error(
+        "Erreur reset-password:",
+        error
+      );
+
+      return res.status(500).json({
+        error:
+          "Impossible de modifier le mot de passe."
+      });
+    }
+  }
+);
+
+
+app.post(
+  "/api/auth/login",
+  async (req, res) => {
+    try {
+      refreshExpiredSubscriptions();
+
+      const users = readUsers();
+
+      const email = normalizeEmail(
+        req.body.email
+      );
+
+      const password = String(
+        req.body.password || ""
+      );
+
+      const deviceId = String(
+        req.body.deviceId || ""
+      ).trim();
+
+      if (!email || !password) {
+        return res.status(400).json({
+          error:
+            "Veuillez saisir votre e-mail et votre mot de passe."
+        });
+      }
+
+      const user = users.find(
+        item =>
+          normalizeEmail(item.email) ===
+          email
+      );
+
+      if (!user) {
+        return res.status(401).json({
+          error:
+            "Email ou mot de passe incorrect."
+        });
+      }
+
+      const passwordIsValid =
+        await verifyUserPassword(
+          password,
+          user.password
+        );
+
+      if (!passwordIsValid) {
+        return res.status(401).json({
+          error:
+            "Email ou mot de passe incorrect."
+        });
+      }
+
+      /*
+        Migration automatique des anciens comptes.
+
+        Si le mot de passe est encore enregistré
+        en clair, il est remplacé par un hash bcrypt
+        dès la première connexion réussie.
+      */
+      if (!isBcryptHash(user.password)) {
+        user.password =
+          await hashUserPassword(password);
+
+        user.passwordMigratedAt =
+          new Date().toISOString();
+      }
+
+      if (
+        user.plan === "platinum" &&
+        user.paymentStatus === "expired"
+      ) {
+        saveUsers(users);
+
+        return res.status(403).json({
+          error:
+            "Votre abonnement Platinum est expiré. Renouvelez votre paiement de 12 000 DA. Support : 0771 73 92 06."
+        });
+      }
+
+      if (user.status !== "approved") {
+        saveUsers(users);
+
+        return res.status(403).json({
+          error:
+            user.status === "suspended"
+              ? "Votre compte est suspendu."
+              : "Compte en attente de validation."
+        });
+      }
+
+      if (
+        user.activeDeviceId &&
+        user.activeDeviceId !== deviceId
+      ) {
+        saveUsers(users);
+
+        return res.status(403).json({
+          error:
+            "Ce compte est déjà connecté sur un autre appareil."
+        });
+      }
+
+      user.activeDeviceId = deviceId;
+
+      user.lastLoginAt =
+        new Date().toISOString();
+
+      saveUsers(users);
+
+      return res.json({
+        ok: true,
+
+        user: {
+          id: user.id,
+          name: user.name,
+          email: user.email,
+          role: user.role,
+          status: user.status,
+          plan: user.plan,
+          paymentStatus:
+            user.paymentStatus,
+
+          subscriptionEndDate:
+            user.subscriptionEndDate ||
+            null,
+
+          deviceId
+        }
+      });
+
+    } catch (error) {
+      console.error(
+        "Erreur login:",
+        error
+      );
+
+      return res.status(500).json({
+        error:
+          "Impossible de vous connecter pour le moment."
+      });
+    }
+  }
+);
+
+
 
 app.post("/api/auth/logout", (req, res) => {
   const users = readUsers();
@@ -1454,6 +2976,138 @@ app.delete(
   }
 );
 
+app.post(
+  "/api/profile/:userId/change-password",
+  async (req, res) => {
+    try {
+      const users = readUsers();
+
+      const user = users.find(
+        item =>
+          String(item.id) ===
+          String(req.params.userId)
+      );
+
+      if (!user) {
+        return res.status(404).json({
+          error:
+            "Utilisateur introuvable."
+        });
+      }
+
+      const currentPassword = String(
+        req.body.currentPassword || ""
+      );
+
+      const newPassword = String(
+        req.body.newPassword || ""
+      );
+
+      const confirmPassword = String(
+        req.body.confirmPassword || ""
+      );
+
+      if (
+        !currentPassword ||
+        !newPassword ||
+        !confirmPassword
+      ) {
+        return res.status(400).json({
+          error:
+            "Tous les champs sont obligatoires."
+        });
+      }
+
+      const currentPasswordIsValid =
+        await verifyUserPassword(
+          currentPassword,
+          user.password
+        );
+
+      if (!currentPasswordIsValid) {
+        return res.status(401).json({
+          error:
+            "Le mot de passe actuel est incorrect."
+        });
+      }
+
+      if (newPassword.length < 8) {
+        return res.status(400).json({
+          error:
+            "Le nouveau mot de passe doit contenir au moins 8 caractères."
+        });
+      }
+
+      if (
+        !/[A-Za-z]/.test(newPassword) ||
+        !/[0-9]/.test(newPassword)
+      ) {
+        return res.status(400).json({
+          error:
+            "Le nouveau mot de passe doit contenir au moins une lettre et un chiffre."
+        });
+      }
+
+      if (
+        newPassword !== confirmPassword
+      ) {
+        return res.status(400).json({
+          error:
+            "Les nouveaux mots de passe ne correspondent pas."
+        });
+      }
+
+      const samePassword =
+        await verifyUserPassword(
+          newPassword,
+          user.password
+        );
+
+      if (samePassword) {
+        return res.status(400).json({
+          error:
+            "Le nouveau mot de passe doit être différent de l'ancien."
+        });
+      }
+
+      user.password =
+        await hashUserPassword(newPassword);
+
+      user.activeDeviceId = "";
+
+      user.passwordUpdatedAt =
+        new Date().toISOString();
+
+      user.lastLogoutAt =
+        new Date().toISOString();
+
+      delete user.resetPasswordTokenHash;
+      delete user.resetPasswordExpiresAt;
+      delete user.resetPasswordRequestedAt;
+
+      saveUsers(users);
+
+      return res.json({
+        ok: true,
+
+        message:
+          "Mot de passe modifié avec succès. Veuillez vous reconnecter."
+      });
+
+    } catch (error) {
+      console.error(
+        "Erreur changement mot de passe:",
+        error
+      );
+
+      return res.status(500).json({
+        error:
+          "Impossible de modifier le mot de passe."
+      });
+    }
+  }
+);
+
 app.get(
   "/api/admin/subscription-notifications",
   (req, res) => {
@@ -1521,7 +3175,10 @@ app.post(
 
 app.get("/api/admin/users", (req, res) => {
   const users = readUsers();
-  res.json(users);
+
+  res.json(
+    users.map(sanitizeUser)
+  );
 });
 
 app.post("/api/admin/users/:id/approve", (req, res) => {
@@ -1768,23 +3425,81 @@ app.delete("/api/admin/users/:id", (req, res) => {
   res.json({ ok: true });
 });
 
-app.post("/api/admin/users/:id/reset-password", (req, res) => {
-  const users = readUsers();
-  const user = users.find(u => u.id == req.params.id);
+app.post(
+  "/api/admin/users/:id/reset-password",
+  async (req, res) => {
+    try {
+      const users = readUsers();
 
-  if (!user) return res.status(404).json({ error: "Utilisateur introuvable" });
+      const user = users.find(
+        item =>
+          String(item.id) ===
+          String(req.params.id)
+      );
 
-  const { password } = req.body;
+      if (!user) {
+        return res.status(404).json({
+          error:
+            "Utilisateur introuvable."
+        });
+      }
 
-  if (!password || password.length < 4) {
-    return res.status(400).json({ error: "Mot de passe trop court." });
+      const password = String(
+        req.body.password || ""
+      );
+
+      if (password.length < 8) {
+        return res.status(400).json({
+          error:
+            "Le mot de passe doit contenir au moins 8 caractères."
+        });
+      }
+
+      if (
+        !/[A-Za-z]/.test(password) ||
+        !/[0-9]/.test(password)
+      ) {
+        return res.status(400).json({
+          error:
+            "Le mot de passe doit contenir au moins une lettre et un chiffre."
+        });
+      }
+
+      user.password =
+        await hashUserPassword(password);
+
+      user.activeDeviceId = "";
+
+      user.passwordUpdatedAt =
+        new Date().toISOString();
+
+      user.passwordUpdatedBy =
+        "admin";
+
+      saveUsers(users);
+
+      return res.json({
+        ok: true,
+
+        message:
+          "Mot de passe modifié avec succès.",
+
+        user: sanitizeUser(user)
+      });
+
+    } catch (error) {
+      console.error(
+        "Erreur admin reset-password:",
+        error
+      );
+
+      return res.status(500).json({
+        error:
+          "Impossible de modifier le mot de passe."
+      });
+    }
   }
-
-  user.password = password;
-  saveUsers(users);
-
-  res.json({ ok: true, user });
-});
+);
 
 app.get("/api/admin/users/:id/details", (req, res) => {
   const users = readUsers();
@@ -1803,7 +3518,7 @@ app.get("/api/admin/users/:id/details", (req, res) => {
   const stats = getUserCommunityStats(user.id);
 
   res.json({
-    user,
+  user: sanitizeUser(user),
 
     stats: {
       posts: stats.publications,

@@ -1167,3 +1167,181 @@ button.confirm-payment:hover {
     white-space: normal;
   }
 }
+
+/* =========================================================
+   SIGNALEMENTS COMMUNITY
+========================================================= */
+.community-reports-card {
+  border-color: rgba(245, 158, 11, 0.2);
+}
+
+.reports-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 36px;
+  padding: 7px 12px;
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  border-radius: 999px;
+  color: #fbbf24;
+  background: rgba(245, 158, 11, 0.09);
+  font-weight: 900;
+}
+
+.reports-tools {
+  margin: 18px 0;
+}
+
+.community-reports-list {
+  display: grid;
+  gap: 16px;
+}
+
+.community-report-item {
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-left: 4px solid #f59e0b;
+  border-radius: 18px;
+  background: rgba(10, 14, 26, 0.72);
+}
+
+.community-report-item.status-resolved {
+  border-left-color: #22c55e;
+}
+
+.community-report-item.status-dismissed {
+  border-left-color: #64748b;
+  opacity: 0.82;
+}
+
+.community-report-item.status-reviewing {
+  border-left-color: #8b5cf6;
+}
+
+.community-report-head,
+.community-report-head > div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.community-report-head {
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.community-report-head time {
+  color: #8e96aa;
+  font-size: 12px;
+}
+
+.report-status {
+  padding: 5px 9px;
+  border-radius: 999px;
+  color: #111827;
+  background: #fbbf24;
+  font-size: 11px;
+  font-weight: 900;
+}
+
+.community-report-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.community-report-grid > div {
+  display: grid;
+  gap: 4px;
+  padding: 11px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.045);
+}
+
+.community-report-grid span {
+  color: #8e96aa;
+  font-size: 11px;
+}
+
+.community-report-item blockquote {
+  margin: 0 0 12px;
+  padding: 14px;
+  border-left: 3px solid rgba(255, 213, 0, 0.5);
+  border-radius: 0 12px 12px 0;
+  color: #dce2ee;
+  background: rgba(255, 255, 255, 0.04);
+  white-space: pre-wrap;
+}
+
+.report-image-link {
+  display: inline-flex;
+  margin-bottom: 12px;
+  color: #ffd500;
+  font-weight: 800;
+}
+
+.report-details {
+  color: #c9d0df;
+}
+
+.report-note-label {
+  display: grid;
+  gap: 7px;
+  margin: 14px 0;
+  color: #eef2fa;
+  font-weight: 800;
+}
+
+.report-note-label textarea {
+  min-height: 76px;
+  border: 1px solid rgba(255, 255, 255, 0.11);
+  border-radius: 12px;
+  padding: 11px;
+  color: white;
+  background: rgba(255, 255, 255, 0.055);
+  resize: vertical;
+}
+
+.community-report-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+}
+
+.report-dismiss {
+  border: 1px solid rgba(148, 163, 184, 0.3);
+  border-radius: 10px;
+  padding: 10px 13px;
+  color: #cbd5e1;
+  background: rgba(100, 116, 139, 0.12);
+  cursor: pointer;
+}
+
+.reports-empty {
+  padding: 30px 18px;
+  border: 1px dashed rgba(148, 163, 184, 0.2);
+  border-radius: 15px;
+  color: #929bad;
+  text-align: center;
+}
+
+.reports-error {
+  color: #fda4af;
+}
+
+@media (max-width: 760px) {
+  .community-report-head,
+  .community-report-head > div {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .community-report-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .community-report-actions button {
+    width: 100%;
+  }
+}
