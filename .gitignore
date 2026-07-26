@@ -29,3 +29,9 @@ public/css/*.backup*.css
 public/pages/**/*.backup*.html
 public/data/*.backup.json
 public/data/*.backup-before-*.json
+# Android signing keys
+*.jks
+*.keystore
+android/keystore.properties
+android/key.properties
+private-data/account-deletion-requests.json

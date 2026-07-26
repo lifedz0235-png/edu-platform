@@ -3728,6 +3728,195 @@ setInterval(() => {
   }
 }, 60 * 60 * 1000);
 
+
+/* =========================================================
+   PCR — DEMANDE DE SUPPRESSION DE COMPTE
+========================================================= */
+
+const accountDeletionFs = fs;
+const accountDeletionPath = path;
+
+const accountDeletionDirectory =
+  accountDeletionPath.join(
+    __dirname,
+    "private-data"
+  );
+
+const accountDeletionRequestsFile =
+  accountDeletionPath.join(
+    accountDeletionDirectory,
+    "account-deletion-requests.json"
+  );
+
+function ensureAccountDeletionStorage() {
+  if (
+    !accountDeletionFs.existsSync(
+      accountDeletionDirectory
+    )
+  ) {
+    accountDeletionFs.mkdirSync(
+      accountDeletionDirectory,
+      { recursive: true }
+    );
+  }
+
+  if (
+    !accountDeletionFs.existsSync(
+      accountDeletionRequestsFile
+    )
+  ) {
+    accountDeletionFs.writeFileSync(
+      accountDeletionRequestsFile,
+      "[]\n",
+      "utf8"
+    );
+  }
+}
+
+function readAccountDeletionRequests() {
+  ensureAccountDeletionStorage();
+
+  try {
+    const raw =
+      accountDeletionFs.readFileSync(
+        accountDeletionRequestsFile,
+        "utf8"
+      );
+
+    const data = JSON.parse(raw || "[]");
+
+    return Array.isArray(data)
+      ? data
+      : [];
+
+  } catch (error) {
+    console.error(
+      "Erreur lecture demandes suppression :",
+      error
+    );
+
+    return [];
+  }
+}
+
+function saveAccountDeletionRequests(requests) {
+  ensureAccountDeletionStorage();
+
+  accountDeletionFs.writeFileSync(
+    accountDeletionRequestsFile,
+    JSON.stringify(requests, null, 2) + "\n",
+    "utf8"
+  );
+}
+
+app.post(
+  "/api/account-deletion/request",
+  express.json(),
+  (req, res) => {
+    try {
+      const email = String(
+        req.body?.email || ""
+      )
+        .trim()
+        .toLowerCase();
+
+      const userId = String(
+        req.body?.userId || ""
+      ).trim();
+
+      const reason = String(
+        req.body?.reason || ""
+      )
+        .trim()
+        .slice(0, 1000);
+
+      const source = String(
+        req.body?.source || "web"
+      )
+        .trim()
+        .slice(0, 30);
+
+      const emailIsValid =
+        /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+
+      if (!emailIsValid) {
+        return res.status(400).json({
+          success: false,
+          error:
+            "Veuillez saisir une adresse e-mail valide."
+        });
+      }
+
+      const requests =
+        readAccountDeletionRequests();
+
+      const existingRequest =
+        requests.find((request) => {
+          return (
+            String(request.email || "")
+              .toLowerCase() === email &&
+            String(request.status || "")
+              .toLowerCase() === "pending"
+          );
+        });
+
+      if (existingRequest) {
+        return res.status(200).json({
+          success: true,
+          message:
+            "Une demande de suppression est déjà en cours pour ce compte."
+        });
+      }
+
+      const request = {
+        id:
+          "delete-" +
+          Date.now() +
+          "-" +
+          Math.random()
+            .toString(36)
+            .slice(2, 9),
+
+        userId,
+        email,
+        reason,
+        source,
+
+        status: "pending",
+
+        createdAt:
+          new Date().toISOString(),
+
+        processedAt: null,
+        processedBy: null
+      };
+
+      requests.push(request);
+
+      saveAccountDeletionRequests(requests);
+
+      return res.status(201).json({
+        success: true,
+        message:
+          "Votre demande de suppression a été enregistrée."
+      });
+
+    } catch (error) {
+      console.error(
+        "Erreur demande suppression compte :",
+        error
+      );
+
+      return res.status(500).json({
+        success: false,
+        error:
+          "Une erreur est survenue lors de l’enregistrement de la demande."
+      });
+    }
+  }
+);
+
+
 const server = app.listen(PORT, "0.0.0.0", () => {
   console.log(`SERVER OK: http://localhost:${PORT}`);
 });
