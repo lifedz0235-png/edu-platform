@@ -51,18 +51,21 @@
 
   function waitForNative() {
     /*
-      Les corrections fonctionnent dans :
-      - l'application Capacitor ;
-      - Chrome et les navigateurs du téléphone.
+      Téléphone / application:
+      toutes les corrections mobiles restent actives.
 
-      Elles ne fonctionnent pas sur PC.
+      PC:
+      on active uniquement le badge Communauté.
     */
     if (
       isNative() ||
       isMobileBrowser()
     ) {
       start();
+      return;
     }
+
+    startDesktopBadge();
   }
 
   function isHome() {
@@ -124,9 +127,31 @@
   }
 
   function communityButton() {
-    return document.getElementById("mobileCommunityButton") ||
+    const desktopMode =
+      !isNative() &&
+      !isMobileBrowser();
+
+    if (desktopMode) {
+      return (
+        document.querySelector(
+          '.pro-menu a[href*="/pages/community/community.html"]'
+        ) ||
+        document.querySelector(
+          '.pro-menu a[href*="/community/"]'
+        ) ||
+        document.querySelector(
+          '.pro-menu a[href*="community"]'
+        )
+      );
+    }
+
+    return (
+      document.getElementById("mobileCommunityButton") ||
       document.querySelector(".mobile-community-button") ||
-      document.querySelector(`a[href="${COMMUNITY_PATH}"]`);
+      document.querySelector(
+        `a[href="${COMMUNITY_PATH}"]`
+      )
+    );
   }
 
   function badge() {
@@ -290,6 +315,51 @@
         location.href = finalUrl;
       }
     }, true);
+  }
+
+
+  function startDesktopBadge() {
+    if (started) return;
+
+    started = true;
+
+    /*
+      Sur la page Communauté du PC:
+      marquer les messages comme lus sans activer
+      les corrections scroll/clavier du téléphone.
+    */
+    if (isCommunity()) {
+      markRead();
+      setTimeout(markRead, 1200);
+      setTimeout(markRead, 3000);
+      return;
+    }
+
+    if (!isHome()) return;
+
+    badge();
+    refreshBadge();
+
+    setInterval(
+      refreshBadge,
+      20000
+    );
+
+    window.addEventListener(
+      "focus",
+      refreshBadge
+    );
+
+    document.addEventListener(
+      "visibilitychange",
+      () => {
+        if (
+          document.visibilityState === "visible"
+        ) {
+          refreshBadge();
+        }
+      }
+    );
   }
 
   function start() {
