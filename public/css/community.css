@@ -2178,3 +2178,35 @@ body.modal-open {
 }
 
 /* PCR COMMUNITY MOBILE FIX END */
+
+/* PCR CAPACITOR COMMUNITY FIX START */
+html.pcr-native-app body.pcr-community-page #postsList {
+  scroll-behavior: auto !important;
+}
+
+html.pcr-native-app body.pcr-community-page #postText {
+  font-size: 16px !important;
+}
+
+html.pcr-native-app body.pcr-community-page.pcr-native-keyboard-open {
+  overflow-x: hidden !important;
+}
+
+html.pcr-native-app body.pcr-community-page.pcr-native-keyboard-open #postsList {
+  padding-bottom: 190px !important;
+}
+
+html.pcr-native-app body.pcr-community-page.pcr-native-keyboard-open .composer {
+  position: fixed !important;
+  left: 10px !important;
+  right: 10px !important;
+  bottom: calc(10px + env(safe-area-inset-bottom)) !important;
+  width: auto !important;
+  max-width: none !important;
+  margin: 0 !important;
+  transform: none !important;
+  z-index: 100000 !important;
+  background: rgba(8, 13, 29, 0.98) !important;
+  box-shadow: 0 12px 45px rgba(0, 0, 0, 0.75) !important;
+}
+/* PCR CAPACITOR COMMUNITY FIX END */

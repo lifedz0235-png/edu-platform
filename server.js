@@ -3917,6 +3917,46 @@ app.post(
 );
 
 
+
+/* =========================================================
+   PCR — TÉLÉCHARGEMENT SUPPORT DANS CAPACITOR
+========================================================= */
+app.get("/api/native-support-download", (req, res) => {
+  try {
+    const requestedFile = String(req.query?.file || "").trim();
+    if (!requestedFile) {
+      return res.status(400).json({ success: false, error: "Le fichier demandé est manquant." });
+    }
+
+    const parsedUrl = new URL(requestedFile, "https://pcrdz.com");
+    const decodedPath = decodeURIComponent(parsedUrl.pathname);
+    if (!decodedPath.startsWith("/pdfs/")) {
+      return res.status(403).json({ success: false, error: "Ce fichier n'est pas autorisé." });
+    }
+
+    const allowed = new Set([".pdf", ".doc", ".docx", ".ppt", ".pptx", ".xls", ".xlsx"]);
+    const extension = path.extname(decodedPath).toLowerCase();
+    if (!allowed.has(extension)) {
+      return res.status(403).json({ success: false, error: "Type de fichier non autorisé." });
+    }
+
+    const pdfRoot = path.resolve(__dirname, "public", "pdfs");
+    const absolutePath = path.resolve(__dirname, "public", "." + decodedPath);
+    if (absolutePath !== pdfRoot && !absolutePath.startsWith(pdfRoot + path.sep)) {
+      return res.status(403).json({ success: false, error: "Chemin de fichier non autorisé." });
+    }
+
+    if (!fs.existsSync(absolutePath) || !fs.statSync(absolutePath).isFile()) {
+      return res.status(404).json({ success: false, error: "Support introuvable." });
+    }
+
+    return res.download(absolutePath, path.basename(absolutePath));
+  } catch (error) {
+    console.error("Erreur téléchargement support natif :", error);
+    return res.status(500).json({ success: false, error: "Impossible de télécharger le support." });
+  }
+});
+
 const server = app.listen(PORT, "0.0.0.0", () => {
   console.log(`SERVER OK: http://localhost:${PORT}`);
 });

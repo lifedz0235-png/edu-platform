@@ -2474,3 +2474,35 @@ video {
 }
 
 /* PCR MOBILE COMMUNITY BUTTON FIX END */
+
+/* PCR CAPACITOR UNREAD BADGE START */
+html.pcr-native-app #mobileCommunityButton,
+html.pcr-native-app .mobile-community-button {
+  overflow: visible !important;
+}
+
+html.pcr-native-app .pcr-native-community-badge {
+  position: absolute;
+  top: -9px;
+  right: -9px;
+  min-width: 29px;
+  height: 29px;
+  padding: 0 7px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid #080b18;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #ff334f, #d91645);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 950;
+  line-height: 1;
+  box-shadow: 0 7px 20px rgba(255, 40, 78, 0.5);
+  z-index: 100001;
+}
+
+html.pcr-native-app .pcr-native-community-badge[hidden] {
+  display: none !important;
+}
+/* PCR CAPACITOR UNREAD BADGE END */
