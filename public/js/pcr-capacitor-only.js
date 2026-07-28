@@ -23,13 +23,45 @@
     );
   }
 
-  function waitForNative(attempt = 0) {
-    if (isNative()) {
+  function isMobileBrowser() {
+    const userAgent =
+      navigator.userAgent || "";
+
+    const mobileUserAgent =
+      /Android|iPhone|iPad|iPod|Mobile/i
+        .test(userAgent);
+
+    const touchDevice =
+      navigator.maxTouchPoints > 0 ||
+      "ontouchstart" in window;
+
+    const phoneScreen =
+      window.matchMedia(
+        "(max-width: 900px)"
+      ).matches;
+
+    return (
+      mobileUserAgent ||
+      (
+        touchDevice &&
+        phoneScreen
+      )
+    );
+  }
+
+  function waitForNative() {
+    /*
+      Les corrections fonctionnent dans :
+      - l'application Capacitor ;
+      - Chrome et les navigateurs du téléphone.
+
+      Elles ne fonctionnent pas sur PC.
+    */
+    if (
+      isNative() ||
+      isMobileBrowser()
+    ) {
       start();
-      return;
-    }
-    if (attempt < 50) {
-      setTimeout(() => waitForNative(attempt + 1), 100);
     }
   }
 
