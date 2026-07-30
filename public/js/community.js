@@ -6,6 +6,35 @@ const postText = document.getElementById("postText");
 const postImage = document.getElementById("postImage");
 const publishBtn = document.getElementById("publishBtn");
 const postsList = document.getElementById("postsList");
+postsList.addEventListener("click", event => {
+  const replyButton = event.target.closest(
+    ".reply-post-btn"
+  );
+
+  if (!replyButton) {
+    return;
+  }
+
+  const postId = replyButton.dataset.postId;
+
+  const postText = decodeURIComponent(
+    replyButton.dataset.postText || ""
+  );
+
+  const postImage = decodeURIComponent(
+    replyButton.dataset.postImage || ""
+  );
+
+  const authorId =
+    replyButton.dataset.authorId || null;
+
+  startReply(
+    postId,
+    postText,
+    postImage,
+    authorId
+  );
+});
 const notificationsBtn = document.getElementById("notificationsBtn");
 const notificationsCount = document.getElementById("notificationsCount");
 const notificationsPanel = document.getElementById("notificationsPanel");
@@ -1270,15 +1299,16 @@ function renderPosts(posts) {
   💬 ${getCommentsCount(post)} commentaire${getCommentsCount(post) > 1 ? "s" : ""}
 </span>
 
-  <button onclick="startReply(
-  ${post.id},
-  \`${escapeText(post.text || "")}\`,
-  '${post.imageUrl || ""}',
-  ${post.authorId || "null"}
-)">
+ <button
+  type="button"
+  class="reply-post-btn"
+  data-post-id="${post.id}"
+  data-post-text="${encodeURIComponent(post.text || "")}"
+  data-post-image="${encodeURIComponent(post.imageUrl || "")}"
+  data-author-id="${post.authorId ?? ""}"
+>
   ↩️ Répondre
 </button>
-
   ${moderationButtons(
     "post",
     post.id,

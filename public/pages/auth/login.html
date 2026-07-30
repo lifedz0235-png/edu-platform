@@ -2,27 +2,81 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
   <title>Connexion PCR</title>
-  <link rel="stylesheet" href="/css/auth.css" />
-  <link rel="stylesheet" href="/css/mobile-responsive.css">
+
+  <link
+  rel="stylesheet"
+  href="/css/auth.css?v=20260719-1"
+/>
+  <link rel="stylesheet" href="/css/mobile-responsive.css" />
 </head>
+
 <body>
 
-<main class="auth-page">
-  <section class="auth-card">
-    <h1>Connexion PCR</h1>
-    <p>Accédez à votre espace étudiant.</p>
+  <main class="auth-page">
 
-    <input id="email" type="email" placeholder="Email" />
-    <input id="password" type="password" placeholder="Mot de passe" />
+    <section class="auth-card">
 
-    <button id="loginBtn">Se connecter</button>
+      <h1>Connexion PCR</h1>
 
-    <a href="/pages/auth/register.html">Créer un compte / Pré-inscription</a>
-  </section>
-</main>
+      <p>
+        Accédez à votre espace étudiant.
+      </p>
 
-<script src="/js/login.js"></script>
+      <form id="loginForm">
+
+        <input
+          id="email"
+          name="email"
+          type="email"
+          placeholder="Email"
+          autocomplete="email"
+          inputmode="email"
+          required
+        />
+
+        <input
+          id="password"
+          name="password"
+          type="password"
+          placeholder="Mot de passe"
+          autocomplete="current-password"
+          enterkeyhint="go"
+          required
+        />
+
+        <button
+          id="loginBtn"
+          type="submit"
+        >
+          Se connecter
+        </button>
+
+                  </form>
+
+      <a
+        class="forgot-password-link"
+        href="/pages/auth/forgot-password.html"
+      >
+        Mot de passe oublié ?
+      </a>
+
+      <a href="/pages/auth/register.html">
+        Créer un compte / Pré-inscription
+      </a>
+
+    </section>
+
+  </main>
+
+  <script src="/js/login.js?v=20260719-1"></script>
   <script src="/js/mobile-menu.js"></script>
+
 </body>
 </html>

@@ -8,10 +8,33 @@ import crypto from "crypto";
 import bcrypt from "bcryptjs";
 import multer from "multer";
 import { fileURLToPath } from "url";
+import jwt from "jsonwebtoken";
+import helmet from "helmet";
+import rateLimit from "express-rate-limit";
 
 const app = express();
 
 const PASSWORD_SALT_ROUNDS = 12;
+
+const JWT_SECRET = String(
+  process.env.JWT_SECRET || ""
+).trim();
+
+const JWT_EXPIRES_IN = String(
+  process.env.JWT_EXPIRES_IN || "12h"
+).trim();
+
+if (!JWT_SECRET || JWT_SECRET.length < 32) {
+  console.error(
+    "ERREUR SÉCURITÉ : JWT_SECRET absent ou trop court."
+  );
+
+  console.error(
+    "Ajoutez JWT_SECRET dans le fichier .env avec au moins 32 caractères."
+  );
+
+  process.exit(1);
+}
 
 /**
  * Vérifie si la valeur enregistrée est déjà un hash bcrypt.
@@ -84,6 +107,149 @@ function sanitizeUser(user) {
   return safeUser;
 }
 
+/**
+ * Crée un token d'accès signé pour un utilisateur.
+ */
+function createAccessToken(user, deviceId) {
+  return jwt.sign(
+    {
+      sub: String(user.id),
+      role: String(user.role || "student"),
+      deviceId: String(deviceId || ""),
+      tokenVersion: Number(user.tokenVersion || 0)
+    },
+    JWT_SECRET,
+    {
+      expiresIn: JWT_EXPIRES_IN,
+      issuer: "pcr-learning",
+      audience: "pcr-platform"
+    }
+  );
+}
+
+/**
+ * Récupère le Bearer Token depuis Authorization.
+ */
+function getBearerToken(req) {
+  const authorization = String(
+    req.headers.authorization || ""
+  ).trim();
+
+  if (!authorization.startsWith("Bearer ")) {
+    return "";
+  }
+
+  return authorization.slice(7).trim();
+}
+
+/**
+ * Vérifie le token et authentifie l'utilisateur.
+ */
+function requireAuth(req, res, next) {
+  try {
+    const token = getBearerToken(req);
+
+    if (!token) {
+      return res.status(401).json({
+        error: "Authentification requise."
+      });
+    }
+
+    const payload = jwt.verify(
+      token,
+      JWT_SECRET,
+      {
+        issuer: "pcr-learning",
+        audience: "pcr-platform"
+      }
+    );
+
+    const users = readUsers();
+
+    const user = users.find(
+      item =>
+        String(item.id) ===
+        String(payload.sub)
+    );
+
+    if (!user) {
+      return res.status(401).json({
+        error: "Session invalide."
+      });
+    }
+
+    if (user.status !== "approved") {
+      return res.status(403).json({
+        error:
+          user.status === "suspended"
+            ? "Votre compte est suspendu."
+            : "Votre compte n'est pas encore activé."
+      });
+    }
+
+    const currentTokenVersion =
+      Number(user.tokenVersion || 0);
+
+    if (
+      Number(payload.tokenVersion || 0) !==
+      currentTokenVersion
+    ) {
+      return res.status(401).json({
+        error:
+          "Votre session a été révoquée. Veuillez vous reconnecter."
+      });
+    }
+
+    if (
+      user.activeDeviceId &&
+      String(user.activeDeviceId) !==
+        String(payload.deviceId || "")
+    ) {
+      return res.status(401).json({
+        error:
+          "Cette session n'est plus active sur cet appareil."
+      });
+    }
+
+    req.auth = {
+      userId: user.id,
+      role: user.role || "student",
+      deviceId: payload.deviceId || "",
+      user
+    };
+
+    next();
+
+  } catch (error) {
+    if (error?.name === "TokenExpiredError") {
+      return res.status(401).json({
+        error:
+          "Votre session a expiré. Veuillez vous reconnecter."
+      });
+    }
+
+    return res.status(401).json({
+      error: "Session invalide."
+    });
+  }
+}
+
+/**
+ * Autorise uniquement les administrateurs.
+ */
+function requireAdmin(req, res, next) {
+  if (
+    String(req.auth?.role || "").toLowerCase() !==
+    "admin"
+  ) {
+    return res.status(403).json({
+      error: "Accès administrateur requis."
+    });
+  }
+
+  next();
+}
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const requiredDirectories = [
@@ -101,8 +267,75 @@ requiredDirectories.forEach(directory => {
   }
 });
 
-app.use(cors());
-app.use(express.json());
+app.disable("x-powered-by");
+
+app.use(
+  helmet({
+    crossOriginResourcePolicy: {
+      policy: "cross-origin"
+    },
+
+    contentSecurityPolicy: false
+  })
+);
+
+const allowedOrigins = String(
+  process.env.ALLOWED_ORIGINS ||
+  "http://localhost:3000,http://127.0.0.1:3000,https://pcrdz.com,https://www.pcrdz.com"
+)
+  .split(",")
+  .map(origin => origin.trim())
+  .filter(Boolean);
+
+app.use(
+  cors({
+    origin(origin, callback) {
+      /*
+        Les requêtes sans Origin :
+        curl, application mobile, serveur interne.
+      */
+      if (!origin) {
+        return callback(null, true);
+      }
+
+      if (allowedOrigins.includes(origin)) {
+        return callback(null, true);
+      }
+
+      return callback(
+        new Error("Origine non autorisée par CORS.")
+      );
+    },
+
+    methods: [
+      "GET",
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE",
+      "OPTIONS"
+    ],
+
+    allowedHeaders: [
+      "Content-Type",
+      "Authorization"
+    ]
+  })
+);
+
+app.use(
+  express.json({
+    limit: "100kb",
+    strict: true
+  })
+);
+
+app.use(
+  express.urlencoded({
+    extended: false,
+    limit: "100kb"
+  })
+);
 app.get("/api/health", (req, res) => {
   res.json({
     ok: true,
@@ -554,7 +787,10 @@ function createNotification({
   saveNotifications(notifications);
 }
 
-app.delete("/api/community/posts/:postId", (req, res) => {
+app.delete(
+  "/api/community/posts/:postId",
+  requireAuth,
+  (req, res) => {
   const posts = readCommunityPosts();
 
   const postIndex = posts.findIndex(
@@ -569,7 +805,7 @@ app.delete("/api/community/posts/:postId", (req, res) => {
 
   const post = posts[postIndex];
 
-  const requestUser = getRequestUser(req.body.userId);
+  const requestUser = req.auth.user;
 
   if (!requestUser) {
     return res.status(401).json({
@@ -723,9 +959,13 @@ app.get("/api/community/posts", (req, res) => {
   res.json(enrichedPosts);
 });
 
-app.post("/api/community/posts", uploadCommunity.single("image"), (req, res) => {
+app.post(
+  "/api/community/posts",
+  requireAuth,
+  uploadCommunity.single("image"),
+  (req, res) => {
   const posts = readCommunityPosts();
-  const requestUser = getRequestUser(req.body.authorId);
+const requestUser = req.auth.user;
 
   if (!requestUser || !isApprovedCommunityUser(requestUser)) {
     if (req.file) {
@@ -763,7 +1003,7 @@ app.post("/api/community/posts", uploadCommunity.single("image"), (req, res) => 
   const newPost = {
   id: Date.now(),
 
-  authorId: Number(req.body.authorId),
+  authorId: requestUser.id,
 
   authorName: requestUser.name || "Étudiant PCR",
 
@@ -823,7 +1063,10 @@ if (newPost.replyTo) {
 res.json(newPost);
 });
 
-app.post("/api/community/posts/:id/like", (req, res) => {
+app.post(
+  "/api/community/posts/:id/like",
+  requireAuth,
+  (req, res) => {
   const posts = readCommunityPosts();
 
   const post = posts.find(
@@ -836,9 +1079,12 @@ app.post("/api/community/posts/:id/like", (req, res) => {
     });
   }
 
-  const userId = req.body.userId;
-  const requestUser = getRequestUser(userId);
-  const userName = requestUser?.name || "Utilisateur PCR";
+  const requestUser = req.auth.user;
+
+const userId = requestUser.id;
+
+const userName =
+  requestUser.name || "Utilisateur PCR";
 
   if (!requestUser || !isApprovedCommunityUser(requestUser)) {
     return res.status(401).json({
@@ -897,7 +1143,10 @@ app.post("/api/community/posts/:id/like", (req, res) => {
   res.json(post);
 });
 
-app.post("/api/community/posts/:id/comments", (req, res) => {
+app.post(
+  "/api/community/posts/:id/comments",
+  requireAuth,
+  (req, res) => {
   const posts = readCommunityPosts();
 
   const post = posts.find(
@@ -910,12 +1159,13 @@ app.post("/api/community/posts/:id/comments", (req, res) => {
     });
   }
 
-  const {
-    text,
-    authorId,
-    authorName,
-    authorRole
-  } = req.body;
+  const text = req.body.text;
+
+const requestUser = req.auth.user;
+
+const authorId = requestUser.id;
+const authorName = requestUser.name;
+const authorRole = requestUser.role;
 
   if (!text || !text.trim()) {
     return res.status(400).json({
@@ -923,7 +1173,7 @@ app.post("/api/community/posts/:id/comments", (req, res) => {
     });
   }
 
-  const requestUser = getRequestUser(authorId);
+  
 
   if (!requestUser || !isApprovedCommunityUser(requestUser)) {
     return res.status(401).json({
@@ -981,55 +1231,67 @@ app.post("/api/community/posts/:id/comments", (req, res) => {
   res.json(post);
 });
 
-  
+app.delete(
+  "/api/community/posts/:postId/comments/:commentId",
+  requireAuth,
+  (req, res) => {
+    const posts = readCommunityPosts();
 
+    const post = posts.find(
+      item =>
+        String(item.id) ===
+        String(req.params.postId)
+    );
 
-app.delete("/api/community/posts/:postId/comments/:commentId", (req, res) => {
-  const posts = readCommunityPosts();
-  const post = posts.find(
-    item => String(item.id) === String(req.params.postId)
-  );
+    if (!post) {
+      return res.status(404).json({
+        error: "Publication introuvable."
+      });
+    }
 
-  if (!post) {
-    return res.status(404).json({
-      error: "Publication introuvable."
+    const commentIndex =
+      (post.comments || []).findIndex(
+        item =>
+          String(item.id) ===
+          String(req.params.commentId)
+      );
+
+    if (commentIndex === -1) {
+      return res.status(404).json({
+        error: "Commentaire introuvable."
+      });
+    }
+
+    const comment = post.comments[commentIndex];
+    const requestUser = req.auth.user;
+
+    if (
+      !canManageContent(
+        requestUser,
+        comment.authorId
+      )
+    ) {
+      return res.status(403).json({
+        error:
+          "Vous ne pouvez pas supprimer ce commentaire."
+      });
+    }
+
+    post.comments.splice(commentIndex, 1);
+
+    saveCommunityPosts(posts);
+
+    return res.json({
+      ok: true,
+      message: "Commentaire supprimé."
     });
   }
+);
 
-  const commentIndex = (post.comments || []).findIndex(
-    item => String(item.id) === String(req.params.commentId)
-  );
-
-  if (commentIndex === -1) {
-    return res.status(404).json({
-      error: "Commentaire introuvable."
-    });
-  }
-
-  const requestUser = getRequestUser(req.body.userId);
-  if (!requestUser) {
-    return res.status(401).json({
-      error: "Utilisateur non authentifié."
-    });
-  }
-
-  const comment = post.comments[commentIndex];
-  if (!canManageContent(requestUser, comment.authorId)) {
-    return res.status(403).json({
-      error: "Vous ne pouvez pas supprimer ce commentaire."
-    });
-  }
-
-  post.comments.splice(commentIndex, 1);
-  saveCommunityPosts(posts);
-
-  res.json({
-    ok: true,
-    message: "Commentaire supprimé."
-  });
-});
-
-app.post("/api/community/posts/:postId/comments/:commentId/like", (req, res) => {
+app.post(
+  "/api/community/posts/:postId/comments/:commentId/like",
+  requireAuth,
+  (req, res) => {
   const posts = readCommunityPosts();
 
   const post = posts.find(
@@ -1052,7 +1314,7 @@ app.post("/api/community/posts/:postId/comments/:commentId/like", (req, res) => 
     });
   }
 
-  const requestUser = getRequestUser(req.body.userId);
+  const requestUser = req.auth.user;
   if (!requestUser || !isApprovedCommunityUser(requestUser)) {
     return res.status(401).json({
       error: "Utilisateur non autorisé"
@@ -1241,8 +1503,11 @@ app.post("/api/community/blocks", (req, res) => {
   });
 });
 
-app.delete("/api/community/blocks/:blockedUserId", (req, res) => {
-  const blocker = getRequestUser(req.body.userId);
+app.delete(
+  "/api/community/blocks/:blockedUserId",
+  requireAuth,
+  (req, res) => {
+  const blocker = req.auth.user;
 
   if (!blocker) {
     return res.status(401).json({
@@ -1477,7 +1742,7 @@ app.patch("/api/admin/community/reports/:reportId", (req, res) => {
   });
 });
 
-const usersDataPath = path.join(process.cwd(), "public/data/users.json");
+const usersDataPath = path.join(process.cwd(), "data/users.json");
 
 function readUsers() {
   try {
@@ -2596,9 +2861,22 @@ app.post(
   }
 );
 
+const loginRateLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000,
+  limit: 10,
+
+  standardHeaders: "draft-7",
+  legacyHeaders: false,
+
+  message: {
+    error:
+      "Trop de tentatives de connexion. Réessayez dans 15 minutes."
+  }
+});
 
 app.post(
   "/api/auth/login",
+  loginRateLimiter,
   async (req, res) => {
     try {
       refreshExpiredSubscriptions();
@@ -2700,33 +2978,57 @@ app.post(
         });
       }
 
-      user.activeDeviceId = deviceId;
+      /*
+  Le deviceId est obligatoire pour la gestion
+  d'une seule session active.
+*/
+if (!deviceId || deviceId.length < 10) {
+  return res.status(400).json({
+    error:
+      "Identifiant de l'appareil invalide."
+  });
+}
 
-      user.lastLoginAt =
-        new Date().toISOString();
+user.activeDeviceId = deviceId;
 
-      saveUsers(users);
+user.tokenVersion =
+  Number(user.tokenVersion || 0);
 
-      return res.json({
-        ok: true,
+user.lastLoginAt =
+  new Date().toISOString();
 
-        user: {
-          id: user.id,
-          name: user.name,
-          email: user.email,
-          role: user.role,
-          status: user.status,
-          plan: user.plan,
-          paymentStatus:
-            user.paymentStatus,
+saveUsers(users);
 
-          subscriptionEndDate:
-            user.subscriptionEndDate ||
-            null,
+const accessToken =
+  createAccessToken(user, deviceId);
 
-          deviceId
-        }
-      });
+return res.json({
+  ok: true,
+
+  accessToken,
+
+  tokenType: "Bearer",
+
+  expiresIn: JWT_EXPIRES_IN,
+
+  user: {
+    id: user.id,
+    name: user.name,
+    email: user.email,
+    role: user.role,
+    status: user.status,
+    plan: user.plan,
+    paymentStatus:
+      user.paymentStatus,
+
+    subscriptionEndDate:
+      user.subscriptionEndDate ||
+      null,
+
+    deviceId
+  }
+});
+        
 
     } catch (error) {
       console.error(
@@ -2744,91 +3046,41 @@ app.post(
 
 
 
-app.post("/api/auth/logout", (req, res) => {
-  const users = readUsers();
-
-  const userId = req.body.userId;
-  const email = String(req.body.email || "")
-    .trim()
-    .toLowerCase();
-
-  const user = users.find(item => {
-    const sameId =
-      userId !== undefined &&
-      userId !== null &&
-      userId !== "" &&
-      String(item.id) === String(userId);
-
-    const sameEmail =
-      email &&
-      String(item.email || "")
-        .trim()
-        .toLowerCase() === email;
-
-    return sameId || sameEmail;
-  });
-
-  if (!user) {
-    return res.status(404).json({
-      error: "Utilisateur introuvable."
-    });
-  }
-
-  user.activeDeviceId = "";
-  user.lastLogoutAt = new Date().toISOString();
-
-  saveUsers(users);
-
-  res.json({
-    ok: true,
-    message: "Déconnexion réussie."
-  });
-});
-
-  app.get(
-  "/api/profile/:userId",
+app.post(
+  "/api/auth/logout",
+  requireAuth,
   (req, res) => {
-    try {
-      const users = readUsers();
+    const users = readUsers();
 
-      const user = users.find(
-        item => String(item.id) === String(req.params.userId)
-      );
+    const user = users.find(
+      item =>
+        String(item.id) ===
+        String(req.auth.userId)
+    );
 
-      if (!user) {
-        return res.status(404).json({
-          error: "Utilisateur introuvable."
-        });
-      }
-
-      const stats = getUserCommunityStats(user.id);
-
-      return res.json({
-        id: user.id,
-        name: user.name || "",
-        email: user.email || "",
-        role: user.role || "student",
-        status: user.status || "",
-
-        photoUrl: user.photoUrl || "",
-        bio: user.bio || "",
-        university: user.university || "",
-        promotion: user.promotion || "",
-
-        stats: {
-          publications: Number(stats.publications) || 0,
-          comments: Number(stats.comments) || 0,
-          likesReceived: Number(stats.likesReceived) || 0
-        }
-      });
-
-    } catch (error) {
-      console.error(error);
-
-      return res.status(500).json({
-        error: "Impossible de charger le profil."
+    if (!user) {
+      return res.status(404).json({
+        error: "Utilisateur introuvable."
       });
     }
+
+    /*
+      Invalide tous les anciens tokens.
+    */
+    user.tokenVersion =
+      Number(user.tokenVersion || 0) + 1;
+
+    user.activeDeviceId = "";
+
+    user.lastLogoutAt =
+      new Date().toISOString();
+
+    saveUsers(users);
+
+    return res.json({
+      ok: true,
+      message: "Déconnexion réussie."
+    });
   }
 );
 
