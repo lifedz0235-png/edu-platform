@@ -123,6 +123,15 @@ if (!data.plan) {
           );
         }
 
+        if (
+          typeof window.fbq === "function"
+        ) {
+          window.fbq(
+            "track",
+            "CompleteRegistration"
+          );
+        }
+
         alert(
           result.message ||
           "Compte créé. Votre essai gratuit commence à la première connexion."
