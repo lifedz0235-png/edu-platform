@@ -116,16 +116,25 @@ if (!data.plan) {
           result
         );
 
-        if (!response.ok) {
+                if (!response.ok) {
           throw new Error(
             result.error ||
-            "Erreur pendant la pré-inscription."
+            "Erreur pendant la création du compte."
+          );
+        }
+
+        if (
+          typeof window.fbq === "function"
+        ) {
+          window.fbq(
+            "track",
+            "CompleteRegistration"
           );
         }
 
         alert(
           result.message ||
-          "Pré-inscription envoyée."
+          "Compte créé. Votre essai gratuit commence à la première connexion."
         );
 
         window.location.href =
@@ -142,7 +151,7 @@ if (!data.plan) {
       } finally {
         registerBtn.disabled = false;
         registerBtn.textContent =
-          "Envoyer la demande";
+          "Créer mon compte gratuit";
       }
     }
   );

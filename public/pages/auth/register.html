@@ -8,10 +8,47 @@
     content="width=device-width, initial-scale=1.0"
   />
 
-  <title>Pré-inscription PCR</title>
+  <title>Essai gratuit PCR</title>
 
   <link rel="stylesheet" href="/css/auth.css" />
   <link rel="stylesheet" href="/css/mobile-responsive.css">
+
+    <!-- Meta Pixel Code -->
+  <script>
+    !(function (f, b, e, v, n, t, s) {
+      if (f.fbq) return;
+
+      n = f.fbq = function () {
+        n.callMethod
+          ? n.callMethod.apply(n, arguments)
+          : n.queue.push(arguments);
+      };
+
+      if (!f._fbq) f._fbq = n;
+
+      n.push = n;
+      n.loaded = true;
+      n.version = "2.0";
+      n.queue = [];
+
+      t = b.createElement(e);
+      t.async = true;
+      t.src = v;
+
+      s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s);
+    })(
+      window,
+      document,
+      "script",
+      "https://connect.facebook.net/en_US/fbevents.js"
+    );
+
+    fbq("init", "1605964473622050");
+    fbq("track", "PageView");
+  </script>
+  <!-- End Meta Pixel Code -->
+
 </head>
 
 <body>
@@ -20,10 +57,10 @@
 
     <section class="auth-card">
 
-      <h1>Pré-inscription</h1>
+      <h1>Essai gratuit 48 h</h1>
 
       <p>
-        Votre compte sera validé par l’administrateur.
+        Créez votre compte et profitez immédiatement de 48 h d’essai gratuit.
       </p>
 
       <input
@@ -78,10 +115,10 @@
     <span>💎</span>
 
     <div>
-      <h2>Choisissez votre abonnement</h2>
+      <h2>Choisissez votre future formule</h2>
 
       <p>
-        Sélectionnez l’offre qui correspond à vos besoins.
+        Cette formule sera activée uniquement après votre paiement.
       </p>
     </div>
   </div>
@@ -159,8 +196,7 @@
     <span>🔒</span>
 
     <p>
-      Votre compte sera activé après vérification du
-      paiement par l’administrateur.
+      Aucun paiement n’est demandé pour commencer l’essai gratuit de 48 heures.
     </p>
   </div>
 
@@ -170,7 +206,7 @@
         id="registerBtn"
         type="button"
       >
-        Envoyer la demande
+        Commencer mon essai gratuit
       </button>
 
       <div class="support-box">
@@ -234,7 +270,7 @@
             <strong>Support PCR Oran</strong>
 
             <small>
-              Accompagnement avant l’activation du compte
+              Aide pour l’essai gratuit et l’abonnement
             </small>
           </div>
 
