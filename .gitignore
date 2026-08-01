@@ -29,3 +29,21 @@ public/css/*.backup*.css
 public/pages/**/*.backup*.html
 public/data/*.backup.json
 public/data/*.backup-before-*.json
+# =========================================================
+# PCR — DONNÉES PRODUCTION À NE JAMAIS ENVOYER SUR GITHUB
+# =========================================================
+backups/
+private-data/
+data/
+
+public/data/users.json
+public/data/users.before-*.json
+public/data/community-posts.json
+public/data/community-notifications.json
+public/data/subscription-notifications.json
+public/data/community-blocks.json
+public/data/community-reports.json
+
+public/**/*.backup.*
+public/**/*.before-*
+server.before-*.js

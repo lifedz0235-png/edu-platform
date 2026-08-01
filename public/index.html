@@ -12,7 +12,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="./css/style.css">
-  <link rel="stylesheet" href="./css/home.css">
+  <link rel="stylesheet" href="./css/home.css?v=20260728-5">
+  <link rel="stylesheet" href="/css/mobile-responsive.css">
+  <link rel="stylesheet" href="/css/trial-access.css?v=20260801-4">
 </head>
 
 <body class="pcr-pro-home">
@@ -142,6 +144,140 @@
 
   <script src="/js/auth-guard.js"></script>
 <script src="/js/user-storage.js"></script>
+<script src="/js/trial-access.js?v=20260801-4"></script>
 <script src="/js/app.js"></script>
+  <script src="/js/mobile-menu.js"></script>
+
+  <script>
+  function getConnectedPcrUser() {
+    const possibleKeys = [
+      "pcr_current_user",
+      "currentUser",
+      "user",
+      "pcrUser",
+      "loggedUser"
+    ];
+
+    for (const key of possibleKeys) {
+      try {
+        const value = JSON.parse(
+          localStorage.getItem(key) || "null"
+        );
+
+        if (value && value.id) {
+          return value;
+        }
+      } catch (error) {
+        // Ignorer cette clé
+      }
+    }
+
+    /*
+      Recherche de secours:
+      chercher un objet utilisateur dans le localStorage.
+    */
+    for (let index = 0; index < localStorage.length; index += 1) {
+      const key = localStorage.key(index);
+
+      try {
+        const value = JSON.parse(
+          localStorage.getItem(key) || "null"
+        );
+
+        if (
+          value &&
+          typeof value === "object" &&
+          value.id &&
+          value.email
+        ) {
+          return value;
+        }
+      } catch (error) {
+        // Ignorer
+      }
+    }
+
+    return null;
+  }
+
+  function getTodayLocalKey() {
+    const date = new Date();
+
+    const year = date.getFullYear();
+
+    const month = String(
+      date.getMonth() + 1
+    ).padStart(2, "0");
+
+    const day = String(
+      date.getDate()
+    ).padStart(2, "0");
+
+    return `${year}-${month}-${day}`;
+  }
+
+  function redirectToDailyChecklist() {
+    const user = getConnectedPcrUser();
+
+    if (!user || !user.id) {
+      return;
+    }
+
+    /*
+      L’administrateur n’est pas obligé
+      de remplir le bilan quotidien.
+    */
+    if (
+      String(user.role || "").toLowerCase() === "admin"
+    ) {
+      return;
+    }
+
+    const todayKey = getTodayLocalKey();
+
+    const openedKey =
+      `pcr_daily_review_opened_${user.id}_${todayKey}`;
+
+    const alreadySubmitted =
+      localStorage.getItem(openedKey) === "true";
+
+    if (alreadySubmitted) {
+      return;
+    }
+
+    window.location.replace(
+      "/pages/daily/daily.html"
+    );
+  }
+
+  window.addEventListener("load", () => {
+    setTimeout(
+      redirectToDailyChecklist,
+      300
+    );
+  });
+</script>
+
+
+<!-- =====================================================
+     PCR — BOUTON COMMUNAUTÉ MOBILE
+====================================================== -->
+<a
+  id="mobileCommunityButton"
+  class="mobile-community-button"
+  href="/pages/community/community.html"
+  aria-label="Ouvrir la communauté PCR"
+>
+  <span class="mobile-community-icon">
+    💬
+  </span>
+
+  <span class="mobile-community-label">
+    Communauté
+  </span>
+</a>
+
+  <script src="/js/pcr-capacitor-only.js?v=20260728-5" defer></script>
+  <script src="/js/secure-logout.js?v=20260801-6"></script>
 </body>
 </html>

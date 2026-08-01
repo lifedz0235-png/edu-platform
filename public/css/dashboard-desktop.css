@@ -1,0 +1,124 @@
+/* =========================================================
+   PCR — DASHBOARD DESKTOP
+   يعمل فقط على الكمبيوتر
+========================================================= */
+
+@media screen and (min-width: 901px) {
+
+  .dashboard-pro {
+    overflow-x: hidden;
+  }
+
+  .dash-container {
+    width: min(94%, 1500px);
+    max-width: 1500px;
+    margin: 40px auto 80px;
+  }
+
+  .dashboard-profile-card {
+    width: 470px;
+    max-width: calc(100% - 60px);
+    margin: 20px 0 30px 48px;
+  }
+
+  .dash-hero {
+    width: 100%;
+    min-height: 530px;
+
+    display: grid;
+    grid-template-columns:
+      minmax(0, 1.15fr)
+      minmax(340px, 0.75fr)
+      150px;
+
+    align-items: center;
+    gap: 40px;
+
+    padding: 55px 65px;
+    overflow: hidden;
+  }
+
+  .dash-hero-text {
+    width: 100%;
+    max-width: 720px;
+  }
+
+  .dash-hero-text h2 {
+    margin: 18px 0 20px;
+
+    font-size: clamp(48px, 4vw, 70px);
+    line-height: 1.05;
+    letter-spacing: -2px;
+
+    white-space: normal;
+  }
+
+  .dash-hero-text p {
+    max-width: 650px;
+    margin: 0;
+
+    font-size: 20px;
+    line-height: 1.55;
+  }
+
+  .dash-badge {
+    display: inline-flex;
+    width: max-content;
+
+    padding: 10px 22px;
+    white-space: nowrap;
+  }
+
+  .rank-card {
+    width: 100%;
+    max-width: 440px;
+    min-height: 420px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 0 auto;
+    padding: 20px;
+
+    overflow: visible;
+  }
+
+  .rank-logo {
+    display: block;
+
+    width: 380px;
+    max-width: 100%;
+    height: auto;
+
+    object-fit: contain;
+
+    filter:
+      drop-shadow(0 0 24px rgba(255, 255, 255, 0.3))
+      drop-shadow(0 0 55px rgba(0, 200, 255, 0.3))
+      drop-shadow(0 0 70px rgba(255, 215, 0, 0.24));
+  }
+
+  .dash-circle {
+    position: static;
+
+    width: 130px;
+    height: 130px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    margin: 0 auto;
+  }
+
+  .dash-circle span {
+    font-size: 27px;
+    font-weight: 900;
+  }
+
+  .dash-circle small {
+    margin-top: 5px;
+  }
+}

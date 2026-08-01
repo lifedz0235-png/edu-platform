@@ -381,3 +381,16 @@ button {
     flex-basis: 112px;
   }
 }
+
+.profile-message:empty {
+  display: none;
+}
+
+.profile-message {
+  margin-top: 16px;
+  text-align: center;
+}
+
+.profile-message.error {
+  color: #ff9b9b;
+}

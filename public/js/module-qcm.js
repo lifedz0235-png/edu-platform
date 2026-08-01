@@ -4,6 +4,10 @@ const params = new URLSearchParams(window.location.search);
 const category = params.get("category");
 const moduleName = params.get("module");
 
+const pcrTrialGate =
+  window.PCRTrialReady ||
+  Promise.resolve(null);
+
 const moduleTitle = document.getElementById("moduleTitle");
 const moduleInfo = document.getElementById("moduleInfo");
 
@@ -105,6 +109,22 @@ function checkLock() {
 }
 
 async function loadQcmManifest() {
+  const trialAccess =
+    await pcrTrialGate;
+
+  if (
+    trialAccess &&
+    !trialAccess.isModuleAllowed(
+      category,
+      moduleName
+    )
+  ) {
+    trialAccess.showBlockedOverlay();
+    throw new Error(
+      "TRIAL_ACCESS_DENIED"
+    );
+  }
+
   const basePath = `/banque-qcm/${category}/${moduleName}`;
   const response = await fetch(basePath + "/index.json");
 

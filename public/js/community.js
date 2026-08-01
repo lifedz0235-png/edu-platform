@@ -1,9 +1,40 @@
 const communitySearch = document.getElementById("communitySearch");
 let allCommunityPosts = [];
+let blockedCommunityUsers = [];
+let communityRulesAccepted = false;
 const postText = document.getElementById("postText");
 const postImage = document.getElementById("postImage");
 const publishBtn = document.getElementById("publishBtn");
 const postsList = document.getElementById("postsList");
+postsList.addEventListener("click", event => {
+  const replyButton = event.target.closest(
+    ".reply-post-btn"
+  );
+
+  if (!replyButton) {
+    return;
+  }
+
+  const postId = replyButton.dataset.postId;
+
+  const postText = decodeURIComponent(
+    replyButton.dataset.postText || ""
+  );
+
+  const postImage = decodeURIComponent(
+    replyButton.dataset.postImage || ""
+  );
+
+  const authorId =
+    replyButton.dataset.authorId || null;
+
+  startReply(
+    postId,
+    postText,
+    postImage,
+    authorId
+  );
+});
 const notificationsBtn = document.getElementById("notificationsBtn");
 const notificationsCount = document.getElementById("notificationsCount");
 const notificationsPanel = document.getElementById("notificationsPanel");
@@ -179,15 +210,37 @@ notificationsBtn.addEventListener("click", async () => {
 });
 
 async function loadPosts() {
-  const res = await fetch("/api/community/posts");
+  const currentUser = getCurrentUser();
+  const query = currentUser
+    ? `?userId=${encodeURIComponent(currentUser.id)}`
+    : "";
+
+  const res = await fetch(`/api/community/posts${query}`);
   const posts = await res.json();
 
   allCommunityPosts = posts.reverse();
   renderPosts(allCommunityPosts);
 
   setTimeout(() => {
-    const lastPost = postsList.lastElementChild;
-    if (lastPost) lastPost.scrollIntoView({ behavior: "smooth", block: "end" });
+    /*
+      Sur ordinateur, on peut afficher la dernière
+      publication automatiquement.
+
+      Sur téléphone, on garde la page en haut afin
+      que le titre, la recherche et les contrôles
+      restent visibles après le chargement.
+    */
+    if (window.innerWidth > 768) {
+      const lastPost =
+        postsList.lastElementChild;
+
+      if (lastPost) {
+        lastPost.scrollIntoView({
+          behavior: "smooth",
+          block: "end"
+        });
+      }
+    }
   }, 150);
 }
 
@@ -303,9 +356,7 @@ formData.append(
       body: formData
     });
 
-    if (!res.ok) {
-      throw new Error("Erreur serveur pendant la publication");
-    }
+    await readApiResponse(res);
 
     postText.value = "";
     postImage.value = "";
@@ -325,23 +376,458 @@ formData.append(
   }
 }
 
+
+function updateStoredCurrentUser(user) {
+  if (!user) return;
+  localStorage.setItem(
+    "pcr_current_user",
+    JSON.stringify(user)
+  );
+}
+
+async function readApiResponse(res) {
+  let result = {};
+
+  try {
+    result = await res.json();
+  } catch (error) {
+    result = {};
+  }
+
+  if (!res.ok) {
+    throw new Error(
+      result.error || "Une erreur est survenue."
+    );
+  }
+
+  return result;
+}
+
+function injectCommunityModerationUi() {
+  if (!document.getElementById("communityModerationToolbar")) {
+    const toolbar = document.createElement("div");
+    toolbar.id = "communityModerationToolbar";
+    toolbar.className = "community-moderation-toolbar";
+    toolbar.innerHTML = `
+      <button type="button" onclick="openBlockedUsersModal()">
+        🚫 Utilisateurs bloqués
+        <span id="blockedUsersCount">0</span>
+      </button>
+      <button type="button" onclick="openCommunityRulesModal(false)">
+        📜 Règles de la communauté
+      </button>
+    `;
+
+    const anchor =
+      document.querySelector(".community-search") ||
+      postsList;
+
+    anchor.parentNode.insertBefore(
+      toolbar,
+      anchor.nextSibling
+    );
+  }
+
+  const publicProfileCard = document.querySelector(
+    ".public-profile-card"
+  );
+
+  if (
+    publicProfileCard &&
+    !document.getElementById("publicProfileModerationActions")
+  ) {
+    const actions = document.createElement("div");
+    actions.id = "publicProfileModerationActions";
+    actions.className = "public-profile-moderation-actions";
+    publicProfileCard.appendChild(actions);
+  }
+
+  if (!document.getElementById("communityModerationModal")) {
+    const modal = document.createElement("div");
+    modal.id = "communityModerationModal";
+    modal.className = "community-moderation-modal hidden";
+    modal.innerHTML = `
+      <div class="community-moderation-card">
+        <button
+          id="closeCommunityModerationModal"
+          class="community-modal-close"
+          type="button"
+          aria-label="Fermer"
+        >×</button>
+        <div id="communityModerationModalContent"></div>
+      </div>
+    `;
+
+    document.body.appendChild(modal);
+
+    modal.addEventListener("click", event => {
+      if (event.target === modal) {
+        closeCommunityModerationModal();
+      }
+    });
+
+    modal.querySelector(
+      "#closeCommunityModerationModal"
+    ).addEventListener(
+      "click",
+      closeCommunityModerationModal
+    );
+  }
+}
+
+function closeCommunityModerationModal(force = false) {
+  if (!communityRulesAccepted && !force) return;
+
+  const modal = document.getElementById(
+    "communityModerationModal"
+  );
+
+  modal?.classList.add("hidden");
+  document.body.classList.remove("modal-open");
+}
+
+function showCommunityModal(content) {
+  injectCommunityModerationUi();
+
+  const modal = document.getElementById(
+    "communityModerationModal"
+  );
+  const container = document.getElementById(
+    "communityModerationModalContent"
+  );
+
+  container.innerHTML = content;
+  modal.classList.remove("hidden");
+  document.body.classList.add("modal-open");
+}
+
+function openCommunityRulesModal(mandatory = false) {
+  showCommunityModal(`
+    <div class="community-rules-content">
+      <span class="community-modal-icon">📜</span>
+      <h2>Règles de la communauté PCR</h2>
+      <p>
+        Cet espace est réservé aux échanges pédagogiques respectueux.
+      </p>
+      <ul>
+        <li>Aucun harcèlement, insulte, menace ou discrimination.</li>
+        <li>Aucun spam, contenu trompeur ou publicité non autorisée.</li>
+        <li>Aucun contenu sexuel, violent ou illégal.</li>
+        <li>
+          Ne publiez jamais d’informations nominatives ou confidentielles
+          concernant des patients.
+        </li>
+        <li>
+          Tout contenu peut être signalé, supprimé et son auteur suspendu.
+        </li>
+      </ul>
+      ${mandatory ? `
+        <label class="community-rules-check">
+          <input id="acceptCommunityRulesCheck" type="checkbox">
+          <span>J’ai lu et j’accepte les règles de la communauté.</span>
+        </label>
+        <button
+          id="acceptCommunityRulesBtn"
+          class="community-primary-action"
+          type="button"
+          disabled
+        >Accepter et continuer</button>
+      ` : `
+        <button
+          class="community-primary-action"
+          type="button"
+          onclick="closeCommunityModerationModal(true)"
+        >Fermer</button>
+      `}
+    </div>
+  `);
+
+  const closeButton = document.getElementById(
+    "closeCommunityModerationModal"
+  );
+  closeButton.style.display = mandatory ? "none" : "grid";
+
+  if (mandatory) {
+    const checkbox = document.getElementById(
+      "acceptCommunityRulesCheck"
+    );
+    const acceptButton = document.getElementById(
+      "acceptCommunityRulesBtn"
+    );
+
+    checkbox.addEventListener("change", () => {
+      acceptButton.disabled = !checkbox.checked;
+    });
+
+    acceptButton.addEventListener("click", acceptCommunityRules);
+  }
+}
+
+async function acceptCommunityRules() {
+  const currentUser = getCurrentUser();
+  if (!currentUser) return;
+
+  try {
+    const res = await fetch("/api/community/rules/accept", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        userId: currentUser.id
+      })
+    });
+
+    const result = await readApiResponse(res);
+    communityRulesAccepted = true;
+    updateStoredCurrentUser(result.user);
+    closeCommunityModerationModal(true);
+  } catch (error) {
+    alert(error.message);
+  }
+}
+
+async function loadCommunityModerationStatus() {
+  const currentUser = getCurrentUser();
+  if (!currentUser) return;
+
+  const res = await fetch(
+    `/api/community/moderation/status?userId=${encodeURIComponent(currentUser.id)}`
+  );
+  const result = await readApiResponse(res);
+
+  communityRulesAccepted = result.rulesAccepted === true;
+  blockedCommunityUsers = Array.isArray(result.blockedUsers)
+    ? result.blockedUsers
+    : [];
+
+  const count = document.getElementById("blockedUsersCount");
+  if (count) count.textContent = blockedCommunityUsers.length;
+
+  if (!communityRulesAccepted) {
+    openCommunityRulesModal(true);
+  }
+}
+
+function openReportModal(targetType, postId, commentId, targetUserId) {
+  showCommunityModal(`
+    <div class="community-report-content">
+      <span class="community-modal-icon">🚩</span>
+      <h2>Signaler un contenu</h2>
+      <p>
+        Votre signalement sera transmis à l’administrateur PCR.
+      </p>
+      <label>
+        Motif
+        <select id="communityReportReason">
+          <option value="inappropriate">Contenu inapproprié</option>
+          <option value="harassment">Harcèlement ou intimidation</option>
+          <option value="spam">Spam ou publicité</option>
+          <option value="misinformation">Information trompeuse</option>
+          <option value="other">Autre</option>
+        </select>
+      </label>
+      <label>
+        Précisions facultatives
+        <textarea
+          id="communityReportDetails"
+          maxlength="1000"
+          placeholder="Expliquez brièvement le problème..."
+        ></textarea>
+      </label>
+      <button
+        class="community-danger-action"
+        type="button"
+        onclick="submitCommunityReport(
+          '${targetType}',
+          '${postId || ""}',
+          '${commentId || ""}',
+          '${targetUserId || ""}'
+        )"
+      >Envoyer le signalement</button>
+    </div>
+  `);
+}
+
+async function submitCommunityReport(
+  targetType,
+  postId,
+  commentId,
+  targetUserId
+) {
+  const currentUser = getCurrentUser();
+  if (!currentUser) return;
+
+  const reason = document.getElementById(
+    "communityReportReason"
+  ).value;
+  const details = document.getElementById(
+    "communityReportDetails"
+  ).value.trim();
+
+  try {
+    const res = await fetch("/api/community/reports", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        reporterId: currentUser.id,
+        targetType,
+        postId: postId || null,
+        commentId: commentId || null,
+        targetUserId: targetUserId || null,
+        reason,
+        details
+      })
+    });
+
+    const result = await readApiResponse(res);
+    closeCommunityModerationModal(true);
+    alert(result.message || "Signalement envoyé.");
+  } catch (error) {
+    alert(error.message);
+  }
+}
+
+async function blockCommunityUser(userId) {
+  const currentUser = getCurrentUser();
+  if (!currentUser || !userId) return;
+
+  const confirmation = confirm(
+    "Bloquer cet utilisateur ? Ses contenus seront masqués et toute interaction entre vos comptes sera empêchée."
+  );
+
+  if (!confirmation) return;
+
+  try {
+    const res = await fetch("/api/community/blocks", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        userId: currentUser.id,
+        blockedUserId: userId
+      })
+    });
+
+    await readApiResponse(res);
+    await loadCommunityModerationStatus();
+    await loadPosts();
+  } catch (error) {
+    alert(error.message);
+  }
+}
+
+async function unblockCommunityUser(userId) {
+  const currentUser = getCurrentUser();
+  if (!currentUser || !userId) return;
+
+  try {
+    const res = await fetch(
+      `/api/community/blocks/${encodeURIComponent(userId)}`,
+      {
+        method: "DELETE",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          userId: currentUser.id
+        })
+      }
+    );
+
+    await readApiResponse(res);
+    await loadCommunityModerationStatus();
+    openBlockedUsersModal();
+    await loadPosts();
+  } catch (error) {
+    alert(error.message);
+  }
+}
+
+function openBlockedUsersModal() {
+  const rows = blockedCommunityUsers.length
+    ? blockedCommunityUsers.map(user => `
+        <div class="blocked-user-row">
+          <div class="blocked-user-avatar">
+            ${user.photoUrl
+              ? `<img src="${escapeHtml(user.photoUrl)}" alt="">`
+              : `<span>${escapeHtml(user.name).charAt(0).toUpperCase()}</span>`
+            }
+          </div>
+          <strong>${escapeHtml(user.name)}</strong>
+          <button
+            type="button"
+            onclick="unblockCommunityUser('${user.id}')"
+          >Débloquer</button>
+        </div>
+      `).join("")
+    : `<p class="community-empty-state">Aucun utilisateur bloqué.</p>`;
+
+  showCommunityModal(`
+    <div class="blocked-users-content">
+      <span class="community-modal-icon">🚫</span>
+      <h2>Utilisateurs bloqués</h2>
+      <div class="blocked-users-list">${rows}</div>
+    </div>
+  `);
+}
+
+function moderationButtons(targetType, postId, commentId, authorId) {
+  const currentUser = getCurrentUser();
+
+  if (
+    !currentUser ||
+    !authorId ||
+    String(currentUser.id) === String(authorId) ||
+    String(currentUser.role || "").toLowerCase() === "admin"
+  ) {
+    return "";
+  }
+
+  return `
+    <button
+      class="community-report-btn"
+      type="button"
+      onclick="openReportModal(
+        '${targetType}',
+        '${postId || ""}',
+        '${commentId || ""}',
+        '${authorId}'
+      )"
+    >🚩 Signaler</button>
+    <button
+      class="community-block-btn"
+      type="button"
+      onclick="blockCommunityUser('${authorId}')"
+    >🚫 Bloquer</button>
+  `;
+}
+
 async function likePost(id) {
   const currentUser = getCurrentUser();
 
   if (!currentUser) return;
 
-  await fetch(`/api/community/posts/${id}/like`, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({
-      userId: currentUser.id,
-      userName: currentUser.name
-    })
-  });
+  try {
+    const res = await fetch(`/api/community/posts/${id}/like`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        userId: currentUser.id,
+        userName: currentUser.name
+      })
+    });
 
-  await loadPosts();
+    await readApiResponse(res);
+    await loadPosts();
+  } catch (error) {
+    alert(error.message);
+  }
   await loadNotifications();
 }
 
@@ -353,23 +839,27 @@ async function addComment(id, input) {
 
   if (!currentUser) return;
 
-  await fetch(`/api/community/posts/${id}/comments`, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({
-      text,
-      authorId: currentUser.id,
-      authorName: currentUser.name,
-      authorRole: currentUser.role
-    })
-  });
+  try {
+    const res = await fetch(`/api/community/posts/${id}/comments`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        text,
+        authorId: currentUser.id,
+        authorName: currentUser.name,
+        authorRole: currentUser.role
+      })
+    });
 
-  input.value = "";
-
-  await loadPosts();
-  await loadNotifications();
+    await readApiResponse(res);
+    input.value = "";
+    await loadPosts();
+    await loadNotifications();
+  } catch (error) {
+    alert(error.message);
+  }
 }
 
 function formatDate(date) {
@@ -385,18 +875,26 @@ async function likeComment(postId, commentId) {
 
   if (!currentUser) return;
 
-  await fetch(`/api/community/posts/${postId}/comments/${commentId}/like`, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({
-      userId: currentUser.id,
-      userName: currentUser.name
-    })
-  });
+  try {
+    const res = await fetch(
+      `/api/community/posts/${postId}/comments/${commentId}/like`,
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          userId: currentUser.id,
+          userName: currentUser.name
+        })
+      }
+    );
 
-  await loadPosts();
+    await readApiResponse(res);
+    await loadPosts();
+  } catch (error) {
+    alert(error.message);
+  }
 }
 
 function getCommentsCount(post) {
@@ -590,6 +1088,33 @@ async function openPublicProfile(userId) {
     publicProfileLikes.textContent =
       profile.stats?.likesReceived || 0;
 
+    const profileModerationActions = document.getElementById(
+      "publicProfileModerationActions"
+    );
+    const currentUser = getCurrentUser();
+
+    if (profileModerationActions) {
+      const canModerateProfile =
+        currentUser &&
+        String(currentUser.id) !== String(profile.id) &&
+        String(currentUser.role || "").toLowerCase() !== "admin";
+
+      profileModerationActions.innerHTML = canModerateProfile
+        ? `
+          <button
+            class="community-report-btn"
+            type="button"
+            onclick="openReportModal('user', '', '', '${profile.id}')"
+          >🚩 Signaler l’utilisateur</button>
+          <button
+            class="community-block-btn"
+            type="button"
+            onclick="blockCommunityUser('${profile.id}')"
+          >🚫 Bloquer l’utilisateur</button>
+        `
+        : "";
+    }
+
     if (profile.photoUrl) {
       publicProfileAvatar.innerHTML = `
         <img
@@ -756,11 +1281,11 @@ function renderPosts(posts) {
         <div class="quoted-post">
           <strong>Réponse à :</strong>
           ${post.replyTo.imageUrl ? `<img src="${post.replyTo.imageUrl}" />` : ""}
-          <p>${post.replyTo.text || "Photo"}</p>
+          <p>${escapeHtml(post.replyTo.text || "Photo")}</p>
         </div>
       ` : ""}
 
-      ${post.text ? `<p class="post-text">${post.text}</p>` : ""}
+      ${post.text ? `<p class="post-text">${escapeHtml(post.text)}</p>` : ""}
 
       ${post.imageUrl ? `<img class="post-image" src="${post.imageUrl}" />` : ""}
 
@@ -774,14 +1299,22 @@ function renderPosts(posts) {
   💬 ${getCommentsCount(post)} commentaire${getCommentsCount(post) > 1 ? "s" : ""}
 </span>
 
-  <button onclick="startReply(
-  ${post.id},
-  \`${escapeText(post.text || "")}\`,
-  '${post.imageUrl || ""}',
-  ${post.authorId || "null"}
-)">
+ <button
+  type="button"
+  class="reply-post-btn"
+  data-post-id="${post.id}"
+  data-post-text="${encodeURIComponent(post.text || "")}"
+  data-post-image="${encodeURIComponent(post.imageUrl || "")}"
+  data-author-id="${post.authorId ?? ""}"
+>
   ↩️ Répondre
 </button>
+  ${moderationButtons(
+    "post",
+    post.id,
+    null,
+    post.authorId
+  )}
 
 </div>
 
@@ -839,7 +1372,7 @@ ${
     : ""
 }
 
-<p>${c.text}</p>
+<p>${escapeHtml(c.text)}</p>
 
 <span>${formatDate(c.createdAt)}</span>
 
@@ -862,6 +1395,13 @@ ${
       `
       : ""
   }
+
+  ${moderationButtons(
+    "comment",
+    post.id,
+    c.id,
+    c.authorId
+  )}
 
 </div>
       </div>
@@ -908,9 +1448,28 @@ window.likeComment = likeComment;
 window.deletePost = deletePost;
 window.deleteComment = deleteComment;
 window.openPublicProfile = openPublicProfile;
+window.openCommunityRulesModal = openCommunityRulesModal;
+window.closeCommunityModerationModal = closeCommunityModerationModal;
+window.openReportModal = openReportModal;
+window.submitCommunityReport = submitCommunityReport;
+window.blockCommunityUser = blockCommunityUser;
+window.unblockCommunityUser = unblockCommunityUser;
+window.openBlockedUsersModal = openBlockedUsersModal;
 
 communitySearch.addEventListener("input", e => {
   searchCommunity(e.target.value);
 });
-loadPosts();
-loadNotifications();
+async function initializeCommunity() {
+  injectCommunityModerationUi();
+
+  try {
+    await loadCommunityModerationStatus();
+    await loadPosts();
+    await loadNotifications();
+  } catch (error) {
+    console.error("Erreur initialisation communauté:", error);
+    alert(error.message || "Impossible de charger la communauté.");
+  }
+}
+
+initializeCommunity();

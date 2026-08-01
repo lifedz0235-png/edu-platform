@@ -1,0 +1,2508 @@
+/* =========================================================
+   PCR — RESPONSIVE MOBILE FIX
+   Desktop يبقى كما هو
+   هذه القواعد تعمل فقط في الهاتف والتابلت
+========================================================= */
+
+/* حماية عامة من خروج العناصر خارج الشاشة */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+img,
+svg,
+canvas,
+iframe,
+video {
+  max-width: 100%;
+}
+
+/* =========================================================
+   TABLET + MOBILE
+========================================================= */
+
+@media screen and (max-width: 900px) {
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden !important;
+  }
+
+  body {
+    min-width: 0 !important;
+    padding-bottom: 95px !important;
+  }
+
+  main,
+  section,
+  header,
+  footer,
+  nav {
+    max-width: 100%;
+  }
+
+  .container,
+  .page-container,
+  .main-container,
+  .content-container,
+  .dashboard-container,
+  .profile-container,
+  .modules-container,
+  .courses-container,
+  .category-container,
+  .hero-container {
+    width: min(100% - 28px, 1200px) !important;
+    max-width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  /* العناوين لا تخرج من الشاشة */
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  span,
+  a,
+  button {
+    overflow-wrap: normal;
+    word-break: normal;
+  }
+
+  /* الفيديو */
+  video,
+  .video-player,
+  .course-video,
+  .player-video,
+  .video-container video {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    object-fit: contain !important;
+  }
+
+  .video-container,
+  .player-container,
+  .course-player,
+  .media-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+  }
+}
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media screen and (max-width: 768px) {
+  :root {
+    --mobile-page-padding: 16px;
+    --mobile-card-radius: 24px;
+  }
+
+  body {
+    font-size: 16px;
+  }
+
+  /* جميع الأقسام الرئيسية */
+  main,
+  .main-content,
+  .page-content,
+  .home-content,
+  .dashboard-content,
+  .modules-content,
+  .player-content {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    margin: 0 auto !important;
+  }
+
+  section {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  /* =====================================================
+     HEADER / NAVBAR
+  ===================================================== */
+
+  .navbar,
+  .main-navbar,
+  .topbar,
+  .header-inner,
+  .site-header,
+  .app-header {
+    width: calc(100% - 24px) !important;
+    max-width: calc(100% - 24px) !important;
+    min-width: 0 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+
+  .navbar-links,
+  .nav-links,
+  .desktop-nav,
+  .desktop-menu {
+    display: none !important;
+  }
+
+  .logo,
+  .brand,
+  .navbar-brand {
+    max-width: 70%;
+  }
+
+  /* =====================================================
+     HERO ACCUEIL
+  ===================================================== */
+
+  .hero,
+  .hero-section,
+  .home-hero,
+  .dashboard-hero {
+    width: calc(100% - 24px) !important;
+    max-width: calc(100% - 24px) !important;
+    min-width: 0 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 32px 20px !important;
+    overflow: hidden !important;
+  }
+
+  .hero-content,
+  .hero-text,
+  .hero-info {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    text-align: center;
+  }
+
+  .hero h1,
+  .hero-title,
+  .home-title,
+  .dashboard-title {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    font-size: clamp(42px, 13vw, 70px) !important;
+    line-height: 0.98 !important;
+    letter-spacing: -2px !important;
+    text-align: center !important;
+    white-space: normal !important;
+  }
+
+  .hero p,
+  .hero-description,
+  .hero-subtitle {
+    max-width: 100% !important;
+    margin: 24px auto !important;
+    font-size: 18px !important;
+    line-height: 1.5 !important;
+    text-align: center !important;
+  }
+
+  .hero-actions,
+  .hero-buttons,
+  .action-buttons,
+  .cta-buttons {
+    width: 100% !important;
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+  }
+
+  .hero-actions a,
+  .hero-actions button,
+  .hero-buttons a,
+  .hero-buttons button,
+  .action-buttons a,
+  .action-buttons button,
+  .cta-buttons a,
+  .cta-buttons button {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    justify-content: center !important;
+  }
+
+  /* صورة/شعار Hero */
+  .hero-image,
+  .hero-visual,
+  .dashboard-visual,
+  .mascot,
+  .hero-logo {
+    position: relative !important;
+    inset: auto !important;
+    width: min(250px, 75vw) !important;
+    max-width: 100% !important;
+    margin: 30px auto 0 !important;
+    transform: none !important;
+  }
+
+  /* =====================================================
+     STATISTIQUES
+  ===================================================== */
+
+  .stats-grid,
+  .statistics-grid,
+  .dashboard-stats,
+  .hero-stats,
+  .summary-grid {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 12px !important;
+  }
+
+  .stat-card,
+  .stats-card,
+  .dashboard-stat,
+  .summary-card {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    padding: 22px 16px !important;
+    border-radius: 22px !important;
+  }
+
+  .stat-card strong,
+  .stat-number,
+  .stat-value {
+    font-size: clamp(30px, 10vw, 46px) !important;
+  }
+
+  /* =====================================================
+     CATÉGORIES
+  ===================================================== */
+
+  .categories-grid,
+  .category-grid,
+  .home-categories,
+  .cards-grid {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 22px !important;
+    padding-left: var(--mobile-page-padding) !important;
+    padding-right: var(--mobile-page-padding) !important;
+  }
+
+  .category-card,
+  .home-card,
+  .feature-card {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    min-height: 320px;
+    margin: 0 auto !important;
+    padding: 30px 24px !important;
+  }
+
+  /* =====================================================
+     MODULES
+  ===================================================== */
+
+  .modules-grid,
+  .module-grid,
+  .modules-list {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 22px !important;
+    padding-left: var(--mobile-page-padding) !important;
+    padding-right: var(--mobile-page-padding) !important;
+  }
+
+  .module-card {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    margin: 0 auto !important;
+    padding: 26px 20px !important;
+    border-radius: var(--mobile-card-radius) !important;
+    overflow: hidden !important;
+  }
+
+  .module-header,
+  .module-info {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .module-card h2,
+  .module-card h3,
+  .module-title {
+    max-width: 100% !important;
+    font-size: clamp(28px, 8vw, 42px) !important;
+    line-height: 1.08 !important;
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  .module-card button,
+  .module-card .btn,
+  .module-card a.button,
+  .module-card a.btn {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+  }
+
+  /* =====================================================
+     PLAYER DE COURS
+  ===================================================== */
+
+  .player-page,
+  .course-page {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+
+  .player-card,
+  .video-card,
+  .course-player-card {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    margin: 0 auto !important;
+    padding: 18px 12px !important;
+    border-radius: 24px !important;
+  }
+
+  .player-actions,
+  .video-actions,
+  .course-actions {
+    width: 100% !important;
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 10px !important;
+  }
+
+  .player-actions button,
+  .player-actions a,
+  .video-actions button,
+  .video-actions a,
+  .course-actions button,
+  .course-actions a {
+    width: 100% !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    padding: 15px 8px !important;
+    font-size: 15px !important;
+    white-space: normal !important;
+  }
+
+  /* Liste des cours */
+  .course-list-card,
+  .courses-list-card,
+  .lesson-list-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    padding: 22px 16px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .course-item,
+  .lesson-item {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    padding: 18px 15px !important;
+    font-size: 17px !important;
+  }
+
+  /* Barre de recherche */
+  input,
+  select,
+  textarea,
+  .search-input,
+  .course-search,
+  .module-search {
+    max-width: 100% !important;
+  }
+
+  .search-box,
+  .search-container {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  /* =====================================================
+     DASHBOARD
+  ===================================================== */
+
+  .dashboard-card,
+  .progress-card,
+  .favorites-card,
+  .profile-card {
+    width: calc(100% - 28px) !important;
+    max-width: calc(100% - 28px) !important;
+    min-width: 0 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 28px 20px !important;
+    border-radius: 26px !important;
+  }
+
+  .dashboard-card h2,
+  .progress-card h2,
+  .favorites-card h2 {
+    font-size: clamp(30px, 9vw, 46px) !important;
+    line-height: 1.1 !important;
+  }
+
+  .progress-row,
+  .category-progress {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .progress-header {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+
+  /* =====================================================
+     PROFIL
+  ===================================================== */
+
+  .user-profile-card,
+  .profile-header {
+    width: calc(100% - 28px) !important;
+    max-width: calc(100% - 28px) !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 20px !important;
+  }
+
+  .profile-name {
+    font-size: 30px !important;
+  }
+
+  /* =====================================================
+     LOGIN
+  ===================================================== */
+
+  .auth-page,
+  .login-page,
+  .register-page {
+    width: 100% !important;
+    min-height: 100dvh !important;
+    padding: 24px 16px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+
+  .auth-card,
+  .login-card,
+  .register-card,
+  .auth-container {
+    width: min(100%, 430px) !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    padding: 28px 20px !important;
+    margin: auto !important;
+    transform: none !important;
+  }
+
+  .auth-card input,
+  .login-card input,
+  .register-card input {
+    width: 100% !important;
+    min-height: 50px;
+    font-size: 16px !important;
+  }
+
+  .auth-card button,
+  .login-card button,
+  .register-card button {
+    width: 100% !important;
+    min-height: 50px;
+  }
+
+  /* =====================================================
+     BUTTONS
+  ===================================================== */
+
+  button,
+  .btn,
+  a.btn,
+  a.button {
+    max-width: 100%;
+  }
+}
+
+/* Téléphones très petits */
+@media screen and (max-width: 420px) {
+  .stats-grid,
+  .statistics-grid,
+  .dashboard-stats,
+  .hero-stats,
+  .summary-grid {
+    grid-template-columns: 1fr 1fr !important;
+    gap: 9px !important;
+  }
+
+  .stat-card,
+  .stats-card,
+  .dashboard-stat,
+  .summary-card {
+    padding: 18px 10px !important;
+  }
+
+  .hero h1,
+  .hero-title,
+  .home-title {
+    font-size: clamp(38px, 13vw, 56px) !important;
+  }
+
+  .player-actions,
+  .video-actions,
+  .course-actions {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Le menu mobile ne doit jamais apparaître sur PC */
+@media screen and (min-width: 769px) {
+  #pcr-mobile-menu-button,
+  #pcr-mobile-menu-panel,
+  #pcr-mobile-menu-overlay {
+    display: none !important;
+  }
+}
+
+/* =========================================================
+   PCR MOBILE FINAL — QCM
+========================================================= */
+
+@media screen and (max-width: 768px) {
+  .qcm-page {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 18px 14px 110px !important;
+    margin: 0 auto !important;
+  }
+
+  .qcm-page .progress-box,
+  .qcm-page .qcm-header,
+  .qcm-page .quiz-box,
+  .qcm-page .result-box,
+  .qcm-page .lock-box {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-radius: 22px !important;
+  }
+
+  .qcm-page .progress-box {
+    padding: 18px !important;
+    margin-bottom: 18px !important;
+  }
+
+  .qcm-page #progressText {
+    font-size: 16px !important;
+    line-height: 1.45 !important;
+    margin: 0 0 12px !important;
+  }
+
+  .qcm-page .back-btn {
+    display: inline-flex !important;
+    align-items: center !important;
+    min-height: 48px !important;
+    margin: 4px 0 18px !important;
+    font-size: 16px !important;
+    font-weight: 800 !important;
+  }
+
+  .qcm-page .qcm-header {
+    padding: 24px 20px !important;
+  }
+
+  .qcm-page .qcm-header h1 {
+    margin: 0 0 10px !important;
+    font-size: clamp(27px, 7.5vw, 38px) !important;
+    line-height: 1.15 !important;
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+  }
+
+  .qcm-page .qcm-header p {
+    margin: 0 !important;
+    font-size: 16px !important;
+    line-height: 1.45 !important;
+  }
+
+  .qcm-page .qcm-actions {
+    width: 100% !important;
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+    margin: 18px 0 !important;
+  }
+
+  .qcm-page .qcm-actions button {
+    width: 100% !important;
+    min-height: 56px !important;
+    padding: 14px 16px !important;
+    font-size: 16px !important;
+    line-height: 1.3 !important;
+    border-radius: 16px !important;
+  }
+
+  .qcm-page .quiz-box {
+    padding: 24px 18px !important;
+  }
+
+  .qcm-page #questionCounter {
+    font-size: 16px !important;
+    font-weight: 900 !important;
+    margin-bottom: 18px !important;
+  }
+
+  .qcm-page #questionText {
+    margin: 0 0 22px !important;
+    font-size: clamp(22px, 6vw, 31px) !important;
+    line-height: 1.4 !important;
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+  }
+
+  .qcm-page #choicesBox {
+    display: grid !important;
+    gap: 12px !important;
+  }
+
+  .qcm-page .choice {
+    width: 100% !important;
+    min-height: 64px !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 14px !important;
+    padding: 16px !important;
+    margin: 0 !important;
+    border-radius: 16px !important;
+    font-size: 17px !important;
+    line-height: 1.5 !important;
+    cursor: pointer !important;
+  }
+
+  .qcm-page .choice input {
+    width: 22px !important;
+    height: 22px !important;
+    min-width: 22px !important;
+    margin: 0 !important;
+    accent-color: #6c4cff;
+  }
+
+  .qcm-page #validateBtn,
+  .qcm-page #nextBtn,
+  .qcm-page .continue-btn {
+    width: 100% !important;
+    min-height: 56px !important;
+    margin-top: 20px !important;
+    padding: 14px 18px !important;
+    font-size: 17px !important;
+    font-weight: 900 !important;
+    border-radius: 16px !important;
+  }
+
+  .qcm-page #explanation {
+    margin-top: 20px !important;
+    font-size: 16px !important;
+    line-height: 1.6 !important;
+  }
+}
+
+/* =========================================================
+   PCR MOBILE FINAL — ACCUEIL PRO
+========================================================= */
+
+@media screen and (max-width: 768px) {
+  body.pcr-pro-home {
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+  }
+
+  body.pcr-pro-home .pro-nav {
+    width: calc(100% - 24px) !important;
+    height: 72px !important;
+    margin: 10px auto 0 !important;
+    padding: 0 20px !important;
+    border-radius: 20px !important;
+  }
+
+  body.pcr-pro-home .pro-brand {
+    font-size: 27px !important;
+    gap: 10px !important;
+  }
+
+  body.pcr-pro-home .pro-menu {
+    display: none !important;
+  }
+
+  body.pcr-pro-home .pro-page {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0 12px 110px !important;
+  }
+
+  body.pcr-pro-home .pro-hero {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-height: auto !important;
+
+    display: flex !important;
+    flex-direction: column !important;
+    grid-template-columns: none !important;
+
+    margin: 0 auto 36px !important;
+    padding: 34px 20px 40px !important;
+    gap: 30px !important;
+
+    border-radius: 0 0 28px 28px !important;
+    overflow: hidden !important;
+  }
+
+  body.pcr-pro-home .pro-left {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    text-align: center !important;
+  }
+
+  body.pcr-pro-home .trust-row {
+    width: 100% !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    gap: 8px !important;
+
+    margin: 0 auto 22px !important;
+    font-size: 13px !important;
+    line-height: 1.4 !important;
+    text-align: center !important;
+  }
+
+  body.pcr-pro-home .avatars {
+    padding: 7px 10px !important;
+  }
+
+  body.pcr-pro-home .stars {
+    letter-spacing: 2px !important;
+  }
+
+  body.pcr-pro-home .pro-hero h1 {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin: 0 auto !important;
+
+    font-size: clamp(44px, 13vw, 64px) !important;
+    line-height: 1.02 !important;
+    letter-spacing: -2px !important;
+
+    white-space: normal !important;
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+    text-align: center !important;
+  }
+
+  body.pcr-pro-home .pro-hero p {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin: 24px auto 0 !important;
+
+    font-size: 17px !important;
+    line-height: 1.6 !important;
+
+    white-space: normal !important;
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+    text-align: center !important;
+  }
+
+  body.pcr-pro-home .pro-hero p br {
+    display: none !important;
+  }
+
+  body.pcr-pro-home .pro-actions {
+    width: 100% !important;
+
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+
+    margin: 28px auto 0 !important;
+  }
+
+  body.pcr-pro-home .pro-btn {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-height: 58px !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    padding: 14px 18px !important;
+    margin: 0 !important;
+
+    font-size: 17px !important;
+    line-height: 1.25 !important;
+
+    white-space: normal !important;
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+    text-align: center !important;
+  }
+
+  body.pcr-pro-home .pro-btn small {
+    display: inline-flex !important;
+    margin-left: 8px !important;
+    white-space: nowrap !important;
+  }
+
+  body.pcr-pro-home .pro-stats {
+    width: 100% !important;
+
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 12px !important;
+
+    margin: 28px auto 0 !important;
+  }
+
+  body.pcr-pro-home .pro-stats > div {
+    width: 100% !important;
+    min-width: 0 !important;
+    min-height: 120px !important;
+
+    display: grid !important;
+    grid-template-columns: 44px 1fr !important;
+    align-content: center !important;
+    column-gap: 10px !important;
+
+    padding: 16px 14px !important;
+    border-radius: 20px !important;
+  }
+
+  body.pcr-pro-home .pro-stats i {
+    grid-row: 1 / span 2 !important;
+    align-self: center !important;
+    font-size: 30px !important;
+    font-style: normal !important;
+  }
+
+  body.pcr-pro-home .pro-stats b {
+    font-size: clamp(27px, 8vw, 39px) !important;
+    line-height: 1.05 !important;
+  }
+
+  body.pcr-pro-home .pro-stats span {
+    font-size: 14px !important;
+    line-height: 1.35 !important;
+  }
+
+  body.pcr-pro-home .pro-logo-zone {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-height: 300px !important;
+
+    position: relative !important;
+    inset: auto !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    margin: 10px auto 0 !important;
+    transform: none !important;
+  }
+
+  body.pcr-pro-home .pro-logo-zone img {
+    width: min(290px, 76vw) !important;
+    max-width: 100% !important;
+    height: auto !important;
+
+    position: relative !important;
+    inset: auto !important;
+
+    display: block !important;
+    margin: auto !important;
+    transform: none !important;
+  }
+
+  body.pcr-pro-home .pro-categories {
+    width: 100% !important;
+    padding: 10px 4px 50px !important;
+  }
+
+  body.pcr-pro-home .pro-categories h2 {
+    width: 100% !important;
+
+    margin: 0 auto 26px !important;
+
+    font-size: clamp(36px, 11vw, 50px) !important;
+    line-height: 1.1 !important;
+
+    text-align: center !important;
+  }
+
+  body.pcr-pro-home .pro-grid {
+    width: 100% !important;
+
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 20px !important;
+
+    padding: 0 !important;
+    margin: 0 auto !important;
+  }
+
+  body.pcr-pro-home .pro-card {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    min-height: 330px !important;
+
+    margin: 0 auto !important;
+    padding: 30px 24px !important;
+
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+
+    border-radius: 26px !important;
+  }
+
+  body.pcr-pro-home .pro-card > span {
+    font-size: 54px !important;
+  }
+
+  body.pcr-pro-home .pro-card h3 {
+    margin: 26px 0 8px !important;
+    font-size: 35px !important;
+    line-height: 1.15 !important;
+  }
+
+  body.pcr-pro-home .pro-card p {
+    font-size: 18px !important;
+    line-height: 1.5 !important;
+  }
+
+  body.pcr-pro-home .pro-card em {
+    width: fit-content !important;
+    margin-top: 24px !important;
+    padding: 12px 24px !important;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  body.pcr-pro-home .pro-hero h1 {
+    font-size: 43px !important;
+  }
+
+  body.pcr-pro-home .pro-stats {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  body.pcr-pro-home .pro-stats > div {
+    grid-template-columns: 38px 1fr !important;
+    padding: 14px 10px !important;
+  }
+}
+
+/* =========================================================
+   PCR MOBILE FINAL — DASHBOARD LOGO
+========================================================= */
+
+@media screen and (max-width: 768px) {
+  body.dashboard-pro .dash-nav {
+    width: calc(100% - 24px) !important;
+    margin: 12px auto 20px !important;
+    padding: 16px 18px !important;
+    gap: 12px !important;
+    border-radius: 20px !important;
+  }
+
+  body.dashboard-pro .dash-nav h1 {
+    font-size: clamp(27px, 8vw, 38px) !important;
+    white-space: nowrap !important;
+  }
+
+  body.dashboard-pro .dash-nav a {
+    font-size: 15px !important;
+    white-space: nowrap !important;
+  }
+
+  body.dashboard-pro .dash-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 20px 14px 110px !important;
+  }
+
+  body.dashboard-pro .dash-hero {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-height: auto !important;
+
+    display: flex !important;
+    flex-direction: column !important;
+    grid-template-columns: none !important;
+
+    align-items: center !important;
+    justify-content: center !important;
+
+    gap: 24px !important;
+    padding: 30px 20px 34px !important;
+    overflow: hidden !important;
+    text-align: center !important;
+  }
+
+  body.dashboard-pro .dash-hero-text {
+    width: 100% !important;
+    max-width: 100% !important;
+    position: relative !important;
+    z-index: 5 !important;
+  }
+
+  body.dashboard-pro .dash-badge {
+    display: inline-flex !important;
+    width: auto !important;
+    max-width: 100% !important;
+    margin: 0 auto 14px !important;
+    padding: 10px 18px !important;
+    font-size: 15px !important;
+    white-space: nowrap !important;
+  }
+
+  body.dashboard-pro .dash-hero h2 {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin: 10px auto 16px !important;
+
+    font-size: clamp(39px, 11vw, 55px) !important;
+    line-height: 1.05 !important;
+
+    white-space: normal !important;
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+    text-align: center !important;
+  }
+
+  body.dashboard-pro .dash-hero p {
+    width: 100% !important;
+    max-width: 520px !important;
+
+    margin: 0 auto !important;
+
+    font-size: 17px !important;
+    line-height: 1.55 !important;
+
+    text-align: center !important;
+  }
+
+  body.dashboard-pro .rank-card {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    min-height: 230px !important;
+
+    position: relative !important;
+    inset: auto !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    padding: 0 !important;
+    margin: 0 auto !important;
+
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    overflow: visible !important;
+  }
+
+  body.dashboard-pro .rank-card #rankLogo.rank-logo {
+    width: min(245px, 68vw) !important;
+    height: min(245px, 68vw) !important;
+    max-width: 245px !important;
+    max-height: 245px !important;
+
+    position: relative !important;
+    left: auto !important;
+    right: auto !important;
+    top: auto !important;
+    bottom: auto !important;
+    inset: auto !important;
+
+    display: block !important;
+    margin: 0 auto !important;
+
+    object-fit: contain !important;
+
+    transform: none !important;
+    animation: dashboardMobileLogoFloat 4s ease-in-out infinite !important;
+
+    background: transparent !important;
+    border: none !important;
+  }
+
+  body.dashboard-pro .dash-circle {
+    width: 150px !important;
+    height: 150px !important;
+
+    position: relative !important;
+    inset: auto !important;
+
+    margin: 0 auto !important;
+    transform: none !important;
+  }
+
+  body.dashboard-pro .dash-hero::before {
+    left: 50% !important;
+    top: 62% !important;
+    width: 330px !important;
+    height: 330px !important;
+    transform: translate(-50%, -50%) !important;
+  }
+
+  body.dashboard-pro .dash-hero::after {
+    left: 50% !important;
+    bottom: 190px !important;
+
+    width: 230px !important;
+    height: 38px !important;
+
+    transform: translateX(-50%) !important;
+  }
+
+  @keyframes dashboardMobileLogoFloat {
+    0%,
+    100% {
+      transform: translateY(0) rotate(-1deg);
+    }
+
+    50% {
+      transform: translateY(-10px) rotate(1deg);
+    }
+  }
+}
+
+/* =========================================================
+   PCR — CORRECTIF FINAL
+   PAGE MODULES + LECTEUR DE COURS
+   Mobile uniquement
+========================================================= */
+
+@media screen and (max-width: 768px) {
+
+  /* =====================================================
+     PAGE MODULES / COURS
+  ===================================================== */
+
+  body {
+    padding-bottom: 110px !important;
+  }
+
+  /* Header de la catégorie */
+  .modules-header,
+  .module-page-header,
+  .category-header,
+  .courses-header {
+    width: calc(100% - 24px) !important;
+    max-width: calc(100% - 24px) !important;
+    min-width: 0 !important;
+
+    margin: 0 auto 28px !important;
+    padding: 24px 18px !important;
+
+    overflow: hidden !important;
+  }
+
+  .modules-header h1,
+  .module-page-header h1,
+  .category-header h1,
+  .courses-header h1 {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin: 0 !important;
+
+    font-size: clamp(36px, 10vw, 52px) !important;
+    line-height: 1.1 !important;
+
+    text-align: center !important;
+    white-space: normal !important;
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+  }
+
+  /* Recherche module */
+  .module-search,
+  .modules-search,
+  .search-container,
+  .search-box {
+    width: calc(100% - 32px) !important;
+    max-width: calc(100% - 32px) !important;
+
+    margin: 24px auto 38px !important;
+  }
+
+  .module-search input,
+  .modules-search input,
+  .search-container input,
+  .search-box input {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    min-height: 58px !important;
+    padding: 0 20px !important;
+
+    font-size: 17px !important;
+    border-radius: 20px !important;
+  }
+
+  /* Grille modules */
+  .modules-grid,
+  .module-grid,
+  .modules-list {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 24px !important;
+
+    margin: 0 auto !important;
+    padding: 0 16px 40px !important;
+  }
+
+  /* Carte module */
+  .module-card {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    margin: 0 auto !important;
+    padding: 28px 22px !important;
+
+    border-radius: 28px !important;
+    overflow: hidden !important;
+  }
+
+  /* Partie haute carte */
+  .module-card-header,
+  .module-header,
+  .module-info,
+  .module-card-info {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+  }
+
+  .module-card-header,
+  .module-header {
+    display: grid !important;
+    grid-template-columns: 110px minmax(0, 1fr) !important;
+    align-items: center !important;
+    gap: 18px !important;
+  }
+
+  /* Icône module */
+  .module-icon,
+  .module-card-icon,
+  .module-emoji {
+    width: 105px !important;
+    height: 105px !important;
+    min-width: 105px !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    font-size: 54px !important;
+    border-radius: 24px !important;
+  }
+
+  /* Titre module long: Anatomopathologie */
+  .module-card h2,
+  .module-card h3,
+  .module-title,
+  .module-name {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    margin: 0 !important;
+
+    font-size: clamp(29px, 8vw, 42px) !important;
+    line-height: 1.08 !important;
+
+    white-space: normal !important;
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+
+    overflow: visible !important;
+    text-overflow: clip !important;
+  }
+
+  .module-course-count,
+  .module-count,
+  .course-count {
+    margin-top: 10px !important;
+    font-size: 17px !important;
+    line-height: 1.3 !important;
+  }
+
+  /* Barre progression */
+  .module-progress,
+  .module-progress-bar,
+  .progress-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 24px 0 12px !important;
+  }
+
+  .module-progress-label,
+  .module-percentage,
+  .progress-text {
+    font-size: 18px !important;
+    line-height: 1.3 !important;
+  }
+
+  /* Boutons module */
+  .module-actions,
+  .module-buttons {
+    width: 100% !important;
+
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+
+    margin-top: 24px !important;
+  }
+
+  .module-card .btn,
+  .module-card button,
+  .module-card a {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+  }
+
+  .module-actions a,
+  .module-actions button,
+  .module-buttons a,
+  .module-buttons button,
+  .continue-button,
+  .qcm-button {
+    min-height: 60px !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    padding: 14px 16px !important;
+
+    font-size: 18px !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+
+    white-space: normal !important;
+    word-break: normal !important;
+  }
+
+  /* =====================================================
+     PAGE LECTEUR DE COURS
+  ===================================================== */
+
+  .player-page,
+  .course-player-page,
+  .reader-page {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    margin: 0 auto !important;
+    padding: 0 12px 120px !important;
+  }
+
+  /* Header lecteur */
+  .player-header,
+  .course-player-header,
+  .reader-header {
+    width: calc(100% - 8px) !important;
+    max-width: calc(100% - 8px) !important;
+
+    margin: 0 auto 24px !important;
+    padding: 22px 16px !important;
+
+    overflow: hidden !important;
+  }
+
+  .player-header h1,
+  .course-player-header h1,
+  .reader-header h1 {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    font-size: clamp(32px, 8vw, 46px) !important;
+    line-height: 1.1 !important;
+
+    text-align: center !important;
+    white-space: normal !important;
+    overflow-wrap: break-word !important;
+  }
+
+  /* Carte vidéo */
+  .player-card,
+  .video-card,
+  .course-player-card,
+  .video-section {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    margin: 0 auto 28px !important;
+    padding: 18px 12px !important;
+
+    border-radius: 28px !important;
+    overflow: hidden !important;
+  }
+
+  /* Conteneur vidéo */
+  .video-container,
+  .player-video-container,
+  .course-video-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    aspect-ratio: 16 / 9 !important;
+
+    margin: 0 auto !important;
+    border-radius: 22px !important;
+    overflow: hidden !important;
+    background: #000 !important;
+  }
+
+  .video-container video,
+  .player-video-container video,
+  .course-video-container video,
+  video {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 100% !important;
+
+    display: block !important;
+    object-fit: contain !important;
+    background: #000 !important;
+  }
+
+  /* Support PDF et Favoris */
+  .player-actions,
+  .video-actions,
+  .course-actions {
+    width: 100% !important;
+
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+
+    margin-top: 18px !important;
+  }
+
+  .player-actions a,
+  .player-actions button,
+  .video-actions a,
+  .video-actions button,
+  .course-actions a,
+  .course-actions button,
+  .support-button,
+  .favorite-button {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    min-height: 58px !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    padding: 14px 16px !important;
+
+    font-size: 18px !important;
+    line-height: 1.2 !important;
+    text-align: center !important;
+
+    white-space: normal !important;
+  }
+
+  /* Bloc liste cours */
+  .course-list-card,
+  .courses-list-card,
+  .lesson-list-container,
+  .course-list-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    margin: 0 auto !important;
+    padding: 26px 16px 90px !important;
+
+    border-radius: 28px !important;
+    overflow: hidden !important;
+  }
+
+  /* Nom du module dans lecteur */
+  .course-list-card h2,
+  .courses-list-card h2,
+  .lesson-list-container h2,
+  .course-module-title {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin: 0 0 14px !important;
+
+    font-size: clamp(28px, 8vw, 40px) !important;
+    line-height: 1.12 !important;
+
+    white-space: normal !important;
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+  }
+
+  /* Progression lecteur */
+  .course-progress-text,
+  .player-progress-text,
+  .lesson-progress-text {
+    font-size: 17px !important;
+    line-height: 1.4 !important;
+  }
+
+  /* Recherche cours */
+  .course-search,
+  .lesson-search,
+  .course-list-search {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    min-height: 58px !important;
+    margin: 26px 0 20px !important;
+    padding: 0 18px !important;
+
+    font-size: 17px !important;
+    border-radius: 20px !important;
+  }
+
+  /* Ligne d'un cours */
+  .course-item,
+  .lesson-item,
+  .course-list-item {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    min-height: 66px !important;
+    margin-bottom: 12px !important;
+    padding: 16px 18px !important;
+
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+
+    font-size: 18px !important;
+    line-height: 1.3 !important;
+
+    white-space: normal !important;
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+
+    border-radius: 18px !important;
+  }
+
+  .course-item span,
+  .lesson-item span,
+  .course-list-item span {
+    min-width: 0 !important;
+
+    white-space: normal !important;
+    overflow-wrap: break-word !important;
+  }
+
+  /* Empêcher le bouton menu de cacher le dernier cours */
+  #pcr-mobile-menu-button {
+    right: 14px !important;
+    bottom: 24px !important;
+
+    width: 58px !important;
+    height: 58px !important;
+
+    border-radius: 20px !important;
+  }
+}
+
+/* =========================================================
+   PETITS TÉLÉPHONES
+========================================================= */
+
+@media screen and (max-width: 420px) {
+
+  .module-card-header,
+  .module-header {
+    grid-template-columns: 88px minmax(0, 1fr) !important;
+    gap: 14px !important;
+  }
+
+  .module-icon,
+  .module-card-icon,
+  .module-emoji {
+    width: 86px !important;
+    height: 86px !important;
+    min-width: 86px !important;
+
+    font-size: 44px !important;
+  }
+
+  .module-card h2,
+  .module-card h3,
+  .module-title,
+  .module-name {
+    font-size: 28px !important;
+  }
+
+  .player-header h1,
+  .course-player-header h1,
+  .reader-header h1 {
+    font-size: 32px !important;
+  }
+}
+
+/* =========================================================
+   PCR — MOBILE FIX V3
+   Modules compacts + Lecteur avec boutons visibles
+========================================================= */
+
+@media screen and (max-width: 768px) {
+
+  /* =====================================================
+     PAGE MODULES / COURS
+  ===================================================== */
+
+  .modules-grid,
+  .module-grid,
+  .modules-list {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 22px !important;
+
+    margin: 0 auto !important;
+    padding: 0 16px 110px !important;
+  }
+
+  .module-card {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    min-height: auto !important;
+    height: auto !important;
+
+    margin: 0 auto !important;
+    padding: 24px 20px !important;
+
+    overflow: hidden !important;
+  }
+
+  /* رأس الكارت: الأيقونة والاسم */
+  .module-card .module-header,
+  .module-card .module-top,
+  .module-card .module-info,
+  .module-card header {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    display: grid !important;
+    grid-template-columns: 92px minmax(0, 1fr) !important;
+    align-items: center !important;
+    gap: 16px !important;
+  }
+
+  /* أيقونة Module */
+  .module-card .module-icon,
+  .module-card .icon,
+  .module-card .module-emoji {
+    width: 88px !important;
+    height: 88px !important;
+    min-width: 88px !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    font-size: 45px !important;
+  }
+
+  /* اسم Module الطويل */
+  .module-card h2,
+  .module-card h3,
+  .module-card .module-title,
+  .module-card .title {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    margin: 0 !important;
+
+    font-size: clamp(25px, 7vw, 34px) !important;
+    line-height: 1.08 !important;
+    letter-spacing: -0.5px !important;
+
+    white-space: normal !important;
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+
+    overflow: visible !important;
+    text-overflow: initial !important;
+  }
+
+  /* Nombre de cours */
+  .module-card .course-count,
+  .module-card .courses-count,
+  .module-card .module-count {
+    grid-column: 1 / -1 !important;
+
+    margin: 8px 0 2px !important;
+
+    font-size: 18px !important;
+    line-height: 1.3 !important;
+  }
+
+  /* Barre de progression */
+  .module-card .progress,
+  .module-card .progress-bar,
+  .module-card .module-progress,
+  .module-card progress {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin-top: 18px !important;
+  }
+
+  .module-card .progress-text,
+  .module-card .progress-label,
+  .module-card .percentage {
+    margin-top: 10px !important;
+    font-size: 19px !important;
+  }
+
+  /* Boutons Module */
+  .module-card .module-actions,
+  .module-card .actions,
+  .module-card .buttons {
+    width: 100% !important;
+
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+
+    margin-top: 20px !important;
+  }
+
+  .module-card button,
+  .module-card .btn,
+  .module-card a.btn,
+  .module-card a.button {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    min-height: 58px !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    padding: 13px 15px !important;
+
+    font-size: 18px !important;
+    line-height: 1.2 !important;
+
+    white-space: normal !important;
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+    text-align: center !important;
+  }
+
+  /* =====================================================
+     PAGE LECTEUR DE COURS
+  ===================================================== */
+
+  .player-page,
+  .course-page,
+  .player-content {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    padding: 0 12px 110px !important;
+    margin: 0 auto !important;
+  }
+
+  .player-card,
+  .video-card,
+  .course-player-card,
+  .player-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    margin: 16px auto 24px !important;
+    padding: 18px 14px !important;
+
+    overflow: visible !important;
+  }
+
+  /* Container الفيديو */
+  .video-container,
+  .player-video-container,
+  .course-video-container,
+  .media-container {
+    width: 100% !important;
+    max-width: 100% !important;
+
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+
+    margin: 0 auto !important;
+
+    aspect-ratio: 16 / 9 !important;
+
+    background: #000 !important;
+    overflow: hidden !important;
+    border-radius: 20px !important;
+  }
+
+  /* الفيديو نفسه */
+  .video-container video,
+  .player-video-container video,
+  .course-video-container video,
+  .media-container video,
+  .player-card video,
+  video.course-video,
+  video#courseVideo {
+    display: block !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    height: 100% !important;
+    min-height: 0 !important;
+    max-height: none !important;
+
+    aspect-ratio: 16 / 9 !important;
+
+    object-fit: contain !important;
+    background: #000 !important;
+  }
+
+  /* أزرار Support وFavoris تحت الفيديو */
+  .player-actions,
+  .video-actions,
+  .course-actions,
+  .supports-actions,
+  .player-buttons {
+    position: relative !important;
+    inset: auto !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 12px !important;
+
+    margin: 18px auto 0 !important;
+    padding: 0 !important;
+
+    transform: none !important;
+    z-index: 2 !important;
+  }
+
+  .player-actions a,
+  .player-actions button,
+  .video-actions a,
+  .video-actions button,
+  .course-actions a,
+  .course-actions button,
+  .supports-actions a,
+  .supports-actions button,
+  .player-buttons a,
+  .player-buttons button {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    min-height: 58px !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 7px !important;
+
+    margin: 0 !important;
+    padding: 12px 8px !important;
+
+    font-size: 16px !important;
+    line-height: 1.2 !important;
+
+    white-space: normal !important;
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+    text-align: center !important;
+
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  /* Liste des cours تحت Player */
+  .course-list-card,
+  .courses-list-card,
+  .lesson-list-container,
+  .course-list-container {
+    position: relative !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin: 24px auto 0 !important;
+    padding: 24px 16px 100px !important;
+
+    transform: none !important;
+  }
+
+  /* زر Menu ما يغطيش Support أو الدروس */
+  #pcr-mobile-menu-button {
+    right: 14px !important;
+    bottom: 22px !important;
+
+    width: 58px !important;
+    height: 58px !important;
+  }
+}
+
+/* الهواتف الصغيرة */
+@media screen and (max-width: 420px) {
+
+  .module-card .module-header,
+  .module-card .module-top,
+  .module-card .module-info,
+  .module-card header {
+    grid-template-columns: 76px minmax(0, 1fr) !important;
+    gap: 12px !important;
+  }
+
+  .module-card .module-icon,
+  .module-card .icon,
+  .module-card .module-emoji {
+    width: 74px !important;
+    height: 74px !important;
+    min-width: 74px !important;
+
+    font-size: 39px !important;
+  }
+
+  .module-card h2,
+  .module-card h3,
+  .module-card .module-title,
+  .module-card .title {
+    font-size: 25px !important;
+  }
+
+  .player-actions,
+  .video-actions,
+  .course-actions,
+  .supports-actions,
+  .player-buttons {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* =========================================================
+   PCR — PLAYER MOBILE CLEAN FIX
+   Ne pas supprimer les anciens media queries
+========================================================= */
+
+@media screen and (max-width: 768px) {
+
+  /* ترتيب الصفحة: فيديو ثم الأزرار ثم القائمة */
+  .player-layout {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 20px !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    padding: 14px 12px 110px !important;
+  }
+
+  .player-main,
+  .player-sidebar {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    position: relative !important;
+    inset: auto !important;
+
+    margin: 0 !important;
+    transform: none !important;
+  }
+
+  /* الفيديو */
+  #videoPlayer {
+    display: block !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+
+    aspect-ratio: 16 / 9 !important;
+    object-fit: contain !important;
+
+    margin: 0 !important;
+    background: #000 !important;
+  }
+
+  /* الأزرار الأساسية تحت الفيديو */
+  .player-actions {
+    position: static !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+
+    margin: 16px 0 0 !important;
+    padding: 0 !important;
+
+    transform: none !important;
+  }
+
+  .player-actions > * {
+    position: static !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+
+    margin: 0 !important;
+    transform: none !important;
+  }
+
+  /* Supports */
+  .supports-list,
+  #quickSupports {
+    position: static !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 10px !important;
+
+    margin: 14px 0 0 !important;
+    padding: 0 !important;
+
+    transform: none !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  .support-item,
+  #quickSupports .support-item,
+  #quickSupports a {
+    position: static !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    min-height: 54px !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    margin: 0 !important;
+    padding: 12px 14px !important;
+
+    font-size: 17px !important;
+    line-height: 1.2 !important;
+
+    white-space: normal !important;
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+
+    transform: none !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  /* Sidebar: progression + recherche + cours */
+  .player-sidebar {
+    display: block !important;
+
+    padding: 22px 16px 100px !important;
+    border-radius: 22px !important;
+
+    max-height: none !important;
+    overflow: visible !important;
+  }
+
+  .sidebar-title,
+  .progress-box,
+  .search-input,
+  .course-list {
+    position: static !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+
+    transform: none !important;
+  }
+
+  .sidebar-title {
+    margin-top: 0 !important;
+    margin-bottom: 16px !important;
+
+    font-size: 28px !important;
+    line-height: 1.15 !important;
+
+    white-space: normal !important;
+    overflow-wrap: break-word !important;
+  }
+
+  .progress-box {
+    margin-bottom: 22px !important;
+  }
+
+  .search-input {
+    display: block !important;
+
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+
+    min-height: 54px !important;
+  }
+
+  .course-list {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 10px !important;
+  }
+
+  .course-item {
+    position: static !important;
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+    margin: 0 !important;
+    transform: none !important;
+  }
+
+  /* Menu بعيد قليلاً عن المحتوى */
+  #pcr-mobile-menu-button {
+    right: 14px !important;
+    bottom: 18px !important;
+  }
+}
+
+@media screen and (max-width: 420px) {
+
+  /* نبقي الـsupports ظاهرين في الهواتف الصغيرة */
+  .supports-list,
+  #quickSupports {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+  }
+
+  .support-item,
+  #quickSupports .support-item,
+  #quickSupports a {
+    display: flex !important;
+    width: 100% !important;
+  }
+}
+
+
+/* =========================================================
+   PCR — BOUTON COMMUNAUTÉ MOBILE
+========================================================= */
+
+.mobile-community-button {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .mobile-community-button {
+    position: fixed;
+    right: 18px;
+    bottom: calc(18px + env(safe-area-inset-bottom));
+
+    z-index: 9999;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+
+    min-height: 54px;
+    padding: 13px 19px;
+
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 999px;
+
+    background:
+      linear-gradient(
+        135deg,
+        #6d5dfc,
+        #d83d9f
+      );
+
+    color: #ffffff;
+
+    font-size: 15px;
+    font-weight: 850;
+    text-decoration: none;
+
+    box-shadow:
+      0 14px 35px rgba(80, 62, 230, 0.38),
+      0 0 22px rgba(216, 61, 159, 0.2);
+
+    -webkit-tap-highlight-color: transparent;
+
+    transition:
+      transform 0.2s ease,
+      box-shadow 0.2s ease;
+  }
+
+  .mobile-community-button:active {
+    transform: scale(0.95);
+  }
+
+  .mobile-community-icon {
+    display: grid;
+    place-items: center;
+
+    width: 29px;
+    height: 29px;
+
+    border-radius: 50%;
+
+    background: rgba(255, 255, 255, 0.16);
+
+    font-size: 17px;
+  }
+
+  .mobile-community-label {
+    line-height: 1;
+  }
+
+  body {
+    padding-bottom: 92px;
+  }
+}
+
+/* PCR MOBILE COMMUNITY BUTTON FIX START */
+
+@media screen and (max-width: 768px) {
+  body.pcr-pro-home {
+    padding-bottom:
+      calc(
+        108px +
+        env(safe-area-inset-bottom)
+      ) !important;
+  }
+
+  body.pcr-pro-home
+  #mobileCommunityButton,
+  body.pcr-pro-home
+  .mobile-community-button {
+    position: fixed !important;
+
+    left: 16px !important;
+    right: 96px !important;
+    bottom:
+      calc(
+        24px +
+        env(safe-area-inset-bottom)
+      ) !important;
+
+    width: auto !important;
+    max-width: none !important;
+    min-width: 0 !important;
+
+    height: 62px !important;
+    min-height: 62px !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    gap: 10px !important;
+
+    padding: 0 18px !important;
+
+    border:
+      1px solid
+      rgba(255, 255, 255, 0.25)
+      !important;
+
+    border-radius: 22px !important;
+
+    background:
+      linear-gradient(
+        135deg,
+        #6757ff 0%,
+        #a438e5 55%,
+        #d63c9e 100%
+      ) !important;
+
+    color: #ffffff !important;
+
+    box-shadow:
+      0 14px 38px
+      rgba(86, 64, 235, 0.42),
+      0 0 25px
+      rgba(204, 56, 166, 0.22)
+      !important;
+
+    text-decoration: none !important;
+
+    overflow: hidden !important;
+
+    z-index: 99997 !important;
+  }
+
+  body.pcr-pro-home
+  #mobileCommunityButton
+  .mobile-community-icon {
+    width: 36px !important;
+    height: 36px !important;
+
+    flex: 0 0 36px !important;
+
+    display: grid !important;
+    place-items: center !important;
+
+    border-radius: 13px !important;
+
+    background:
+      rgba(255, 255, 255, 0.15)
+      !important;
+
+    font-size: 20px !important;
+  }
+
+  body.pcr-pro-home
+  #mobileCommunityButton
+  .mobile-community-label {
+    min-width: 0 !important;
+
+    overflow: hidden !important;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+
+    font-size: 16px !important;
+    font-weight: 850 !important;
+    line-height: 1 !important;
+  }
+}
+
+/* PCR MOBILE COMMUNITY BUTTON FIX END */
+
+/* PCR CAPACITOR UNREAD BADGE START */
+html.pcr-native-app #mobileCommunityButton,
+html.pcr-native-app .mobile-community-button {
+  overflow: visible !important;
+}
+
+html.pcr-native-app .pcr-native-community-badge {
+  position: absolute;
+  top: -9px;
+  right: -9px;
+  min-width: 29px;
+  height: 29px;
+  padding: 0 7px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid #080b18;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #ff334f, #d91645);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 950;
+  line-height: 1;
+  box-shadow: 0 7px 20px rgba(255, 40, 78, 0.5);
+  z-index: 100001;
+}
+
+html.pcr-native-app .pcr-native-community-badge[hidden] {
+  display: none !important;
+}
+/* PCR CAPACITOR UNREAD BADGE END */

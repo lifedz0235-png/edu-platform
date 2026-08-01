@@ -11,6 +11,7 @@ const isAdminPage = currentPath.includes("/pages/admin/");
 function clearSession() {
   localStorage.removeItem("pcr_current_user");
   localStorage.removeItem("pcr_user_profile");
+  localStorage.removeItem("pcr_access_token");
 }
 
 function goToLogin() {

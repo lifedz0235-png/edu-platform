@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <title>Daily Checklist PCR</title>
+
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="/css/daily.css" />
+  <link rel="stylesheet" href="/css/trial-access.css?v=20260801-4">
+</head>
+
+<body class="auth-checking">
+
+  <main class="daily-page">
+
+    <header class="daily-header">
+
+      <button
+  id="continuePlatformBtn"
+  class="daily-back"
+  type="button"
+>
+  Continuer vers la plateforme →
+</button>
+
+      <div class="daily-header-text">
+        <span class="daily-kicker">
+  Bilan quotidien
+</span>
+
+<h1>Qu’avez-vous réalisé hier ?</h1>
+
+<p id="dailyDate">
+  Chargement de la date...
+</p>
+      </div>
+
+      <div class="daily-streak-card">
+
+        <span class="daily-streak-icon">
+          🔥
+        </span>
+
+        <div>
+          <strong id="streakCount">0</strong>
+          <span>jours de série</span>
+        </div>
+
+      </div>
+
+    </header>
+
+    <section class="daily-summary-grid">
+
+      <article class="daily-summary-card">
+
+        <span class="daily-summary-icon">
+          ✅
+        </span>
+
+        <div>
+          <strong id="completedTasks">
+            0 / 6
+          </strong>
+
+          <span>Tâches terminées</span>
+        </div>
+
+      </article>
+
+      <article class="daily-summary-card">
+
+        <span class="daily-summary-icon">
+          ⚡
+        </span>
+
+        <div>
+          <strong id="totalXp">
+            0 XP
+          </strong>
+
+          <span>Expérience totale</span>
+        </div>
+
+      </article>
+
+      <article class="daily-summary-card">
+
+        <span class="daily-summary-icon">
+          🏆
+        </span>
+
+        <div>
+          <strong id="badgeCount">
+            0
+          </strong>
+
+          <span>Badges débloqués</span>
+        </div>
+
+      </article>
+
+    </section>
+
+    <section class="daily-main-grid">
+
+      <article class="daily-card daily-checklist-card">
+
+        <div class="daily-section-head">
+
+          <div>
+            <span class="daily-section-kicker">
+  Bilan d’hier
+</span>
+
+<h2>Ce que j’ai réalisé hier</h2>
+          </div>
+
+          <div class="daily-head-actions">
+
+  <button
+    id="addActivityBtn"
+    class="daily-add-btn"
+    type="button"
+  >
+    + Ajouter une activité
+  </button>
+
+  <button
+    id="resetDailyBtn"
+    class="daily-reset-btn"
+    type="button"
+  >
+    Réinitialiser
+  </button>
+
+</div>
+
+        </div>
+
+        <div class="daily-progress-block">
+
+          <div class="daily-progress-head">
+
+            <span>Progression du bilan</span>
+
+            <strong id="dailyProgressText">
+              0%
+            </strong>
+
+          </div>
+
+          <div class="daily-progress-track">
+
+            <div
+              id="dailyProgressBar"
+              class="daily-progress-bar"
+            ></div>
+
+          </div>
+
+        </div>
+
+        <div id="dailyTasks" class="daily-tasks"></div>
+
+        <div
+          id="dailySuccess"
+          class="daily-success hidden"
+        >
+
+          <span>🎉</span>
+
+          <div>
+            <strong>
+  Bilan terminé !
+</strong>
+
+<p>
+  Bravo, vous avez validé toutes les tâches
+  réalisées hier. Bonus de 150 XP.
+</p>
+          </div>
+
+        </div>
+
+      </article>
+
+      <aside class="daily-side-column">
+
+        <article class="daily-card">
+
+          <div class="daily-section-head">
+
+            <div>
+              <span class="daily-section-kicker">
+                Régularité
+              </span>
+
+              <h2>Calendrier</h2>
+            </div>
+
+            <strong id="calendarMonth">
+              —
+            </strong>
+
+          </div>
+
+          <div class="daily-calendar-weekdays">
+            <span>L</span>
+            <span>M</span>
+            <span>M</span>
+            <span>J</span>
+            <span>V</span>
+            <span>S</span>
+            <span>D</span>
+          </div>
+
+          <div
+            id="dailyCalendar"
+            class="daily-calendar"
+          ></div>
+
+          <div class="daily-calendar-legend">
+
+            <span>
+              <i class="calendar-dot completed"></i>
+              Terminée
+            </span>
+
+            <span>
+              <i class="calendar-dot today"></i>
+              Bilan actuel
+            </span>
+
+          </div>
+
+        </article>
+
+        <article class="daily-card">
+
+          <div class="daily-section-head">
+
+            <div>
+              <span class="daily-section-kicker">
+                Récompenses
+              </span>
+
+              <h2>Mes badges</h2>
+            </div>
+
+          </div>
+
+          <div id="dailyBadges" class="daily-badges"></div>
+
+        </article>
+
+      </aside>
+
+    </section>
+
+  </main>
+
+  <div
+    id="xpToast"
+    class="xp-toast hidden"
+  >
+    +20 XP
+  </div>
+
+  <div
+  id="motivationModal"
+  class="motivation-modal hidden"
+  role="dialog"
+  aria-modal="true"
+  aria-labelledby="motivationModalTitle"
+>
+  <div class="motivation-modal-backdrop"></div>
+
+  <div class="motivation-modal-card">
+    <span
+      id="motivationModalIcon"
+      class="motivation-modal-icon"
+    >
+      🔥
+    </span>
+
+    <h2 id="motivationModalTitle">
+      Message
+    </h2>
+
+    <p id="motivationModalMessage"></p>
+
+    <div
+      id="motivationModalPercent"
+      class="motivation-modal-percent"
+    >
+      0 %
+    </div>
+
+    <button
+      id="motivationModalBtn"
+      class="motivation-modal-btn"
+      type="button"
+    >
+      Continuer
+    </button>
+  </div>
+</div>
+
+  <script src="/js/auth-guard.js"></script>
+  <script src="/js/daily.js"></script>
+
+<script src="/js/trial-access.js?v=20260801-4"></script>
+  <script src="/js/secure-logout.js?v=20260801-6"></script>
+</body>
+</html>

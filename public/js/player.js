@@ -10,7 +10,37 @@ let currentCourseIndex = 0;
 let currentModule = null;
 let currentCourse = null;
 
-document.addEventListener("DOMContentLoaded", initPlayer);
+document.addEventListener(
+  "DOMContentLoaded",
+  async () => {
+    try {
+      readUrlParams();
+
+      const trialAccess =
+        window.PCRTrialReady
+          ? await window.PCRTrialReady
+          : null;
+
+      if (
+        trialAccess &&
+        !trialAccess.isModuleAllowed(
+          currentCategory,
+          currentModuleName
+        )
+      ) {
+        trialAccess.showBlockedOverlay();
+        return;
+      }
+
+      await initPlayer();
+    } catch (error) {
+      console.error(
+        "Erreur initialisation player:",
+        error
+      );
+    }
+  }
+);
 
 async function initPlayer() {
   await loadData();

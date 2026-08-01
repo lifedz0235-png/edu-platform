@@ -4,22 +4,78 @@
   <meta charset="UTF-8" />
   <title>Admin PCR</title>
   <link rel="stylesheet" href="/css/admin.css" />
+  <link rel="stylesheet" href="/css/mobile-responsive.css">
 </head>
-<body>
+<body class="auth-checking">
 
 <main class="admin-page">
   <a href="/" class="back-btn">← Accueil</a>
 
   <header class="admin-header">
+
+  <div>
     <h1>Admin Panel PCR</h1>
-    <p>Gestion des pré-inscriptions et utilisateurs.</p>
-  </header>
+
+    <p>
+      Gestion des pré-inscriptions et utilisateurs.
+    </p>
+  </div>
+
+  <button
+    id="notificationBell"
+    class="notification-bell"
+    type="button"
+    aria-label="Notifications"
+  >
+    🔔
+
+    <span
+      id="notificationBadge"
+      class="notification-badge hidden"
+    >
+      0
+    </span>
+  </button>
+
+</header>
 
   <section class="admin-stats">
     <div><strong id="totalUsers">0</strong><span>Utilisateurs</span></div>
     <div><strong id="pendingUsers">0</strong><span>En attente</span></div>
     <div><strong id="approvedUsers">0</strong><span>Approuvés</span></div>
   </section>
+
+  <section
+  id="notificationsPanel"
+  class="admin-card notifications-panel hidden"
+>
+
+  <div class="section-head">
+
+    <div>
+      <h2>🔔 Notifications</h2>
+
+      <p>
+        Demandes, paiements et abonnements.
+      </p>
+    </div>
+
+    <button
+      id="markNotificationsRead"
+      class="reset"
+      type="button"
+    >
+      Tout marquer comme lu
+    </button>
+
+  </div>
+
+  <div
+    id="notificationsList"
+    class="notifications-list"
+  ></div>
+
+</section>
 
   <section class="admin-card">
     <h2>Demandes d’inscription</h2>
@@ -36,6 +92,41 @@
 </div>
     <div id="usersTable"></div>
   </section>
+
+
+<section class="admin-card community-reports-card">
+  <div class="section-head">
+    <div>
+      <h2>🚩 Signalements Community</h2>
+      <p>
+        Examiner les contenus signalés, supprimer le contenu
+        ou suspendre l’auteur.
+      </p>
+    </div>
+
+    <span id="communityReportsBadge" class="reports-badge">0 ouvert</span>
+  </div>
+
+  <div class="admin-tools reports-tools">
+    <select id="communityReportsFilter">
+      <option value="all">Tous les signalements</option>
+      <option value="open">Ouverts</option>
+      <option value="reviewing">En cours</option>
+      <option value="resolved">Résolus</option>
+      <option value="dismissed">Ignorés</option>
+    </select>
+
+    <button
+      id="refreshCommunityReports"
+      class="reset"
+      type="button"
+    >Actualiser</button>
+  </div>
+
+  <div id="communityReportsList" class="community-reports-list">
+    <p>Chargement des signalements...</p>
+  </div>
+</section>
 
 <section class="admin-card">
   <div class="section-head">
@@ -88,9 +179,32 @@
     </div>
 
     <div class="modal-grid">
+      <div>
+  <strong>Montant payé</strong>
+  <span id="modalPaidAmount"></span>
+</div>
+
+<div>
+  <strong>Reste à payer</strong>
+  <span id="modalRemainingAmount"></span>
+</div>
       <div><strong>Téléphone</strong><span id="modalPhone"></span></div>
       <div><strong>Université</strong><span id="modalUniversity"></span></div>
       <div><strong>Promotion</strong><span id="modalPromotion"></span></div>
+      <div>
+  <strong>Pack</strong>
+  <span id="modalPlan"></span>
+</div>
+
+<div>
+  <strong>Prix</strong>
+  <span id="modalPrice"></span>
+</div>
+
+<div>
+  <strong>Paiement</strong>
+  <span id="modalPayment"></span>
+</div>
       <div><strong>Statut</strong><span id="modalStatus"></span></div>
       <div><strong>Publications</strong><span id="modalPosts"></span></div>
       <div><strong>Commentaires</strong><span id="modalComments"></span></div>
@@ -99,11 +213,36 @@
     </div>
 
     <div class="modal-actions">
-      <button id="modalApprove" class="approve">Approuver</button>
-      <button id="modalSuspend" class="suspend">Suspendre</button>
-      <button id="modalReset" class="reset">Mot de passe</button>
-      <button id="modalDelete" class="delete">Supprimer</button>
-    </div>
+
+  <button
+    id="modalConfirmPayment"
+    class="confirm-payment"
+  >
+    Paiement confirmé & Activer
+  </button>
+
+  <button
+    id="modalRefuse"
+    class="refuse"
+  >
+    Refuser
+  </button>
+
+  <button
+    id="modalSuspend"
+    class="suspend"
+  >
+    Suspendre
+  </button>
+
+  <button
+    id="modalDelete"
+    class="delete"
+  >
+    Supprimer
+  </button>
+
+</div>
   </div>
 </div>
 
@@ -111,5 +250,8 @@
 
 <script src="/js/auth-guard.js"></script>
 <script src="/js/admin.js"></script>
-<body class="auth-checking">
+
+  <script src="/js/mobile-menu.js"></script>
+  <script src="/js/secure-logout.js?v=20260801-6"></script>
+</body>
 </html>
