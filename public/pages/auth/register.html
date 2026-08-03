@@ -79,13 +79,33 @@
   required
 />
 
-<input
-  id="password"
-  type="password"
-  placeholder="Mot de passe *"
-  autocomplete="new-password"
-  required
-/>
+<div class="password-field">
+  <input
+    id="password"
+    type="password"
+    placeholder="Mot de passe *"
+    autocomplete="new-password"
+    required
+  />
+
+  <button
+    type="button"
+    id="togglePassword"
+    class="password-toggle"
+    aria-label="Afficher le mot de passe"
+    aria-controls="password"
+    aria-pressed="false"
+  >
+    <svg viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12Z"></path>
+      <circle cx="12" cy="12" r="3"></circle>
+      <path
+        class="password-eye-slash"
+        d="M4 4 20 20"
+      ></path>
+    </svg>
+  </button>
+</div>
 
 <input
   id="phone"
