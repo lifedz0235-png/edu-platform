@@ -156,3 +156,36 @@ if (!data.plan) {
     }
   );
 });
+
+const pcrPasswordInput =
+  document.getElementById("password");
+
+const pcrPasswordToggle =
+  document.getElementById("togglePassword");
+
+if (pcrPasswordInput && pcrPasswordToggle) {
+  pcrPasswordToggle.addEventListener("click", () => {
+    const showPassword =
+      pcrPasswordInput.type === "password";
+
+    pcrPasswordInput.type =
+      showPassword ? "text" : "password";
+
+    pcrPasswordToggle.classList.toggle(
+      "is-visible",
+      showPassword
+    );
+
+    pcrPasswordToggle.setAttribute(
+      "aria-pressed",
+      String(showPassword)
+    );
+
+    pcrPasswordToggle.setAttribute(
+      "aria-label",
+      showPassword
+        ? "Masquer le mot de passe"
+        : "Afficher le mot de passe"
+    );
+  });
+}
