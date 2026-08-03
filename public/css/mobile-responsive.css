@@ -2506,3 +2506,35 @@ html.pcr-native-app .pcr-native-community-badge[hidden] {
   display: none !important;
 }
 /* PCR CAPACITOR UNREAD BADGE END */
+/* Fix: password eye button inside Android WebView */
+.auth-card .password-field {
+  position: relative !important;
+}
+
+.auth-card .password-field #password {
+  padding-right: 64px !important;
+}
+
+.auth-card .password-field > .password-toggle {
+  position: absolute !important;
+  top: 4px !important;
+  right: 8px !important;
+  bottom: auto !important;
+  left: auto !important;
+  z-index: 3 !important;
+
+  display: grid !important;
+  place-items: center !important;
+
+  width: 42px !important;
+  min-width: 42px !important;
+  max-width: 42px !important;
+  height: 42px !important;
+  min-height: 42px !important;
+
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  border-radius: 50% !important;
+  background: transparent !important;
+}
