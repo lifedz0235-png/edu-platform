@@ -14,6 +14,9 @@ import rateLimit from "express-rate-limit";
 
 const app = express();
 
+// Nginx est l'unique proxy devant Express.
+app.set("trust proxy", 1);
+
 const PASSWORD_SALT_ROUNDS = 12;
 
 const JWT_SECRET = String(
@@ -3207,6 +3210,7 @@ const loginRateLimiter = rateLimit({
 
   standardHeaders: "draft-7",
   legacyHeaders: false,
+  skipSuccessfulRequests: true,
 
   message: {
     error:
