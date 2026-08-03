@@ -6,16 +6,63 @@ const publicPages = [
 ];
 
 const isPublicPage = publicPages.includes(currentPath);
-const isAdminPage = currentPath.includes("/pages/admin/");
+const isAdminPage =
+  currentPath.includes("/pages/admin/");
+
+const SESSION_CHECK_INTERVAL_MS = 30 * 1000;
+
+let sessionCheckInProgress = false;
+let redirectingToLogin = false;
+
+function stopProtectedMedia() {
+  document
+    .querySelectorAll("video, audio")
+    .forEach((media) => {
+      try {
+        media.pause();
+        media.removeAttribute("src");
+        media.load();
+      } catch (error) {
+        console.warn(
+          "Impossible d’arrêter le média :",
+          error
+        );
+      }
+    });
+}
 
 function clearSession() {
+  stopProtectedMedia();
+
   localStorage.removeItem("pcr_current_user");
   localStorage.removeItem("pcr_user_profile");
   localStorage.removeItem("pcr_access_token");
 }
 
-function goToLogin() {
-  window.location.replace("/pages/auth/login.html");
+function goToLogin(message = "") {
+  if (redirectingToLogin) {
+    return;
+  }
+
+  redirectingToLogin = true;
+
+  if (message) {
+    try {
+      sessionStorage.setItem(
+        "pcr_session_message",
+        message
+      );
+    } catch (error) {
+      console.warn(
+        "Impossible d’enregistrer le message :",
+        error
+      );
+    }
+  }
+
+  window.location.replace(
+    "/pages/auth/login.html"
+  );
 }
 
 function goToHome() {
@@ -24,46 +71,92 @@ function goToHome() {
 
 async function verifySession() {
   if (isPublicPage) {
-    document.body?.classList.remove("auth-checking");
-    document.body?.classList.add("auth-allowed");
-    return;
-  }
-
-  let currentUser = null;
-
-  try {
-    currentUser = JSON.parse(
-      localStorage.getItem("pcr_current_user")
+    document.body?.classList.remove(
+      "auth-checking"
     );
-  } catch (error) {
-    clearSession();
-  }
 
-  if (!currentUser) {
-    goToLogin();
+    document.body?.classList.add(
+      "auth-allowed"
+    );
+
     return;
   }
 
-  const deviceId = localStorage.getItem("pcr_device_id");
+  if (
+    sessionCheckInProgress ||
+    redirectingToLogin
+  ) {
+    return;
+  }
+
+  sessionCheckInProgress = true;
 
   try {
-    const res = await fetch("/api/auth/check-session", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json"
-      },
-      body: JSON.stringify({
-        userId: currentUser.id,
-        deviceId
-      })
-    });
+    let currentUser = null;
 
-    const result = await res.json();
+    try {
+      currentUser = JSON.parse(
+        localStorage.getItem(
+          "pcr_current_user"
+        )
+      );
+    } catch (error) {
+      clearSession();
+    }
+
+    if (!currentUser?.id) {
+      clearSession();
+      goToLogin();
+      return;
+    }
+
+    const deviceId =
+      localStorage.getItem("pcr_device_id");
+
+    if (!deviceId) {
+      clearSession();
+
+      goToLogin(
+        "Session invalide. Veuillez vous reconnecter."
+      );
+
+      return;
+    }
+
+    const res = await fetch(
+      "/api/auth/check-session",
+      {
+        method: "POST",
+
+        cache: "no-store",
+
+        headers: {
+          "Content-Type": "application/json"
+        },
+
+        body: JSON.stringify({
+          userId: currentUser.id,
+          deviceId
+        })
+      }
+    );
+
+    let result = {};
+
+    try {
+      result = await res.json();
+    } catch (error) {
+      result = {};
+    }
 
     if (!res.ok || !result.valid) {
       clearSession();
-      alert(result.error || "Session expirée.");
-      goToLogin();
+
+      goToLogin(
+        result.error ||
+        "Session expirée. Veuillez vous reconnecter."
+      );
+
       return;
     }
 
@@ -72,23 +165,69 @@ async function verifySession() {
       JSON.stringify(result.user)
     );
 
-    const role = String(result.user.role || "").toLowerCase();
+    const role = String(
+      result.user.role || ""
+    ).toLowerCase();
 
-    if (isAdminPage && role !== "admin") {
-      alert("Accès réservé à l’administrateur.");
+    if (
+      isAdminPage &&
+      role !== "admin"
+    ) {
       goToHome();
       return;
     }
 
-    document.body?.classList.remove("auth-checking");
-    document.body?.classList.add("auth-allowed");
+    document.body?.classList.remove(
+      "auth-checking"
+    );
+
+    document.body?.classList.add(
+      "auth-allowed"
+    );
 
   } catch (error) {
-    console.error("Erreur de session :", error);
-    clearSession();
-    alert("Impossible de vérifier votre session.");
-    goToLogin();
+    console.error(
+      "Erreur temporaire de vérification :",
+      error
+    );
+
+    /*
+      Une coupure réseau temporaire ne doit pas
+      déconnecter l’utilisateur ni supprimer sa session.
+    */
+    document.body?.classList.remove(
+      "auth-checking"
+    );
+
+    document.body?.classList.add(
+      "auth-allowed"
+    );
+
+  } finally {
+    sessionCheckInProgress = false;
   }
 }
 
 verifySession();
+
+if (!isPublicPage) {
+  window.setInterval(() => {
+    if (!document.hidden) {
+      verifySession();
+    }
+  }, SESSION_CHECK_INTERVAL_MS);
+
+  window.addEventListener(
+    "focus",
+    verifySession
+  );
+
+  document.addEventListener(
+    "visibilitychange",
+    () => {
+      if (!document.hidden) {
+        verifySession();
+      }
+    }
+  );
+}

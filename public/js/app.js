@@ -1538,35 +1538,94 @@ setupAutoNextAndModuleCelebration();
 
 
 
-const logoutBtn = document.getElementById("logoutBtn");
+const logoutBtn =
+  document.getElementById("logoutBtn");
 
 if (logoutBtn) {
-  logoutBtn.addEventListener("click", async () => {
-    const user = JSON.parse(localStorage.getItem("pcr_current_user"));
-    const deviceId = localStorage.getItem("pcr_device_id");
-    const accessToken = localStorage.getItem("pcr_access_token");
+  logoutBtn.addEventListener(
+    "click",
+    async () => {
+      let user = null;
 
-    if (user) {
-      await fetch("/api/auth/logout", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "Authorization": "Bearer " + accessToken
-        },
-        body: JSON.stringify({
-          userId: user.id,
-          deviceId
-        })
-      });
+      try {
+        user = JSON.parse(
+          localStorage.getItem(
+            "pcr_current_user"
+          )
+        );
+      } catch (error) {
+        console.warn(
+          "Session locale invalide :",
+          error
+        );
+      }
+
+      const deviceId =
+        localStorage.getItem(
+          "pcr_device_id"
+        );
+
+      logoutBtn.disabled = true;
+
+      try {
+        /*
+          Cette route fonctionne même si le JWT
+          est expiré ou déjà invalidé.
+        */
+        if (user?.id && deviceId) {
+          await fetch(
+            "/api/auth/logout-device",
+            {
+              method: "POST",
+
+              headers: {
+                "Content-Type":
+                  "application/json"
+              },
+
+              body: JSON.stringify({
+                userId: user.id,
+                deviceId
+              })
+            }
+          );
+        }
+
+      } catch (error) {
+        console.warn(
+          "Déconnexion serveur impossible :",
+          error
+        );
+
+      } finally {
+        /*
+          Toujours nettoyer le téléphone/PC,
+          même si le serveur ne répond pas.
+        */
+        localStorage.removeItem(
+          "pcr_current_user"
+        );
+
+        localStorage.removeItem(
+          "pcr_user_profile"
+        );
+
+        localStorage.removeItem(
+          "pcr_access_token"
+        );
+
+        sessionStorage.removeItem(
+          "pcr_session_message"
+        );
+
+        window.location.replace(
+          "/pages/auth/login.html"
+        );
+      }
     }
-
-    localStorage.removeItem("pcr_current_user");
-    localStorage.removeItem("pcr_user_profile");
-    localStorage.removeItem("pcr_access_token");
-
-    window.location.href = "/pages/auth/login.html";
-  });
+  );
 }
+
 
 const adminNavBtn = document.getElementById("adminNavBtn");
 
