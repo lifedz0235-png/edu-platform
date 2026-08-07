@@ -2783,7 +2783,7 @@ if (
   await hashUserPassword(cleanPassword);
 
   const newUser = {
-    id: Date.now(),
+    id: crypto.randomUUID(),
 
     name: cleanName,
     email: cleanEmail,
