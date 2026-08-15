@@ -2482,7 +2482,7 @@ function checkExpiredPlatinumSubscriptions() {
       // نرجع حساب الشهر الحالي للصفر
       user.totalPaid = 0;
       user.currentPeriodPaid = 0;
-      user.remainingAmount = 12000;
+      user.remainingAmount = 8000;
 
       user.expiredAt =
         new Date().toISOString();
@@ -2811,8 +2811,8 @@ promotion: cleanPromotion,
       : "monthly",
 
     subscriptionPrice: isGold
-      ? 140000
-      : 12000,
+      ? 80000
+      : 8000,
 
     subscriptionCurrency: "DZD",
 
@@ -2824,8 +2824,8 @@ lifetimePaid: 0,
 currentPeriodPaid: 0,
 
 remainingAmount: isGold
-  ? 140000
-  : 12000,
+  ? 80000
+  : 8000,
 
 payments: [],
 expiredAt: null,
@@ -3304,7 +3304,7 @@ app.post(
 
         return res.status(403).json({
           error:
-            "Votre abonnement Platinum est expiré. Renouvelez votre paiement de 12 000 DA. Support : 0771 73 92 06."
+            "Votre abonnement Platinum est expiré. Renouvelez votre paiement de 8 000 DA. Support : 0771 73 92 06."
         });
       }
 
@@ -4143,9 +4143,9 @@ app.post(
 
     const requiredAmount =
       user.plan === "gold"
-        ? 140000
+        ? 80000
         : user.plan === "platinum"
-          ? 12000
+          ? 8000
           : 0;
 
     if (!requiredAmount) {
@@ -4183,7 +4183,7 @@ const previousPaid =
     if (isExpiredPlatinum) {
   user.totalPaid = 0;
   user.currentPeriodPaid = 0;
-  user.remainingAmount = 12000;
+  user.remainingAmount = 8000;
 }
 
     const now = new Date();
@@ -4258,7 +4258,7 @@ const previousPaid =
       user.subscriptionEndDate =
         endDate.toISOString();
 
-      user.currentPeriodPaid = 12000;
+      user.currentPeriodPaid = 8000;
     }
 
     if (user.plan === "gold") {
