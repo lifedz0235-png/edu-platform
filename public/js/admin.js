@@ -379,7 +379,7 @@ function renderUsers(users) {
         ${users.map(user => `
           <tr>
             <td>
-  <button class="user-link" onclick="openUserDetails(${user.id})">
+  <button class="user-link" onclick="openUserDetails('${user.id}')">
     ${user.name || ""}
   </button>
 </td>
@@ -454,7 +454,7 @@ function renderUsers(users) {
       ? `
         <button
           class="confirm-payment"
-          onclick="confirmPaymentAndActivate(${user.id})"
+          onclick="confirmPaymentAndActivate('${user.id}')"
         >
           Paiement confirmé
         </button>
@@ -468,21 +468,21 @@ function renderUsers(users) {
 
   <button
     class="refuse"
-    onclick="refuseUser(${user.id})"
+    onclick="refuseUser('${user.id}')"
   >
     Refuser
   </button>
 
   <button
     class="suspend"
-    onclick="suspendUser(${user.id})"
+    onclick="suspendUser('${user.id}')"
   >
     Suspendre
   </button>
 
   <button
     class="delete"
-    onclick="deleteUser(${user.id})"
+    onclick="deleteUser('${user.id}')"
   >
     Supprimer
   </button>
